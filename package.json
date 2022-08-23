@@ -1,0 +1,9 @@
+{
+  "name": "homeq-satellite",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node node/update.mjs"
+  },
+  "license": "MIT"
+}

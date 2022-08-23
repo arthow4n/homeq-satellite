@@ -1,0 +1,195 @@
+<html>
+  <head>
+    <title>homeq-satellite</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <meta name="robots" content="noindex" />
+    <meta name="robots" content="nofollow" />
+
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/gridjs/dist/theme/mermaid.min.css"
+    />
+  </head>
+  <body>
+    <main>
+      <h1>homeq-satellite</h1>
+      <p><a href="https://github.com/arthow4n/homeq-satellite">GitHub</a></p>
+      <p>Last updated: <span id="lastUpdatedAt"></span></p>
+      <p>Main filter:</p>
+      <pre id="mainFilter"></pre>
+
+      <ul>
+        <li>
+          Hold shift and click on table header to use multiple columns for
+          sorting.
+        </li>
+        <li>
+          -1 days of queue req. means the sorting mode is random, 9999 days
+          means we didn't fetch the data for it.
+        </li>
+      </ul>
+    </main>
+    <script src="https://unpkg.com/gridjs/dist/gridjs.umd.js"></script>
+    <script>
+      const mainFilter = (x) => {
+        return x
+          .filter((r) =>
+            ["göteborg", "mölndal"].includes(
+              r.address.city?.toLocaleLowerCase("sv")
+            )
+          )
+          .filter((r) => !r.short_lease)
+          .filter((r) => r.audience !== "student");
+      };
+
+      const openExternalLink = (link) => {
+        window.open(link, "_blank", "noopener,noreferrer");
+      };
+
+      const openSearchResult = (r) => {
+        openExternalLink(`https://www.homeq.se/lagenhet/${r.id}`);
+        if (r.floor_plan) {
+          window.open(r.floor_plan, "_blank", "noopener,noreferrer");
+        }
+      };
+
+      fetch("./searchResults.json")
+        .then((res) => res.json())
+        .then(
+          async ({ lastUpdatedAt, searchResults: unsortedSearchResults }) => {
+            const searchResults = unsortedSearchResults.sort((a, b) => {
+              return a.publish_date.localeCompare(b.publish_date, "sv") * -1;
+            });
+
+            window.searchResults = searchResults;
+            const lastUpdatedAtDate = new Date(lastUpdatedAt);
+            const hoursSinceLastUpdated = Math.floor(
+              (lastUpdatedAtDate - Date.now()) / 1000 / 60 / 60
+            );
+            document.getElementById(
+              "lastUpdatedAt"
+            ).innerText = `${lastUpdatedAtDate.toLocaleString()} (${new Intl.RelativeTimeFormat().format(
+              hoursSinceLastUpdated,
+              "hour"
+            )})`;
+            document.getElementById("mainFilter").innerText = mainFilter
+              .toString()
+              .split("\n")
+              .slice(1, -1)
+              .join("\n");
+
+            const tableDiv = document.createElement("div");
+            document.body.appendChild(tableDiv);
+
+            new gridjs.Grid({
+              style: {
+                table: {
+                  width: "100%",
+                },
+              },
+              sort: {
+                enabled: true,
+                multiColumn: true,
+              },
+              pagination: {
+                enabled: true,
+                limit: 1000,
+                summary: true,
+              },
+              columns: [
+                {
+                  name: "ID",
+                  width: "100px",
+                  formatter: (cell) => {
+                    return gridjs.h(
+                      "button",
+                      {
+                        className: "openSearchResult",
+                        onclick: () => {
+                          const r = searchResults.find((x) => x.id === cell);
+                          openSearchResult(r);
+                        },
+                      },
+                      cell
+                    );
+                  },
+                },
+                {
+                  name: "Address",
+                  formatter: (r) => {
+                    const address = `${r.address.street} ${r.address.street_number}, ${r.address.municipality}`;
+                    const link = (text, href) =>
+                      gridjs.h(
+                        "a",
+                        {
+                          href,
+                          target: "_blank",
+                          rel: "noopener noreferrer",
+                        },
+                        text
+                      );
+
+                    return gridjs.h("span", {}, [
+                      link(
+                        address,
+                        `https://www.google.com/maps/place/${encodeURIComponent(
+                          address
+                        )}/`
+                      ),
+                      " (",
+                      link("HQ", `https://www.homeq.se/lagenhet/${r.id}`),
+                      r.floor_plan ? ", " : "",
+                      r.floor_plan
+                        ? link("Plan", `https://www.homeq.se/lagenhet/${r.id}`)
+                        : "",
+                      ")",
+                    ]);
+                  },
+                },
+                {
+                  name: "Rooms",
+                  width: "120px",
+                },
+                {
+                  name: "Size",
+                  width: "120px",
+                  formatter: (cell) => `${cell} m2`,
+                },
+                {
+                  name: "Rent",
+                  width: "120px",
+                  formatter: (cell) => `${cell} kr`,
+                },
+                {
+                  name: "Queue req.",
+                  width: "160px",
+                  formatter: (cell) => `${cell} days`,
+                },
+                "Access date",
+                "Published on",
+              ],
+              data: mainFilter(searchResults).map((r) => {
+                return [
+                  r.id,
+                  r,
+                  Array.isArray(r.rooms) ? r.rooms.sort()[0] : r.rooms,
+                  Array.isArray(r.area) ? r.area.sort()[0] : r.area,
+                  Array.isArray(r.rent) ? r.rent.sort()[0] : r.rent,
+                  r.sorting_mode === "random"
+                    ? -1
+                    : r.$object_ad
+                    ? r.$object_ad.last_accept
+                    : 9999,
+                  Array.isArray(r.access_date)
+                    ? r.access_date.sort()[0]
+                    : r.access_date,
+                  r.publish_date,
+                ];
+              }),
+            }).render(tableDiv);
+          }
+        );
+    </script>
+  </body>
+</html>

@@ -1,0 +1,21 @@
+on:
+  schedule:
+    - cron: 39 */3 * * *
+
+jobs:
+  self-update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 18
+      - name: Generate the update
+        run: npm start
+      - name: Commit and push the update
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add --all
+          git commit -am "Self-update"
+          git push
