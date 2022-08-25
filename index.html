@@ -141,7 +141,7 @@
                       link("HQ", `https://www.homeq.se/lagenhet/${r.id}`),
                       r.floor_plan ? ", " : "",
                       r.floor_plan
-                        ? link("Plan", `https://www.homeq.se/lagenhet/${r.id}`)
+                        ? link("Plan", r.floor_plan)
                         : "",
                       ")",
                     ]);
