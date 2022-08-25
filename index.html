@@ -19,18 +19,12 @@
       <p>Main filter:</p>
       <pre id="mainFilter"></pre>
 
-      <ul>
-        <li>
-          Hold shift and click on table header to use multiple columns for
-          sorting.
-        </li>
-        <li>
-          -1 days of queue req. means the sorting mode is random, 9999 days
-          means we didn't fetch the data for it.
-        </li>
-      </ul>
       <p>
         Custom filters:
+        <br />
+        <label
+          >Cities/Municipalities (split by ,): <input id="cities-input"
+        /></label>
         <br />
         <label
           >Base coordinate (latitude,lontitude) used for calculating distance:
@@ -40,13 +34,19 @@
         <label>Max rent: <input id="max-rent-input" /></label>
         <br />
         <label
-          >In queue since: <input id="in-queue-since-input" />
+          >In queue since (show only apartments that meet queue day requirements
+          to be in top 10 applicants) (yyyy-MM-dd):
+          <input id="in-queue-since-input" />
           <span id="in-queue-for-days"></span
         ></label>
       </p>
       <p>
         Search result count (custom filtered / main filtered / all results):
         <span id="search-result-count"></span>
+      </p>
+      <p>
+        Hold shift and click on table header to use multiple columns for
+        sorting.
       </p>
       <p>Showing custom filtered results:</p>
     </main>
@@ -55,13 +55,10 @@
       const enRelativeTimeFormat = new Intl.RelativeTimeFormat("en-GB");
       const defaultBaseCoord = { lat: 57.707374, lng: 11.939192 };
       const defaultMaximumRent = 999999;
+      const defaultCities = "Göteborg,Mölndal";
+
       const mainFilter = (x) => {
         return x
-          .filter((r) =>
-            ["göteborg", "mölndal"].includes(
-              r.address.city?.toLocaleLowerCase("sv")
-            )
-          )
           .filter((r) => !r.short_lease)
           .filter((r) => !["student", "senior"].includes(r.audience));
       };
@@ -150,6 +147,10 @@
             const getGridConfig = () => {
               const searchParams = new URL(location).searchParams;
 
+              const citiesSrc = searchParams.get("cities");
+              const cities = /[\p{L},]+/u.test(citiesSrc)
+                ? citiesSrc.split(",").map((x) => x.toLocaleLowerCase("sv"))
+                : null;
               const baseCoord =
                 parseLatLng(searchParams.get("base-coord")) || defaultBaseCoord;
 
@@ -167,10 +168,23 @@
                   ? -1
                   : r.$object_ad
                   ? r.$object_ad.last_accept
-                  : 9999;
+                  : Infinity;
 
               const mainFiltered = mainFilter(searchResults);
               const customFiltered = mainFiltered
+                .filter((r) => {
+                  return (
+                    cities === null ||
+                    cities.includes(
+                      (r.address.city ?? "").trim().toLocaleLowerCase("sv")
+                    ) ||
+                    cities.includes(
+                      (r.address.municipality ?? "")
+                        .trim()
+                        .toLocaleLowerCase("sv")
+                    )
+                  );
+                })
                 .filter((r) => r.rent <= maxRent)
                 .filter(
                   (r) =>
@@ -272,7 +286,10 @@
                   {
                     name: "Queue req.",
                     width: "160px",
-                    formatter: (cell) => `${cell} days`,
+                    formatter: (cell) =>
+                      cell === -1
+                        ? "Random"
+                        : `${cell === Infinity ? "Unknown" : cell} days`,
                   },
                   {
                     name: "Access",
@@ -315,6 +332,19 @@
               history.replaceState(null, null, newUrl);
               grid && grid.updateConfig(getGridConfig()).forceRender();
             };
+
+            {
+              const citiesInput = document.querySelector("#cities-input");
+              citiesInput.value =
+                new URL(location).searchParams.get("cities") || defaultCities;
+              setSearchParam("cities", citiesInput.value);
+
+              citiesInput.addEventListener("change", (event) => {
+                if (/[\p{L},]*/u.test(event.target.value)) {
+                  setSearchParam("cities", event.target.value);
+                }
+              });
+            }
 
             {
               const baseCoordInput =
@@ -369,7 +399,8 @@
                 if (
                   /[0-9][0-9][0-9][0-9]-[0-9][0-9]-[0-9][0-9]/.test(
                     event.target.value
-                  )
+                  ) ||
+                  !event.target.value
                 ) {
                   setSearchParam("in-queue-since", event.target.value);
                 }
