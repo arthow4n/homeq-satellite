@@ -31,11 +31,14 @@
       </ul>
       <label
         >Base coordinate (latitude,lontitude) used for calculating distance:
-        <input id="base-latlng-input"
+        <input id="base-coord-input"
       /></label>
+      <label>Max rent: <input id="max-rent-input" /></label>
     </main>
     <script src="https://unpkg.com/gridjs/dist/gridjs.umd.js"></script>
     <script>
+      const defaultBaseCoord = { lat: 57.707374, lng: 11.939192 };
+      const defaultMaximumRent = 999999;
       const mainFilter = (x) => {
         return x
           .filter((r) =>
@@ -106,7 +109,33 @@
             const tableDiv = document.createElement("div");
             document.body.appendChild(tableDiv);
 
-            const getGridConfig = (baseLat, baseLng) => {
+            const parseLatLng = (value) => {
+              const [lat, lng] = (
+                value?.replace(/[^\d,.]/g, "").split(",") ?? []
+              ).map((s) => parseFloat(s));
+
+              if (
+                typeof lat !== "number" ||
+                typeof lng !== "number" ||
+                Number.isNaN(lat) ||
+                Number.isNaN(lng)
+              )
+                return;
+
+              return { lat, lng };
+            };
+
+            const getGridConfig = () => {
+              const searchParams = new URL(location).searchParams;
+
+              const baseCoord =
+                parseLatLng(searchParams.get("base-coord")) || defaultBaseCoord;
+
+              const maxRentSrc = parseInt(searchParams.get("max-rent"), 10);
+              const maxRent = Number.isNaN(maxRentSrc)
+                ? defaultMaximumRent
+                : maxRentSrc;
+
               return {
                 style: {
                   table: {
@@ -209,69 +238,75 @@
                     width: "140px",
                   },
                 ],
-                data: mainFilter(searchResults).map((r) => {
-                  return [
-                    r.id,
-                    r,
-                    getDistance(
-                      baseLat,
-                      baseLng,
-                      r.location.lat,
-                      r.location.lon
-                    ),
-                    Array.isArray(r.floor) ? r.floor.sort()[0] : r.floor,
-                    Array.isArray(r.rooms) ? r.rooms.sort()[0] : r.rooms,
-                    Array.isArray(r.area) ? r.area.sort()[0] : r.area,
-                    Array.isArray(r.rent) ? r.rent.sort()[0] : r.rent,
-                    r.sorting_mode === "random"
-                      ? -1
-                      : r.$object_ad
-                      ? r.$object_ad.last_accept
-                      : 9999,
-                    Array.isArray(r.access_date)
-                      ? r.access_date.sort()[0]
-                      : r.access_date,
-                    r.publish_date,
-                  ];
-                }),
+                data: mainFilter(searchResults)
+                  .filter((r) => r.rent <= maxRent)
+                  .map((r) => {
+                    return [
+                      r.id,
+                      r,
+                      getDistance(
+                        baseCoord.lat,
+                        baseCoord.lng,
+                        r.location.lat,
+                        r.location.lon
+                      ),
+                      Array.isArray(r.floor) ? r.floor.sort()[0] : r.floor,
+                      Array.isArray(r.rooms) ? r.rooms.sort()[0] : r.rooms,
+                      Array.isArray(r.area) ? r.area.sort()[0] : r.area,
+                      Array.isArray(r.rent) ? r.rent.sort()[0] : r.rent,
+                      r.sorting_mode === "random"
+                        ? -1
+                        : r.$object_ad
+                        ? r.$object_ad.last_accept
+                        : 9999,
+                      Array.isArray(r.access_date)
+                        ? r.access_date.sort()[0]
+                        : r.access_date,
+                      r.publish_date,
+                    ];
+                  }),
               };
             };
 
-            const parseLatLng = (value) => {
-              const [lat, lng] = value
-                .replace(/[^\d,.]/g, "")
-                .split(",")
-                .map((s) => parseFloat(s));
+            let grid;
+            const setSearchParam = (key, value) => {
+              var newUrl = new URL(location);
+              newUrl.searchParams.set(key, value);
 
-              if (lat === NaN || lng === NaN) return;
-              return { lat, lng };
+              history.replaceState(null, null, newUrl);
+              grid && grid.updateConfig(getGridConfig()).forceRender();
             };
-            const baseLatLngInput =
-              document.querySelector("#base-latlng-input");
-            baseLatLngInput.value =
-              new URL(location).searchParams.get("base-latlng") ||
-              "57.707374, 11.939192";
-            const initLatLng = parseLatLng(baseLatLngInput.value);
-            const grid = new gridjs.Grid(
-              getGridConfig(initLatLng.lat, initLatLng.lng)
-            ).render(tableDiv);
 
-            baseLatLngInput.addEventListener("change", (event) => {
-              const newLatLng = parseLatLng(event.target.value);
-              if (newLatLng) {
-                var newUrl = new URL(location);
-                newUrl.searchParams.set(
-                  "base-latlng",
-                  `${newLatLng.lat}, ${newLatLng.lng}`
-                );
+            {
+              const baseCoordInput =
+                document.querySelector("#base-coord-input");
+              baseCoordInput.value =
+                new URL(location).searchParams.get("base-coord") ||
+                `${defaultBaseCoord.lat}, ${defaultBaseCoord.lng}`;
+              baseCoordInput.addEventListener("change", (event) => {
+                const newLatLng = parseLatLng(event.target.value);
+                if (newLatLng) {
+                  setSearchParam(
+                    "base-coord",
+                    `${newLatLng.lat}, ${newLatLng.lng}`
+                  );
+                }
+              });
+            }
 
-                history.replaceState(null, null, newUrl);
+            {
+              const maxRentInput = document.querySelector("#max-rent-input");
+              maxRentInput.value =
+                new URL(location).searchParams.get("max-rent") ||
+                defaultMaximumRent;
+              maxRentInput.addEventListener("change", (event) => {
+                if (parseInt(event.target.value, 10) !== NaN) {
+                  setSearchParam("max-rent", event.target.value);
+                }
+              });
+            }
 
-                grid
-                  .updateConfig(getGridConfig(newLatLng.lat, newLatLng.lng))
-                  .forceRender();
-              }
-            });
+            grid = new gridjs.Grid(getGridConfig()).render(tableDiv);
           }
         );
     </script>
