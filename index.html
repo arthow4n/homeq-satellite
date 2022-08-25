@@ -44,7 +44,7 @@
             )
           )
           .filter((r) => !r.short_lease)
-          .filter((r) => r.audience !== "student");
+          .filter((r) => !["student", "senior"].includes(r.audience));
       };
 
       const openExternalLink = (link) => {
