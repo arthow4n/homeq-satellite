@@ -29,6 +29,10 @@
           means we didn't fetch the data for it.
         </li>
       </ul>
+      <label
+        >Base coordinate (latitude,lontitude) used for calculating distance:
+        <input id="base-latlng-input"
+      /></label>
     </main>
     <script src="https://unpkg.com/gridjs/dist/gridjs.umd.js"></script>
     <script>
@@ -52,6 +56,26 @@
         if (r.floor_plan) {
           window.open(r.floor_plan, "_blank", "noopener,noreferrer");
         }
+      };
+
+      // Modified from https://stackoverflow.com/a/1502821
+      const getDistance = function (p1lat, p1lng, p2lat, p2lng) {
+        const rad = function (x) {
+          return (x * Math.PI) / 180;
+        };
+
+        const R = 6378137; // Earth’s mean radius in meter
+        const dLat = rad(p2lat - p1lat);
+        const dLong = rad(p2lng - p1lng);
+        const a =
+          Math.sin(dLat / 2) * Math.sin(dLat / 2) +
+          Math.cos(rad(p1lat)) *
+            Math.cos(rad(p2lat)) *
+            Math.sin(dLong / 2) *
+            Math.sin(dLong / 2);
+        const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
+        const d = R * c;
+        return d; // returns the distance in meter
       };
 
       fetch("./searchResults.json")
@@ -82,123 +106,172 @@
             const tableDiv = document.createElement("div");
             document.body.appendChild(tableDiv);
 
-            new gridjs.Grid({
-              style: {
-                table: {
-                  width: "100%",
-                },
-              },
-              sort: {
-                enabled: true,
-                multiColumn: true,
-              },
-              pagination: {
-                enabled: true,
-                limit: 1000,
-                summary: true,
-              },
-              columns: [
-                {
-                  name: "ID",
-                  width: "100px",
-                  formatter: (cell) => {
-                    return gridjs.h(
-                      "button",
-                      {
-                        className: "openSearchResult",
-                        onclick: () => {
-                          const r = searchResults.find((x) => x.id === cell);
-                          openSearchResult(r);
-                        },
-                      },
-                      cell
-                    );
+            const getGridConfig = (baseLat, baseLng) => {
+              return {
+                style: {
+                  table: {
+                    width: "100%",
                   },
                 },
-                {
-                  name: "Address",
-                  formatter: (r) => {
-                    const address = `${r.address.street} ${r.address.street_number}, ${r.address.municipality}`;
-                    const link = (text, href) =>
-                      gridjs.h(
-                        "a",
+                sort: {
+                  enabled: true,
+                  multiColumn: true,
+                },
+                pagination: {
+                  enabled: true,
+                  limit: 1000,
+                  summary: true,
+                },
+                columns: [
+                  {
+                    name: "ID",
+                    width: "100px",
+                    formatter: (cell) => {
+                      return gridjs.h(
+                        "button",
                         {
-                          href,
-                          target: "_blank",
-                          rel: "noopener noreferrer",
+                          className: "openSearchResult",
+                          onclick: () => {
+                            const r = searchResults.find((x) => x.id === cell);
+                            openSearchResult(r);
+                          },
                         },
-                        text
+                        cell
                       );
-
-                    return gridjs.h("span", {}, [
-                      link(
-                        address,
-                        `https://www.google.com/maps/place/${encodeURIComponent(
-                          address
-                        )}/`
-                      ),
-                      " (",
-                      link("HQ", `https://www.homeq.se/lagenhet/${r.id}`),
-                      r.floor_plan ? ", " : "",
-                      r.floor_plan ? link("Plan", r.floor_plan) : "",
-                      ")",
-                    ]);
+                    },
                   },
-                },
-                {
-                  name: "Floor",
-                  width: "120px",
-                  formatter: (cell) => `${cell} F`,
-                },
-                {
-                  name: "Rooms",
-                  width: "120px",
-                  formatter: (cell) => `${cell} rok`,
-                },
-                {
-                  name: "Size",
-                  width: "120px",
-                  formatter: (cell) => `${cell} m2`,
-                },
-                {
-                  name: "Rent",
-                  width: "120px",
-                  formatter: (cell) => `${cell} kr`,
-                },
-                {
-                  name: "Queue req.",
-                  width: "160px",
-                  formatter: (cell) => `${cell} days`,
-                },
-                {
-                  name: "Access",
-                  width: "140px",
-                },
-                {
-                  name: "Published",
-                  width: "140px",
-                },
-              ],
-              data: mainFilter(searchResults).map((r) => {
-                return [
-                  r.id,
-                  r,
-                  Array.isArray(r.floor) ? r.floor.sort()[0] : r.floor,
-                  Array.isArray(r.rooms) ? r.rooms.sort()[0] : r.rooms,
-                  Array.isArray(r.area) ? r.area.sort()[0] : r.area,
-                  Array.isArray(r.rent) ? r.rent.sort()[0] : r.rent,
-                  r.sorting_mode === "random"
-                    ? -1
-                    : r.$object_ad
-                    ? r.$object_ad.last_accept
-                    : 9999,
-                  Array.isArray(r.access_date)
-                    ? r.access_date.sort()[0]
-                    : r.access_date,
-                  r.publish_date,
-                ];
-              }),
-            }).render(tableDiv);
+                  {
+                    name: "Address",
+                    formatter: (r) => {
+                      const address = `${r.address.street} ${r.address.street_number}, ${r.address.municipality}`;
+                      const link = (text, href) =>
+                        gridjs.h(
+                          "a",
+                          {
+                            href,
+                            target: "_blank",
+                            rel: "noopener noreferrer",
+                          },
+                          text
+                        );
+
+                      return gridjs.h("span", {}, [
+                        link(
+                          address,
+                          `https://www.google.com/maps/place/${encodeURIComponent(
+                            address
+                          )}/`
+                        ),
+                        " (",
+                        r.floor_plan ? link("Plan", r.floor_plan) : "",
+                        r.floor_plan ? ", " : "",
+                        link("HQ", `https://www.homeq.se/lagenhet/${r.id}`),
+                        ")",
+                      ]);
+                    },
+                  },
+                  {
+                    name: "Distance",
+                    width: "150px",
+                    formatter: (cell) => `+${(cell / 1000).toFixed(1)} km`,
+                  },
+                  {
+                    name: "Floor",
+                    width: "120px",
+                    formatter: (cell) => `${cell} F`,
+                  },
+                  {
+                    name: "Rooms",
+                    width: "120px",
+                    formatter: (cell) => `${cell} rok`,
+                  },
+                  {
+                    name: "Size",
+                    width: "120px",
+                    formatter: (cell) => `${cell} m2`,
+                  },
+                  {
+                    name: "Rent",
+                    width: "120px",
+                    formatter: (cell) => `${cell} kr`,
+                  },
+                  {
+                    name: "Queue req.",
+                    width: "160px",
+                    formatter: (cell) => `${cell} days`,
+                  },
+                  {
+                    name: "Access",
+                    width: "140px",
+                  },
+                  {
+                    name: "Published",
+                    width: "140px",
+                  },
+                ],
+                data: mainFilter(searchResults).map((r) => {
+                  return [
+                    r.id,
+                    r,
+                    getDistance(
+                      baseLat,
+                      baseLng,
+                      r.location.lat,
+                      r.location.lon
+                    ),
+                    Array.isArray(r.floor) ? r.floor.sort()[0] : r.floor,
+                    Array.isArray(r.rooms) ? r.rooms.sort()[0] : r.rooms,
+                    Array.isArray(r.area) ? r.area.sort()[0] : r.area,
+                    Array.isArray(r.rent) ? r.rent.sort()[0] : r.rent,
+                    r.sorting_mode === "random"
+                      ? -1
+                      : r.$object_ad
+                      ? r.$object_ad.last_accept
+                      : 9999,
+                    Array.isArray(r.access_date)
+                      ? r.access_date.sort()[0]
+                      : r.access_date,
+                    r.publish_date,
+                  ];
+                }),
+              };
+            };
+
+            const parseLatLng = (value) => {
+              const [lat, lng] = value
+                .replace(/[^\d,.]/g, "")
+                .split(",")
+                .map((s) => parseFloat(s));
+
+              if (lat === NaN || lng === NaN) return;
+              return { lat, lng };
+            };
+            const baseLatLngInput =
+              document.querySelector("#base-latlng-input");
+            baseLatLngInput.value =
+              new URL(location).searchParams.get("base-latlng") ||
+              "57.707374, 11.939192";
+            const initLatLng = parseLatLng(baseLatLngInput.value);
+            const grid = new gridjs.Grid(
+              getGridConfig(initLatLng.lat, initLatLng.lng)
+            ).render(tableDiv);
+
+            baseLatLngInput.addEventListener("change", (event) => {
+              const newLatLng = parseLatLng(event.target.value);
+              if (newLatLng) {
+                var newUrl = new URL(location);
+                newUrl.searchParams.set(
+                  "base-latlng",
+                  `${newLatLng.lat}, ${newLatLng.lng}`
+                );
+
+                history.replaceState(null, null, newUrl);
+
+                grid
+                  .updateConfig(getGridConfig(newLatLng.lat, newLatLng.lng))
+                  .forceRender();
+              }
+            });
           }
         );
     </script>
