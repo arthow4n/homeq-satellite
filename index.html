@@ -100,6 +100,25 @@
           : null;
       };
 
+      const compassDirectionNames = [
+        "N",
+        "NNE",
+        "NE",
+        "ENE",
+        "E",
+        "ESE",
+        "SE",
+        "SSE",
+        "S",
+        "SSW",
+        "SW",
+        "WSW",
+        "W",
+        "WNW",
+        "NW",
+        "NNW",
+      ];
+
       fetch("./searchResults.json")
         .then((res) => res.json())
         .then(
@@ -261,7 +280,47 @@
                   {
                     name: "Distance",
                     width: "150px",
-                    formatter: (cell) => `+${(cell / 1000).toFixed(1)} km`,
+                    formatter: (r) => {
+                      const distance = getDistance(
+                        baseCoord.lat,
+                        baseCoord.lng,
+                        r.location.lat,
+                        r.location.lon
+                      );
+
+                      const inrad = Math.atan2(
+                        r.location.lat - baseCoord.lat,
+                        r.location.lon - baseCoord.lng
+                      );
+                      // https://stackoverflow.com/a/1311134
+                      const degreeFromEast =
+                        ((inrad > 0 ? inrad : 2 * Math.PI + inrad) * 360) /
+                        (2 * Math.PI);
+                      const flooredDegreeFromNorth =
+                        (90 - Math.floor(degreeFromEast) + 360) % 360;
+
+                      const direction =
+                        compassDirectionNames[
+                          Math.floor(flooredDegreeFromNorth / 22.5)
+                        ];
+
+                      return `+${(distance / 1000).toFixed(1)} km ${direction}`;
+                    },
+                    sort: {
+                      compare: (a, b) =>
+                        getDistance(
+                          baseCoord.lat,
+                          baseCoord.lng,
+                          a.location.lat,
+                          a.location.lon
+                        ) -
+                        getDistance(
+                          baseCoord.lat,
+                          baseCoord.lng,
+                          b.location.lat,
+                          b.location.lon
+                        ),
+                    },
                   },
                   {
                     name: "Floor",
@@ -304,12 +363,7 @@
                   return [
                     r.id,
                     r,
-                    getDistance(
-                      baseCoord.lat,
-                      baseCoord.lng,
-                      r.location.lat,
-                      r.location.lon
-                    ),
+                    r,
                     Array.isArray(r.floor) ? r.floor.sort()[0] : r.floor,
                     Array.isArray(r.rooms) ? r.rooms.sort()[0] : r.rooms,
                     Array.isArray(r.area) ? r.area.sort()[0] : r.area,
