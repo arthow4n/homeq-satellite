@@ -140,16 +140,20 @@
                       " (",
                       link("HQ", `https://www.homeq.se/lagenhet/${r.id}`),
                       r.floor_plan ? ", " : "",
-                      r.floor_plan
-                        ? link("Plan", r.floor_plan)
-                        : "",
+                      r.floor_plan ? link("Plan", r.floor_plan) : "",
                       ")",
                     ]);
                   },
                 },
                 {
+                  name: "Floor",
+                  width: "120px",
+                  formatter: (cell) => `${cell} F`,
+                },
+                {
                   name: "Rooms",
                   width: "120px",
+                  formatter: (cell) => `${cell} rok`,
                 },
                 {
                   name: "Size",
@@ -166,13 +170,20 @@
                   width: "160px",
                   formatter: (cell) => `${cell} days`,
                 },
-                "Access date",
-                "Published on",
+                {
+                  name: "Access",
+                  width: "140px",
+                },
+                {
+                  name: "Published",
+                  width: "140px",
+                },
               ],
               data: mainFilter(searchResults).map((r) => {
                 return [
                   r.id,
                   r,
+                  Array.isArray(r.floor) ? r.floor.sort()[0] : r.floor,
                   Array.isArray(r.rooms) ? r.rooms.sort()[0] : r.rooms,
                   Array.isArray(r.area) ? r.area.sort()[0] : r.area,
                   Array.isArray(r.rent) ? r.rent.sort()[0] : r.rent,
