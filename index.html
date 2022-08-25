@@ -30,6 +30,8 @@
         </li>
       </ul>
       <p>
+        Custom filters:
+        <br />
         <label
           >Base coordinate (latitude,lontitude) used for calculating distance:
           <input id="base-coord-input"
@@ -42,6 +44,11 @@
           <span id="in-queue-for-days"></span
         ></label>
       </p>
+      <p>
+        Search result count (custom filtered / main filtered / all results):
+        <span id="search-result-count"></span>
+      </p>
+      <p>Showing custom filtered results:</p>
     </main>
     <script src="https://unpkg.com/gridjs/dist/gridjs.umd.js"></script>
     <script>
@@ -162,6 +169,18 @@
                   ? r.$object_ad.last_accept
                   : 9999;
 
+              const mainFiltered = mainFilter(searchResults);
+              const customFiltered = mainFiltered
+                .filter((r) => r.rent <= maxRent)
+                .filter(
+                  (r) =>
+                    inQueueForDays === null ||
+                    getQueueDaysFromResult(r) <= inQueueForDays
+                );
+              document.querySelector(
+                "#search-result-count"
+              ).innerText = `${customFiltered.length}/${mainFiltered.length}/${searchResults.length}`;
+
               return {
                 style: {
                   table: {
@@ -264,34 +283,27 @@
                     width: "140px",
                   },
                 ],
-                data: mainFilter(searchResults)
-                  .filter((r) => r.rent <= maxRent)
-                  .filter(
-                    (r) =>
-                      inQueueForDays === null ||
-                      getQueueDaysFromResult(r) <= inQueueForDays
-                  )
-                  .map((r) => {
-                    return [
-                      r.id,
-                      r,
-                      getDistance(
-                        baseCoord.lat,
-                        baseCoord.lng,
-                        r.location.lat,
-                        r.location.lon
-                      ),
-                      Array.isArray(r.floor) ? r.floor.sort()[0] : r.floor,
-                      Array.isArray(r.rooms) ? r.rooms.sort()[0] : r.rooms,
-                      Array.isArray(r.area) ? r.area.sort()[0] : r.area,
-                      Array.isArray(r.rent) ? r.rent.sort()[0] : r.rent,
-                      getQueueDaysFromResult(r),
-                      Array.isArray(r.access_date)
-                        ? r.access_date.sort()[0]
-                        : r.access_date,
-                      r.publish_date,
-                    ];
-                  }),
+                data: customFiltered.map((r) => {
+                  return [
+                    r.id,
+                    r,
+                    getDistance(
+                      baseCoord.lat,
+                      baseCoord.lng,
+                      r.location.lat,
+                      r.location.lon
+                    ),
+                    Array.isArray(r.floor) ? r.floor.sort()[0] : r.floor,
+                    Array.isArray(r.rooms) ? r.rooms.sort()[0] : r.rooms,
+                    Array.isArray(r.area) ? r.area.sort()[0] : r.area,
+                    Array.isArray(r.rent) ? r.rent.sort()[0] : r.rent,
+                    getQueueDaysFromResult(r),
+                    Array.isArray(r.access_date)
+                      ? r.access_date.sort()[0]
+                      : r.access_date,
+                    r.publish_date,
+                  ];
+                }),
               };
             };
 
