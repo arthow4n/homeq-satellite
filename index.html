@@ -29,14 +29,23 @@
           means we didn't fetch the data for it.
         </li>
       </ul>
-      <label
-        >Base coordinate (latitude,lontitude) used for calculating distance:
-        <input id="base-coord-input"
-      /></label>
-      <label>Max rent: <input id="max-rent-input" /></label>
+      <p>
+        <label
+          >Base coordinate (latitude,lontitude) used for calculating distance:
+          <input id="base-coord-input"
+        /></label>
+        <br />
+        <label>Max rent: <input id="max-rent-input" /></label>
+        <br />
+        <label
+          >In queue since: <input id="in-queue-since-input" />
+          <span id="in-queue-for-days"></span
+        ></label>
+      </p>
     </main>
     <script src="https://unpkg.com/gridjs/dist/gridjs.umd.js"></script>
     <script>
+      const enRelativeTimeFormat = new Intl.RelativeTimeFormat("en-GB");
       const defaultBaseCoord = { lat: 57.707374, lng: 11.939192 };
       const defaultMaximumRent = 999999;
       const mainFilter = (x) => {
@@ -81,12 +90,18 @@
         return d; // returns the distance in meter
       };
 
+      const calculateInQueueForDaysFromStringDate = (s) => {
+        return /[0-9][0-9][0-9][0-9]-[0-9][0-9]-[0-9][0-9]/.test(s)
+          ? Math.floor((Date.now() - new Date(s)) / 1000 / 60 / 60 / 24)
+          : null;
+      };
+
       fetch("./searchResults.json")
         .then((res) => res.json())
         .then(
           async ({ lastUpdatedAt, searchResults: unsortedSearchResults }) => {
             const searchResults = unsortedSearchResults.sort((a, b) => {
-              return a.publish_date.localeCompare(b.publish_date, "sv") * -1;
+              return b.publish_date.localeCompare(a.publish_date, "sv");
             });
 
             window.searchResults = searchResults;
@@ -96,7 +111,7 @@
             );
             document.getElementById(
               "lastUpdatedAt"
-            ).innerText = `${lastUpdatedAtDate.toLocaleString()} (${new Intl.RelativeTimeFormat().format(
+            ).innerText = `${lastUpdatedAtDate.toLocaleString()} (${enRelativeTimeFormat.format(
               hoursSinceLastUpdated,
               "hour"
             )})`;
@@ -135,6 +150,17 @@
               const maxRent = Number.isNaN(maxRentSrc)
                 ? defaultMaximumRent
                 : maxRentSrc;
+
+              const inQueueSinceSrc = searchParams.get("in-queue-since");
+              const inQueueForDays =
+                calculateInQueueForDaysFromStringDate(inQueueSinceSrc);
+
+              const getQueueDaysFromResult = (r) =>
+                r.sorting_mode === "random"
+                  ? -1
+                  : r.$object_ad
+                  ? r.$object_ad.last_accept
+                  : 9999;
 
               return {
                 style: {
@@ -240,6 +266,11 @@
                 ],
                 data: mainFilter(searchResults)
                   .filter((r) => r.rent <= maxRent)
+                  .filter(
+                    (r) =>
+                      inQueueForDays === null ||
+                      getQueueDaysFromResult(r) <= inQueueForDays
+                  )
                   .map((r) => {
                     return [
                       r.id,
@@ -254,11 +285,7 @@
                       Array.isArray(r.rooms) ? r.rooms.sort()[0] : r.rooms,
                       Array.isArray(r.area) ? r.area.sort()[0] : r.area,
                       Array.isArray(r.rent) ? r.rent.sort()[0] : r.rent,
-                      r.sorting_mode === "random"
-                        ? -1
-                        : r.$object_ad
-                        ? r.$object_ad.last_accept
-                        : 9999,
+                      getQueueDaysFromResult(r),
                       Array.isArray(r.access_date)
                         ? r.access_date.sort()[0]
                         : r.access_date,
@@ -302,6 +329,37 @@
               maxRentInput.addEventListener("change", (event) => {
                 if (parseInt(event.target.value, 10) !== NaN) {
                   setSearchParam("max-rent", event.target.value);
+                }
+              });
+            }
+
+            {
+              const inQueueForDaysSpan =
+                document.querySelector("#in-queue-for-days");
+              const inQueueSinceInput = document.querySelector(
+                "#in-queue-since-input"
+              );
+
+              const renderQueueDays = () => {
+                const days = calculateInQueueForDaysFromStringDate(
+                  inQueueSinceInput.value
+                );
+                inQueueForDaysSpan.innerText =
+                  days === null ? "" : `(=in queue for ${days} days)`;
+              };
+
+              inQueueSinceInput.value =
+                new URL(location).searchParams.get("in-queue-since") || "";
+              renderQueueDays();
+
+              inQueueSinceInput.addEventListener("change", (event) => {
+                renderQueueDays();
+                if (
+                  /[0-9][0-9][0-9][0-9]-[0-9][0-9]-[0-9][0-9]/.test(
+                    event.target.value
+                  )
+                ) {
+                  setSearchParam("in-queue-since", event.target.value);
                 }
               });
             }
