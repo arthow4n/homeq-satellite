@@ -100,25 +100,6 @@
           : null;
       };
 
-      const compassDirectionNames = [
-        "N",
-        "NNE",
-        "NE",
-        "ENE",
-        "E",
-        "ESE",
-        "SE",
-        "SSE",
-        "S",
-        "SSW",
-        "SW",
-        "WSW",
-        "W",
-        "WNW",
-        "NW",
-        "NNW",
-      ];
-
       fetch("./searchResults.json")
         .then((res) => res.json())
         .then(
@@ -303,12 +284,16 @@
                       const flooredDegreeFromNorth =
                         (90 - Math.floor(degreeFromEast) + 360) % 360;
 
-                      const direction =
-                        compassDirectionNames[
-                          Math.floor(flooredDegreeFromNorth / 22.5)
-                        ];
-
-                      return `+${(distance / 1000).toFixed(1)} km ${direction}`;
+                      return gridjs.h("span", {}, [
+                        gridjs.h(
+                          "span",
+                          {
+                            style: `display: inline-block; transform: rotate(${flooredDegreeFromNorth}deg)`,
+                          },
+                          ["🡹"]
+                        ),
+                        `${(distance / 1000).toFixed(1)} km `,
+                      ]);
                     },
                     sort: {
                       compare: (a, b) =>
