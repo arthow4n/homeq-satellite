@@ -251,16 +251,16 @@
                     formatter: (r) => {
                       const address = getAddressFromResult(r);
                       return gridjs.h("span", {}, [
+                        link(address, `https://www.homeq.se/lagenhet/${r.id}`),
+                        " (",
                         link(
-                          address,
+                          "Map",
                           `https://www.google.com/maps/place/${encodeURIComponent(
                             address
                           )}/`
                         ),
-                        " (",
-                        r.floor_plan ? link("Plan", r.floor_plan) : "",
                         r.floor_plan ? ", " : "",
-                        link("HQ", `https://www.homeq.se/lagenhet/${r.id}`),
+                        r.floor_plan ? link("Plan", r.floor_plan) : "",
                         ")",
                       ]);
                     },
