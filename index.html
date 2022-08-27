@@ -100,6 +100,20 @@
           : null;
       };
 
+      const getAddressFromResult = (r) =>
+        `${r.address.street} ${r.address.street_number}, ${r.address.municipality}`;
+
+      const link = (children, href) =>
+        gridjs.h(
+          "a",
+          {
+            href,
+            target: "_blank",
+            rel: "noopener noreferrer",
+          },
+          children
+        );
+
       fetch("./searchResults.json")
         .then((res) => res.json())
         .then(
@@ -235,18 +249,7 @@
                   {
                     name: "Address",
                     formatter: (r) => {
-                      const address = `${r.address.street} ${r.address.street_number}, ${r.address.municipality}`;
-                      const link = (text, href) =>
-                        gridjs.h(
-                          "a",
-                          {
-                            href,
-                            target: "_blank",
-                            rel: "noopener noreferrer",
-                          },
-                          text
-                        );
-
+                      const address = getAddressFromResult(r);
                       return gridjs.h("span", {}, [
                         link(
                           address,
@@ -284,7 +287,7 @@
                       const flooredDegreeFromNorth =
                         (90 - Math.floor(degreeFromEast) + 360) % 360;
 
-                      return gridjs.h("span", {}, [
+                      const text = gridjs.h("span", {}, [
                         gridjs.h(
                           "span",
                           {
@@ -294,6 +297,16 @@
                         ),
                         `${(distance / 1000).toFixed(1)} km `,
                       ]);
+
+                      const address = getAddressFromResult(r);
+                      return link(
+                        text,
+                        `https://www.google.com/maps/dir/?api=1&travelmode=bicycling&origin=${encodeURIComponent(
+                          baseCoord.lat
+                        )},${encodeURIComponent(
+                          baseCoord.lng
+                        )}&destination=${encodeURIComponent(address)}`
+                      );
                     },
                     sort: {
                       compare: (a, b) =>
