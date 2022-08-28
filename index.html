@@ -230,23 +230,6 @@
                 },
                 columns: [
                   {
-                    name: "ID",
-                    width: "100px",
-                    formatter: (cell) => {
-                      return gridjs.h(
-                        "button",
-                        {
-                          className: "openSearchResult",
-                          onclick: () => {
-                            const r = searchResults.find((x) => x.id === cell);
-                            openSearchResult(r);
-                          },
-                        },
-                        cell
-                      );
-                    },
-                  },
-                  {
                     name: "Address",
                     formatter: (r) => {
                       const address = getStreetNameNumberZipFromResult(r);
@@ -371,7 +354,6 @@
                 ],
                 data: customFiltered.map((r) => {
                   return [
-                    r.id,
                     r,
                     r,
                     Array.isArray(r.floor) ? r.floor.sort()[0] : r.floor,
