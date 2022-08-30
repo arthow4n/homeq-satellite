@@ -11,6 +11,8 @@ jobs:
       - uses: actions/setup-node@v3
         with:
           node-version: 18
+      - name: npm install
+        run: npm install
       - name: Generate the update
         run: npm start
       - name: Commit and push the update

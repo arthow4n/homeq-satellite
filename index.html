@@ -248,14 +248,21 @@
                   {
                     name: "Address",
                     formatter: (r) => {
-                      const address = getStreetNameNumberZipFromResult(r);
                       return gridjs.h("span", {}, [
-                        link(address, `https://www.homeq.se/lagenhet/${r.id}`),
+                        link(
+                          `${r.address.street} ${r.address.street_number}, ${
+                            postalCodeCityNameMapping[
+                              r.address.zip.replace(/[^0-9]/g, "")
+                            ] ?? r.address.municipality
+                          }`,
+                          `https://www.homeq.se/lagenhet/${r.id}`
+                        ),
+                        r.$districtName ? ` (${r.$districtName})` : "",
                         " (",
                         link(
                           "Map",
                           `https://www.google.com/maps/place/${encodeURIComponent(
-                            address
+                            `${r.address.street} ${r.address.street_number}, ${r.address.zip}`
                           )}/`
                         ),
                         r.floor_plan ? ", " : "",
@@ -265,8 +272,8 @@
                     },
                   },
                   {
-                    name: "Distance",
-                    width: "150px",
+                    name: "Dist.",
+                    width: "130px",
                     formatter: (r) => {
                       const distance = getDistance(
                         baseCoord.lat,
@@ -305,7 +312,7 @@
                           baseCoord.lng
                         )}&destination=${encodeURIComponent(
                           // Use zip code for destination for better navigation result
-                          getStreetNameNumberZipFromResult(r)
+                          `${r.address.street} ${r.address.street_number}, ${r.address.zip}`
                         )}`
                       );
                     },
@@ -326,13 +333,13 @@
                     },
                   },
                   {
-                    name: "Floor",
-                    width: "120px",
+                    name: "Fl.",
+                    width: "100px",
                     formatter: (cell) => `${cell} F`,
                   },
                   {
-                    name: "Rooms",
-                    width: "120px",
+                    name: "ROK",
+                    width: "110px",
                     formatter: (cell) => `${cell} rok`,
                   },
                   {
@@ -342,16 +349,16 @@
                   },
                   {
                     name: "Rent",
-                    width: "120px",
+                    width: "110px",
                     formatter: (cell) => `${cell} kr`,
                   },
                   {
-                    name: "Queue req.",
-                    width: "160px",
+                    name: "Queue",
+                    width: "120px",
                     formatter: (cell) =>
                       cell === -1
                         ? "Random"
-                        : `${cell === Infinity ? "Unknown" : cell} days`,
+                        : `${cell === Infinity ? "?" : cell} days`,
                   },
                   {
                     name: "Access",

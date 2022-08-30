@@ -1,4 +1,21 @@
-import { writeFile } from "node:fs/promises";
+import { writeFile, readFile } from "node:fs/promises";
+import isPointInPolygon from "@turf/boolean-point-in-polygon";
+
+const districtGeoJson = JSON.parse(
+  await readFile(new URL("./distrikt.geojson", import.meta.url))
+);
+
+const getDistrictName = ({ lat, lon }) => {
+  return districtGeoJson.features.find((f) =>
+    isPointInPolygon(
+      {
+        type: "Point",
+        coordinates: [lon, lat],
+      },
+      f.geometry
+    )
+  )?.properties.distriktsnamn;
+};
 
 const filterForFetchingQueuePointsInfo = (x) =>
   x
@@ -55,6 +72,13 @@ const filterForFetchingQueuePointsInfo = (x) =>
 
       return results;
     });
+
+  searchResults.forEach((r) => {
+    const n = getDistrictName(r.location);
+    if (n) {
+      r.$districtName = n;
+    }
+  });
 
   await writeFile(
     "./searchResults.json",

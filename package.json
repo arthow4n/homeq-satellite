@@ -5,5 +5,8 @@
   "scripts": {
     "start": "node node/update.mjs"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@turf/boolean-point-in-polygon": "^6.5.0"
+  }
 }
