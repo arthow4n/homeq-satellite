@@ -100,9 +100,6 @@
           : null;
       };
 
-      const getStreetNameNumberZipFromResult = (r) =>
-        `${r.address.street} ${r.address.street_number}, ${r.address.zip}`;
-
       const link = (children, href) =>
         gridjs.h(
           "a",
@@ -114,10 +111,24 @@
           children
         );
 
+      const postalCodeCityNameMappingPromise = fetch(
+        "/sweden-postal-code-city-name-mapping/postalcodes.json"
+      ).then((res) => res.json());
+
       fetch("./searchResults.json")
         .then((res) => res.json())
         .then(
           async ({ lastUpdatedAt, searchResults: unsortedSearchResults }) => {
+            const postalCodeCityNameMapping =
+              await postalCodeCityNameMappingPromise;
+
+            const getStreetNameNumberZipFromResult = (r) => {
+              const cityName =
+                postalCodeCityNameMapping[
+                  r.address.zip.replace(/[^0-9]/g, "")
+                ] || r.address.municipality;
+              return `${r.address.street} ${r.address.street_number}, ${r.address.zip} ${cityName}`;
+            };
             const searchResults = unsortedSearchResults.sort((a, b) => {
               return b.publish_date.localeCompare(a.publish_date, "sv");
             });
@@ -200,6 +211,11 @@
                       (r.address.municipality ?? "")
                         .trim()
                         .toLocaleLowerCase("sv")
+                    ) ||
+                    cities.includes(
+                      postalCodeCityNameMapping[
+                        r.address.zip.replace(/[^0-9]/g, "")
+                      ]?.toLocaleLowerCase("sv")
                     )
                   );
                 })
@@ -234,13 +250,7 @@
                     formatter: (r) => {
                       const address = getStreetNameNumberZipFromResult(r);
                       return gridjs.h("span", {}, [
-                        link(
-                          address +
-                            " " +
-                            // Mölndal apartments has city: Göteborg, municipality: Mölndal...
-                            r.address.municipality,
-                          `https://www.homeq.se/lagenhet/${r.id}`
-                        ),
+                        link(address, `https://www.homeq.se/lagenhet/${r.id}`),
                         " (",
                         link(
                           "Map",
