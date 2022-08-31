@@ -27,15 +27,14 @@
         /></label>
         <br />
         <label
-          >Base coordinate (latitude,lontitude) used for calculating distance:
+          >Base coordinate used for calculating distance (latitude,lontitude):
           <input id="base-coord-input"
         /></label>
         <br />
-        <label>Max rent: <input id="max-rent-input" /></label>
+        <label>Max acceptable rent (kr): <input id="max-rent-input" /></label>
         <br />
         <label
-          >In queue since (show only apartments that meet queue day requirements
-          to be in top 10 applicants) (yyyy-MM-dd):
+          >You joined HomeQ's queue since (yyyy-MM-dd):
           <input id="in-queue-since-input" />
           <span id="in-queue-for-days"></span
         ></label>
@@ -450,7 +449,9 @@
                   inQueueSinceInput.value
                 );
                 inQueueForDaysSpan.innerText =
-                  days === null ? "" : `(=in queue for ${days} days)`;
+                  days === null
+                    ? ""
+                    : `(=You have ${days} queue points. Will show only the apartments which you have chance to be amongst the top 10 ranked applicants))`;
               };
 
               inQueueSinceInput.value =
