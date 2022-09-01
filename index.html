@@ -234,6 +234,7 @@
                 )
                 .filter(
                   (r) =>
+                    r.type === "project" ||
                     inQueueForDays === null ||
                     getQueueDaysFromResult(r) <= inQueueForDays
                 );
@@ -283,7 +284,7 @@
                         r.floor_plan ? link("Plan", r.floor_plan) : "",
                         ")",
                         Array.isArray(r.rent)
-                          ? ` (${r.rent.length} apartments)`
+                          ? ` (Project x${r.rent.length})`
                           : "",
                       ]);
                     },
