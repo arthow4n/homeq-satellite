@@ -58,8 +58,16 @@
 
       const mainFilter = (x) => {
         return x
-          .filter((r) => !r.short_lease)
-          .filter((r) => !["student", "senior"].includes(r.audience));
+          .filter((r) =>
+            Array.isArray(r.short_lease)
+              ? r.short_lease.some((x) => !x)
+              : !r.short_lease
+          )
+          .filter((r) =>
+            Array.isArray(r.audience)
+              ? r.audience.some((x) => x === "everyone")
+              : r.audience === "everyone"
+          );
       };
 
       const openExternalLink = (link) => {
@@ -124,7 +132,7 @@
             const getStreetNameNumberZipFromResult = (r) => {
               const cityName =
                 postalCodeCityNameMapping[
-                  r.address.zip.replace(/[^0-9]/g, "")
+                  r.address.zip?.replace(/[^0-9]/g, "")
                 ] || r.address.municipality;
               return `${r.address.street} ${r.address.street_number}, ${r.address.zip} ${cityName}`;
             };
@@ -213,12 +221,17 @@
                     ) ||
                     cities.includes(
                       postalCodeCityNameMapping[
-                        r.address.zip.replace(/[^0-9]/g, "")
+                        r.address.zip?.replace(/[^0-9]/g, "")
                       ]?.toLocaleLowerCase("sv")
                     )
                   );
                 })
-                .filter((r) => r.rent <= maxRent)
+                // TODO: Known issue: Need to refactor quite some code to support search results with type: project
+                .filter((r) =>
+                  Array.isArray(r.rent)
+                    ? Math.min(...r.rent) <= maxRent
+                    : r.rent <= maxRent
+                )
                 .filter(
                   (r) =>
                     inQueueForDays === null ||
@@ -251,10 +264,12 @@
                         link(
                           `${r.address.street} ${r.address.street_number}, ${
                             postalCodeCityNameMapping[
-                              r.address.zip.replace(/[^0-9]/g, "")
+                              r.address.zip?.replace(/[^0-9]/g, "")
                             ] ?? r.address.municipality
                           }`,
-                          `https://www.homeq.se/lagenhet/${r.id}`
+                          r.type === "project"
+                            ? `https://www.homeq.se/projekt/${r.id}`
+                            : `https://www.homeq.se/lagenhet/${r.id}`
                         ),
                         r.$districtName ? ` (${r.$districtName})` : "",
                         " (",
@@ -267,6 +282,9 @@
                         r.floor_plan ? ", " : "",
                         r.floor_plan ? link("Plan", r.floor_plan) : "",
                         ")",
+                        Array.isArray(r.rent)
+                          ? ` (${r.rent.length} apartments)`
+                          : "",
                       ]);
                     },
                   },
