@@ -91,4 +91,51 @@ const filterForFetchingQueuePointsInfo = (x) =>
       2
     )
   );
+
+  const observationRecordTimestamp = new Date().toISOString();
+  const observations = JSON.parse(
+    await readFile(new URL("../observations.json", import.meta.url))
+  ).observations;
+
+  const currentActiveIds = new Set(searchResults.map((r) => r.id));
+  Object.entries(observations)
+    .filter(
+      ([id, { events }]) => !currentActiveIds.has(id) && events.at(-1).active
+    )
+    .forEach(([id, { events }]) => {
+      events.push({
+        timestamp: observationRecordTimestamp,
+        active: false,
+      });
+    });
+
+  searchResults.forEach((r) => {
+    observations[r.id] ??= {
+      type: r.type,
+      address: r.address,
+      accessDate: r.access_date,
+      publishDate: r.publish_date,
+      districtName: r.$districtName,
+      sortingMode: r.sorting_mode,
+    };
+    observations[r.id].events ??= [];
+    const events = observations[r.id].events;
+    events.push({
+      timestamp: observationRecordTimestamp,
+      minimumQueueDaysOfTop10Applicants: r.$object_ad?.last_accept ?? null,
+      active: true,
+    });
+  });
+
+  await writeFile(
+    "./observations.json",
+    JSON.stringify(
+      {
+        lastUpdatedAt: observationRecordTimestamp,
+        observations,
+      },
+      null,
+      2
+    )
+  );
 }
