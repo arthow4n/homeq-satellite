@@ -27,9 +27,18 @@
         /></label>
         <br />
         <label
-          >Base coordinate(s) used for calculating distance (latitude,lontitude)
-          (split values by ;): <input id="base-coord-input"
+          >Base coordinate(s) used for calculating distance
+          (name1:latitue,lontitude;name2:latitue,lontitude):
+          <input id="base-coord-input"
         /></label>
+        <br/>
+        <p>
+          Examples of coordinates:</p>
+        <ul>
+          <li>57.707374, 11.939192</li>
+          <li>A:57.707374, 11.939192</li>
+          <li>A: 57.707374, 11.939192; B: 57.697205421515136, 11.979597279729767</li>
+        </ul>
         <br />
         <label>Max acceptable rent (kr): <input id="max-rent-input" /></label>
         <br />
@@ -164,9 +173,10 @@
             const tableDiv = document.createElement("div");
             document.body.appendChild(tableDiv);
 
-            const parseLatLng = (value) => {
+            const parseCoord = (value) => {
+              const [name, latLng] = value.split(":");
               const [lat, lng] = (
-                value?.replace(/[^\d,.]/g, "").split(",") ?? []
+                (latLng || name)?.replace(/[^\d,.]/g, "").split(",") ?? []
               ).map((s) => parseFloat(s));
 
               if (
@@ -177,7 +187,7 @@
               )
                 return;
 
-              return { lat, lng };
+              return { lat, lng, name: latLng ? name : "" };
             };
 
             const getGridConfig = () => {
@@ -189,7 +199,7 @@
                 : null;
               const baseCoordsSrc = (searchParams.get("base-coord") || "")
                 .split(";")
-                .map((x) => parseLatLng(x))
+                .map((x) => parseCoord(x))
                 .filter((x) => x);
               const baseCoords = baseCoordsSrc.length
                 ? baseCoordsSrc
@@ -266,18 +276,19 @@
                   {
                     name: "Address",
                     formatter: (r) => {
+                      const addressCityName = postalCodeCityNameMapping[
+                              r.address.zip?.replace(/[^0-9]/g, "")
+                            ] ?? r.address.municipality;
                       return gridjs.h("span", {}, [
                         link(
                           `${r.address.street} ${r.address.street_number}, ${
-                            postalCodeCityNameMapping[
-                              r.address.zip?.replace(/[^0-9]/g, "")
-                            ] ?? r.address.municipality
+                            addressCityName
                           }`,
                           r.type === "project"
                             ? `https://www.homeq.se/projekt/${r.id}`
                             : `https://www.homeq.se/lagenhet/${r.id}`
                         ),
-                        r.$districtName ? ` (${r.$districtName})` : "",
+                        r.$districtName && addressCityName !== r.$districtName ? ` (${r.$districtName.startsWith(addressCityName + "s ") ? r.$districtName.slice(addressCityName.length + 2).replace(/^(.)(.*)/, (match, p1, p2) => p1.toLocaleUpperCase('sv') + p2 ) : r.$districtName})` : "",
                         " (",
                         link(
                           "Map",
@@ -289,14 +300,14 @@
                         r.floor_plan ? link("Plan", r.floor_plan) : "",
                         ")",
                         Array.isArray(r.rent)
-                          ? ` (Project x${r.rent.length})`
+                          ? ` (x${r.rent.length})`
                           : "",
                       ]);
                     },
                   },
                   {
                     name: "Dist.",
-                    width: "130px",
+                    width: "160px",
                     formatter: (r) => {
                       const renderNavi = (baseCoord) => {
                         const distance = getDistance(
@@ -347,7 +358,7 @@
                         baseCoords
                           .map((baseCoord, index) => [
                             index === 0 ? null : gridjs.h("br", {}, []),
-                            `${index + 1}: `,
+                            `${baseCoord.name || index + 1}: `,
                             renderNavi(baseCoord),
                           ])
                           .flat()
@@ -462,7 +473,7 @@
               baseCoordInput.addEventListener("change", (event) => {
                 const isValid = event.target.value
                   .split(";")
-                  .map((x) => parseLatLng(x))
+                  .map((x) => parseCoord(x))
                   .filter((x) => x).length;
                 if (isValid) {
                   setSearchParam("base-coord", event.target.value);
