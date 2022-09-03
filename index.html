@@ -27,8 +27,8 @@
         /></label>
         <br />
         <label
-          >Base coordinate used for calculating distance (latitude,lontitude):
-          <input id="base-coord-input"
+          >Base coordinate(s) used for calculating distance (latitude,lontitude)
+          (split values by ;): <input id="base-coord-input"
         /></label>
         <br />
         <label>Max acceptable rent (kr): <input id="max-rent-input" /></label>
@@ -187,8 +187,13 @@
               const cities = /[\p{L},]+/u.test(citiesSrc)
                 ? citiesSrc.split(",").map((x) => x.toLocaleLowerCase("sv"))
                 : null;
-              const baseCoord =
-                parseLatLng(searchParams.get("base-coord")) || defaultBaseCoord;
+              const baseCoordsSrc = (searchParams.get("base-coord") || "")
+                .split(";")
+                .map((x) => parseLatLng(x))
+                .filter((x) => x);
+              const baseCoords = baseCoordsSrc.length
+                ? baseCoordsSrc
+                : [defaultBaseCoord];
 
               const maxRentSrc = parseInt(searchParams.get("max-rent"), 10);
               const maxRent = Number.isNaN(maxRentSrc)
@@ -293,61 +298,82 @@
                     name: "Dist.",
                     width: "130px",
                     formatter: (r) => {
-                      const distance = getDistance(
-                        baseCoord.lat,
-                        baseCoord.lng,
-                        r.location.lat,
-                        r.location.lon
-                      );
+                      const renderNavi = (baseCoord) => {
+                        const distance = getDistance(
+                          baseCoord.lat,
+                          baseCoord.lng,
+                          r.location.lat,
+                          r.location.lon
+                        );
 
-                      const inrad = Math.atan2(
-                        r.location.lat - baseCoord.lat,
-                        r.location.lon - baseCoord.lng
-                      );
-                      // https://stackoverflow.com/a/1311134
-                      const degreeFromEast =
-                        ((inrad > 0 ? inrad : 2 * Math.PI + inrad) * 360) /
-                        (2 * Math.PI);
-                      const flooredDegreeFromNorth =
-                        (90 - Math.floor(degreeFromEast) + 360) % 360;
+                        const inrad = Math.atan2(
+                          r.location.lat - baseCoord.lat,
+                          r.location.lon - baseCoord.lng
+                        );
+                        // https://stackoverflow.com/a/1311134
+                        const degreeFromEast =
+                          ((inrad > 0 ? inrad : 2 * Math.PI + inrad) * 360) /
+                          (2 * Math.PI);
+                        const flooredDegreeFromNorth =
+                          (90 - Math.floor(degreeFromEast) + 360) % 360;
 
-                      const text = gridjs.h("span", {}, [
-                        gridjs.h(
-                          "span",
-                          {
-                            style: `display: inline-block; transform: rotate(${flooredDegreeFromNorth}deg)`,
-                          },
-                          ["🡹"]
-                        ),
-                        `${(distance / 1000).toFixed(1)} km `,
-                      ]);
+                        const text = gridjs.h("span", {}, [
+                          gridjs.h(
+                            "span",
+                            {
+                              style: `display: inline-block; transform: rotate(${flooredDegreeFromNorth}deg)`,
+                            },
+                            ["🡹"]
+                          ),
+                          `${(distance / 1000).toFixed(1)} km `,
+                        ]);
 
-                      return link(
-                        text,
-                        `https://www.google.com/maps/dir/?api=1&travelmode=bicycling&origin=${encodeURIComponent(
-                          baseCoord.lat
-                        )},${encodeURIComponent(
-                          baseCoord.lng
-                        )}&destination=${encodeURIComponent(
-                          // Use zip code for destination for better navigation result
-                          `${r.address.street} ${r.address.street_number}, ${r.address.zip}`
-                        )}`
+                        return link(
+                          text,
+                          `https://www.google.com/maps/dir/?api=1&travelmode=bicycling&origin=${encodeURIComponent(
+                            baseCoord.lat
+                          )},${encodeURIComponent(
+                            baseCoord.lng
+                          )}&destination=${encodeURIComponent(
+                            // Use zip code for destination for better navigation result
+                            `${r.address.street} ${r.address.street_number}, ${r.address.zip}`
+                          )}`
+                        );
+                      };
+
+                      return gridjs.h(
+                        "span",
+                        {},
+                        baseCoords
+                          .map((baseCoord, index) => [
+                            index === 0 ? null : gridjs.h("br", {}, []),
+                            `${index + 1}: `,
+                            renderNavi(baseCoord),
+                          ])
+                          .flat()
                       );
                     },
                     sort: {
-                      compare: (a, b) =>
-                        getDistance(
-                          baseCoord.lat,
-                          baseCoord.lng,
-                          a.location.lat,
-                          a.location.lon
-                        ) -
-                        getDistance(
-                          baseCoord.lat,
-                          baseCoord.lng,
-                          b.location.lat,
-                          b.location.lon
-                        ),
+                      compare: (a, b) => {
+                        return baseCoords
+                          .map((baseCoord) => {
+                            return (
+                              getDistance(
+                                baseCoord.lat,
+                                baseCoord.lng,
+                                a.location.lat,
+                                a.location.lon
+                              ) -
+                              getDistance(
+                                baseCoord.lat,
+                                baseCoord.lng,
+                                b.location.lat,
+                                b.location.lon
+                              )
+                            );
+                          })
+                          .reduce((prev, curr) => prev + curr, 0);
+                      },
                     },
                   },
                   {
@@ -434,12 +460,12 @@
                 new URL(location).searchParams.get("base-coord") ||
                 `${defaultBaseCoord.lat}, ${defaultBaseCoord.lng}`;
               baseCoordInput.addEventListener("change", (event) => {
-                const newLatLng = parseLatLng(event.target.value);
-                if (newLatLng) {
-                  setSearchParam(
-                    "base-coord",
-                    `${newLatLng.lat}, ${newLatLng.lng}`
-                  );
+                const isValid = event.target.value
+                  .split(";")
+                  .map((x) => parseLatLng(x))
+                  .filter((x) => x).length;
+                if (isValid) {
+                  setSearchParam("base-coord", event.target.value);
                 }
               });
             }
