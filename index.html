@@ -426,10 +426,10 @@
                   return [
                     r,
                     r,
-                    Array.isArray(r.floor) ? r.floor.sort()[0] : r.floor,
-                    Array.isArray(r.rooms) ? r.rooms.sort()[0] : r.rooms,
-                    Array.isArray(r.area) ? r.area.sort()[0] : r.area,
-                    Array.isArray(r.rent) ? r.rent.sort()[0] : r.rent,
+                    Array.isArray(r.floor) ? Math.min(...r.floor) : r.floor,
+                    Array.isArray(r.rooms) ? Math.min(...r.rooms) : r.rooms,
+                    Array.isArray(r.area) ? Math.min(... r.area) : r.area,
+                    Array.isArray(r.rent) ? Math.min(... r.rent) : r.rent,
                     getQueueDaysFromResult(r),
                     Array.isArray(r.access_date)
                       ? r.access_date.sort()[0]
