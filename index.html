@@ -78,6 +78,7 @@
               : r.audience === "everyone"
           );
       };
+      mainFilter.toString = () => "Hide short lease and hide student/youth/senior housing (i.e. show only apartments that allow anyone to apply for)";
 
       const openExternalLink = (link) => {
         window.open(link, "_blank", "noopener,noreferrer");
@@ -165,10 +166,7 @@
                 : enRelativeTimeFormat.format(minutesSinceLastUpdated, "minute")
             })`;
             document.getElementById("mainFilter").innerText = mainFilter
-              .toString()
-              .split("\n")
-              .slice(1, -1)
-              .join("\n");
+              .toString();
 
             const tableDiv = document.createElement("div");
             document.body.appendChild(tableDiv);
