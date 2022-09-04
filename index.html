@@ -19,35 +19,36 @@
       <p>Main filter:</p>
       <pre id="mainFilter"></pre>
 
-      <p>
-        Custom filters:
-        <br />
-        <label
-          >Cities/Municipalities (split by ,): <input id="cities-input"
-        /></label>
-        <br />
-        <label
-          >Base coordinate(s) used for calculating distance
-          (name1:latitue,lontitude;name2:latitue,lontitude):
-          <input id="base-coord-input"
-        /></label>
-        <br/>
+      <div>
+        <p>Custom filters:</p>
         <p>
-          Examples of coordinates:</p>
+          <label
+            >Cities/Municipalities (split by ,): <input id="cities-input"
+          /></label>
+          <br />
+          <label>Max acceptable rent (kr): <input id="max-rent-input" /></label>
+          <br />
+          <label
+            >You joined HomeQ's queue since (yyyy-MM-dd):
+            <input id="in-queue-since-input" />
+            <span id="in-queue-for-days"></span
+          ></label>
+          <br />
+          <label
+            >Base coordinate(s) used for calculating distance
+            (name1:latitue,lontitude;name2:latitue,lontitude):
+            <input id="base-coord-input"
+          /></label>
+        </p>
+        <p>Examples of coordinates:</p>
         <ul>
           <li>57.707374, 11.939192</li>
           <li>A:57.707374, 11.939192</li>
-          <li>A: 57.707374, 11.939192; B: 57.697205421515136, 11.979597279729767</li>
+          <li>
+            A: 57.707374, 11.939192; B: 57.697205421515136, 11.979597279729767
+          </li>
         </ul>
-        <br />
-        <label>Max acceptable rent (kr): <input id="max-rent-input" /></label>
-        <br />
-        <label
-          >You joined HomeQ's queue since (yyyy-MM-dd):
-          <input id="in-queue-since-input" />
-          <span id="in-queue-for-days"></span
-        ></label>
-      </p>
+      </div>
       <p>
         Search result count (custom filtered / main filtered / all results):
         <span id="search-result-count"></span>
@@ -78,7 +79,8 @@
               : r.audience === "everyone"
           );
       };
-      mainFilter.toString = () => "Hide short lease and hide student/youth/senior housing (i.e. show only apartments that allow anyone to apply for)";
+      mainFilter.toString = () =>
+        "Hide short lease and hide student/youth/senior housing (i.e. show only apartments that allow anyone to apply for)";
 
       const openExternalLink = (link) => {
         window.open(link, "_blank", "noopener,noreferrer");
@@ -165,8 +167,8 @@
                   )
                 : enRelativeTimeFormat.format(minutesSinceLastUpdated, "minute")
             })`;
-            document.getElementById("mainFilter").innerText = mainFilter
-              .toString();
+            document.getElementById("mainFilter").innerText =
+              mainFilter.toString();
 
             const tableDiv = document.createElement("div");
             document.body.appendChild(tableDiv);
@@ -274,19 +276,19 @@
                   {
                     name: "Address",
                     formatter: (r) => {
-                      const addressCityName = postalCodeCityNameMapping[
-                              r.address.zip?.replace(/[^0-9]/g, "")
-                            ] ?? r.address.municipality;
+                      const addressCityName =
+                        postalCodeCityNameMapping[
+                          r.address.zip?.replace(/[^0-9]/g, "")
+                        ] ?? r.address.municipality;
                       return gridjs.h("span", {}, [
                         link(
-                          `${r.address.street} ${r.address.street_number}, ${
-                            addressCityName
-                          }`,
+                          `${r.address.street} ${r.address.street_number}, ${addressCityName}`,
                           r.type === "project"
                             ? `https://www.homeq.se/projekt/${r.id}`
                             : `https://www.homeq.se/lagenhet/${r.id}`
                         ),
-                        r.$districtName && addressCityName !== r.$districtName ? ` (${r.$districtName.startsWith(addressCityName + "s ") ? r.$districtName.slice(addressCityName.length + 2).replace(/^(.)(.*)/, (match, p1, p2) => p1.toLocaleUpperCase('sv') + p2 ) : r.$districtName})` : "",
+
+                        gridjs.h("br", {}, []),
                         " (",
                         link(
                           "Map",
@@ -297,15 +299,37 @@
                         r.floor_plan ? ", " : "",
                         r.floor_plan ? link("Plan", r.floor_plan) : "",
                         ")",
-                        Array.isArray(r.rent)
-                          ? ` (x${r.rent.length})`
-                          : "",
+                        Array.isArray(r.rent) ? ` (x${r.rent.length})` : "",
                       ]);
                     },
                   },
                   {
-                    name: "Dist.",
-                    width: "160px",
+                    name: "District",
+                    width: "180px",
+                    formatter: (r) => {
+                      const addressCityName =
+                        postalCodeCityNameMapping[
+                          r.address.zip?.replace(/[^0-9]/g, "")
+                        ] ?? r.address.municipality;
+                      return r.$districtName &&
+                        addressCityName !== r.$districtName
+                        ? `${
+                            r.$districtName.startsWith(addressCityName + "s ")
+                              ? r.$districtName
+                                  .slice(addressCityName.length + 2)
+                                  .replace(
+                                    /^(.)(.*)/,
+                                    (match, p1, p2) =>
+                                      p1.toLocaleUpperCase("sv") + p2
+                                  )
+                              : r.$districtName
+                          }`
+                        : "";
+                    },
+                  },
+                  {
+                    name: "Distance",
+                    width: "180px",
                     formatter: (r) => {
                       const renderNavi = (baseCoord) => {
                         const distance = getDistance(
@@ -426,10 +450,11 @@
                   return [
                     r,
                     r,
+                    r,
                     Array.isArray(r.floor) ? Math.min(...r.floor) : r.floor,
                     Array.isArray(r.rooms) ? Math.min(...r.rooms) : r.rooms,
-                    Array.isArray(r.area) ? Math.min(... r.area) : r.area,
-                    Array.isArray(r.rent) ? Math.min(... r.rent) : r.rent,
+                    Array.isArray(r.area) ? Math.min(...r.area) : r.area,
+                    Array.isArray(r.rent) ? Math.min(...r.rent) : r.rent,
                     getQueueDaysFromResult(r),
                     Array.isArray(r.access_date)
                       ? r.access_date.sort()[0]
