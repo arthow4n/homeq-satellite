@@ -26,6 +26,10 @@
             >Cities/Municipalities (split by ,): <input id="cities-input"
           /></label>
           <br />
+          <label
+            >Districts to hide (split by ,): <input id="hide-districts-input"
+          /></label>
+          <br />
           <label>Max acceptable rent (kr): <input id="max-rent-input" /></label>
           <br />
           <label
@@ -190,13 +194,38 @@
               return { lat, lng, name: latLng ? name : "" };
             };
 
+            const renderDistrictName = (r) => {
+              const addressCityName =
+                postalCodeCityNameMapping[
+                  r.address.zip?.replace(/[^0-9]/g, "")
+                ] ?? r.address.municipality;
+              return r.$districtName && addressCityName !== r.$districtName
+                ? `${
+                    r.$districtName.startsWith(addressCityName + "s ")
+                      ? r.$districtName
+                          .slice(addressCityName.length + 2)
+                          .replace(
+                            /^(.)(.*)/,
+                            (match, p1, p2) => p1.toLocaleUpperCase("sv") + p2
+                          )
+                      : r.$districtName
+                  }`
+                : "";
+            };
+
             const getGridConfig = () => {
               const searchParams = new URL(location).searchParams;
 
               const citiesSrc = searchParams.get("cities");
-              const cities = /[\p{L},]+/u.test(citiesSrc)
+              const cities = /[\p{L} ,]+/u.test(citiesSrc)
                 ? citiesSrc.split(",").map((x) => x.toLocaleLowerCase("sv"))
-                : null;
+                : [];
+              const hideDistrictsSrc = searchParams.get("hide-districts");
+              const hideDistricts = /[\p{L} ,]+/u.test(hideDistrictsSrc)
+                ? hideDistrictsSrc
+                    .split(",")
+                    .map((x) => x.toLocaleLowerCase("sv"))
+                : [];
               const baseCoordsSrc = (searchParams.get("base-coord") || "")
                 .split(";")
                 .map((x) => parseCoord(x))
@@ -225,7 +254,7 @@
               const customFiltered = mainFiltered
                 .filter((r) => {
                   return (
-                    cities === null ||
+                    !cities.length ||
                     cities.includes(
                       (r.address.city ?? "").trim().toLocaleLowerCase("sv")
                     ) ||
@@ -241,6 +270,12 @@
                     )
                   );
                 })
+                .filter(
+                  (r) =>
+                    !hideDistricts.includes(
+                      renderDistrictName(r).toLocaleLowerCase("sv")
+                    )
+                )
                 // TODO: Known issue: Need to refactor quite some code to support search results with type: project
                 .filter((r) =>
                   Array.isArray(r.rent)
@@ -389,24 +424,7 @@
                     name: "District",
                     width: "180px",
                     formatter: (r) => {
-                      const addressCityName =
-                        postalCodeCityNameMapping[
-                          r.address.zip?.replace(/[^0-9]/g, "")
-                        ] ?? r.address.municipality;
-                      return r.$districtName &&
-                        addressCityName !== r.$districtName
-                        ? `${
-                            r.$districtName.startsWith(addressCityName + "s ")
-                              ? r.$districtName
-                                  .slice(addressCityName.length + 2)
-                                  .replace(
-                                    /^(.)(.*)/,
-                                    (match, p1, p2) =>
-                                      p1.toLocaleUpperCase("sv") + p2
-                                  )
-                              : r.$districtName
-                          }`
-                        : "";
+                      return renderDistrictName(r);
                     },
                   },
                   {
@@ -481,8 +499,24 @@
               setSearchParam("cities", citiesInput.value);
 
               citiesInput.addEventListener("change", (event) => {
-                if (/[\p{L},]*/u.test(event.target.value)) {
+                if (/[\p{L} ,]*/u.test(event.target.value)) {
                   setSearchParam("cities", event.target.value);
+                }
+              });
+            }
+
+            {
+              const hideDistrictsInput = document.querySelector(
+                "#hide-districts-input"
+              );
+              hideDistrictsInput.value = new URL(location).searchParams.get(
+                "hide-districts"
+              );
+              setSearchParam("hide-districts", hideDistrictsInput.value);
+
+              hideDistrictsInput.addEventListener("change", (event) => {
+                if (/[\p{L} ,]*/u.test(event.target.value)) {
+                  setSearchParam("hide-districts", event.target.value);
                 }
               });
             }
