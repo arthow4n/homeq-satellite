@@ -250,6 +250,11 @@
                   ? r.$object_ad.last_accept
                   : Infinity;
 
+              const getArea = (r) =>
+                Array.isArray(r.area) ? Math.min(...r.area) : r.area;
+              const getRent = (r) =>
+                Array.isArray(r.rent) ? Math.min(...r.rent) : r.rent;
+
               const mainFiltered = mainFilter(searchResults);
               const customFiltered = mainFiltered
                 .filter((r) => {
@@ -439,21 +444,32 @@
                   },
                   {
                     name: "Size",
-                    width: "120px",
+                    width: "110px",
                     formatter: (cell) => `${cell} m2`,
                   },
                   {
                     name: "Rent",
-                    width: "110px",
-                    formatter: (cell) => `${cell} kr`,
+                    width: "130px",
+                    formatter: (r) => {
+                      return gridjs.h("span", {}, [
+                        `${getRent(r)} kr`,
+                        gridjs.h("br", {}, []),
+                        "(",
+                        `${Math.ceil(getRent(r) / getArea(r))} kr/m2`,
+                        ")",
+                      ]);
+                    },
+                    sort: {
+                      compare: (a, b) => getRent(b) - getRent(a),
+                    },
                   },
                   {
                     name: "Queue",
-                    width: "120px",
+                    width: "110px",
                     formatter: (cell) =>
                       cell === -1
                         ? "Random"
-                        : `${cell === Infinity ? "?" : cell} days`,
+                        : `${cell === Infinity ? "?" : cell} d`,
                   },
                   {
                     name: "Access",
@@ -471,8 +487,8 @@
                     r,
                     Array.isArray(r.floor) ? Math.min(...r.floor) : r.floor,
                     Array.isArray(r.rooms) ? Math.min(...r.rooms) : r.rooms,
-                    Array.isArray(r.area) ? Math.min(...r.area) : r.area,
-                    Array.isArray(r.rent) ? Math.min(...r.rent) : r.rent,
+                    getArea(r),
+                    r,
                     getQueueDaysFromResult(r),
                     Array.isArray(r.access_date)
                       ? r.access_date.sort()[0]
