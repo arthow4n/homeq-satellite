@@ -51,21 +51,34 @@ const filterForFetchingQueuePointsInfo = (x) =>
 
         do {
           await new Promise((resolve) => setTimeout(resolve, 2400));
-          const { object_ad } = await fetch(
-            `https://www.homeq.se/api/v1/object/${r.id}`,
-            {
+          const url = `https://www.homeq.se/api/v1/object/${r.id}`;
+          try {
+            const controller = new AbortController();
+            const timeout = setTimeout(() => {
+              controller.abort();
+            }, 5000);
+
+            const { object_ad } = await fetch(url, {
               headers: {
                 accept: "application/json",
                 "content-type": "application/json",
               },
               referrer: "https://www.homeq.se/",
               method: "GET",
-            }
-          ).then((res) => res.json());
+              signal: controller.signal,
+            }).then((res) => {
+              clearTimeout(timeout);
+              return res.json();
+            });
 
-          if (object_ad) {
-            r.$object_ad = object_ad;
-            break;
+            if (object_ad) {
+              r.$object_ad = object_ad;
+              break;
+            }
+          } catch (e) {
+            console.log(
+              `${new Date().toISOString()} - Got exception when trying to fetch ${url}, exception: ${e}`
+            );
           }
         } while (true);
       }
