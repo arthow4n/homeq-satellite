@@ -33,6 +33,14 @@
           <label>Max acceptable rent (kr): <input id="max-rent-input" /></label>
           <br />
           <label
+            >Required amenities (split by ,):
+            <input id="required-amenities-input" /> (options: balcony,
+            dishwasher, bathtub, washer, drier, garage, patio, elevator,
+            kitchen_fan, parking, pets, handicap_friendly, heat, water,
+            electricity, tv, internet)</label
+          >
+          <br />
+          <label
             >You joined HomeQ's queue since (yyyy-MM-dd):
             <input id="in-queue-since-input" />
             <span id="in-queue-for-days"></span
@@ -115,6 +123,31 @@
         const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
         const d = R * c;
         return d; // returns the distance in meter
+      };
+      const validAmenityOptions = new Set([
+        "balcony",
+        "dishwasher",
+        "bathtub",
+        "washer",
+        "drier",
+        "garage",
+        "patio",
+        "elevator",
+        "kitchen_fan",
+        "parking",
+        "pets",
+        "handicap_friendly",
+        "heat",
+        "water",
+        "electricity",
+        "tv",
+        "internet",
+      ]);
+      const parseAmenities = (input) => {
+        return input
+          .split(",")
+          .map((x) => x.trim())
+          .filter((x) => validAmenityOptions.has(x));
       };
 
       const calculateInQueueForDaysFromStringDate = (s) => {
@@ -239,6 +272,10 @@
                 ? defaultMaximumRent
                 : maxRentSrc;
 
+              const requiredAmenitiesSrc =
+                searchParams.get("required-amenities") || "";
+              const requiredAmenities = parseAmenities(requiredAmenitiesSrc);
+
               const inQueueSinceSrc = searchParams.get("in-queue-since");
               const inQueueForDays =
                 calculateInQueueForDaysFromStringDate(inQueueSinceSrc);
@@ -287,6 +324,13 @@
                     ? Math.min(...r.rent) <= maxRent
                     : r.rent <= maxRent
                 )
+                .filter((r) => {
+                  return requiredAmenities.every((amenity) => {
+                    const v = r.amenities[amenity];
+                    const hasAmenity = Array.isArray(v) ? v.some((x) => x) : v;
+                    return hasAmenity;
+                  });
+                })
                 .filter(
                   (r) =>
                     r.type === "project" ||
@@ -562,6 +606,21 @@
               maxRentInput.addEventListener("change", (event) => {
                 if (parseInt(event.target.value, 10) !== NaN) {
                   setSearchParam("max-rent", event.target.value);
+                }
+              });
+            }
+
+            {
+              const requiredAmenitiesInput = document.querySelector(
+                "#required-amenities-input"
+              );
+              requiredAmenitiesInput.value =
+                new URL(location).searchParams.get("required-amenities") || "";
+
+              requiredAmenitiesInput.addEventListener("change", (event) => {
+                const cleaned = parseAmenities(event.target.value);
+                if (cleaned.length) {
+                  setSearchParam("required-amenities", cleaned.join(","));
                 }
               });
             }
