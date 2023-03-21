@@ -335,6 +335,7 @@
                   (r) =>
                     r.type === "project" ||
                     inQueueForDays === null ||
+                    getQueueDaysFromResult(r) == Infinity ||
                     getQueueDaysFromResult(r) <= inQueueForDays
                 );
               document.querySelector(
