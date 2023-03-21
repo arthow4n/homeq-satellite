@@ -618,7 +618,13 @@
                 new URL(location).searchParams.get("required-amenities") || "";
 
               requiredAmenitiesInput.addEventListener("change", (event) => {
+                if (!event.target.value) {
+                  setSearchParam("required-amenities", "");
+                  return;
+                }
+
                 const cleaned = parseAmenities(event.target.value);
+
                 if (cleaned.length) {
                   setSearchParam("required-amenities", cleaned.join(","));
                 }
