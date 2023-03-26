@@ -49,6 +49,8 @@ const filterForFetchingQueuePointsInfo = (x) =>
           }`
         );
 
+        const maxTries = 3;
+        let tries = 1;
         do {
           const maxTries = 3;
           let tries = 1;
