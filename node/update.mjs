@@ -50,6 +50,8 @@ const filterForFetchingQueuePointsInfo = (x) =>
         );
 
         do {
+          const maxTries = 3;
+          let tries = 1;
           await new Promise((resolve) => setTimeout(resolve, 2400));
           const url = `https://www.homeq.se/api/v1/object/${r.id}`;
           try {
@@ -58,7 +60,7 @@ const filterForFetchingQueuePointsInfo = (x) =>
               controller.abort();
             }, 5000);
 
-            const { object_ad } = await fetch(url, {
+            const res = await fetch(url, {
               headers: {
                 accept: "application/json",
                 "content-type": "application/json",
@@ -66,10 +68,10 @@ const filterForFetchingQueuePointsInfo = (x) =>
               referrer: "https://www.homeq.se/",
               method: "GET",
               signal: controller.signal,
-            }).then((res) => {
-              clearTimeout(timeout);
-              return res.json();
             });
+
+            const { object_ad } = await res.json();
+            clearTimeout(timeout);
 
             if (object_ad) {
               r.$object_ad = object_ad;
@@ -77,10 +79,11 @@ const filterForFetchingQueuePointsInfo = (x) =>
             }
           } catch (e) {
             console.log(
-              `${new Date().toISOString()} - Got exception when trying to fetch ${url}, exception: ${e}`
+              `${new Date().toISOString()} - Got exception when trying to fetch ${url}, exception: ${e}, retries ${tries}/${maxTries}`
             );
+            tries++;
           }
-        } while (true);
+        } while (tries <= maxTries);
       }
 
       return results;
