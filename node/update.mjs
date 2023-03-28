@@ -17,13 +17,24 @@ const getDistrictName = ({ lat, lon }) => {
   )?.properties.distriktsnamn;
 };
 
-const filterForFetchingQueuePointsInfo = (x) =>
-  x
-    .filter((r) =>
-      ["göteborg", "mölndal"].includes(r.address.city?.toLowerCase())
+const filterForFetchingQueuePointsInfo = (x) => {
+  const areasToFetch = [
+    "göteborg",
+    "mölndal",
+    "partille",
+    "stockholm",
+    "malmö",
+  ];
+
+  return x
+    .filter(
+      (r) =>
+        areasToFetch.includes(r.address.city?.toLocaleLowerCase("sv")) ||
+        areasToFetch.includes(r.address.municipality?.toLocaleLowerCase("sv"))
     )
     .filter((r) => !r.short_lease)
     .filter((r) => r.audience !== "student");
+};
 
 // Main
 {
