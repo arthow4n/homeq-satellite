@@ -49,7 +49,7 @@ const filterForFetchingQueuePointsInfo = (x) =>
           }`
         );
 
-        const maxTries = 3;
+        const maxTries = 2;
         let tries = 1;
         do {
           const maxTries = 3;
@@ -77,8 +77,9 @@ const filterForFetchingQueuePointsInfo = (x) =>
 
             if (object_ad) {
               r.$object_ad = object_ad;
-              break;
             }
+
+            break;
           } catch (e) {
             console.log(
               `${new Date().toISOString()} - Got exception when trying to fetch ${url}, exception: ${e}, retries ${tries}/${maxTries}`
