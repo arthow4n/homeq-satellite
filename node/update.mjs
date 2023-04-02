@@ -63,8 +63,6 @@ const filterForFetchingQueuePointsInfo = (x) => {
         const maxTries = 2;
         let tries = 1;
         do {
-          const maxTries = 3;
-          let tries = 1;
           await new Promise((resolve) => setTimeout(resolve, 2400));
           const url = `https://www.homeq.se/api/v1/object/${r.id}`;
           try {
@@ -110,12 +108,35 @@ const filterForFetchingQueuePointsInfo = (x) => {
     }
   });
 
+  const lastUpdatedAt = new Date().toISOString();
   await writeFile(
     "./searchResults.json",
     JSON.stringify(
       {
-        lastUpdatedAt: new Date().toISOString(),
+        lastUpdatedAt,
         searchResults,
+      },
+      null,
+      2
+    )
+  );
+
+  const { lastRecordByIdMapping } = JSON.parse(
+    await readFile("./lastRecordByIdMapping.json", "utf8")
+  );
+  searchResults.forEach((r) => {
+    // Store only the ones with queue days information as that's the only thing that really changes.
+    const lastAccept = r.$object_ad?.last_accept;
+    if (typeof lastAccept === "number") {
+      lastRecordByIdMapping[r.id] = r;
+    }
+  });
+  await writeFile(
+    "./lastRecordByIdMapping.json",
+    JSON.stringify(
+      {
+        lastUpdatedAt,
+        lastRecordByIdMapping,
       },
       null,
       2
