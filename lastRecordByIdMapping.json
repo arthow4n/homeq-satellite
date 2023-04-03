@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-04-03T07:37:40.033Z",
+  "lastUpdatedAt": "2023-04-03T08:43:01.712Z",
   "lastRecordByIdMapping": {
     "70303": {
       "id": 70303,
@@ -4251,7 +4251,7 @@
         "candidate_sorting_mode": "queue_points",
         "contract_system": "B",
         "handicap_friendly": false,
-        "last_accept": 490,
+        "last_accept": 525,
         "office": {
           "id": 1002
         },
@@ -9483,7 +9483,7 @@
         "candidate_sorting_mode": "queue_points",
         "contract_system": "B",
         "handicap_friendly": false,
-        "last_accept": 416,
+        "last_accept": 366,
         "office": {
           "id": 389
         },
@@ -11347,7 +11347,7 @@
         "promotion_file": ""
       },
       "indexed_at": "2023-03-31T13:10:35.820350",
-      "boost_value": 3,
+      "boost_value": 2.95,
       "$object_ad": {
         "is_renovated": false,
         "heat_included": true,
@@ -12702,7 +12702,7 @@
         "candidate_sorting_mode": "queue_points",
         "contract_system": "B",
         "handicap_friendly": false,
-        "last_accept": 1541,
+        "last_accept": 1531,
         "office": {
           "id": 62
         },
@@ -19842,7 +19842,7 @@
         "promotion_file": ""
       },
       "indexed_at": "2023-03-31T14:39:38.723349",
-      "boost_value": 2.18,
+      "boost_value": 2.13,
       "$object_ad": {
         "is_renovated": false,
         "heat_included": true,
@@ -22559,7 +22559,7 @@
         "promotion_file": ""
       },
       "indexed_at": "2023-03-31T13:10:35.806054",
-      "boost_value": 1.7999999999999998,
+      "boost_value": 1.7599999999999998,
       "$object_ad": {
         "is_renovated": false,
         "heat_included": true,
@@ -23254,7 +23254,7 @@
         "candidate_sorting_mode": "queue_points",
         "contract_system": "B",
         "handicap_friendly": false,
-        "last_accept": 1466,
+        "last_accept": 1462,
         "office": {
           "id": 1271
         },
@@ -25051,7 +25051,7 @@
         "landlord_object_id": "21540-00185",
         "promotion_file": ""
       },
-      "indexed_at": "2023-03-31T13:51:42.748003",
+      "indexed_at": "2023-04-03T10:00:48.806643",
       "boost_value": 0,
       "$object_ad": {
         "is_renovated": false,
@@ -27782,6 +27782,7 @@
     },
     "78701": {
       "id": 78701,
+      "uri": "/lagenhet/78701-2rum-göteborg-västra-götalands-län-arves-marias-väg-10",
       "landlord_object_id": "298023112",
       "type": "individual",
       "images": [
@@ -27794,13 +27795,13 @@
       "videos": [],
       "publish_date": "2023-03-24",
       "shapes": [
+        "area.64",
         "county.14",
-        "area.76",
+        "district.107087",
         "municipality.1480",
         "metropolitan_area.8",
-        "district.107038",
-        "urban_area.4588",
-        "area.65"
+        "urban_area.4368",
+        "area.56"
       ],
       "audience": "everyone",
       "short_lease": false,
@@ -27814,8 +27815,8 @@
         "project": null
       },
       "location": {
-        "lat": 57.6196626,
-        "lon": 11.768777
+        "lat": 57.7499805,
+        "lon": 11.9297117
       },
       "status": "Active",
       "rent": 8517,
@@ -27857,7 +27858,7 @@
         "landlord_object_id": "298023112",
         "promotion_file": ""
       },
-      "indexed_at": "2023-03-24T11:43:26.264095",
+      "indexed_at": "2023-04-03T09:35:19.352448",
       "boost_value": 0,
       "$object_ad": {
         "is_renovated": false,
@@ -27912,8 +27913,8 @@
         "public_profile_slug": null,
         "date_access": "2023-06-01",
         "can_apply": true,
-        "longitude": "11.7687770",
-        "latitude": "57.6196626",
+        "longitude": "11.9297117",
+        "latitude": "57.7499805",
         "date_publish": "2023-03-24",
         "new_production": false,
         "estate_id": 3612,
@@ -27942,10 +27943,11 @@
           "id": 414
         }
       },
-      "$districtName": "Styrsö"
+      "$districtName": "Tuve"
     },
     "78704": {
       "id": 78704,
+      "uri": "/lagenhet/78704-2rum-göteborg-västra-götalands-län-arves-marias-väg-10",
       "landlord_object_id": "29802098",
       "type": "individual",
       "images": [
@@ -27993,13 +27995,13 @@
       "videos": [],
       "publish_date": "2023-03-24",
       "shapes": [
+        "area.64",
         "county.14",
-        "area.76",
+        "district.107087",
         "municipality.1480",
         "metropolitan_area.8",
-        "district.107038",
-        "urban_area.4588",
-        "area.65"
+        "urban_area.4368",
+        "area.56"
       ],
       "audience": "everyone",
       "short_lease": false,
@@ -28013,8 +28015,8 @@
         "project": null
       },
       "location": {
-        "lat": 57.6196626,
-        "lon": 11.768777
+        "lat": 57.7499805,
+        "lon": 11.9297117
       },
       "status": "Active",
       "rent": 9249,
@@ -28056,7 +28058,7 @@
         "landlord_object_id": "29802098",
         "promotion_file": ""
       },
-      "indexed_at": "2023-03-24T11:43:26.261540",
+      "indexed_at": "2023-04-03T09:35:19.349944",
       "boost_value": 0,
       "$object_ad": {
         "is_renovated": false,
@@ -28146,8 +28148,8 @@
         "public_profile_slug": null,
         "date_access": "2023-06-01",
         "can_apply": true,
-        "longitude": "11.7687770",
-        "latitude": "57.6196626",
+        "longitude": "11.9297117",
+        "latitude": "57.7499805",
         "date_publish": "2023-03-24",
         "new_production": false,
         "estate_id": 3612,
@@ -28176,10 +28178,11 @@
           "id": 414
         }
       },
-      "$districtName": "Styrsö"
+      "$districtName": "Tuve"
     },
     "78706": {
       "id": 78706,
+      "uri": "/lagenhet/78706-2rum-göteborg-västra-götalands-län-finlandsvägen-51",
       "landlord_object_id": "29803066",
       "type": "individual",
       "images": [
@@ -28255,7 +28258,7 @@
         "landlord_object_id": "29803066",
         "promotion_file": ""
       },
-      "indexed_at": "2023-03-24T11:43:26.257789",
+      "indexed_at": "2023-04-03T09:35:19.355612",
       "boost_value": 0,
       "$object_ad": {
         "is_renovated": false,
@@ -29611,7 +29614,7 @@
         "candidate_sorting_mode": "queue_points",
         "contract_system": "B",
         "handicap_friendly": false,
-        "last_accept": 1145,
+        "last_accept": 1178,
         "office": {
           "id": 1345
         },
@@ -29775,7 +29778,7 @@
         "candidate_sorting_mode": "queue_points",
         "contract_system": "B",
         "handicap_friendly": false,
-        "last_accept": 93,
+        "last_accept": 101,
         "office": {
           "id": 673
         },
@@ -29990,7 +29993,7 @@
         "candidate_sorting_mode": "random",
         "contract_system": "B",
         "handicap_friendly": false,
-        "last_accept": 1015,
+        "last_accept": 1038,
         "office": {
           "id": 331
         },
@@ -31132,7 +31135,7 @@
         "candidate_sorting_mode": "queue_points",
         "contract_system": "B",
         "handicap_friendly": false,
-        "last_accept": 55,
+        "last_accept": 68,
         "office": {
           "id": 839
         },
@@ -31345,7 +31348,7 @@
         "candidate_sorting_mode": "queue_points",
         "contract_system": "B",
         "handicap_friendly": false,
-        "last_accept": 55,
+        "last_accept": 68,
         "office": {
           "id": 839
         },
@@ -31761,7 +31764,7 @@
         "candidate_sorting_mode": "queue_points",
         "contract_system": "B",
         "handicap_friendly": false,
-        "last_accept": 0,
+        "last_accept": 10,
         "office": {
           "id": 839
         },
@@ -33737,7 +33740,7 @@
         "promotion_file": ""
       },
       "indexed_at": "2023-03-31T06:01:16.029216",
-      "boost_value": 0.97,
+      "boost_value": 0.86,
       "$object_ad": {
         "is_renovated": false,
         "heat_included": true,
@@ -33838,7 +33841,7 @@
         "candidate_sorting_mode": "queue_points",
         "contract_system": "D",
         "handicap_friendly": false,
-        "last_accept": 701,
+        "last_accept": 765,
         "office": {
           "id": 69
         },
@@ -34167,7 +34170,7 @@
         "promotion_file": ""
       },
       "indexed_at": "2023-03-31T08:30:50.344881",
-      "boost_value": 1.53,
+      "boost_value": 1.42,
       "$object_ad": {
         "is_renovated": false,
         "heat_included": true,
@@ -34268,7 +34271,7 @@
         "candidate_sorting_mode": "queue_points",
         "contract_system": "D",
         "handicap_friendly": false,
-        "last_accept": 403,
+        "last_accept": 433,
         "office": {
           "id": 69
         },
@@ -35906,7 +35909,7 @@
         "candidate_sorting_mode": "queue_points",
         "contract_system": "B",
         "handicap_friendly": false,
-        "last_accept": 632,
+        "last_accept": 726,
         "office": {
           "id": 281
         },
@@ -36335,7 +36338,7 @@
     "79035": {
       "id": 79035,
       "uri": "/lagenhet/79035-3rum-göteborg-västra-götalands-län-skillingmyntsgatan-8",
-      "landlord_object_id": "111502",
+      "landlord_object_id": "20602-111502",
       "type": "individual",
       "images": [
         {
@@ -36427,10 +36430,10 @@
       },
       "display": {
         "floor_plan": "https://homeq-media-live.s3.amazonaws.com/floor_plans/456942a4a0aa408ca84f41fd9054bb1e.pdf",
-        "landlord_object_id": "111502",
+        "landlord_object_id": "20602-111502",
         "promotion_file": ""
       },
-      "indexed_at": "2023-04-03T09:20:45.104805",
+      "indexed_at": "2023-04-03T09:29:24.775373",
       "boost_value": 0,
       "$object_ad": {
         "is_renovated": false,
@@ -37966,7 +37969,7 @@
         "landlord_object_id": "21540-00127",
         "promotion_file": ""
       },
-      "indexed_at": "2023-03-31T13:51:42.756990",
+      "indexed_at": "2023-04-03T10:00:48.810755",
       "boost_value": 0,
       "$object_ad": {
         "is_renovated": false,
@@ -38556,7 +38559,7 @@
         "candidate_sorting_mode": "queue_points",
         "contract_system": "B",
         "handicap_friendly": false,
-        "last_accept": 1514,
+        "last_accept": 1521,
         "office": {
           "id": 274
         },
@@ -43314,7 +43317,7 @@
         "candidate_sorting_mode": "queue_points",
         "contract_system": "B",
         "handicap_friendly": false,
-        "last_accept": 775,
+        "last_accept": 792,
         "office": {
           "id": 62
         },
@@ -45639,7 +45642,7 @@
         "candidate_sorting_mode": "queue_points",
         "contract_system": "B",
         "handicap_friendly": false,
-        "last_accept": 1684,
+        "last_accept": 1546,
         "office": {
           "id": 618
         },
@@ -46136,7 +46139,7 @@
         "promotion_file": ""
       },
       "indexed_at": "2023-03-31T14:39:38.715315",
-      "boost_value": 0.37,
+      "boost_value": 0.34,
       "$object_ad": {
         "is_renovated": false,
         "heat_included": true,
@@ -46222,7 +46225,7 @@
         "candidate_sorting_mode": "queue_points",
         "contract_system": "D",
         "handicap_friendly": false,
-        "last_accept": 879,
+        "last_accept": 981,
         "office": {
           "id": 66
         },
@@ -47019,7 +47022,7 @@
         "candidate_sorting_mode": "queue_points",
         "contract_system": "B",
         "handicap_friendly": false,
-        "last_accept": 36,
+        "last_accept": 112,
         "office": {
           "id": 62
         },
@@ -47304,7 +47307,7 @@
         "candidate_sorting_mode": "queue_points",
         "contract_system": "B",
         "handicap_friendly": false,
-        "last_accept": 777,
+        "last_accept": 1033,
         "office": {
           "id": 108
         },
@@ -47579,7 +47582,7 @@
         "candidate_sorting_mode": "queue_points",
         "contract_system": "B",
         "handicap_friendly": false,
-        "last_accept": 986,
+        "last_accept": 1019,
         "office": {
           "id": 108
         },
@@ -47854,7 +47857,7 @@
         "candidate_sorting_mode": "queue_points",
         "contract_system": "B",
         "handicap_friendly": false,
-        "last_accept": 845,
+        "last_accept": 865,
         "office": {
           "id": 108
         },
@@ -48414,7 +48417,7 @@
         "candidate_sorting_mode": "queue_points",
         "contract_system": "B",
         "handicap_friendly": false,
-        "last_accept": 0,
+        "last_accept": 371,
         "office": {
           "id": 108
         },
@@ -48944,7 +48947,7 @@
         "candidate_sorting_mode": "queue_points",
         "contract_system": "B",
         "handicap_friendly": false,
-        "last_accept": 885,
+        "last_accept": 940,
         "office": {
           "id": 108
         },
@@ -49649,7 +49652,7 @@
         "candidate_sorting_mode": "queue_points",
         "contract_system": "B",
         "handicap_friendly": false,
-        "last_accept": 920,
+        "last_accept": 926,
         "office": {
           "id": 108
         },
@@ -50770,7 +50773,7 @@
         "candidate_sorting_mode": "queue_points",
         "contract_system": "B",
         "handicap_friendly": false,
-        "last_accept": 1376,
+        "last_accept": 1379,
         "office": {
           "id": 108
         },
