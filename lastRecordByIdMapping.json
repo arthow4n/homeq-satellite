@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-04-03T12:58:14.801Z",
+  "lastUpdatedAt": "2023-04-03T13:40:08.311Z",
   "lastRecordByIdMapping": {
     "70303": {
       "id": 70303,
@@ -197,6 +197,7 @@
     },
     "71827": {
       "id": 71827,
+      "uri": "/lagenhet/71827-2rum-malmö-skåne-län-amiralsgatan-70b",
       "landlord_object_id": "9211",
       "type": "individual",
       "images": [
@@ -271,7 +272,7 @@
         "lon": 13.0203157
       },
       "status": "Active",
-      "rent": 6588,
+      "rent": 6917,
       "area": 64,
       "rooms": 2,
       "sorting_mode": "queue_points",
@@ -310,7 +311,7 @@
         "landlord_object_id": "9211",
         "promotion_file": ""
       },
-      "indexed_at": "2023-03-23T10:41:34.254868",
+      "indexed_at": "2023-04-03T14:01:09.471554",
       "boost_value": 0,
       "$object_ad": {
         "is_renovated": false,
@@ -344,7 +345,7 @@
         "get_rooms": "2",
         "floor": 2,
         "area": "64.00",
-        "rent": 6588,
+        "rent": 6917,
         "description": "OMRÅDET Lägenheten och fastigheten Ansvaret 9 hittar du intill Nobeltorget i Malmö. Barnvänliga, trivsamma gårdar med gräsmattor och lekplatser mellan husen. Cykelavstånd till Malmös centrala delar. LÄGENHETEN Lägenheten ligger i ett trevånings bostadshus invid Nobeltorget i Malmö. Denna lägenhet har en tidstypisk planlösning mellan köket och vardagsrummet. Väggarna är målade i vitt och golven består av fiskbensparkett. Lägenheten har induktionsspis för matlagningsfantasten. I badrummet är det helkaklat samt klinkergolv vilket gör det lättstädat. Lägenheterna disponerar gemensamt den lummiga innergården med grillplats, cykelställ m.m. Alla lägenheter har ett eget förråd som hör till och det finns även några extra förråd för uthyrning. BREDBAND & TV Bredband finns att ansluta till genom operatören för kabel-TV. Tillägg till hyran 85kr/mån för kabel-Tv. KOMMUNIKATIONER Busstationen vid Nobeltorget möjliggör enkel kommunikation med samtliga delar i Malmö. Med cykel når Ni Stortoget i centrala Malmö på 7 minuter. SERVICE Vid Nobeltorget finns ett brett utbud av service och aktiviteter som förgyller din vardag. Gym, flertal matbutiker samt restaurang alternativen gör att du egentligen aldrig behöver ta dig särskilt långt om du inte vill. PARKERING Finns att hyra i området via Malmö Stad. ÖVRIGT Lägenheten uthyres utan besittningsskydd pga av kommande stamrenovering. Stamrenoveringen förväntas påbörjas under 2024. Efter stambytet ges hyresgästen förtur till de nyrenoverade lägenheterna. Renoveringen förväntas ta 2-3mån för respektive lägenhet.",
         "status": "a",
         "promotion_file": null,
@@ -4432,7 +4433,7 @@
         "landlord_object_id": "838-1144",
         "promotion_file": ""
       },
-      "indexed_at": "2023-03-31T16:44:39.979739",
+      "indexed_at": "2023-04-03T15:18:42.678377",
       "boost_value": 0,
       "$object_ad": {
         "is_renovated": false,
@@ -5102,6 +5103,7 @@
     },
     "76667": {
       "id": 76667,
+      "uri": "/lagenhet/76667-1rum-malmö-skåne-län-amiralsgatan-70a",
       "landlord_object_id": "9401",
       "type": "individual",
       "images": [
@@ -5175,7 +5177,7 @@
         "landlord_object_id": "9401",
         "promotion_file": ""
       },
-      "indexed_at": "2023-03-23T10:41:34.252570",
+      "indexed_at": "2023-04-03T14:01:09.469041",
       "boost_value": 0,
       "$object_ad": {
         "is_renovated": false,
@@ -5264,6 +5266,7 @@
     },
     "76674": {
       "id": 76674,
+      "uri": "/lagenhet/76674-1rum-malmö-skåne-län-amiralsgatan-70b",
       "landlord_object_id": "9111",
       "type": "individual",
       "images": [
@@ -5337,7 +5340,7 @@
         "landlord_object_id": "9111",
         "promotion_file": ""
       },
-      "indexed_at": "2023-03-23T10:41:34.250131",
+      "indexed_at": "2023-04-03T14:01:09.466304",
       "boost_value": 0,
       "$object_ad": {
         "is_renovated": false,
@@ -5757,7 +5760,7 @@
         "prior_access": false,
         "landlord_logo": "https://homeq-media-live.s3.eu-north-1.amazonaws.com/landlord_offices/logos/8a59893e140e4154832a4913c7c0c07a.jpeg",
         "landlord_company": "Stena Fastigheter",
-        "public_profile_slug": "stena-fastigheter",
+        "public_profile_slug": null,
         "date_access": "2023-06-01",
         "can_apply": true,
         "longitude": "11.9331311",
@@ -6325,7 +6328,7 @@
         "candidate_sorting_mode": "first_come_first",
         "contract_system": "B",
         "handicap_friendly": false,
-        "last_accept": 782,
+        "last_accept": 858,
         "office": {
           "id": 555
         },
@@ -9201,7 +9204,7 @@
         "landlord_object_id": "80369-11001",
         "promotion_file": ""
       },
-      "indexed_at": "2023-04-03T10:55:14.934386",
+      "indexed_at": "2023-04-03T14:51:13.266809",
       "boost_value": 0,
       "$object_ad": {
         "is_renovated": true,
@@ -9283,7 +9286,7 @@
         "prior_access": false,
         "landlord_logo": "https://homeq-media-live.s3.eu-north-1.amazonaws.com/landlord_offices/logos/ea2e9109d1d2494daaf83b9d859b7e62.jpg",
         "landlord_company": "Stena Fastigheter",
-        "public_profile_slug": "stena-fastigheter",
+        "public_profile_slug": null,
         "date_access": "2023-06-01",
         "can_apply": true,
         "longitude": "12.9766176",
@@ -9495,6 +9498,7 @@
     },
     "77585": {
       "id": 77585,
+      "uri": "/lagenhet/77585-3rum-bandhagen-stockholms-län-olshammarsgatan-45",
       "landlord_object_id": "923-1182",
       "type": "individual",
       "images": [
@@ -9573,7 +9577,7 @@
         "landlord_object_id": "923-1182",
         "promotion_file": ""
       },
-      "indexed_at": "2023-03-13T10:27:34.188412",
+      "indexed_at": "2023-04-03T14:33:45.523258",
       "boost_value": 0,
       "$object_ad": {
         "is_renovated": false,
@@ -9655,7 +9659,7 @@
         "candidate_sorting_mode": "queue_points",
         "contract_system": "B",
         "handicap_friendly": false,
-        "last_accept": 655,
+        "last_accept": 1580,
         "office": {
           "id": 838
         },
@@ -11673,7 +11677,7 @@
         "prior_access": false,
         "landlord_logo": "https://homeq-media-live.s3.eu-north-1.amazonaws.com/landlord_offices/logos/eb7f31a95ca54a9188d45ca3ac058356.jpeg",
         "landlord_company": "Stena Fastigheter",
-        "public_profile_slug": "stena-fastigheter",
+        "public_profile_slug": null,
         "date_access": "2023-06-01",
         "can_apply": true,
         "longitude": "11.9360439",
@@ -14396,7 +14400,7 @@
         "prior_access": false,
         "landlord_logo": "https://homeq-media-live.s3.eu-north-1.amazonaws.com/landlord_offices/logos/cd084db9a8d74b2e855ef24089184be4.jpg",
         "landlord_company": "Contentus AB",
-        "public_profile_slug": "contentus-ab",
+        "public_profile_slug": null,
         "date_access": "1970-01-01",
         "can_apply": true,
         "longitude": "13.0566336",
@@ -14609,7 +14613,7 @@
         "prior_access": false,
         "landlord_logo": "https://homeq-media-live.s3.eu-north-1.amazonaws.com/landlord_offices/logos/cd084db9a8d74b2e855ef24089184be4.jpg",
         "landlord_company": "Contentus AB",
-        "public_profile_slug": "contentus-ab",
+        "public_profile_slug": null,
         "date_access": "2023-05-01",
         "can_apply": true,
         "longitude": "13.0512357",
@@ -14842,7 +14846,7 @@
         "prior_access": false,
         "landlord_logo": "https://homeq-media-live.s3.eu-north-1.amazonaws.com/landlord_offices/logos/cd084db9a8d74b2e855ef24089184be4.jpg",
         "landlord_company": "Contentus AB",
-        "public_profile_slug": "contentus-ab",
+        "public_profile_slug": null,
         "date_access": "2023-05-01",
         "can_apply": true,
         "longitude": "13.0566336",
@@ -15075,7 +15079,7 @@
         "prior_access": false,
         "landlord_logo": "https://homeq-media-live.s3.eu-north-1.amazonaws.com/landlord_offices/logos/cd084db9a8d74b2e855ef24089184be4.jpg",
         "landlord_company": "Contentus AB",
-        "public_profile_slug": "contentus-ab",
+        "public_profile_slug": null,
         "date_access": "2023-05-01",
         "can_apply": true,
         "longitude": "13.0566336",
@@ -15288,7 +15292,7 @@
         "prior_access": false,
         "landlord_logo": "https://homeq-media-live.s3.eu-north-1.amazonaws.com/landlord_offices/logos/cd084db9a8d74b2e855ef24089184be4.jpg",
         "landlord_company": "Contentus AB",
-        "public_profile_slug": "contentus-ab",
+        "public_profile_slug": null,
         "date_access": "2023-06-01",
         "can_apply": true,
         "longitude": "13.0505168",
@@ -15461,7 +15465,7 @@
         "prior_access": false,
         "landlord_logo": "https://homeq-media-live.s3.eu-north-1.amazonaws.com/landlord_offices/logos/cd084db9a8d74b2e855ef24089184be4.jpg",
         "landlord_company": "Contentus AB",
-        "public_profile_slug": "contentus-ab",
+        "public_profile_slug": null,
         "date_access": "2023-06-01",
         "can_apply": true,
         "longitude": "13.0512357",
@@ -18117,7 +18121,7 @@
         "prior_access": false,
         "landlord_logo": "https://homeq-media-live.s3.eu-north-1.amazonaws.com/landlord_offices/logos/103fee6778e249e8928a6605a00d0f92.jpeg",
         "landlord_company": "Stena Fastigheter",
-        "public_profile_slug": "stena-fastigheter",
+        "public_profile_slug": null,
         "date_access": "2023-07-01",
         "can_apply": true,
         "longitude": "11.9401928",
@@ -19334,7 +19338,7 @@
         "candidate_sorting_mode": "queue_points",
         "contract_system": "B",
         "handicap_friendly": false,
-        "last_accept": 1270,
+        "last_accept": 1241,
         "office": {
           "id": 1174
         },
@@ -21994,7 +21998,7 @@
         "prior_access": false,
         "landlord_logo": "https://homeq-media-live.s3.eu-north-1.amazonaws.com/landlord_offices/logos/392a9c44f5cc421d8fe9456f27c899dd.jpeg",
         "landlord_company": "Stena Fastigheter",
-        "public_profile_slug": "stena-fastigheter",
+        "public_profile_slug": null,
         "date_access": "2023-05-01",
         "can_apply": true,
         "longitude": "11.9004155",
@@ -23229,7 +23233,7 @@
         "prior_access": false,
         "landlord_logo": "https://homeq-media-live.s3.eu-north-1.amazonaws.com/landlord_offices/logos/18a4435e5af54f22aec67fb58b40a440.jpeg",
         "landlord_company": "Stena Fastigheter",
-        "public_profile_slug": "stena-fastigheter",
+        "public_profile_slug": null,
         "date_access": "2023-06-01",
         "can_apply": true,
         "longitude": "12.0424080",
@@ -23413,7 +23417,7 @@
         "prior_access": true,
         "landlord_logo": "https://homeq-media-live.s3.eu-north-1.amazonaws.com/landlord_offices/logos/103fee6778e249e8928a6605a00d0f92.jpeg",
         "landlord_company": "Stena Fastigheter",
-        "public_profile_slug": "stena-fastigheter",
+        "public_profile_slug": null,
         "date_access": "2023-07-01",
         "can_apply": true,
         "longitude": "11.9563677",
@@ -25123,7 +25127,7 @@
         "prior_access": false,
         "landlord_logo": "https://homeq-media-live.s3.eu-north-1.amazonaws.com/landlord_offices/logos/04ecf2c90d0b419bb8999418250a3a84.jpeg",
         "landlord_company": "Stena Fastigheter",
-        "public_profile_slug": "stena-fastigheter",
+        "public_profile_slug": null,
         "date_access": "2023-06-01",
         "can_apply": true,
         "longitude": "11.9176796",
@@ -26051,7 +26055,7 @@
         "prior_access": false,
         "landlord_logo": "https://homeq-media-live.s3.eu-north-1.amazonaws.com/landlord_offices/logos/103fee6778e249e8928a6605a00d0f92.jpeg",
         "landlord_company": "Stena Fastigheter",
-        "public_profile_slug": "stena-fastigheter",
+        "public_profile_slug": null,
         "date_access": "2023-07-01",
         "can_apply": true,
         "longitude": "11.9352106",
@@ -26583,7 +26587,7 @@
         "prior_access": false,
         "landlord_logo": "https://homeq-media-live.s3.eu-north-1.amazonaws.com/landlord_offices/logos/103fee6778e249e8928a6605a00d0f92.jpeg",
         "landlord_company": "Stena Fastigheter",
-        "public_profile_slug": "stena-fastigheter",
+        "public_profile_slug": null,
         "date_access": "2023-07-01",
         "can_apply": true,
         "longitude": "11.9614700",
@@ -30473,7 +30477,7 @@
         "promotion_file": ""
       },
       "indexed_at": "2023-03-31T06:01:23.234411",
-      "boost_value": 3.25,
+      "boost_value": 3.04,
       "$object_ad": {
         "is_renovated": false,
         "heat_included": true,
@@ -32501,7 +32505,7 @@
         "prior_access": false,
         "landlord_logo": "https://homeq-media-live.s3.eu-north-1.amazonaws.com/landlord_offices/logos/8a59893e140e4154832a4913c7c0c07a.jpeg",
         "landlord_company": "Stena Fastigheter",
-        "public_profile_slug": "stena-fastigheter",
+        "public_profile_slug": null,
         "date_access": "2023-07-01",
         "can_apply": true,
         "longitude": "11.9344723",
@@ -33329,7 +33333,7 @@
         "landlord_object_id": "814-1018",
         "promotion_file": ""
       },
-      "indexed_at": "2023-03-29T15:33:30.689082",
+      "indexed_at": "2023-04-03T15:18:39.687073",
       "boost_value": 0,
       "$object_ad": {
         "is_renovated": false,
@@ -34696,7 +34700,7 @@
         "prior_access": false,
         "landlord_logo": "https://homeq-media-live.s3.eu-north-1.amazonaws.com/landlord_offices/logos/18a4435e5af54f22aec67fb58b40a440.jpeg",
         "landlord_company": "Stena Fastigheter",
-        "public_profile_slug": "stena-fastigheter",
+        "public_profile_slug": null,
         "date_access": "2023-06-01",
         "can_apply": true,
         "longitude": "12.0382495",
@@ -34911,7 +34915,7 @@
         "prior_access": true,
         "landlord_logo": "https://homeq-media-live.s3.eu-north-1.amazonaws.com/landlord_offices/logos/18a4435e5af54f22aec67fb58b40a440.jpeg",
         "landlord_company": "Stena Fastigheter",
-        "public_profile_slug": "stena-fastigheter",
+        "public_profile_slug": null,
         "date_access": "2023-07-01",
         "can_apply": true,
         "longitude": "12.0384741",
@@ -36505,7 +36509,7 @@
         "prior_access": false,
         "landlord_logo": "https://homeq-media-live.s3.eu-north-1.amazonaws.com/landlord_offices/logos/04ecf2c90d0b419bb8999418250a3a84.jpeg",
         "landlord_company": "Stena Fastigheter",
-        "public_profile_slug": "stena-fastigheter",
+        "public_profile_slug": null,
         "date_access": "2023-07-01",
         "can_apply": true,
         "longitude": "11.9156826",
@@ -37856,7 +37860,7 @@
         "candidate_sorting_mode": "random",
         "contract_system": "B",
         "handicap_friendly": false,
-        "last_accept": 1602,
+        "last_accept": 1592,
         "office": {
           "id": 178
         },
@@ -38534,7 +38538,7 @@
         "prior_access": false,
         "landlord_logo": "https://homeq-media-live.s3.eu-north-1.amazonaws.com/landlord_offices/logos/8a59893e140e4154832a4913c7c0c07a.jpeg",
         "landlord_company": "Stena Fastigheter",
-        "public_profile_slug": "stena-fastigheter",
+        "public_profile_slug": null,
         "date_access": "2023-07-01",
         "can_apply": true,
         "longitude": "11.9122260",
@@ -40191,7 +40195,7 @@
         "prior_access": true,
         "landlord_logo": "https://homeq-media-live.s3.eu-north-1.amazonaws.com/landlord_offices/logos/68e6174d786c4e158539ca5086647575.jpg",
         "landlord_company": "Stena Fastigheter",
-        "public_profile_slug": "stena-fastigheter",
+        "public_profile_slug": null,
         "date_access": "2023-07-01",
         "can_apply": true,
         "longitude": "12.0096849",
@@ -40521,7 +40525,7 @@
         "prior_access": false,
         "landlord_logo": "https://homeq-media-live.s3.eu-north-1.amazonaws.com/landlord_offices/logos/68e6174d786c4e158539ca5086647575.jpg",
         "landlord_company": "Stena Fastigheter",
-        "public_profile_slug": "stena-fastigheter",
+        "public_profile_slug": null,
         "date_access": "2023-06-30",
         "can_apply": true,
         "longitude": "12.0096849",
@@ -40776,7 +40780,7 @@
         "prior_access": true,
         "landlord_logo": "https://homeq-media-live.s3.eu-north-1.amazonaws.com/landlord_offices/logos/18a4435e5af54f22aec67fb58b40a440.jpeg",
         "landlord_company": "Stena Fastigheter",
-        "public_profile_slug": "stena-fastigheter",
+        "public_profile_slug": null,
         "date_access": "2023-07-01",
         "can_apply": true,
         "longitude": "12.0385612",
@@ -40964,7 +40968,7 @@
         "candidate_sorting_mode": "queue_points",
         "contract_system": "B",
         "handicap_friendly": false,
-        "last_accept": 1676,
+        "last_accept": 1675,
         "office": {
           "id": 838
         },
@@ -41122,7 +41126,7 @@
         "prior_access": true,
         "landlord_logo": "https://homeq-media-live.s3.eu-north-1.amazonaws.com/landlord_offices/logos/18a4435e5af54f22aec67fb58b40a440.jpeg",
         "landlord_company": "Stena Fastigheter",
-        "public_profile_slug": "stena-fastigheter",
+        "public_profile_slug": null,
         "date_access": "2023-07-01",
         "can_apply": true,
         "longitude": "12.0144716",
@@ -43133,7 +43137,7 @@
         "prior_access": false,
         "landlord_logo": "https://homeq-media-live.s3.eu-north-1.amazonaws.com/landlord_offices/logos/18a4435e5af54f22aec67fb58b40a440.jpeg",
         "landlord_company": "Stena Fastigheter",
-        "public_profile_slug": "stena-fastigheter",
+        "public_profile_slug": null,
         "date_access": "2023-07-01",
         "can_apply": true,
         "longitude": "12.0422629",
@@ -43739,7 +43743,7 @@
         "promotion_file": ""
       },
       "indexed_at": "2023-03-31T06:01:23.238431",
-      "boost_value": 3.69,
+      "boost_value": 3.34,
       "$object_ad": {
         "is_renovated": false,
         "heat_included": true,
@@ -43820,7 +43824,7 @@
         "candidate_sorting_mode": "queue_points",
         "contract_system": "D",
         "handicap_friendly": false,
-        "last_accept": 5,
+        "last_accept": 68,
         "office": {
           "id": 70
         },
@@ -44106,7 +44110,7 @@
         "landlord_object_id": "1230-05032",
         "promotion_file": ""
       },
-      "indexed_at": "2023-03-30T14:43:30.885200",
+      "indexed_at": "2023-04-03T15:17:05.761564",
       "boost_value": 0,
       "$object_ad": {
         "is_renovated": true,
@@ -46015,7 +46019,7 @@
         "prior_access": false,
         "landlord_logo": "https://homeq-media-live.s3.eu-north-1.amazonaws.com/landlord_offices/logos/cd084db9a8d74b2e855ef24089184be4.jpg",
         "landlord_company": "Contentus AB",
-        "public_profile_slug": "contentus-ab",
+        "public_profile_slug": null,
         "date_access": "2023-05-01",
         "can_apply": true,
         "longitude": "13.0572783",
@@ -46578,7 +46582,7 @@
         "prior_access": false,
         "landlord_logo": "https://homeq-media-live.s3.eu-north-1.amazonaws.com/landlord_offices/logos/103fee6778e249e8928a6605a00d0f92.jpeg",
         "landlord_company": "Stena Fastigheter",
-        "public_profile_slug": "stena-fastigheter",
+        "public_profile_slug": null,
         "date_access": "2023-07-01",
         "can_apply": true,
         "longitude": "11.9280427",
@@ -46752,7 +46756,7 @@
         "prior_access": false,
         "landlord_logo": "https://homeq-media-live.s3.eu-north-1.amazonaws.com/landlord_offices/logos/103fee6778e249e8928a6605a00d0f92.jpeg",
         "landlord_company": "Stena Fastigheter",
-        "public_profile_slug": "stena-fastigheter",
+        "public_profile_slug": null,
         "date_access": "2023-07-01",
         "can_apply": true,
         "longitude": "11.9301771",
@@ -48947,7 +48951,7 @@
         "candidate_sorting_mode": "queue_points",
         "contract_system": "B",
         "handicap_friendly": false,
-        "last_accept": 1103,
+        "last_accept": 1020,
         "office": {
           "id": 108
         },
@@ -51484,7 +51488,7 @@
         "candidate_sorting_mode": "queue_points",
         "contract_system": "B",
         "handicap_friendly": false,
-        "last_accept": 641,
+        "last_accept": 628,
         "office": {
           "id": 328
         },
@@ -52125,7 +52129,7 @@
         "landlord_object_id": "838-1111",
         "promotion_file": ""
       },
-      "indexed_at": "2023-03-31T16:44:39.974847",
+      "indexed_at": "2023-04-03T15:18:42.674118",
       "boost_value": 0,
       "$object_ad": {
         "is_renovated": false,
@@ -52482,7 +52486,7 @@
         "candidate_sorting_mode": "queue_points",
         "contract_system": "B",
         "handicap_friendly": false,
-        "last_accept": 1076,
+        "last_accept": 1109,
         "office": {
           "id": 1305
         },
@@ -52687,7 +52691,7 @@
         "candidate_sorting_mode": "queue_points",
         "contract_system": "B",
         "handicap_friendly": false,
-        "last_accept": 930,
+        "last_accept": 1053,
         "office": {
           "id": 1305
         },
@@ -53593,7 +53597,7 @@
         "prior_access": false,
         "landlord_logo": "https://homeq-media-live.s3.eu-north-1.amazonaws.com/landlord_offices/logos/04ecf2c90d0b419bb8999418250a3a84.jpeg",
         "landlord_company": "Stena Fastigheter",
-        "public_profile_slug": "stena-fastigheter",
+        "public_profile_slug": null,
         "date_access": "2023-07-01",
         "can_apply": true,
         "longitude": "11.9196551",
@@ -53788,7 +53792,7 @@
         "prior_access": false,
         "landlord_logo": "https://homeq-media-live.s3.eu-north-1.amazonaws.com/landlord_offices/logos/04ecf2c90d0b419bb8999418250a3a84.jpeg",
         "landlord_company": "Stena Fastigheter",
-        "public_profile_slug": "stena-fastigheter",
+        "public_profile_slug": null,
         "date_access": "2023-07-01",
         "can_apply": true,
         "longitude": "11.9156827",
@@ -54206,19 +54210,14 @@
       "type": "individual",
       "images": [
         {
-          "image": "https://homeq-media-live.s3.amazonaws.com/apartment_images/baf8a6e783c143c49c76cb05fc746ae9.jpeg",
+          "image": "https://homeq-media-live.s3.amazonaws.com/apartment_images/27f79c1339c2420eaf26422a22e24a6c.jpeg",
           "caption": "",
           "position": 0
         },
         {
-          "image": "https://homeq-media-live.s3.amazonaws.com/apartment_images/27f79c1339c2420eaf26422a22e24a6c.jpeg",
-          "caption": "",
-          "position": 1
-        },
-        {
           "image": "https://homeq-media-live.s3.amazonaws.com/estate_images/3a89413c22f343baa5d6cfc85e263d8f.jpeg",
           "caption": "",
-          "position": 2
+          "position": 1
         }
       ],
       "videos": [],
@@ -54259,7 +54258,7 @@
         "balcony": true,
         "dishwasher": true,
         "bathtub": false,
-        "washer": false,
+        "washer": true,
         "drier": false,
         "garage": false,
         "patio": false,
@@ -54287,7 +54286,7 @@
         "landlord_object_id": "1040-00022",
         "promotion_file": ""
       },
-      "indexed_at": "2023-04-03T14:25:04.741682",
+      "indexed_at": "2023-04-03T15:26:21.683439",
       "boost_value": 0,
       "$object_ad": {
         "is_renovated": true,
@@ -54296,7 +54295,7 @@
         "electricity_included": false,
         "tv_included": true,
         "internet_included": false,
-        "has_washing_machine": false,
+        "has_washing_machine": true,
         "is_prepared_for_washing_machine": false,
         "is_prioritizing_company_customers": true,
         "has_dishwasher": true,
@@ -54322,16 +54321,11 @@
         "floor": 6,
         "area": "35.00",
         "rent": 8673,
-        "description": "En trevlig etta med balkong på våning 6 med utsikt. Helkaklat badrum med våtrumsmatta och Duschkabin. Ljusa väggar   och parkettgolv i hall och vardagsrum. Kök med linoleumgolv och diskmaskin. Plastmatta i sovrum 1 och 2.\nAngiven hyra är för 2021. 2022 års hyra är under förhandling.",
+        "description": "En trea med balkong på våning 6 av 6 med fin utsikt. Garderober i hallen. Kök med kyl/frys, spis, fläktkåpa och diskmaskin. Badrum med kaklade väggar, duschkabin, badrumsskåp med eluttag och tvättmaskin. Parkett i hall och vardagsrum och plastmatta i sovrummen. Tak och väggar i hela lägenheten målades 2021. \n\nAngiven hyra är för 2022 och 2023 års hyra är under förhandling. \n\nObservera att det kan vara avvikelser i både planritning, beskrivning och bilder, och att bilderna enbart visar exempel på hur det kan se ut. \n\nJohanneberg har en alldeles speciell karaktär med sina sluttningar, vackra och ljusa funkishus och äldre villakvarter. Idag kan det vara svårt att tänka sig att lägenheterna här knappt gick att få uthyrda när de byggdes, men så var det när våra fastigheter i Johanneberg kom till. Tiderna har ändrats och idag anses Johanneberg vara ett av de bästa och mest eftertraktade lägena i Göteborg. Här bor du centralt men i en lugn och harmonisk stadsdel med närhet till grönområden som Johannebergsparken och Näckrosdammen, och är bara en kort promenad från Avenyn.\n\nJohanneberg är en levande och härlig stadsdel för människor i alla åldrar och livssituationer. Med närhet till både Chalmers och flera av Göteborgs Universitets institutioner är det ett idealiskt område för studenten. Knutpunkten Korsvägen ligger på gångavstånd, där det finns goda möjligheter att ta sig till stadens alla hörn.",
         "status": "a",
         "promotion_file": null,
         "plan_image": "https://homeq-media-live.s3.amazonaws.com/floor_plans/bbd8b3ee7bd644e887841c61b762c5ba.png",
         "images": [
-          {
-            "image": "https://homeq-media-live.s3.amazonaws.com/apartment_images/baf8a6e783c143c49c76cb05fc746ae9.jpeg",
-            "caption": "",
-            "position": 0
-          },
           {
             "image": "https://homeq-media-live.s3.amazonaws.com/apartment_images/27f79c1339c2420eaf26422a22e24a6c.jpeg",
             "caption": "",
@@ -54340,7 +54334,7 @@
           {
             "image": "https://homeq-media-live.s3.amazonaws.com/estate_images/3a89413c22f343baa5d6cfc85e263d8f.jpeg",
             "caption": "",
-            "position": 2
+            "position": 1
           }
         ],
         "videos": [],
