@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-04-02T23:37:40.175Z",
+  "lastUpdatedAt": "2023-04-03T01:52:30.195Z",
   "lastRecordByIdMapping": {
     "70303": {
       "id": 70303,
@@ -752,7 +752,7 @@
         "candidate_sorting_mode": "random",
         "contract_system": "B",
         "handicap_friendly": false,
-        "last_accept": 1490,
+        "last_accept": 1491,
         "office": {
           "id": 1013
         },
@@ -1116,7 +1116,7 @@
         "candidate_sorting_mode": "random",
         "contract_system": "B",
         "handicap_friendly": false,
-        "last_accept": 550,
+        "last_accept": 551,
         "office": {
           "id": 255
         },
@@ -1280,7 +1280,7 @@
         "candidate_sorting_mode": "queue_points",
         "contract_system": "B",
         "handicap_friendly": false,
-        "last_accept": 1041,
+        "last_accept": 1042,
         "office": {
           "id": 673
         },
@@ -1619,7 +1619,7 @@
         "candidate_sorting_mode": "queue_points",
         "contract_system": "B",
         "handicap_friendly": false,
-        "last_accept": 531,
+        "last_accept": 532,
         "office": {
           "id": 673
         },
@@ -2106,7 +2106,7 @@
         "candidate_sorting_mode": "queue_points",
         "contract_system": "B",
         "handicap_friendly": false,
-        "last_accept": 1543,
+        "last_accept": 1544,
         "office": {
           "id": 62
         },
@@ -2319,7 +2319,7 @@
         "candidate_sorting_mode": "queue_points",
         "contract_system": "B",
         "handicap_friendly": false,
-        "last_accept": 1109,
+        "last_accept": 1110,
         "office": {
           "id": 62
         },
@@ -2481,7 +2481,7 @@
         "candidate_sorting_mode": "queue_points",
         "contract_system": "B",
         "handicap_friendly": false,
-        "last_accept": 345,
+        "last_accept": 346,
         "office": {
           "id": 1152
         },
@@ -2733,7 +2733,7 @@
         "candidate_sorting_mode": "queue_points",
         "contract_system": "B",
         "handicap_friendly": false,
-        "last_accept": 33,
+        "last_accept": 34,
         "office": {
           "id": 1028
         },
@@ -2742,6 +2742,181 @@
         }
       },
       "$districtName": "Möllevången"
+    },
+    "76179": {
+      "id": 76179,
+      "uri": "/lagenhet/76179-1rum-göteborg-västra-götalands-län-dahlströmsgatan-52",
+      "landlord_object_id": "3515-0256",
+      "type": "individual",
+      "images": [
+        {
+          "image": "https://homeq-media-live.s3.amazonaws.com/apartment_images/55cdb1af99ff4dd4b0370de68945098e.jpeg",
+          "caption": "",
+          "position": 0
+        },
+        {
+          "image": "https://homeq-media-live.s3.amazonaws.com/apartment_images/c3798ffa9d1e474ca096c2ecccfeb29d.jpg",
+          "caption": "",
+          "position": 1
+        }
+      ],
+      "videos": [],
+      "publish_date": "2023-03-01",
+      "shapes": [
+        "county.14",
+        "district.107061",
+        "municipality.1480",
+        "metropolitan_area.8",
+        "area.46",
+        "urban_area.4368",
+        "area.54"
+      ],
+      "audience": "everyone",
+      "short_lease": false,
+      "standalone": true,
+      "references": {
+        "estate": 1242,
+        "apartment": 8905,
+        "object_ad": 76179,
+        "company": 58,
+        "office": 62,
+        "project": null
+      },
+      "location": {
+        "lat": 57.6933556,
+        "lon": 11.93246
+      },
+      "status": "Active",
+      "rent": 6741,
+      "area": 44,
+      "rooms": 1,
+      "sorting_mode": "queue_points",
+      "floor": 4,
+      "floor_plan": "https://homeq-media-live.s3.amazonaws.com/floor_plans/0876af2e706b44108dd68f37e6cb56dd.jpg",
+      "access_date": "2023-05-01",
+      "amenities": {
+        "balcony": true,
+        "dishwasher": true,
+        "bathtub": false,
+        "washer": false,
+        "drier": false,
+        "garage": false,
+        "patio": false,
+        "elevator": false,
+        "kitchen_fan": true,
+        "parking": false,
+        "pets": true,
+        "handicap_friendly": false,
+        "heat": true,
+        "water": true,
+        "electricity": false,
+        "tv": true,
+        "internet": false
+      },
+      "address": {
+        "street": "Dahlströmsgatan",
+        "street_number": "52",
+        "city": "Göteborg",
+        "zip": "41465",
+        "municipality": "Göteborg",
+        "county": "Västra Götalands län"
+      },
+      "display": {
+        "floor_plan": "https://homeq-media-live.s3.amazonaws.com/floor_plans/0876af2e706b44108dd68f37e6cb56dd.jpg",
+        "landlord_object_id": "3515-0256",
+        "promotion_file": "https://homeq-media-live.s3.amazonaws.com/promotion_materials/02799b67777247c0bf8423ecedb3a90c.pdf"
+      },
+      "indexed_at": "2023-03-30T10:05:10.855734",
+      "boost_value": 0,
+      "$object_ad": {
+        "is_renovated": false,
+        "heat_included": true,
+        "water_included": true,
+        "electricity_included": false,
+        "tv_included": true,
+        "internet_included": false,
+        "has_washing_machine": false,
+        "is_prepared_for_washing_machine": false,
+        "is_prioritizing_company_customers": false,
+        "has_dishwasher": true,
+        "is_prepared_for_dishwasher": false,
+        "has_drier": false,
+        "has_bathtub": false,
+        "has_shower": true,
+        "has_kitchen_fan": true,
+        "has_patio": false,
+        "has_balcony": true,
+        "has_elevator": false,
+        "has_parking": false,
+        "parking": "NONE",
+        "has_garage": false,
+        "garage": "NONE",
+        "city": "Göteborg",
+        "street": "Dahlströmsgatan",
+        "street_number": "52",
+        "municipality": "Göteborg",
+        "county": "Västra Götalands län",
+        "rooms": "1.0",
+        "get_rooms": "1",
+        "floor": 4,
+        "area": "44.00",
+        "rent": 6741,
+        "description": "Charmig 1-rok lägenhet med balkong i levande stadsdelen Majorna! \nFastigheten är belägen högt upp på berget med fin utsikt över staden och älven.\n\nLägenheten: \n- Lägenheten (förutom badrum) renoverades 2018. \n- Badrummet renoverades i samband med stamrenovering 2001. \n- Kök med köksinredning från HTH och vitvaror från Bosch. \n- Parkett i samtliga rum och klinkers innanför entrédörren. \n- Observera att hiss inte finns i fastigheten och att det inte finns några lediga p-platser på gården för tillfället. \n\nOmrådet: \nI Majorna har du nära till Slottsskogen, Sjöbergen, Klippans ångbåtsbrygga, Röda sten och Gathenhielmska kulturreservatet. I Majorna anordnas också årligen olika aktiviteter för dess innevånare, bland annat Majornadagen och Megaloppisen. Här finns det ett stort och varierat utbud av matbutiker, kaféer, bagerier, kvarterskrogar och närbutiker. \n\nI området finns flera småbutiker som säljer antikviteter, delikatesser eller specialvaror. Flera spårvagnslinjer och bussar trafikerar Majorna och Masthugget, du tar dig smidigt in till city på cirka 10-15 minuter. \n\nÖvrigt: \n- Mindre avvikelser från planritningen kan förekomma. \n- Lägenheten hyrs ut efter visning till de sökande som får ett erbjudande.",
+        "status": "a",
+        "promotion_file": "https://homeq-media-live.s3.amazonaws.com/promotion_materials/02799b67777247c0bf8423ecedb3a90c.pdf",
+        "plan_image": "https://homeq-media-live.s3.amazonaws.com/floor_plans/0876af2e706b44108dd68f37e6cb56dd.jpg",
+        "images": [
+          {
+            "image": "https://homeq-media-live.s3.amazonaws.com/apartment_images/55cdb1af99ff4dd4b0370de68945098e.jpeg",
+            "caption": "",
+            "position": 0
+          },
+          {
+            "image": "https://homeq-media-live.s3.amazonaws.com/apartment_images/c3798ffa9d1e474ca096c2ecccfeb29d.jpg",
+            "caption": "",
+            "position": 1
+          }
+        ],
+        "videos": [],
+        "three_d_views": [],
+        "agreement_access": false,
+        "prior_access": false,
+        "landlord_logo": "https://homeq-media-live.s3.eu-north-1.amazonaws.com/landlord_offices/logos/a9d652fc297544f49f44eb2119d2ac5b.jpg",
+        "landlord_company": "Wallenstam",
+        "public_profile_slug": null,
+        "date_access": "2023-05-01",
+        "can_apply": true,
+        "longitude": "11.9324600",
+        "latitude": "57.6933556",
+        "date_publish": "2023-03-01",
+        "new_production": false,
+        "estate_id": 1242,
+        "area_description": null,
+        "landlord_object_id": "3515-0256",
+        "has_applied_on_estate": true,
+        "is_short_lease": false,
+        "security_door": true,
+        "short_lease_min_date": null,
+        "short_lease_max_date": null,
+        "is_senior": false,
+        "senior_age": 65,
+        "is_youth": false,
+        "youth_age": 25,
+        "is_student": false,
+        "allows_smoking": true,
+        "allows_pets": true,
+        "candidate_sorting_mode": "queue_points",
+        "contract_system": "B",
+        "handicap_friendly": false,
+        "last_accept": 1545,
+        "office": {
+          "id": 62
+        },
+        "landlord": {
+          "id": 58
+        }
+      },
+      "$districtName": "Masthugget"
     },
     "76207": {
       "id": 76207,
@@ -3026,6 +3201,209 @@
       },
       "$districtName": "Kirseberg"
     },
+    "76236": {
+      "id": 76236,
+      "uri": "/lagenhet/76236-2rum-göteborg-västra-götalands-län-åby-allé-71",
+      "landlord_object_id": "3814-1507",
+      "type": "individual",
+      "images": [
+        {
+          "image": "https://homeq-media-live.s3.amazonaws.com/apartment_images/54f8e2221150403bbe43fca5ba5b63c0.jpeg",
+          "caption": "",
+          "position": 0
+        },
+        {
+          "image": "https://homeq-media-live.s3.amazonaws.com/apartment_images/14052316d1e34701b0cb11d4e469475c.jpeg",
+          "caption": "Exempelbild",
+          "position": 1
+        },
+        {
+          "image": "https://homeq-media-live.s3.amazonaws.com/apartment_images/58e488de932a4f16b7cb9cbc6d51c32f.jpeg",
+          "caption": "Exempelbild",
+          "position": 2
+        },
+        {
+          "image": "https://homeq-media-live.s3.amazonaws.com/apartment_images/653df2630a0346e69b0bae2a137165fc.jpeg",
+          "caption": "Exempelbild",
+          "position": 3
+        },
+        {
+          "image": "https://homeq-media-live.s3.amazonaws.com/apartment_images/4a0a1c68ffd148fda70ea7aec1522da8.jpeg",
+          "caption": "Exempelbild",
+          "position": 4
+        }
+      ],
+      "videos": [],
+      "publish_date": "2023-03-01",
+      "shapes": [
+        "county.14",
+        "district.107065",
+        "metropolitan_area.8",
+        "municipality.1481",
+        "urban_area.4368"
+      ],
+      "audience": "everyone",
+      "short_lease": false,
+      "standalone": true,
+      "references": {
+        "estate": 899,
+        "apartment": 11532,
+        "object_ad": 76236,
+        "company": 58,
+        "office": 62,
+        "project": null
+      },
+      "location": {
+        "lat": 57.6524623,
+        "lon": 12.0045257
+      },
+      "status": "Active",
+      "rent": 10529,
+      "area": 57,
+      "rooms": 2,
+      "sorting_mode": "queue_points",
+      "floor": 5,
+      "floor_plan": "https://homeq-media-live.s3.amazonaws.com/floor_plans/6caa2f755e1a409eba0fbd8cc624aa88.pdf",
+      "access_date": "2023-06-01",
+      "amenities": {
+        "balcony": true,
+        "dishwasher": true,
+        "bathtub": false,
+        "washer": true,
+        "drier": true,
+        "garage": false,
+        "patio": false,
+        "elevator": true,
+        "kitchen_fan": true,
+        "parking": false,
+        "pets": true,
+        "handicap_friendly": false,
+        "heat": true,
+        "water": true,
+        "electricity": false,
+        "tv": true,
+        "internet": false
+      },
+      "address": {
+        "street": "Åby Allé",
+        "street_number": "71",
+        "city": "Göteborg",
+        "zip": "43145",
+        "municipality": "Mölndal",
+        "county": "Västra Götalands län"
+      },
+      "display": {
+        "floor_plan": "https://homeq-media-live.s3.amazonaws.com/floor_plans/6caa2f755e1a409eba0fbd8cc624aa88.pdf",
+        "landlord_object_id": "3814-1507",
+        "promotion_file": ""
+      },
+      "indexed_at": "2023-03-30T12:57:56.955365",
+      "boost_value": 0,
+      "$object_ad": {
+        "is_renovated": false,
+        "heat_included": true,
+        "water_included": true,
+        "electricity_included": false,
+        "tv_included": true,
+        "internet_included": false,
+        "has_washing_machine": true,
+        "is_prepared_for_washing_machine": false,
+        "is_prioritizing_company_customers": false,
+        "has_dishwasher": true,
+        "is_prepared_for_dishwasher": false,
+        "has_drier": true,
+        "has_bathtub": false,
+        "has_shower": true,
+        "has_kitchen_fan": true,
+        "has_patio": false,
+        "has_balcony": true,
+        "has_elevator": true,
+        "has_parking": false,
+        "parking": "AVAILABLE",
+        "has_garage": false,
+        "garage": "AVAILABLE",
+        "city": "Göteborg",
+        "street": "Åby Allé",
+        "street_number": "71",
+        "municipality": "Mölndal",
+        "county": "Västra Götalands län",
+        "rooms": "2.0",
+        "get_rooms": "2",
+        "floor": 5,
+        "area": "57.00",
+        "rent": 10529,
+        "description": "Trevlig 2-rok lägenhet med fina materialval och balkong i Stallbacken, Åby! \nFastigheten byggdes och stod klar för inflyttning 2018. \n\nLägenheten: \n- Öppen planlösning med fina materialval i mörka toner. \n- Rummen har ekparkett och målade väggar i mörka färger. \n- Klinker i hallen och vita innerdörrar. \n- Badrummet har klinker, är helkaklat och utrustat med handdukstork samt tvättmaskin och torktumlare. \n- Lägenheten ligger i en modern och energieffektiv fastighet där varje lägenhet har individuell mätning av el som tillkommer till hyran. Mätarna avläses månadsvis och förbrukningen debiteras på hyresavin. \n\nOmrådet: \nMölndal är en naturskön kommun, strax söder om Göteborg. Här finns mycket att upptäcka; bland annat Gunnebos vackra skogar, Kvarnbyns fina kulturarv eller varför inte de snabbspringande hästarna på Åby travbana. Bor man i Mölndal har man nära till all slags service och rekreation som tex. i Mölndals Galleria som erbjuder alla slags butiker och service. Du tar dig med kollektivtrafik i form av buss/spårvagn in till centrala Göteborg på ca 15 minuter.\n\nÖvrigt: \n- Mindre avvikelser från ritning kan förekomma.\n- Hyran som står angiven är i 2022 års hyresnivå.",
+        "status": "a",
+        "promotion_file": null,
+        "plan_image": "https://homeq-media-live.s3.amazonaws.com/floor_plans/6caa2f755e1a409eba0fbd8cc624aa88.pdf",
+        "images": [
+          {
+            "image": "https://homeq-media-live.s3.amazonaws.com/apartment_images/54f8e2221150403bbe43fca5ba5b63c0.jpeg",
+            "caption": "",
+            "position": 0
+          },
+          {
+            "image": "https://homeq-media-live.s3.amazonaws.com/apartment_images/14052316d1e34701b0cb11d4e469475c.jpeg",
+            "caption": "Exempelbild",
+            "position": 1
+          },
+          {
+            "image": "https://homeq-media-live.s3.amazonaws.com/apartment_images/58e488de932a4f16b7cb9cbc6d51c32f.jpeg",
+            "caption": "Exempelbild",
+            "position": 2
+          },
+          {
+            "image": "https://homeq-media-live.s3.amazonaws.com/apartment_images/653df2630a0346e69b0bae2a137165fc.jpeg",
+            "caption": "Exempelbild",
+            "position": 3
+          },
+          {
+            "image": "https://homeq-media-live.s3.amazonaws.com/apartment_images/4a0a1c68ffd148fda70ea7aec1522da8.jpeg",
+            "caption": "Exempelbild",
+            "position": 4
+          }
+        ],
+        "videos": [],
+        "three_d_views": [],
+        "agreement_access": false,
+        "prior_access": false,
+        "landlord_logo": "https://homeq-media-live.s3.eu-north-1.amazonaws.com/landlord_offices/logos/a9d652fc297544f49f44eb2119d2ac5b.jpg",
+        "landlord_company": "Wallenstam",
+        "public_profile_slug": null,
+        "date_access": "2023-06-01",
+        "can_apply": true,
+        "longitude": "12.0045257",
+        "latitude": "57.6524623",
+        "date_publish": "2023-03-01",
+        "new_production": false,
+        "estate_id": 899,
+        "area_description": null,
+        "landlord_object_id": "3814-1507",
+        "has_applied_on_estate": true,
+        "is_short_lease": false,
+        "security_door": true,
+        "short_lease_min_date": null,
+        "short_lease_max_date": null,
+        "is_senior": false,
+        "senior_age": 65,
+        "is_youth": false,
+        "youth_age": 25,
+        "is_student": false,
+        "allows_smoking": true,
+        "allows_pets": true,
+        "candidate_sorting_mode": "queue_points",
+        "contract_system": "B",
+        "handicap_friendly": false,
+        "last_accept": 1036,
+        "office": {
+          "id": 62
+        },
+        "landlord": {
+          "id": 58
+        }
+      },
+      "$districtName": "Fässberg"
+    },
     "76318": {
       "id": 76318,
       "uri": "/lagenhet/76318-3rum-göteborg-västra-götalands-län-bangårdsgatan-17",
@@ -3301,7 +3679,7 @@
         "candidate_sorting_mode": "queue_points",
         "contract_system": "B",
         "handicap_friendly": false,
-        "last_accept": 1520,
+        "last_accept": 1521,
         "office": {
           "id": 108
         },
@@ -3679,7 +4057,7 @@
         "candidate_sorting_mode": "queue_points",
         "contract_system": "B",
         "handicap_friendly": false,
-        "last_accept": 422,
+        "last_accept": 423,
         "office": {
           "id": 1002
         },
@@ -5210,7 +5588,7 @@
         "candidate_sorting_mode": "queue_points",
         "contract_system": "B",
         "handicap_friendly": false,
-        "last_accept": 923,
+        "last_accept": 924,
         "office": {
           "id": 673
         },
@@ -5619,7 +5997,7 @@
         "candidate_sorting_mode": "queue_points",
         "contract_system": "B",
         "handicap_friendly": false,
-        "last_accept": 1075,
+        "last_accept": 1076,
         "office": {
           "id": 612
         },
@@ -5947,7 +6325,7 @@
         "candidate_sorting_mode": "first_come_first",
         "contract_system": "B",
         "handicap_friendly": false,
-        "last_accept": 781,
+        "last_accept": 782,
         "office": {
           "id": 555
         },
@@ -6347,7 +6725,7 @@
         "candidate_sorting_mode": "queue_points",
         "contract_system": "B",
         "handicap_friendly": false,
-        "last_accept": 1016,
+        "last_accept": 1017,
         "office": {
           "id": 612
         },
@@ -6747,7 +7125,7 @@
         "candidate_sorting_mode": "queue_points",
         "contract_system": "B",
         "handicap_friendly": false,
-        "last_accept": 1873,
+        "last_accept": 1874,
         "office": {
           "id": 620
         },
@@ -6756,6 +7134,171 @@
         }
       },
       "$districtName": "Älvsborg"
+    },
+    "77278": {
+      "id": 77278,
+      "uri": "/lagenhet/77278-2rum-göteborg-västra-götalands-län-engelbrektsgatan-34-ab",
+      "landlord_object_id": "3260-1003",
+      "type": "individual",
+      "images": [
+        {
+          "image": "https://homeq-media-live.s3.amazonaws.com/apartment_images/25cb802b84814d4bb46be3928ef2e2c3.jpeg",
+          "caption": "",
+          "position": 0
+        }
+      ],
+      "videos": [],
+      "publish_date": "2023-03-09",
+      "shapes": [
+        "county.14",
+        "area.37",
+        "municipality.1480",
+        "metropolitan_area.8",
+        "area.110",
+        "urban_area.4368",
+        "district.107064"
+      ],
+      "audience": "everyone",
+      "short_lease": false,
+      "standalone": true,
+      "references": {
+        "estate": 1418,
+        "apartment": 77720,
+        "object_ad": 77278,
+        "company": 58,
+        "office": 62,
+        "project": null
+      },
+      "location": {
+        "lat": 57.699373,
+        "lon": 11.9784329
+      },
+      "status": "Active",
+      "rent": 9763,
+      "area": 58,
+      "rooms": 2,
+      "sorting_mode": "queue_points",
+      "floor": 6,
+      "floor_plan": "https://homeq-media-live.s3.amazonaws.com/floor_plans/d8b2891709ae4847ae9f593d8255e4db.pdf",
+      "access_date": "2023-04-15",
+      "amenities": {
+        "balcony": false,
+        "dishwasher": true,
+        "bathtub": false,
+        "washer": true,
+        "drier": false,
+        "garage": false,
+        "patio": false,
+        "elevator": true,
+        "kitchen_fan": true,
+        "parking": false,
+        "pets": true,
+        "handicap_friendly": false,
+        "heat": true,
+        "water": true,
+        "electricity": false,
+        "tv": true,
+        "internet": false
+      },
+      "address": {
+        "street": "Engelbrektsgatan",
+        "street_number": "34 AB",
+        "city": "Göteborg",
+        "zip": "41137",
+        "municipality": "Göteborg",
+        "county": "Västra Götalands län"
+      },
+      "display": {
+        "floor_plan": "https://homeq-media-live.s3.amazonaws.com/floor_plans/d8b2891709ae4847ae9f593d8255e4db.pdf",
+        "landlord_object_id": "3260-1003",
+        "promotion_file": ""
+      },
+      "indexed_at": "2023-03-29T13:57:26.154464",
+      "boost_value": 0,
+      "$object_ad": {
+        "is_renovated": false,
+        "heat_included": true,
+        "water_included": true,
+        "electricity_included": false,
+        "tv_included": true,
+        "internet_included": false,
+        "has_washing_machine": true,
+        "is_prepared_for_washing_machine": false,
+        "is_prioritizing_company_customers": false,
+        "has_dishwasher": true,
+        "is_prepared_for_dishwasher": false,
+        "has_drier": false,
+        "has_bathtub": false,
+        "has_shower": true,
+        "has_kitchen_fan": true,
+        "has_patio": false,
+        "has_balcony": false,
+        "has_elevator": true,
+        "has_parking": false,
+        "parking": "NONE",
+        "has_garage": false,
+        "garage": "NONE",
+        "city": "Göteborg",
+        "street": "Engelbrektsgatan",
+        "street_number": "34 AB",
+        "municipality": "Göteborg",
+        "county": "Västra Götalands län",
+        "rooms": "2.0",
+        "get_rooms": "2",
+        "floor": 6,
+        "area": "58.00",
+        "rent": 9763,
+        "description": "Vindslägenhet i hjärtat av Göteborg.\nLägenheten har helkaklat badrum med kombimaskin. Parkett i samtliga rum, klinker i hallen vid entrédörren. \nDå detta är en vindslägenhet, innebär det att det är snedtak i stora delar av lägenheten, många bjälkar mellan golv och tak\n\nFönstren utgörs av takkupor\n\nHiss upp till våning 5",
+        "status": "a",
+        "promotion_file": null,
+        "plan_image": "https://homeq-media-live.s3.amazonaws.com/floor_plans/d8b2891709ae4847ae9f593d8255e4db.pdf",
+        "images": [
+          {
+            "image": "https://homeq-media-live.s3.amazonaws.com/apartment_images/25cb802b84814d4bb46be3928ef2e2c3.jpeg",
+            "caption": "",
+            "position": 0
+          }
+        ],
+        "videos": [],
+        "three_d_views": [],
+        "agreement_access": false,
+        "prior_access": false,
+        "landlord_logo": "https://homeq-media-live.s3.eu-north-1.amazonaws.com/landlord_offices/logos/a9d652fc297544f49f44eb2119d2ac5b.jpg",
+        "landlord_company": "Wallenstam",
+        "public_profile_slug": null,
+        "date_access": "2023-04-15",
+        "can_apply": true,
+        "longitude": "11.9784329",
+        "latitude": "57.6993730",
+        "date_publish": "2023-03-09",
+        "new_production": false,
+        "estate_id": 1418,
+        "area_description": null,
+        "landlord_object_id": "3260-1003",
+        "has_applied_on_estate": true,
+        "is_short_lease": false,
+        "security_door": true,
+        "short_lease_min_date": null,
+        "short_lease_max_date": null,
+        "is_senior": false,
+        "senior_age": 65,
+        "is_youth": false,
+        "youth_age": 25,
+        "is_student": false,
+        "allows_smoking": true,
+        "allows_pets": true,
+        "candidate_sorting_mode": "queue_points",
+        "contract_system": "B",
+        "handicap_friendly": false,
+        "last_accept": 1546,
+        "office": {
+          "id": 62
+        },
+        "landlord": {
+          "id": 58
+        }
+      },
+      "$districtName": "Göteborgs Vasa"
     },
     "77280": {
       "id": 77280,
@@ -7402,7 +7945,7 @@
         "candidate_sorting_mode": "queue_points",
         "contract_system": "B",
         "handicap_friendly": false,
-        "last_accept": 909,
+        "last_accept": 910,
         "office": {
           "id": 1013
         },
@@ -7564,7 +8107,7 @@
         "candidate_sorting_mode": "queue_points",
         "contract_system": "B",
         "handicap_friendly": false,
-        "last_accept": 932,
+        "last_accept": 933,
         "office": {
           "id": 1013
         },
@@ -7888,7 +8431,7 @@
         "candidate_sorting_mode": "queue_points",
         "contract_system": "B",
         "handicap_friendly": false,
-        "last_accept": 1545,
+        "last_accept": 1546,
         "office": {
           "id": 1013
         },
@@ -7997,7 +8540,7 @@
         "promotion_file": ""
       },
       "indexed_at": "2023-03-31T06:01:23.219435",
-      "boost_value": 3.17,
+      "boost_value": 3.31,
       "$object_ad": {
         "is_renovated": false,
         "heat_included": true,
@@ -8093,7 +8636,182 @@
         "candidate_sorting_mode": "queue_points",
         "contract_system": "D",
         "handicap_friendly": false,
-        "last_accept": 1375,
+        "last_accept": 1376,
+        "office": {
+          "id": 70
+        },
+        "landlord": {
+          "id": 3
+        }
+      },
+      "$districtName": "Björkekärr"
+    },
+    "77445": {
+      "id": 77445,
+      "uri": "/lagenhet/77445-1rum-göteborg-västra-götalands-län-smörslätten-6",
+      "landlord_object_id": "81002-1158",
+      "type": "individual",
+      "images": [
+        {
+          "image": "https://homeq-media-live.s3.amazonaws.com/apartment_images/69abcad327e042a09e1cf370b7d2d93e.jpg",
+          "caption": "",
+          "position": 0
+        },
+        {
+          "image": "https://homeq-media-live.s3.amazonaws.com/apartment_images/d59be34a99e041628216f15e6a0c0c83.jpg",
+          "caption": "",
+          "position": 1
+        }
+      ],
+      "videos": [],
+      "publish_date": "2023-03-10",
+      "shapes": [
+        "county.14",
+        "municipality.1480",
+        "metropolitan_area.8",
+        "area.89",
+        "area.91",
+        "urban_area.4368",
+        "district.107089"
+      ],
+      "audience": "everyone",
+      "short_lease": false,
+      "standalone": true,
+      "references": {
+        "estate": 402,
+        "apartment": 7153,
+        "object_ad": 77445,
+        "company": 3,
+        "office": 70,
+        "project": null
+      },
+      "location": {
+        "lat": 57.72063,
+        "lon": 12.05805
+      },
+      "status": "Active",
+      "rent": 5151,
+      "area": 22,
+      "rooms": 1,
+      "sorting_mode": "queue_points",
+      "floor": 3,
+      "floor_plan": "https://homeq-media-live.s3.amazonaws.com/floor_plans/0e68cbe29db841a1962b90f2d275bf64.pdf",
+      "access_date": "2023-05-01",
+      "amenities": {
+        "balcony": false,
+        "dishwasher": true,
+        "bathtub": false,
+        "washer": false,
+        "drier": false,
+        "garage": false,
+        "patio": false,
+        "elevator": true,
+        "kitchen_fan": true,
+        "parking": false,
+        "pets": true,
+        "handicap_friendly": false,
+        "heat": true,
+        "water": true,
+        "electricity": true,
+        "tv": true,
+        "internet": false
+      },
+      "address": {
+        "street": "Smörslätten",
+        "street_number": "6",
+        "city": "Göteborg",
+        "zip": "41677",
+        "municipality": "Göteborg",
+        "county": "Västra Götalands län"
+      },
+      "display": {
+        "floor_plan": "https://homeq-media-live.s3.amazonaws.com/floor_plans/0e68cbe29db841a1962b90f2d275bf64.pdf",
+        "landlord_object_id": "81002-1158",
+        "promotion_file": ""
+      },
+      "indexed_at": "2023-03-31T06:01:23.215290",
+      "boost_value": 4.79,
+      "$object_ad": {
+        "is_renovated": false,
+        "heat_included": true,
+        "water_included": true,
+        "electricity_included": true,
+        "tv_included": true,
+        "internet_included": false,
+        "has_washing_machine": false,
+        "is_prepared_for_washing_machine": false,
+        "is_prioritizing_company_customers": true,
+        "has_dishwasher": true,
+        "is_prepared_for_dishwasher": false,
+        "has_drier": false,
+        "has_bathtub": false,
+        "has_shower": true,
+        "has_kitchen_fan": true,
+        "has_patio": false,
+        "has_balcony": false,
+        "has_elevator": true,
+        "has_parking": false,
+        "parking": "NONE",
+        "has_garage": false,
+        "garage": "NONE",
+        "city": "Göteborg",
+        "street": "Smörslätten",
+        "street_number": "6",
+        "municipality": "Göteborg",
+        "county": "Västra Götalands län",
+        "rooms": "1.0",
+        "get_rooms": "1",
+        "floor": 3,
+        "area": "22.00",
+        "rent": 5151,
+        "description": "Med ca 10 minuter till centrala Göteborg finns nu den här 1an för uthyrning. Lägenheten totalrenoverades i november 2017. De 22,5 kvadratmeterna är välplanerade och säkerhetsdörr är monterad. I hallen ligger klinkergolv som både är snyggt och praktiskt och i resten av hemmet ligger parkettgolv i ek av hög kvalitet. Klinker återkommer tillsammans med kakel i badrummet som även försetts med duschvägg i glas, handdukstork, spegel med LED-belysning samt golvvärme. I köket finns inbyggd ugn, diskmaskin, induktionshäll, fläkt samt kyl och frys. \n\nI Björkekärr bor du ett stenkast ifrån naturområden så som Härlanda tjärn och med bra förbindelser till centrala Göteborg. Observera att bilderna i annonsen är exempelbilder, avvikelse i planlösning kan därav förekomma men standarden är densamma. \n\nLägenheten hyrs ut på 2022 års hyresnivå.\r\n\r\nOMGIVNING\r\nSmörslätten är beläget i Björkekärr i Östra Göteborg. Området består av 6 huskroppar på 6 våningar vardera och ett daghem. Området ligger på gångavstånd till Delsjöns naturreservat med fina vandringsleder, ridvägar, fiskemöjligheter, motionsspår och flera fina badplatser.\r\n\r\nSERVICE\r\nÖstra sjukhuset ligger alldeles över gatan. Där finns både apotek och pressbyrå. En hållplats bort ligger Spåntorget med pizzeria, servicebutik och gym.",
+        "status": "a",
+        "promotion_file": null,
+        "plan_image": "https://homeq-media-live.s3.amazonaws.com/floor_plans/0e68cbe29db841a1962b90f2d275bf64.pdf",
+        "images": [
+          {
+            "image": "https://homeq-media-live.s3.amazonaws.com/apartment_images/69abcad327e042a09e1cf370b7d2d93e.jpg",
+            "caption": "",
+            "position": 0
+          },
+          {
+            "image": "https://homeq-media-live.s3.amazonaws.com/apartment_images/d59be34a99e041628216f15e6a0c0c83.jpg",
+            "caption": "",
+            "position": 1
+          }
+        ],
+        "videos": [],
+        "three_d_views": [],
+        "agreement_access": false,
+        "prior_access": false,
+        "landlord_logo": "https://homeq-media-live.s3.eu-north-1.amazonaws.com/landlord_offices/logos/aced987211704553a0ba3b6222ebc5f3.jpeg",
+        "landlord_company": "Fastighets AB Balder",
+        "public_profile_slug": null,
+        "date_access": "2023-05-01",
+        "can_apply": true,
+        "longitude": "12.0580500",
+        "latitude": "57.7206300",
+        "date_publish": "2023-03-10",
+        "new_production": false,
+        "estate_id": 402,
+        "area_description": null,
+        "landlord_object_id": "81002-1158",
+        "has_applied_on_estate": true,
+        "is_short_lease": false,
+        "security_door": true,
+        "short_lease_min_date": null,
+        "short_lease_max_date": null,
+        "is_senior": false,
+        "senior_age": 65,
+        "is_youth": false,
+        "youth_age": 25,
+        "is_student": false,
+        "allows_smoking": true,
+        "allows_pets": true,
+        "candidate_sorting_mode": "queue_points",
+        "contract_system": "D",
+        "handicap_friendly": false,
+        "last_accept": 534,
         "office": {
           "id": 70
         },
@@ -8367,7 +9085,7 @@
         "candidate_sorting_mode": "queue_points",
         "contract_system": "B",
         "handicap_friendly": false,
-        "last_accept": 1041,
+        "last_accept": 1042,
         "office": {
           "id": 182
         },
@@ -8937,7 +9655,7 @@
         "candidate_sorting_mode": "queue_points",
         "contract_system": "B",
         "handicap_friendly": false,
-        "last_accept": 654,
+        "last_accept": 655,
         "office": {
           "id": 838
         },
@@ -9282,7 +10000,7 @@
         "candidate_sorting_mode": "queue_points",
         "contract_system": "B",
         "handicap_friendly": false,
-        "last_accept": 1527,
+        "last_accept": 1528,
         "office": {
           "id": 838
         },
@@ -9444,7 +10162,7 @@
         "candidate_sorting_mode": "queue_points",
         "contract_system": "B",
         "handicap_friendly": false,
-        "last_accept": 1622,
+        "last_accept": 1623,
         "office": {
           "id": 838
         },
@@ -10336,7 +11054,7 @@
         "candidate_sorting_mode": "queue_points",
         "contract_system": "B",
         "handicap_friendly": false,
-        "last_accept": 1403,
+        "last_accept": 1404,
         "office": {
           "id": 62
         },
@@ -10629,7 +11347,7 @@
         "promotion_file": ""
       },
       "indexed_at": "2023-03-31T13:10:35.820350",
-      "boost_value": 2.8499999999999996,
+      "boost_value": 3,
       "$object_ad": {
         "is_renovated": false,
         "heat_included": true,
@@ -10980,7 +11698,7 @@
         "candidate_sorting_mode": "queue_points",
         "contract_system": "B",
         "handicap_friendly": false,
-        "last_accept": 1008,
+        "last_accept": 1009,
         "office": {
           "id": 273
         },
@@ -11084,7 +11802,7 @@
         "promotion_file": ""
       },
       "indexed_at": "2023-04-01T06:00:44.431752",
-      "boost_value": 2.7199999999999998,
+      "boost_value": 2.87,
       "$object_ad": {
         "is_renovated": false,
         "heat_included": true,
@@ -11175,7 +11893,7 @@
         "candidate_sorting_mode": "queue_points",
         "contract_system": "D",
         "handicap_friendly": false,
-        "last_accept": 837,
+        "last_accept": 838,
         "office": {
           "id": 66
         },
@@ -11293,7 +12011,7 @@
         "promotion_file": ""
       },
       "indexed_at": "2023-03-31T06:01:18.972747",
-      "boost_value": 2.41,
+      "boost_value": 2.57,
       "$object_ad": {
         "is_renovated": false,
         "heat_included": false,
@@ -11399,7 +12117,7 @@
         "candidate_sorting_mode": "queue_points",
         "contract_system": "D",
         "handicap_friendly": false,
-        "last_accept": 1230,
+        "last_accept": 1231,
         "office": {
           "id": 1343
         },
@@ -11408,6 +12126,201 @@
         }
       },
       "$districtName": "Gunnared"
+    },
+    "77853": {
+      "id": 77853,
+      "uri": "/lagenhet/77853-3rum-göteborg-västra-götalands-län-smörslätten-10",
+      "landlord_object_id": "81002-1385",
+      "type": "individual",
+      "images": [
+        {
+          "image": "https://homeq-media-live.s3.amazonaws.com/apartment_images/69abcad327e042a09e1cf370b7d2d93e.jpg",
+          "caption": "",
+          "position": 0
+        },
+        {
+          "image": "https://homeq-media-live.s3.amazonaws.com/apartment_images/9a4f08eb3bc643d2b90f43f276bb92c3.jpg",
+          "caption": "",
+          "position": 1
+        },
+        {
+          "image": "https://homeq-media-live.s3.amazonaws.com/apartment_images/9d54b67d48084c7e8381125c4e4f6c48.jpg",
+          "caption": "",
+          "position": 2
+        },
+        {
+          "image": "https://homeq-media-live.s3.amazonaws.com/apartment_images/16d8dd7b27f245fd8d9107e5f1832fba.jpg",
+          "caption": "",
+          "position": 3
+        }
+      ],
+      "videos": [],
+      "publish_date": "2023-03-15",
+      "shapes": [
+        "county.14",
+        "municipality.1480",
+        "metropolitan_area.8",
+        "area.89",
+        "area.91",
+        "urban_area.4368",
+        "district.107089"
+      ],
+      "audience": "everyone",
+      "short_lease": false,
+      "standalone": true,
+      "references": {
+        "estate": 402,
+        "apartment": 8477,
+        "object_ad": 77853,
+        "company": 3,
+        "office": 70,
+        "project": null
+      },
+      "location": {
+        "lat": 57.72063,
+        "lon": 12.05805
+      },
+      "status": "Active",
+      "rent": 10797,
+      "area": 87,
+      "rooms": 3,
+      "sorting_mode": "queue_points",
+      "floor": 6,
+      "floor_plan": "https://homeq-media-live.s3.amazonaws.com/floor_plans/46ab3f29c8b04dbd8c86586974514be1.pdf",
+      "access_date": "2023-05-01",
+      "amenities": {
+        "balcony": true,
+        "dishwasher": true,
+        "bathtub": false,
+        "washer": true,
+        "drier": true,
+        "garage": false,
+        "patio": false,
+        "elevator": true,
+        "kitchen_fan": true,
+        "parking": false,
+        "pets": true,
+        "handicap_friendly": false,
+        "heat": true,
+        "water": true,
+        "electricity": true,
+        "tv": true,
+        "internet": false
+      },
+      "address": {
+        "street": "Smörslätten",
+        "street_number": "10",
+        "city": "Göteborg",
+        "zip": "41677",
+        "municipality": "Göteborg",
+        "county": "Västra Götalands län"
+      },
+      "display": {
+        "floor_plan": "https://homeq-media-live.s3.amazonaws.com/floor_plans/46ab3f29c8b04dbd8c86586974514be1.pdf",
+        "landlord_object_id": "81002-1385",
+        "promotion_file": ""
+      },
+      "indexed_at": "2023-03-31T06:01:23.223286",
+      "boost_value": 2.59,
+      "$object_ad": {
+        "is_renovated": false,
+        "heat_included": true,
+        "water_included": true,
+        "electricity_included": true,
+        "tv_included": true,
+        "internet_included": false,
+        "has_washing_machine": true,
+        "is_prepared_for_washing_machine": false,
+        "is_prioritizing_company_customers": true,
+        "has_dishwasher": true,
+        "is_prepared_for_dishwasher": false,
+        "has_drier": true,
+        "has_bathtub": false,
+        "has_shower": true,
+        "has_kitchen_fan": true,
+        "has_patio": false,
+        "has_balcony": true,
+        "has_elevator": true,
+        "has_parking": false,
+        "parking": "NONE",
+        "has_garage": false,
+        "garage": "NONE",
+        "city": "Göteborg",
+        "street": "Smörslätten",
+        "street_number": "10",
+        "municipality": "Göteborg",
+        "county": "Västra Götalands län",
+        "rooms": "3.0",
+        "get_rooms": "3",
+        "floor": 6,
+        "area": "87.00",
+        "rent": 10797,
+        "description": "Med ca 10 minuter till centrala Göteborg finns nu den här 3 rok för uthyrning. Lägenheten totalrenoverades i (april 2020). De 87 kvadratmeterna är välplanerade och säkerhetsdörr är monterad. I hallen ligger klinkergolv som både är snyggt och praktiskt och i resten av hemmet ligger parkettgolv i ek av hög kvalitet. Klinker återkommer tillsammans med kakel i badrummet som även försetts med duschvägg i glas, handdukstork, spegel med LED-belysning samt golvvärme. I köket finns inbyggd ugn, diskmaskin, induktionshäll, fläkt samt kyl och frys. \n\nI Björkekärr bor du ett stenkast ifrån naturområden så som Härlanda tjärn och med bra förbindelser till centrala Göteborg.\n\nObservera att bilderna i annonsen är exempelbilder, avvikelse i planlösning kan därav förekomma men standarden är densamma.\r\n\r\nOMGIVNING\r\nSmörslätten är beläget i Björkekärr i Östra Göteborg. Området består av 6 huskroppar på 6 våningar vardera och ett daghem. Området ligger på gångavstånd till Delsjöns naturreservat med fina vandringsleder, ridvägar, fiskemöjligheter, motionsspår och flera fina badplatser.\r\n\r\nSERVICE\r\nÖstra sjukhuset ligger alldeles över gatan. Där finns både apotek och pressbyrå. En hållplats bort ligger Spåntorget med pizzeria, servicebutik och gym.",
+        "status": "a",
+        "promotion_file": null,
+        "plan_image": "https://homeq-media-live.s3.amazonaws.com/floor_plans/46ab3f29c8b04dbd8c86586974514be1.pdf",
+        "images": [
+          {
+            "image": "https://homeq-media-live.s3.amazonaws.com/apartment_images/69abcad327e042a09e1cf370b7d2d93e.jpg",
+            "caption": "",
+            "position": 0
+          },
+          {
+            "image": "https://homeq-media-live.s3.amazonaws.com/apartment_images/9a4f08eb3bc643d2b90f43f276bb92c3.jpg",
+            "caption": "",
+            "position": 1
+          },
+          {
+            "image": "https://homeq-media-live.s3.amazonaws.com/apartment_images/9d54b67d48084c7e8381125c4e4f6c48.jpg",
+            "caption": "",
+            "position": 2
+          },
+          {
+            "image": "https://homeq-media-live.s3.amazonaws.com/apartment_images/16d8dd7b27f245fd8d9107e5f1832fba.jpg",
+            "caption": "",
+            "position": 3
+          }
+        ],
+        "videos": [],
+        "three_d_views": [],
+        "agreement_access": false,
+        "prior_access": false,
+        "landlord_logo": "https://homeq-media-live.s3.eu-north-1.amazonaws.com/landlord_offices/logos/aced987211704553a0ba3b6222ebc5f3.jpeg",
+        "landlord_company": "Fastighets AB Balder",
+        "public_profile_slug": null,
+        "date_access": "2023-05-01",
+        "can_apply": true,
+        "longitude": "12.0580500",
+        "latitude": "57.7206300",
+        "date_publish": "2023-03-15",
+        "new_production": false,
+        "estate_id": 402,
+        "area_description": null,
+        "landlord_object_id": "81002-1385",
+        "has_applied_on_estate": true,
+        "is_short_lease": false,
+        "security_door": true,
+        "short_lease_min_date": null,
+        "short_lease_max_date": null,
+        "is_senior": false,
+        "senior_age": 65,
+        "is_youth": false,
+        "youth_age": 25,
+        "is_student": false,
+        "allows_smoking": true,
+        "allows_pets": true,
+        "candidate_sorting_mode": "queue_points",
+        "contract_system": "D",
+        "handicap_friendly": false,
+        "last_accept": 1545,
+        "office": {
+          "id": 70
+        },
+        "landlord": {
+          "id": 3
+        }
+      },
+      "$districtName": "Björkekärr"
     },
     "77871": {
       "id": 77871,
@@ -12272,7 +13185,7 @@
         "promotion_file": ""
       },
       "indexed_at": "2023-03-20T16:16:29.023173",
-      "boost_value": 2.41,
+      "boost_value": 2.57,
       "$object_ad": {
         "is_renovated": false,
         "heat_included": true,
@@ -12477,7 +13390,7 @@
         "promotion_file": ""
       },
       "indexed_at": "2023-03-31T13:10:35.815166",
-      "boost_value": 2.28,
+      "boost_value": 2.44,
       "$object_ad": {
         "is_renovated": false,
         "heat_included": true,
@@ -12742,7 +13655,7 @@
         "candidate_sorting_mode": "queue_points",
         "contract_system": "B",
         "handicap_friendly": false,
-        "last_accept": 1335,
+        "last_accept": 1336,
         "office": {
           "id": 1345
         },
@@ -14573,7 +15486,7 @@
         "candidate_sorting_mode": "random",
         "contract_system": "B",
         "handicap_friendly": false,
-        "last_accept": 6,
+        "last_accept": 7,
         "office": {
           "id": 1494
         },
@@ -14667,7 +15580,7 @@
         "promotion_file": ""
       },
       "indexed_at": "2023-03-31T06:01:23.226824",
-      "boost_value": 3.32,
+      "boost_value": 3.48,
       "$object_ad": {
         "is_renovated": false,
         "heat_included": true,
@@ -14748,7 +15661,7 @@
         "candidate_sorting_mode": "queue_points",
         "contract_system": "D",
         "handicap_friendly": false,
-        "last_accept": 594,
+        "last_accept": 595,
         "office": {
           "id": 70
         },
@@ -14921,7 +15834,7 @@
         "candidate_sorting_mode": "queue_points",
         "contract_system": "B",
         "handicap_friendly": false,
-        "last_accept": 1313,
+        "last_accept": 1314,
         "office": {
           "id": 329
         },
@@ -15248,7 +16161,7 @@
         "candidate_sorting_mode": "random",
         "contract_system": "B",
         "handicap_friendly": false,
-        "last_accept": 1450,
+        "last_accept": 1451,
         "office": {
           "id": 177
         },
@@ -15362,7 +16275,7 @@
         "promotion_file": ""
       },
       "indexed_at": "2023-03-31T06:01:16.025151",
-      "boost_value": 2.93,
+      "boost_value": 3.1100000000000003,
       "$object_ad": {
         "is_renovated": false,
         "heat_included": true,
@@ -15472,6 +16385,389 @@
         }
       },
       "$districtName": "Bergsjön"
+    },
+    "78219": {
+      "id": 78219,
+      "uri": "/lagenhet/78219-1rum-limhamn-skåne-län-höbalsgatan-3",
+      "landlord_object_id": "836-1323",
+      "type": "individual",
+      "images": [
+        {
+          "image": "https://homeq-media-live.s3.amazonaws.com/apartment_images/55b2baf002834082884bc21e5b6d1b59.jpeg",
+          "caption": "",
+          "position": 0
+        },
+        {
+          "image": "https://homeq-media-live.s3.amazonaws.com/apartment_images/49488e2252a74203bf8f19dbc049192a.jpeg",
+          "caption": "",
+          "position": 1
+        },
+        {
+          "image": "https://homeq-media-live.s3.amazonaws.com/apartment_images/de01bfebe6314c6f99a11d5a8e78f06c.jpeg",
+          "caption": "",
+          "position": 2
+        },
+        {
+          "image": "https://homeq-media-live.s3.amazonaws.com/apartment_images/ab4d9d04f1614a49bade76ddd77a6a80.jpeg",
+          "caption": "",
+          "position": 3
+        },
+        {
+          "image": "https://homeq-media-live.s3.amazonaws.com/apartment_images/4582d54fb5f34260a393fffee240f12d.jpeg",
+          "caption": "",
+          "position": 4
+        },
+        {
+          "image": "https://homeq-media-live.s3.amazonaws.com/apartment_images/d7249b6e90d7469fa6a01a7a060523e2.jpeg",
+          "caption": "",
+          "position": 5
+        },
+        {
+          "image": "https://homeq-media-live.s3.amazonaws.com/apartment_images/b6eaf3287cf149ea9bd691b929b5d056.jpeg",
+          "caption": "",
+          "position": 6
+        },
+        {
+          "image": "https://homeq-media-live.s3.amazonaws.com/apartment_images/ba50b367405c44d488d8af5e8aaffdce.jpeg",
+          "caption": "",
+          "position": 7
+        },
+        {
+          "image": "https://homeq-media-live.s3.amazonaws.com/estate_images/71821915f475496994cc61a4ff69eb49.jpeg",
+          "caption": "",
+          "position": 8
+        },
+        {
+          "image": "https://homeq-media-live.s3.amazonaws.com/estate_images/715af3d9df4b489ab91b23800ed46ceb.jpeg",
+          "caption": "",
+          "position": 10
+        },
+        {
+          "image": "https://homeq-media-live.s3.amazonaws.com/estate_images/cbae8bb3971944ec98431448e92f4a19.jpeg",
+          "caption": "",
+          "position": 11
+        },
+        {
+          "image": "https://homeq-media-live.s3.amazonaws.com/estate_images/27df1ab70d874907820cf8ad3b346078.jpeg",
+          "caption": "",
+          "position": 12
+        },
+        {
+          "image": "https://homeq-media-live.s3.amazonaws.com/estate_images/1efa755588d34b88b1cde50637ac8ee5.jpeg",
+          "caption": "",
+          "position": 13
+        },
+        {
+          "image": "https://homeq-media-live.s3.amazonaws.com/estate_images/0202026abf11406ca2c9326ec2fb0017.jpeg",
+          "caption": "",
+          "position": 14
+        },
+        {
+          "image": "https://homeq-media-live.s3.amazonaws.com/estate_images/4b7e7e3978b64fc586838c3f99b4eb43.jpeg",
+          "caption": "",
+          "position": 15
+        },
+        {
+          "image": "https://homeq-media-live.s3.amazonaws.com/estate_images/1aff5a614c714c5aab18761978918277.jpeg",
+          "caption": "",
+          "position": 16
+        },
+        {
+          "image": "https://homeq-media-live.s3.amazonaws.com/estate_images/51a05841774e40fc8f048224dfa37060.jpeg",
+          "caption": "",
+          "position": 17
+        },
+        {
+          "image": "https://homeq-media-live.s3.amazonaws.com/estate_images/ddb4fd807cb7428c90ed07caf734e149.jpeg",
+          "caption": "",
+          "position": 18
+        },
+        {
+          "image": "https://homeq-media-live.s3.amazonaws.com/estate_images/81b384c189fb4f888028035ac6519591.jpeg",
+          "caption": "",
+          "position": 19
+        },
+        {
+          "image": "https://homeq-media-live.s3.amazonaws.com/estate_images/a6aaab35531d420fab18bc6d97cd8f50.jpeg",
+          "caption": "",
+          "position": 20
+        },
+        {
+          "image": "https://homeq-media-live.s3.amazonaws.com/estate_images/4a10757ada2445e2b193cfe5bb6a66d0.jpeg",
+          "caption": "",
+          "position": 21
+        },
+        {
+          "image": "https://homeq-media-live.s3.amazonaws.com/estate_images/413e30f268ae477da16cb6cec9dd714c.jpeg",
+          "caption": "",
+          "position": 22
+        },
+        {
+          "image": "https://homeq-media-live.s3.amazonaws.com/estate_images/c30d79418e7e46848356c52fb87a5abc.jpeg",
+          "caption": "",
+          "position": 23
+        }
+      ],
+      "videos": [],
+      "publish_date": "2023-03-20",
+      "shapes": [
+        "metropolitan_area.9",
+        "district.101112",
+        "urban_area.3604",
+        "municipality.1280",
+        "county.12"
+      ],
+      "audience": "everyone",
+      "short_lease": false,
+      "standalone": true,
+      "references": {
+        "estate": 3229,
+        "apartment": 39689,
+        "object_ad": 78219,
+        "company": 59,
+        "office": 839,
+        "project": null
+      },
+      "location": {
+        "lat": 55.5688944,
+        "lon": 12.9490458
+      },
+      "status": "Active",
+      "rent": 7524,
+      "area": 34,
+      "rooms": 1,
+      "sorting_mode": "queue_points",
+      "floor": 2,
+      "floor_plan": "https://homeq-media-live.s3.amazonaws.com/floor_plans/ae1345d8594046bebb7eab005d363625.pdf",
+      "access_date": "2023-06-01",
+      "amenities": {
+        "balcony": true,
+        "dishwasher": true,
+        "bathtub": false,
+        "washer": false,
+        "drier": false,
+        "garage": false,
+        "patio": false,
+        "elevator": true,
+        "kitchen_fan": false,
+        "parking": false,
+        "pets": true,
+        "handicap_friendly": false,
+        "heat": true,
+        "water": true,
+        "electricity": false,
+        "tv": true,
+        "internet": false
+      },
+      "address": {
+        "street": "Höbalsgatan",
+        "street_number": "3",
+        "city": "Limhamn",
+        "zip": "21633",
+        "municipality": "Malmö",
+        "county": "Skåne län"
+      },
+      "display": {
+        "floor_plan": "https://homeq-media-live.s3.amazonaws.com/floor_plans/ae1345d8594046bebb7eab005d363625.pdf",
+        "landlord_object_id": "836-1323",
+        "promotion_file": ""
+      },
+      "indexed_at": "2023-03-31T15:12:16.269974",
+      "boost_value": 0,
+      "$object_ad": {
+        "is_renovated": false,
+        "heat_included": true,
+        "water_included": true,
+        "electricity_included": false,
+        "tv_included": true,
+        "internet_included": false,
+        "has_washing_machine": false,
+        "is_prepared_for_washing_machine": false,
+        "is_prioritizing_company_customers": false,
+        "has_dishwasher": true,
+        "is_prepared_for_dishwasher": false,
+        "has_drier": false,
+        "has_bathtub": false,
+        "has_shower": true,
+        "has_kitchen_fan": false,
+        "has_patio": false,
+        "has_balcony": true,
+        "has_elevator": true,
+        "has_parking": false,
+        "parking": "AVAILABLE",
+        "has_garage": false,
+        "garage": "NONE",
+        "city": "Limhamn",
+        "street": "Höbalsgatan",
+        "street_number": "3",
+        "municipality": "Malmö",
+        "county": "Skåne län",
+        "rooms": "1.0",
+        "get_rooms": "1",
+        "floor": 2,
+        "area": "34.00",
+        "rent": 7524,
+        "description": "Fastigheten Höbalen 1 med 54 lägenheter består av tre hus, ett miljöhus och två gemensamma tvättstugor. Innergården har träd, buskar och gräsyta. Även en mindre sandlåda för de små. Här finns också gott om plats för cyklar och markparkering och garageplatser för bil. Parkeringsplatserna hyrs ut genom P-Malmö. Till varje lägenhet ingår ett abonnemang i bilpoolen M i 10 år. Nya europeiska standarden för lamputtag, DCL, finns i taket i alla rum. Ikano Bostads lägenheter är anslutna till ett öppet bredbandsnät med hög kapacitet - Itux.\n- \n\nKvadratsmart etta om 34 kvadratmeter på andra våningen. Öppen planlösning med diskmaskin, induktionshäll och ugn i köksdelen. Helkaklat badrum och härlig balkong i öster. Badrummet är helkaklat och förberett för att enkelt kunna installera kombimaskin (kombinerad tvättmaskin och torktumlare).\n \nObservera att bilderna inte är från aktuell lägenhet utan från en referenslägenhet i samma projekt.",
+        "status": "a",
+        "promotion_file": null,
+        "plan_image": "https://homeq-media-live.s3.amazonaws.com/floor_plans/ae1345d8594046bebb7eab005d363625.pdf",
+        "images": [
+          {
+            "image": "https://homeq-media-live.s3.amazonaws.com/apartment_images/55b2baf002834082884bc21e5b6d1b59.jpeg",
+            "caption": "",
+            "position": 0
+          },
+          {
+            "image": "https://homeq-media-live.s3.amazonaws.com/apartment_images/49488e2252a74203bf8f19dbc049192a.jpeg",
+            "caption": "",
+            "position": 1
+          },
+          {
+            "image": "https://homeq-media-live.s3.amazonaws.com/apartment_images/de01bfebe6314c6f99a11d5a8e78f06c.jpeg",
+            "caption": "",
+            "position": 2
+          },
+          {
+            "image": "https://homeq-media-live.s3.amazonaws.com/apartment_images/ab4d9d04f1614a49bade76ddd77a6a80.jpeg",
+            "caption": "",
+            "position": 3
+          },
+          {
+            "image": "https://homeq-media-live.s3.amazonaws.com/apartment_images/4582d54fb5f34260a393fffee240f12d.jpeg",
+            "caption": "",
+            "position": 4
+          },
+          {
+            "image": "https://homeq-media-live.s3.amazonaws.com/apartment_images/d7249b6e90d7469fa6a01a7a060523e2.jpeg",
+            "caption": "",
+            "position": 5
+          },
+          {
+            "image": "https://homeq-media-live.s3.amazonaws.com/apartment_images/b6eaf3287cf149ea9bd691b929b5d056.jpeg",
+            "caption": "",
+            "position": 8
+          },
+          {
+            "image": "https://homeq-media-live.s3.amazonaws.com/apartment_images/ba50b367405c44d488d8af5e8aaffdce.jpeg",
+            "caption": "",
+            "position": 9
+          },
+          {
+            "image": "https://homeq-media-live.s3.amazonaws.com/estate_images/71821915f475496994cc61a4ff69eb49.jpeg",
+            "caption": "",
+            "position": 8
+          },
+          {
+            "image": "https://homeq-media-live.s3.amazonaws.com/estate_images/715af3d9df4b489ab91b23800ed46ceb.jpeg",
+            "caption": "",
+            "position": 9
+          },
+          {
+            "image": "https://homeq-media-live.s3.amazonaws.com/estate_images/cbae8bb3971944ec98431448e92f4a19.jpeg",
+            "caption": "",
+            "position": 10
+          },
+          {
+            "image": "https://homeq-media-live.s3.amazonaws.com/estate_images/27df1ab70d874907820cf8ad3b346078.jpeg",
+            "caption": "",
+            "position": 11
+          },
+          {
+            "image": "https://homeq-media-live.s3.amazonaws.com/estate_images/1efa755588d34b88b1cde50637ac8ee5.jpeg",
+            "caption": "",
+            "position": 12
+          },
+          {
+            "image": "https://homeq-media-live.s3.amazonaws.com/estate_images/0202026abf11406ca2c9326ec2fb0017.jpeg",
+            "caption": "",
+            "position": 13
+          },
+          {
+            "image": "https://homeq-media-live.s3.amazonaws.com/estate_images/4b7e7e3978b64fc586838c3f99b4eb43.jpeg",
+            "caption": "",
+            "position": 14
+          },
+          {
+            "image": "https://homeq-media-live.s3.amazonaws.com/estate_images/1aff5a614c714c5aab18761978918277.jpeg",
+            "caption": "",
+            "position": 15
+          },
+          {
+            "image": "https://homeq-media-live.s3.amazonaws.com/estate_images/51a05841774e40fc8f048224dfa37060.jpeg",
+            "caption": "",
+            "position": 16
+          },
+          {
+            "image": "https://homeq-media-live.s3.amazonaws.com/estate_images/ddb4fd807cb7428c90ed07caf734e149.jpeg",
+            "caption": "",
+            "position": 17
+          },
+          {
+            "image": "https://homeq-media-live.s3.amazonaws.com/estate_images/81b384c189fb4f888028035ac6519591.jpeg",
+            "caption": "",
+            "position": 18
+          },
+          {
+            "image": "https://homeq-media-live.s3.amazonaws.com/estate_images/a6aaab35531d420fab18bc6d97cd8f50.jpeg",
+            "caption": "",
+            "position": 19
+          },
+          {
+            "image": "https://homeq-media-live.s3.amazonaws.com/estate_images/4a10757ada2445e2b193cfe5bb6a66d0.jpeg",
+            "caption": "",
+            "position": 20
+          },
+          {
+            "image": "https://homeq-media-live.s3.amazonaws.com/estate_images/413e30f268ae477da16cb6cec9dd714c.jpeg",
+            "caption": "",
+            "position": 21
+          },
+          {
+            "image": "https://homeq-media-live.s3.amazonaws.com/estate_images/c30d79418e7e46848356c52fb87a5abc.jpeg",
+            "caption": "",
+            "position": 22
+          }
+        ],
+        "videos": [],
+        "three_d_views": [],
+        "agreement_access": false,
+        "prior_access": false,
+        "landlord_logo": "https://homeq-media-live.s3.eu-north-1.amazonaws.com/landlord_offices/logos/178bf072d2d74fd2891300e3bb9576be.jpg",
+        "landlord_company": "Ikano Bostad",
+        "public_profile_slug": null,
+        "date_access": "2023-06-01",
+        "can_apply": true,
+        "longitude": "12.9490458",
+        "latitude": "55.5688944",
+        "date_publish": "2023-03-20",
+        "new_production": false,
+        "estate_id": 3229,
+        "area_description": null,
+        "landlord_object_id": "836-1323",
+        "has_applied_on_estate": true,
+        "is_short_lease": false,
+        "security_door": true,
+        "short_lease_min_date": null,
+        "short_lease_max_date": null,
+        "is_senior": false,
+        "senior_age": 65,
+        "is_youth": false,
+        "youth_age": 25,
+        "is_student": false,
+        "allows_smoking": true,
+        "allows_pets": true,
+        "candidate_sorting_mode": "queue_points",
+        "contract_system": "B",
+        "handicap_friendly": false,
+        "last_accept": 0,
+        "office": {
+          "id": 839
+        },
+        "landlord": {
+          "id": 59
+        }
+      },
+      "$districtName": "Limhamn"
     },
     "78227": {
       "id": 78227,
@@ -15628,7 +16924,7 @@
         "candidate_sorting_mode": "queue_points",
         "contract_system": "B",
         "handicap_friendly": false,
-        "last_accept": 1168,
+        "last_accept": 1169,
         "office": {
           "id": 1305
         },
@@ -16132,7 +17428,7 @@
         "candidate_sorting_mode": "random",
         "contract_system": "B",
         "handicap_friendly": false,
-        "last_accept": 1545,
+        "last_accept": 1546,
         "office": {
           "id": 40
         },
@@ -16621,7 +17917,7 @@
         "candidate_sorting_mode": "queue_points",
         "contract_system": "B",
         "handicap_friendly": false,
-        "last_accept": 1601,
+        "last_accept": 1602,
         "office": {
           "id": 1345
         },
@@ -16846,7 +18142,7 @@
         "candidate_sorting_mode": "queue_points",
         "contract_system": "B",
         "handicap_friendly": false,
-        "last_accept": 132,
+        "last_accept": 133,
         "office": {
           "id": 1270
         },
@@ -17050,7 +18346,7 @@
         "candidate_sorting_mode": "queue_points",
         "contract_system": "B",
         "handicap_friendly": false,
-        "last_accept": 113,
+        "last_accept": 74,
         "office": {
           "id": 1270
         },
@@ -17414,7 +18710,7 @@
         "candidate_sorting_mode": "random",
         "contract_system": "B",
         "handicap_friendly": false,
-        "last_accept": 1569,
+        "last_accept": 1570,
         "office": {
           "id": 947
         },
@@ -17599,7 +18895,7 @@
         "candidate_sorting_mode": "queue_points",
         "contract_system": "B",
         "handicap_friendly": false,
-        "last_accept": 1352,
+        "last_accept": 1372,
         "office": {
           "id": 170
         },
@@ -18038,7 +19334,7 @@
         "candidate_sorting_mode": "queue_points",
         "contract_system": "B",
         "handicap_friendly": false,
-        "last_accept": 1269,
+        "last_accept": 1270,
         "office": {
           "id": 1174
         },
@@ -18047,6 +19343,210 @@
         }
       },
       "$districtName": "Bergsjön"
+    },
+    "78332": {
+      "id": 78332,
+      "landlord_object_id": "17-211",
+      "type": "individual",
+      "images": [
+        {
+          "image": "https://homeq-media-live.s3.amazonaws.com/apartment_images/4b08269d02cd479382b9835ab6571ae6.jpeg",
+          "caption": "",
+          "position": 0
+        },
+        {
+          "image": "https://homeq-media-live.s3.amazonaws.com/apartment_images/f277c4c843734d93a95b89e34ff9048c.jpeg",
+          "caption": "",
+          "position": 1
+        },
+        {
+          "image": "https://homeq-media-live.s3.amazonaws.com/apartment_images/920737b422534a909d99eb211ff977f0.jpeg",
+          "caption": "",
+          "position": 2
+        },
+        {
+          "image": "https://homeq-media-live.s3.amazonaws.com/estate_images/2af1622872ca4147aa8ff3e54d695048.jpeg",
+          "caption": "",
+          "position": 3
+        },
+        {
+          "image": "https://homeq-media-live.s3.amazonaws.com/estate_images/2a107ce1234445f0b14988f76010ddf0.jpeg",
+          "caption": "",
+          "position": 4
+        }
+      ],
+      "videos": [],
+      "publish_date": "2023-03-21",
+      "shapes": [
+        "area.23",
+        "county.14",
+        "area.15",
+        "district.107058",
+        "municipality.1480",
+        "metropolitan_area.8",
+        "urban_area.4368"
+      ],
+      "audience": "everyone",
+      "short_lease": false,
+      "standalone": true,
+      "references": {
+        "estate": 3252,
+        "apartment": 79393,
+        "object_ad": 78332,
+        "company": 103,
+        "office": 107,
+        "project": null
+      },
+      "location": {
+        "lat": 57.6724153,
+        "lon": 11.9358061
+      },
+      "status": "Active",
+      "rent": 5495,
+      "area": 56,
+      "rooms": 2,
+      "sorting_mode": "queue_points",
+      "floor": 2,
+      "floor_plan": "https://homeq-media-live.s3.amazonaws.com/floor_plans/dcaa3909fedb43398f9a9928ee8433d6.png",
+      "access_date": "2023-05-01",
+      "amenities": {
+        "balcony": true,
+        "dishwasher": false,
+        "bathtub": true,
+        "washer": false,
+        "drier": false,
+        "garage": false,
+        "patio": false,
+        "elevator": true,
+        "kitchen_fan": false,
+        "parking": false,
+        "pets": true,
+        "handicap_friendly": false,
+        "heat": true,
+        "water": true,
+        "electricity": false,
+        "tv": true,
+        "internet": false
+      },
+      "address": {
+        "street": "Marklandsgatan",
+        "street_number": "25",
+        "city": "Göteborg",
+        "zip": "41477",
+        "municipality": "Göteborg",
+        "county": "Västra Götalands län"
+      },
+      "display": {
+        "floor_plan": "https://homeq-media-live.s3.amazonaws.com/floor_plans/dcaa3909fedb43398f9a9928ee8433d6.png",
+        "landlord_object_id": "17-211",
+        "promotion_file": ""
+      },
+      "indexed_at": "2023-03-21T16:21:28.474678",
+      "boost_value": 0,
+      "$object_ad": {
+        "is_renovated": false,
+        "heat_included": true,
+        "water_included": true,
+        "electricity_included": false,
+        "tv_included": true,
+        "internet_included": false,
+        "has_washing_machine": false,
+        "is_prepared_for_washing_machine": false,
+        "is_prioritizing_company_customers": true,
+        "has_dishwasher": false,
+        "is_prepared_for_dishwasher": false,
+        "has_drier": false,
+        "has_bathtub": true,
+        "has_shower": false,
+        "has_kitchen_fan": false,
+        "has_patio": false,
+        "has_balcony": true,
+        "has_elevator": true,
+        "has_parking": false,
+        "parking": "AVAILABLE",
+        "has_garage": false,
+        "garage": "AVAILABLE",
+        "city": "Göteborg",
+        "street": "Marklandsgatan",
+        "street_number": "25",
+        "municipality": "Göteborg",
+        "county": "Västra Götalands län",
+        "rooms": "2.0",
+        "get_rooms": "2",
+        "floor": 2,
+        "area": "56.00",
+        "rent": 5495,
+        "description": "Tvåa med balkong på trevligt och stadsnära läge i väster!\nHär bor du med närhet till matbutik, restauranger, lekplats samt grönområden så som Slottsskogen, Änggårdsbergen och Botaniska trädgården. Precis utanför finns Marklandsgatans hållplats,  en knutpunkt för buss-och spårvagnstrafik som smidigt tar dig till andra delar av Göteborg.\n\nHyran på kontraktet är i 2022 års nivå. Hyresförhandlingar för 2023 pågår.",
+        "status": "a",
+        "promotion_file": null,
+        "plan_image": "https://homeq-media-live.s3.amazonaws.com/floor_plans/dcaa3909fedb43398f9a9928ee8433d6.png",
+        "images": [
+          {
+            "image": "https://homeq-media-live.s3.amazonaws.com/apartment_images/4b08269d02cd479382b9835ab6571ae6.jpeg",
+            "caption": "",
+            "position": 0
+          },
+          {
+            "image": "https://homeq-media-live.s3.amazonaws.com/apartment_images/f277c4c843734d93a95b89e34ff9048c.jpeg",
+            "caption": "",
+            "position": 1
+          },
+          {
+            "image": "https://homeq-media-live.s3.amazonaws.com/apartment_images/920737b422534a909d99eb211ff977f0.jpeg",
+            "caption": "",
+            "position": 2
+          },
+          {
+            "image": "https://homeq-media-live.s3.amazonaws.com/estate_images/2af1622872ca4147aa8ff3e54d695048.jpeg",
+            "caption": "",
+            "position": 3
+          },
+          {
+            "image": "https://homeq-media-live.s3.amazonaws.com/estate_images/2a107ce1234445f0b14988f76010ddf0.jpeg",
+            "caption": "",
+            "position": 4
+          }
+        ],
+        "videos": [],
+        "three_d_views": [],
+        "agreement_access": false,
+        "prior_access": false,
+        "landlord_logo": "https://homeq-media-live.s3.eu-north-1.amazonaws.com/landlord_offices/logos/2e8040f7e916408e9408bf6dd0a85e89.jpg",
+        "landlord_company": "Amlövs Fastighetsförvaltning",
+        "public_profile_slug": null,
+        "date_access": "2023-05-01",
+        "can_apply": true,
+        "longitude": "11.9358061",
+        "latitude": "57.6724153",
+        "date_publish": "2023-03-21",
+        "new_production": false,
+        "estate_id": 3252,
+        "area_description": null,
+        "landlord_object_id": "17-211",
+        "has_applied_on_estate": true,
+        "is_short_lease": false,
+        "security_door": false,
+        "short_lease_min_date": null,
+        "short_lease_max_date": null,
+        "is_senior": false,
+        "senior_age": 65,
+        "is_youth": false,
+        "youth_age": 25,
+        "is_student": false,
+        "allows_smoking": false,
+        "allows_pets": true,
+        "candidate_sorting_mode": "queue_points",
+        "contract_system": "B",
+        "handicap_friendly": false,
+        "last_accept": 1598,
+        "office": {
+          "id": 107
+        },
+        "landlord": {
+          "id": 103
+        }
+      },
+      "$districtName": "Högsbo"
     },
     "78333": {
       "id": 78333,
@@ -19199,7 +20699,7 @@
         "candidate_sorting_mode": "queue_points",
         "contract_system": "B",
         "handicap_friendly": false,
-        "last_accept": 1432,
+        "last_accept": 1439,
         "office": {
           "id": 107
         },
@@ -19906,7 +21406,7 @@
         "candidate_sorting_mode": "queue_points",
         "contract_system": "B",
         "handicap_friendly": false,
-        "last_accept": 950,
+        "last_accept": 951,
         "office": {
           "id": 62
         },
@@ -20131,7 +21631,7 @@
         "candidate_sorting_mode": "queue_points",
         "contract_system": "B",
         "handicap_friendly": false,
-        "last_accept": 878,
+        "last_accept": 879,
         "office": {
           "id": 277
         },
@@ -20701,7 +22201,7 @@
         "candidate_sorting_mode": "queue_points",
         "contract_system": "B",
         "handicap_friendly": false,
-        "last_accept": 957,
+        "last_accept": 958,
         "office": {
           "id": 626
         },
@@ -21059,7 +22559,7 @@
         "promotion_file": ""
       },
       "indexed_at": "2023-03-31T13:10:35.806054",
-      "boost_value": 1.6099999999999999,
+      "boost_value": 1.7999999999999998,
       "$object_ad": {
         "is_renovated": false,
         "heat_included": true,
@@ -21160,7 +22660,7 @@
         "candidate_sorting_mode": "queue_points",
         "contract_system": "D",
         "handicap_friendly": false,
-        "last_accept": 638,
+        "last_accept": 639,
         "office": {
           "id": 66
         },
@@ -21324,7 +22824,7 @@
         "candidate_sorting_mode": "queue_points",
         "contract_system": "B",
         "handicap_friendly": false,
-        "last_accept": 1545,
+        "last_accept": 1546,
         "office": {
           "id": 187
         },
@@ -22386,7 +23886,7 @@
         "promotion_file": ""
       },
       "indexed_at": "2023-03-23T12:05:50.974568",
-      "boost_value": 8.42,
+      "boost_value": 8.61,
       "$object_ad": {
         "is_renovated": true,
         "heat_included": true,
@@ -22660,7 +24160,7 @@
         "candidate_sorting_mode": "queue_points",
         "contract_system": "B",
         "handicap_friendly": false,
-        "last_accept": 654,
+        "last_accept": 655,
         "office": {
           "id": 838
         },
@@ -23248,7 +24748,7 @@
         "candidate_sorting_mode": "queue_points",
         "contract_system": "B",
         "handicap_friendly": false,
-        "last_accept": 1511,
+        "last_accept": 1512,
         "office": {
           "id": 838
         },
@@ -23862,7 +25362,7 @@
         "candidate_sorting_mode": "random",
         "contract_system": "B",
         "handicap_friendly": false,
-        "last_accept": 1545,
+        "last_accept": 1546,
         "office": {
           "id": 166
         },
@@ -24026,7 +25526,7 @@
         "candidate_sorting_mode": "queue_points",
         "contract_system": "B",
         "handicap_friendly": false,
-        "last_accept": 834,
+        "last_accept": 835,
         "office": {
           "id": 62
         },
@@ -24198,7 +25698,7 @@
         "candidate_sorting_mode": "queue_points",
         "contract_system": "B",
         "handicap_friendly": false,
-        "last_accept": 1502,
+        "last_accept": 1503,
         "office": {
           "id": 838
         },
@@ -24372,7 +25872,7 @@
         "candidate_sorting_mode": "queue_points",
         "contract_system": "B",
         "handicap_friendly": false,
-        "last_accept": 1539,
+        "last_accept": 1540,
         "office": {
           "id": 1270
         },
@@ -24576,7 +26076,7 @@
         "candidate_sorting_mode": "queue_points",
         "contract_system": "B",
         "handicap_friendly": false,
-        "last_accept": 519,
+        "last_accept": 575,
         "office": {
           "id": 1270
         },
@@ -24914,7 +26414,7 @@
         "candidate_sorting_mode": "queue_points",
         "contract_system": "B",
         "handicap_friendly": false,
-        "last_accept": 1161,
+        "last_accept": 1162,
         "office": {
           "id": 329
         },
@@ -25504,7 +27004,7 @@
         "candidate_sorting_mode": "queue_points",
         "contract_system": "B",
         "handicap_friendly": false,
-        "last_accept": 1411,
+        "last_accept": 1412,
         "office": {
           "id": 329
         },
@@ -25728,7 +27228,7 @@
         "candidate_sorting_mode": "random",
         "contract_system": "B",
         "handicap_friendly": false,
-        "last_accept": 1481,
+        "last_accept": 1482,
         "office": {
           "id": 166
         },
@@ -25902,7 +27402,7 @@
         "candidate_sorting_mode": "queue_points",
         "contract_system": "B",
         "handicap_friendly": false,
-        "last_accept": 1549,
+        "last_accept": 1550,
         "office": {
           "id": 673
         },
@@ -26075,6 +27575,210 @@
         }
       },
       "$districtName": "Tuve"
+    },
+    "78696": {
+      "id": 78696,
+      "landlord_object_id": "108-8",
+      "type": "individual",
+      "images": [
+        {
+          "image": "https://homeq-media-live.s3.amazonaws.com/apartment_images/d1c06a19cffa46ae9008056af31502d1.jpeg",
+          "caption": "",
+          "position": 0
+        },
+        {
+          "image": "https://homeq-media-live.s3.amazonaws.com/apartment_images/7de7e4dd4aa84690b072fd03ba415480.jpeg",
+          "caption": "",
+          "position": 1
+        },
+        {
+          "image": "https://homeq-media-live.s3.amazonaws.com/estate_images/d7627e61300c43289780214557e95cb8.jpeg",
+          "caption": "",
+          "position": 2
+        },
+        {
+          "image": "https://homeq-media-live.s3.amazonaws.com/estate_images/39e4b6601ec64835a5d944b05abae134.jpeg",
+          "caption": "",
+          "position": 3
+        },
+        {
+          "image": "https://homeq-media-live.s3.amazonaws.com/estate_images/6bf6b53dceb6411c84bb9c97bf8a2856.jpeg",
+          "caption": "",
+          "position": 4
+        }
+      ],
+      "videos": [],
+      "publish_date": "2023-03-24",
+      "shapes": [
+        "county.14",
+        "area.32",
+        "municipality.1480",
+        "metropolitan_area.8",
+        "district.107068",
+        "area.110",
+        "urban_area.4368"
+      ],
+      "audience": "everyone",
+      "short_lease": false,
+      "standalone": true,
+      "references": {
+        "estate": 1980,
+        "apartment": 30664,
+        "object_ad": 78696,
+        "company": 144,
+        "office": 166,
+        "project": null
+      },
+      "location": {
+        "lat": 57.6918371,
+        "lon": 11.9802077
+      },
+      "status": "Active",
+      "rent": 8700,
+      "area": 58,
+      "rooms": 2,
+      "sorting_mode": "random",
+      "floor": 3,
+      "floor_plan": "https://homeq-media-live.s3.amazonaws.com/floor_plans/b59a6b3d77ec42fa946c59132c66110a.pdf",
+      "access_date": "2023-06-01",
+      "amenities": {
+        "balcony": true,
+        "dishwasher": true,
+        "bathtub": true,
+        "washer": false,
+        "drier": false,
+        "garage": false,
+        "patio": false,
+        "elevator": true,
+        "kitchen_fan": true,
+        "parking": false,
+        "pets": false,
+        "handicap_friendly": false,
+        "heat": true,
+        "water": true,
+        "electricity": false,
+        "tv": true,
+        "internet": false
+      },
+      "address": {
+        "street": "Viktor Rydbergsgatan",
+        "street_number": "37B",
+        "city": "Göteborg",
+        "zip": "41257",
+        "municipality": "Göteborg",
+        "county": "Västra Götalands län"
+      },
+      "display": {
+        "floor_plan": "https://homeq-media-live.s3.amazonaws.com/floor_plans/b59a6b3d77ec42fa946c59132c66110a.pdf",
+        "landlord_object_id": "108-8",
+        "promotion_file": ""
+      },
+      "indexed_at": "2023-03-24T11:23:57.053408",
+      "boost_value": 0,
+      "$object_ad": {
+        "is_renovated": false,
+        "heat_included": true,
+        "water_included": true,
+        "electricity_included": false,
+        "tv_included": true,
+        "internet_included": false,
+        "has_washing_machine": false,
+        "is_prepared_for_washing_machine": false,
+        "is_prioritizing_company_customers": true,
+        "has_dishwasher": true,
+        "is_prepared_for_dishwasher": false,
+        "has_drier": false,
+        "has_bathtub": true,
+        "has_shower": false,
+        "has_kitchen_fan": true,
+        "has_patio": false,
+        "has_balcony": true,
+        "has_elevator": true,
+        "has_parking": false,
+        "parking": "NONE",
+        "has_garage": false,
+        "garage": "NONE",
+        "city": "Göteborg",
+        "street": "Viktor Rydbergsgatan",
+        "street_number": "37B",
+        "municipality": "Göteborg",
+        "county": "Västra Götalands län",
+        "rooms": "2.0",
+        "get_rooms": "2",
+        "floor": 3,
+        "area": "58.00",
+        "rent": 8700,
+        "description": "Trevlig tvårumslägenhet på tredje våning med stora fönsterpartier och balkong. Bostaden har härliga ytor och bra förvaringsmöjligheter. Lägenheten målades om -21 och badrummet renoverades -11 med helkaklade väggar och golv. Boendeparkering gäller på gatorna i området.\n\nViktigt att känna till\nDet råder rökförbud i våra fastigheter, det gäller både i lägenheten, på balkong/uteplats och i allmänna utrymmen samt i övrigt inom fastighetens gränser.\n-\tVissa avvikelser från planskissen och bilder förekommer.\n-\tHyran avser 2022 års hyresnivå.\n\nTack för att du söker en lägenhet hos oss. Vi är måna om att du får all den information du behöver inför ditt val av bostad, men dessvärre har vi ingen möjlighet att besvara frågor innan du blir erbjuden visning. Visningserbjudande skickas vanligtvis ut till ett antal sökande inom två veckor från ansökan.\n",
+        "status": "a",
+        "promotion_file": null,
+        "plan_image": "https://homeq-media-live.s3.amazonaws.com/floor_plans/b59a6b3d77ec42fa946c59132c66110a.pdf",
+        "images": [
+          {
+            "image": "https://homeq-media-live.s3.amazonaws.com/apartment_images/d1c06a19cffa46ae9008056af31502d1.jpeg",
+            "caption": "",
+            "position": 1
+          },
+          {
+            "image": "https://homeq-media-live.s3.amazonaws.com/apartment_images/7de7e4dd4aa84690b072fd03ba415480.jpeg",
+            "caption": "",
+            "position": 1
+          },
+          {
+            "image": "https://homeq-media-live.s3.amazonaws.com/estate_images/d7627e61300c43289780214557e95cb8.jpeg",
+            "caption": "",
+            "position": 2
+          },
+          {
+            "image": "https://homeq-media-live.s3.amazonaws.com/estate_images/39e4b6601ec64835a5d944b05abae134.jpeg",
+            "caption": "",
+            "position": 3
+          },
+          {
+            "image": "https://homeq-media-live.s3.amazonaws.com/estate_images/6bf6b53dceb6411c84bb9c97bf8a2856.jpeg",
+            "caption": "",
+            "position": 4
+          }
+        ],
+        "videos": [],
+        "three_d_views": [],
+        "agreement_access": false,
+        "prior_access": false,
+        "landlord_logo": "https://homeq-media-live.s3.eu-north-1.amazonaws.com/landlord_offices/logos/66cf626f516b455eb0811bf4a39d4dee.jpeg",
+        "landlord_company": "Kjellberg & Möller",
+        "public_profile_slug": null,
+        "date_access": "2023-06-01",
+        "can_apply": true,
+        "longitude": "11.9802077",
+        "latitude": "57.6918371",
+        "date_publish": "2023-03-24",
+        "new_production": false,
+        "estate_id": 1980,
+        "area_description": "Johanneberg inbjuder till ett bekvämt och centralt boende i Göteborgs södra centrum med blandad arkitektur. Nedre Johanneberg är främst byggt under 1920-talet med karaktäristiska stenhus medan den övre delen går i ljus och charmig funkisstil. Stadsdelen är en populär stadsdel även för studenter då Chalmers tekniska högskola och flera av Göteborgs universitets institutioner ligger på nära avstånd. Kommunikationerna i området är mycket goda och Göteborgs city nås lätt med cykel, buss eller spårvagn. En stor del av Göteborgs kultur- och nöjesliv finner man vid Götaplatsen och på Avenyn.",
+        "landlord_object_id": "108-8",
+        "has_applied_on_estate": true,
+        "is_short_lease": false,
+        "security_door": true,
+        "short_lease_min_date": null,
+        "short_lease_max_date": null,
+        "is_senior": false,
+        "senior_age": 65,
+        "is_youth": false,
+        "youth_age": 25,
+        "is_student": false,
+        "allows_smoking": false,
+        "allows_pets": false,
+        "candidate_sorting_mode": "random",
+        "contract_system": "B",
+        "handicap_friendly": false,
+        "last_accept": 1565,
+        "office": {
+          "id": 166
+        },
+        "landlord": {
+          "id": 144
+        }
+      },
+      "$districtName": "Johanneberg"
     },
     "78701": {
       "id": 78701,
@@ -27365,7 +29069,7 @@
         "candidate_sorting_mode": "queue_points",
         "contract_system": "B",
         "handicap_friendly": false,
-        "last_accept": 1016,
+        "last_accept": 1017,
         "office": {
           "id": 674
         },
@@ -27529,7 +29233,7 @@
         "candidate_sorting_mode": "queue_points",
         "contract_system": "B",
         "handicap_friendly": false,
-        "last_accept": 1330,
+        "last_accept": 1331,
         "office": {
           "id": 1345
         },
@@ -28071,7 +29775,7 @@
         "candidate_sorting_mode": "queue_points",
         "contract_system": "B",
         "handicap_friendly": false,
-        "last_accept": 92,
+        "last_accept": 93,
         "office": {
           "id": 673
         },
@@ -28286,7 +29990,7 @@
         "candidate_sorting_mode": "random",
         "contract_system": "B",
         "handicap_friendly": false,
-        "last_accept": 1014,
+        "last_accept": 1015,
         "office": {
           "id": 331
         },
@@ -28672,7 +30376,7 @@
         "candidate_sorting_mode": "queue_points",
         "contract_system": "B",
         "handicap_friendly": false,
-        "last_accept": 1150,
+        "last_accept": 1151,
         "office": {
           "id": 1345
         },
@@ -28681,6 +30385,181 @@
         }
       },
       "$districtName": "Partille"
+    },
+    "78756": {
+      "id": 78756,
+      "uri": "/lagenhet/78756-1rum-göteborg-västra-götalands-län-smörslätten-6",
+      "landlord_object_id": "81002-1182",
+      "type": "individual",
+      "images": [
+        {
+          "image": "https://homeq-media-live.s3.amazonaws.com/apartment_images/56450148e46a4703bcbc33374ca81215.jpeg",
+          "caption": "",
+          "position": 0
+        },
+        {
+          "image": "https://homeq-media-live.s3.amazonaws.com/apartment_images/40a72524a227437ca30a5cc998055b18.jpg",
+          "caption": "",
+          "position": 1
+        }
+      ],
+      "videos": [],
+      "publish_date": "2023-03-24",
+      "shapes": [
+        "county.14",
+        "municipality.1480",
+        "metropolitan_area.8",
+        "area.89",
+        "area.91",
+        "urban_area.4368",
+        "district.107089"
+      ],
+      "audience": "everyone",
+      "short_lease": false,
+      "standalone": true,
+      "references": {
+        "estate": 402,
+        "apartment": 5596,
+        "object_ad": 78756,
+        "company": 3,
+        "office": 70,
+        "project": null
+      },
+      "location": {
+        "lat": 57.72063,
+        "lon": 12.05805
+      },
+      "status": "Active",
+      "rent": 5226,
+      "area": 22,
+      "rooms": 1,
+      "sorting_mode": "queue_points",
+      "floor": 4,
+      "floor_plan": "https://homeq-media-live.s3.amazonaws.com/floor_plans/0e68cbe29db841a1962b90f2d275bf64.pdf",
+      "access_date": "2023-06-01",
+      "amenities": {
+        "balcony": false,
+        "dishwasher": true,
+        "bathtub": false,
+        "washer": false,
+        "drier": false,
+        "garage": false,
+        "patio": false,
+        "elevator": true,
+        "kitchen_fan": true,
+        "parking": false,
+        "pets": true,
+        "handicap_friendly": false,
+        "heat": true,
+        "water": true,
+        "electricity": true,
+        "tv": true,
+        "internet": false
+      },
+      "address": {
+        "street": "Smörslätten",
+        "street_number": "6",
+        "city": "Göteborg",
+        "zip": "41677",
+        "municipality": "Göteborg",
+        "county": "Västra Götalands län"
+      },
+      "display": {
+        "floor_plan": "https://homeq-media-live.s3.amazonaws.com/floor_plans/0e68cbe29db841a1962b90f2d275bf64.pdf",
+        "landlord_object_id": "81002-1182",
+        "promotion_file": ""
+      },
+      "indexed_at": "2023-03-31T06:01:23.234411",
+      "boost_value": 3.25,
+      "$object_ad": {
+        "is_renovated": false,
+        "heat_included": true,
+        "water_included": true,
+        "electricity_included": true,
+        "tv_included": true,
+        "internet_included": false,
+        "has_washing_machine": false,
+        "is_prepared_for_washing_machine": false,
+        "is_prioritizing_company_customers": true,
+        "has_dishwasher": true,
+        "is_prepared_for_dishwasher": false,
+        "has_drier": false,
+        "has_bathtub": false,
+        "has_shower": true,
+        "has_kitchen_fan": true,
+        "has_patio": false,
+        "has_balcony": false,
+        "has_elevator": true,
+        "has_parking": false,
+        "parking": "NONE",
+        "has_garage": false,
+        "garage": "NONE",
+        "city": "Göteborg",
+        "street": "Smörslätten",
+        "street_number": "6",
+        "municipality": "Göteborg",
+        "county": "Västra Götalands län",
+        "rooms": "1.0",
+        "get_rooms": "1",
+        "floor": 4,
+        "area": "22.00",
+        "rent": 5226,
+        "description": "Med ca 10 minuter till centrala Göteborg finns nu den här 1rok för uthyrning. Lägenheten\ntotalrenoverades i (november 2019). De 22,5 kvadratmeterna är välplanerade och säkerhetsdörr är monterad. I hallen ligger klinkergolv som både är snyggt och praktiskt och i resten av hemmet ligger parkettgolv i ek av hög kvalitet. Klinker återkommer tillsammans med kakel i badrummet som även försetts med duschvägg i glas, handdukstork, spegel med LED-belysning samt\ngolvvärme. I köket finns inbyggd ugn, diskmaskin, induktionshäll, fläkt samt kyl och\nfrys. I Björkekärr bor du ett stenkast ifrån naturområden så som Härlanda tjärn och med bra förbindelser till centrala Göteborg.\n\nObservera att bilderna i annonsen är exempelbilder, avvikelse i planlösning kan därav förekomma men standarden är densamma. \n\nLägenheten hyrs ut på 2022 års hyresnivå.\r\n\r\nOMGIVNING\r\nSmörslätten är beläget i Björkekärr i Östra Göteborg. Området består av 6 huskroppar på 6 våningar vardera och ett daghem. Området ligger på gångavstånd till Delsjöns naturreservat med fina vandringsleder, ridvägar, fiskemöjligheter, motionsspår och flera fina badplatser.\r\n\r\nSERVICE\r\nÖstra sjukhuset ligger alldeles över gatan. Där finns både apotek och pressbyrå. En hållplats bort ligger Spåntorget med pizzeria, servicebutik och gym.",
+        "status": "a",
+        "promotion_file": null,
+        "plan_image": "https://homeq-media-live.s3.amazonaws.com/floor_plans/0e68cbe29db841a1962b90f2d275bf64.pdf",
+        "images": [
+          {
+            "image": "https://homeq-media-live.s3.amazonaws.com/apartment_images/56450148e46a4703bcbc33374ca81215.jpeg",
+            "caption": "",
+            "position": 0
+          },
+          {
+            "image": "https://homeq-media-live.s3.amazonaws.com/apartment_images/40a72524a227437ca30a5cc998055b18.jpg",
+            "caption": "",
+            "position": 1
+          }
+        ],
+        "videos": [],
+        "three_d_views": [],
+        "agreement_access": false,
+        "prior_access": false,
+        "landlord_logo": "https://homeq-media-live.s3.eu-north-1.amazonaws.com/landlord_offices/logos/aced987211704553a0ba3b6222ebc5f3.jpeg",
+        "landlord_company": "Fastighets AB Balder",
+        "public_profile_slug": null,
+        "date_access": "2023-06-01",
+        "can_apply": true,
+        "longitude": "12.0580500",
+        "latitude": "57.7206300",
+        "date_publish": "2023-03-24",
+        "new_production": false,
+        "estate_id": 402,
+        "area_description": null,
+        "landlord_object_id": "81002-1182",
+        "has_applied_on_estate": true,
+        "is_short_lease": false,
+        "security_door": true,
+        "short_lease_min_date": null,
+        "short_lease_max_date": null,
+        "is_senior": false,
+        "senior_age": 65,
+        "is_youth": false,
+        "youth_age": 25,
+        "is_student": false,
+        "allows_smoking": true,
+        "allows_pets": true,
+        "candidate_sorting_mode": "queue_points",
+        "contract_system": "D",
+        "handicap_friendly": false,
+        "last_accept": 192,
+        "office": {
+          "id": 70
+        },
+        "landlord": {
+          "id": 3
+        }
+      },
+      "$districtName": "Björkekärr"
     },
     "78760": {
       "id": 78760,
@@ -29069,6 +30948,199 @@
         }
       },
       "$districtName": "Högsbo"
+    },
+    "78904": {
+      "id": 78904,
+      "uri": "/lagenhet/78904-4rum-malmö-skåne-län-lundavägen-42-a",
+      "landlord_object_id": "805-1005",
+      "type": "individual",
+      "images": [
+        {
+          "image": "https://homeq-media-live.s3.amazonaws.com/apartment_images/55e87b9359b643d7b5ad0fbbd5ba94cd.jpeg",
+          "caption": "",
+          "position": 0
+        },
+        {
+          "image": "https://homeq-media-live.s3.amazonaws.com/apartment_images/546026861e8f4e66b056e871efb119ce.jpeg",
+          "caption": "",
+          "position": 1
+        },
+        {
+          "image": "https://homeq-media-live.s3.amazonaws.com/estate_images/8dc3127de6a04176b491eed5d7183ad6.jpeg",
+          "caption": "",
+          "position": 2
+        },
+        {
+          "image": "https://homeq-media-live.s3.amazonaws.com/estate_images/b04cac706be34fd7be1b0d4b438d344b.jpeg",
+          "caption": "",
+          "position": 3
+        }
+      ],
+      "videos": [],
+      "publish_date": "2023-03-27",
+      "shapes": [
+        "district.101123",
+        "metropolitan_area.9",
+        "urban_area.3604",
+        "municipality.1280",
+        "county.12"
+      ],
+      "audience": "everyone",
+      "short_lease": false,
+      "standalone": true,
+      "references": {
+        "estate": 3243,
+        "apartment": 36658,
+        "object_ad": 78904,
+        "company": 59,
+        "office": 839,
+        "project": null
+      },
+      "location": {
+        "lat": 55.6099693,
+        "lon": 13.0327113
+      },
+      "status": "Active",
+      "rent": 11156,
+      "area": 96,
+      "rooms": 4,
+      "sorting_mode": "queue_points",
+      "floor": 1,
+      "floor_plan": "",
+      "access_date": "2023-07-01",
+      "amenities": {
+        "balcony": false,
+        "dishwasher": true,
+        "bathtub": false,
+        "washer": true,
+        "drier": false,
+        "garage": false,
+        "patio": false,
+        "elevator": false,
+        "kitchen_fan": false,
+        "parking": false,
+        "pets": true,
+        "handicap_friendly": false,
+        "heat": true,
+        "water": true,
+        "electricity": false,
+        "tv": true,
+        "internet": false
+      },
+      "address": {
+        "street": "Lundavägen",
+        "street_number": "42 A",
+        "city": "Malmö",
+        "zip": "21219",
+        "municipality": "Malmö",
+        "county": "Skåne län"
+      },
+      "display": {
+        "floor_plan": "",
+        "landlord_object_id": "805-1005",
+        "promotion_file": ""
+      },
+      "indexed_at": "2023-03-27T14:04:47.925205",
+      "boost_value": 0,
+      "$object_ad": {
+        "is_renovated": false,
+        "heat_included": true,
+        "water_included": true,
+        "electricity_included": false,
+        "tv_included": true,
+        "internet_included": false,
+        "has_washing_machine": true,
+        "is_prepared_for_washing_machine": false,
+        "is_prioritizing_company_customers": false,
+        "has_dishwasher": true,
+        "is_prepared_for_dishwasher": false,
+        "has_drier": false,
+        "has_bathtub": false,
+        "has_shower": false,
+        "has_kitchen_fan": false,
+        "has_patio": false,
+        "has_balcony": false,
+        "has_elevator": false,
+        "has_parking": false,
+        "parking": "AVAILABLE",
+        "has_garage": false,
+        "garage": "NONE",
+        "city": "Malmö",
+        "street": "Lundavägen",
+        "street_number": "42 A",
+        "municipality": "Malmö",
+        "county": "Skåne län",
+        "rooms": "4.0",
+        "get_rooms": "4",
+        "floor": 1,
+        "area": "96.00",
+        "rent": 11156,
+        "description": "Lägenheterna i fastigheten Almedal 9 är om 2-4 rum och kök och fastigheten är från mitten av 1910-talet. Hösten 2018 stamrenoverades hela fastigheten och lägenheterna fick nya kök och badrum samt ny el, ventilation och fönster. Utanför huset går både stadsbuss och regionbuss och på promenadavstånd når du all tänkbar service. Tågstationen ligger bara på fem minuters gångavstånd ifrån fastigheten.",
+        "status": "a",
+        "promotion_file": null,
+        "plan_image": null,
+        "images": [
+          {
+            "image": "https://homeq-media-live.s3.amazonaws.com/apartment_images/55e87b9359b643d7b5ad0fbbd5ba94cd.jpeg",
+            "caption": "",
+            "position": 0
+          },
+          {
+            "image": "https://homeq-media-live.s3.amazonaws.com/apartment_images/546026861e8f4e66b056e871efb119ce.jpeg",
+            "caption": "",
+            "position": 1
+          },
+          {
+            "image": "https://homeq-media-live.s3.amazonaws.com/estate_images/8dc3127de6a04176b491eed5d7183ad6.jpeg",
+            "caption": "",
+            "position": 2
+          },
+          {
+            "image": "https://homeq-media-live.s3.amazonaws.com/estate_images/b04cac706be34fd7be1b0d4b438d344b.jpeg",
+            "caption": "",
+            "position": 3
+          }
+        ],
+        "videos": [],
+        "three_d_views": [],
+        "agreement_access": false,
+        "prior_access": false,
+        "landlord_logo": "https://homeq-media-live.s3.eu-north-1.amazonaws.com/landlord_offices/logos/178bf072d2d74fd2891300e3bb9576be.jpg",
+        "landlord_company": "Ikano Bostad",
+        "public_profile_slug": null,
+        "date_access": "2023-07-01",
+        "can_apply": true,
+        "longitude": "13.0327113",
+        "latitude": "55.6099693",
+        "date_publish": "2023-03-27",
+        "new_production": false,
+        "estate_id": 3243,
+        "area_description": null,
+        "landlord_object_id": "805-1005",
+        "has_applied_on_estate": true,
+        "is_short_lease": false,
+        "security_door": true,
+        "short_lease_min_date": null,
+        "short_lease_max_date": null,
+        "is_senior": false,
+        "senior_age": 65,
+        "is_youth": false,
+        "youth_age": 25,
+        "is_student": false,
+        "allows_smoking": true,
+        "allows_pets": true,
+        "candidate_sorting_mode": "queue_points",
+        "contract_system": "B",
+        "handicap_friendly": false,
+        "last_accept": 55,
+        "office": {
+          "id": 839
+        },
+        "landlord": {
+          "id": 59
+        }
+      },
+      "$districtName": "Kirseberg"
     },
     "78906": {
       "id": 78906,
@@ -30075,7 +32147,7 @@
         "candidate_sorting_mode": "queue_points",
         "contract_system": "B",
         "handicap_friendly": false,
-        "last_accept": 343,
+        "last_accept": 428,
         "office": {
           "id": 274
         },
@@ -31450,7 +33522,7 @@
         "promotion_file": ""
       },
       "indexed_at": "2023-03-31T06:01:16.032940",
-      "boost_value": 1.03,
+      "boost_value": 1.16,
       "$object_ad": {
         "is_renovated": false,
         "heat_included": true,
@@ -31551,7 +33623,7 @@
         "candidate_sorting_mode": "queue_points",
         "contract_system": "D",
         "handicap_friendly": false,
-        "last_accept": 495,
+        "last_accept": 496,
         "office": {
           "id": 69
         },
@@ -31665,7 +33737,7 @@
         "promotion_file": ""
       },
       "indexed_at": "2023-03-31T06:01:16.029216",
-      "boost_value": 0.76,
+      "boost_value": 0.97,
       "$object_ad": {
         "is_renovated": false,
         "heat_included": true,
@@ -31880,7 +33952,7 @@
         "promotion_file": ""
       },
       "indexed_at": "2023-03-31T08:30:50.349130",
-      "boost_value": 1.11,
+      "boost_value": 1.32,
       "$object_ad": {
         "is_renovated": false,
         "heat_included": true,
@@ -32095,7 +34167,7 @@
         "promotion_file": ""
       },
       "indexed_at": "2023-03-31T08:30:50.344881",
-      "boost_value": 1.32,
+      "boost_value": 1.53,
       "$object_ad": {
         "is_renovated": false,
         "heat_included": true,
@@ -35179,6 +37251,210 @@
       },
       "$districtName": "Kirseberg"
     },
+    "79082": {
+      "id": 79082,
+      "uri": "/lagenhet/79082-3rum-göteborg-västra-götalands-län-solvarvsgatan-36",
+      "landlord_object_id": "23-109",
+      "type": "individual",
+      "images": [
+        {
+          "image": "https://homeq-media-live.s3.amazonaws.com/apartment_images/3d813f07ad554ca0b03b4fc91bee68f3.jpeg",
+          "caption": "",
+          "position": 0
+        },
+        {
+          "image": "https://homeq-media-live.s3.amazonaws.com/apartment_images/2ae45afd1eee40e89b3d9f7f18433514.jpeg",
+          "caption": "",
+          "position": 1
+        },
+        {
+          "image": "https://homeq-media-live.s3.amazonaws.com/apartment_images/89caab3d68dd4429b8443bee0be0486c.jpeg",
+          "caption": "",
+          "position": 2
+        },
+        {
+          "image": "https://homeq-media-live.s3.amazonaws.com/estate_images/298c6c3c91d5428990fcad88938e6352.jpeg",
+          "caption": "",
+          "position": 4
+        }
+      ],
+      "videos": [],
+      "publish_date": "2023-03-28",
+      "shapes": [
+        "county.14",
+        "district.107093",
+        "area.103",
+        "municipality.1480",
+        "metropolitan_area.8",
+        "urban_area.4368",
+        "area.106"
+      ],
+      "audience": "everyone",
+      "short_lease": false,
+      "standalone": true,
+      "references": {
+        "estate": 739,
+        "apartment": 79819,
+        "object_ad": 79082,
+        "company": 103,
+        "office": 107,
+        "project": null
+      },
+      "location": {
+        "lat": 57.7458804,
+        "lon": 12.0287719
+      },
+      "status": "Active",
+      "rent": 8139,
+      "area": 64,
+      "rooms": 3,
+      "sorting_mode": "queue_points",
+      "floor": 1,
+      "floor_plan": "https://homeq-media-live.s3.amazonaws.com/floor_plans/928738e692d54b20abba55cb064f5742.pdf",
+      "access_date": "2023-05-01",
+      "amenities": {
+        "balcony": true,
+        "dishwasher": false,
+        "bathtub": false,
+        "washer": false,
+        "drier": false,
+        "garage": false,
+        "patio": false,
+        "elevator": false,
+        "kitchen_fan": true,
+        "parking": false,
+        "pets": true,
+        "handicap_friendly": false,
+        "heat": true,
+        "water": true,
+        "electricity": false,
+        "tv": true,
+        "internet": false
+      },
+      "address": {
+        "street": "Solvarvsgatan",
+        "street_number": "36",
+        "city": "Göteborg",
+        "zip": "41531",
+        "municipality": "Göteborg",
+        "county": "Västra Götalands län"
+      },
+      "display": {
+        "floor_plan": "https://homeq-media-live.s3.amazonaws.com/floor_plans/928738e692d54b20abba55cb064f5742.pdf",
+        "landlord_object_id": "23-109",
+        "promotion_file": ""
+      },
+      "indexed_at": "2023-03-28T14:52:36.496256",
+      "boost_value": 0,
+      "$object_ad": {
+        "is_renovated": true,
+        "heat_included": true,
+        "water_included": true,
+        "electricity_included": false,
+        "tv_included": true,
+        "internet_included": false,
+        "has_washing_machine": false,
+        "is_prepared_for_washing_machine": true,
+        "is_prioritizing_company_customers": false,
+        "has_dishwasher": false,
+        "is_prepared_for_dishwasher": true,
+        "has_drier": false,
+        "has_bathtub": false,
+        "has_shower": true,
+        "has_kitchen_fan": true,
+        "has_patio": false,
+        "has_balcony": true,
+        "has_elevator": false,
+        "has_parking": false,
+        "parking": "AVAILABLE",
+        "has_garage": false,
+        "garage": "AVAILABLE",
+        "city": "Göteborg",
+        "street": "Solvarvsgatan",
+        "street_number": "36",
+        "municipality": "Göteborg",
+        "county": "Västra Götalands län",
+        "rooms": "3.0",
+        "get_rooms": "3",
+        "floor": 1,
+        "area": "64.00",
+        "rent": 8139,
+        "description": "Trea med balkong i södra Kortedala. Lägenheten och fastigheten är totalrenoverad under 2017 vilket gör lägenheten i en ny och modern standard. Husen ligger i en lummig dalsänka som gör området extra trivsamt. På gården finns något för alla, så som odlingslotter, grillplatser, basketplan, boule och lekplats. Det gör området levande, trivsamt och till en naturlig plats för grannar att samlas. Här bor du med goda kommunikationer till centrala Göteborg. Du har också nära till Kortedala torg som erbjuder all närservice du kan tänkas behöva. Förråd, värme och vatten ingår. Parkering och garage finns att hyra. Vi tillåter inte kamphundar.\n\nHyran på kontraktet är i 2022 års nivå. Hyresförhandlingar för 2023 pågår.",
+        "status": "a",
+        "promotion_file": null,
+        "plan_image": "https://homeq-media-live.s3.amazonaws.com/floor_plans/928738e692d54b20abba55cb064f5742.pdf",
+        "images": [
+          {
+            "image": "https://homeq-media-live.s3.amazonaws.com/apartment_images/3d813f07ad554ca0b03b4fc91bee68f3.jpeg",
+            "caption": "",
+            "position": 0
+          },
+          {
+            "image": "https://homeq-media-live.s3.amazonaws.com/apartment_images/2ae45afd1eee40e89b3d9f7f18433514.jpeg",
+            "caption": "",
+            "position": 1
+          },
+          {
+            "image": "https://homeq-media-live.s3.amazonaws.com/apartment_images/89caab3d68dd4429b8443bee0be0486c.jpeg",
+            "caption": "",
+            "position": 2
+          },
+          {
+            "image": "https://homeq-media-live.s3.amazonaws.com/estate_images/298c6c3c91d5428990fcad88938e6352.jpeg",
+            "caption": "",
+            "position": 3
+          }
+        ],
+        "videos": [
+          {
+            "url": "https://homeq-media-live.s3.amazonaws.com/apartment_videos/06afd74feb2c4aa5b94dd01df8826ceb.mp4",
+            "position": 0
+          },
+          {
+            "url": "https://homeq-media-live.s3.amazonaws.com/apartment_videos/06afd74feb2c4aa5b94dd01df8826ceb.mp4",
+            "position": 1
+          }
+        ],
+        "three_d_views": [],
+        "agreement_access": false,
+        "prior_access": false,
+        "landlord_logo": "https://homeq-media-live.s3.eu-north-1.amazonaws.com/landlord_offices/logos/2e8040f7e916408e9408bf6dd0a85e89.jpg",
+        "landlord_company": "Amlövs Fastighetsförvaltning",
+        "public_profile_slug": null,
+        "date_access": "2023-05-01",
+        "can_apply": true,
+        "longitude": "12.0287719",
+        "latitude": "57.7458804",
+        "date_publish": "2023-03-28",
+        "new_production": false,
+        "estate_id": 739,
+        "area_description": null,
+        "landlord_object_id": "23-109",
+        "has_applied_on_estate": true,
+        "is_short_lease": false,
+        "security_door": true,
+        "short_lease_min_date": null,
+        "short_lease_max_date": null,
+        "is_senior": false,
+        "senior_age": 65,
+        "is_youth": false,
+        "youth_age": 25,
+        "is_student": false,
+        "allows_smoking": false,
+        "allows_pets": true,
+        "candidate_sorting_mode": "queue_points",
+        "contract_system": "B",
+        "handicap_friendly": false,
+        "last_accept": 969,
+        "office": {
+          "id": 107
+        },
+        "landlord": {
+          "id": 103
+        }
+      },
+      "$districtName": "Kortedala"
+    },
     "79084": {
       "id": 79084,
       "uri": "/lagenhet/79084-1rum-malmö-skåne-län-tors-gränd-12",
@@ -36290,6 +38566,169 @@
       },
       "$districtName": "Lundby"
     },
+    "79114": {
+      "id": 79114,
+      "uri": "/lagenhet/79114-1rum-limhamn-skåne-län-grönalundsgatan-1c",
+      "landlord_object_id": "",
+      "type": "individual",
+      "images": [
+        {
+          "image": "https://homeq-media-live.s3.amazonaws.com/estate_images/eebe9dc0bf894247a01f35a32913bb2a.jpeg",
+          "caption": "",
+          "position": 0
+        }
+      ],
+      "videos": [],
+      "publish_date": "2023-03-28",
+      "shapes": [
+        "metropolitan_area.9",
+        "district.101112",
+        "urban_area.3604",
+        "municipality.1280",
+        "county.12"
+      ],
+      "audience": "everyone",
+      "short_lease": false,
+      "standalone": true,
+      "references": {
+        "estate": 2025,
+        "apartment": 79833,
+        "object_ad": 79114,
+        "company": 278,
+        "office": 371,
+        "project": null
+      },
+      "location": {
+        "lat": 55.5775317,
+        "lon": 12.9363433
+      },
+      "status": "Active",
+      "rent": 6194,
+      "area": 40,
+      "rooms": 1,
+      "sorting_mode": "queue_points",
+      "floor": 40,
+      "floor_plan": "",
+      "access_date": "2023-07-01",
+      "amenities": {
+        "balcony": true,
+        "dishwasher": true,
+        "bathtub": true,
+        "washer": false,
+        "drier": false,
+        "garage": false,
+        "patio": false,
+        "elevator": false,
+        "kitchen_fan": true,
+        "parking": false,
+        "pets": false,
+        "handicap_friendly": false,
+        "heat": true,
+        "water": true,
+        "electricity": false,
+        "tv": true,
+        "internet": false
+      },
+      "address": {
+        "street": "Grönalundsgatan",
+        "street_number": "1C",
+        "city": "Limhamn",
+        "zip": "21616",
+        "municipality": "Malmö",
+        "county": "Skåne län"
+      },
+      "display": {
+        "floor_plan": "",
+        "landlord_object_id": "",
+        "promotion_file": ""
+      },
+      "indexed_at": "2023-03-28T16:14:44.850187",
+      "boost_value": 0,
+      "$object_ad": {
+        "is_renovated": true,
+        "heat_included": true,
+        "water_included": true,
+        "electricity_included": false,
+        "tv_included": true,
+        "internet_included": false,
+        "has_washing_machine": false,
+        "is_prepared_for_washing_machine": false,
+        "is_prioritizing_company_customers": true,
+        "has_dishwasher": true,
+        "is_prepared_for_dishwasher": false,
+        "has_drier": false,
+        "has_bathtub": true,
+        "has_shower": false,
+        "has_kitchen_fan": true,
+        "has_patio": false,
+        "has_balcony": true,
+        "has_elevator": false,
+        "has_parking": false,
+        "parking": "AVAILABLE",
+        "has_garage": false,
+        "garage": "AVAILABLE",
+        "city": "Limhamn",
+        "street": "Grönalundsgatan",
+        "street_number": "1C",
+        "municipality": "Malmö",
+        "county": "Skåne län",
+        "rooms": "1.0",
+        "get_rooms": "1",
+        "floor": 40,
+        "area": "40.00",
+        "rent": 6194,
+        "description": "Trevlig enrumslägenhet som ligger på första våningen, en trappa upp. Balkong mot söder\n2018 fick lägenheten ett litet lyft med nytt kök samt diskmaskin.\n",
+        "status": "a",
+        "promotion_file": null,
+        "plan_image": null,
+        "images": [
+          {
+            "image": "https://homeq-media-live.s3.amazonaws.com/estate_images/eebe9dc0bf894247a01f35a32913bb2a.jpeg",
+            "caption": "",
+            "position": 0
+          }
+        ],
+        "videos": [],
+        "three_d_views": [],
+        "agreement_access": false,
+        "prior_access": false,
+        "landlord_logo": "https://homeq-media-live.s3.eu-north-1.amazonaws.com/landlord_offices/logos/ac9f7543add14225b831327702da5235.jpg",
+        "landlord_company": "Hanssons Fastigheter",
+        "public_profile_slug": null,
+        "date_access": "2023-07-01",
+        "can_apply": true,
+        "longitude": "12.9363433",
+        "latitude": "55.5775317",
+        "date_publish": "2023-03-28",
+        "new_production": false,
+        "estate_id": 2025,
+        "area_description": "Limhamn är en mycket trevlig stadsdel sydväst om Malmö. \nHär bor du nära havet, stranden och småbåtshamnen men ändå bara 20 minuter från Malmö centrum. Limhamn är en liten småstad som har det mesta att erbjuda såsom flera trevliga restauranger , caféer, butiker m.m. \n",
+        "landlord_object_id": "",
+        "has_applied_on_estate": true,
+        "is_short_lease": false,
+        "security_door": true,
+        "short_lease_min_date": null,
+        "short_lease_max_date": null,
+        "is_senior": false,
+        "senior_age": 65,
+        "is_youth": false,
+        "youth_age": 25,
+        "is_student": false,
+        "allows_smoking": false,
+        "allows_pets": false,
+        "candidate_sorting_mode": "queue_points",
+        "contract_system": "B",
+        "handicap_friendly": false,
+        "last_accept": 0,
+        "office": {
+          "id": 371
+        },
+        "landlord": {
+          "id": 278
+        }
+      },
+      "$districtName": "Limhamn"
+    },
     "79117": {
       "id": 79117,
       "uri": "/lagenhet/79117-2rum-göteborg-västra-götalands-län-prästgårdsängen-12",
@@ -37137,7 +39576,7 @@
         "promotion_file": ""
       },
       "indexed_at": "2023-03-28T16:42:31.785068",
-      "boost_value": 8.19,
+      "boost_value": 8.389999999999999,
       "$object_ad": {
         "is_renovated": false,
         "heat_included": true,
@@ -37330,7 +39769,7 @@
         "promotion_file": ""
       },
       "indexed_at": "2023-03-28T16:42:31.782421",
-      "boost_value": 8.19,
+      "boost_value": 8.389999999999999,
       "$object_ad": {
         "is_renovated": false,
         "heat_included": true,
@@ -37401,6 +39840,199 @@
         "estate_id": 6336,
         "area_description": null,
         "landlord_object_id": "5106-017-11772",
+        "has_applied_on_estate": true,
+        "is_short_lease": false,
+        "security_door": true,
+        "short_lease_min_date": null,
+        "short_lease_max_date": null,
+        "is_senior": false,
+        "senior_age": 65,
+        "is_youth": false,
+        "youth_age": 25,
+        "is_student": false,
+        "allows_smoking": false,
+        "allows_pets": true,
+        "candidate_sorting_mode": "random",
+        "contract_system": "B",
+        "handicap_friendly": false,
+        "last_accept": 0,
+        "office": {
+          "id": 1532
+        },
+        "landlord": {
+          "id": 932
+        }
+      },
+      "$districtName": "Västra Skrävlinge"
+    },
+    "79125": {
+      "id": 79125,
+      "uri": "/lagenhet/79125-3rum-malmö-skåne-län-ramels-väg-135",
+      "landlord_object_id": "5108-020-13582",
+      "type": "individual",
+      "images": [
+        {
+          "image": "https://homeq-media-live.s3.amazonaws.com/apartment_images/448a99ac537c4e448f28984c74cbb7a8.jpeg",
+          "caption": "",
+          "position": 0
+        },
+        {
+          "image": "https://homeq-media-live.s3.amazonaws.com/apartment_images/1301c51925dc4aa5abd79c18902f964a.jpeg",
+          "caption": "",
+          "position": 1
+        },
+        {
+          "image": "https://homeq-media-live.s3.amazonaws.com/apartment_images/1bab4138221343a39d76a48a659aa13a.jpeg",
+          "caption": "",
+          "position": 2
+        },
+        {
+          "image": "https://homeq-media-live.s3.amazonaws.com/apartment_images/ca6db3c7cae4460f88d2d7f81773ea02.jpeg",
+          "caption": "",
+          "position": 3
+        }
+      ],
+      "videos": [],
+      "publish_date": "2023-03-28",
+      "shapes": [
+        "district.101120",
+        "metropolitan_area.9",
+        "urban_area.3604",
+        "municipality.1280",
+        "county.12"
+      ],
+      "audience": "everyone",
+      "short_lease": false,
+      "standalone": true,
+      "references": {
+        "estate": 6340,
+        "apartment": 79840,
+        "object_ad": 79125,
+        "company": 932,
+        "office": 1532,
+        "project": null
+      },
+      "location": {
+        "lat": 55.5809044,
+        "lon": 13.0490907
+      },
+      "status": "Active",
+      "rent": 10538,
+      "area": 90,
+      "rooms": 3,
+      "sorting_mode": "random",
+      "floor": 7,
+      "floor_plan": "https://homeq-media-live.s3.amazonaws.com/floor_plans/9f050c4459164d2498430517b74ea599.jpeg",
+      "access_date": "2023-07-01",
+      "amenities": {
+        "balcony": true,
+        "dishwasher": true,
+        "bathtub": false,
+        "washer": true,
+        "drier": true,
+        "garage": false,
+        "patio": false,
+        "elevator": true,
+        "kitchen_fan": true,
+        "parking": false,
+        "pets": true,
+        "handicap_friendly": false,
+        "heat": true,
+        "water": true,
+        "electricity": false,
+        "tv": true,
+        "internet": false
+      },
+      "address": {
+        "street": "Ramels väg",
+        "street_number": "135",
+        "city": "Malmö",
+        "zip": "21369",
+        "municipality": "Malmö",
+        "county": "Skåne län"
+      },
+      "display": {
+        "floor_plan": "https://homeq-media-live.s3.amazonaws.com/floor_plans/9f050c4459164d2498430517b74ea599.jpeg",
+        "landlord_object_id": "5108-020-13582",
+        "promotion_file": ""
+      },
+      "indexed_at": "2023-03-28T16:42:33.795270",
+      "boost_value": 10.2,
+      "$object_ad": {
+        "is_renovated": true,
+        "heat_included": true,
+        "water_included": true,
+        "electricity_included": false,
+        "tv_included": true,
+        "internet_included": false,
+        "has_washing_machine": true,
+        "is_prepared_for_washing_machine": false,
+        "is_prioritizing_company_customers": true,
+        "has_dishwasher": true,
+        "is_prepared_for_dishwasher": false,
+        "has_drier": true,
+        "has_bathtub": false,
+        "has_shower": true,
+        "has_kitchen_fan": true,
+        "has_patio": false,
+        "has_balcony": true,
+        "has_elevator": true,
+        "has_parking": false,
+        "parking": "AVAILABLE",
+        "has_garage": false,
+        "garage": "AVAILABLE",
+        "city": "Malmö",
+        "street": "Ramels väg",
+        "street_number": "135",
+        "municipality": "Malmö",
+        "county": "Skåne län",
+        "rooms": "3.0",
+        "get_rooms": "3",
+        "floor": 7,
+        "area": "90.00",
+        "rent": 10538,
+        "description": "En rymlig 3rok belägen på plan 7 med balkong. Lägenheten ska genomgå en totalrenovering och kommer leva upp till en modern och fräsch standard. Nytt kök med rostfria vitvaror inkl. diskmaskin. Helkaklat badrum med tvättmaskin. Perfekt för en mindre familj.",
+        "status": "a",
+        "promotion_file": null,
+        "plan_image": "https://homeq-media-live.s3.amazonaws.com/floor_plans/9f050c4459164d2498430517b74ea599.jpeg",
+        "images": [
+          {
+            "image": "https://homeq-media-live.s3.amazonaws.com/apartment_images/448a99ac537c4e448f28984c74cbb7a8.jpeg",
+            "caption": "",
+            "position": 0
+          },
+          {
+            "image": "https://homeq-media-live.s3.amazonaws.com/apartment_images/1301c51925dc4aa5abd79c18902f964a.jpeg",
+            "caption": "",
+            "position": 1
+          },
+          {
+            "image": "https://homeq-media-live.s3.amazonaws.com/apartment_images/1bab4138221343a39d76a48a659aa13a.jpeg",
+            "caption": "",
+            "position": 2
+          },
+          {
+            "image": "https://homeq-media-live.s3.amazonaws.com/apartment_images/ca6db3c7cae4460f88d2d7f81773ea02.jpeg",
+            "caption": "",
+            "position": 3
+          }
+        ],
+        "videos": [],
+        "three_d_views": [],
+        "agreement_access": false,
+        "prior_access": false,
+        "landlord_logo": "https://homeq-media-live.s3.amazonaws.com/logo_images/eb1a77df4891465e9ffd36d2471694d0.png",
+        "landlord_company": "Victoriahem Malmö",
+        "public_profile_slug": "victoriahem-malmo",
+        "date_access": "2023-07-01",
+        "can_apply": true,
+        "longitude": "13.0490907",
+        "latitude": "55.5809044",
+        "date_publish": "2023-03-28",
+        "new_production": false,
+        "estate_id": 6340,
+        "area_description": null,
+        "landlord_object_id": "5108-020-13582",
         "has_applied_on_estate": true,
         "is_short_lease": false,
         "security_door": true,
@@ -40533,6 +43165,165 @@
       },
       "$districtName": "Kortedala"
     },
+    "79278": {
+      "id": 79278,
+      "uri": "/lagenhet/79278-2rum-göteborg-västra-götalands-län-nordgårdsgatan-6",
+      "landlord_object_id": "3650-1011",
+      "type": "individual",
+      "images": [],
+      "videos": [],
+      "publish_date": "2023-03-30",
+      "shapes": [
+        "county.14",
+        "area.33",
+        "municipality.1480",
+        "metropolitan_area.8",
+        "district.107068",
+        "area.110",
+        "urban_area.4368"
+      ],
+      "audience": "everyone",
+      "short_lease": false,
+      "standalone": true,
+      "references": {
+        "estate": 3703,
+        "apartment": 79976,
+        "object_ad": 79278,
+        "company": 58,
+        "office": 62,
+        "project": null
+      },
+      "location": {
+        "lat": 57.6831227,
+        "lon": 11.9996338
+      },
+      "status": "Active",
+      "rent": 9995,
+      "area": 55,
+      "rooms": 2,
+      "sorting_mode": "queue_points",
+      "floor": 1,
+      "floor_plan": "https://homeq-media-live.s3.amazonaws.com/floor_plans/3b294bbcde594a9dadfdcc878350c00b.pdf",
+      "access_date": "2023-07-01",
+      "amenities": {
+        "balcony": false,
+        "dishwasher": true,
+        "bathtub": false,
+        "washer": true,
+        "drier": true,
+        "garage": false,
+        "patio": true,
+        "elevator": true,
+        "kitchen_fan": true,
+        "parking": false,
+        "pets": true,
+        "handicap_friendly": false,
+        "heat": true,
+        "water": false,
+        "electricity": false,
+        "tv": true,
+        "internet": false
+      },
+      "address": {
+        "street": "Nordgårdsgatan",
+        "street_number": "6",
+        "city": "Göteborg",
+        "zip": "41285",
+        "municipality": "Göteborg",
+        "county": "Västra Götalands län"
+      },
+      "display": {
+        "floor_plan": "https://homeq-media-live.s3.amazonaws.com/floor_plans/3b294bbcde594a9dadfdcc878350c00b.pdf",
+        "landlord_object_id": "3650-1011",
+        "promotion_file": ""
+      },
+      "indexed_at": "2023-03-31T14:25:26.253689",
+      "boost_value": 0,
+      "$object_ad": {
+        "is_renovated": false,
+        "heat_included": true,
+        "water_included": false,
+        "electricity_included": false,
+        "tv_included": true,
+        "internet_included": false,
+        "has_washing_machine": true,
+        "is_prepared_for_washing_machine": false,
+        "is_prioritizing_company_customers": false,
+        "has_dishwasher": true,
+        "is_prepared_for_dishwasher": false,
+        "has_drier": true,
+        "has_bathtub": false,
+        "has_shower": true,
+        "has_kitchen_fan": true,
+        "has_patio": true,
+        "has_balcony": false,
+        "has_elevator": true,
+        "has_parking": false,
+        "parking": "NONE",
+        "has_garage": false,
+        "garage": "AVAILABLE",
+        "city": "Göteborg",
+        "street": "Nordgårdsgatan",
+        "street_number": "6",
+        "municipality": "Göteborg",
+        "county": "Västra Götalands län",
+        "rooms": "2.0",
+        "get_rooms": "2",
+        "floor": 1,
+        "area": "55.00",
+        "rent": 9995,
+        "description": "Fin och ljus lägenhet med öppen planlösning i fastighet som stod klar för inflyttning 2020/2021 i Elisedal med attraktivt läge med cykelavstånd till det mesta och endast 4 minuter till Korsvägen med spårvagn. \n\nLägenheten har helkaklat badrum med tvättmaskin, torktumlare och handdukstork. Parkett i samtliga rum, klinker i hallen, vid entrédörren. Entré från gården, vid uteplatsen.\n\nKostnader för el och vattenförbrukning tillkommer till hyran. I fastigheten har varje lägenhet individuell mätning för el och vattenförbrukning. Förbrukningen avläses \nmånadsvis och debiteras separat på hyresavin. Du har därmed större möjlighet att påverka dina kostnader.\n\nDu kan  själv klicka dig runt i en visningslägenhet för din typ av lägenhet via vår 3D-visning. \nObservera att avvikelser från denna lägenheten kan förekomma på 3D-visningen, såsom fönsterplacering, våningsplan, balkong/franskbalkong/uteplats, skåpsplacering, placering av uttag, takhöjd, storlek etc. Ibland kan 360-scanningen även vara spegelvänd. Exakt hur den aktuella lägenheten ser ut framgår av bofaktabladet. Men via 360-scanningen får du en känsla av planlösningen i lägenheten.\n\nMera information om området hittar du här: https://www.wallenstam.se/sv/stadsutveckling/Nyproduktion/tidigare-projekt/Elisedal/\nPlats i garage finns att hyra\n\nObservera att hela fastigheten är ett rökfritt boende.\n",
+        "status": "a",
+        "promotion_file": null,
+        "plan_image": "https://homeq-media-live.s3.amazonaws.com/floor_plans/3b294bbcde594a9dadfdcc878350c00b.pdf",
+        "images": [],
+        "videos": [],
+        "three_d_views": [
+          {
+            "url": "https://my.matterport.com/show/?m=yzabDCtUQRs",
+            "position": 0,
+            "title": "2 rok"
+          }
+        ],
+        "agreement_access": false,
+        "prior_access": true,
+        "landlord_logo": "https://homeq-media-live.s3.eu-north-1.amazonaws.com/landlord_offices/logos/a9d652fc297544f49f44eb2119d2ac5b.jpg",
+        "landlord_company": "Wallenstam",
+        "public_profile_slug": null,
+        "date_access": "2023-07-01",
+        "can_apply": true,
+        "longitude": "11.9996338",
+        "latitude": "57.6831227",
+        "date_publish": "2023-03-30",
+        "new_production": false,
+        "estate_id": 3703,
+        "area_description": null,
+        "landlord_object_id": "3650-1011",
+        "has_applied_on_estate": true,
+        "is_short_lease": false,
+        "security_door": true,
+        "short_lease_min_date": null,
+        "short_lease_max_date": null,
+        "is_senior": false,
+        "senior_age": 65,
+        "is_youth": false,
+        "youth_age": 25,
+        "is_student": false,
+        "allows_smoking": false,
+        "allows_pets": true,
+        "candidate_sorting_mode": "queue_points",
+        "contract_system": "B",
+        "handicap_friendly": false,
+        "last_accept": 775,
+        "office": {
+          "id": 62
+        },
+        "landlord": {
+          "id": 58
+        }
+      },
+      "$districtName": "Johanneberg"
+    },
     "79280": {
       "id": 79280,
       "uri": "/lagenhet/79280-1rum-göteborg-västra-götalands-län-solventilsgatan-20",
@@ -40860,6 +43651,181 @@
         }
       },
       "$districtName": "Råda"
+    },
+    "79296": {
+      "id": 79296,
+      "uri": "/lagenhet/79296-1rum-göteborg-västra-götalands-län-smörslätten-6",
+      "landlord_object_id": "81002-1240",
+      "type": "individual",
+      "images": [
+        {
+          "image": "https://homeq-media-live.s3.amazonaws.com/apartment_images/69abcad327e042a09e1cf370b7d2d93e.jpg",
+          "caption": "",
+          "position": 0
+        },
+        {
+          "image": "https://homeq-media-live.s3.amazonaws.com/apartment_images/d59be34a99e041628216f15e6a0c0c83.jpg",
+          "caption": "",
+          "position": 1
+        }
+      ],
+      "videos": [],
+      "publish_date": "2023-03-30",
+      "shapes": [
+        "county.14",
+        "municipality.1480",
+        "metropolitan_area.8",
+        "area.89",
+        "area.91",
+        "urban_area.4368",
+        "district.107089"
+      ],
+      "audience": "everyone",
+      "short_lease": false,
+      "standalone": true,
+      "references": {
+        "estate": 402,
+        "apartment": 3817,
+        "object_ad": 79296,
+        "company": 3,
+        "office": 70,
+        "project": null
+      },
+      "location": {
+        "lat": 57.72063,
+        "lon": 12.05805
+      },
+      "status": "Active",
+      "rent": 5135,
+      "area": 22,
+      "rooms": 1,
+      "sorting_mode": "queue_points",
+      "floor": 6,
+      "floor_plan": "https://homeq-media-live.s3.amazonaws.com/floor_plans/0e68cbe29db841a1962b90f2d275bf64.pdf",
+      "access_date": "2023-06-01",
+      "amenities": {
+        "balcony": false,
+        "dishwasher": true,
+        "bathtub": false,
+        "washer": false,
+        "drier": false,
+        "garage": false,
+        "patio": false,
+        "elevator": true,
+        "kitchen_fan": true,
+        "parking": false,
+        "pets": true,
+        "handicap_friendly": false,
+        "heat": true,
+        "water": true,
+        "electricity": true,
+        "tv": true,
+        "internet": false
+      },
+      "address": {
+        "street": "Smörslätten",
+        "street_number": "6",
+        "city": "Göteborg",
+        "zip": "41677",
+        "municipality": "Göteborg",
+        "county": "Västra Götalands län"
+      },
+      "display": {
+        "floor_plan": "https://homeq-media-live.s3.amazonaws.com/floor_plans/0e68cbe29db841a1962b90f2d275bf64.pdf",
+        "landlord_object_id": "81002-1240",
+        "promotion_file": ""
+      },
+      "indexed_at": "2023-03-31T06:01:23.238431",
+      "boost_value": 4.08,
+      "$object_ad": {
+        "is_renovated": false,
+        "heat_included": true,
+        "water_included": true,
+        "electricity_included": true,
+        "tv_included": true,
+        "internet_included": false,
+        "has_washing_machine": false,
+        "is_prepared_for_washing_machine": false,
+        "is_prioritizing_company_customers": true,
+        "has_dishwasher": true,
+        "is_prepared_for_dishwasher": false,
+        "has_drier": false,
+        "has_bathtub": false,
+        "has_shower": true,
+        "has_kitchen_fan": true,
+        "has_patio": false,
+        "has_balcony": false,
+        "has_elevator": true,
+        "has_parking": false,
+        "parking": "NONE",
+        "has_garage": false,
+        "garage": "NONE",
+        "city": "Göteborg",
+        "street": "Smörslätten",
+        "street_number": "6",
+        "municipality": "Göteborg",
+        "county": "Västra Götalands län",
+        "rooms": "1.0",
+        "get_rooms": "1",
+        "floor": 6,
+        "area": "22.00",
+        "rent": 5135,
+        "description": "Med ca 10 minuter till centrala Göteborg finns nu den här 1an för uthyrning. Lägenheten totalrenoverades i juli 2019. De 22 kvadratmeterna är välplanerade och säkerhetsdörr är monterad. I hallen ligger klinkergolv som både är snyggt och praktiskt och i resten av hemmet ligger parkettgolv i ek av hög kvalitet. Klinker återkommer tillsammans med kakel i badrummet som även försetts med duschvägg i glas, handdukstork, spegel med LED-belysning samt golvvärme. I köket finns inbyggd ugn, diskmaskin, induktionshäll, fläkt samt kyl och frys. I Björkekärr bor du ett stenkast ifrån naturområden så som Härlanda tjärn och med bra förbindelser till centrala Göteborg. Lägenheten hyrs ut på 2022 års hyresnivå.\n\nObservera att bilderna i annonsen är exempelbilder, avvikelse i planlösning kan därav förekomma men standarden är densamma.\r\n\r\nOMGIVNING\r\nSmörslätten är beläget i Björkekärr i Östra Göteborg. Området består av 6 huskroppar på 6 våningar vardera och ett daghem. Området ligger på gångavstånd till Delsjöns naturreservat med fina vandringsleder, ridvägar, fiskemöjligheter, motionsspår och flera fina badplatser.\r\n\r\nSERVICE\r\nÖstra sjukhuset ligger alldeles över gatan. Där finns både apotek och pressbyrå. En hållplats bort ligger Spåntorget med pizzeria, servicebutik och gym.",
+        "status": "a",
+        "promotion_file": null,
+        "plan_image": "https://homeq-media-live.s3.amazonaws.com/floor_plans/0e68cbe29db841a1962b90f2d275bf64.pdf",
+        "images": [
+          {
+            "image": "https://homeq-media-live.s3.amazonaws.com/apartment_images/69abcad327e042a09e1cf370b7d2d93e.jpg",
+            "caption": "",
+            "position": 0
+          },
+          {
+            "image": "https://homeq-media-live.s3.amazonaws.com/apartment_images/d59be34a99e041628216f15e6a0c0c83.jpg",
+            "caption": "",
+            "position": 1
+          }
+        ],
+        "videos": [],
+        "three_d_views": [],
+        "agreement_access": false,
+        "prior_access": false,
+        "landlord_logo": "https://homeq-media-live.s3.eu-north-1.amazonaws.com/landlord_offices/logos/aced987211704553a0ba3b6222ebc5f3.jpeg",
+        "landlord_company": "Fastighets AB Balder",
+        "public_profile_slug": null,
+        "date_access": "2023-06-01",
+        "can_apply": true,
+        "longitude": "12.0580500",
+        "latitude": "57.7206300",
+        "date_publish": "2023-03-30",
+        "new_production": false,
+        "estate_id": 402,
+        "area_description": null,
+        "landlord_object_id": "81002-1240",
+        "has_applied_on_estate": true,
+        "is_short_lease": false,
+        "security_door": true,
+        "short_lease_min_date": null,
+        "short_lease_max_date": null,
+        "is_senior": false,
+        "senior_age": 65,
+        "is_youth": false,
+        "youth_age": 25,
+        "is_student": false,
+        "allows_smoking": true,
+        "allows_pets": true,
+        "candidate_sorting_mode": "queue_points",
+        "contract_system": "D",
+        "handicap_friendly": false,
+        "last_accept": 0,
+        "office": {
+          "id": 70
+        },
+        "landlord": {
+          "id": 3
+        }
+      },
+      "$districtName": "Björkekärr"
     },
     "79304": {
       "id": 79304,
