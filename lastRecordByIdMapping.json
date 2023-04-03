@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-04-03T13:40:08.311Z",
+  "lastUpdatedAt": "2023-04-03T14:39:32.375Z",
   "lastRecordByIdMapping": {
     "70303": {
       "id": 70303,
@@ -1882,7 +1882,7 @@
         "candidate_sorting_mode": "first_come_first",
         "contract_system": "B",
         "handicap_friendly": false,
-        "last_accept": 276,
+        "last_accept": 238,
         "office": {
           "id": 1028
         },
@@ -3864,7 +3864,7 @@
         "candidate_sorting_mode": "queue_points",
         "contract_system": "B",
         "handicap_friendly": false,
-        "last_accept": 705,
+        "last_accept": 950,
         "office": {
           "id": 1002
         },
@@ -9204,7 +9204,7 @@
         "landlord_object_id": "80369-11001",
         "promotion_file": ""
       },
-      "indexed_at": "2023-04-03T14:51:13.266809",
+      "indexed_at": "2023-04-03T15:51:31.220364",
       "boost_value": 0,
       "$object_ad": {
         "is_renovated": true,
@@ -10004,7 +10004,7 @@
         "candidate_sorting_mode": "queue_points",
         "contract_system": "B",
         "handicap_friendly": false,
-        "last_accept": 1546,
+        "last_accept": 1561,
         "office": {
           "id": 838
         },
@@ -13394,7 +13394,7 @@
         "promotion_file": ""
       },
       "indexed_at": "2023-03-31T13:10:35.815166",
-      "boost_value": 2.44,
+      "boost_value": 2.43,
       "$object_ad": {
         "is_renovated": false,
         "heat_included": true,
@@ -16576,7 +16576,7 @@
         "landlord_object_id": "836-1323",
         "promotion_file": ""
       },
-      "indexed_at": "2023-04-03T14:43:03.961292",
+      "indexed_at": "2023-04-03T15:18:44.964538",
       "boost_value": 0,
       "$object_ad": {
         "is_renovated": false,
@@ -20117,7 +20117,7 @@
         "candidate_sorting_mode": "queue_points",
         "contract_system": "B",
         "handicap_friendly": false,
-        "last_accept": 1135,
+        "last_accept": 1166,
         "office": {
           "id": 107
         },
@@ -21125,7 +21125,7 @@
         "landlord_object_id": "3650-8072",
         "promotion_file": ""
       },
-      "indexed_at": "2023-03-31T13:31:25.525695",
+      "indexed_at": "2023-04-03T16:20:27.352508",
       "boost_value": 0,
       "$object_ad": {
         "is_renovated": false,
@@ -21410,7 +21410,7 @@
         "candidate_sorting_mode": "queue_points",
         "contract_system": "B",
         "handicap_friendly": false,
-        "last_accept": 952,
+        "last_accept": 951,
         "office": {
           "id": 62
         },
@@ -25530,7 +25530,7 @@
         "candidate_sorting_mode": "queue_points",
         "contract_system": "B",
         "handicap_friendly": false,
-        "last_accept": 835,
+        "last_accept": 838,
         "office": {
           "id": 62
         },
@@ -25851,7 +25851,7 @@
         "prior_access": false,
         "landlord_logo": "https://homeq-media-live.s3.eu-north-1.amazonaws.com/landlord_offices/logos/103fee6778e249e8928a6605a00d0f92.jpeg",
         "landlord_company": "Stena Fastigheter",
-        "public_profile_slug": "stena-fastigheter",
+        "public_profile_slug": null,
         "date_access": "2023-06-01",
         "can_apply": true,
         "longitude": "11.9317005",
@@ -27008,7 +27008,7 @@
         "candidate_sorting_mode": "queue_points",
         "contract_system": "B",
         "handicap_friendly": false,
-        "last_accept": 1428,
+        "last_accept": 1456,
         "office": {
           "id": 329
         },
@@ -31871,7 +31871,7 @@
         "landlord_object_id": "3711-1072",
         "promotion_file": ""
       },
-      "indexed_at": "2023-03-30T11:28:07.538900",
+      "indexed_at": "2023-04-03T16:03:43.739536",
       "boost_value": 0,
       "$object_ad": {
         "is_renovated": false,
@@ -32252,7 +32252,7 @@
         "landlord_object_id": "3711-1063",
         "promotion_file": ""
       },
-      "indexed_at": "2023-03-30T11:28:07.534876",
+      "indexed_at": "2023-04-03T16:03:43.735985",
       "boost_value": 0,
       "$object_ad": {
         "is_renovated": false,
@@ -32886,7 +32886,7 @@
         "candidate_sorting_mode": "queue_points",
         "contract_system": "B",
         "handicap_friendly": true,
-        "last_accept": 1222,
+        "last_accept": 1215,
         "office": {
           "id": 62
         },
@@ -33051,7 +33051,7 @@
         "candidate_sorting_mode": "queue_points",
         "contract_system": "B",
         "handicap_friendly": false,
-        "last_accept": 1506,
+        "last_accept": 1504,
         "office": {
           "id": 62
         },
@@ -35888,7 +35888,7 @@
         "prior_access": true,
         "landlord_logo": "https://homeq-media-live.s3.eu-north-1.amazonaws.com/landlord_offices/logos/04ecf2c90d0b419bb8999418250a3a84.jpeg",
         "landlord_company": "Stena Fastigheter",
-        "public_profile_slug": "stena-fastigheter",
+        "public_profile_slug": null,
         "date_access": "2023-07-01",
         "can_apply": true,
         "longitude": "11.9725378",
@@ -36304,7 +36304,7 @@
         "prior_access": true,
         "landlord_logo": "https://homeq-media-live.s3.eu-north-1.amazonaws.com/landlord_offices/logos/cd084db9a8d74b2e855ef24089184be4.jpg",
         "landlord_company": "Contentus AB",
-        "public_profile_slug": "contentus-ab",
+        "public_profile_slug": null,
         "date_access": "2023-06-01",
         "can_apply": true,
         "longitude": "13.0505168",
@@ -38050,7 +38050,7 @@
         "prior_access": false,
         "landlord_logo": "https://homeq-media-live.s3.eu-north-1.amazonaws.com/landlord_offices/logos/04ecf2c90d0b419bb8999418250a3a84.jpeg",
         "landlord_company": "Stena Fastigheter",
-        "public_profile_slug": "stena-fastigheter",
+        "public_profile_slug": null,
         "date_access": "2023-07-01",
         "can_apply": true,
         "longitude": "11.9150800",
@@ -40143,7 +40143,7 @@
         "landlord_object_id": "52001-00049",
         "promotion_file": ""
       },
-      "indexed_at": "2023-03-29T14:06:13.826605",
+      "indexed_at": "2023-04-03T16:20:55.175235",
       "boost_value": 0,
       "$object_ad": {
         "is_renovated": true,
@@ -40473,7 +40473,7 @@
         "landlord_object_id": "52001-00017",
         "promotion_file": ""
       },
-      "indexed_at": "2023-03-29T14:06:13.822429",
+      "indexed_at": "2023-04-03T16:20:55.167889",
       "boost_value": 0,
       "$object_ad": {
         "is_renovated": false,
@@ -41331,7 +41331,7 @@
         "prior_access": false,
         "landlord_logo": "https://homeq-media-live.s3.eu-north-1.amazonaws.com/landlord_offices/logos/04ecf2c90d0b419bb8999418250a3a84.jpeg",
         "landlord_company": "Stena Fastigheter",
-        "public_profile_slug": "stena-fastigheter",
+        "public_profile_slug": null,
         "date_access": "2023-07-01",
         "can_apply": true,
         "longitude": "11.9730011",
@@ -41356,7 +41356,7 @@
         "candidate_sorting_mode": "queue_points",
         "contract_system": "B",
         "handicap_friendly": false,
-        "last_accept": 930,
+        "last_accept": 935,
         "office": {
           "id": 281
         },
@@ -42307,7 +42307,7 @@
         "candidate_sorting_mode": "queue_points",
         "contract_system": "B",
         "handicap_friendly": false,
-        "last_accept": 277,
+        "last_accept": 306,
         "office": {
           "id": 1157
         },
@@ -42637,7 +42637,7 @@
         "candidate_sorting_mode": "random",
         "contract_system": "B",
         "handicap_friendly": false,
-        "last_accept": 1479,
+        "last_accept": 1515,
         "office": {
           "id": 177
         },
@@ -42725,7 +42725,7 @@
         "landlord_object_id": "6119-03033",
         "promotion_file": ""
       },
-      "indexed_at": "2023-03-31T15:51:39.391784",
+      "indexed_at": "2023-04-03T15:53:14.583812",
       "boost_value": 0,
       "$object_ad": {
         "is_renovated": true,
@@ -42855,7 +42855,7 @@
       "area": 61,
       "rooms": 2,
       "sorting_mode": "random",
-      "floor": 3,
+      "floor": 2,
       "floor_plan": "https://homeq-media-live.s3.amazonaws.com/floor_plans/c4ba77b480524ab0b9abe140429bc380.pdf",
       "access_date": "2023-06-01",
       "amenities": {
@@ -42890,7 +42890,7 @@
         "landlord_object_id": "6119-02023",
         "promotion_file": ""
       },
-      "indexed_at": "2023-03-31T15:51:39.387668",
+      "indexed_at": "2023-04-03T15:53:14.579379",
       "boost_value": 0,
       "$object_ad": {
         "is_renovated": true,
@@ -42922,7 +42922,7 @@
         "county": "Västra Götalands län",
         "rooms": "2.0",
         "get_rooms": "2",
-        "floor": 3,
+        "floor": 2,
         "area": "61.00",
         "rent": 9432,
         "description": "Lägenheten\nHelrenoverad 2017.  Nytt kök och badrum samt nya ytskikt (väggar och golv) genomgående i hela lägenheten. Inglasad balkong.\nHyresbelopp avser 2022 års hyresnivå.\nObs att mindre avvikelser kan förekomma på bifogad planskiss som är ifrån innan renoveringen.\n\nOmrådet\nLunden är en stad i staden, belägen i de östra delarna av centrala Göteborg. Det är nära till Olskrokstorget med torghandel och till Redbergsvägen med butiker och service. Inom området finns förskolor och skolor. Kommunikationerna är goda och det är lätt att ta sig med buss eller spårvagn till andra delar av staden. Ett stenkast från Lunden ligger Delsjöterrängens grönområde.",
@@ -44202,7 +44202,7 @@
         "candidate_sorting_mode": "queue_points",
         "contract_system": "B",
         "handicap_friendly": false,
-        "last_accept": 1524,
+        "last_accept": 418,
         "office": {
           "id": 618
         },
@@ -46143,7 +46143,7 @@
         "promotion_file": ""
       },
       "indexed_at": "2023-03-31T14:39:38.715315",
-      "boost_value": 0.25,
+      "boost_value": 0.23,
       "$object_ad": {
         "is_renovated": false,
         "heat_included": true,
@@ -46408,7 +46408,7 @@
         "prior_access": false,
         "landlord_logo": "https://homeq-media-live.s3.eu-north-1.amazonaws.com/landlord_offices/logos/103fee6778e249e8928a6605a00d0f92.jpeg",
         "landlord_company": "Stena Fastigheter",
-        "public_profile_slug": "stena-fastigheter",
+        "public_profile_slug": null,
         "date_access": "2023-07-01",
         "can_apply": true,
         "longitude": "11.9611990",
@@ -46781,7 +46781,7 @@
         "candidate_sorting_mode": "queue_points",
         "contract_system": "B",
         "handicap_friendly": false,
-        "last_accept": 1425,
+        "last_accept": 1460,
         "office": {
           "id": 1270
         },
@@ -49361,7 +49361,7 @@
         "candidate_sorting_mode": "queue_points",
         "contract_system": "B",
         "handicap_friendly": false,
-        "last_accept": 1002,
+        "last_accept": 1020,
         "office": {
           "id": 62
         },
@@ -50777,7 +50777,7 @@
         "candidate_sorting_mode": "queue_points",
         "contract_system": "B",
         "handicap_friendly": false,
-        "last_accept": 1514,
+        "last_accept": 1533,
         "office": {
           "id": 108
         },
@@ -51488,7 +51488,7 @@
         "candidate_sorting_mode": "queue_points",
         "contract_system": "B",
         "handicap_friendly": false,
-        "last_accept": 628,
+        "last_accept": 641,
         "office": {
           "id": 328
         },
@@ -52486,7 +52486,7 @@
         "candidate_sorting_mode": "queue_points",
         "contract_system": "B",
         "handicap_friendly": false,
-        "last_accept": 1109,
+        "last_accept": 1203,
         "office": {
           "id": 1305
         },
@@ -52691,7 +52691,7 @@
         "candidate_sorting_mode": "queue_points",
         "contract_system": "B",
         "handicap_friendly": false,
-        "last_accept": 1053,
+        "last_accept": 1094,
         "office": {
           "id": 1305
         },
@@ -54286,7 +54286,7 @@
         "landlord_object_id": "1040-00022",
         "promotion_file": ""
       },
-      "indexed_at": "2023-04-03T15:26:21.683439",
+      "indexed_at": "2023-04-03T15:42:05.690792",
       "boost_value": 0,
       "$object_ad": {
         "is_renovated": true,
@@ -54321,7 +54321,7 @@
         "floor": 6,
         "area": "35.00",
         "rent": 8673,
-        "description": "En trea med balkong på våning 6 av 6 med fin utsikt. Garderober i hallen. Kök med kyl/frys, spis, fläktkåpa och diskmaskin. Badrum med kaklade väggar, duschkabin, badrumsskåp med eluttag och tvättmaskin. Parkett i hall och vardagsrum och plastmatta i sovrummen. Tak och väggar i hela lägenheten målades 2021. \n\nAngiven hyra är för 2022 och 2023 års hyra är under förhandling. \n\nObservera att det kan vara avvikelser i både planritning, beskrivning och bilder, och att bilderna enbart visar exempel på hur det kan se ut. \n\nJohanneberg har en alldeles speciell karaktär med sina sluttningar, vackra och ljusa funkishus och äldre villakvarter. Idag kan det vara svårt att tänka sig att lägenheterna här knappt gick att få uthyrda när de byggdes, men så var det när våra fastigheter i Johanneberg kom till. Tiderna har ändrats och idag anses Johanneberg vara ett av de bästa och mest eftertraktade lägena i Göteborg. Här bor du centralt men i en lugn och harmonisk stadsdel med närhet till grönområden som Johannebergsparken och Näckrosdammen, och är bara en kort promenad från Avenyn.\n\nJohanneberg är en levande och härlig stadsdel för människor i alla åldrar och livssituationer. Med närhet till både Chalmers och flera av Göteborgs Universitets institutioner är det ett idealiskt område för studenten. Knutpunkten Korsvägen ligger på gångavstånd, där det finns goda möjligheter att ta sig till stadens alla hörn.",
+        "description": "En trea på våning 6 av 6.  Kök med kyl/frys, spis, fläktkåpa och diskmaskin. Badrum med kaklade väggar, duschkabin, badrumsskåp med eluttag och tvättmaskin. Parkett i hall och vardagsrum och plastmatta i sovrummen. Balkong. Garderober i hallen. Tak och väggar i hela lägenheten målades 2021. \n\nAngiven hyra är för 2022 och 2023 års hyra är under förhandling. \n\nObservera att det kan vara avvikelser i både planritning. \n\nJohanneberg har en alldeles speciell karaktär med sina sluttningar, vackra och ljusa funkishus och äldre villakvarter. Idag kan det vara svårt att tänka sig att lägenheterna här knappt gick att få uthyrda när de byggdes, men så var det när våra fastigheter i Johanneberg kom till. Tiderna har ändrats och idag anses Johanneberg vara ett av de bästa och mest eftertraktade lägena i Göteborg. Här bor du centralt men i en lugn och harmonisk stadsdel med närhet till grönområden som Johannebergsparken och Näckrosdammen, och är bara en kort promenad från Avenyn.\n\nJohanneberg är en levande och härlig stadsdel för människor i alla åldrar och livssituationer. Med närhet till både Chalmers och flera av Göteborgs Universitets institutioner är det ett idealiskt område för studenten. Knutpunkten Korsvägen ligger på gångavstånd, där det finns goda möjligheter att ta sig till stadens alla hörn.",
         "status": "a",
         "promotion_file": null,
         "plan_image": "https://homeq-media-live.s3.amazonaws.com/floor_plans/bbd8b3ee7bd644e887841c61b762c5ba.png",
