@@ -172,7 +172,11 @@
       ).then((res) => res.json());
 
       fetch("./searchResults.json")
-        .then((res) => res.json())
+        .then((res) => {
+          const json = res.json();
+          window.$searchResults = json;
+          return json;
+        })
         .then(
           async ({ lastUpdatedAt, searchResults: unsortedSearchResults }) => {
             const postalCodeCityNameMapping =
