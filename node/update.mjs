@@ -60,7 +60,7 @@ const filterForFetchingQueuePointsInfo = (x) => {
           } (object id: ${r.id})`
         );
 
-        const maxTries = 2;
+        const maxTries = 5;
         for (let tries = 1; tries <= maxTries; tries++) {
           await new Promise((resolve) => setTimeout(resolve, 2400));
           const url = `https://www.homeq.se/api/v1/object/${r.id}`;
