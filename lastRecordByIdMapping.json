@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-04-04T01:58:50.910Z",
+  "lastUpdatedAt": "2023-04-04T02:52:50.627Z",
   "lastRecordByIdMapping": {
     "70303": {
       "id": 70303,
@@ -591,7 +591,7 @@
         "candidate_sorting_mode": "random",
         "contract_system": "B",
         "handicap_friendly": false,
-        "last_accept": 61,
+        "last_accept": 62,
         "office": {
           "id": 1013
         },
@@ -5786,7 +5786,7 @@
         "candidate_sorting_mode": "queue_points",
         "contract_system": "B",
         "handicap_friendly": false,
-        "last_accept": 1384,
+        "last_accept": 1385,
         "office": {
           "id": 274
         },
@@ -7949,7 +7949,7 @@
         "candidate_sorting_mode": "queue_points",
         "contract_system": "B",
         "handicap_friendly": false,
-        "last_accept": 910,
+        "last_accept": 911,
         "office": {
           "id": 1013
         },
@@ -19847,7 +19847,7 @@
         "promotion_file": ""
       },
       "indexed_at": "2023-03-31T14:39:38.723349",
-      "boost_value": 1.98,
+      "boost_value": 2.16,
       "$object_ad": {
         "is_renovated": false,
         "heat_included": true,
@@ -53623,7 +53623,7 @@
         "candidate_sorting_mode": "queue_points",
         "contract_system": "B",
         "handicap_friendly": false,
-        "last_accept": 294,
+        "last_accept": 344,
         "office": {
           "id": 281
         },
