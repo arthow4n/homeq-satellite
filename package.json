@@ -3,7 +3,8 @@
   "private": true,
   "version": "1.0.0",
   "scripts": {
-    "start": "node node/update.mjs"
+    "start": "node node/update.mjs",
+    "restoreLastRecordMapping": "node node/restoreLastRecordMapping.mjs"
   },
   "license": "MIT",
   "dependencies": {
