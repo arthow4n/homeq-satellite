@@ -105,6 +105,23 @@
         }
       };
 
+      // Modified from https://gist.github.com/IceCreamYou/6ffa1b18c4c8f6aeaad2
+      const percentile = (arr, p) => {
+        if (arr.length === 0) return;
+        if (p <= 0) return arr[0];
+        if (p >= 1) return arr[arr.length - 1];
+
+        const index = (arr.length - 1) * p;
+        const lower = Math.floor(index);
+        const upper = lower + 1;
+        const weight = index % 1;
+
+        if (upper >= arr.length) return arr[lower];
+        return arr[lower] * (1 - weight) + arr[upper] * weight;
+      };
+
+      const p80Floor = (arr) => Math.floor(percentile(arr, 0.8));
+
       // Modified from https://stackoverflow.com/a/1502821
       const getDistance = function (p1lat, p1lng, p2lat, p2lng) {
         const rad = function (x) {
@@ -334,22 +351,31 @@
                   ] ?? {}
                 )
                   .flat()
-                  .map((x) => x.last_accept);
+                  .map((x) => x.last_accept)
+                  .sort((a, b) => a - b);
                 const sameStreetDays = (
                   queueDaysInfoByAddress[county]?.[municipality]?.[city]?.[
                     $districtName
                   ]?.[street] ?? []
-                ).map((x) => x.last_accept);
+                )
+                  .map((x) => x.last_accept)
+                  .sort((a, b) => a - b);
 
                 return {
                   sameDistrictDaysMin: sameDistrictDays.length
                     ? Math.min(...sameDistrictDays)
+                    : null,
+                  sameDistrictDaysP80: sameDistrictDays.length
+                    ? p80Floor(sameDistrictDays)
                     : null,
                   sameDistrictDaysMax: sameDistrictDays.length
                     ? Math.max(...sameDistrictDays)
                     : null,
                   sameStreetDaysMin: sameStreetDays.length
                     ? Math.min(...sameStreetDays)
+                    : null,
+                  sameStreetDaysP80: sameStreetDays.length
+                    ? p80Floor(sameStreetDays)
                     : null,
                   sameStreetDaysMax: sameStreetDays.length
                     ? Math.max(...sameStreetDays)
@@ -460,9 +486,9 @@
                         Array.isArray(r.rent) ? ` (x${r.rent.length})` : "",
                         typeof queueDaysRecordMappingForCustomFiltered[r.id]
                           .sameStreetDaysMax === "number"
-                          ? ` (Q: ${
+                          ? ` (p80: ${
                               queueDaysRecordMappingForCustomFiltered[r.id]
-                                .sameStreetDaysMin
+                                .sameStreetDaysP80
                             }-${
                               queueDaysRecordMappingForCustomFiltered[r.id]
                                 .sameStreetDaysMax
@@ -565,9 +591,9 @@
                           : "",
                         typeof queueDaysRecordMappingForCustomFiltered[r.id]
                           .sameDistrictDaysMax === "number"
-                          ? ` (Q: ${
+                          ? ` (p80: ${
                               queueDaysRecordMappingForCustomFiltered[r.id]
-                                .sameDistrictDaysMin
+                                .sameDistrictDaysP80
                             }-${
                               queueDaysRecordMappingForCustomFiltered[r.id]
                                 .sameDistrictDaysMax
