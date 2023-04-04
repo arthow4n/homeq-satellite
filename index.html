@@ -120,7 +120,10 @@
         return arr[lower] * (1 - weight) + arr[upper] * weight;
       };
 
-      const p80Floor = (arr) => Math.floor(percentile(arr, 0.8));
+      const pFloor = (percentileRank, arr) => {
+        const p = percentile(arr, percentileRank / 100);
+        return typeof p === "number" ? Math.floor(p) : null;
+      };
 
       // Modified from https://stackoverflow.com/a/1502821
       const getDistance = function (p1lat, p1lng, p2lat, p2lng) {
@@ -327,7 +330,7 @@
               const getRent = (r) =>
                 Array.isArray(r.rent) ? Math.min(...r.rent) : r.rent;
 
-              const getHistoricalQueueDayRecords = (r) => {
+              const getHistoricalQueueDayRecordSource = (r) => {
                 // Refer to "normalisedValuesForGrouping"
                 const { county, municipality, city, $districtName, street } = {
                   street: (r.address.street || "").toLocaleLowerCase("sv"),
@@ -345,42 +348,49 @@
                   ),
                 };
 
-                const sameDistrictDays = Object.values(
-                  queueDaysInfoByAddress[county]?.[municipality]?.[city]?.[
-                    $districtName
-                  ] ?? {}
-                )
-                  .flat()
+                return {
+                  district: Object.values(
+                    queueDaysInfoByAddress[county]?.[municipality]?.[city]?.[
+                      $districtName
+                    ] ?? {}
+                  ).flat(),
+                  street:
+                    queueDaysInfoByAddress[county]?.[municipality]?.[city]?.[
+                      $districtName
+                    ]?.[street] ?? [],
+                };
+              };
+
+              const getHistoricalQueueDayRecords = (r) => {
+                const { district, street } =
+                  getHistoricalQueueDayRecordSource(r);
+                const sameDistrictDays = district
                   .map((x) => x.last_accept)
                   .sort((a, b) => a - b);
-                const sameStreetDays = (
-                  queueDaysInfoByAddress[county]?.[municipality]?.[city]?.[
-                    $districtName
-                  ]?.[street] ?? []
-                )
+                const sameStreetDays = street
                   .map((x) => x.last_accept)
                   .sort((a, b) => a - b);
 
                 return {
-                  sameDistrictDaysMin: sameDistrictDays.length
-                    ? Math.min(...sameDistrictDays)
-                    : null,
-                  sameDistrictDaysP80: sameDistrictDays.length
-                    ? p80Floor(sameDistrictDays)
-                    : null,
-                  sameDistrictDaysMax: sameDistrictDays.length
-                    ? Math.max(...sameDistrictDays)
-                    : null,
-                  sameStreetDaysMin: sameStreetDays.length
-                    ? Math.min(...sameStreetDays)
-                    : null,
-                  sameStreetDaysP80: sameStreetDays.length
-                    ? p80Floor(sameStreetDays)
-                    : null,
-                  sameStreetDaysMax: sameStreetDays.length
-                    ? Math.max(...sameStreetDays)
-                    : null,
+                  sameDistrictDaysLow: pFloor(80, sameDistrictDays),
+                  sameDistrictDaysHigh: pFloor(100, sameDistrictDays),
+                  sameStreetDaysLow: pFloor(80, sameStreetDays),
+                  sameStreetDaysHigh: pFloor(100, sameStreetDays),
                   // In the future try to find similar apartment
+                };
+              };
+
+              const getPredictedQueueDays = (r) => {
+                const { district } = getHistoricalQueueDayRecordSource(r);
+
+                const similarObjectDays = district
+                  .filter((x) => r.area <= x.area + 5 && r.area >= x.area - 5)
+                  .map((x) => x.last_accept)
+                  .sort((a, b) => a - b);
+
+                return {
+                  similarObjectDaysLow: pFloor(50, similarObjectDays),
+                  similarObjectDaysHigh: pFloor(80, similarObjectDays),
                 };
               };
 
@@ -485,13 +495,13 @@
                         ")",
                         Array.isArray(r.rent) ? ` (x${r.rent.length})` : "",
                         typeof queueDaysRecordMappingForCustomFiltered[r.id]
-                          .sameStreetDaysMax === "number"
-                          ? ` (p80: ${
+                          .sameStreetDaysHigh === "number"
+                          ? ` (p80+: ${
                               queueDaysRecordMappingForCustomFiltered[r.id]
-                                .sameStreetDaysP80
+                                .sameStreetDaysLow
                             }-${
                               queueDaysRecordMappingForCustomFiltered[r.id]
-                                .sameStreetDaysMax
+                                .sameStreetDaysHigh
                             } d)`
                           : "",
                       ]);
@@ -499,7 +509,7 @@
                   },
                   {
                     name: "Distance",
-                    width: "180px",
+                    width: "150px",
                     formatter: (r) => {
                       const renderNavi = (baseCoord) => {
                         const distance = getDistance(
@@ -586,17 +596,17 @@
                       return gridjs.h("span", {}, [
                         renderDistrictName(r),
                         typeof queueDaysRecordMappingForCustomFiltered[r.id]
-                          .sameDistrictDaysMax === "number"
+                          .sameDistrictDaysHigh === "number"
                           ? gridjs.h("br", {}, [])
                           : "",
                         typeof queueDaysRecordMappingForCustomFiltered[r.id]
-                          .sameDistrictDaysMax === "number"
-                          ? ` (p80: ${
+                          .sameDistrictDaysHigh === "number"
+                          ? ` (p80+: ${
                               queueDaysRecordMappingForCustomFiltered[r.id]
-                                .sameDistrictDaysP80
+                                .sameDistrictDaysLow
                             }-${
                               queueDaysRecordMappingForCustomFiltered[r.id]
-                                .sameDistrictDaysMax
+                                .sameDistrictDaysHigh
                             } d)`
                           : "",
                       ]);
@@ -642,6 +652,19 @@
                         : `${cell === Infinity ? "?" : cell} d`,
                   },
                   {
+                    name: "P50-80",
+                    width: "150px",
+                    formatter: (r) => {
+                      const prediction = getPredictedQueueDays(r);
+                      const renderedNumber =
+                        typeof prediction.similarObjectDaysHigh === "number"
+                          ? `${prediction.similarObjectDaysLow}-${prediction.similarObjectDaysHigh}`
+                          : "?";
+
+                      return `${renderedNumber} d`;
+                    },
+                  },
+                  {
                     name: "Access",
                     width: "140px",
                   },
@@ -660,6 +683,7 @@
                     getArea(r),
                     r,
                     getQueueDaysFromResult(r),
+                    r,
                     Array.isArray(r.access_date)
                       ? r.access_date.sort()[0]
                       : r.access_date,
