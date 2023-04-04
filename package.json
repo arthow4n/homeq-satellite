@@ -4,6 +4,8 @@
   "version": "1.0.0",
   "scripts": {
     "start": "node node/update.mjs",
+    "updateLastRecordByIdMapping": "node node/updateLastRecordByIdMapping.mjs",
+    "updateQueueDaysInfoByAddress": "node node/updateQueueDaysInfoByAddress.mjs",
     "restoreLastRecordMapping": "node node/restoreLastRecordMapping.mjs"
   },
   "license": "MIT",

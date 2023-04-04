@@ -1,21 +1,5 @@
-import { writeFile, readFile } from "node:fs/promises";
-import isPointInPolygon from "@turf/boolean-point-in-polygon";
-
-const districtGeoJson = JSON.parse(
-  await readFile(new URL("./distrikt.geojson", import.meta.url))
-);
-
-const getDistrictName = ({ lat, lon }) => {
-  return districtGeoJson.features.find((f) =>
-    isPointInPolygon(
-      {
-        type: "Point",
-        coordinates: [lon, lat],
-      },
-      f.geometry
-    )
-  )?.properties.distriktsnamn;
-};
+import { writeFile } from "node:fs/promises";
+import { getDistrictName } from "./utils.mjs";
 
 const filterForFetchingQueuePointsInfo = (x) => {
   const areasToFetch = [
@@ -126,45 +110,27 @@ const filterForFetchingQueuePointsInfo = (x) => {
       return results;
     });
 
-  searchResults.forEach((r) => {
-    const n = getDistrictName(r.location);
-    if (n) {
-      r.$districtName = n;
-    }
-  });
-
   const lastUpdatedAt = new Date().toISOString();
-  await writeFile(
-    "./searchResults.json",
-    JSON.stringify(
-      {
-        lastUpdatedAt,
-        searchResults,
-      },
-      null,
-      2
-    )
-  );
 
-  const { lastRecordByIdMapping } = JSON.parse(
-    await readFile("./lastRecordByIdMapping.json", "utf8")
-  );
   searchResults.forEach((r) => {
-    // Store only the ones with queue days information as that's the only thing that really changes.
-    const lastAccept = r.$object_ad?.last_accept;
-    if (typeof lastAccept === "number") {
-      lastRecordByIdMapping[r.id] = r;
+    r["$last_seen"] = lastUpdatedAt;
+    const districtName = getDistrictName(r.location);
+    if (districtName) {
+      r.$districtName = districtName;
     }
   });
-  await writeFile(
-    "./lastRecordByIdMapping.json",
-    JSON.stringify(
-      {
-        lastUpdatedAt,
-        lastRecordByIdMapping,
-      },
-      null,
-      2
-    )
-  );
+
+  {
+    await writeFile(
+      "./searchResults.json",
+      JSON.stringify(
+        {
+          lastUpdatedAt,
+          searchResults,
+        },
+        null,
+        2
+      )
+    );
+  }
 }

@@ -13,8 +13,14 @@ jobs:
           node-version: 18
       - name: npm install
         run: npm install
-      - name: Generate the update
+
+      - name: Generate the searchResults
         run: npm start
+      - name: Run updateLastRecordByIdMapping
+        run: npm run updateLastRecordByIdMapping
+      - name: Run updateQueueDaysInfoByAddress
+        run: npm run updateQueueDaysInfoByAddress
+
       - name: Commit and push the update
         run: |
           git config user.name github-actions
