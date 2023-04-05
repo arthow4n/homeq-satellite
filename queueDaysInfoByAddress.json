@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-04-05T09:40:59.565Z",
+  "lastUpdatedAt": "2023-04-05T10:45:42.102Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -32297,6 +32297,20 @@
                 "$districtName": "tuve",
                 "last_accept": 343,
                 "$last_seen": "2023-03-23T07:35:33.989Z"
+              },
+              {
+                "id": 74156,
+                "rent": 8607,
+                "area": 50,
+                "street": "herman anderssons väg",
+                "street_number": "2",
+                "city": "göteborg",
+                "zip": "41747",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tuve",
+                "last_accept": 534,
+                "$last_seen": "2023-04-05T09:40:59.565Z"
               },
               {
                 "id": 74191,
