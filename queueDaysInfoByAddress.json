@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-04-05T11:38:47.227Z",
+  "lastUpdatedAt": "2023-04-05T13:08:44.500Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -2417,6 +2417,20 @@
                 "$districtName": "kållered",
                 "last_accept": 1148,
                 "$last_seen": "2023-03-29T09:40:29.143Z"
+              },
+              {
+                "id": 78679,
+                "rent": 7498,
+                "area": 76,
+                "street": "våmmedalsvägen",
+                "street_number": "90",
+                "city": "kållered",
+                "zip": "42831",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "kållered",
+                "last_accept": 1458,
+                "$last_seen": "2023-04-05T11:38:47.227Z"
               }
             ]
           }
@@ -7197,20 +7211,6 @@
                 "$districtName": "högsbo",
                 "last_accept": 1517,
                 "$last_seen": "2023-03-21T08:41:35.361Z"
-              },
-              {
-                "id": 77632,
-                "rent": 9107,
-                "area": 60,
-                "street": "högsbogatan",
-                "street_number": "25",
-                "city": "göteborg",
-                "zip": "41475",
-                "municipality": "göteborg",
-                "county": "västra götalands län",
-                "$districtName": "högsbo",
-                "last_accept": 1386,
-                "$last_seen": "2023-04-03T13:40:08.311Z"
               }
             ],
             "lilla tunnlandsgatan": [
@@ -7839,6 +7839,20 @@
                 "$districtName": "brämaregården",
                 "last_accept": 1121,
                 "$last_seen": "2023-04-05T05:39:47.661Z"
+              },
+              {
+                "id": 78589,
+                "rent": 9531,
+                "area": 54,
+                "street": "gustaf dalénsgatan",
+                "street_number": "7 b",
+                "city": "göteborg",
+                "zip": "41723",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brämaregården",
+                "last_accept": 837,
+                "$last_seen": "2023-04-05T11:38:47.227Z"
               }
             ],
             "lantmätaregatan": [
@@ -14215,6 +14229,20 @@
                 "$last_seen": "2023-03-21T15:35:53.277Z"
               },
               {
+                "id": 78745,
+                "rent": 4957,
+                "area": 45,
+                "street": "danska vägen",
+                "street_number": "74b",
+                "city": "göteborg",
+                "zip": "41659",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1453,
+                "$last_seen": "2023-03-31T13:41:42.935Z"
+              },
+              {
                 "id": 79606,
                 "rent": 12676,
                 "area": 84,
@@ -19643,6 +19671,20 @@
                 "$districtName": "bergsjön",
                 "last_accept": 262,
                 "$last_seen": "2023-03-30T07:37:55.039Z"
+              },
+              {
+                "id": 78988,
+                "rent": 10151,
+                "area": 90,
+                "street": "kosmosgatan",
+                "street_number": "5",
+                "city": "göteborg",
+                "zip": "41562",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bergsjön",
+                "last_accept": 344,
+                "$last_seen": "2023-04-05T11:38:47.227Z"
               }
             ],
             "atmosfärgatan": [
@@ -20079,6 +20121,20 @@
                 "$districtName": "bergsjön",
                 "last_accept": 624,
                 "$last_seen": "2023-04-05T07:38:40.601Z"
+              },
+              {
+                "id": 78987,
+                "rent": 7948,
+                "area": 65,
+                "street": "atmosfärgatan",
+                "street_number": "37",
+                "city": "göteborg",
+                "zip": "41561",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bergsjön",
+                "last_accept": 540,
+                "$last_seen": "2023-04-05T11:38:47.227Z"
               },
               {
                 "id": 79016,
@@ -20877,6 +20933,20 @@
                 "$districtName": "nylöse",
                 "last_accept": 0,
                 "$last_seen": "2023-03-10T10:45:49.769Z"
+              },
+              {
+                "id": 74152,
+                "rent": 6139,
+                "area": 42,
+                "street": "sysslomansgatan",
+                "street_number": "40",
+                "city": "göteborg",
+                "zip": "41574",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "nylöse",
+                "last_accept": 699,
+                "$last_seen": "2023-04-05T11:38:47.227Z"
               }
             ],
             "hinderbanan": [
@@ -34607,6 +34677,22 @@
                 "$districtName": "vantör",
                 "last_accept": 1503,
                 "$last_seen": "2023-04-03T10:42:05.569Z"
+              }
+            ],
+            "harpsundsvägen": [
+              {
+                "id": 79138,
+                "rent": 7560,
+                "area": 58,
+                "street": "harpsundsvägen",
+                "street_number": "60",
+                "city": "bandhagen",
+                "zip": "12458",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 1678,
+                "$last_seen": "2023-04-05T11:38:47.227Z"
               }
             ]
           }
