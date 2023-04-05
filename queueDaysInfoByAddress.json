@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-04-05T14:43:41.198Z",
+  "lastUpdatedAt": "2023-04-05T15:44:21.444Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -4897,6 +4897,22 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1647,
                 "$last_seen": "2023-03-16T09:39:11.322Z"
+              }
+            ],
+            "viktor rydbergsgatan": [
+              {
+                "id": 78696,
+                "rent": 8700,
+                "area": 58,
+                "street": "viktor rydbergsgatan",
+                "street_number": "37b",
+                "city": "göteborg",
+                "zip": "41257",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1588,
+                "$last_seen": "2023-04-05T14:43:41.198Z"
               }
             ]
           },
@@ -32889,6 +32905,20 @@
                 "$districtName": "göteborgs karl johan",
                 "last_accept": 1528,
                 "$last_seen": "2023-03-16T08:45:29.976Z"
+              },
+              {
+                "id": 78714,
+                "rent": 5000,
+                "area": 37,
+                "street": "seglaregatan",
+                "street_number": "25 b",
+                "city": "göteborg",
+                "zip": "41457",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs karl johan",
+                "last_accept": 1547,
+                "$last_seen": "2023-04-05T14:43:41.198Z"
               }
             ],
             "kabelgatan": [
