@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-04-05T08:46:18.869Z",
+  "lastUpdatedAt": "2023-04-05T09:40:59.565Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -14971,6 +14971,34 @@
                 "$districtName": "björkekärr",
                 "last_accept": 1166,
                 "$last_seen": "2023-03-28T11:35:10.821Z"
+              },
+              {
+                "id": 77853,
+                "rent": 10797,
+                "area": 87,
+                "street": "smörslätten",
+                "street_number": "10",
+                "city": "göteborg",
+                "zip": "41677",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "björkekärr",
+                "last_accept": 1547,
+                "$last_seen": "2023-04-05T08:46:18.869Z"
+              },
+              {
+                "id": 78066,
+                "rent": 5226,
+                "area": 22,
+                "street": "smörslätten",
+                "street_number": "6",
+                "city": "göteborg",
+                "zip": "41677",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "björkekärr",
+                "last_accept": 597,
+                "$last_seen": "2023-04-05T08:46:18.869Z"
               }
             ],
             "lådspikaregatan": [
@@ -16619,6 +16647,20 @@
                 "$districtName": "kortedala",
                 "last_accept": 1168,
                 "$last_seen": "2022-12-20T07:34:51.683Z"
+              },
+              {
+                "id": 76941,
+                "rent": 4406,
+                "area": 39,
+                "street": "kalendervägen",
+                "street_number": "117d",
+                "city": "göteborg",
+                "zip": "41513",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "kortedala",
+                "last_accept": 948,
+                "$last_seen": "2023-04-05T08:46:18.869Z"
               }
             ],
             "nymånegatan": [
