@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-04-06T11:39:25.906Z",
+  "lastUpdatedAt": "2023-04-06T12:59:31.876Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -13277,6 +13277,20 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1542,
                 "$last_seen": "2023-03-30T11:37:21.109Z"
+              },
+              {
+                "id": 79227,
+                "rent": 9432,
+                "area": 61,
+                "street": "st pauligatan",
+                "street_number": "20",
+                "city": "göteborg",
+                "zip": "41660",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1548,
+                "$last_seen": "2023-04-06T11:39:25.906Z"
               }
             ],
             "platågatan": [
@@ -14313,6 +14327,20 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1453,
                 "$last_seen": "2023-03-31T13:41:42.935Z"
+              },
+              {
+                "id": 79222,
+                "rent": 6483,
+                "area": 41,
+                "street": "danska vägen",
+                "street_number": "84a",
+                "city": "göteborg",
+                "zip": "41659",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1518,
+                "$last_seen": "2023-04-06T11:39:25.906Z"
               },
               {
                 "id": 79606,
@@ -25411,6 +25439,20 @@
                 "$districtName": "örgryte",
                 "last_accept": 579,
                 "$last_seen": "2023-03-30T11:37:21.109Z"
+              },
+              {
+                "id": 79165,
+                "rent": 7410,
+                "area": 35,
+                "street": "filmjölksgatan",
+                "street_number": "6",
+                "city": "göteborg",
+                "zip": "41278",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 855,
+                "$last_seen": "2023-04-06T11:39:25.906Z"
               }
             ],
             "jättegrytsgatan": [
@@ -25543,6 +25585,20 @@
                 "$districtName": "örgryte",
                 "last_accept": 501,
                 "$last_seen": "2023-03-30T08:44:22.705Z"
+              },
+              {
+                "id": 79321,
+                "rent": 7875,
+                "area": 35,
+                "street": "skummjölksgatan",
+                "street_number": "8",
+                "city": "göteborg",
+                "zip": "41278",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 620,
+                "$last_seen": "2023-04-06T11:39:25.906Z"
               },
               {
                 "id": 79644,
@@ -25685,6 +25741,20 @@
                 "$districtName": "örgryte",
                 "last_accept": 1065,
                 "$last_seen": "2023-04-06T06:44:39.122Z"
+              },
+              {
+                "id": 79646,
+                "rent": 13230,
+                "area": 74,
+                "street": "separatorsgatan",
+                "street_number": "14",
+                "city": "göteborg",
+                "zip": "41278",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 365,
+                "$last_seen": "2023-04-06T11:39:25.906Z"
               }
             ],
             "påskbergsgatan": [
@@ -28131,6 +28201,20 @@
                 "$districtName": "göteborgs vasa",
                 "last_accept": 1504,
                 "$last_seen": "2023-03-20T10:43:03.818Z"
+              },
+              {
+                "id": 77278,
+                "rent": 9763,
+                "area": 58,
+                "street": "engelbrektsgatan",
+                "street_number": "34 ab",
+                "city": "göteborg",
+                "zip": "41137",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs vasa",
+                "last_accept": 1549,
+                "$last_seen": "2023-04-06T11:39:25.906Z"
               },
               {
                 "id": 77279,
@@ -34839,6 +34923,20 @@
                 "$districtName": "limhamn",
                 "last_accept": 12,
                 "$last_seen": "2023-03-29T06:45:13.052Z"
+              },
+              {
+                "id": 78545,
+                "rent": 9496,
+                "area": 55,
+                "street": "blåsebergavägen",
+                "street_number": "12",
+                "city": "limhamn",
+                "zip": "21633",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "limhamn",
+                "last_accept": 0,
+                "$last_seen": "2023-04-06T11:39:25.906Z"
               }
             ],
             "birger jarlsgatan": [
