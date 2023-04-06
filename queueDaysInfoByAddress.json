@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-04-06T08:44:38.417Z",
+  "lastUpdatedAt": "2023-04-06T09:39:28.568Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -2397,6 +2397,20 @@
                 "$districtName": "örgryte",
                 "last_accept": 858,
                 "$last_seen": "2023-03-30T07:37:55.039Z"
+              },
+              {
+                "id": 79118,
+                "rent": 7948,
+                "area": 35,
+                "street": "smörkärnegatan",
+                "street_number": "25",
+                "city": "göteborg",
+                "zip": "41278",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 793,
+                "$last_seen": "2023-04-06T08:44:38.417Z"
               }
             ]
           }
@@ -17481,6 +17495,20 @@
                 "$districtName": "askim",
                 "last_accept": 779,
                 "$last_seen": "2023-03-24T06:41:12.107Z"
+              },
+              {
+                "id": 78664,
+                "rent": 11737,
+                "area": 81,
+                "street": "pilegården",
+                "street_number": "9d",
+                "city": "göteborg",
+                "zip": "43635",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 876,
+                "$last_seen": "2023-04-06T08:44:38.417Z"
               }
             ],
             "nergårdsvägen": [
@@ -29881,6 +29909,20 @@
                 "$districtName": "masthugget",
                 "last_accept": 1587,
                 "$last_seen": "2023-03-29T06:45:13.052Z"
+              },
+              {
+                "id": 77880,
+                "rent": 11571,
+                "area": 84,
+                "street": "bangatan",
+                "street_number": "21",
+                "city": "göteborg",
+                "zip": "41463",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "masthugget",
+                "last_accept": 1534,
+                "$last_seen": "2023-04-06T08:44:38.417Z"
               },
               {
                 "id": 77890,
