@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-04-06T10:42:43.415Z",
+  "lastUpdatedAt": "2023-04-06T11:39:25.906Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -17751,6 +17751,20 @@
                 "$districtName": "askim",
                 "last_accept": 1245,
                 "$last_seen": "2023-02-20T06:46:50.521Z"
+              },
+              {
+                "id": 77452,
+                "rent": 8522,
+                "area": 66,
+                "street": "hyltegården",
+                "street_number": "27",
+                "city": "göteborg",
+                "zip": "43634",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 1046,
+                "$last_seen": "2023-04-06T10:42:43.415Z"
               }
             ],
             "kobbeslätten": [
@@ -20433,6 +20447,20 @@
                 "$districtName": "bergsjön",
                 "last_accept": 938,
                 "$last_seen": "2022-12-09T11:36:28.412Z"
+              },
+              {
+                "id": 78203,
+                "rent": 10067,
+                "area": 90,
+                "street": "zenitgatan",
+                "street_number": "4",
+                "city": "göteborg",
+                "zip": "41562",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bergsjön",
+                "last_accept": 425,
+                "$last_seen": "2023-04-06T10:42:43.415Z"
               }
             ],
             "galileisgata": [
@@ -28159,6 +28187,20 @@
                 "$districtName": "göteborgs vasa",
                 "last_accept": 1529,
                 "$last_seen": "2023-03-21T09:36:22.879Z"
+              },
+              {
+                "id": 77283,
+                "rent": 9570,
+                "area": 56,
+                "street": "engelbrektsgatan",
+                "street_number": "34 c",
+                "city": "göteborg",
+                "zip": "41137",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs vasa",
+                "last_accept": 1546,
+                "$last_seen": "2023-04-06T10:42:43.415Z"
               },
               {
                 "id": 77284,
