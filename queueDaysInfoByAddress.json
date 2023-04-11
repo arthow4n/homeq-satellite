@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-04-11T09:40:34.186Z",
+  "lastUpdatedAt": "2023-04-11T10:44:57.163Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -32387,20 +32387,6 @@
                 "$last_seen": "2023-03-29T09:40:29.143Z"
               },
               {
-                "id": 77815,
-                "rent": 6278,
-                "area": 41,
-                "street": "långströmsgatan",
-                "street_number": "52b",
-                "city": "göteborg",
-                "zip": "41870",
-                "municipality": "göteborg",
-                "county": "västra götalands län",
-                "$districtName": "biskopsgården",
-                "last_accept": 842,
-                "$last_seen": "2023-04-06T07:39:24.230Z"
-              },
-              {
                 "id": 77924,
                 "rent": 10470,
                 "area": 83,
@@ -35055,6 +35041,22 @@
                 "$districtName": "limhamn",
                 "last_accept": 1,
                 "$last_seen": "2023-04-05T06:44:38.480Z"
+              }
+            ],
+            "grönalundsgatan": [
+              {
+                "id": 79114,
+                "rent": 6194,
+                "area": 40,
+                "street": "grönalundsgatan",
+                "street_number": "1c",
+                "city": "limhamn",
+                "zip": "21616",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "limhamn",
+                "last_accept": 117,
+                "$last_seen": "2023-04-11T09:40:34.186Z"
               }
             ]
           }
