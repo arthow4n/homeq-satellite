@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-04-11T13:43:09.812Z",
+  "lastUpdatedAt": "2023-04-11T14:42:33.050Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -30501,6 +30501,20 @@
                 "$districtName": "masthugget",
                 "last_accept": 1256,
                 "$last_seen": "2023-03-26T13:37:15.080Z"
+              },
+              {
+                "id": 78938,
+                "rent": 10415,
+                "area": 55,
+                "street": "kolumbusgatan",
+                "street_number": "5",
+                "city": "göteborg",
+                "zip": "41465",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "masthugget",
+                "last_accept": 1322,
+                "$last_seen": "2023-04-11T13:43:09.812Z"
               }
             ],
             "stenklevsgatan": [
@@ -34957,6 +34971,22 @@
                 "$districtName": "kirseberg",
                 "last_accept": 69,
                 "$last_seen": "2023-04-04T11:38:27.975Z"
+              }
+            ],
+            "segeparksgatan": [
+              {
+                "id": 79396,
+                "rent": 9038,
+                "area": 55,
+                "street": "segeparksgatan",
+                "street_number": "18",
+                "city": "malmö",
+                "zip": "21250",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "kirseberg",
+                "last_accept": 0,
+                "$last_seen": "2023-04-11T13:43:09.812Z"
               }
             ]
           },
