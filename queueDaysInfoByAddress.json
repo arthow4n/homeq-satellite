@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-04-11T08:45:40.895Z",
+  "lastUpdatedAt": "2023-04-11T09:40:34.186Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -23399,6 +23399,20 @@
                 "$districtName": "göteborgs domkyrkodistrikt",
                 "last_accept": 1378,
                 "$last_seen": "2023-03-26T13:37:15.080Z"
+              },
+              {
+                "id": 79394,
+                "rent": 11044,
+                "area": 75,
+                "street": "odinsgatan",
+                "street_number": "21",
+                "city": "göteborg",
+                "zip": "41103",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs domkyrkodistrikt",
+                "last_accept": 582,
+                "$last_seen": "2023-04-11T08:45:40.895Z"
               }
             ],
             "haga kyrkogata": [
@@ -24645,6 +24659,20 @@
                 "$districtName": "örgryte",
                 "last_accept": 702,
                 "$last_seen": "2023-03-22T11:35:23.565Z"
+              },
+              {
+                "id": 78910,
+                "rent": 7845,
+                "area": 35,
+                "street": "smörkärnegatan",
+                "street_number": "21",
+                "city": "göteborg",
+                "zip": "41278",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 869,
+                "$last_seen": "2023-04-11T08:45:40.895Z"
               },
               {
                 "id": 78923,
