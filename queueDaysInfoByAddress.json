@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-04-11T13:00:52.005Z",
+  "lastUpdatedAt": "2023-04-11T13:43:09.812Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -1647,6 +1647,20 @@
                 "$districtName": "fässberg",
                 "last_accept": 1242,
                 "$last_seen": "2023-03-06T11:37:08.495Z"
+              },
+              {
+                "id": 74979,
+                "rent": 6796,
+                "area": 30,
+                "street": "åby allé",
+                "street_number": "73",
+                "city": "göteborg",
+                "zip": "43145",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 1206,
+                "$last_seen": "2023-04-11T13:00:52.005Z"
               },
               {
                 "id": 75019,
@@ -24717,6 +24731,20 @@
                 "$last_seen": "2023-04-06T05:40:30.431Z"
               },
               {
+                "id": 78943,
+                "rent": 12613,
+                "area": 70,
+                "street": "smörkärnegatan",
+                "street_number": "13",
+                "city": "göteborg",
+                "zip": "41278",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 937,
+                "$last_seen": "2023-04-11T13:00:52.005Z"
+              },
+              {
                 "id": 79067,
                 "rent": 7535,
                 "area": 35,
@@ -25683,6 +25711,34 @@
                 "$districtName": "örgryte",
                 "last_accept": 620,
                 "$last_seen": "2023-04-06T11:39:25.906Z"
+              },
+              {
+                "id": 79326,
+                "rent": 8085,
+                "area": 35,
+                "street": "skummjölksgatan",
+                "street_number": "8",
+                "city": "göteborg",
+                "zip": "41278",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 625,
+                "$last_seen": "2023-04-11T13:00:52.005Z"
+              },
+              {
+                "id": 79643,
+                "rent": 7875,
+                "area": 35,
+                "street": "skummjölksgatan",
+                "street_number": "8",
+                "city": "göteborg",
+                "zip": "41278",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 811,
+                "$last_seen": "2023-04-11T13:00:52.005Z"
               },
               {
                 "id": 79644,
@@ -31095,6 +31151,20 @@
                 "$districtName": "masthugget",
                 "last_accept": 1532,
                 "$last_seen": "2023-01-23T14:40:01.229Z"
+              },
+              {
+                "id": 78936,
+                "rent": 11987,
+                "area": 91,
+                "street": "dahlströmsgatan",
+                "street_number": "48",
+                "city": "göteborg",
+                "zip": "41465",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "masthugget",
+                "last_accept": 1593,
+                "$last_seen": "2023-04-11T13:00:52.005Z"
               }
             ],
             "ekedalsgatan": [
