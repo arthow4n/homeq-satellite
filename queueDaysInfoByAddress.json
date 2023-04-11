@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-04-11T06:45:24.198Z",
+  "lastUpdatedAt": "2023-04-11T07:40:10.655Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -13291,6 +13291,20 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1542,
                 "$last_seen": "2023-03-30T11:37:21.109Z"
+              },
+              {
+                "id": 79220,
+                "rent": 5270,
+                "area": 35,
+                "street": "st pauligatan",
+                "street_number": "11",
+                "city": "göteborg",
+                "zip": "41660",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1295,
+                "$last_seen": "2023-04-11T06:45:24.198Z"
               },
               {
                 "id": 79227,
