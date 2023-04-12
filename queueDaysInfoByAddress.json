@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-04-12T09:40:12.306Z",
+  "lastUpdatedAt": "2023-04-12T10:44:22.720Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -5775,6 +5775,20 @@
                 "$districtName": "högsbo",
                 "last_accept": 0,
                 "$last_seen": "2023-03-13T07:37:51.057Z"
+              },
+              {
+                "id": 77567,
+                "rent": 10941,
+                "area": 64.6,
+                "street": "nymilsgatan",
+                "street_number": "45",
+                "city": "göteborg",
+                "zip": "42170",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 457,
+                "$last_seen": "2023-04-12T09:40:12.306Z"
               },
               {
                 "id": 78209,
