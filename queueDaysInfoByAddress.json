@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-04-12T11:40:25.023Z",
+  "lastUpdatedAt": "2023-04-12T13:01:21.450Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -11001,6 +11001,20 @@
                 "$districtName": "lundby",
                 "last_accept": 1424,
                 "$last_seen": "2023-03-02T09:39:32.074Z"
+              },
+              {
+                "id": 78660,
+                "rent": 6432,
+                "area": 54,
+                "street": "arvid lindmansgatan",
+                "street_number": "3 b",
+                "city": "göteborg",
+                "zip": "41726",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1507,
+                "$last_seen": "2023-04-12T11:40:25.023Z"
               }
             ],
             "estlandsgatan": [
@@ -14741,6 +14755,20 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1406,
                 "$last_seen": "2022-11-14T10:50:21.479Z"
+              },
+              {
+                "id": 79639,
+                "rent": 10114,
+                "area": 71,
+                "street": "norra gubberogatan",
+                "street_number": "8",
+                "city": "göteborg",
+                "zip": "41663",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1424,
+                "$last_seen": "2023-04-12T11:40:25.023Z"
               }
             ],
             "räntmästaregatan": [
@@ -25295,6 +25323,20 @@
                 "$districtName": "örgryte",
                 "last_accept": 1102,
                 "$last_seen": "2023-03-29T11:38:19.348Z"
+              },
+              {
+                "id": 79130,
+                "rent": 8677,
+                "area": 45,
+                "street": "gräddgatan",
+                "street_number": "5",
+                "city": "göteborg",
+                "zip": "41276",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1265,
+                "$last_seen": "2023-04-12T11:40:25.023Z"
               }
             ],
             "anders zornsgatan": [
@@ -32695,6 +32737,20 @@
                 "$districtName": "biskopsgården",
                 "last_accept": 1069,
                 "$last_seen": "2023-03-29T09:40:29.143Z"
+              },
+              {
+                "id": 77815,
+                "rent": 6278,
+                "area": 41,
+                "street": "långströmsgatan",
+                "street_number": "52b",
+                "city": "göteborg",
+                "zip": "41870",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "biskopsgården",
+                "last_accept": 847,
+                "$last_seen": "2023-04-12T11:40:25.023Z"
               },
               {
                 "id": 77924,
