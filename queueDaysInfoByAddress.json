@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-04-12T10:44:22.720Z",
+  "lastUpdatedAt": "2023-04-12T11:40:25.023Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -4509,6 +4509,20 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1407,
                 "$last_seen": "2023-02-17T13:01:24.800Z"
+              },
+              {
+                "id": 79317,
+                "rent": 4471,
+                "area": 37,
+                "street": "södra viktoriagatan",
+                "street_number": "50",
+                "city": "göteborg",
+                "zip": "41130",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1601,
+                "$last_seen": "2023-04-12T10:44:22.720Z"
               }
             ],
             "framnäsgatan": [
@@ -35094,6 +35108,40 @@
               }
             ]
           },
+          "malmö sankt petri": {
+            "banérsgatan": [
+              {
+                "id": 73516,
+                "rent": 7903,
+                "area": 68,
+                "street": "banérsgatan",
+                "street_number": "12",
+                "city": "malmö",
+                "zip": "21148",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "malmö sankt petri",
+                "last_accept": 1500,
+                "$last_seen": "2023-04-12T10:44:22.720Z"
+              }
+            ],
+            "gustav adolfs torg": [
+              {
+                "id": 78551,
+                "rent": 13484,
+                "area": 98,
+                "street": "gustav adolfs torg",
+                "street_number": "45",
+                "city": "malmö",
+                "zip": "21139",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "malmö sankt petri",
+                "last_accept": 477,
+                "$last_seen": "2023-03-30T06:44:48.551Z"
+              }
+            ]
+          },
           "kirseberg": {
             "vattenverksvägen": [
               {
@@ -35235,24 +35283,6 @@
                 "$districtName": "västra skrävlinge",
                 "last_accept": 0,
                 "$last_seen": "2023-04-03T07:37:40.033Z"
-              }
-            ]
-          },
-          "malmö sankt petri": {
-            "gustav adolfs torg": [
-              {
-                "id": 78551,
-                "rent": 13484,
-                "area": 98,
-                "street": "gustav adolfs torg",
-                "street_number": "45",
-                "city": "malmö",
-                "zip": "21139",
-                "municipality": "malmö",
-                "county": "skåne län",
-                "$districtName": "malmö sankt petri",
-                "last_accept": 477,
-                "$last_seen": "2023-03-30T06:44:48.551Z"
               }
             ]
           },
