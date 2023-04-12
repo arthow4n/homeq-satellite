@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-04-12T07:40:20.350Z",
+  "lastUpdatedAt": "2023-04-12T08:44:55.057Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -9203,6 +9203,20 @@
                 "$districtName": "lundby",
                 "last_accept": 1620,
                 "$last_seen": "2023-04-04T04:43:10.324Z"
+              },
+              {
+                "id": 78720,
+                "rent": 5122,
+                "area": 30,
+                "street": "bautastensgatan",
+                "street_number": "11 b",
+                "city": "göteborg",
+                "zip": "41876",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1291,
+                "$last_seen": "2023-04-12T07:40:20.350Z"
               }
             ],
             "hjalmar brantingsgatan": [
@@ -15143,6 +15157,20 @@
                 "$last_seen": "2023-02-03T13:41:37.488Z"
               },
               {
+                "id": 77407,
+                "rent": 8396,
+                "area": 61,
+                "street": "smörslätten",
+                "street_number": "2",
+                "city": "göteborg",
+                "zip": "41677",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "björkekärr",
+                "last_accept": 1490,
+                "$last_seen": "2023-04-12T07:40:20.350Z"
+              },
+              {
                 "id": 77432,
                 "rent": 4839,
                 "area": 22,
@@ -16233,6 +16261,20 @@
                 "$districtName": "kortedala",
                 "last_accept": 1142,
                 "$last_seen": "2023-03-26T13:37:15.080Z"
+              },
+              {
+                "id": 79230,
+                "rent": 5177,
+                "area": 51.5,
+                "street": "januarigatan",
+                "street_number": "11",
+                "city": "göteborg",
+                "zip": "41546",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "kortedala",
+                "last_accept": 1290,
+                "$last_seen": "2023-04-12T07:40:20.350Z"
               }
             ],
             "solvarvsgatan": [
@@ -24249,6 +24291,20 @@
                 "$districtName": "örgryte",
                 "last_accept": 1511,
                 "$last_seen": "2023-04-04T13:41:16.333Z"
+              },
+              {
+                "id": 79117,
+                "rent": 7913,
+                "area": 50,
+                "street": "prästgårdsängen",
+                "street_number": "12",
+                "city": "göteborg",
+                "zip": "41271",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1488,
+                "$last_seen": "2023-04-12T07:40:20.350Z"
               }
             ],
             "karlfeldtsgatan": [
@@ -35157,6 +35213,38 @@
                 "$districtName": "malmö sankt johannes",
                 "last_accept": 42,
                 "$last_seen": "2023-03-30T06:44:48.551Z"
+              }
+            ]
+          },
+          "malmö sankt pauli": {
+            "ö.förstadsgatan": [
+              {
+                "id": 79030,
+                "rent": 8778,
+                "area": 62,
+                "street": "ö.förstadsgatan",
+                "street_number": "4",
+                "city": "malmö",
+                "zip": "21131",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "malmö sankt pauli",
+                "last_accept": 455,
+                "$last_seen": "2023-04-12T07:40:20.350Z"
+              },
+              {
+                "id": 80252,
+                "rent": 9366,
+                "area": 67,
+                "street": "ö.förstadsgatan",
+                "street_number": "4",
+                "city": "malmö",
+                "zip": "21131",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "malmö sankt pauli",
+                "last_accept": 0,
+                "$last_seen": "2023-04-12T07:40:20.350Z"
               }
             ]
           }
