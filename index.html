@@ -66,6 +66,13 @@
         <span id="search-result-count"></span>
       </p>
       <p>
+        P value for showing historical queue days record amongst the apartments
+        on the same street/district/similar size (+-5 kvm) in the same district
+        (default: percentile 50 to percentile 80):
+        <input id="record-percentile-low-input" /> -
+        <input id="record-percentile-high-input" />
+      </p>
+      <p>
         Hold shift and click on table header to use multiple columns for
         sorting.
       </p>
@@ -318,6 +325,23 @@
               const inQueueForDays =
                 calculateInQueueForDaysFromStringDate(inQueueSinceSrc);
 
+              const recordPercentileLowSrc = parseInt(
+                searchParams.get("record-percentile-low"),
+                10
+              );
+              const recordPercentileHighSrc = parseInt(
+                searchParams.get("record-percentile-high"),
+                10
+              );
+              const recordPercentileLow =
+                recordPercentileLowSrc >= 0 && recordPercentileLowSrc <= 100
+                  ? recordPercentileLowSrc
+                  : 50;
+              const recordPercentileHigh =
+                recordPercentileHighSrc >= 0 && recordPercentileHighSrc <= 100
+                  ? recordPercentileHighSrc
+                  : 80;
+
               const getQueueDaysFromResult = (r) =>
                 r.sorting_mode === "random"
                   ? -1
@@ -372,10 +396,22 @@
                   .sort((a, b) => a - b);
 
                 return {
-                  sameDistrictDaysLow: pFloor(80, sameDistrictDays),
-                  sameDistrictDaysHigh: pFloor(100, sameDistrictDays),
-                  sameStreetDaysLow: pFloor(80, sameStreetDays),
-                  sameStreetDaysHigh: pFloor(100, sameStreetDays),
+                  sameDistrictDaysLow: pFloor(
+                    recordPercentileLow,
+                    sameDistrictDays
+                  ),
+                  sameDistrictDaysHigh: pFloor(
+                    recordPercentileHigh,
+                    sameDistrictDays
+                  ),
+                  sameStreetDaysLow: pFloor(
+                    recordPercentileLow,
+                    sameStreetDays
+                  ),
+                  sameStreetDaysHigh: pFloor(
+                    recordPercentileHigh,
+                    sameStreetDays
+                  ),
                   // In the future try to find similar apartment
                 };
               };
@@ -389,8 +425,14 @@
                   .sort((a, b) => a - b);
 
                 return {
-                  similarObjectDaysLow: pFloor(50, similarObjectDays),
-                  similarObjectDaysHigh: pFloor(80, similarObjectDays),
+                  similarObjectDaysLow: pFloor(
+                    recordPercentileLow,
+                    similarObjectDays
+                  ),
+                  similarObjectDaysHigh: pFloor(
+                    recordPercentileHigh,
+                    similarObjectDays
+                  ),
                 };
               };
 
@@ -496,7 +538,7 @@
                         Array.isArray(r.rent) ? ` (x${r.rent.length})` : "",
                         typeof queueDaysRecordMappingForCustomFiltered[r.id]
                           .sameStreetDaysHigh === "number"
-                          ? ` (p80+: ${
+                          ? ` (P: ${
                               queueDaysRecordMappingForCustomFiltered[r.id]
                                 .sameStreetDaysLow
                             }-${
@@ -601,7 +643,7 @@
                           : "",
                         typeof queueDaysRecordMappingForCustomFiltered[r.id]
                           .sameDistrictDaysHigh === "number"
-                          ? ` (p80+: ${
+                          ? ` (P: ${
                               queueDaysRecordMappingForCustomFiltered[r.id]
                                 .sameDistrictDaysLow
                             }-${
@@ -652,7 +694,7 @@
                         : `${cell === Infinity ? "?" : cell} d`,
                   },
                   {
-                    name: "P50-80",
+                    name: `P${recordPercentileLow}-${recordPercentileHigh} (P)`,
                     width: "150px",
                     formatter: (r) => {
                       const prediction = getPredictedQueueDays(r);
@@ -814,6 +856,42 @@
                 }
               });
             }
+
+            {
+              const citiesInput = document.querySelector("#cities-input");
+              citiesInput.value =
+                new URL(location).searchParams.get("cities") || defaultCities;
+              setSearchParam("cities", citiesInput.value);
+
+              citiesInput.addEventListener("change", (event) => {
+                if (/[\p{L} ,]*/u.test(event.target.value)) {
+                  setSearchParam("cities", event.target.value);
+                }
+              });
+            }
+
+            [
+              {
+                key: "record-percentile-low",
+                defaultValue: 50,
+              },
+              {
+                key: "record-percentile-high",
+                defaultValue: 80,
+              },
+            ].forEach(({ key, defaultValue }) => {
+              const input = document.querySelector(`#${key}-input`);
+              input.value =
+                new URL(location).searchParams.get(key) || defaultValue;
+              setSearchParam(key, input.value);
+
+              input.addEventListener("change", (event) => {
+                const parsed = parseInt(event.target.value, 10);
+                if (parsed >= 0 && parsed <= 100) {
+                  setSearchParam(key, event.target.value);
+                }
+              });
+            });
 
             grid = new gridjs.Grid(getGridConfig()).render(tableDiv);
           }
