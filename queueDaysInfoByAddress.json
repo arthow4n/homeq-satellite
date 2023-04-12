@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-04-12T14:43:15.766Z",
+  "lastUpdatedAt": "2023-04-12T15:42:07.176Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -26007,6 +26007,20 @@
                 "$districtName": "örgryte",
                 "last_accept": 15,
                 "$last_seen": "2023-04-05T10:45:42.102Z"
+              },
+              {
+                "id": 80240,
+                "rent": 11448,
+                "area": 60,
+                "street": "skummjölksgatan",
+                "street_number": "8",
+                "city": "göteborg",
+                "zip": "41278",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 323,
+                "$last_seen": "2023-04-12T14:43:15.766Z"
               }
             ],
             "separatorsgatan": [
