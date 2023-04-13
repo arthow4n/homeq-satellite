@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-04-13T10:44:51.675Z",
+  "lastUpdatedAt": "2023-04-13T11:40:43.473Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -35481,6 +35481,20 @@
                 "$districtName": "västra skrävlinge",
                 "last_accept": 0,
                 "$last_seen": "2023-04-03T07:37:40.033Z"
+              },
+              {
+                "id": 80010,
+                "rent": 9197,
+                "area": 86,
+                "street": "ramels väg",
+                "street_number": "23",
+                "city": "malmö",
+                "zip": "21368",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "västra skrävlinge",
+                "last_accept": 0,
+                "$last_seen": "2023-04-13T10:44:51.675Z"
               }
             ]
           },
