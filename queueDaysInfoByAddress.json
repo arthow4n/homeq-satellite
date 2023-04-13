@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-04-13T11:40:43.473Z",
+  "lastUpdatedAt": "2023-04-13T13:03:37.582Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -34707,6 +34707,20 @@
                 "$districtName": "askim",
                 "last_accept": 246,
                 "$last_seen": "2023-04-04T08:44:07.689Z"
+              },
+              {
+                "id": 79479,
+                "rent": 9575,
+                "area": 51,
+                "street": "sisjöbäckens väg",
+                "street_number": "22",
+                "city": "askim",
+                "zip": "43638",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 216,
+                "$last_seen": "2023-04-13T11:40:43.473Z"
               }
             ]
           }
