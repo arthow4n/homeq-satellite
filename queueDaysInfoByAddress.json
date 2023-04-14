@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-04-14T08:46:22.029Z",
+  "lastUpdatedAt": "2023-04-14T09:41:19.462Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -32879,6 +32879,20 @@
                 "$last_seen": "2023-04-11T11:40:32.193Z"
               },
               {
+                "id": 77763,
+                "rent": 6280,
+                "area": 41,
+                "street": "långströmsgatan",
+                "street_number": "12c",
+                "city": "göteborg",
+                "zip": "41870",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "biskopsgården",
+                "last_accept": 709,
+                "$last_seen": "2023-04-14T08:46:22.029Z"
+              },
+              {
                 "id": 77814,
                 "rent": 12837,
                 "area": 109,
@@ -35349,6 +35363,22 @@
             ]
           },
           "malmö sankt petri": {
+            "östergatan": [
+              {
+                "id": 72514,
+                "rent": 14207,
+                "area": 113,
+                "street": "östergatan",
+                "street_number": "13 a",
+                "city": "malmö",
+                "zip": "21125",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "malmö sankt petri",
+                "last_accept": 72,
+                "$last_seen": "2023-04-14T08:46:22.029Z"
+              }
+            ],
             "banérsgatan": [
               {
                 "id": 73516,
