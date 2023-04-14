@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-04-14T14:44:01.507Z",
+  "lastUpdatedAt": "2023-04-14T15:41:46.042Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -20827,6 +20827,20 @@
                 "$districtName": "bergsjön",
                 "last_accept": 425,
                 "$last_seen": "2023-04-06T10:42:43.415Z"
+              },
+              {
+                "id": 78952,
+                "rent": 7739,
+                "area": 69,
+                "street": "zenitgatan",
+                "street_number": "20",
+                "city": "göteborg",
+                "zip": "41562",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bergsjön",
+                "last_accept": 849,
+                "$last_seen": "2023-04-14T14:44:01.507Z"
               }
             ],
             "galileisgata": [
@@ -21013,6 +21027,20 @@
                 "$districtName": "bergsjön",
                 "last_accept": 820,
                 "$last_seen": "2023-03-21T08:41:35.361Z"
+              },
+              {
+                "id": 80439,
+                "rent": 7306,
+                "area": 55,
+                "street": "universumsgatan",
+                "street_number": "26",
+                "city": "göteborg",
+                "zip": "41562",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bergsjön",
+                "last_accept": 779,
+                "$last_seen": "2023-04-14T14:44:01.507Z"
               }
             ]
           },
@@ -35742,6 +35770,20 @@
               }
             ],
             "högatan": [
+              {
+                "id": 76378,
+                "rent": 12136,
+                "area": 71,
+                "street": "högatan",
+                "street_number": "10 d",
+                "city": "limhamn",
+                "zip": "21633",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "limhamn",
+                "last_accept": 0,
+                "$last_seen": "2023-04-14T14:44:01.507Z"
+              },
               {
                 "id": 76379,
                 "rent": 11753,
