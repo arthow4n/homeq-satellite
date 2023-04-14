@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-04-14T07:41:34.713Z",
+  "lastUpdatedAt": "2023-04-14T08:46:22.029Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -34770,6 +34770,22 @@
                 "last_accept": 879,
                 "$last_seen": "2023-04-03T11:37:18.151Z"
               }
+            ],
+            "björkhöjdsgatan": [
+              {
+                "id": 79911,
+                "rent": 11070,
+                "area": 106,
+                "street": "björkhöjdsgatan",
+                "street_number": "23",
+                "city": "västra frölunda",
+                "zip": "42651",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tynnered",
+                "last_accept": 1487,
+                "$last_seen": "2023-04-14T07:41:34.713Z"
+              }
             ]
           },
           "västra frölunda": {
@@ -35434,6 +35450,20 @@
           },
           "hyllie": {
             "hålsjögatan": [
+              {
+                "id": 77507,
+                "rent": 10483,
+                "area": 69,
+                "street": "hålsjögatan",
+                "street_number": "3 b",
+                "city": "malmö",
+                "zip": "21766",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "hyllie",
+                "last_accept": 46,
+                "$last_seen": "2023-04-14T07:41:34.713Z"
+              },
               {
                 "id": 77508,
                 "rent": 8592,
