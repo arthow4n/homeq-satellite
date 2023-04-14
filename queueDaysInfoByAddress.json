@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-04-14T10:45:24.291Z",
+  "lastUpdatedAt": "2023-04-14T11:41:16.913Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -31635,6 +31635,20 @@
                 "$districtName": "masthugget",
                 "last_accept": 1519,
                 "$last_seen": "2023-03-07T07:37:18.013Z"
+              },
+              {
+                "id": 79636,
+                "rent": 8800,
+                "area": 77,
+                "street": "gamla varvsgatan",
+                "street_number": "5",
+                "city": "göteborg",
+                "zip": "41459",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "masthugget",
+                "last_accept": 1557,
+                "$last_seen": "2023-04-14T10:45:24.291Z"
               }
             ],
             "karl johansgatan": [
@@ -35827,6 +35841,22 @@
                 "$districtName": "vantör",
                 "last_accept": 1512,
                 "$last_seen": "2023-04-03T11:37:18.151Z"
+              }
+            ],
+            "olshammarsgatan": [
+              {
+                "id": 77585,
+                "rent": 9487,
+                "area": 76,
+                "street": "olshammarsgatan",
+                "street_number": "45",
+                "city": "bandhagen",
+                "zip": "12475",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 1772,
+                "$last_seen": "2023-04-14T10:45:24.291Z"
               }
             ],
             "glanshammarsgatan": [
