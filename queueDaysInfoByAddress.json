@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-04-17T10:46:54.794Z",
+  "lastUpdatedAt": "2023-04-17T11:41:36.332Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -811,6 +811,20 @@
                 "$districtName": "fässberg",
                 "last_accept": 1546,
                 "$last_seen": "2023-04-04T10:41:48.793Z"
+              },
+              {
+                "id": 79600,
+                "rent": 5824,
+                "area": 57,
+                "street": "lammevallsgatan",
+                "street_number": "46 c",
+                "city": "mölndal",
+                "zip": "43143",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 1560,
+                "$last_seen": "2023-04-17T10:46:54.794Z"
               }
             ],
             "ranunkelgatan": [
@@ -17889,6 +17903,20 @@
                 "$districtName": "askim",
                 "last_accept": 876,
                 "$last_seen": "2023-04-06T08:44:38.417Z"
+              },
+              {
+                "id": 79907,
+                "rent": 10255,
+                "area": 99,
+                "street": "pilegården",
+                "street_number": "8 d",
+                "city": "göteborg",
+                "zip": "43635",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 1496,
+                "$last_seen": "2023-04-17T10:46:54.794Z"
               }
             ],
             "nergårdsvägen": [
@@ -35533,6 +35561,22 @@
                 "$districtName": "malmö sankt petri",
                 "last_accept": 1500,
                 "$last_seen": "2023-04-12T10:44:22.720Z"
+              }
+            ],
+            "norregatan": [
+              {
+                "id": 76592,
+                "rent": 10324,
+                "area": 64,
+                "street": "norregatan",
+                "street_number": "21",
+                "city": "malmö",
+                "zip": "21129",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "malmö sankt petri",
+                "last_accept": 924,
+                "$last_seen": "2023-04-17T10:46:54.794Z"
               }
             ],
             "gustav adolfs torg": [
