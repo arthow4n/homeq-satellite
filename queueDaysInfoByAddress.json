@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-04-17T13:02:41.367Z",
+  "lastUpdatedAt": "2023-04-17T13:45:00.998Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -35621,6 +35621,22 @@
                 "$districtName": "malmö sankt petri",
                 "last_accept": 924,
                 "$last_seen": "2023-04-17T10:46:54.794Z"
+              }
+            ],
+            "baltzargatan": [
+              {
+                "id": 77378,
+                "rent": 8253,
+                "area": 64,
+                "street": "baltzargatan",
+                "street_number": "12",
+                "city": "malmö",
+                "zip": "21136",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "malmö sankt petri",
+                "last_accept": 1266,
+                "$last_seen": "2023-04-17T13:02:41.367Z"
               }
             ],
             "gustav adolfs torg": [
