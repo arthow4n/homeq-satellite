@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-04-17T14:44:27.729Z",
+  "lastUpdatedAt": "2023-04-17T15:43:46.347Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -11601,6 +11601,20 @@
                 "$districtName": "lundby",
                 "last_accept": 315,
                 "$last_seen": "2023-04-10T08:44:38.426Z"
+              },
+              {
+                "id": 79539,
+                "rent": 7121,
+                "area": 34.3,
+                "street": "södra vårvindsgatan",
+                "street_number": "1",
+                "city": "göteborg",
+                "zip": "41877",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 254,
+                "$last_seen": "2023-04-17T14:44:27.729Z"
               }
             ],
             "prebendegatan": [
