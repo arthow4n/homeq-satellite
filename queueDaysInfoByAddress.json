@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-04-17T05:44:07.070Z",
+  "lastUpdatedAt": "2023-04-17T06:48:23.318Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -36075,6 +36075,46 @@
                 "$districtName": "skärholmen",
                 "last_accept": 1647,
                 "$last_seen": "2023-04-04T12:58:58.340Z"
+              }
+            ]
+          }
+        },
+        "stockholm": {
+          "hässelby": {
+            "persikogatan": [
+              {
+                "id": 79589,
+                "rent": 5715,
+                "area": 32.6,
+                "street": "persikogatan",
+                "street_number": "6",
+                "city": "stockholm",
+                "zip": "16563",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "hässelby",
+                "last_accept": 1064,
+                "$last_seen": "2023-04-17T05:44:07.070Z"
+              }
+            ]
+          }
+        },
+        "stockholm ": {
+          "skärholmen": {
+            "ålgrytevägen": [
+              {
+                "id": 80215,
+                "rent": 10433,
+                "area": 78,
+                "street": "ålgrytevägen",
+                "street_number": "119",
+                "city": "stockholm ",
+                "zip": "12731",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "skärholmen",
+                "last_accept": 1467,
+                "$last_seen": "2023-04-17T05:44:07.070Z"
               }
             ]
           }
