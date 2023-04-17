@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-04-17T07:41:55.864Z",
+  "lastUpdatedAt": "2023-04-17T08:47:52.861Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -11029,6 +11029,20 @@
                 "$districtName": "lundby",
                 "last_accept": 1507,
                 "$last_seen": "2023-04-12T11:40:25.023Z"
+              },
+              {
+                "id": 79909,
+                "rent": 7478,
+                "area": 72,
+                "street": "arvid lindmansgatan",
+                "street_number": "10 a",
+                "city": "göteborg",
+                "zip": "41726",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1463,
+                "$last_seen": "2023-04-17T07:41:55.864Z"
               }
             ],
             "estlandsgatan": [
@@ -21041,6 +21055,20 @@
                 "$districtName": "bergsjön",
                 "last_accept": 779,
                 "$last_seen": "2023-04-14T14:44:01.507Z"
+              },
+              {
+                "id": 80646,
+                "rent": 5535,
+                "area": 38,
+                "street": "universumsgatan",
+                "street_number": "24",
+                "city": "göteborg",
+                "zip": "41562",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bergsjön",
+                "last_accept": 765,
+                "$last_seen": "2023-04-17T07:41:55.864Z"
               }
             ]
           },
@@ -30695,6 +30723,20 @@
                 "$districtName": "masthugget",
                 "last_accept": 1546,
                 "$last_seen": "2023-04-06T06:44:39.122Z"
+              },
+              {
+                "id": 80316,
+                "rent": 11234,
+                "area": 81,
+                "street": "bangatan",
+                "street_number": "21",
+                "city": "göteborg",
+                "zip": "41463",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "masthugget",
+                "last_accept": 1347,
+                "$last_seen": "2023-04-17T07:41:55.864Z"
               }
             ],
             "amiralitetsgatan": [
@@ -35575,6 +35617,22 @@
                 "$districtName": "kirseberg",
                 "last_accept": 0,
                 "$last_seen": "2023-04-11T13:43:09.812Z"
+              }
+            ],
+            "rosendalsvägen": [
+              {
+                "id": 79545,
+                "rent": 7836,
+                "area": 66,
+                "street": "rosendalsvägen",
+                "street_number": "7a",
+                "city": "malmö",
+                "zip": "21219",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "kirseberg",
+                "last_accept": 22,
+                "$last_seen": "2023-04-17T07:41:55.864Z"
               }
             ]
           },
