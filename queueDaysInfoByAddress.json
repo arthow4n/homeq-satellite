@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-04-18T11:41:06.180Z",
+  "lastUpdatedAt": "2023-04-18T13:01:51.949Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -131,6 +131,20 @@
                 "$districtName": "fässberg",
                 "last_accept": 1453,
                 "$last_seen": "2023-03-26T13:37:15.080Z"
+              },
+              {
+                "id": 79512,
+                "rent": 8397,
+                "area": 50.6,
+                "street": "toltorpsgatan",
+                "street_number": "123",
+                "city": "mölndal",
+                "zip": "43141",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 1282,
+                "$last_seen": "2023-04-18T11:41:06.180Z"
               },
               {
                 "id": 79513,
@@ -3785,6 +3799,20 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1229,
                 "$last_seen": "2023-03-31T08:43:23.018Z"
+              },
+              {
+                "id": 79630,
+                "rent": 8178,
+                "area": 39,
+                "street": "nordgårdsgatan",
+                "street_number": "2",
+                "city": "göteborg",
+                "zip": "41285",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 875,
+                "$last_seen": "2023-04-18T11:41:06.180Z"
               }
             ],
             "norra krokslättsgatan": [
@@ -8109,6 +8137,20 @@
                 "$districtName": "brämaregården",
                 "last_accept": 837,
                 "$last_seen": "2023-04-05T11:38:47.227Z"
+              },
+              {
+                "id": 80352,
+                "rent": 9083,
+                "area": 54,
+                "street": "gustaf dalénsgatan",
+                "street_number": "24",
+                "city": "göteborg",
+                "zip": "41723",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brämaregården",
+                "last_accept": 948,
+                "$last_seen": "2023-04-18T11:41:06.180Z"
               }
             ],
             "lantmätaregatan": [
@@ -12175,6 +12217,20 @@
                 "$districtName": "lundby",
                 "last_accept": 515,
                 "$last_seen": "2023-03-23T09:35:51.931Z"
+              },
+              {
+                "id": 80523,
+                "rent": 9516,
+                "area": 48.5,
+                "street": "korstörnegatan",
+                "street_number": "4",
+                "city": "göteborg",
+                "zip": "41715",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 372,
+                "$last_seen": "2023-04-18T11:41:06.180Z"
               }
             ]
           },
@@ -12431,6 +12487,20 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 900,
                 "$last_seen": "2023-03-17T11:36:40.052Z"
+              },
+              {
+                "id": 78345,
+                "rent": 11610,
+                "area": 64,
+                "street": "ulfsparregatan",
+                "street_number": "18",
+                "city": "göteborg",
+                "zip": "41657",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1418,
+                "$last_seen": "2023-04-18T11:41:06.180Z"
               }
             ],
             "kobbarnas väg": [
@@ -29417,6 +29487,20 @@
                 "$districtName": "göteborgs vasa",
                 "last_accept": 1522,
                 "$last_seen": "2023-03-10T09:41:07.391Z"
+              },
+              {
+                "id": 80310,
+                "rent": 20156,
+                "area": 152,
+                "street": "sten sturegatan",
+                "street_number": "44",
+                "city": "göteborg",
+                "zip": "41252",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs vasa",
+                "last_accept": 1340,
+                "$last_seen": "2023-04-18T11:41:06.180Z"
               }
             ],
             "folke bernadottes gata": [
@@ -34571,6 +34655,20 @@
                 "$districtName": "älvsborg",
                 "last_accept": 1561,
                 "$last_seen": "2023-04-18T08:46:38.121Z"
+              },
+              {
+                "id": 78564,
+                "rent": 8761,
+                "area": 62,
+                "street": "stjärnbåtsgatan",
+                "street_number": "3",
+                "city": "göteborg",
+                "zip": "42671",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "älvsborg",
+                "last_accept": 1561,
+                "$last_seen": "2023-04-18T11:41:06.180Z"
               }
             ],
             "finnjollegatan": [
@@ -36437,6 +36535,20 @@
                 "$districtName": "vantör",
                 "last_accept": 1772,
                 "$last_seen": "2023-04-14T10:45:24.291Z"
+              },
+              {
+                "id": 77590,
+                "rent": 8593,
+                "area": 62,
+                "street": "olshammarsgatan",
+                "street_number": "42",
+                "city": "bandhagen",
+                "zip": "12475",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 1543,
+                "$last_seen": "2023-04-18T11:41:06.180Z"
               }
             ],
             "glanshammarsgatan": [
@@ -36639,6 +36751,20 @@
                 "$districtName": "skärholmen",
                 "last_accept": 1467,
                 "$last_seen": "2023-04-17T05:44:07.070Z"
+              },
+              {
+                "id": 80581,
+                "rent": 10680,
+                "area": 81,
+                "street": "ålgrytevägen",
+                "street_number": "95",
+                "city": "stockholm ",
+                "zip": "12732",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "skärholmen",
+                "last_accept": 1468,
+                "$last_seen": "2023-04-18T11:41:06.180Z"
               }
             ]
           }
