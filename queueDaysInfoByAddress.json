@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-04-18T04:46:34.205Z",
+  "lastUpdatedAt": "2023-04-18T05:43:13.269Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -36366,6 +36366,20 @@
         "stockholm ": {
           "skärholmen": {
             "ålgrytevägen": [
+              {
+                "id": 80212,
+                "rent": 10681,
+                "area": 81,
+                "street": "ålgrytevägen",
+                "street_number": "119",
+                "city": "stockholm ",
+                "zip": "12732",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "skärholmen",
+                "last_accept": 1552,
+                "$last_seen": "2023-04-18T04:46:34.205Z"
+              },
               {
                 "id": 80215,
                 "rent": 10433,
