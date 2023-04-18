@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-04-18T08:46:38.121Z",
+  "lastUpdatedAt": "2023-04-18T09:48:28.610Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -13357,6 +13357,20 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1392,
                 "$last_seen": "2023-03-07T06:47:05.316Z"
+              },
+              {
+                "id": 79924,
+                "rent": 6423,
+                "area": 37,
+                "street": "karlagatan",
+                "street_number": "7 b",
+                "city": "göteborg",
+                "zip": "41661",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1470,
+                "$last_seen": "2023-04-18T08:46:38.121Z"
               }
             ],
             "pärlstickaregatan": [
@@ -30921,6 +30935,20 @@
                 "$last_seen": "2023-04-06T06:44:39.122Z"
               },
               {
+                "id": 80315,
+                "rent": 11402,
+                "area": 84,
+                "street": "bangatan",
+                "street_number": "21",
+                "city": "göteborg",
+                "zip": "41463",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "masthugget",
+                "last_accept": 1224,
+                "$last_seen": "2023-04-18T08:46:38.121Z"
+              },
+              {
                 "id": 80316,
                 "rent": 11234,
                 "area": 81,
@@ -30933,6 +30961,20 @@
                 "$districtName": "masthugget",
                 "last_accept": 1347,
                 "$last_seen": "2023-04-17T07:41:55.864Z"
+              },
+              {
+                "id": 80320,
+                "rent": 10054,
+                "area": 69,
+                "street": "bangatan",
+                "street_number": "27",
+                "city": "göteborg",
+                "zip": "41463",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "masthugget",
+                "last_accept": 1455,
+                "$last_seen": "2023-04-18T08:46:38.121Z"
               }
             ],
             "amiralitetsgatan": [
@@ -34471,6 +34513,20 @@
                 "$districtName": "älvsborg",
                 "last_accept": 1478,
                 "$last_seen": "2023-02-15T13:46:27.559Z"
+              },
+              {
+                "id": 77257,
+                "rent": 8476,
+                "area": 62,
+                "street": "stjärnbåtsgatan",
+                "street_number": "5",
+                "city": "göteborg",
+                "zip": "42671",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "älvsborg",
+                "last_accept": 1561,
+                "$last_seen": "2023-04-18T08:46:38.121Z"
               }
             ],
             "finnjollegatan": [
@@ -36201,6 +36257,20 @@
                 "$districtName": "limhamn",
                 "last_accept": 0,
                 "$last_seen": "2023-03-31T11:36:51.392Z"
+              },
+              {
+                "id": 80530,
+                "rent": 8326,
+                "area": 42,
+                "street": "högatan",
+                "street_number": "14",
+                "city": "limhamn",
+                "zip": "21633",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "limhamn",
+                "last_accept": 0,
+                "$last_seen": "2023-04-18T08:46:38.121Z"
               }
             ],
             "höbalsgatan": [
