@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-04-18T10:45:26.762Z",
+  "lastUpdatedAt": "2023-04-18T11:41:06.180Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -131,6 +131,20 @@
                 "$districtName": "fässberg",
                 "last_accept": 1453,
                 "$last_seen": "2023-03-26T13:37:15.080Z"
+              },
+              {
+                "id": 79513,
+                "rent": 8821,
+                "area": 54.3,
+                "street": "toltorpsgatan",
+                "street_number": "117",
+                "city": "mölndal",
+                "zip": "43141",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 1415,
+                "$last_seen": "2023-04-18T10:45:26.762Z"
               }
             ],
             "bergmansgatan": [
@@ -5039,6 +5053,22 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1588,
                 "$last_seen": "2023-04-05T14:43:41.198Z"
+              }
+            ],
+            "ebba lieberathsgatan": [
+              {
+                "id": 80057,
+                "rent": 8971,
+                "area": 44,
+                "street": "ebba lieberathsgatan",
+                "street_number": "20 b",
+                "city": "göteborg",
+                "zip": "41265",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1420,
+                "$last_seen": "2023-04-18T10:45:26.762Z"
               }
             ]
           },
@@ -30961,6 +30991,20 @@
                 "$districtName": "masthugget",
                 "last_accept": 1347,
                 "$last_seen": "2023-04-17T07:41:55.864Z"
+              },
+              {
+                "id": 80318,
+                "rent": 11318,
+                "area": 81,
+                "street": "bangatan",
+                "street_number": "25",
+                "city": "göteborg",
+                "zip": "41463",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "masthugget",
+                "last_accept": 1446,
+                "$last_seen": "2023-04-18T10:45:26.762Z"
               },
               {
                 "id": 80320,
