@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-04-19T11:40:48.816Z",
+  "lastUpdatedAt": "2023-04-19T13:01:12.800Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -10033,6 +10033,20 @@
                 "$districtName": "lundby",
                 "last_accept": 1481,
                 "$last_seen": "2023-02-22T08:46:13.966Z"
+              },
+              {
+                "id": 79903,
+                "rent": 6685,
+                "area": 54,
+                "street": "hällskriftsgatan",
+                "street_number": "2 b",
+                "city": "göteborg",
+                "zip": "41726",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1413,
+                "$last_seen": "2023-04-19T11:40:48.816Z"
               }
             ],
             "fyrklöversgatan": [
@@ -21053,6 +21067,20 @@
                 "$last_seen": "2023-04-12T13:01:21.450Z"
               },
               {
+                "id": 80787,
+                "rent": 9600,
+                "area": 83,
+                "street": "atmosfärgatan",
+                "street_number": "47",
+                "city": "göteborg",
+                "zip": "41561",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bergsjön",
+                "last_accept": 419,
+                "$last_seen": "2023-04-19T11:40:48.816Z"
+              },
+              {
                 "id": 80803,
                 "rent": 7844,
                 "area": 65,
@@ -29325,6 +29353,20 @@
                 "$districtName": "göteborgs vasa",
                 "last_accept": 1538,
                 "$last_seen": "2023-03-26T13:37:15.080Z"
+              },
+              {
+                "id": 80360,
+                "rent": 7347,
+                "area": 38,
+                "street": "engelbrektsgatan",
+                "street_number": "34 c",
+                "city": "göteborg",
+                "zip": "41137",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs vasa",
+                "last_accept": 1560,
+                "$last_seen": "2023-04-19T11:40:48.816Z"
               }
             ],
             "erik dahlbergsgatan": [
@@ -32035,6 +32077,20 @@
                 "$districtName": "masthugget",
                 "last_accept": 971,
                 "$last_seen": "2023-02-21T13:03:03.285Z"
+              },
+              {
+                "id": 80323,
+                "rent": 7357,
+                "area": 45,
+                "street": "djurgårdsgatan",
+                "street_number": "38",
+                "city": "göteborg",
+                "zip": "41462",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "masthugget",
+                "last_accept": 1561,
+                "$last_seen": "2023-04-19T11:40:48.816Z"
               }
             ],
             "dahlströmsgatan": [
