@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-04-19T13:44:11.971Z",
+  "lastUpdatedAt": "2023-04-19T14:43:28.924Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -8179,6 +8179,20 @@
                 "$districtName": "brämaregården",
                 "last_accept": 837,
                 "$last_seen": "2023-04-05T11:38:47.227Z"
+              },
+              {
+                "id": 79613,
+                "rent": 11739,
+                "area": 68,
+                "street": "gustaf dalénsgatan",
+                "street_number": "6",
+                "city": "göteborg",
+                "zip": "41722",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brämaregården",
+                "last_accept": 1107,
+                "$last_seen": "2023-04-19T13:44:11.971Z"
               },
               {
                 "id": 80352,
@@ -26611,6 +26625,20 @@
                 "$districtName": "örgryte",
                 "last_accept": 323,
                 "$last_seen": "2023-04-12T14:43:15.766Z"
+              },
+              {
+                "id": 80712,
+                "rent": 11445,
+                "area": 60,
+                "street": "skummjölksgatan",
+                "street_number": "8",
+                "city": "göteborg",
+                "zip": "41278",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 321,
+                "$last_seen": "2023-04-19T13:44:11.971Z"
               }
             ],
             "separatorsgatan": [
