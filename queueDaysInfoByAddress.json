@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-04-19T07:40:41.921Z",
+  "lastUpdatedAt": "2023-04-19T08:46:16.416Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -21009,6 +21009,20 @@
                 "$districtName": "bergsjön",
                 "last_accept": 0,
                 "$last_seen": "2023-04-12T13:01:21.450Z"
+              },
+              {
+                "id": 80803,
+                "rent": 7844,
+                "area": 65,
+                "street": "atmosfärgatan",
+                "street_number": "11",
+                "city": "göteborg",
+                "zip": "41561",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bergsjön",
+                "last_accept": 419,
+                "$last_seen": "2023-04-19T07:40:41.921Z"
               }
             ],
             "zenitgatan": [
@@ -23859,6 +23873,20 @@
                 "$districtName": "göteborgs domkyrkodistrikt",
                 "last_accept": 1487,
                 "$last_seen": "2023-02-03T12:58:48.970Z"
+              },
+              {
+                "id": 80515,
+                "rent": 7897,
+                "area": 48,
+                "street": "sten sturegatan",
+                "street_number": "6b",
+                "city": "göteborg",
+                "zip": "41139",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs domkyrkodistrikt",
+                "last_accept": 1562,
+                "$last_seen": "2023-04-19T07:40:41.921Z"
               }
             ],
             "folkungagatan": [
@@ -29969,6 +29997,20 @@
                 "$districtName": "göteborgs vasa",
                 "last_accept": 1560,
                 "$last_seen": "2023-02-08T07:36:31.047Z"
+              },
+              {
+                "id": 78694,
+                "rent": 6524,
+                "area": 43,
+                "street": "viktoriagatan",
+                "street_number": "16",
+                "city": "göteborg",
+                "zip": "41125",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs vasa",
+                "last_accept": 1604,
+                "$last_seen": "2023-04-19T07:40:41.921Z"
               }
             ],
             "viktor rydbergsgatan": [
