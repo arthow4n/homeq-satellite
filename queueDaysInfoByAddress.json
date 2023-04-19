@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-04-19T09:41:25.197Z",
+  "lastUpdatedAt": "2023-04-19T10:45:33.812Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -20545,6 +20545,20 @@
                 "$districtName": "bergsjön",
                 "last_accept": 344,
                 "$last_seen": "2023-04-05T11:38:47.227Z"
+              },
+              {
+                "id": 80786,
+                "rent": 10218,
+                "area": 90,
+                "street": "kosmosgatan",
+                "street_number": "12",
+                "city": "göteborg",
+                "zip": "41562",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bergsjön",
+                "last_accept": 31,
+                "$last_seen": "2023-04-19T09:41:25.197Z"
               }
             ],
             "atmosfärgatan": [
@@ -30111,6 +30125,20 @@
                 "$districtName": "göteborgs vasa",
                 "last_accept": 1541,
                 "$last_seen": "2023-03-29T11:38:19.348Z"
+              },
+              {
+                "id": 80520,
+                "rent": 7249,
+                "area": 42,
+                "street": "viktor rydbergsgatan",
+                "street_number": "1 b",
+                "city": "göteborg",
+                "zip": "41134",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs vasa",
+                "last_accept": 1522,
+                "$last_seen": "2023-04-19T09:41:25.197Z"
               }
             ],
             "nedre fogelbergsgatan": [
@@ -35253,6 +35281,24 @@
                 "$districtName": "göteborgs karl johan",
                 "last_accept": 1458,
                 "$last_seen": "2023-03-29T07:37:58.173Z"
+              }
+            ]
+          },
+          "haga": {
+            "nilssonsberg": [
+              {
+                "id": 80094,
+                "rent": 5597,
+                "area": 47,
+                "street": "nilssonsberg",
+                "street_number": "29",
+                "city": "göteborg ",
+                "zip": "41143",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "haga",
+                "last_accept": 1563,
+                "$last_seen": "2023-04-19T09:41:25.197Z"
               }
             ]
           }
