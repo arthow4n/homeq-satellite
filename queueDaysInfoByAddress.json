@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-04-19T13:01:12.800Z",
+  "lastUpdatedAt": "2023-04-19T13:44:11.971Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -36931,6 +36931,24 @@
                 "$districtName": "hässelby",
                 "last_accept": 1064,
                 "$last_seen": "2023-04-17T05:44:07.070Z"
+              }
+            ]
+          },
+          "hägersten": {
+            "zachrisbergsgatan": [
+              {
+                "id": 80574,
+                "rent": 19749,
+                "area": 91,
+                "street": "zachrisbergsgatan",
+                "street_number": "11",
+                "city": "stockholm",
+                "zip": "11755",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "hägersten",
+                "last_accept": 249,
+                "$last_seen": "2023-04-19T13:01:12.800Z"
               }
             ]
           }
