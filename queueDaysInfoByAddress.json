@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-04-20T14:41:51.689Z",
+  "lastUpdatedAt": "2023-04-20T15:41:33.365Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -23033,6 +23033,20 @@
                 "$districtName": "härlanda",
                 "last_accept": 1542,
                 "$last_seen": "2023-03-30T07:37:55.039Z"
+              },
+              {
+                "id": 78687,
+                "rent": 4000,
+                "area": 34,
+                "street": "intagsgatan",
+                "street_number": "5b",
+                "city": "göteborg",
+                "zip": "41651",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "härlanda",
+                "last_accept": 1557,
+                "$last_seen": "2023-04-20T14:41:51.689Z"
               }
             ],
             "qvidingsgatan": [
