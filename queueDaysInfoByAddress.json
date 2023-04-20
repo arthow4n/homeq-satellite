@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-04-20T11:40:14.224Z",
+  "lastUpdatedAt": "2023-04-20T13:00:42.597Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -2585,6 +2585,20 @@
                 "$districtName": "kållered",
                 "last_accept": 1458,
                 "$last_seen": "2023-04-05T11:38:47.227Z"
+              },
+              {
+                "id": 80377,
+                "rent": 4320,
+                "area": 26,
+                "street": "våmmedalsvägen",
+                "street_number": "104",
+                "city": "kållered",
+                "zip": "42831",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "kållered",
+                "last_accept": 631,
+                "$last_seen": "2023-04-20T11:40:14.224Z"
               }
             ]
           }
@@ -5381,6 +5395,20 @@
                 "$districtName": "högsbo",
                 "last_accept": 0,
                 "$last_seen": "2023-02-27T16:52:38.554Z"
+              },
+              {
+                "id": 79035,
+                "rent": 13747,
+                "area": 74,
+                "street": "skillingmyntsgatan",
+                "street_number": "8",
+                "city": "göteborg",
+                "zip": "41484",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 282,
+                "$last_seen": "2023-04-20T11:40:14.224Z"
               },
               {
                 "id": 79556,
@@ -23643,6 +23671,48 @@
                 "$last_seen": "2023-03-16T08:45:29.976Z"
               },
               {
+                "id": 79490,
+                "rent": 6661,
+                "area": 34,
+                "street": "bangårdsgatan",
+                "street_number": "21",
+                "city": "göteborg",
+                "zip": "41112",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs domkyrkodistrikt",
+                "last_accept": 1248,
+                "$last_seen": "2023-04-20T11:40:14.224Z"
+              },
+              {
+                "id": 79501,
+                "rent": 6916,
+                "area": 34,
+                "street": "bangårdsgatan",
+                "street_number": "21",
+                "city": "göteborg",
+                "zip": "41112",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs domkyrkodistrikt",
+                "last_accept": 1091,
+                "$last_seen": "2023-04-20T11:40:14.224Z"
+              },
+              {
+                "id": 79507,
+                "rent": 10770,
+                "area": 68,
+                "street": "bangårdsgatan",
+                "street_number": "23",
+                "city": "göteborg",
+                "zip": "41112",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs domkyrkodistrikt",
+                "last_accept": 1395,
+                "$last_seen": "2023-04-20T11:40:14.224Z"
+              },
+              {
                 "id": 79516,
                 "rent": 6419,
                 "area": 34,
@@ -36455,6 +36525,22 @@
                 "$districtName": "kirseberg",
                 "last_accept": 82,
                 "$last_seen": "2023-04-17T06:48:23.318Z"
+              }
+            ],
+            "gerlachsgatan": [
+              {
+                "id": 79080,
+                "rent": 9210,
+                "area": 66,
+                "street": "gerlachsgatan",
+                "street_number": "2 b",
+                "city": "malmö",
+                "zip": "21219",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "kirseberg",
+                "last_accept": 0,
+                "$last_seen": "2023-04-20T11:40:14.224Z"
               }
             ],
             "segeparksgatan": [
