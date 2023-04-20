@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-04-20T10:45:35.136Z",
+  "lastUpdatedAt": "2023-04-20T11:40:14.224Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -751,6 +751,20 @@
                 "$districtName": "fässberg",
                 "last_accept": 1528,
                 "$last_seen": "2023-03-16T13:49:27.491Z"
+              },
+              {
+                "id": 80083,
+                "rent": 6100,
+                "area": 35,
+                "street": "örngatan",
+                "street_number": "1d",
+                "city": "mölndal",
+                "zip": "43168",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 935,
+                "$last_seen": "2023-04-20T10:45:35.136Z"
               }
             ],
             "luktärtsgatan": [
@@ -23627,6 +23641,20 @@
                 "$districtName": "göteborgs domkyrkodistrikt",
                 "last_accept": 1039,
                 "$last_seen": "2023-03-16T08:45:29.976Z"
+              },
+              {
+                "id": 79516,
+                "rent": 6419,
+                "area": 34,
+                "street": "bangårdsgatan",
+                "street_number": "17",
+                "city": "göteborg",
+                "zip": "41112",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs domkyrkodistrikt",
+                "last_accept": 1315,
+                "$last_seen": "2023-04-20T10:45:35.136Z"
               }
             ],
             "burggreveplatsen": [
@@ -30279,6 +30307,20 @@
                 "$districtName": "göteborgs vasa",
                 "last_accept": 1522,
                 "$last_seen": "2023-04-19T09:41:25.197Z"
+              },
+              {
+                "id": 80527,
+                "rent": 8928,
+                "area": 56,
+                "street": "viktor rydbergsgatan",
+                "street_number": "1 b",
+                "city": "göteborg",
+                "zip": "41134",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs vasa",
+                "last_accept": 1563,
+                "$last_seen": "2023-04-20T10:45:35.136Z"
               }
             ],
             "nedre fogelbergsgatan": [
