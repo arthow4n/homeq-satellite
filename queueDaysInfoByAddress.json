@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-04-21T09:40:27.558Z",
+  "lastUpdatedAt": "2023-04-21T10:44:35.631Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -28205,6 +28205,20 @@
                 "$districtName": "annedal",
                 "last_accept": 1543,
                 "$last_seen": "2023-03-31T07:37:22.434Z"
+              },
+              {
+                "id": 80722,
+                "rent": 10293,
+                "area": 72,
+                "street": "övre husargatan",
+                "street_number": "6",
+                "city": "göteborg",
+                "zip": "41314",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "annedal",
+                "last_accept": 1563,
+                "$last_seen": "2023-04-21T09:40:27.558Z"
               }
             ],
             "carl grimbergsgatan": [
@@ -28755,6 +28769,20 @@
                 "$districtName": "annedal",
                 "last_accept": 1537,
                 "$last_seen": "2023-03-31T07:37:22.434Z"
+              },
+              {
+                "id": 80726,
+                "rent": 7169,
+                "area": 45,
+                "street": "västergatan",
+                "street_number": "19",
+                "city": "göteborg",
+                "zip": "41313",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "annedal",
+                "last_accept": 1535,
+                "$last_seen": "2023-04-21T09:40:27.558Z"
               }
             ],
             "seminariegatan": [
@@ -33115,6 +33143,20 @@
                 "$districtName": "biskopsgården",
                 "last_accept": 1332,
                 "$last_seen": "2022-12-27T14:34:55.787Z"
+              },
+              {
+                "id": 76713,
+                "rent": 8486,
+                "area": 94,
+                "street": "solstrålegatan",
+                "street_number": "34",
+                "city": "göteborg",
+                "zip": "41843",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "biskopsgården",
+                "last_accept": 707,
+                "$last_seen": "2023-04-21T09:40:27.558Z"
               }
             ],
             "långströmsgatan": [
