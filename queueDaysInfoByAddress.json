@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-04-21T10:44:35.631Z",
+  "lastUpdatedAt": "2023-04-21T11:40:13.834Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -24135,6 +24135,20 @@
                 "$districtName": "göteborgs domkyrkodistrikt",
                 "last_accept": 1429,
                 "$last_seen": "2023-04-13T07:40:31.927Z"
+              },
+              {
+                "id": 80343,
+                "rent": 13202,
+                "area": 87,
+                "street": "stampgatan",
+                "street_number": "40",
+                "city": "göteborg",
+                "zip": "41101",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs domkyrkodistrikt",
+                "last_accept": 1564,
+                "$last_seen": "2023-04-21T10:44:35.631Z"
               }
             ],
             "friggagatan": [
@@ -37381,6 +37395,20 @@
                 "$districtName": "vantör",
                 "last_accept": 1543,
                 "$last_seen": "2023-04-18T11:41:06.180Z"
+              },
+              {
+                "id": 77591,
+                "rent": 8270,
+                "area": 62,
+                "street": "olshammarsgatan",
+                "street_number": "44",
+                "city": "bandhagen",
+                "zip": "12475",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 1615,
+                "$last_seen": "2023-04-21T10:44:35.631Z"
               }
             ],
             "glanshammarsgatan": [
