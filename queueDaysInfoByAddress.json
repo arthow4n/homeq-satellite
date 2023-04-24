@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-04-24T13:43:04.186Z",
+  "lastUpdatedAt": "2023-04-24T14:43:13.575Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -21543,6 +21543,20 @@
                 "$last_seen": "2023-04-19T11:40:48.816Z"
               },
               {
+                "id": 80801,
+                "rent": 7806,
+                "area": 65,
+                "street": "atmosfärgatan",
+                "street_number": "21",
+                "city": "göteborg",
+                "zip": "41561",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bergsjön",
+                "last_accept": 639,
+                "$last_seen": "2023-04-24T13:43:04.186Z"
+              },
+              {
                 "id": 80803,
                 "rent": 7844,
                 "area": 65,
@@ -24117,6 +24131,20 @@
                 "$districtName": "göteborgs domkyrkodistrikt",
                 "last_accept": 1248,
                 "$last_seen": "2023-04-20T13:00:42.597Z"
+              },
+              {
+                "id": 79497,
+                "rent": 6746,
+                "area": 34,
+                "street": "bangårdsgatan",
+                "street_number": "19",
+                "city": "göteborg",
+                "zip": "41112",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs domkyrkodistrikt",
+                "last_accept": 1294,
+                "$last_seen": "2023-04-24T13:43:04.186Z"
               },
               {
                 "id": 79501,
@@ -36365,6 +36393,22 @@
                 "$districtName": "brunnsbo",
                 "last_accept": 960,
                 "$last_seen": "2023-04-04T13:41:16.333Z"
+              }
+            ],
+            "sångspelsgatan": [
+              {
+                "id": 80990,
+                "rent": 7231,
+                "area": 54,
+                "street": "sångspelsgatan",
+                "street_number": "3",
+                "city": "hisings backa",
+                "zip": "42241",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brunnsbo",
+                "last_accept": 1159,
+                "$last_seen": "2023-04-24T13:43:04.186Z"
               }
             ]
           }
