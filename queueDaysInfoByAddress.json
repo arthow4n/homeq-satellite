@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-04-24T08:46:30.859Z",
+  "lastUpdatedAt": "2023-04-24T09:41:51.712Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -15929,6 +15929,20 @@
                 "$districtName": "björkekärr",
                 "last_accept": 973,
                 "$last_seen": "2023-04-24T07:40:59.656Z"
+              },
+              {
+                "id": 80511,
+                "rent": 5130,
+                "area": 22,
+                "street": "smörslätten",
+                "street_number": "6",
+                "city": "göteborg",
+                "zip": "41677",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "björkekärr",
+                "last_accept": 0,
+                "$last_seen": "2023-04-24T08:46:30.859Z"
               }
             ],
             "lådspikaregatan": [
@@ -35973,6 +35987,24 @@
                 "$last_seen": "2023-04-19T09:41:25.197Z"
               }
             ]
+          },
+          "annedal": {
+            "lilla risåsgatan": [
+              {
+                "id": 80479,
+                "rent": 8561,
+                "area": 83,
+                "street": "lilla risåsgatan",
+                "street_number": "20",
+                "city": "göteborg ",
+                "zip": "41304",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "annedal",
+                "last_accept": 1659,
+                "$last_seen": "2023-04-24T08:46:30.859Z"
+              }
+            ]
           }
         },
         "hisings backa": {
@@ -37237,6 +37269,20 @@
                 "$districtName": "malmö sankt johannes",
                 "last_accept": 42,
                 "$last_seen": "2023-03-30T06:44:48.551Z"
+              },
+              {
+                "id": 79577,
+                "rent": 6567,
+                "area": 51,
+                "street": "södra skolgatan",
+                "street_number": "33",
+                "city": "malmö",
+                "zip": "21422",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "malmö sankt johannes",
+                "last_accept": 1407,
+                "$last_seen": "2023-04-24T08:46:30.859Z"
               }
             ]
           },
