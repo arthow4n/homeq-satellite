@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-04-24T10:45:40.601Z",
+  "lastUpdatedAt": "2023-04-24T11:40:42.753Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -3517,6 +3517,62 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1289,
                 "$last_seen": "2023-04-17T11:41:36.332Z"
+              },
+              {
+                "id": 80050,
+                "rent": 7164,
+                "area": 30,
+                "street": "ebbe lieberathsgatan",
+                "street_number": "22 d",
+                "city": "göteborg",
+                "zip": "41265",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1095,
+                "$last_seen": "2023-04-24T10:45:40.601Z"
+              },
+              {
+                "id": 80054,
+                "rent": 10525,
+                "area": 58,
+                "street": "ebbe lieberathsgatan",
+                "street_number": "20 a",
+                "city": "göteborg",
+                "zip": "41265",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 933,
+                "$last_seen": "2023-04-24T10:45:40.601Z"
+              },
+              {
+                "id": 80055,
+                "rent": 12178,
+                "area": 73,
+                "street": "ebbe lieberathsgatan",
+                "street_number": "20 b",
+                "city": "göteborg",
+                "zip": "41265",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 977,
+                "$last_seen": "2023-04-24T10:45:40.601Z"
+              },
+              {
+                "id": 80227,
+                "rent": 12630,
+                "area": 75,
+                "street": "ebbe lieberathsgatan",
+                "street_number": "20 d",
+                "city": "göteborg",
+                "zip": "41265",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1144,
+                "$last_seen": "2023-04-24T10:45:40.601Z"
               }
             ],
             "nordgårdsgatan": [
@@ -15957,6 +16013,20 @@
                 "$districtName": "björkekärr",
                 "last_accept": 85,
                 "$last_seen": "2023-04-24T09:41:51.712Z"
+              },
+              {
+                "id": 80543,
+                "rent": 5128,
+                "area": 22,
+                "street": "smörslätten",
+                "street_number": "6",
+                "city": "göteborg",
+                "zip": "41677",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "björkekärr",
+                "last_accept": 0,
+                "$last_seen": "2023-04-24T10:45:40.601Z"
               }
             ],
             "lådspikaregatan": [
@@ -32117,6 +32187,20 @@
                 "$last_seen": "2023-03-26T13:37:15.080Z"
               },
               {
+                "id": 77621,
+                "rent": 9733,
+                "area": 55,
+                "street": "kolumbusgatan",
+                "street_number": "5",
+                "city": "göteborg",
+                "zip": "41465",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "masthugget",
+                "last_accept": 1422,
+                "$last_seen": "2023-04-24T10:45:40.601Z"
+              },
+              {
                 "id": 78938,
                 "rent": 10415,
                 "area": 55,
@@ -37677,6 +37761,20 @@
                 "$districtName": "vantör",
                 "last_accept": 1615,
                 "$last_seen": "2023-04-21T10:44:35.631Z"
+              },
+              {
+                "id": 80706,
+                "rent": 8450,
+                "area": 76,
+                "street": "olshammarsgatan",
+                "street_number": "51",
+                "city": "bandhagen",
+                "zip": "12475",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 1667,
+                "$last_seen": "2023-04-24T10:45:40.601Z"
               }
             ],
             "glanshammarsgatan": [
