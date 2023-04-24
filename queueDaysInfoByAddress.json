@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-04-24T05:43:23.827Z",
+  "lastUpdatedAt": "2023-04-24T06:47:28.300Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -32769,6 +32769,20 @@
                 "$districtName": "masthugget",
                 "last_accept": 1469,
                 "$last_seen": "2023-01-16T14:38:52.121Z"
+              },
+              {
+                "id": 80660,
+                "rent": 6337,
+                "area": 42,
+                "street": "godhemsgatan",
+                "street_number": "14 b",
+                "city": "göteborg",
+                "zip": "41467",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "masthugget",
+                "last_accept": 1566,
+                "$last_seen": "2023-04-24T05:43:23.827Z"
               }
             ],
             "gamla varvsgatan": [
