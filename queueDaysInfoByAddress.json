@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-04-24T09:41:51.712Z",
+  "lastUpdatedAt": "2023-04-24T10:45:40.601Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -15943,6 +15943,20 @@
                 "$districtName": "björkekärr",
                 "last_accept": 0,
                 "$last_seen": "2023-04-24T08:46:30.859Z"
+              },
+              {
+                "id": 80539,
+                "rent": 5008,
+                "area": 22,
+                "street": "smörslätten",
+                "street_number": "8",
+                "city": "göteborg",
+                "zip": "41677",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "björkekärr",
+                "last_accept": 85,
+                "$last_seen": "2023-04-24T09:41:51.712Z"
               }
             ],
             "lådspikaregatan": [
@@ -36003,6 +36017,22 @@
                 "$districtName": "annedal",
                 "last_accept": 1659,
                 "$last_seen": "2023-04-24T08:46:30.859Z"
+              }
+            ],
+            "linnégatan": [
+              {
+                "id": 80484,
+                "rent": 11047,
+                "area": 68,
+                "street": "linnégatan",
+                "street_number": "34b",
+                "city": "göteborg ",
+                "zip": "41304",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "annedal",
+                "last_accept": 1564,
+                "$last_seen": "2023-04-24T09:41:51.712Z"
               }
             ]
           }
