@@ -416,22 +416,45 @@
                 };
               };
 
-              const getPredictedQueueDays = (r) => {
-                const { district } = getHistoricalQueueDayRecordSource(r);
-
-                const similarObjectDays = district
+              const filterSimilarObjects = (
+                r,
+                historicalQueueDayRecordSource
+              ) => {
+                return historicalQueueDayRecordSource
                   .filter((x) => r.area <= x.area + 5 && r.area >= x.area - 5)
                   .map((x) => x.last_accept)
                   .sort((a, b) => a - b);
+              };
+
+              const getPredictedQueueDays = (r) => {
+                const { district, street } =
+                  getHistoricalQueueDayRecordSource(r);
+
+                const similarObjectInDistrictDays = filterSimilarObjects(
+                  r,
+                  district
+                );
+                const similarObjectOnStreetDays = filterSimilarObjects(
+                  r,
+                  street
+                );
 
                 return {
-                  similarObjectDaysLow: pFloor(
+                  similarObjectInDistrictDaysLow: pFloor(
                     recordPercentileLow,
-                    similarObjectDays
+                    similarObjectInDistrictDays
                   ),
-                  similarObjectDaysHigh: pFloor(
+                  similarObjectInDistrictDaysHigh: pFloor(
                     recordPercentileHigh,
-                    similarObjectDays
+                    similarObjectInDistrictDays
+                  ),
+                  similarObjectOnStreetDaysLow: pFloor(
+                    recordPercentileLow,
+                    similarObjectOnStreetDays
+                  ),
+                  similarObjectOnStreetDaysHigh: pFloor(
+                    recordPercentileHigh,
+                    similarObjectOnStreetDays
                   ),
                 };
               };
@@ -698,12 +721,22 @@
                     width: "150px",
                     formatter: (r) => {
                       const prediction = getPredictedQueueDays(r);
-                      const renderedNumber =
-                        typeof prediction.similarObjectDaysHigh === "number"
-                          ? `${prediction.similarObjectDaysLow}-${prediction.similarObjectDaysHigh}`
+                      const renderedNumberForDisctrict =
+                        typeof prediction.similarObjectInDistrictDaysHigh ===
+                        "number"
+                          ? `${prediction.similarObjectInDistrictDaysLow}-${prediction.similarObjectInDistrictDaysHigh}`
+                          : "?";
+                      const renderedNumberForStreet =
+                        typeof prediction.similarObjectOnStreetDaysHigh ===
+                        "number"
+                          ? `${prediction.similarObjectOnStreetDaysLow}-${prediction.similarObjectOnStreetDaysHigh}`
                           : "?";
 
-                      return `${renderedNumber} d`;
+                      return gridjs.h("span", {}, [
+                        `D: ${renderedNumberForDisctrict} d`,
+                        gridjs.h("br", {}, []),
+                        `S: ${renderedNumberForStreet} d`,
+                      ]);
                     },
                   },
                   {
