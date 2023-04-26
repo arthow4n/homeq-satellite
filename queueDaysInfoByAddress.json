@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-04-26T06:47:23.518Z",
+  "lastUpdatedAt": "2023-04-26T07:41:30.808Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -8983,6 +8983,20 @@
                 "$districtName": "brämaregården",
                 "last_accept": 1141,
                 "$last_seen": "2023-03-07T11:37:34.034Z"
+              },
+              {
+                "id": 79965,
+                "rent": 4357,
+                "area": 20,
+                "street": "wieselgrensplatsen",
+                "street_number": "13",
+                "city": "göteborg",
+                "zip": "41739",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brämaregården",
+                "last_accept": 1231,
+                "$last_seen": "2023-04-26T06:47:23.518Z"
               }
             ],
             "väderkvarnsgatan": [
