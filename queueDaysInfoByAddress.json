@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-04-26T14:43:48.292Z",
+  "lastUpdatedAt": "2023-04-26T15:43:01.770Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -21823,6 +21823,20 @@
                 "$districtName": "bergsjön",
                 "last_accept": 555,
                 "$last_seen": "2023-04-20T06:46:36.979Z"
+              },
+              {
+                "id": 80825,
+                "rent": 5639,
+                "area": 65,
+                "street": "atmosfärgatan",
+                "street_number": "13",
+                "city": "göteborg",
+                "zip": "41561",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bergsjön",
+                "last_accept": 1287,
+                "$last_seen": "2023-04-26T14:43:48.292Z"
               }
             ],
             "zenitgatan": [
@@ -37743,6 +37757,22 @@
                 "$districtName": "malmö sankt petri",
                 "last_accept": 477,
                 "$last_seen": "2023-03-30T06:44:48.551Z"
+              }
+            ],
+            "v rönneholmsv": [
+              {
+                "id": 81009,
+                "rent": 12763,
+                "area": 80,
+                "street": "v rönneholmsv",
+                "street_number": "37b",
+                "city": "malmö",
+                "zip": "21741",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "malmö sankt petri",
+                "last_accept": 113,
+                "$last_seen": "2023-04-26T14:43:48.292Z"
               }
             ]
           },
