@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-04-26T11:42:00.456Z",
+  "lastUpdatedAt": "2023-04-26T13:01:47.235Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -5293,6 +5293,22 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1420,
                 "$last_seen": "2023-04-18T10:45:26.762Z"
+              }
+            ],
+            "lemansgatan": [
+              {
+                "id": 80303,
+                "rent": 8500,
+                "area": 69,
+                "street": "lemansgatan",
+                "street_number": "2",
+                "city": "göteborg",
+                "zip": "41260",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1640,
+                "$last_seen": "2023-04-26T11:42:00.456Z"
               }
             ]
           },
@@ -17701,6 +17717,20 @@
                 "$last_seen": "2023-04-20T13:46:51.382Z"
               },
               {
+                "id": 81070,
+                "rent": 5032,
+                "area": 51.5,
+                "street": "aprilgatan",
+                "street_number": "42",
+                "city": "göteborg",
+                "zip": "41548",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "kortedala",
+                "last_accept": 1197,
+                "$last_seen": "2023-04-26T11:42:00.456Z"
+              },
+              {
                 "id": 81175,
                 "rent": 5124,
                 "area": 55.5,
@@ -18083,6 +18113,20 @@
                 "$districtName": "kortedala",
                 "last_accept": 904,
                 "$last_seen": "2023-03-09T10:45:09.172Z"
+              },
+              {
+                "id": 78418,
+                "rent": 4800,
+                "area": 31,
+                "street": "nymånegatan",
+                "street_number": "19",
+                "city": "göteborg",
+                "zip": "41531",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "kortedala",
+                "last_accept": 220,
+                "$last_seen": "2023-04-26T11:42:00.456Z"
               },
               {
                 "id": 80494,
@@ -23629,6 +23673,20 @@
                 "$districtName": "härlanda",
                 "last_accept": 1477,
                 "$last_seen": "2023-01-24T11:37:21.057Z"
+              },
+              {
+                "id": 80640,
+                "rent": 5300,
+                "area": 36,
+                "street": "ernst torulfsgatan",
+                "street_number": "14e",
+                "city": "göteborg",
+                "zip": "41673",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "härlanda",
+                "last_accept": 1385,
+                "$last_seen": "2023-04-26T11:42:00.456Z"
               }
             ],
             "råstensgatan": [
@@ -36615,6 +36673,20 @@
                 "$districtName": "haga",
                 "last_accept": 1563,
                 "$last_seen": "2023-04-19T09:41:25.197Z"
+              },
+              {
+                "id": 81684,
+                "rent": 11134,
+                "area": 75,
+                "street": "nilssonsberg",
+                "street_number": "32",
+                "city": "göteborg ",
+                "zip": "41143",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "haga",
+                "last_accept": 1569,
+                "$last_seen": "2023-04-26T11:42:00.456Z"
               }
             ]
           },
@@ -37820,6 +37892,54 @@
               }
             ]
           },
+          "malmö sankt pauli": {
+            "kommendörsgatan": [
+              {
+                "id": 77406,
+                "rent": 6249,
+                "area": 62,
+                "street": "kommendörsgatan",
+                "street_number": "7 b",
+                "city": "malmö",
+                "zip": "21150",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "malmö sankt pauli",
+                "last_accept": 1570,
+                "$last_seen": "2023-04-26T11:42:00.456Z"
+              }
+            ],
+            "ö.förstadsgatan": [
+              {
+                "id": 79030,
+                "rent": 8778,
+                "area": 62,
+                "street": "ö.förstadsgatan",
+                "street_number": "4",
+                "city": "malmö",
+                "zip": "21131",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "malmö sankt pauli",
+                "last_accept": 455,
+                "$last_seen": "2023-04-12T07:40:20.350Z"
+              },
+              {
+                "id": 80252,
+                "rent": 9366,
+                "area": 67,
+                "street": "ö.förstadsgatan",
+                "street_number": "4",
+                "city": "malmö",
+                "zip": "21131",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "malmö sankt pauli",
+                "last_accept": 0,
+                "$last_seen": "2023-04-12T07:40:20.350Z"
+              }
+            ]
+          },
           "hyllie": {
             "hålsjögatan": [
               {
@@ -37971,6 +38091,20 @@
                 "$last_seen": "2023-04-21T11:40:13.834Z"
               },
               {
+                "id": 79123,
+                "rent": 10551,
+                "area": 90,
+                "street": "ramels väg",
+                "street_number": "115",
+                "city": "malmö",
+                "zip": "21369",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "västra skrävlinge",
+                "last_accept": 0,
+                "$last_seen": "2023-04-26T11:42:00.456Z"
+              },
+              {
                 "id": 79124,
                 "rent": 10078,
                 "area": 90,
@@ -37983,6 +38117,20 @@
                 "$districtName": "västra skrävlinge",
                 "last_accept": 0,
                 "$last_seen": "2023-04-24T11:40:42.753Z"
+              },
+              {
+                "id": 79125,
+                "rent": 10538,
+                "area": 90,
+                "street": "ramels väg",
+                "street_number": "135",
+                "city": "malmö",
+                "zip": "21369",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "västra skrävlinge",
+                "last_accept": 0,
+                "$last_seen": "2023-04-26T11:42:00.456Z"
               },
               {
                 "id": 79890,
@@ -38057,38 +38205,6 @@
                 "$districtName": "malmö sankt johannes",
                 "last_accept": 1407,
                 "$last_seen": "2023-04-24T08:46:30.859Z"
-              }
-            ]
-          },
-          "malmö sankt pauli": {
-            "ö.förstadsgatan": [
-              {
-                "id": 79030,
-                "rent": 8778,
-                "area": 62,
-                "street": "ö.förstadsgatan",
-                "street_number": "4",
-                "city": "malmö",
-                "zip": "21131",
-                "municipality": "malmö",
-                "county": "skåne län",
-                "$districtName": "malmö sankt pauli",
-                "last_accept": 455,
-                "$last_seen": "2023-04-12T07:40:20.350Z"
-              },
-              {
-                "id": 80252,
-                "rent": 9366,
-                "area": 67,
-                "street": "ö.förstadsgatan",
-                "street_number": "4",
-                "city": "malmö",
-                "zip": "21131",
-                "municipality": "malmö",
-                "county": "skåne län",
-                "$districtName": "malmö sankt pauli",
-                "last_accept": 0,
-                "$last_seen": "2023-04-12T07:40:20.350Z"
               }
             ]
           },
