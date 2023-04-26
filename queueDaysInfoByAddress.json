@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-04-26T07:41:30.808Z",
+  "lastUpdatedAt": "2023-04-26T08:46:52.440Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -35407,6 +35407,20 @@
                 "$districtName": "tuve",
                 "last_accept": 207,
                 "$last_seen": "2023-02-23T11:37:29.932Z"
+              },
+              {
+                "id": 78706,
+                "rent": 7404,
+                "area": 35,
+                "street": "finlandsvägen",
+                "street_number": "51",
+                "city": "göteborg",
+                "zip": "41747",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tuve",
+                "last_accept": 44,
+                "$last_seen": "2023-04-26T07:41:30.808Z"
               }
             ],
             "fruktträdsgatan": [
@@ -38008,20 +38022,6 @@
                 "county": "skåne län",
                 "$districtName": "möllevången",
                 "last_accept": 891,
-                "$last_seen": "2023-04-21T11:40:13.834Z"
-              },
-              {
-                "id": 79955,
-                "rent": 9298,
-                "area": 87,
-                "street": "upplandsgatan",
-                "street_number": "5 b",
-                "city": "malmö",
-                "zip": "21429",
-                "municipality": "malmö",
-                "county": "skåne län",
-                "$districtName": "möllevången",
-                "last_accept": 52,
                 "$last_seen": "2023-04-21T11:40:13.834Z"
               }
             ]
