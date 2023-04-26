@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-04-26T13:44:40.171Z",
+  "lastUpdatedAt": "2023-04-26T14:43:48.292Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -16171,6 +16171,20 @@
                 "$last_seen": "2023-04-24T07:40:59.656Z"
               },
               {
+                "id": 79874,
+                "rent": 6327,
+                "area": 38,
+                "street": "smörslätten",
+                "street_number": "8",
+                "city": "göteborg",
+                "zip": "41677",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "björkekärr",
+                "last_accept": 1085,
+                "$last_seen": "2023-04-26T13:44:40.171Z"
+              },
+              {
                 "id": 80511,
                 "rent": 5130,
                 "area": 22,
@@ -26019,6 +26033,20 @@
                 "$districtName": "örgryte",
                 "last_accept": 1553,
                 "$last_seen": "2023-04-25T10:45:11.314Z"
+              },
+              {
+                "id": 81535,
+                "rent": 15120,
+                "area": 116,
+                "street": "prästgårdsängen",
+                "street_number": "12",
+                "city": "göteborg",
+                "zip": "41271",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1254,
+                "$last_seen": "2023-04-26T13:44:40.171Z"
               }
             ],
             "karlfeldtsgatan": [
@@ -27447,6 +27475,20 @@
                 "$districtName": "örgryte",
                 "last_accept": 579,
                 "$last_seen": "2023-03-30T11:37:21.109Z"
+              },
+              {
+                "id": 79165,
+                "rent": 7410,
+                "area": 35,
+                "street": "filmjölksgatan",
+                "street_number": "6",
+                "city": "göteborg",
+                "zip": "41278",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1097,
+                "$last_seen": "2023-04-26T13:44:40.171Z"
               }
             ],
             "jättegrytsgatan": [
@@ -37873,6 +37915,22 @@
                 "$districtName": "kirseberg",
                 "last_accept": 0,
                 "$last_seen": "2023-04-20T11:40:14.224Z"
+              }
+            ],
+            "dalhemsgtan": [
+              {
+                "id": 79544,
+                "rent": 7314,
+                "area": 48,
+                "street": "dalhemsgtan",
+                "street_number": "2b",
+                "city": "malmö",
+                "zip": "21224",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "kirseberg",
+                "last_accept": 8,
+                "$last_seen": "2023-04-26T13:44:40.171Z"
               }
             ],
             "rosendalsvägen": [
