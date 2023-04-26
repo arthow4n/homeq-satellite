@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-04-26T10:46:11.451Z",
+  "lastUpdatedAt": "2023-04-26T11:42:00.456Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -30575,6 +30575,20 @@
                 "$districtName": "göteborgs vasa",
                 "last_accept": 1531,
                 "$last_seen": "2023-03-20T13:44:16.825Z"
+              },
+              {
+                "id": 80349,
+                "rent": 14800,
+                "area": 83,
+                "street": "södra vägen",
+                "street_number": "4",
+                "city": "göteborg",
+                "zip": "41254",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs vasa",
+                "last_accept": 1567,
+                "$last_seen": "2023-04-26T10:46:11.451Z"
               }
             ],
             "kapellgatan": [
@@ -37651,6 +37665,20 @@
                 "$districtName": "kirseberg",
                 "last_accept": 390,
                 "$last_seen": "2023-04-04T05:39:31.168Z"
+              },
+              {
+                "id": 80268,
+                "rent": 10640,
+                "area": 68.4,
+                "street": "vattenverksvägen",
+                "street_number": "4",
+                "city": "malmö",
+                "zip": "21221",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "kirseberg",
+                "last_accept": 148,
+                "$last_seen": "2023-04-26T10:46:11.451Z"
               }
             ],
             "segeparksgatan": [
