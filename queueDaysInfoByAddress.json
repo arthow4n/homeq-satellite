@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-04-27T09:42:24.275Z",
+  "lastUpdatedAt": "2023-04-27T11:03:21.699Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -35137,6 +35137,34 @@
                 "$last_seen": "2023-04-25T07:40:19.187Z"
               },
               {
+                "id": 80690,
+                "rent": 10477,
+                "area": 83,
+                "street": "långströmsgatan",
+                "street_number": "50b",
+                "city": "göteborg",
+                "zip": "41870",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "biskopsgården",
+                "last_accept": 751,
+                "$last_seen": "2023-04-27T09:42:24.275Z"
+              },
+              {
+                "id": 81173,
+                "rent": 6454,
+                "area": 43,
+                "street": "långströmsgatan",
+                "street_number": "19c",
+                "city": "göteborg",
+                "zip": "41870",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "biskopsgården",
+                "last_accept": 1142,
+                "$last_seen": "2023-04-27T09:42:24.275Z"
+              },
+              {
                 "id": 81177,
                 "rent": 10472,
                 "area": 84,
@@ -35149,6 +35177,20 @@
                 "$districtName": "biskopsgården",
                 "last_accept": 1451,
                 "$last_seen": "2023-04-25T07:40:19.187Z"
+              },
+              {
+                "id": 81181,
+                "rent": 10470,
+                "area": 83,
+                "street": "långströmsgatan",
+                "street_number": "46b",
+                "city": "göteborg",
+                "zip": "41870",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "biskopsgården",
+                "last_accept": 574,
+                "$last_seen": "2023-04-27T09:42:24.275Z"
               }
             ],
             "lufttrycksgatan": [
@@ -35443,6 +35485,20 @@
                 "$districtName": "tuve",
                 "last_accept": 370,
                 "$last_seen": "2023-03-08T13:03:17.498Z"
+              },
+              {
+                "id": 78695,
+                "rent": 8467,
+                "area": 45.2,
+                "street": "herman anderssons väg",
+                "street_number": "4",
+                "city": "göteborg",
+                "zip": "41747",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tuve",
+                "last_accept": 395,
+                "$last_seen": "2023-04-27T09:42:24.275Z"
               },
               {
                 "id": 78722,
