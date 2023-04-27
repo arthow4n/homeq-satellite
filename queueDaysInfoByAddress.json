@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-04-27T11:03:21.699Z",
+  "lastUpdatedAt": "2023-04-27T12:03:49.134Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -12223,6 +12223,20 @@
                 "$districtName": "lundby",
                 "last_accept": 1346,
                 "$last_seen": "2023-02-24T07:37:25.076Z"
+              },
+              {
+                "id": 80632,
+                "rent": 5512,
+                "area": 35,
+                "street": "prebendegatan",
+                "street_number": "32 a",
+                "city": "göteborg",
+                "zip": "41877",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 0,
+                "$last_seen": "2023-04-27T11:03:21.699Z"
               }
             ],
             "hullgatan": [
@@ -26653,6 +26667,20 @@
                 "$districtName": "örgryte",
                 "last_accept": 655,
                 "$last_seen": "2023-04-03T13:40:08.311Z"
+              },
+              {
+                "id": 80718,
+                "rent": 7741,
+                "area": 35,
+                "street": "smörkärnegatan",
+                "street_number": "21",
+                "city": "göteborg",
+                "zip": "41278",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1050,
+                "$last_seen": "2023-04-27T11:03:21.699Z"
               }
             ],
             "tändsticksgatan": [
