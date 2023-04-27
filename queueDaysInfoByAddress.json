@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-04-27T13:02:32.712Z",
+  "lastUpdatedAt": "2023-04-27T13:49:03.126Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -11339,6 +11339,34 @@
                 "$districtName": "lundby",
                 "last_accept": 1183,
                 "$last_seen": "2023-04-17T16:51:05.869Z"
+              },
+              {
+                "id": 81195,
+                "rent": 8601,
+                "area": 57,
+                "street": "fyrklöversgatan",
+                "street_number": "2",
+                "city": "göteborg",
+                "zip": "41721",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 995,
+                "$last_seen": "2023-04-27T13:02:32.712Z"
+              },
+              {
+                "id": 81216,
+                "rent": 9878,
+                "area": 55,
+                "street": "fyrklöversgatan",
+                "street_number": "19",
+                "city": "göteborg",
+                "zip": "41725",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 221,
+                "$last_seen": "2023-04-27T13:02:32.712Z"
               }
             ],
             "arvid lindmansgatan": [
@@ -25281,6 +25309,20 @@
                 "$districtName": "göteborgs domkyrkodistrikt",
                 "last_accept": 582,
                 "$last_seen": "2023-04-11T08:45:40.895Z"
+              },
+              {
+                "id": 79395,
+                "rent": 9923,
+                "area": 91,
+                "street": "odinsgatan",
+                "street_number": "19",
+                "city": "göteborg",
+                "zip": "41103",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs domkyrkodistrikt",
+                "last_accept": 1569,
+                "$last_seen": "2023-04-27T13:02:32.712Z"
               }
             ],
             "haga kyrkogata": [
@@ -32873,6 +32915,20 @@
                 "$districtName": "masthugget",
                 "last_accept": 1322,
                 "$last_seen": "2023-04-11T13:43:09.812Z"
+              },
+              {
+                "id": 79917,
+                "rent": 10220,
+                "area": 55,
+                "street": "kolumbusgatan",
+                "street_number": "5",
+                "city": "göteborg",
+                "zip": "41465",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "masthugget",
+                "last_accept": 1285,
+                "$last_seen": "2023-04-27T13:02:32.712Z"
               }
             ],
             "stenklevsgatan": [
@@ -38288,6 +38344,22 @@
                 "last_accept": 43,
                 "$last_seen": "2023-04-13T09:40:44.537Z"
               }
+            ],
+            "allétorget": [
+              {
+                "id": 79088,
+                "rent": 12086,
+                "area": 73,
+                "street": "allétorget",
+                "street_number": "9",
+                "city": "malmö",
+                "zip": "21534",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "hyllie",
+                "last_accept": 170,
+                "$last_seen": "2023-04-27T13:02:32.712Z"
+              }
             ]
           },
           "västra skrävlinge": {
@@ -38661,20 +38733,6 @@
                 "$last_seen": "2023-03-31T11:36:51.392Z"
               },
               {
-                "id": 79531,
-                "rent": 11753,
-                "area": 71,
-                "street": "högatan",
-                "street_number": "10 d",
-                "city": "limhamn",
-                "zip": "21633",
-                "municipality": "malmö",
-                "county": "skåne län",
-                "$districtName": "limhamn",
-                "last_accept": 0,
-                "$last_seen": "2023-04-27T06:47:40.119Z"
-              },
-              {
                 "id": 80530,
                 "rent": 8326,
                 "area": 42,
@@ -39017,6 +39075,22 @@
                 "$districtName": "vantör",
                 "last_accept": 1559,
                 "$last_seen": "2023-04-26T09:42:05.314Z"
+              }
+            ],
+            "kilsmogatan": [
+              {
+                "id": 81202,
+                "rent": 7197,
+                "area": 45,
+                "street": "kilsmogatan",
+                "street_number": "7",
+                "city": "bandhagen",
+                "zip": "12470",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 1511,
+                "$last_seen": "2023-04-27T13:02:32.712Z"
               }
             ]
           }
