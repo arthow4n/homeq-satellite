@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-04-27T12:03:49.134Z",
+  "lastUpdatedAt": "2023-04-27T13:02:32.712Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -32589,6 +32589,20 @@
                 "$districtName": "masthugget",
                 "last_accept": 1486,
                 "$last_seen": "2023-04-24T11:40:42.753Z"
+              },
+              {
+                "id": 81197,
+                "rent": 13831,
+                "area": 106,
+                "street": "bangatan",
+                "street_number": "39",
+                "city": "göteborg",
+                "zip": "41463",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "masthugget",
+                "last_accept": 1412,
+                "$last_seen": "2023-04-27T12:03:49.134Z"
               }
             ],
             "amiralitetsgatan": [
@@ -36601,6 +36615,20 @@
                 "$districtName": "gunnared",
                 "last_accept": 652,
                 "$last_seen": "2023-04-11T11:40:32.193Z"
+              },
+              {
+                "id": 81044,
+                "rent": 5530,
+                "area": 38,
+                "street": "lagerbladsgatan",
+                "street_number": "2",
+                "city": "göteborg",
+                "zip": "42440",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "gunnared",
+                "last_accept": 708,
+                "$last_seen": "2023-04-27T12:03:49.134Z"
               }
             ],
             "gårdstensvägen": [
@@ -38895,6 +38923,20 @@
                 "$districtName": "vantör",
                 "last_accept": 1685,
                 "$last_seen": "2023-04-13T09:40:44.537Z"
+              },
+              {
+                "id": 79672,
+                "rent": 7830,
+                "area": 68,
+                "street": "glanshammarsgatan",
+                "street_number": "56",
+                "city": "bandhagen",
+                "zip": "12471",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 1051,
+                "$last_seen": "2023-04-27T12:03:49.134Z"
               }
             ],
             "bäverbäcksgränd": [
