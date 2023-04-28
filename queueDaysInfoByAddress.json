@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-04-28T05:42:30.673Z",
+  "lastUpdatedAt": "2023-04-28T06:46:47.810Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -29653,6 +29653,20 @@
                 "$districtName": "annedal",
                 "last_accept": 1535,
                 "$last_seen": "2023-04-21T09:40:27.558Z"
+              },
+              {
+                "id": 81355,
+                "rent": 8665,
+                "area": 58,
+                "street": "västergatan",
+                "street_number": "13",
+                "city": "göteborg",
+                "zip": "41313",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "annedal",
+                "last_accept": 1565,
+                "$last_seen": "2023-04-28T05:42:30.673Z"
               },
               {
                 "id": 81375,
