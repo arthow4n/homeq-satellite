@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-04-28T10:43:52.502Z",
+  "lastUpdatedAt": "2023-04-28T11:39:55.881Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -29243,6 +29243,20 @@
                 "$districtName": "annedal",
                 "last_accept": 1571,
                 "$last_seen": "2023-04-28T08:45:36.649Z"
+              },
+              {
+                "id": 81371,
+                "rent": 8742,
+                "area": 61,
+                "street": "övre husargatan",
+                "street_number": "10",
+                "city": "göteborg",
+                "zip": "41314",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "annedal",
+                "last_accept": 1571,
+                "$last_seen": "2023-04-28T10:43:52.502Z"
               }
             ],
             "carl grimbergsgatan": [
@@ -38269,6 +38283,20 @@
                 "$districtName": "malmö sankt petri",
                 "last_accept": 1500,
                 "$last_seen": "2023-04-12T10:44:22.720Z"
+              },
+              {
+                "id": 77400,
+                "rent": 7711,
+                "area": 60,
+                "street": "banérsgatan",
+                "street_number": "10 b",
+                "city": "malmö",
+                "zip": "21148",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "malmö sankt petri",
+                "last_accept": 1200,
+                "$last_seen": "2023-04-28T10:43:52.502Z"
               }
             ],
             "norregatan": [
@@ -39501,6 +39529,22 @@
                 "$districtName": "vantör",
                 "last_accept": 1559,
                 "$last_seen": "2023-04-26T09:42:05.314Z"
+              }
+            ],
+            "bäverdammsgränd": [
+              {
+                "id": 81155,
+                "rent": 10185,
+                "area": 81,
+                "street": "bäverdammsgränd",
+                "street_number": "129",
+                "city": "bandhagen",
+                "zip": "12463",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 701,
+                "$last_seen": "2023-04-28T10:43:52.502Z"
               }
             ],
             "kilsmogatan": [
