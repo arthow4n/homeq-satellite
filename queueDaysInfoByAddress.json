@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-05-02T14:42:22.229Z",
+  "lastUpdatedAt": "2023-05-02T15:42:34.770Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -1997,6 +1997,20 @@
                 "$districtName": "fässberg",
                 "last_accept": 1533,
                 "$last_seen": "2023-05-02T07:40:09.119Z"
+              },
+              {
+                "id": 80633,
+                "rent": 7689,
+                "area": 41,
+                "street": "åby allé",
+                "street_number": "55",
+                "city": "göteborg",
+                "zip": "43145",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 1205,
+                "$last_seen": "2023-05-02T14:42:22.229Z"
               }
             ],
             "åbyvägen": [
@@ -38733,6 +38747,20 @@
                 "$districtName": "malmö sankt petri",
                 "last_accept": 72,
                 "$last_seen": "2023-04-14T08:46:22.029Z"
+              },
+              {
+                "id": 77370,
+                "rent": 12816,
+                "area": 90,
+                "street": "östergatan",
+                "street_number": "15 b",
+                "city": "malmö",
+                "zip": "21125",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "malmö sankt petri",
+                "last_accept": 146,
+                "$last_seen": "2023-05-02T14:42:22.229Z"
               }
             ],
             "banérsgatan": [
