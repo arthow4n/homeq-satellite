@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-05-02T06:45:34.336Z",
+  "lastUpdatedAt": "2023-05-02T07:40:09.119Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -7731,6 +7731,20 @@
                 "$districtName": "högsbo",
                 "last_accept": 965,
                 "$last_seen": "2023-04-28T07:41:22.543Z"
+              },
+              {
+                "id": 81345,
+                "rent": 5585,
+                "area": 31,
+                "street": "marklandsgatan",
+                "street_number": "35",
+                "city": "göteborg",
+                "zip": "41477",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 1119,
+                "$last_seen": "2023-05-02T06:45:34.336Z"
               },
               {
                 "id": 81346,
@@ -19351,6 +19365,20 @@
                 "$districtName": "askim",
                 "last_accept": 647,
                 "$last_seen": "2023-03-15T10:43:34.165Z"
+              },
+              {
+                "id": 81570,
+                "rent": 11152,
+                "area": 75,
+                "street": "nergårdsvägen",
+                "street_number": "61",
+                "city": "göteborg",
+                "zip": "43636",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 694,
+                "$last_seen": "2023-05-02T06:45:34.336Z"
               }
             ],
             "hyltegården": [
@@ -37919,6 +37947,20 @@
             ],
             "tigerstigen": [
               {
+                "id": 80728,
+                "rent": 10180,
+                "area": 77,
+                "street": "tigerstigen",
+                "street_number": "29",
+                "city": "västra frölunda ",
+                "zip": "42672",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "älvsborg",
+                "last_accept": 1352,
+                "$last_seen": "2023-05-02T06:45:34.336Z"
+              },
+              {
                 "id": 81066,
                 "rent": 9146,
                 "area": 54,
@@ -39517,6 +39559,20 @@
                 "$districtName": "vantör",
                 "last_accept": 1512,
                 "$last_seen": "2023-04-03T11:37:18.151Z"
+              },
+              {
+                "id": 79671,
+                "rent": 8341,
+                "area": 59,
+                "street": "åmmebergsgatan",
+                "street_number": "13",
+                "city": "bandhagen",
+                "zip": "12470",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 1575,
+                "$last_seen": "2023-05-02T06:45:34.336Z"
               }
             ],
             "olshammarsgatan": [
