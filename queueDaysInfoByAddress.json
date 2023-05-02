@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-05-02T05:41:55.223Z",
+  "lastUpdatedAt": "2023-05-02T06:45:34.336Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -11831,6 +11831,20 @@
                 "$districtName": "lundby",
                 "last_accept": 1420,
                 "$last_seen": "2023-04-18T05:43:13.269Z"
+              },
+              {
+                "id": 80375,
+                "rent": 6549,
+                "area": 54,
+                "street": "arvid lindmansgatan",
+                "street_number": "10 b",
+                "city": "göteborg",
+                "zip": "41726",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1485,
+                "$last_seen": "2023-05-02T05:41:55.223Z"
               }
             ],
             "estlandsgatan": [
@@ -37683,6 +37697,20 @@
                 "$districtName": "tynnered",
                 "last_accept": 879,
                 "$last_seen": "2023-04-03T11:37:18.151Z"
+              },
+              {
+                "id": 78404,
+                "rent": 10276,
+                "area": 61,
+                "street": "smaragdgatan",
+                "street_number": "10 b",
+                "city": "västra frölunda",
+                "zip": "42149",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tynnered",
+                "last_accept": 0,
+                "$last_seen": "2023-05-02T05:41:55.223Z"
               }
             ],
             "smyckegatan": [
