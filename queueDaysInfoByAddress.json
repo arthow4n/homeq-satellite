@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-05-03T13:41:43.910Z",
+  "lastUpdatedAt": "2023-05-03T14:42:14.603Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -26188,6 +26188,22 @@
                 "last_accept": 1552,
                 "$last_seen": "2023-03-30T08:44:22.705Z"
               }
+            ],
+            "vasagatan": [
+              {
+                "id": 80486,
+                "rent": 13640,
+                "area": 100,
+                "street": "vasagatan",
+                "street_number": "34c",
+                "city": "göteborg",
+                "zip": "41124",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs domkyrkodistrikt",
+                "last_accept": 1576,
+                "$last_seen": "2023-05-03T13:41:43.910Z"
+              }
             ]
           },
           "örgryte": {
@@ -31005,6 +31021,20 @@
                 "$districtName": "göteborgs vasa",
                 "last_accept": 1533,
                 "$last_seen": "2023-04-19T06:46:50.705Z"
+              },
+              {
+                "id": 81380,
+                "rent": 12105,
+                "area": 78,
+                "street": "karl gustavsgatan",
+                "street_number": "65",
+                "city": "göteborg",
+                "zip": "41131",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs vasa",
+                "last_accept": 1576,
+                "$last_seen": "2023-05-03T13:41:43.910Z"
               }
             ],
             "mölndalsvägen": [
@@ -32901,6 +32931,20 @@
                 "$districtName": "göteborgs oscar fredrik",
                 "last_accept": 1137,
                 "$last_seen": "2023-04-27T14:44:44.527Z"
+              },
+              {
+                "id": 81996,
+                "rent": 7070,
+                "area": 38,
+                "street": "jungmansgatan",
+                "street_number": "31c",
+                "city": "göteborg",
+                "zip": "41315",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs oscar fredrik",
+                "last_accept": 1487,
+                "$last_seen": "2023-05-03T13:41:43.910Z"
               }
             ],
             "gubbe lars väg": [
@@ -40151,6 +40195,20 @@
                 "$districtName": "limhamn",
                 "last_accept": 135,
                 "$last_seen": "2023-04-13T13:47:26.467Z"
+              },
+              {
+                "id": 81930,
+                "rent": 4389,
+                "area": 23,
+                "street": "hylliekyrkoväg",
+                "street_number": "57b",
+                "city": "limhamn",
+                "zip": "21616",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "limhamn",
+                "last_accept": 0,
+                "$last_seen": "2023-05-03T13:41:43.910Z"
               }
             ],
             "grönalundsgatan": [
