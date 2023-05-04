@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-05-04T08:45:11.207Z",
+  "lastUpdatedAt": "2023-05-04T09:40:41.839Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -10333,6 +10333,20 @@
                 "$districtName": "lundby",
                 "last_accept": 527,
                 "$last_seen": "2022-12-15T13:44:22.699Z"
+              },
+              {
+                "id": 80681,
+                "rent": 7740,
+                "area": 34,
+                "street": "hjalmar brantingsgatan",
+                "street_number": "104",
+                "city": "göteborg",
+                "zip": "41711",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 546,
+                "$last_seen": "2023-05-04T08:45:11.207Z"
               }
             ],
             "rosenapelgatan": [
@@ -19705,20 +19719,6 @@
                 "$districtName": "askim",
                 "last_accept": 647,
                 "$last_seen": "2023-03-15T10:43:34.165Z"
-              },
-              {
-                "id": 81148,
-                "rent": 5467,
-                "area": 34,
-                "street": "nergårdsvägen",
-                "street_number": "29",
-                "city": "göteborg",
-                "zip": "43636",
-                "municipality": "göteborg",
-                "county": "västra götalands län",
-                "$districtName": "askim",
-                "last_accept": 1030,
-                "$last_seen": "2023-05-03T09:40:16.898Z"
               },
               {
                 "id": 81570,
@@ -35097,6 +35097,20 @@
                 "$districtName": "biskopsgården",
                 "last_accept": 1134,
                 "$last_seen": "2023-03-30T08:44:22.705Z"
+              },
+              {
+                "id": 81370,
+                "rent": 7162,
+                "area": 64,
+                "street": "temperaturgatan",
+                "street_number": "61",
+                "city": "göteborg",
+                "zip": "41841",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "biskopsgården",
+                "last_accept": 265,
+                "$last_seen": "2023-05-04T08:45:11.207Z"
               }
             ],
             "solstrålegatan": [
@@ -38277,6 +38291,20 @@
                 "$districtName": "brunnsbo",
                 "last_accept": 1164,
                 "$last_seen": "2023-03-31T08:43:23.018Z"
+              },
+              {
+                "id": 81573,
+                "rent": 6870,
+                "area": 60,
+                "street": "klassikergatan",
+                "street_number": "17",
+                "city": "hisings backa",
+                "zip": "42241",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brunnsbo",
+                "last_accept": 1396,
+                "$last_seen": "2023-05-04T08:45:11.207Z"
               }
             ],
             "prologgatan": [
