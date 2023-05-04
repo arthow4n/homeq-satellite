@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-05-04T11:40:35.853Z",
+  "lastUpdatedAt": "2023-05-04T13:00:59.581Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -11833,6 +11833,20 @@
                 "$districtName": "lundby",
                 "last_accept": 221,
                 "$last_seen": "2023-04-27T13:02:32.712Z"
+              },
+              {
+                "id": 81569,
+                "rent": 11326,
+                "area": 65,
+                "street": "fyrklöversgatan",
+                "street_number": "17",
+                "city": "göteborg",
+                "zip": "41725",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 376,
+                "$last_seen": "2023-05-04T11:40:35.853Z"
               }
             ],
             "arvid lindmansgatan": [
@@ -18051,6 +18065,20 @@
                 "$districtName": "kortedala",
                 "last_accept": 1287,
                 "$last_seen": "2023-05-03T09:40:16.898Z"
+              },
+              {
+                "id": 82239,
+                "rent": 12405,
+                "area": 118,
+                "street": "solvarvsgatan",
+                "street_number": "40",
+                "city": "göteborg",
+                "zip": "41531",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "kortedala",
+                "last_accept": 1180,
+                "$last_seen": "2023-05-04T11:40:35.853Z"
               }
             ],
             "solståndsgatan": [
@@ -24355,6 +24383,20 @@
                 "$districtName": "härlanda",
                 "last_accept": 1557,
                 "$last_seen": "2023-04-20T14:41:51.689Z"
+              },
+              {
+                "id": 81537,
+                "rent": 6900,
+                "area": 49,
+                "street": "intagsgatan",
+                "street_number": "5 a",
+                "city": "göteborg",
+                "zip": "41651",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "härlanda",
+                "last_accept": 1566,
+                "$last_seen": "2023-05-04T11:40:35.853Z"
               }
             ],
             "qvidingsgatan": [
@@ -28351,6 +28393,20 @@
                 "$districtName": "örgryte",
                 "last_accept": 1097,
                 "$last_seen": "2023-04-26T13:44:40.171Z"
+              },
+              {
+                "id": 80707,
+                "rent": 9440,
+                "area": 48,
+                "street": "filmjölksgatan",
+                "street_number": "6",
+                "city": "göteborg",
+                "zip": "41278",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1093,
+                "$last_seen": "2023-05-04T11:40:35.853Z"
               }
             ],
             "jättegrytsgatan": [
