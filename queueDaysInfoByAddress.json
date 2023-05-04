@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-05-04T07:40:20.939Z",
+  "lastUpdatedAt": "2023-05-04T08:45:11.207Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -7535,6 +7535,20 @@
                 "$districtName": "högsbo",
                 "last_accept": 829,
                 "$last_seen": "2023-04-27T13:49:03.126Z"
+              },
+              {
+                "id": 81555,
+                "rent": 10372,
+                "area": 83,
+                "street": "pennygången",
+                "street_number": "15",
+                "city": "göteborg",
+                "zip": "41482",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 526,
+                "$last_seen": "2023-05-04T07:40:20.939Z"
               },
               {
                 "id": 81557,
@@ -22543,20 +22557,6 @@
                 "$last_seen": "2023-04-19T07:40:41.921Z"
               },
               {
-                "id": 80807,
-                "rent": 7739,
-                "area": 65,
-                "street": "atmosfärgatan",
-                "street_number": "29",
-                "city": "göteborg",
-                "zip": "41561",
-                "municipality": "göteborg",
-                "county": "västra götalands län",
-                "$districtName": "bergsjön",
-                "last_accept": 555,
-                "$last_seen": "2023-04-20T06:46:36.979Z"
-              },
-              {
                 "id": 80825,
                 "rent": 5639,
                 "area": 65,
@@ -23451,6 +23451,20 @@
                 "$districtName": "nylöse",
                 "last_accept": 699,
                 "$last_seen": "2023-04-05T11:38:47.227Z"
+              },
+              {
+                "id": 79390,
+                "rent": 8995,
+                "area": 64.8,
+                "street": "sysslomansgatan",
+                "street_number": "38",
+                "city": "göteborg",
+                "zip": "41574",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "nylöse",
+                "last_accept": 0,
+                "$last_seen": "2023-05-04T07:40:20.939Z"
               }
             ],
             "hinderbanan": [
@@ -36829,6 +36843,20 @@
                 "$districtName": "tuve",
                 "last_accept": 324,
                 "$last_seen": "2023-02-06T11:36:01.507Z"
+              },
+              {
+                "id": 78704,
+                "rent": 9249,
+                "area": 57,
+                "street": "arves marias väg",
+                "street_number": "10",
+                "city": "göteborg",
+                "zip": "41747",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tuve",
+                "last_accept": 0,
+                "$last_seen": "2023-05-04T07:40:20.939Z"
               }
             ],
             "finlandsvägen": [
