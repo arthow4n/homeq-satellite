@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-05-04T06:45:26.011Z",
+  "lastUpdatedAt": "2023-05-04T07:40:20.939Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -3729,6 +3729,20 @@
                 "$last_seen": "2023-04-24T10:45:40.601Z"
               },
               {
+                "id": 80245,
+                "rent": 9021,
+                "area": 44,
+                "street": "ebbe lieberathsgatan",
+                "street_number": "20 c",
+                "city": "göteborg",
+                "zip": "41265",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1286,
+                "$last_seen": "2023-05-04T06:45:26.011Z"
+              },
+              {
                 "id": 80627,
                 "rent": 8178,
                 "area": 39,
@@ -5149,6 +5163,20 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1576,
                 "$last_seen": "2023-03-23T13:44:37.031Z"
+              },
+              {
+                "id": 81534,
+                "rent": 8165,
+                "area": 66,
+                "street": "övre besvärsgatan",
+                "street_number": "1",
+                "city": "göteborg",
+                "zip": "41129",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1492,
+                "$last_seen": "2023-05-04T06:45:26.011Z"
               }
             ],
             "utlandagatan": [
@@ -38083,6 +38111,20 @@
                 "$last_seen": "2023-04-19T09:41:25.197Z"
               },
               {
+                "id": 81529,
+                "rent": 7625,
+                "area": 47,
+                "street": "nilssonsberg",
+                "street_number": "27",
+                "city": "göteborg ",
+                "zip": "41143",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "haga",
+                "last_accept": 1424,
+                "$last_seen": "2023-05-04T06:45:26.011Z"
+              },
+              {
                 "id": 81684,
                 "rent": 11134,
                 "area": 75,
@@ -39515,6 +39557,20 @@
                 "$districtName": "kirseberg",
                 "last_accept": 0,
                 "$last_seen": "2023-04-20T11:40:14.224Z"
+              },
+              {
+                "id": 81135,
+                "rent": 9210,
+                "area": 66,
+                "street": "gerlachsgatan",
+                "street_number": "2 b",
+                "city": "malmö",
+                "zip": "21219",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "kirseberg",
+                "last_accept": 0,
+                "$last_seen": "2023-05-04T05:42:22.820Z"
               }
             ],
             "dalhemsgtan": [
