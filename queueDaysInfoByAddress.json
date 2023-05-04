@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-05-04T14:43:26.789Z",
+  "lastUpdatedAt": "2023-05-04T15:42:35.625Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -15151,6 +15151,20 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1506,
                 "$last_seen": "2023-04-05T13:08:44.500Z"
+              },
+              {
+                "id": 81074,
+                "rent": 8734,
+                "area": 59,
+                "street": "mäster johansgatan",
+                "street_number": "17",
+                "city": "göteborg",
+                "zip": "41662",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1577,
+                "$last_seen": "2023-05-04T14:43:26.789Z"
               },
               {
                 "id": 81373,
