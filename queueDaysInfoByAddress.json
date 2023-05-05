@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-05-05T07:41:05.948Z",
+  "lastUpdatedAt": "2023-05-05T08:44:35.436Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -5001,6 +5001,20 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1484,
                 "$last_seen": "2022-12-05T06:44:59.077Z"
+              },
+              {
+                "id": 81526,
+                "rent": 6974,
+                "area": 55,
+                "street": "framnäsgatan",
+                "street_number": "26c",
+                "city": "göteborg",
+                "zip": "41262",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1578,
+                "$last_seen": "2023-05-05T07:41:05.948Z"
               }
             ],
             "kristinehöjdsgatan": [
