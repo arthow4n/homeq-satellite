@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-05-05T06:46:17.664Z",
+  "lastUpdatedAt": "2023-05-05T07:41:05.948Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -10333,6 +10333,20 @@
                 "$districtName": "lundby",
                 "last_accept": 527,
                 "$last_seen": "2022-12-15T13:44:22.699Z"
+              },
+              {
+                "id": 80680,
+                "rent": 7146,
+                "area": 32,
+                "street": "hjalmar brantingsgatan",
+                "street_number": "104",
+                "city": "göteborg",
+                "zip": "41711",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 721,
+                "$last_seen": "2023-05-05T06:46:17.664Z"
               },
               {
                 "id": 80681,
@@ -28969,6 +28983,20 @@
                 "$districtName": "västra frölunda",
                 "last_accept": 878,
                 "$last_seen": "2023-02-23T13:04:18.256Z"
+              },
+              {
+                "id": 76368,
+                "rent": 6607,
+                "area": 35,
+                "street": "cymbalgatan",
+                "street_number": "1",
+                "city": "göteborg",
+                "zip": "42151",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "västra frölunda",
+                "last_accept": 676,
+                "$last_seen": "2023-05-05T06:46:17.664Z"
               }
             ],
             "transistorgatan": [
@@ -31817,6 +31845,20 @@
                 "$districtName": "göteborgs vasa",
                 "last_accept": 1531,
                 "$last_seen": "2023-03-20T13:44:16.825Z"
+              },
+              {
+                "id": 80314,
+                "rent": 9126,
+                "area": 54,
+                "street": "södra vägen",
+                "street_number": "29",
+                "city": "göteborg",
+                "zip": "41135",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs vasa",
+                "last_accept": 1597,
+                "$last_seen": "2023-05-05T05:42:36.229Z"
               },
               {
                 "id": 80349,
