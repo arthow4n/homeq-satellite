@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-05-07T17:41:41.175Z",
+  "lastUpdatedAt": "2023-05-07T18:43:39.736Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -39557,6 +39557,20 @@
                 "$districtName": "malmö sankt petri",
                 "last_accept": 1200,
                 "$last_seen": "2023-04-28T10:43:52.502Z"
+              },
+              {
+                "id": 81397,
+                "rent": 10957,
+                "area": 78,
+                "street": "banérsgatan",
+                "street_number": "4b",
+                "city": "malmö",
+                "zip": "21148",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "malmö sankt petri",
+                "last_accept": 1343,
+                "$last_seen": "2023-05-07T17:41:41.175Z"
               }
             ],
             "norregatan": [
