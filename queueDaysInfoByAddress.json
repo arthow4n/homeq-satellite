@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-05-08T10:45:28.348Z",
+  "lastUpdatedAt": "2023-05-08T11:41:02.596Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -10605,6 +10605,20 @@
                 "$districtName": "lundby",
                 "last_accept": 946,
                 "$last_seen": "2023-05-02T11:40:16.072Z"
+              },
+              {
+                "id": 81877,
+                "rent": 10613,
+                "area": 62.1,
+                "street": "trollhasselgatan",
+                "street_number": "28",
+                "city": "göteborg",
+                "zip": "41711",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 793,
+                "$last_seen": "2023-05-08T10:45:28.348Z"
               }
             ],
             "karl staaffsgatan": [
@@ -21601,6 +21615,20 @@
                 "$districtName": "bergsjön",
                 "last_accept": 441,
                 "$last_seen": "2023-04-24T06:47:28.300Z"
+              },
+              {
+                "id": 80495,
+                "rent": 5500,
+                "area": 44,
+                "street": "galileis gata",
+                "street_number": "29",
+                "city": "göteborg",
+                "zip": "41554",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bergsjön",
+                "last_accept": 1089,
+                "$last_seen": "2023-05-08T10:45:28.348Z"
               },
               {
                 "id": 81360,
@@ -40977,6 +41005,20 @@
                 "$districtName": "vantör",
                 "last_accept": 1685,
                 "$last_seen": "2023-04-13T09:40:44.537Z"
+              },
+              {
+                "id": 79666,
+                "rent": 9503,
+                "area": 76,
+                "street": "glanshammarsgatan",
+                "street_number": "59",
+                "city": "bandhagen",
+                "zip": "12471",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 1605,
+                "$last_seen": "2023-05-08T10:45:28.348Z"
               },
               {
                 "id": 79672,
