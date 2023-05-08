@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-05-08T11:41:02.596Z",
+  "lastUpdatedAt": "2023-05-08T13:01:40.032Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -1983,6 +1983,20 @@
                 "$districtName": "fässberg",
                 "last_accept": 858,
                 "$last_seen": "2023-03-17T09:38:19.375Z"
+              },
+              {
+                "id": 79884,
+                "rent": 9476,
+                "area": 44,
+                "street": "åby allé",
+                "street_number": "73",
+                "city": "göteborg",
+                "zip": "43145",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 1211,
+                "$last_seen": "2023-05-08T11:41:02.596Z"
               },
               {
                 "id": 80625,
@@ -16407,22 +16421,6 @@
                 "$last_seen": "2023-01-10T14:45:25.910Z"
               }
             ],
-            "scheelegatan": [
-              {
-                "id": 80004,
-                "rent": 8147,
-                "area": 51,
-                "street": "scheelegatan",
-                "street_number": "2",
-                "city": "göteborg",
-                "zip": "41660",
-                "municipality": "göteborg",
-                "county": "västra götalands län",
-                "$districtName": "göteborgs sankt pauli",
-                "last_accept": 1466,
-                "$last_seen": "2023-05-08T06:46:48.472Z"
-              }
-            ],
             "persgatan": [
               {
                 "id": 80077,
@@ -26755,6 +26753,20 @@
                 "$districtName": "örgryte",
                 "last_accept": 1372,
                 "$last_seen": "2023-03-30T09:40:12.549Z"
+              },
+              {
+                "id": 82511,
+                "rent": 7207,
+                "area": 35,
+                "street": "smörgatan",
+                "street_number": "1",
+                "city": "göteborg",
+                "zip": "41278",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 917,
+                "$last_seen": "2023-05-08T11:41:02.596Z"
               }
             ],
             "prästgårdsängen": [
@@ -36755,6 +36767,20 @@
                 "$districtName": "biskopsgården",
                 "last_accept": 574,
                 "$last_seen": "2023-04-27T09:42:24.275Z"
+              },
+              {
+                "id": 81783,
+                "rent": 10405,
+                "area": 83,
+                "street": "långströmsgatan",
+                "street_number": "12a",
+                "city": "göteborg",
+                "zip": "41870",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "biskopsgården",
+                "last_accept": 417,
+                "$last_seen": "2023-05-08T11:41:02.596Z"
               }
             ],
             "lufttrycksgatan": [
@@ -41145,6 +41171,36 @@
                 "$last_seen": "2023-04-26T09:42:05.314Z"
               }
             ],
+            "kilsmogatan": [
+              {
+                "id": 81134,
+                "rent": 7708,
+                "area": 53,
+                "street": "kilsmogatan",
+                "street_number": "21",
+                "city": "bandhagen",
+                "zip": "12470",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 1580,
+                "$last_seen": "2023-05-08T11:41:02.596Z"
+              },
+              {
+                "id": 81202,
+                "rent": 7197,
+                "area": 45,
+                "street": "kilsmogatan",
+                "street_number": "7",
+                "city": "bandhagen",
+                "zip": "12470",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 1511,
+                "$last_seen": "2023-04-27T13:02:32.712Z"
+              }
+            ],
             "bäverdammsgränd": [
               {
                 "id": 81155,
@@ -41159,22 +41215,6 @@
                 "$districtName": "vantör",
                 "last_accept": 701,
                 "$last_seen": "2023-04-28T10:43:52.502Z"
-              }
-            ],
-            "kilsmogatan": [
-              {
-                "id": 81202,
-                "rent": 7197,
-                "area": 45,
-                "street": "kilsmogatan",
-                "street_number": "7",
-                "city": "bandhagen",
-                "zip": "12470",
-                "municipality": "stockholm",
-                "county": "stockholms län",
-                "$districtName": "vantör",
-                "last_accept": 1511,
-                "$last_seen": "2023-04-27T13:02:32.712Z"
               }
             ]
           }
