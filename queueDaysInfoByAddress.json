@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-05-08T07:41:14.175Z",
+  "lastUpdatedAt": "2023-05-08T08:46:18.068Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -2635,6 +2635,20 @@
                 "$districtName": "örgryte",
                 "last_accept": 793,
                 "$last_seen": "2023-04-06T08:44:38.417Z"
+              },
+              {
+                "id": 82497,
+                "rent": 13109,
+                "area": 77,
+                "street": "smörkärnegatan",
+                "street_number": "29",
+                "city": "göteborg",
+                "zip": "41278",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 762,
+                "$last_seen": "2023-05-08T07:41:14.175Z"
               }
             ]
           }
@@ -38377,6 +38391,20 @@
                 "$districtName": "gunnared",
                 "last_accept": 978,
                 "$last_seen": "2023-04-28T08:45:36.649Z"
+              },
+              {
+                "id": 81764,
+                "rent": 5766,
+                "area": 35,
+                "street": "gårdstensvägen",
+                "street_number": "59",
+                "city": "göteborg",
+                "zip": "42461",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "gunnared",
+                "last_accept": 1157,
+                "$last_seen": "2023-05-08T07:41:14.175Z"
               },
               {
                 "id": 82350,
