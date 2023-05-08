@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-05-08T13:01:40.032Z",
+  "lastUpdatedAt": "2023-05-08T13:43:27.185Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -29465,6 +29465,20 @@
                 "$districtName": "västra frölunda",
                 "last_accept": 730,
                 "$last_seen": "2022-11-23T06:45:49.935Z"
+              },
+              {
+                "id": 76367,
+                "rent": 10749,
+                "area": 72,
+                "street": "trumgatan",
+                "street_number": "7",
+                "city": "göteborg",
+                "zip": "42151",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "västra frölunda",
+                "last_accept": 1076,
+                "$last_seen": "2023-05-08T13:01:40.032Z"
               }
             ],
             "tvärflöjtsgatan": [
@@ -36769,6 +36783,20 @@
                 "$last_seen": "2023-04-27T09:42:24.275Z"
               },
               {
+                "id": 81777,
+                "rent": 8711,
+                "area": 63,
+                "street": "långströmsgatan",
+                "street_number": "28c",
+                "city": "göteborg",
+                "zip": "41870",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "biskopsgården",
+                "last_accept": 994,
+                "$last_seen": "2023-05-08T13:01:40.032Z"
+              },
+              {
                 "id": 81783,
                 "rent": 10405,
                 "area": 83,
@@ -40246,6 +40274,22 @@
                 "last_accept": 0,
                 "$last_seen": "2023-04-12T07:40:20.350Z"
               }
+            ],
+            "södra förstadsgatan": [
+              {
+                "id": 82072,
+                "rent": 9656,
+                "area": 53,
+                "street": "södra förstadsgatan",
+                "street_number": "16",
+                "city": "malmö",
+                "zip": "21143",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "malmö sankt pauli",
+                "last_accept": 824,
+                "$last_seen": "2023-05-08T13:01:40.032Z"
+              }
             ]
           },
           "hyllie": {
@@ -40575,6 +40619,20 @@
                 "$districtName": "möllevången",
                 "last_accept": 891,
                 "$last_seen": "2023-04-21T11:40:13.834Z"
+              },
+              {
+                "id": 79955,
+                "rent": 9298,
+                "area": 87,
+                "street": "upplandsgatan",
+                "street_number": "5 b",
+                "city": "malmö",
+                "zip": "21429",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "möllevången",
+                "last_accept": 106,
+                "$last_seen": "2023-05-08T13:01:40.032Z"
               }
             ]
           }
