@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-05-09T07:41:28.442Z",
+  "lastUpdatedAt": "2023-05-09T08:45:32.223Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -17001,6 +17001,20 @@
                 "$last_seen": "2023-04-24T08:46:30.859Z"
               },
               {
+                "id": 80536,
+                "rent": 5128,
+                "area": 22,
+                "street": "smörslätten",
+                "street_number": "6",
+                "city": "göteborg",
+                "zip": "41677",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "björkekärr",
+                "last_accept": 581,
+                "$last_seen": "2023-05-09T07:41:28.442Z"
+              },
+              {
                 "id": 80539,
                 "rent": 5008,
                 "area": 22,
@@ -17027,6 +17041,20 @@
                 "$districtName": "björkekärr",
                 "last_accept": 0,
                 "$last_seen": "2023-04-24T10:45:40.601Z"
+              },
+              {
+                "id": 80988,
+                "rent": 5748,
+                "area": 30,
+                "street": "smörslätten",
+                "street_number": "16",
+                "city": "göteborg",
+                "zip": "41677",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "björkekärr",
+                "last_accept": 882,
+                "$last_seen": "2023-05-09T07:41:28.442Z"
               }
             ],
             "lådspikaregatan": [
@@ -34067,6 +34095,20 @@
                 "$districtName": "masthugget",
                 "last_accept": 1394,
                 "$last_seen": "2023-04-28T08:45:36.649Z"
+              },
+              {
+                "id": 82774,
+                "rent": 11655,
+                "area": 84,
+                "street": "bangatan",
+                "street_number": "29",
+                "city": "göteborg",
+                "zip": "41463",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "masthugget",
+                "last_accept": 1351,
+                "$last_seen": "2023-05-09T07:41:28.442Z"
               }
             ],
             "amiralitetsgatan": [
@@ -41045,6 +41087,22 @@
                 "$districtName": "limhamn",
                 "last_accept": 117,
                 "$last_seen": "2023-04-11T09:40:34.186Z"
+              }
+            ],
+            "västra bernadottesgatan": [
+              {
+                "id": 81456,
+                "rent": 8952,
+                "area": 53,
+                "street": "västra bernadottesgatan",
+                "street_number": "30",
+                "city": "limhamn",
+                "zip": "21612",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "limhamn",
+                "last_accept": 33,
+                "$last_seen": "2023-05-09T07:41:28.442Z"
               }
             ]
           }
