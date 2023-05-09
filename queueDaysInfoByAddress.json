@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-05-09T08:45:32.223Z",
+  "lastUpdatedAt": "2023-05-09T09:41:38.320Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -19985,6 +19985,20 @@
                 "$districtName": "askim",
                 "last_accept": 694,
                 "$last_seen": "2023-05-02T06:45:34.336Z"
+              },
+              {
+                "id": 81986,
+                "rent": 10464,
+                "area": 75,
+                "street": "nergårdsvägen",
+                "street_number": "63",
+                "city": "göteborg",
+                "zip": "43636",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 1151,
+                "$last_seen": "2023-05-09T08:45:32.223Z"
               }
             ],
             "hyltegården": [
@@ -36923,6 +36937,20 @@
                 "$last_seen": "2023-05-08T13:43:27.185Z"
               },
               {
+                "id": 81780,
+                "rent": 10405,
+                "area": 83,
+                "street": "långströmsgatan",
+                "street_number": "44a",
+                "city": "göteborg",
+                "zip": "41870",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "biskopsgården",
+                "last_accept": 509,
+                "$last_seen": "2023-05-09T08:45:32.223Z"
+              },
+              {
                 "id": 81783,
                 "rent": 10405,
                 "area": 83,
@@ -40093,6 +40121,20 @@
                 "$districtName": "limhamn",
                 "last_accept": 283,
                 "$last_seen": "2023-05-02T07:40:09.119Z"
+              },
+              {
+                "id": 82089,
+                "rent": 6532,
+                "area": 35,
+                "street": "grönalundsgatan",
+                "street_number": "9 c",
+                "city": "malmö",
+                "zip": "21616",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "limhamn",
+                "last_accept": 336,
+                "$last_seen": "2023-05-09T08:45:32.223Z"
               }
             ],
             "järnvägsgatan": [
@@ -41617,22 +41659,6 @@
                 "$districtName": "skärholmen",
                 "last_accept": 1468,
                 "$last_seen": "2023-04-18T11:41:06.180Z"
-              }
-            ],
-            "bredängsvägen": [
-              {
-                "id": 81106,
-                "rent": 10681,
-                "area": 81,
-                "street": "bredängsvägen",
-                "street_number": "244",
-                "city": "stockholm ",
-                "zip": "12732",
-                "municipality": "stockholm",
-                "county": "stockholms län",
-                "$districtName": "skärholmen",
-                "last_accept": 1486,
-                "$last_seen": "2023-05-04T13:00:59.581Z"
               }
             ]
           }
