@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-05-09T06:46:44.442Z",
+  "lastUpdatedAt": "2023-05-09T07:41:28.442Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -31429,6 +31429,20 @@
                 "$last_seen": "2023-04-19T06:46:50.705Z"
               },
               {
+                "id": 80991,
+                "rent": 11281,
+                "area": 73,
+                "street": "karl gustavsgatan",
+                "street_number": "47",
+                "city": "göteborg",
+                "zip": "41131",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs vasa",
+                "last_accept": 1576,
+                "$last_seen": "2023-05-09T06:46:44.442Z"
+              },
+              {
                 "id": 81380,
                 "rent": 12105,
                 "area": 78,
@@ -31441,6 +31455,20 @@
                 "$districtName": "göteborgs vasa",
                 "last_accept": 1576,
                 "$last_seen": "2023-05-03T13:41:43.910Z"
+              },
+              {
+                "id": 81910,
+                "rent": 6971,
+                "area": 38,
+                "street": "karl gustavsgatan",
+                "street_number": "39",
+                "city": "göteborg",
+                "zip": "41131",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs vasa",
+                "last_accept": 1428,
+                "$last_seen": "2023-05-09T06:46:44.442Z"
               }
             ],
             "mölndalsvägen": [
@@ -39114,6 +39142,22 @@
                 "last_accept": 1487,
                 "$last_seen": "2023-04-14T07:41:34.713Z"
               }
+            ],
+            "briljantgatan": [
+              {
+                "id": 82084,
+                "rent": 10262,
+                "area": 88,
+                "street": "briljantgatan",
+                "street_number": "18",
+                "city": "västra frölunda",
+                "zip": "42149",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tynnered",
+                "last_accept": 733,
+                "$last_seen": "2023-05-09T06:46:44.442Z"
+              }
             ]
           },
           "västra frölunda": {
@@ -40265,6 +40309,22 @@
                 "$districtName": "kirseberg",
                 "last_accept": 22,
                 "$last_seen": "2023-04-17T07:41:55.864Z"
+              }
+            ],
+            "dalhemsgatan": [
+              {
+                "id": 80913,
+                "rent": 9404,
+                "area": 79,
+                "street": "dalhemsgatan",
+                "street_number": "4 a",
+                "city": "malmö",
+                "zip": "21224",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "kirseberg",
+                "last_accept": 0,
+                "$last_seen": "2023-05-09T06:46:44.442Z"
               }
             ],
             "lundav": [
