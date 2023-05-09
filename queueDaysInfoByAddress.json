@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-05-09T09:41:38.320Z",
+  "lastUpdatedAt": "2023-05-09T10:46:25.032Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -17055,6 +17055,20 @@
                 "$districtName": "björkekärr",
                 "last_accept": 882,
                 "$last_seen": "2023-05-09T07:41:28.442Z"
+              },
+              {
+                "id": 81022,
+                "rent": 5051,
+                "area": 22,
+                "street": "smörslätten",
+                "street_number": "6",
+                "city": "göteborg",
+                "zip": "41677",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "björkekärr",
+                "last_accept": 569,
+                "$last_seen": "2023-05-09T09:41:38.320Z"
               }
             ],
             "lådspikaregatan": [
@@ -19999,6 +20013,20 @@
                 "$districtName": "askim",
                 "last_accept": 1151,
                 "$last_seen": "2023-05-09T08:45:32.223Z"
+              },
+              {
+                "id": 82034,
+                "rent": 4969,
+                "area": 34,
+                "street": "nergårdsvägen",
+                "street_number": "27",
+                "city": "göteborg",
+                "zip": "43636",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 1066,
+                "$last_seen": "2023-05-09T09:41:38.320Z"
               }
             ],
             "hyltegården": [
