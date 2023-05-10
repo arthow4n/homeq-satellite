@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-05-10T13:49:31.002Z",
+  "lastUpdatedAt": "2023-05-10T14:45:50.851Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -16503,6 +16503,22 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1464,
                 "$last_seen": "2023-01-10T14:45:25.910Z"
+              }
+            ],
+            "scheelegatan": [
+              {
+                "id": 80004,
+                "rent": 8147,
+                "area": 51,
+                "street": "scheelegatan",
+                "street_number": "2",
+                "city": "göteborg",
+                "zip": "41660",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1475,
+                "$last_seen": "2023-05-10T13:49:31.002Z"
               }
             ],
             "s.t pauligatan": [
@@ -39663,6 +39679,20 @@
                 "$districtName": "tynnered",
                 "last_accept": 379,
                 "$last_seen": "2023-05-10T09:42:14.431Z"
+              },
+              {
+                "id": 82565,
+                "rent": 10150,
+                "area": 66,
+                "street": "smyckegatan",
+                "street_number": "42",
+                "city": "västra frölunda",
+                "zip": "42651",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tynnered",
+                "last_accept": 286,
+                "$last_seen": "2023-05-10T13:49:31.002Z"
               }
             ],
             "björkhöjdsgatan": [
