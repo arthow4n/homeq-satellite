@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-05-10T13:03:14.279Z",
+  "lastUpdatedAt": "2023-05-10T13:49:31.002Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -28843,6 +28843,20 @@
                 "$districtName": "örgryte",
                 "last_accept": 1093,
                 "$last_seen": "2023-05-04T11:40:35.853Z"
+              },
+              {
+                "id": 82030,
+                "rent": 7236,
+                "area": 31,
+                "street": "filmjölksgatan",
+                "street_number": "3",
+                "city": "göteborg",
+                "zip": "41278",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 988,
+                "$last_seen": "2023-05-10T13:03:14.279Z"
               }
             ],
             "jättegrytsgatan": [
@@ -37329,20 +37343,6 @@
                 "$districtName": "biskopsgården",
                 "last_accept": 417,
                 "$last_seen": "2023-05-08T11:41:02.596Z"
-              },
-              {
-                "id": 81784,
-                "rent": 10405,
-                "area": 83,
-                "street": "långströmsgatan",
-                "street_number": "28b",
-                "city": "göteborg",
-                "zip": "41870",
-                "municipality": "göteborg",
-                "county": "västra götalands län",
-                "$districtName": "biskopsgården",
-                "last_accept": 668,
-                "$last_seen": "2023-05-09T10:46:25.032Z"
               }
             ],
             "lufttrycksgatan": [
