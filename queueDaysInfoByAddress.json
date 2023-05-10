@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-05-10T07:41:55.922Z",
+  "lastUpdatedAt": "2023-05-10T08:45:41.437Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -16371,6 +16371,20 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1563,
                 "$last_seen": "2023-05-08T06:46:48.472Z"
+              },
+              {
+                "id": 80011,
+                "rent": 7885,
+                "area": 40,
+                "street": "lundgatan",
+                "street_number": "2",
+                "city": "göteborg",
+                "zip": "41660",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1468,
+                "$last_seen": "2023-05-10T06:46:02.010Z"
               }
             ],
             "norra gubberogatan": [
@@ -16461,6 +16475,22 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1464,
                 "$last_seen": "2023-01-10T14:45:25.910Z"
+              }
+            ],
+            "s.t pauligatan": [
+              {
+                "id": 80009,
+                "rent": 7743,
+                "area": 35,
+                "street": "s.t pauligatan",
+                "street_number": "29a",
+                "city": "göteborg",
+                "zip": "41660",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1530,
+                "$last_seen": "2023-05-10T07:41:55.922Z"
               }
             ],
             "persgatan": [
@@ -23857,6 +23887,20 @@
                 "$districtName": "nylöse",
                 "last_accept": 0,
                 "$last_seen": "2023-05-04T07:40:20.939Z"
+              },
+              {
+                "id": 80472,
+                "rent": 8925,
+                "area": 64.8,
+                "street": "sysslomansgatan",
+                "street_number": "40",
+                "city": "göteborg",
+                "zip": "41574",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "nylöse",
+                "last_accept": 377,
+                "$last_seen": "2023-05-10T07:41:55.922Z"
               }
             ],
             "hinderbanan": [
