@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-05-10T14:45:50.851Z",
+  "lastUpdatedAt": "2023-05-10T17:57:08.763Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -15489,6 +15489,20 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1506,
                 "$last_seen": "2023-03-03T09:39:50.406Z"
+              },
+              {
+                "id": 80093,
+                "rent": 5899,
+                "area": 49,
+                "street": "sankt pauligatan",
+                "street_number": "32 c",
+                "city": "göteborg",
+                "zip": "41660",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1516,
+                "$last_seen": "2023-05-10T14:45:50.851Z"
               }
             ],
             "liedstrandsgatan": [
@@ -16413,6 +16427,20 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1468,
                 "$last_seen": "2023-05-10T06:46:02.010Z"
+              },
+              {
+                "id": 80085,
+                "rent": 5056,
+                "area": 36,
+                "street": "lundgatan",
+                "street_number": "4b",
+                "city": "göteborg",
+                "zip": "41660",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1445,
+                "$last_seen": "2023-05-10T14:45:50.851Z"
               }
             ],
             "norra gubberogatan": [
@@ -31671,6 +31699,20 @@
                 "$last_seen": "2023-04-19T06:46:50.705Z"
               },
               {
+                "id": 80987,
+                "rent": 6385,
+                "area": 38,
+                "street": "karl gustavsgatan",
+                "street_number": "41",
+                "city": "göteborg",
+                "zip": "41131",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs vasa",
+                "last_accept": 1552,
+                "$last_seen": "2023-05-10T14:45:50.851Z"
+              },
+              {
                 "id": 80991,
                 "rent": 11281,
                 "area": 73,
@@ -40855,6 +40897,20 @@
                 "$districtName": "kirseberg",
                 "last_accept": 400,
                 "$last_seen": "2023-05-03T09:40:16.898Z"
+              },
+              {
+                "id": 82474,
+                "rent": 5761,
+                "area": 36,
+                "street": "högamöllegatan",
+                "street_number": "8b",
+                "city": "malmö",
+                "zip": "21219",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "kirseberg",
+                "last_accept": 243,
+                "$last_seen": "2023-05-10T14:45:50.851Z"
               }
             ],
             "floragatan": [
