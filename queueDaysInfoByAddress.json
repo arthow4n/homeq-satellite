@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-05-10T10:46:10.154Z",
+  "lastUpdatedAt": "2023-05-10T11:42:17.647Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -35183,6 +35183,20 @@
                 "$districtName": "masthugget",
                 "last_accept": 1272,
                 "$last_seen": "2023-05-09T11:41:20.449Z"
+              },
+              {
+                "id": 82097,
+                "rent": 11318,
+                "area": 83,
+                "street": "djurgårdsgatan",
+                "street_number": "30",
+                "city": "göteborg",
+                "zip": "41462",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "masthugget",
+                "last_accept": 1326,
+                "$last_seen": "2023-05-10T10:46:10.154Z"
               },
               {
                 "id": 82102,
