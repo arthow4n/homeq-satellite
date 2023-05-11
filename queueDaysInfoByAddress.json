@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-05-11T06:46:32.602Z",
+  "lastUpdatedAt": "2023-05-11T07:42:35.794Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -5541,6 +5541,20 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1647,
                 "$last_seen": "2023-03-16T09:39:11.322Z"
+              },
+              {
+                "id": 79015,
+                "rent": 9063,
+                "area": 56,
+                "street": "örnehufvudsgatan",
+                "street_number": "7",
+                "city": "göteborg",
+                "zip": "41259",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1624,
+                "$last_seen": "2023-05-11T06:46:32.602Z"
               }
             ],
             "viktor rydbergsgatan": [
@@ -9025,6 +9039,20 @@
                 "$districtName": "brämaregården",
                 "last_accept": 948,
                 "$last_seen": "2023-04-18T11:41:06.180Z"
+              },
+              {
+                "id": 81956,
+                "rent": 9262,
+                "area": 54,
+                "street": "gustaf dalénsgatan",
+                "street_number": "24",
+                "city": "göteborg",
+                "zip": "41724",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brämaregården",
+                "last_accept": 1079,
+                "$last_seen": "2023-05-11T06:46:32.602Z"
               }
             ],
             "lantmätaregatan": [
@@ -17201,6 +17229,20 @@
                 "$districtName": "björkekärr",
                 "last_accept": 0,
                 "$last_seen": "2023-04-24T10:45:40.601Z"
+              },
+              {
+                "id": 80988,
+                "rent": 5748,
+                "area": 30,
+                "street": "smörslätten",
+                "street_number": "16",
+                "city": "göteborg",
+                "zip": "41677",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "björkekärr",
+                "last_accept": 868,
+                "$last_seen": "2023-05-11T06:46:32.602Z"
               },
               {
                 "id": 81022,
@@ -26353,6 +26395,20 @@
                 "$districtName": "göteborgs domkyrkodistrikt",
                 "last_accept": 1274,
                 "$last_seen": "2023-02-22T09:40:52.941Z"
+              },
+              {
+                "id": 78054,
+                "rent": 6244,
+                "area": 49,
+                "street": "folkungagatan",
+                "street_number": "9 a",
+                "city": "göteborg",
+                "zip": "41102",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs domkyrkodistrikt",
+                "last_accept": 1585,
+                "$last_seen": "2023-05-11T06:46:32.602Z"
               }
             ],
             "basargatan": [
@@ -35341,6 +35397,20 @@
                 "$districtName": "masthugget",
                 "last_accept": 1581,
                 "$last_seen": "2023-05-09T11:41:20.449Z"
+              },
+              {
+                "id": 82103,
+                "rent": 5730,
+                "area": 32,
+                "street": "djurgårdsgatan",
+                "street_number": "30",
+                "city": "göteborg",
+                "zip": "41462",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "masthugget",
+                "last_accept": 1368,
+                "$last_seen": "2023-05-11T06:46:32.602Z"
               },
               {
                 "id": 82104,
