@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-05-11T10:45:37.261Z",
+  "lastUpdatedAt": "2023-05-11T11:41:57.176Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -3839,6 +3839,48 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1150,
                 "$last_seen": "2023-05-10T09:42:14.431Z"
+              },
+              {
+                "id": 81572,
+                "rent": 10275,
+                "area": 56,
+                "street": "ebbe lieberathsgatan",
+                "street_number": "20 e",
+                "city": "göteborg",
+                "zip": "41265",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 989,
+                "$last_seen": "2023-05-11T10:45:37.261Z"
+              },
+              {
+                "id": 81580,
+                "rent": 10274,
+                "area": 58,
+                "street": "ebbe lieberathsgatan",
+                "street_number": "20 b",
+                "city": "göteborg",
+                "zip": "41265",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 971,
+                "$last_seen": "2023-05-11T10:45:37.261Z"
+              },
+              {
+                "id": 81595,
+                "rent": 10525,
+                "area": 58,
+                "street": "ebbe lieberathsgatan",
+                "street_number": "22 a",
+                "city": "göteborg",
+                "zip": "41265",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 968,
+                "$last_seen": "2023-05-11T10:45:37.261Z"
               },
               {
                 "id": 81633,
@@ -39909,6 +39951,22 @@
                 "$last_seen": "2023-04-14T07:41:34.713Z"
               }
             ],
+            "bergkristallsgatan": [
+              {
+                "id": 79926,
+                "rent": 8781,
+                "area": 77,
+                "street": "bergkristallsgatan",
+                "street_number": "16",
+                "city": "västra frölunda",
+                "zip": "42651",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tynnered",
+                "last_accept": 1202,
+                "$last_seen": "2023-05-11T10:45:37.261Z"
+              }
+            ],
             "briljantgatan": [
               {
                 "id": 82084,
@@ -42515,6 +42573,20 @@
                 "$districtName": "skärholmen",
                 "last_accept": 1468,
                 "$last_seen": "2023-04-18T11:41:06.180Z"
+              },
+              {
+                "id": 82886,
+                "rent": 9027,
+                "area": 65,
+                "street": "ålgrytevägen",
+                "street_number": "97",
+                "city": "stockholm ",
+                "zip": "12732",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "skärholmen",
+                "last_accept": 1509,
+                "$last_seen": "2023-05-11T10:45:37.261Z"
               }
             ]
           }
