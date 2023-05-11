@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-05-11T09:42:33.710Z",
+  "lastUpdatedAt": "2023-05-11T10:45:37.261Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -5275,6 +5275,20 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1576,
                 "$last_seen": "2023-03-23T13:44:37.031Z"
+              },
+              {
+                "id": 81528,
+                "rent": 4971,
+                "area": 41,
+                "street": "övre besvärsgatan",
+                "street_number": "13",
+                "city": "göteborg",
+                "zip": "41129",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1580,
+                "$last_seen": "2023-05-11T09:42:33.710Z"
               },
               {
                 "id": 81534,
@@ -23149,6 +23163,20 @@
                 "$districtName": "bergsjön",
                 "last_accept": 1287,
                 "$last_seen": "2023-04-26T14:43:48.292Z"
+              },
+              {
+                "id": 80904,
+                "rent": 9679,
+                "area": 83,
+                "street": "atmosfärgatan",
+                "street_number": "1",
+                "city": "göteborg",
+                "zip": "41561",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bergsjön",
+                "last_accept": 836,
+                "$last_seen": "2023-05-11T09:42:33.710Z"
               }
             ],
             "zenitgatan": [
@@ -32153,6 +32181,20 @@
                 "$districtName": "göteborgs vasa",
                 "last_accept": 1555,
                 "$last_seen": "2023-04-12T13:01:21.450Z"
+              },
+              {
+                "id": 82607,
+                "rent": 8445,
+                "area": 50,
+                "street": "geijersgatan",
+                "street_number": "7 a",
+                "city": "göteborg",
+                "zip": "41134",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs vasa",
+                "last_accept": 1584,
+                "$last_seen": "2023-05-11T09:42:33.710Z"
               }
             ],
             "engelbrektsgatan": [
@@ -41592,6 +41634,20 @@
               }
             ],
             "sigtunagatan": [
+              {
+                "id": 79967,
+                "rent": 6584,
+                "area": 54,
+                "street": "sigtunagatan",
+                "street_number": "6",
+                "city": "malmö",
+                "zip": "21429",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "möllevången",
+                "last_accept": 1415,
+                "$last_seen": "2023-05-11T09:42:33.710Z"
+              },
               {
                 "id": 82251,
                 "rent": 6207,
