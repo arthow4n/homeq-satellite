@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-05-11T08:45:44.902Z",
+  "lastUpdatedAt": "2023-05-11T09:42:33.710Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -2025,6 +2025,20 @@
                 "$districtName": "fässberg",
                 "last_accept": 1205,
                 "$last_seen": "2023-05-02T14:42:22.229Z"
+              },
+              {
+                "id": 82267,
+                "rent": 10213,
+                "area": 57,
+                "street": "åby allé",
+                "street_number": "17",
+                "city": "göteborg",
+                "zip": "43145",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 1062,
+                "$last_seen": "2023-05-11T08:45:44.902Z"
               }
             ],
             "åbyvägen": [
@@ -29031,6 +29045,20 @@
                 "$districtName": "örgryte",
                 "last_accept": 1412,
                 "$last_seen": "2022-11-21T09:42:07.198Z"
+              },
+              {
+                "id": 81983,
+                "rent": 9003,
+                "area": 66,
+                "street": "jättegrytsgatan",
+                "street_number": "2b",
+                "city": "göteborg",
+                "zip": "41268",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1543,
+                "$last_seen": "2023-05-11T08:45:44.902Z"
               }
             ],
             "jakobsdalsgatan": [
@@ -29259,20 +29287,6 @@
                 "$districtName": "örgryte",
                 "last_accept": 931,
                 "$last_seen": "2023-05-03T08:43:47.084Z"
-              },
-              {
-                "id": 82525,
-                "rent": 14166,
-                "area": 83,
-                "street": "skummjölksgatan",
-                "street_number": "14",
-                "city": "göteborg",
-                "zip": "41278",
-                "municipality": "göteborg",
-                "county": "västra götalands län",
-                "$districtName": "örgryte",
-                "last_accept": 884,
-                "$last_seen": "2023-05-08T06:46:48.472Z"
               },
               {
                 "id": 82657,
@@ -40746,6 +40760,24 @@
               }
             ]
           },
+          "husie": {
+            "lönnebergagatan": [
+              {
+                "id": 73665,
+                "rent": 7987,
+                "area": 52,
+                "street": "lönnebergagatan",
+                "street_number": "4",
+                "city": "malmö",
+                "zip": "21215",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "husie",
+                "last_accept": 547,
+                "$last_seen": "2023-05-11T08:45:44.902Z"
+              }
+            ]
+          },
           "limhamn": {
             "grönalundsgatan": [
               {
@@ -41071,6 +41103,20 @@
                 "$districtName": "kirseberg",
                 "last_accept": 0,
                 "$last_seen": "2023-05-04T05:42:22.820Z"
+              },
+              {
+                "id": 82649,
+                "rent": 9210,
+                "area": 66,
+                "street": "gerlachsgatan",
+                "street_number": "2 b",
+                "city": "malmö",
+                "zip": "21219",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "kirseberg",
+                "last_accept": 0,
+                "$last_seen": "2023-05-11T07:42:35.794Z"
               }
             ],
             "dalhemsgtan": [
