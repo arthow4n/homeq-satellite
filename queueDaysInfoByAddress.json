@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-05-11T05:43:18.794Z",
+  "lastUpdatedAt": "2023-05-11T06:46:32.602Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -10184,6 +10184,22 @@
                 "last_accept": 454,
                 "$last_seen": "2023-03-08T09:40:07.679Z"
               }
+            ],
+            "kvillegatan": [
+              {
+                "id": 83092,
+                "rent": 7617,
+                "area": 54,
+                "street": "kvillegatan",
+                "street_number": "14 a",
+                "city": "göteborg",
+                "zip": "41708",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brämaregården",
+                "last_accept": 1405,
+                "$last_seen": "2023-05-11T05:43:18.794Z"
+              }
             ]
           },
           "lundby": {
@@ -20143,6 +20159,20 @@
                 "$districtName": "askim",
                 "last_accept": 997,
                 "$last_seen": "2023-05-05T08:44:35.436Z"
+              },
+              {
+                "id": 81551,
+                "rent": 6205,
+                "area": 34,
+                "street": "nergårdsvägen",
+                "street_number": "25",
+                "city": "göteborg",
+                "zip": "43636",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 1120,
+                "$last_seen": "2023-05-11T05:43:18.794Z"
               },
               {
                 "id": 81570,
