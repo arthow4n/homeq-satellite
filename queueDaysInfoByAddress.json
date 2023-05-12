@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-05-12T13:00:14.062Z",
+  "lastUpdatedAt": "2023-05-12T13:42:31.158Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -689,6 +689,20 @@
                 "$districtName": "fässberg",
                 "last_accept": 1094,
                 "$last_seen": "2023-04-28T13:41:46.356Z"
+              },
+              {
+                "id": 82193,
+                "rent": 9133,
+                "area": 65,
+                "street": "gustavsbergsgatan",
+                "street_number": "2",
+                "city": "mölndal",
+                "zip": "43137",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 1037,
+                "$last_seen": "2023-05-12T13:00:14.062Z"
               },
               {
                 "id": 82198,
@@ -32379,6 +32393,20 @@
                 "$districtName": "göteborgs vasa",
                 "last_accept": 1584,
                 "$last_seen": "2023-05-11T09:42:33.710Z"
+              },
+              {
+                "id": 82608,
+                "rent": 9225,
+                "area": 59,
+                "street": "geijersgatan",
+                "street_number": "7 b",
+                "city": "göteborg",
+                "zip": "41134",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs vasa",
+                "last_accept": 1584,
+                "$last_seen": "2023-05-12T13:00:14.062Z"
               }
             ],
             "engelbrektsgatan": [
@@ -41615,6 +41643,20 @@
                 "$districtName": "malmö sankt pauli",
                 "last_accept": 0,
                 "$last_seen": "2023-04-12T07:40:20.350Z"
+              },
+              {
+                "id": 82473,
+                "rent": 8888,
+                "area": 61,
+                "street": "ö.förstadsgatan",
+                "street_number": "6",
+                "city": "malmö",
+                "zip": "21131",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "malmö sankt pauli",
+                "last_accept": 278,
+                "$last_seen": "2023-05-12T13:00:14.062Z"
               }
             ],
             "östra förstadsgatan": [
