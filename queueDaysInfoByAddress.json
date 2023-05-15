@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-05-15T07:42:05.172Z",
+  "lastUpdatedAt": "2023-05-15T08:45:10.936Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -5773,6 +5773,20 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1640,
                 "$last_seen": "2023-04-26T11:42:00.456Z"
+              },
+              {
+                "id": 81697,
+                "rent": 8702,
+                "area": 71,
+                "street": "lemansgatan",
+                "street_number": "2",
+                "city": "göteborg",
+                "zip": "41260",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1692,
+                "$last_seen": "2023-05-15T07:42:05.172Z"
               }
             ],
             "rosensköldsgatan": [
@@ -22153,6 +22167,20 @@
                 "$last_seen": "2023-04-24T11:40:42.753Z"
               },
               {
+                "id": 77162,
+                "rent": 3457,
+                "area": 33,
+                "street": "galileis gata",
+                "street_number": "2",
+                "city": "göteborg",
+                "zip": "41554",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bergsjön",
+                "last_accept": 1132,
+                "$last_seen": "2023-05-15T07:42:05.172Z"
+              },
+              {
                 "id": 77239,
                 "rent": 4373,
                 "area": 50,
@@ -29798,22 +29826,6 @@
                 "last_accept": 760,
                 "$last_seen": "2023-04-05T06:44:38.480Z"
               }
-            ],
-            "birkagatan": [
-              {
-                "id": 81693,
-                "rent": 10600,
-                "area": 73,
-                "street": "birkagatan",
-                "street_number": "41",
-                "city": "göteborg",
-                "zip": "41656",
-                "municipality": "göteborg",
-                "county": "västra götalands län",
-                "$districtName": "örgryte",
-                "last_accept": 1584,
-                "$last_seen": "2023-05-11T11:41:57.176Z"
-              }
             ]
           },
           "västra frölunda": {
@@ -34347,6 +34359,20 @@
                 "$districtName": "göteborgs oscar fredrik",
                 "last_accept": 0,
                 "$last_seen": "2023-03-21T11:35:39.437Z"
+              },
+              {
+                "id": 82583,
+                "rent": 4244,
+                "area": 32,
+                "street": "kryssdäcket",
+                "street_number": "1",
+                "city": "göteborg",
+                "zip": "41327",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs oscar fredrik",
+                "last_accept": 1489,
+                "$last_seen": "2023-05-15T07:42:05.172Z"
               }
             ],
             "övre djupedalsgatan": [
@@ -36065,6 +36091,20 @@
                 "$districtName": "masthugget",
                 "last_accept": 1566,
                 "$last_seen": "2023-04-24T05:43:23.827Z"
+              },
+              {
+                "id": 82449,
+                "rent": 5940,
+                "area": 39,
+                "street": "godhemsgatan",
+                "street_number": "14 b",
+                "city": "göteborg",
+                "zip": "41467",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "masthugget",
+                "last_accept": 1502,
+                "$last_seen": "2023-05-15T07:42:05.172Z"
               }
             ],
             "gamla varvsgatan": [
@@ -42219,6 +42259,24 @@
                 "$districtName": "möllevången",
                 "last_accept": 1110,
                 "$last_seen": "2023-05-09T11:41:20.449Z"
+              }
+            ]
+          },
+          "oxie": {
+            "panelgatan": [
+              {
+                "id": 80378,
+                "rent": 6417,
+                "area": 34,
+                "street": "panelgatan",
+                "street_number": "15",
+                "city": "malmö",
+                "zip": "23837",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "oxie",
+                "last_accept": 0,
+                "$last_seen": "2023-05-15T07:42:05.172Z"
               }
             ]
           }
