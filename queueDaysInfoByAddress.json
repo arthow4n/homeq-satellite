@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-05-15T13:01:49.544Z",
+  "lastUpdatedAt": "2023-05-15T13:42:55.512Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -11085,6 +11085,20 @@
                 "$districtName": "lundby",
                 "last_accept": 1458,
                 "$last_seen": "2023-01-25T11:36:46.338Z"
+              },
+              {
+                "id": 82930,
+                "rent": 8095,
+                "area": 51,
+                "street": "karl staaffsgatan",
+                "street_number": "8 b",
+                "city": "göteborg",
+                "zip": "41727",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1196,
+                "$last_seen": "2023-05-15T13:01:49.544Z"
               }
             ],
             "wieselgrensplatsen": [
@@ -12677,6 +12691,20 @@
                 "$districtName": "lundby",
                 "last_accept": 1485,
                 "$last_seen": "2023-05-02T05:41:55.223Z"
+              },
+              {
+                "id": 82929,
+                "rent": 8350,
+                "area": 54,
+                "street": "arvid lindmansgatan",
+                "street_number": "3 d",
+                "city": "göteborg",
+                "zip": "41725",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1349,
+                "$last_seen": "2023-05-15T13:01:49.544Z"
               }
             ],
             "estlandsgatan": [
@@ -26371,6 +26399,62 @@
                 "$districtName": "göteborgs domkyrkodistrikt",
                 "last_accept": 1208,
                 "$last_seen": "2023-04-24T13:01:22.941Z"
+              },
+              {
+                "id": 81686,
+                "rent": 6746,
+                "area": 34,
+                "street": "bangårdsgatan",
+                "street_number": "15",
+                "city": "göteborg",
+                "zip": "41112",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs domkyrkodistrikt",
+                "last_accept": 1135,
+                "$last_seen": "2023-05-15T13:01:49.544Z"
+              },
+              {
+                "id": 81687,
+                "rent": 6576,
+                "area": 34,
+                "street": "bangårdsgatan",
+                "street_number": "17",
+                "city": "göteborg",
+                "zip": "41112",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs domkyrkodistrikt",
+                "last_accept": 1229,
+                "$last_seen": "2023-05-15T13:01:49.544Z"
+              },
+              {
+                "id": 81695,
+                "rent": 6683,
+                "area": 34,
+                "street": "bangårdsgatan",
+                "street_number": "23",
+                "city": "göteborg",
+                "zip": "41112",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs domkyrkodistrikt",
+                "last_accept": 959,
+                "$last_seen": "2023-05-15T13:01:49.544Z"
+              },
+              {
+                "id": 81696,
+                "rent": 6949,
+                "area": 37,
+                "street": "bangårdsgatan",
+                "street_number": "23",
+                "city": "göteborg",
+                "zip": "41112",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs domkyrkodistrikt",
+                "last_accept": 1314,
+                "$last_seen": "2023-05-15T13:01:49.544Z"
               }
             ],
             "burggreveplatsen": [
@@ -36285,6 +36369,20 @@
                 "$districtName": "masthugget",
                 "last_accept": 1571,
                 "$last_seen": "2023-04-28T08:45:36.649Z"
+              },
+              {
+                "id": 81430,
+                "rent": 8285,
+                "area": 54,
+                "street": "dahlströmsgatan",
+                "street_number": "52",
+                "city": "göteborg",
+                "zip": "41465",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "masthugget",
+                "last_accept": 1516,
+                "$last_seen": "2023-05-15T13:01:49.544Z"
               }
             ],
             "ekedalsgatan": [
@@ -40583,6 +40681,20 @@
                 "$last_seen": "2023-05-10T09:42:14.431Z"
               },
               {
+                "id": 82063,
+                "rent": 11025,
+                "area": 106,
+                "street": "smyckegatan",
+                "street_number": "55",
+                "city": "västra frölunda",
+                "zip": "42650",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tynnered",
+                "last_accept": 1579,
+                "$last_seen": "2023-05-15T13:01:49.544Z"
+              },
+              {
                 "id": 82469,
                 "rent": 8615,
                 "area": 69,
@@ -41735,6 +41847,20 @@
                 "$districtName": "kirseberg",
                 "last_accept": 0,
                 "$last_seen": "2023-04-24T13:01:22.941Z"
+              },
+              {
+                "id": 78018,
+                "rent": 11476,
+                "area": 76,
+                "street": "segeparksgatan",
+                "street_number": "16",
+                "city": "malmö",
+                "zip": "21250",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "kirseberg",
+                "last_accept": 0,
+                "$last_seen": "2023-05-15T13:01:49.544Z"
               },
               {
                 "id": 79396,
