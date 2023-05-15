@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-05-15T14:42:01.144Z",
+  "lastUpdatedAt": "2023-05-15T15:40:18.916Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -32799,6 +32799,20 @@
                 "$districtName": "göteborgs vasa",
                 "last_accept": 1555,
                 "$last_seen": "2023-04-12T13:01:21.450Z"
+              },
+              {
+                "id": 82496,
+                "rent": 5923,
+                "area": 31,
+                "street": "geijersgatan",
+                "street_number": "7 b",
+                "city": "göteborg",
+                "zip": "41134",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs vasa",
+                "last_accept": 1568,
+                "$last_seen": "2023-05-15T14:42:01.144Z"
               },
               {
                 "id": 82499,
