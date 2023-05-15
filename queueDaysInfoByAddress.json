@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-05-15T10:45:30.035Z",
+  "lastUpdatedAt": "2023-05-15T11:41:29.769Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -375,6 +375,20 @@
                 "$districtName": "fässberg",
                 "last_accept": 1564,
                 "$last_seen": "2023-05-15T08:45:10.936Z"
+              },
+              {
+                "id": 82564,
+                "rent": 8789,
+                "area": 61,
+                "street": "berghemsgatan",
+                "street_number": "14",
+                "city": "mölndal",
+                "zip": "43137",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 1394,
+                "$last_seen": "2023-05-15T10:45:30.035Z"
               }
             ],
             "brogatan": [
@@ -11273,6 +11287,20 @@
                 "$districtName": "lundby",
                 "last_accept": 1413,
                 "$last_seen": "2023-04-19T11:40:48.816Z"
+              },
+              {
+                "id": 82924,
+                "rent": 10963,
+                "area": 76,
+                "street": "hällskriftsgatan",
+                "street_number": "12 c",
+                "city": "göteborg",
+                "zip": "41726",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1357,
+                "$last_seen": "2023-05-15T10:45:30.035Z"
               }
             ],
             "fyrklöversgatan": [
@@ -26671,6 +26699,20 @@
                 "$districtName": "göteborgs domkyrkodistrikt",
                 "last_accept": 1203,
                 "$last_seen": "2023-03-16T08:45:29.976Z"
+              },
+              {
+                "id": 82534,
+                "rent": 10700,
+                "area": 76,
+                "street": "friggagatan",
+                "street_number": "25 a",
+                "city": "göteborg",
+                "zip": "41664",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs domkyrkodistrikt",
+                "last_accept": 1588,
+                "$last_seen": "2023-05-15T10:45:30.035Z"
               }
             ],
             "sten sturegatan": [
@@ -32631,6 +32673,20 @@
                 "$districtName": "göteborgs vasa",
                 "last_accept": 1133,
                 "$last_seen": "2023-05-15T08:45:10.936Z"
+              },
+              {
+                "id": 83202,
+                "rent": 9017,
+                "area": 57,
+                "street": "geijersgatan",
+                "street_number": "7 a",
+                "city": "göteborg",
+                "zip": "41134",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs vasa",
+                "last_accept": 1587,
+                "$last_seen": "2023-05-15T10:45:30.035Z"
               }
             ],
             "engelbrektsgatan": [
@@ -42415,6 +42471,20 @@
                 "$districtName": "möllevången",
                 "last_accept": 1110,
                 "$last_seen": "2023-05-09T11:41:20.449Z"
+              },
+              {
+                "id": 82910,
+                "rent": 6778,
+                "area": 58,
+                "street": "sigtunagatan",
+                "street_number": "6",
+                "city": "malmö",
+                "zip": "21429",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "möllevången",
+                "last_accept": 815,
+                "$last_seen": "2023-05-15T10:45:30.035Z"
               }
             ]
           },
