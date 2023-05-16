@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-05-16T11:40:06.445Z",
+  "lastUpdatedAt": "2023-05-16T13:01:30.070Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -4007,6 +4007,20 @@
                 "$districtName": "johanneberg",
                 "last_accept": 947,
                 "$last_seen": "2023-05-11T07:42:35.794Z"
+              },
+              {
+                "id": 82352,
+                "rent": 12429,
+                "area": 73,
+                "street": "ebbe lieberathsgatan",
+                "street_number": "20 b",
+                "city": "göteborg",
+                "zip": "41265",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1032,
+                "$last_seen": "2023-05-16T11:40:06.445Z"
               },
               {
                 "id": 82689,
@@ -14491,6 +14505,20 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1528,
                 "$last_seen": "2023-03-16T11:36:57.852Z"
+              },
+              {
+                "id": 81813,
+                "rent": 7490,
+                "area": 49,
+                "street": "runebergsgatan",
+                "street_number": "4",
+                "city": "göteborg",
+                "zip": "41658",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1589,
+                "$last_seen": "2023-05-16T11:40:06.445Z"
               }
             ],
             "redbergsvägen": [
@@ -26653,6 +26681,20 @@
                 "$districtName": "göteborgs domkyrkodistrikt",
                 "last_accept": 1327,
                 "$last_seen": "2023-05-15T13:42:55.512Z"
+              },
+              {
+                "id": 81811,
+                "rent": 10505,
+                "area": 67,
+                "street": "bangårdsgatan",
+                "street_number": "19",
+                "city": "göteborg",
+                "zip": "41112",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs domkyrkodistrikt",
+                "last_accept": 1429,
+                "$last_seen": "2023-05-16T11:40:06.445Z"
               }
             ],
             "burggreveplatsen": [
@@ -36413,6 +36455,20 @@
                 "$last_seen": "2023-05-09T11:41:20.449Z"
               },
               {
+                "id": 82105,
+                "rent": 5814,
+                "area": 32,
+                "street": "djurgårdsgatan",
+                "street_number": "30",
+                "city": "göteborg",
+                "zip": "41462",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "masthugget",
+                "last_accept": 1443,
+                "$last_seen": "2023-05-16T11:40:06.445Z"
+              },
+              {
                 "id": 82107,
                 "rent": 7526,
                 "area": 46,
@@ -42545,6 +42601,36 @@
                 "$last_seen": "2023-05-12T13:00:14.062Z"
               }
             ],
+            "södra förstadsgatan": [
+              {
+                "id": 79975,
+                "rent": 12408,
+                "area": 76,
+                "street": "södra förstadsgatan",
+                "street_number": "30",
+                "city": "malmö",
+                "zip": "21143",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "malmö sankt pauli",
+                "last_accept": 578,
+                "$last_seen": "2023-05-16T11:40:06.445Z"
+              },
+              {
+                "id": 82072,
+                "rent": 9656,
+                "area": 53,
+                "street": "södra förstadsgatan",
+                "street_number": "16",
+                "city": "malmö",
+                "zip": "21143",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "malmö sankt pauli",
+                "last_accept": 824,
+                "$last_seen": "2023-05-08T13:01:40.032Z"
+              }
+            ],
             "östra förstadsgatan": [
               {
                 "id": 80547,
@@ -42559,22 +42645,6 @@
                 "$districtName": "malmö sankt pauli",
                 "last_accept": 472,
                 "$last_seen": "2023-05-11T13:48:36.936Z"
-              }
-            ],
-            "södra förstadsgatan": [
-              {
-                "id": 82072,
-                "rent": 9656,
-                "area": 53,
-                "street": "södra förstadsgatan",
-                "street_number": "16",
-                "city": "malmö",
-                "zip": "21143",
-                "municipality": "malmö",
-                "county": "skåne län",
-                "$districtName": "malmö sankt pauli",
-                "last_accept": 824,
-                "$last_seen": "2023-05-08T13:01:40.032Z"
               }
             ]
           },
