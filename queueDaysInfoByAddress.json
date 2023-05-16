@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-05-16T14:41:40.512Z",
+  "lastUpdatedAt": "2023-05-16T15:40:28.069Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -773,6 +773,20 @@
                 "$districtName": "fässberg",
                 "last_accept": 1200,
                 "$last_seen": "2023-05-11T14:43:40.517Z"
+              },
+              {
+                "id": 82440,
+                "rent": 5811,
+                "area": 36,
+                "street": "gustavsbergsgatan",
+                "street_number": "2",
+                "city": "mölndal",
+                "zip": "43137",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 1443,
+                "$last_seen": "2023-05-16T14:41:40.512Z"
               }
             ],
             "fredåsgatan": [
@@ -20507,6 +20521,20 @@
                 "$districtName": "askim",
                 "last_accept": 1045,
                 "$last_seen": "2023-05-09T11:41:20.449Z"
+              },
+              {
+                "id": 83215,
+                "rent": 5438,
+                "area": 32,
+                "street": "pilegården",
+                "street_number": "1c",
+                "city": "göteborg",
+                "zip": "43635",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 1203,
+                "$last_seen": "2023-05-16T14:41:40.512Z"
               }
             ],
             "nergårdsvägen": [
@@ -23737,6 +23765,20 @@
                 "$districtName": "bergsjön",
                 "last_accept": 836,
                 "$last_seen": "2023-05-11T09:42:33.710Z"
+              },
+              {
+                "id": 83711,
+                "rent": 9893,
+                "area": 83,
+                "street": "atmosfärgatan",
+                "street_number": "11",
+                "city": "göteborg",
+                "zip": "41561",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bergsjön",
+                "last_accept": 385,
+                "$last_seen": "2023-05-16T14:41:40.512Z"
               }
             ],
             "zenitgatan": [
@@ -28317,6 +28359,20 @@
                 "$districtName": "örgryte",
                 "last_accept": 1254,
                 "$last_seen": "2023-04-26T13:44:40.171Z"
+              },
+              {
+                "id": 82730,
+                "rent": 17588,
+                "area": 140,
+                "street": "prästgårdsängen",
+                "street_number": "2",
+                "city": "göteborg",
+                "zip": "41271",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1046,
+                "$last_seen": "2023-05-16T14:41:40.512Z"
               }
             ],
             "karlfeldtsgatan": [
