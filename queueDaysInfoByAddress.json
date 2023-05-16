@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-05-16T06:44:28.079Z",
+  "lastUpdatedAt": "2023-05-16T07:40:11.304Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -4007,6 +4007,20 @@
                 "$districtName": "johanneberg",
                 "last_accept": 947,
                 "$last_seen": "2023-05-11T07:42:35.794Z"
+              },
+              {
+                "id": 82689,
+                "rent": 10199,
+                "area": 58,
+                "street": "ebbe lieberathsgatan",
+                "street_number": "22 e",
+                "city": "göteborg",
+                "zip": "41265",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 893,
+                "$last_seen": "2023-05-16T06:44:28.079Z"
               }
             ],
             "nordgårdsgatan": [
@@ -10061,6 +10075,34 @@
                 "$districtName": "brämaregården",
                 "last_accept": 1283,
                 "$last_seen": "2023-02-26T13:00:03.636Z"
+              },
+              {
+                "id": 80605,
+                "rent": 12960,
+                "area": 82,
+                "street": "fjärdingsgatan",
+                "street_number": "27",
+                "city": "göteborg",
+                "zip": "41724",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brämaregården",
+                "last_accept": 1117,
+                "$last_seen": "2023-05-16T06:44:28.079Z"
+              },
+              {
+                "id": 80607,
+                "rent": 12960,
+                "area": 82,
+                "street": "fjärdingsgatan",
+                "street_number": "27",
+                "city": "göteborg",
+                "zip": "41724",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brämaregården",
+                "last_accept": 1156,
+                "$last_seen": "2023-05-16T06:44:28.079Z"
               }
             ],
             "madängsgatan": [
@@ -29903,6 +29945,20 @@
                 "$districtName": "örgryte",
                 "last_accept": 993,
                 "$last_seen": "2023-05-15T13:42:55.512Z"
+              },
+              {
+                "id": 82657,
+                "rent": 10605,
+                "area": 54,
+                "street": "skummjölksgatan",
+                "street_number": "8",
+                "city": "göteborg",
+                "zip": "41278",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 249,
+                "$last_seen": "2023-05-16T06:44:28.079Z"
               }
             ],
             "separatorsgatan": [
