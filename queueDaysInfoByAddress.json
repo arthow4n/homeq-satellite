@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-05-17T07:40:29.799Z",
+  "lastUpdatedAt": "2023-05-17T08:43:55.532Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -21269,6 +21269,20 @@
                 "$districtName": "askim",
                 "last_accept": 142,
                 "$last_seen": "2023-04-19T05:42:55.566Z"
+              },
+              {
+                "id": 83359,
+                "rent": 13208,
+                "area": 74,
+                "street": "kobbeslätten",
+                "street_number": "8",
+                "city": "göteborg",
+                "zip": "43637",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 10,
+                "$last_seen": "2023-05-17T07:40:29.799Z"
               }
             ],
             "kobbegården": [
@@ -26765,6 +26779,20 @@
                 "$districtName": "göteborgs domkyrkodistrikt",
                 "last_accept": 1333,
                 "$last_seen": "2023-05-15T13:42:55.512Z"
+              },
+              {
+                "id": 81807,
+                "rent": 10483,
+                "area": 65,
+                "street": "bangårdsgatan",
+                "street_number": "21",
+                "city": "göteborg",
+                "zip": "41112",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs domkyrkodistrikt",
+                "last_accept": 1430,
+                "$last_seen": "2023-05-17T07:40:29.799Z"
               },
               {
                 "id": 81809,
@@ -42599,6 +42627,20 @@
                 "$districtName": "kirseberg",
                 "last_accept": 0,
                 "$last_seen": "2023-05-11T07:42:35.794Z"
+              },
+              {
+                "id": 83608,
+                "rent": 9210,
+                "area": 66,
+                "street": "gerlachsgatan",
+                "street_number": "2 b",
+                "city": "malmö",
+                "zip": "21219",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "kirseberg",
+                "last_accept": 0,
+                "$last_seen": "2023-05-17T07:40:29.799Z"
               }
             ],
             "dalhemsgtan": [
@@ -42863,6 +42905,20 @@
                 "$districtName": "hyllie",
                 "last_accept": 43,
                 "$last_seen": "2023-05-11T11:41:57.176Z"
+              },
+              {
+                "id": 83634,
+                "rent": 11651,
+                "area": 69,
+                "street": "tors gränd",
+                "street_number": "10",
+                "city": "malmö",
+                "zip": "21534",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "hyllie",
+                "last_accept": 0,
+                "$last_seen": "2023-05-17T07:40:29.799Z"
               }
             ],
             "allétorget": [
@@ -44039,6 +44095,20 @@
                 "$districtName": "hägersten",
                 "last_accept": 249,
                 "$last_seen": "2023-04-19T13:01:12.800Z"
+              },
+              {
+                "id": 83762,
+                "rent": 17915,
+                "area": 83,
+                "street": "zachrisbergsgatan",
+                "street_number": "9",
+                "city": "stockholm",
+                "zip": "11755",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "hägersten",
+                "last_accept": 30,
+                "$last_seen": "2023-05-17T07:40:29.799Z"
               }
             ]
           }
