@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-05-17T06:43:39.008Z",
+  "lastUpdatedAt": "2023-05-17T07:40:29.799Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -6199,6 +6199,20 @@
                 "$districtName": "högsbo",
                 "last_accept": 39,
                 "$last_seen": "2023-04-20T08:46:01.540Z"
+              },
+              {
+                "id": 82933,
+                "rent": 12407,
+                "area": 70,
+                "street": "skillingmyntsgatan",
+                "street_number": "2",
+                "city": "göteborg",
+                "zip": "41484",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 332,
+                "$last_seen": "2023-05-17T06:43:39.008Z"
               }
             ],
             "synhållsgatan": [
@@ -16123,6 +16137,20 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1464,
                 "$last_seen": "2023-02-08T11:35:57.397Z"
+              },
+              {
+                "id": 81685,
+                "rent": 10264,
+                "area": 68,
+                "street": "liedstrandsgatan",
+                "street_number": "6",
+                "city": "göteborg",
+                "zip": "41658",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1589,
+                "$last_seen": "2023-05-17T06:43:39.008Z"
               }
             ],
             "övre olskroksgatan": [
