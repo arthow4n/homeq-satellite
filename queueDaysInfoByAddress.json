@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-05-17T11:40:34.791Z",
+  "lastUpdatedAt": "2023-05-17T12:59:53.823Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -2949,6 +2949,20 @@
                 "$districtName": "kållered",
                 "last_accept": 1181,
                 "$last_seen": "2023-05-05T08:44:35.436Z"
+              },
+              {
+                "id": 82654,
+                "rent": 8410,
+                "area": 76,
+                "street": "våmmedalsvägen",
+                "street_number": "68",
+                "city": "kållered",
+                "zip": "42831",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "kållered",
+                "last_accept": 1361,
+                "$last_seen": "2023-05-17T11:40:34.791Z"
               },
               {
                 "id": 82671,
@@ -16773,6 +16787,20 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1570,
                 "$last_seen": "2023-04-27T14:44:44.527Z"
+              },
+              {
+                "id": 82999,
+                "rent": 14438,
+                "area": 112,
+                "street": "danska vägen",
+                "street_number": "84d",
+                "city": "göteborg",
+                "zip": "41659",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1589,
+                "$last_seen": "2023-05-17T11:40:34.791Z"
               }
             ],
             "vävskedsgatan": [
@@ -22047,6 +22075,20 @@
                 "$districtName": "askim",
                 "last_accept": 439,
                 "$last_seen": "2023-05-16T07:40:11.304Z"
+              },
+              {
+                "id": 83380,
+                "rent": 7442,
+                "area": 30,
+                "street": "askims pilegårdsväg",
+                "street_number": "46",
+                "city": "göteborg",
+                "zip": "43635",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 276,
+                "$last_seen": "2023-05-17T11:40:34.791Z"
               }
             ]
           },
@@ -40925,6 +40967,20 @@
                 "$districtName": "brunnsbo",
                 "last_accept": 1396,
                 "$last_seen": "2023-05-04T08:45:11.207Z"
+              },
+              {
+                "id": 83276,
+                "rent": 5527,
+                "area": 38,
+                "street": "klassikergatan",
+                "street_number": "19",
+                "city": "hisings backa",
+                "zip": "42241",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brunnsbo",
+                "last_accept": 768,
+                "$last_seen": "2023-05-17T11:40:34.791Z"
               }
             ],
             "prologgatan": [
@@ -41329,6 +41385,20 @@
                 "$districtName": "tynnered",
                 "last_accept": 1202,
                 "$last_seen": "2023-05-11T10:45:37.261Z"
+              },
+              {
+                "id": 79934,
+                "rent": 8842,
+                "area": 77,
+                "street": "bergkristallsgatan",
+                "street_number": "18",
+                "city": "västra frölunda",
+                "zip": "42651",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tynnered",
+                "last_accept": 1198,
+                "$last_seen": "2023-05-17T10:44:12.335Z"
               }
             ],
             "briljantgatan": [
