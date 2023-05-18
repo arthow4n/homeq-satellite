@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-05-18T08:43:26.917Z",
+  "lastUpdatedAt": "2023-05-18T09:41:05.847Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -42305,6 +42305,36 @@
                 "$last_seen": "2023-03-30T06:44:48.551Z"
               }
             ],
+            "lilla varvsgatan": [
+              {
+                "id": 79204,
+                "rent": 10362,
+                "area": 58,
+                "street": "lilla varvsgatan",
+                "street_number": "24",
+                "city": "malmö",
+                "zip": "21175",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "malmö sankt petri",
+                "last_accept": 426,
+                "$last_seen": "2023-05-18T08:43:26.917Z"
+              },
+              {
+                "id": 81393,
+                "rent": 10473,
+                "area": 58,
+                "street": "lilla varvsgatan",
+                "street_number": "24",
+                "city": "malmö",
+                "zip": "21175",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "malmö sankt petri",
+                "last_accept": 0,
+                "$last_seen": "2023-04-28T07:41:22.543Z"
+              }
+            ],
             "v rönneholmsv": [
               {
                 "id": 81009,
@@ -42319,22 +42349,6 @@
                 "$districtName": "malmö sankt petri",
                 "last_accept": 113,
                 "$last_seen": "2023-04-26T14:43:48.292Z"
-              }
-            ],
-            "lilla varvsgatan": [
-              {
-                "id": 81393,
-                "rent": 10473,
-                "area": 58,
-                "street": "lilla varvsgatan",
-                "street_number": "24",
-                "city": "malmö",
-                "zip": "21175",
-                "municipality": "malmö",
-                "county": "skåne län",
-                "$districtName": "malmö sankt petri",
-                "last_accept": 0,
-                "$last_seen": "2023-04-28T07:41:22.543Z"
               }
             ],
             "gasverksgatan": [
