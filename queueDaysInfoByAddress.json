@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-05-19T05:41:40.454Z",
+  "lastUpdatedAt": "2023-05-19T06:44:42.150Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -42845,6 +42845,22 @@
                 "$districtName": "kirseberg",
                 "last_accept": 216,
                 "$last_seen": "2023-04-27T13:49:03.126Z"
+              }
+            ],
+            "sperlingsgatan": [
+              {
+                "id": 82742,
+                "rent": 6672,
+                "area": 64,
+                "street": "sperlingsgatan",
+                "street_number": "18",
+                "city": "malmö",
+                "zip": "21222",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "kirseberg",
+                "last_accept": 15,
+                "$last_seen": "2023-05-19T05:41:40.454Z"
               }
             ]
           },
