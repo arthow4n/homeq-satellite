@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-05-21T13:41:05.153Z",
+  "lastUpdatedAt": "2023-05-21T14:40:52.110Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -41055,6 +41055,22 @@
                 "$districtName": "brunnsbo",
                 "last_accept": 1159,
                 "$last_seen": "2023-04-24T13:43:04.186Z"
+              }
+            ],
+            "poesigatan": [
+              {
+                "id": 82591,
+                "rent": 5781,
+                "area": 60,
+                "street": "poesigatan",
+                "street_number": "6",
+                "city": "hisings backa",
+                "zip": "42241",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brunnsbo",
+                "last_accept": 1528,
+                "$last_seen": "2023-05-21T13:41:05.153Z"
               }
             ]
           }
