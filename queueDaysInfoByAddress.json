@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-05-22T06:45:21.852Z",
+  "lastUpdatedAt": "2023-05-22T07:40:29.914Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -9533,6 +9533,20 @@
                 "$districtName": "brämaregården",
                 "last_accept": 1497,
                 "$last_seen": "2023-02-13T13:44:48.539Z"
+              },
+              {
+                "id": 83221,
+                "rent": 7000,
+                "area": 61,
+                "street": "lantmätaregatan",
+                "street_number": "6",
+                "city": "göteborg",
+                "zip": "41739",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brämaregården",
+                "last_accept": 1552,
+                "$last_seen": "2023-05-22T06:45:21.852Z"
               }
             ],
             "långängen": [
@@ -38729,18 +38743,18 @@
                 "$last_seen": "2023-04-25T07:40:19.187Z"
               },
               {
-                "id": 80696,
-                "rent": 6280,
-                "area": 41,
+                "id": 80690,
+                "rent": 10477,
+                "area": 83,
                 "street": "långströmsgatan",
-                "street_number": "6a",
+                "street_number": "50b",
                 "city": "göteborg",
                 "zip": "41870",
                 "municipality": "göteborg",
                 "county": "västra götalands län",
                 "$districtName": "biskopsgården",
-                "last_accept": 921,
-                "$last_seen": "2023-04-28T11:39:55.881Z"
+                "last_accept": 683,
+                "$last_seen": "2023-05-22T06:45:21.852Z"
               },
               {
                 "id": 80956,
@@ -41287,6 +41301,20 @@
                 "$last_seen": "2023-05-04T10:45:09.761Z"
               },
               {
+                "id": 80892,
+                "rent": 11872,
+                "area": 73,
+                "street": "smaragdgatan",
+                "street_number": "10 b",
+                "city": "västra frölunda",
+                "zip": "42149",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tynnered",
+                "last_accept": 0,
+                "$last_seen": "2023-05-22T06:45:21.852Z"
+              },
+              {
                 "id": 81981,
                 "rent": 8433,
                 "area": 70,
@@ -41549,6 +41577,20 @@
                 "$districtName": "västra frölunda",
                 "last_accept": 396,
                 "$last_seen": "2023-03-30T07:37:55.039Z"
+              },
+              {
+                "id": 83248,
+                "rent": 11482,
+                "area": 80,
+                "street": "munspelsgatan",
+                "street_number": "10",
+                "city": "västra frölunda",
+                "zip": "42151",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "västra frölunda",
+                "last_accept": 426,
+                "$last_seen": "2023-05-22T06:45:21.852Z"
               }
             ],
             "speldosegatan": [
@@ -41565,6 +41607,20 @@
                 "$districtName": "västra frölunda",
                 "last_accept": 436,
                 "$last_seen": "2023-03-31T05:38:58.592Z"
+              },
+              {
+                "id": 83290,
+                "rent": 11482,
+                "area": 80,
+                "street": "speldosegatan",
+                "street_number": "6",
+                "city": "västra frölunda",
+                "zip": "42151",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "västra frölunda",
+                "last_accept": 422,
+                "$last_seen": "2023-05-22T06:45:21.852Z"
               }
             ],
             "tamburingatan": [
@@ -41631,6 +41687,20 @@
                 "$districtName": "tynnered",
                 "last_accept": 1530,
                 "$last_seen": "2023-03-31T11:36:51.392Z"
+              },
+              {
+                "id": 83206,
+                "rent": 7819,
+                "area": 74,
+                "street": "lilla grevegårdsv",
+                "street_number": "5",
+                "city": "västra frölunda ",
+                "zip": "42655",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tynnered",
+                "last_accept": 1386,
+                "$last_seen": "2023-05-22T06:45:21.852Z"
               }
             ]
           },
