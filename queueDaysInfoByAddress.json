@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-05-22T11:40:13.436Z",
+  "lastUpdatedAt": "2023-05-22T12:58:54.716Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -21015,6 +21015,20 @@
                 "$districtName": "askim",
                 "last_accept": 1352,
                 "$last_seen": "2023-05-15T06:46:43.201Z"
+              },
+              {
+                "id": 83377,
+                "rent": 4223,
+                "area": 28,
+                "street": "nergårdsvägen",
+                "street_number": "7",
+                "city": "göteborg",
+                "zip": "43636",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 1209,
+                "$last_seen": "2023-05-22T11:40:13.436Z"
               }
             ],
             "hyltegården": [
@@ -26093,6 +26107,20 @@
                 "$districtName": "göteborgs domkyrkodistrikt",
                 "last_accept": 1322,
                 "$last_seen": "2022-08-25T13:32:44.697Z"
+              },
+              {
+                "id": 83170,
+                "rent": 6501,
+                "area": 29,
+                "street": "vasaplatsen",
+                "street_number": "5c",
+                "city": "göteborg",
+                "zip": "41126",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs domkyrkodistrikt",
+                "last_accept": 1592,
+                "$last_seen": "2023-05-22T11:40:13.436Z"
               }
             ],
             "bangårdsgatan": [
@@ -34557,6 +34585,20 @@
                 "$districtName": "göteborgs vasa",
                 "last_accept": 1563,
                 "$last_seen": "2023-04-20T10:45:35.136Z"
+              },
+              {
+                "id": 83367,
+                "rent": 10608,
+                "area": 70,
+                "street": "viktor rydbergsgatan",
+                "street_number": "1 b",
+                "city": "göteborg",
+                "zip": "41134",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs vasa",
+                "last_accept": 1594,
+                "$last_seen": "2023-05-22T11:40:13.436Z"
               }
             ],
             "nedre fogelbergsgatan": [
@@ -41289,6 +41331,20 @@
                 "$districtName": "askim",
                 "last_accept": 263,
                 "$last_seen": "2023-05-12T09:42:30.991Z"
+              },
+              {
+                "id": 83240,
+                "rent": 11783,
+                "area": 69,
+                "street": "sisjöbäckens väg",
+                "street_number": "4",
+                "city": "askim",
+                "zip": "43638",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 313,
+                "$last_seen": "2023-05-22T11:40:13.436Z"
               }
             ],
             "kobbegården": [
@@ -41513,6 +41569,20 @@
                 "$last_seen": "2023-05-15T13:01:49.544Z"
               },
               {
+                "id": 82466,
+                "rent": 6147,
+                "area": 39,
+                "street": "smyckegatan",
+                "street_number": "27",
+                "city": "västra frölunda",
+                "zip": "42650",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tynnered",
+                "last_accept": 888,
+                "$last_seen": "2023-05-22T11:40:13.436Z"
+              },
+              {
                 "id": 82469,
                 "rent": 8615,
                 "area": 69,
@@ -41539,6 +41609,62 @@
                 "$districtName": "tynnered",
                 "last_accept": 286,
                 "$last_seen": "2023-05-10T13:49:31.002Z"
+              },
+              {
+                "id": 83242,
+                "rent": 10156,
+                "area": 96,
+                "street": "smyckegatan",
+                "street_number": "15",
+                "city": "västra frölunda",
+                "zip": "42650",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tynnered",
+                "last_accept": 1552,
+                "$last_seen": "2023-05-22T11:40:13.436Z"
+              },
+              {
+                "id": 83399,
+                "rent": 8990,
+                "area": 81,
+                "street": "smyckegatan",
+                "street_number": "79",
+                "city": "västra frölunda",
+                "zip": "42651",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tynnered",
+                "last_accept": 1385,
+                "$last_seen": "2023-05-22T11:40:13.436Z"
+              },
+              {
+                "id": 83401,
+                "rent": 10113,
+                "area": 94,
+                "street": "smyckegatan",
+                "street_number": "76",
+                "city": "västra frölunda",
+                "zip": "42651",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tynnered",
+                "last_accept": 914,
+                "$last_seen": "2023-05-22T11:40:13.436Z"
+              },
+              {
+                "id": 83404,
+                "rent": 10938,
+                "area": 94,
+                "street": "smyckegatan",
+                "street_number": "76",
+                "city": "västra frölunda",
+                "zip": "42651",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tynnered",
+                "last_accept": 914,
+                "$last_seen": "2023-05-22T11:40:13.436Z"
               }
             ],
             "björkhöjdsgatan": [
