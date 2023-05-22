@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-05-22T04:44:34.475Z",
+  "lastUpdatedAt": "2023-05-22T05:42:26.203Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -5957,6 +5957,22 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1491,
                 "$last_seen": "2023-05-02T07:40:09.119Z"
+              }
+            ],
+            "formskäraregatan": [
+              {
+                "id": 83213,
+                "rent": 11561,
+                "area": 67,
+                "street": "formskäraregatan",
+                "street_number": "5",
+                "city": "göteborg",
+                "zip": "41261",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1334,
+                "$last_seen": "2023-05-22T04:44:34.475Z"
               }
             ]
           },
