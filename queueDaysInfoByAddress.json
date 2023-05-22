@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-05-22T13:41:11.867Z",
+  "lastUpdatedAt": "2023-05-22T14:41:18.963Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -41225,6 +41225,20 @@
                 "$districtName": "brunnsbo",
                 "last_accept": 1159,
                 "$last_seen": "2023-04-24T13:43:04.186Z"
+              },
+              {
+                "id": 81571,
+                "rent": 8145,
+                "area": 60,
+                "street": "sångspelsgatan",
+                "street_number": "3",
+                "city": "hisings backa",
+                "zip": "42241",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brunnsbo",
+                "last_accept": 1277,
+                "$last_seen": "2023-05-22T13:41:11.867Z"
               }
             ],
             "poesigatan": [
