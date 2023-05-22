@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-05-22T08:44:41.663Z",
+  "lastUpdatedAt": "2023-05-22T09:40:15.955Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -39007,6 +39007,20 @@
                 "$districtName": "biskopsgården",
                 "last_accept": 458,
                 "$last_seen": "2023-05-12T07:42:12.539Z"
+              },
+              {
+                "id": 83750,
+                "rent": 6282,
+                "area": 41,
+                "street": "långströmsgatan",
+                "street_number": "46b",
+                "city": "göteborg",
+                "zip": "41870",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "biskopsgården",
+                "last_accept": 724,
+                "$last_seen": "2023-05-22T08:44:41.663Z"
               }
             ],
             "lufttrycksgatan": [
@@ -39731,6 +39745,20 @@
                 "$districtName": "tuve",
                 "last_accept": 1043,
                 "$last_seen": "2023-05-11T11:41:57.176Z"
+              },
+              {
+                "id": 83337,
+                "rent": 11270,
+                "area": 71,
+                "street": "fruktträdsgatan",
+                "street_number": "1",
+                "city": "göteborg",
+                "zip": "41749",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tuve",
+                "last_accept": 1066,
+                "$last_seen": "2023-05-22T08:44:41.663Z"
               }
             ]
           },
@@ -41727,6 +41755,24 @@
                 "$last_seen": "2023-05-12T09:42:30.991Z"
               }
             ]
+          },
+          "högsbo": {
+            "svängrumsgatan": [
+              {
+                "id": 83392,
+                "rent": 8635,
+                "area": 77,
+                "street": "svängrumsgatan",
+                "street_number": "55",
+                "city": "västra frölunda",
+                "zip": "42171",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 1511,
+                "$last_seen": "2023-05-22T08:44:41.663Z"
+              }
+            ]
           }
         },
         "västra frölunda ": {
@@ -42927,6 +42973,36 @@
                 "$last_seen": "2023-04-17T06:48:23.318Z"
               }
             ],
+            "sperlingsgatan": [
+              {
+                "id": 78946,
+                "rent": 7386,
+                "area": 64,
+                "street": "sperlingsgatan",
+                "street_number": "16",
+                "city": "malmö",
+                "zip": "21222",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "kirseberg",
+                "last_accept": 17,
+                "$last_seen": "2023-05-22T08:44:41.663Z"
+              },
+              {
+                "id": 82742,
+                "rent": 6672,
+                "area": 64,
+                "street": "sperlingsgatan",
+                "street_number": "18",
+                "city": "malmö",
+                "zip": "21222",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "kirseberg",
+                "last_accept": 15,
+                "$last_seen": "2023-05-19T05:41:40.454Z"
+              }
+            ],
             "gerlachsgatan": [
               {
                 "id": 79080,
@@ -43061,22 +43137,6 @@
                 "$districtName": "kirseberg",
                 "last_accept": 216,
                 "$last_seen": "2023-04-27T13:49:03.126Z"
-              }
-            ],
-            "sperlingsgatan": [
-              {
-                "id": 82742,
-                "rent": 6672,
-                "area": 64,
-                "street": "sperlingsgatan",
-                "street_number": "18",
-                "city": "malmö",
-                "zip": "21222",
-                "municipality": "malmö",
-                "county": "skåne län",
-                "$districtName": "kirseberg",
-                "last_accept": 15,
-                "$last_seen": "2023-05-19T05:41:40.454Z"
               }
             ]
           },
