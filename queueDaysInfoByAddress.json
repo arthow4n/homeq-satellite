@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-05-22T09:40:15.955Z",
+  "lastUpdatedAt": "2023-05-22T10:44:04.333Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -11009,6 +11009,20 @@
                 "$districtName": "lundby",
                 "last_accept": 546,
                 "$last_seen": "2023-05-04T08:45:11.207Z"
+              },
+              {
+                "id": 83176,
+                "rent": 14675,
+                "area": 92,
+                "street": "hjalmar brantingsgatan",
+                "street_number": "104",
+                "city": "göteborg",
+                "zip": "41711",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 603,
+                "$last_seen": "2023-05-22T09:40:15.955Z"
               }
             ],
             "rosenapelgatan": [
