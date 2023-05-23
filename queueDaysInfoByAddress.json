@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-05-23T13:43:00.620Z",
+  "lastUpdatedAt": "2023-05-23T14:43:46.846Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -19871,6 +19871,20 @@
                 "$districtName": "kortedala",
                 "last_accept": 984,
                 "$last_seen": "2023-04-06T07:39:24.230Z"
+              },
+              {
+                "id": 83308,
+                "rent": 2996,
+                "area": 30.5,
+                "street": "februarigatan",
+                "street_number": "22",
+                "city": "göteborg",
+                "zip": "41546",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "kortedala",
+                "last_accept": 1162,
+                "$last_seen": "2023-05-23T13:43:00.620Z"
               }
             ],
             "kalendervägen": [
@@ -33801,6 +33815,20 @@
                 "$districtName": "göteborgs vasa",
                 "last_accept": 1560,
                 "$last_seen": "2023-04-19T11:40:48.816Z"
+              },
+              {
+                "id": 82982,
+                "rent": 6839,
+                "area": 49,
+                "street": "engelbrektsgatan",
+                "street_number": "34 b",
+                "city": "göteborg",
+                "zip": "41137",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs vasa",
+                "last_accept": 1678,
+                "$last_seen": "2023-05-23T13:00:09.516Z"
               }
             ],
             "erik dahlbergsgatan": [
