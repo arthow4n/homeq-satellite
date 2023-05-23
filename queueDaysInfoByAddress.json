@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-05-23T14:43:46.846Z",
+  "lastUpdatedAt": "2023-05-23T15:41:50.556Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -31201,6 +31201,20 @@
                 "$districtName": "västra frölunda",
                 "last_accept": 730,
                 "$last_seen": "2022-11-23T06:45:49.935Z"
+              },
+              {
+                "id": 76367,
+                "rent": 10749,
+                "area": 72,
+                "street": "trumgatan",
+                "street_number": "7",
+                "city": "göteborg",
+                "zip": "42151",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "västra frölunda",
+                "last_accept": 1159,
+                "$last_seen": "2023-05-23T14:43:46.846Z"
               }
             ],
             "tvärflöjtsgatan": [
