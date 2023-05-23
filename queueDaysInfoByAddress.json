@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-05-23T13:00:09.516Z",
+  "lastUpdatedAt": "2023-05-23T13:43:00.620Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -389,6 +389,20 @@
                 "$districtName": "fässberg",
                 "last_accept": 1394,
                 "$last_seen": "2023-05-15T10:45:30.035Z"
+              },
+              {
+                "id": 83309,
+                "rent": 6886,
+                "area": 44,
+                "street": "berghemsgatan",
+                "street_number": "26",
+                "city": "mölndal",
+                "zip": "43137",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 1311,
+                "$last_seen": "2023-05-23T13:00:09.516Z"
               }
             ],
             "brogatan": [
@@ -18599,6 +18613,20 @@
                 "$districtName": "kortedala",
                 "last_accept": 529,
                 "$last_seen": "2023-04-27T06:47:40.119Z"
+              },
+              {
+                "id": 83336,
+                "rent": 7249,
+                "area": 70,
+                "street": "allhelgonagatan",
+                "street_number": "6",
+                "city": "göteborg",
+                "zip": "41545",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "kortedala",
+                "last_accept": 1444,
+                "$last_seen": "2023-05-23T13:00:09.516Z"
               }
             ],
             "julaftonsgatan": [
