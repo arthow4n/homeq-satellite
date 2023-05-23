@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-05-23T05:41:28.951Z",
+  "lastUpdatedAt": "2023-05-23T06:44:00.356Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -19179,6 +19179,20 @@
                 "$districtName": "kortedala",
                 "last_accept": 1287,
                 "$last_seen": "2023-05-03T09:40:16.898Z"
+              },
+              {
+                "id": 81021,
+                "rent": 8139,
+                "area": 64,
+                "street": "solvarvsgatan",
+                "street_number": "34",
+                "city": "göteborg",
+                "zip": "41531",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "kortedala",
+                "last_accept": 1362,
+                "$last_seen": "2023-05-23T05:41:28.951Z"
               },
               {
                 "id": 81023,
