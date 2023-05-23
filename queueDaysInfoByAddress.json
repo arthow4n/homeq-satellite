@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-05-23T06:44:00.356Z",
+  "lastUpdatedAt": "2023-05-23T07:40:19.622Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -2165,6 +2165,20 @@
                 "$districtName": "fässberg",
                 "last_accept": 942,
                 "$last_seen": "2023-05-15T11:41:29.769Z"
+              },
+              {
+                "id": 82745,
+                "rent": 8605,
+                "area": 46,
+                "street": "åby allé",
+                "street_number": "61",
+                "city": "göteborg",
+                "zip": "43145",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 1293,
+                "$last_seen": "2023-05-23T06:44:00.356Z"
               }
             ],
             "åbyvägen": [
@@ -8721,6 +8735,20 @@
                 "$districtName": "högsbo",
                 "last_accept": 1306,
                 "$last_seen": "2023-04-18T03:42:25.425Z"
+              },
+              {
+                "id": 83445,
+                "rent": 11097,
+                "area": 78,
+                "street": "högsbogatan",
+                "street_number": "21",
+                "city": "göteborg",
+                "zip": "41475",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 1384,
+                "$last_seen": "2023-05-23T06:44:00.356Z"
               }
             ],
             "lilla tunnlandsgatan": [
@@ -21043,6 +21071,20 @@
                 "$districtName": "askim",
                 "last_accept": 1209,
                 "$last_seen": "2023-05-22T11:40:13.436Z"
+              },
+              {
+                "id": 83694,
+                "rent": 4977,
+                "area": 28,
+                "street": "nergårdsvägen",
+                "street_number": "15",
+                "city": "göteborg",
+                "zip": "43635",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 933,
+                "$last_seen": "2023-05-23T06:44:00.356Z"
               }
             ],
             "hyltegården": [
@@ -25309,6 +25351,22 @@
                 "$districtName": "nylöse",
                 "last_accept": 1492,
                 "$last_seen": "2023-03-13T11:37:29.402Z"
+              }
+            ],
+            "holländareplatsen": [
+              {
+                "id": 83369,
+                "rent": 9911,
+                "area": 86,
+                "street": "holländareplatsen",
+                "street_number": "11",
+                "city": "göteborg",
+                "zip": "41514",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "nylöse",
+                "last_accept": 1491,
+                "$last_seen": "2023-05-23T06:44:00.356Z"
               }
             ]
           },
