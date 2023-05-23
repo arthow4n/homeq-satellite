@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-05-23T09:40:33.838Z",
+  "lastUpdatedAt": "2023-05-23T10:43:54.363Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -44973,6 +44973,26 @@
                 "$districtName": "skärholmen",
                 "last_accept": 1432,
                 "$last_seen": "2023-05-12T04:45:13.168Z"
+              }
+            ]
+          }
+        },
+        "hägersten": {
+          "hägersten": {
+            "erikslundsgatan": [
+              {
+                "id": 80793,
+                "rent": 4487,
+                "area": 24,
+                "street": "erikslundsgatan",
+                "street_number": "5",
+                "city": "hägersten",
+                "zip": "12632",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "hägersten",
+                "last_accept": 2113,
+                "$last_seen": "2023-05-23T09:40:33.838Z"
               }
             ]
           }
