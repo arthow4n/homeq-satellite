@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-05-23T11:40:43.744Z",
+  "lastUpdatedAt": "2023-05-23T13:00:09.516Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -6385,20 +6385,6 @@
                 "$districtName": "högsbo",
                 "last_accept": 1385,
                 "$last_seen": "2023-05-02T13:43:13.816Z"
-              },
-              {
-                "id": 83548,
-                "rent": 6500,
-                "area": 48,
-                "street": "synhållsgatan",
-                "street_number": "15",
-                "city": "göteborg",
-                "zip": "42173",
-                "municipality": "göteborg",
-                "county": "västra götalands län",
-                "$districtName": "högsbo",
-                "last_accept": 1315,
-                "$last_seen": "2023-05-19T10:43:52.093Z"
               }
             ],
             "nymilsgatan": [
