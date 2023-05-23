@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-05-23T08:43:29.354Z",
+  "lastUpdatedAt": "2023-05-23T09:40:33.838Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -5971,20 +5971,6 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1491,
                 "$last_seen": "2023-05-02T07:40:09.119Z"
-              },
-              {
-                "id": 83620,
-                "rent": 8753,
-                "area": 57,
-                "street": "rosensköldsgatan",
-                "street_number": "11",
-                "city": "göteborg",
-                "zip": "41258",
-                "municipality": "göteborg",
-                "county": "västra götalands län",
-                "$districtName": "johanneberg",
-                "last_accept": 1429,
-                "$last_seen": "2023-05-23T07:40:19.622Z"
               }
             ],
             "formskäraregatan": [
@@ -21085,6 +21071,20 @@
                 "$districtName": "askim",
                 "last_accept": 933,
                 "$last_seen": "2023-05-23T06:44:00.356Z"
+              },
+              {
+                "id": 83843,
+                "rent": 11152,
+                "area": 75,
+                "street": "nergårdsvägen",
+                "street_number": "47",
+                "city": "göteborg",
+                "zip": "43636",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 762,
+                "$last_seen": "2023-05-23T08:43:29.354Z"
               }
             ],
             "hyltegården": [
@@ -25085,6 +25085,20 @@
                 "$districtName": "nylöse",
                 "last_accept": 832,
                 "$last_seen": "2023-03-20T14:41:20.670Z"
+              },
+              {
+                "id": 82437,
+                "rent": 9156,
+                "area": 51.8,
+                "street": "hinderbanan",
+                "street_number": "32",
+                "city": "göteborg",
+                "zip": "41523",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "nylöse",
+                "last_accept": 790,
+                "$last_seen": "2023-05-23T08:43:29.354Z"
               }
             ],
             "gamlestadsvägen": [
@@ -42755,6 +42769,20 @@
                 "$districtName": "malmö sankt petri",
                 "last_accept": 146,
                 "$last_seen": "2023-05-02T14:42:22.229Z"
+              },
+              {
+                "id": 77972,
+                "rent": 9851,
+                "area": 65,
+                "street": "östergatan",
+                "street_number": "13 a",
+                "city": "malmö",
+                "zip": "21125",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "malmö sankt petri",
+                "last_accept": 735,
+                "$last_seen": "2023-05-23T08:43:29.354Z"
               }
             ],
             "banérsgatan": [
