@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-05-24T14:43:29.300Z",
+  "lastUpdatedAt": "2023-05-24T15:41:49.629Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -961,6 +961,20 @@
                 "$districtName": "fässberg",
                 "last_accept": 935,
                 "$last_seen": "2023-04-20T10:45:35.136Z"
+              },
+              {
+                "id": 83554,
+                "rent": 6600,
+                "area": 54,
+                "street": "örngatan",
+                "street_number": "1 e",
+                "city": "mölndal",
+                "zip": "43168",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 1546,
+                "$last_seen": "2023-05-24T14:43:29.300Z"
               }
             ],
             "luktärtsgatan": [
@@ -45025,6 +45039,20 @@
                 "$districtName": "vantör",
                 "last_accept": 474,
                 "$last_seen": "2023-05-24T11:41:38.006Z"
+              },
+              {
+                "id": 83152,
+                "rent": 10233,
+                "area": 76,
+                "street": "askersundsgatan",
+                "street_number": "4",
+                "city": "bandhagen",
+                "zip": "12467",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 1386,
+                "$last_seen": "2023-05-24T14:43:29.300Z"
               }
             ],
             "hagsätra torg": [
