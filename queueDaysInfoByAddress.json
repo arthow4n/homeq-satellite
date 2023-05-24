@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-05-24T13:43:04.368Z",
+  "lastUpdatedAt": "2023-05-24T14:43:29.300Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -8479,6 +8479,20 @@
                 "$districtName": "högsbo",
                 "last_accept": 1455,
                 "$last_seen": "2023-04-12T05:41:31.633Z"
+              },
+              {
+                "id": 80537,
+                "rent": 7593,
+                "area": 85,
+                "street": "marklandsgatan",
+                "street_number": "25",
+                "city": "göteborg",
+                "zip": "41477",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 1677,
+                "$last_seen": "2023-05-24T13:00:42.558Z"
               },
               {
                 "id": 81026,
@@ -18159,6 +18173,20 @@
                 "$districtName": "björkekärr",
                 "last_accept": 1396,
                 "$last_seen": "2023-03-16T07:37:37.253Z"
+              },
+              {
+                "id": 81814,
+                "rent": 8304,
+                "area": 64,
+                "street": "lådämnesgatan",
+                "street_number": "46",
+                "city": "göteborg",
+                "zip": "41679",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "björkekärr",
+                "last_accept": 1597,
+                "$last_seen": "2023-05-24T13:43:04.368Z"
               }
             ],
             "stabbegatan": [
