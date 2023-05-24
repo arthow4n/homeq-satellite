@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-05-24T11:41:38.006Z",
+  "lastUpdatedAt": "2023-05-24T13:00:42.558Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -8735,6 +8735,20 @@
                 "$districtName": "högsbo",
                 "last_accept": 1306,
                 "$last_seen": "2023-04-18T03:42:25.425Z"
+              },
+              {
+                "id": 79339,
+                "rent": 13121,
+                "area": 95,
+                "street": "högsbogatan",
+                "street_number": "23",
+                "city": "göteborg",
+                "zip": "41475",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 1583,
+                "$last_seen": "2023-05-24T11:41:38.006Z"
               },
               {
                 "id": 83445,
@@ -37129,6 +37143,20 @@
                 "$districtName": "masthugget",
                 "last_accept": 0,
                 "$last_seen": "2023-05-08T08:46:18.068Z"
+              },
+              {
+                "id": 83983,
+                "rent": 5814,
+                "area": 32,
+                "street": "djurgårdsgatan",
+                "street_number": "28",
+                "city": "göteborg",
+                "zip": "41462",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "masthugget",
+                "last_accept": 1364,
+                "$last_seen": "2023-05-24T11:41:38.006Z"
               }
             ],
             "dahlströmsgatan": [
@@ -44035,6 +44063,20 @@
                 "$districtName": "västra skrävlinge",
                 "last_accept": 0,
                 "$last_seen": "2023-04-24T11:40:42.753Z"
+              },
+              {
+                "id": 82252,
+                "rent": 9197,
+                "area": 86,
+                "street": "ramels väg",
+                "street_number": "35",
+                "city": "malmö",
+                "zip": "21368",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "västra skrävlinge",
+                "last_accept": 0,
+                "$last_seen": "2023-05-24T11:41:38.006Z"
               }
             ]
           },
@@ -44833,6 +44875,20 @@
                 "$districtName": "vantör",
                 "last_accept": 1281,
                 "$last_seen": "2023-03-31T05:38:58.592Z"
+              },
+              {
+                "id": 83161,
+                "rent": 7038,
+                "area": 67,
+                "street": "bäverbäcksgränd",
+                "street_number": "63",
+                "city": "bandhagen",
+                "zip": "12462",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 1633,
+                "$last_seen": "2023-05-24T11:41:38.006Z"
               }
             ],
             "kvarntorpsgränd": [
@@ -44897,6 +44953,20 @@
                 "$districtName": "vantör",
                 "last_accept": 1185,
                 "$last_seen": "2023-04-28T11:39:55.881Z"
+              },
+              {
+                "id": 83149,
+                "rent": 10903,
+                "area": 67,
+                "street": "askersundsgatan",
+                "street_number": "4",
+                "city": "bandhagen",
+                "zip": "12467",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 474,
+                "$last_seen": "2023-05-24T11:41:38.006Z"
               }
             ],
             "hagsätra torg": [
@@ -44987,6 +45057,20 @@
                 "$districtName": "vantör",
                 "last_accept": 701,
                 "$last_seen": "2023-04-28T10:43:52.502Z"
+              },
+              {
+                "id": 83154,
+                "rent": 9322,
+                "area": 79,
+                "street": "bäverdammsgränd",
+                "street_number": "17",
+                "city": "bandhagen",
+                "zip": "12463",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 1176,
+                "$last_seen": "2023-05-24T11:41:38.006Z"
               }
             ]
           }
