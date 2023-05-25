@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-05-25T13:47:43.330Z",
+  "lastUpdatedAt": "2023-05-25T14:43:51.870Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -27301,6 +27301,20 @@
                 "$districtName": "göteborgs domkyrkodistrikt",
                 "last_accept": 1429,
                 "$last_seen": "2023-05-16T11:40:06.445Z"
+              },
+              {
+                "id": 82737,
+                "rent": 6746,
+                "area": 34,
+                "street": "bangårdsgatan",
+                "street_number": "15",
+                "city": "göteborg",
+                "zip": "41112",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs domkyrkodistrikt",
+                "last_accept": 1321,
+                "$last_seen": "2023-05-25T13:47:43.330Z"
               }
             ],
             "burggreveplatsen": [
@@ -42299,6 +42313,20 @@
                 "$districtName": "västra frölunda",
                 "last_accept": 426,
                 "$last_seen": "2023-05-22T06:45:21.852Z"
+              },
+              {
+                "id": 83376,
+                "rent": 11482,
+                "area": 80,
+                "street": "munspelsgatan",
+                "street_number": "10",
+                "city": "västra frölunda",
+                "zip": "42151",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "västra frölunda",
+                "last_accept": 378,
+                "$last_seen": "2023-05-25T13:47:43.330Z"
               }
             ],
             "speldosegatan": [
