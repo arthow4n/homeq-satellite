@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-05-25T09:41:49.160Z",
+  "lastUpdatedAt": "2023-05-25T10:45:33.901Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -8139,6 +8139,20 @@
                 "$districtName": "högsbo",
                 "last_accept": 848,
                 "$last_seen": "2023-05-12T07:42:12.539Z"
+              },
+              {
+                "id": 83382,
+                "rent": 8869,
+                "area": 63,
+                "street": "pennygången",
+                "street_number": "27",
+                "city": "göteborg",
+                "zip": "41482",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 1209,
+                "$last_seen": "2023-05-25T09:41:49.160Z"
               }
             ],
             "skäpplandsgatan": [
@@ -43203,6 +43217,20 @@
                 "$districtName": "malmö sankt petri",
                 "last_accept": 0,
                 "$last_seen": "2023-04-28T07:41:22.543Z"
+              },
+              {
+                "id": 82601,
+                "rent": 10770,
+                "area": 60,
+                "street": "lilla varvsgatan",
+                "street_number": "24",
+                "city": "malmö",
+                "zip": "21175",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "malmö sankt petri",
+                "last_accept": 6,
+                "$last_seen": "2023-05-25T09:41:49.160Z"
               }
             ],
             "v rönneholmsv": [
