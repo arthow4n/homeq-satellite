@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-05-26T11:41:23.068Z",
+  "lastUpdatedAt": "2023-05-26T12:59:08.877Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -42625,6 +42625,34 @@
                 "$districtName": "västra frölunda",
                 "last_accept": 422,
                 "$last_seen": "2023-05-22T06:45:21.852Z"
+              },
+              {
+                "id": 83378,
+                "rent": 11482,
+                "area": 77,
+                "street": "speldosegatan",
+                "street_number": "2",
+                "city": "västra frölunda",
+                "zip": "42151",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "västra frölunda",
+                "last_accept": 423,
+                "$last_seen": "2023-05-26T11:41:23.068Z"
+              },
+              {
+                "id": 83666,
+                "rent": 11482,
+                "area": 80,
+                "street": "speldosegatan",
+                "street_number": "6",
+                "city": "västra frölunda",
+                "zip": "42151",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "västra frölunda",
+                "last_accept": 496,
+                "$last_seen": "2023-05-26T11:41:23.068Z"
               }
             ],
             "tamburingatan": [
