@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-05-26T04:45:00.481Z",
+  "lastUpdatedAt": "2023-05-26T05:43:00.767Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -42671,6 +42671,20 @@
                 "$districtName": "partille",
                 "last_accept": 1192,
                 "$last_seen": "2023-04-24T13:01:22.941Z"
+              },
+              {
+                "id": 83934,
+                "rent": 4814,
+                "area": 35,
+                "street": "stärteredsvägen",
+                "street_number": "30 b",
+                "city": "jonsered",
+                "zip": "43375",
+                "municipality": "partille",
+                "county": "västra götalands län",
+                "$districtName": "partille",
+                "last_accept": 1053,
+                "$last_seen": "2023-05-26T04:45:00.481Z"
               }
             ],
             "länsmansvägen": [
@@ -43105,6 +43119,20 @@
                 "$districtName": "sofielund",
                 "last_accept": 0,
                 "$last_seen": "2023-05-08T06:46:48.472Z"
+              },
+              {
+                "id": 83048,
+                "rent": 10375,
+                "area": 75,
+                "street": "osbygatan",
+                "street_number": "6",
+                "city": "malmö",
+                "zip": "21443",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "sofielund",
+                "last_accept": 0,
+                "$last_seen": "2023-05-26T04:45:00.481Z"
               }
             ]
           },
