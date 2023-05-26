@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-05-26T09:41:32.960Z",
+  "lastUpdatedAt": "2023-05-26T10:44:42.414Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -21001,6 +21001,20 @@
                 "$districtName": "askim",
                 "last_accept": 1053,
                 "$last_seen": "2023-05-26T05:43:00.767Z"
+              },
+              {
+                "id": 84027,
+                "rent": 9345,
+                "area": 64,
+                "street": "pilegården",
+                "street_number": "5g",
+                "city": "göteborg",
+                "zip": "43535",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 828,
+                "$last_seen": "2023-05-26T09:41:32.960Z"
               }
             ],
             "nergårdsvägen": [
@@ -26083,6 +26097,20 @@
                 "$districtName": "härlanda",
                 "last_accept": 1292,
                 "$last_seen": "2023-05-02T07:40:09.119Z"
+              },
+              {
+                "id": 83417,
+                "rent": 8904,
+                "area": 55.1,
+                "street": "utjordsgatan",
+                "street_number": "23",
+                "city": "göteborg",
+                "zip": "41656",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "härlanda",
+                "last_accept": 1527,
+                "$last_seen": "2023-05-26T09:41:32.960Z"
               }
             ],
             "lagmansgatan": [
@@ -40005,6 +40033,20 @@
                 "$districtName": "tuve",
                 "last_accept": 327,
                 "$last_seen": "2023-04-25T11:40:28.525Z"
+              },
+              {
+                "id": 81425,
+                "rent": 6567,
+                "area": 33.5,
+                "street": "herman anderssons väg",
+                "street_number": "4",
+                "city": "göteborg",
+                "zip": "41747",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tuve",
+                "last_accept": 153,
+                "$last_seen": "2023-05-26T09:41:32.960Z"
               }
             ],
             "gunnestorpsvägen": [
@@ -40221,6 +40263,20 @@
                 "$districtName": "tuve",
                 "last_accept": 200,
                 "$last_seen": "2023-05-16T08:43:19.226Z"
+              },
+              {
+                "id": 83427,
+                "rent": 8089,
+                "area": 40,
+                "street": "arves marias väg",
+                "street_number": "8",
+                "city": "göteborg",
+                "zip": "41747",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tuve",
+                "last_accept": 188,
+                "$last_seen": "2023-05-26T09:41:32.960Z"
               }
             ],
             "finlandsvägen": [
@@ -40293,6 +40349,20 @@
                 "$districtName": "tuve",
                 "last_accept": 44,
                 "$last_seen": "2023-04-26T07:41:30.808Z"
+              },
+              {
+                "id": 81374,
+                "rent": 6979,
+                "area": 35,
+                "street": "finlandsvägen",
+                "street_number": "53",
+                "city": "göteborg",
+                "zip": "41747",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tuve",
+                "last_accept": 17,
+                "$last_seen": "2023-05-26T09:41:32.960Z"
               }
             ],
             "fruktträdsgatan": [
@@ -43829,6 +43899,20 @@
                 "$districtName": "kirseberg",
                 "last_accept": 0,
                 "$last_seen": "2023-05-16T07:40:11.304Z"
+              },
+              {
+                "id": 84644,
+                "rent": 8887,
+                "area": 53.7,
+                "street": "lundavägen",
+                "street_number": "37",
+                "city": "malmö",
+                "zip": "21219",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "kirseberg",
+                "last_accept": 0,
+                "$last_seen": "2023-05-26T09:41:32.960Z"
               }
             ],
             "högamöllegatan": [
@@ -43933,6 +44017,20 @@
                 "$districtName": "kirseberg",
                 "last_accept": 17,
                 "$last_seen": "2023-05-22T08:44:41.663Z"
+              },
+              {
+                "id": 82739,
+                "rent": 6916,
+                "area": 64,
+                "street": "sperlingsgatan",
+                "street_number": "16",
+                "city": "malmö",
+                "zip": "21222",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "kirseberg",
+                "last_accept": 11,
+                "$last_seen": "2023-05-26T09:41:32.960Z"
               },
               {
                 "id": 82742,
@@ -44355,6 +44453,20 @@
                 "$districtName": "hyllie",
                 "last_accept": 36,
                 "$last_seen": "2023-05-15T06:46:43.201Z"
+              },
+              {
+                "id": 84007,
+                "rent": 11445,
+                "area": 70,
+                "street": "allétorget",
+                "street_number": "1",
+                "city": "malmö",
+                "zip": "21534",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "hyllie",
+                "last_accept": 0,
+                "$last_seen": "2023-05-26T09:41:32.960Z"
               }
             ]
           },
