@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-05-26T07:42:05.999Z",
+  "lastUpdatedAt": "2023-05-26T08:44:53.687Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -43787,6 +43787,20 @@
                 "$districtName": "kirseberg",
                 "last_accept": 243,
                 "$last_seen": "2023-05-10T14:45:50.851Z"
+              },
+              {
+                "id": 84012,
+                "rent": 7918,
+                "area": 65,
+                "street": "högamöllegatan",
+                "street_number": "3 a",
+                "city": "malmö",
+                "zip": "21219",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "kirseberg",
+                "last_accept": 0,
+                "$last_seen": "2023-05-26T07:42:05.999Z"
               }
             ],
             "floragatan": [
@@ -45479,6 +45493,22 @@
                 "$districtName": "vantör",
                 "last_accept": 1176,
                 "$last_seen": "2023-05-24T11:41:38.006Z"
+              }
+            ],
+            "bjursätragatan": [
+              {
+                "id": 84038,
+                "rent": 6302,
+                "area": 32,
+                "street": "bjursätragatan",
+                "street_number": "8",
+                "city": "bandhagen",
+                "zip": "12462",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 1242,
+                "$last_seen": "2023-05-26T07:42:05.999Z"
               }
             ]
           }
