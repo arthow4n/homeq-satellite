@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-05-26T08:44:53.687Z",
+  "lastUpdatedAt": "2023-05-26T09:41:32.960Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -10767,6 +10767,20 @@
                 "$districtName": "brämaregården",
                 "last_accept": 1288,
                 "$last_seen": "2023-02-17T08:45:31.995Z"
+              },
+              {
+                "id": 83985,
+                "rent": 7237,
+                "area": 51,
+                "street": "ekebergsgatan",
+                "street_number": "5",
+                "city": "göteborg",
+                "zip": "41702",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brämaregården",
+                "last_accept": 1362,
+                "$last_seen": "2023-05-26T08:44:53.687Z"
               }
             ],
             "rudenschöldsgatan": [
@@ -10965,6 +10979,20 @@
                 "$districtName": "lundby",
                 "last_accept": 1485,
                 "$last_seen": "2023-05-12T07:42:12.539Z"
+              },
+              {
+                "id": 83935,
+                "rent": 3920,
+                "area": 31,
+                "street": "bautastensgatan",
+                "street_number": "9 b",
+                "city": "göteborg",
+                "zip": "41876",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1231,
+                "$last_seen": "2023-05-26T08:44:53.687Z"
               }
             ],
             "hjalmar brantingsgatan": [
@@ -14131,6 +14159,22 @@
                 "$districtName": "lundby",
                 "last_accept": 388,
                 "$last_seen": "2023-04-28T09:40:04.035Z"
+              }
+            ],
+            "gamla lundbygatan": [
+              {
+                "id": 82210,
+                "rent": 15500,
+                "area": 100,
+                "street": "gamla lundbygatan",
+                "street_number": "17",
+                "city": "göteborg",
+                "zip": "41875",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1104,
+                "$last_seen": "2023-05-26T08:44:53.687Z"
               }
             ]
           },
@@ -37367,6 +37411,48 @@
                 "$districtName": "masthugget",
                 "last_accept": 0,
                 "$last_seen": "2023-05-08T08:46:18.068Z"
+              },
+              {
+                "id": 83970,
+                "rent": 7273,
+                "area": 45,
+                "street": "djurgårdsgatan",
+                "street_number": "28",
+                "city": "göteborg",
+                "zip": "41462",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "masthugget",
+                "last_accept": 1458,
+                "$last_seen": "2023-05-26T08:44:53.687Z"
+              },
+              {
+                "id": 83972,
+                "rent": 11318,
+                "area": 83,
+                "street": "djurgårdsgatan",
+                "street_number": "28",
+                "city": "göteborg",
+                "zip": "41462",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "masthugget",
+                "last_accept": 1484,
+                "$last_seen": "2023-05-26T08:44:53.687Z"
+              },
+              {
+                "id": 83973,
+                "rent": 11318,
+                "area": 83,
+                "street": "djurgårdsgatan",
+                "street_number": "28",
+                "city": "göteborg",
+                "zip": "41462",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "masthugget",
+                "last_accept": 1376,
+                "$last_seen": "2023-05-26T08:44:53.687Z"
               },
               {
                 "id": 83982,
