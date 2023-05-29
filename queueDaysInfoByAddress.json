@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-05-29T14:41:28.345Z",
+  "lastUpdatedAt": "2023-05-29T15:40:33.347Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -4547,6 +4547,20 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1321,
                 "$last_seen": "2023-05-03T07:40:19.208Z"
+              },
+              {
+                "id": 83274,
+                "rent": 10197,
+                "area": 55,
+                "street": "nordgårdsgatan",
+                "street_number": "6",
+                "city": "göteborg",
+                "zip": "41285",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1256,
+                "$last_seen": "2023-05-29T14:41:28.345Z"
               }
             ],
             "norra krokslättsgatan": [
@@ -18275,6 +18289,20 @@
                 "$districtName": "björkekärr",
                 "last_accept": 569,
                 "$last_seen": "2023-05-09T09:41:38.320Z"
+              },
+              {
+                "id": 81029,
+                "rent": 5515,
+                "area": 30,
+                "street": "smörslätten",
+                "street_number": "12",
+                "city": "göteborg",
+                "zip": "41677",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "björkekärr",
+                "last_accept": 1031,
+                "$last_seen": "2023-05-29T14:41:28.345Z"
               }
             ],
             "lådspikaregatan": [
@@ -23885,6 +23913,20 @@
                 "$districtName": "bergsjön",
                 "last_accept": 0,
                 "$last_seen": "2023-04-25T06:45:59.559Z"
+              },
+              {
+                "id": 84491,
+                "rent": 8498,
+                "area": 90,
+                "street": "kosmosgatan",
+                "street_number": "10",
+                "city": "göteborg",
+                "zip": "41562",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bergsjön",
+                "last_accept": 636,
+                "$last_seen": "2023-05-29T14:41:28.345Z"
               }
             ],
             "atmosfärgatan": [
@@ -42763,6 +42805,20 @@
                 "$districtName": "tynnered",
                 "last_accept": 776,
                 "$last_seen": "2023-05-09T11:41:20.449Z"
+              },
+              {
+                "id": 83636,
+                "rent": 6385,
+                "area": 69,
+                "street": "briljantgatan",
+                "street_number": "3",
+                "city": "västra frölunda",
+                "zip": "42149",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tynnered",
+                "last_accept": 1345,
+                "$last_seen": "2023-05-29T14:41:28.345Z"
               }
             ],
             "safirgatan": [
@@ -45679,6 +45735,20 @@
                 "$districtName": "vantör",
                 "last_accept": 1667,
                 "$last_seen": "2023-04-24T10:45:40.601Z"
+              },
+              {
+                "id": 82266,
+                "rent": 8363,
+                "area": 59,
+                "street": "olshammarsgatan",
+                "street_number": "25",
+                "city": "bandhagen",
+                "zip": "12475",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 1568,
+                "$last_seen": "2023-05-29T14:41:28.345Z"
               },
               {
                 "id": 82872,
