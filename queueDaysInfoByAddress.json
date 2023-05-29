@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-05-29T09:40:45.469Z",
+  "lastUpdatedAt": "2023-05-29T10:44:29.978Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -6981,6 +6981,34 @@
                 "$districtName": "högsbo",
                 "last_accept": 0,
                 "$last_seen": "2023-05-03T11:39:57.659Z"
+              },
+              {
+                "id": 82610,
+                "rent": 11063,
+                "area": 65,
+                "street": "nymilsgatan",
+                "street_number": "39",
+                "city": "göteborg",
+                "zip": "42170",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 927,
+                "$last_seen": "2023-05-29T07:41:10.592Z"
+              },
+              {
+                "id": 83080,
+                "rent": 9580,
+                "area": 54.1,
+                "street": "nymilsgatan",
+                "street_number": "45",
+                "city": "göteborg",
+                "zip": "42170",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 433,
+                "$last_seen": "2023-05-29T07:41:10.592Z"
               }
             ],
             "pennygången": [
@@ -40321,6 +40349,20 @@
                 "$districtName": "tuve",
                 "last_accept": 0,
                 "$last_seen": "2023-05-10T11:42:17.647Z"
+              },
+              {
+                "id": 81423,
+                "rent": 9264,
+                "area": 54,
+                "street": "gunnestorpsvägen",
+                "street_number": "133",
+                "city": "göteborg",
+                "zip": "41747",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tuve",
+                "last_accept": 384,
+                "$last_seen": "2023-05-29T08:44:11.275Z"
               }
             ],
             "gubbe lars väg": [
