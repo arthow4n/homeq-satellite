@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-05-29T10:44:29.978Z",
+  "lastUpdatedAt": "2023-05-29T11:40:54.800Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -36895,6 +36895,20 @@
                 "$districtName": "masthugget",
                 "last_accept": 1302,
                 "$last_seen": "2023-04-28T12:58:29.771Z"
+              },
+              {
+                "id": 82597,
+                "rent": 9733,
+                "area": 55,
+                "street": "kolumbusgatan",
+                "street_number": "3",
+                "city": "göteborg",
+                "zip": "41464",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "masthugget",
+                "last_accept": 1541,
+                "$last_seen": "2023-05-29T10:44:29.978Z"
               }
             ],
             "stenklevsgatan": [
