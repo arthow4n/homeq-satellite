@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-05-29T07:41:10.592Z",
+  "lastUpdatedAt": "2023-05-29T08:44:11.275Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -4745,6 +4745,20 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1550,
                 "$last_seen": "2023-04-20T13:46:51.382Z"
+              },
+              {
+                "id": 82757,
+                "rent": 8185,
+                "area": 41,
+                "street": "norra krokslättsgatan",
+                "street_number": "10",
+                "city": "göteborg",
+                "zip": "41264",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1358,
+                "$last_seen": "2023-05-29T07:41:10.592Z"
               }
             ],
             "norgårdsgatan": [
@@ -41979,6 +41993,20 @@
                 "$last_seen": "2023-05-04T08:45:11.207Z"
               },
               {
+                "id": 83270,
+                "rent": 10408,
+                "area": 98,
+                "street": "klassikergatan",
+                "street_number": "15",
+                "city": "hisings backa",
+                "zip": "42241",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brunnsbo",
+                "last_accept": 1358,
+                "$last_seen": "2023-05-29T07:41:10.592Z"
+              },
+              {
                 "id": 83276,
                 "rent": 5527,
                 "area": 38,
@@ -42213,6 +42241,20 @@
                 "$districtName": "askim",
                 "last_accept": 276,
                 "$last_seen": "2023-05-26T05:43:00.767Z"
+              },
+              {
+                "id": 84219,
+                "rent": 7560,
+                "area": 33,
+                "street": "sisjöbäckens väg",
+                "street_number": "22",
+                "city": "askim",
+                "zip": "43638",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 117,
+                "$last_seen": "2023-05-29T07:41:10.592Z"
               }
             ],
             "kobbegården": [
