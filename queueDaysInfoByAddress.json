@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-05-30T08:43:58.053Z",
+  "lastUpdatedAt": "2023-05-30T09:40:37.261Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -4139,20 +4139,6 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1032,
                 "$last_seen": "2023-05-16T11:40:06.445Z"
-              },
-              {
-                "id": 82612,
-                "rent": 13131,
-                "area": 79,
-                "street": "ebbe lieberathsgatan",
-                "street_number": "22 f",
-                "city": "göteborg",
-                "zip": "41265",
-                "municipality": "göteborg",
-                "county": "västra götalands län",
-                "$districtName": "johanneberg",
-                "last_accept": 1499,
-                "$last_seen": "2023-05-23T07:40:19.622Z"
               }
             ],
             "nordgårdsgatan": [
@@ -25787,6 +25773,20 @@
                 "$districtName": "nylöse",
                 "last_accept": 1225,
                 "$last_seen": "2023-05-30T07:40:40.964Z"
+              },
+              {
+                "id": 84036,
+                "rent": 5257,
+                "area": 46,
+                "street": "skaragatan",
+                "street_number": "10i",
+                "city": "göteborg",
+                "zip": "41516",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "nylöse",
+                "last_accept": 1302,
+                "$last_seen": "2023-05-30T08:43:58.053Z"
               }
             ],
             "lars kaggsgatan": [
@@ -44027,6 +44027,22 @@
                 "$districtName": "malmö sankt petri",
                 "last_accept": 116,
                 "$last_seen": "2023-05-15T04:45:18.389Z"
+              }
+            ],
+            "stora nygatan": [
+              {
+                "id": 83669,
+                "rent": 8945,
+                "area": 47,
+                "street": "stora nygatan",
+                "street_number": "5",
+                "city": "malmö",
+                "zip": "21137",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "malmö sankt petri",
+                "last_accept": 162,
+                "$last_seen": "2023-05-30T08:43:58.053Z"
               }
             ]
           },
