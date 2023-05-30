@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-05-30T07:40:40.964Z",
+  "lastUpdatedAt": "2023-05-30T08:43:58.053Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -25773,6 +25773,20 @@
                 "$districtName": "nylöse",
                 "last_accept": 1229,
                 "$last_seen": "2023-02-24T13:02:41.714Z"
+              },
+              {
+                "id": 83165,
+                "rent": 6146,
+                "area": 37,
+                "street": "skaragatan",
+                "street_number": "5b",
+                "city": "göteborg",
+                "zip": "41516",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "nylöse",
+                "last_accept": 1225,
+                "$last_seen": "2023-05-30T07:40:40.964Z"
               }
             ],
             "lars kaggsgatan": [
@@ -32507,6 +32521,20 @@
                 "$districtName": "annedal",
                 "last_accept": 1571,
                 "$last_seen": "2023-04-28T10:43:52.502Z"
+              },
+              {
+                "id": 84124,
+                "rent": 8953,
+                "area": 63,
+                "street": "övre husargatan",
+                "street_number": "10",
+                "city": "göteborg",
+                "zip": "41314",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "annedal",
+                "last_accept": 1602,
+                "$last_seen": "2023-05-30T07:40:40.964Z"
               }
             ],
             "carl grimbergsgatan": [
@@ -33113,6 +33141,20 @@
                 "$districtName": "annedal",
                 "last_accept": 1578,
                 "$last_seen": "2023-05-05T12:59:26.552Z"
+              },
+              {
+                "id": 84117,
+                "rent": 7175,
+                "area": 45,
+                "street": "västergatan",
+                "street_number": "23",
+                "city": "göteborg",
+                "zip": "41313",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "annedal",
+                "last_accept": 1587,
+                "$last_seen": "2023-05-30T07:40:40.964Z"
               }
             ],
             "seminariegatan": [
@@ -35367,6 +35409,20 @@
                 "$districtName": "göteborgs vasa",
                 "last_accept": 1547,
                 "$last_seen": "2023-03-31T07:37:22.434Z"
+              },
+              {
+                "id": 83990,
+                "rent": 11500,
+                "area": 71,
+                "street": "nedre fogelbergsgatan",
+                "street_number": "6b",
+                "city": "göteborg",
+                "zip": "41128",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs vasa",
+                "last_accept": 1666,
+                "$last_seen": "2023-05-30T07:40:40.964Z"
               }
             ],
             "kristinelundsgatan": [
