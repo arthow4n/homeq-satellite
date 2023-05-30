@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-05-30T10:43:32.987Z",
+  "lastUpdatedAt": "2023-05-30T11:40:09.119Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -31403,6 +31403,20 @@
                 "$districtName": "örgryte",
                 "last_accept": 986,
                 "$last_seen": "2023-05-08T05:43:33.818Z"
+              },
+              {
+                "id": 84542,
+                "rent": 7875,
+                "area": 35,
+                "street": "separatorsgatan",
+                "street_number": "14",
+                "city": "göteborg",
+                "zip": "41278",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 939,
+                "$last_seen": "2023-05-30T10:43:32.987Z"
               }
             ],
             "påskbergsgatan": [
@@ -42345,6 +42359,20 @@
                 "$districtName": "brunnsbo",
                 "last_accept": 1129,
                 "$last_seen": "2023-05-26T06:45:31.480Z"
+              },
+              {
+                "id": 84307,
+                "rent": 5284,
+                "area": 38,
+                "street": "sångspelsgatan",
+                "street_number": "1",
+                "city": "hisings backa",
+                "zip": "42241",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brunnsbo",
+                "last_accept": 1032,
+                "$last_seen": "2023-05-30T10:43:32.987Z"
               }
             ],
             "poesigatan": [
