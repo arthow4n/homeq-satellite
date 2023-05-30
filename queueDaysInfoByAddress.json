@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-05-30T06:44:15.878Z",
+  "lastUpdatedAt": "2023-05-30T07:40:40.964Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -13303,6 +13303,20 @@
                 "$districtName": "lundby",
                 "last_accept": 766,
                 "$last_seen": "2023-01-30T14:37:40.795Z"
+              },
+              {
+                "id": 83895,
+                "rent": 5425,
+                "area": 37,
+                "street": "estlandsgatan",
+                "street_number": "4 b",
+                "city": "göteborg",
+                "zip": "41877",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1225,
+                "$last_seen": "2023-05-30T06:44:15.878Z"
               }
             ],
             "tillburygatan": [
