@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-05-30T14:41:01.610Z",
+  "lastUpdatedAt": "2023-05-30T15:39:45.242Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -5687,6 +5687,20 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1702,
                 "$last_seen": "2023-05-22T10:44:04.333Z"
+              },
+              {
+                "id": 84243,
+                "rent": 5951,
+                "area": 49,
+                "street": "övre besvärsgatan",
+                "street_number": "1",
+                "city": "göteborg",
+                "zip": "41129",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1603,
+                "$last_seen": "2023-05-30T14:41:01.610Z"
               }
             ],
             "utlandagatan": [
@@ -42939,6 +42953,20 @@
                 "$districtName": "tynnered",
                 "last_accept": 914,
                 "$last_seen": "2023-05-22T11:40:13.436Z"
+              },
+              {
+                "id": 84350,
+                "rent": 9024,
+                "area": 81,
+                "street": "smyckegatan",
+                "street_number": "39",
+                "city": "västra frölunda",
+                "zip": "42650",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tynnered",
+                "last_accept": 1219,
+                "$last_seen": "2023-05-30T14:41:01.610Z"
               }
             ],
             "björkhöjdsgatan": [
