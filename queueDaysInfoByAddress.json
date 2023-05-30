@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-05-30T05:41:44.776Z",
+  "lastUpdatedAt": "2023-05-30T06:44:15.878Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -45153,6 +45153,24 @@
                 "$last_seen": "2023-05-15T07:42:05.172Z"
               }
             ]
+          },
+          "slottsstaden": {
+            "marietorps alle": [
+              {
+                "id": 84358,
+                "rent": 10229,
+                "area": 89,
+                "street": "marietorps alle",
+                "street_number": "2",
+                "city": "malmö",
+                "zip": "21775",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "slottsstaden",
+                "last_accept": 536,
+                "$last_seen": "2023-05-30T05:41:44.776Z"
+              }
+            ]
           }
         },
         "limhamn": {
@@ -45563,6 +45581,22 @@
                 "$districtName": "limhamn",
                 "last_accept": 835,
                 "$last_seen": "2023-05-23T07:40:19.622Z"
+              }
+            ],
+            "linnegatan": [
+              {
+                "id": 84257,
+                "rent": 13058,
+                "area": 114,
+                "street": "linnegatan",
+                "street_number": "9",
+                "city": "limhamn",
+                "zip": "21612",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "limhamn",
+                "last_accept": 953,
+                "$last_seen": "2023-05-30T05:41:44.776Z"
               }
             ]
           }
