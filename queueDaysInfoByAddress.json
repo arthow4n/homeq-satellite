@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-05-30T13:40:55.341Z",
+  "lastUpdatedAt": "2023-05-30T14:41:01.610Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -46379,6 +46379,22 @@
                 "$districtName": "vantör",
                 "last_accept": 1176,
                 "$last_seen": "2023-05-24T11:41:38.006Z"
+              }
+            ],
+            "skebokvarnsvägen": [
+              {
+                "id": 83874,
+                "rent": 4735,
+                "area": 30,
+                "street": "skebokvarnsvägen",
+                "street_number": "358",
+                "city": "bandhagen",
+                "zip": "12450",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 1517,
+                "$last_seen": "2023-05-30T13:40:55.341Z"
               }
             ],
             "bjursätragatan": [
