@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-05-31T06:44:53.080Z",
+  "lastUpdatedAt": "2023-05-31T07:39:51.113Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -23297,6 +23297,20 @@
                 "$last_seen": "2023-02-21T11:38:02.204Z"
               },
               {
+                "id": 76868,
+                "rent": 3378,
+                "area": 33,
+                "street": "galileis gata",
+                "street_number": "4",
+                "city": "göteborg",
+                "zip": "41554",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bergsjön",
+                "last_accept": 1215,
+                "$last_seen": "2023-05-31T06:44:53.080Z"
+              },
+              {
                 "id": 77021,
                 "rent": 4361,
                 "area": 50,
@@ -24025,6 +24039,20 @@
                 "$districtName": "bergsjön",
                 "last_accept": 0,
                 "$last_seen": "2023-04-25T06:45:59.559Z"
+              },
+              {
+                "id": 83708,
+                "rent": 6497,
+                "area": 46,
+                "street": "kosmosgatan",
+                "street_number": "10",
+                "city": "göteborg",
+                "zip": "41562",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bergsjön",
+                "last_accept": 981,
+                "$last_seen": "2023-05-31T06:44:53.080Z"
               },
               {
                 "id": 84491,
@@ -36849,6 +36877,20 @@
                 "$districtName": "masthugget",
                 "last_accept": 1351,
                 "$last_seen": "2023-05-09T07:41:28.442Z"
+              },
+              {
+                "id": 83946,
+                "rent": 7956,
+                "area": 69,
+                "street": "bangatan",
+                "street_number": "35",
+                "city": "göteborg",
+                "zip": "41463",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "masthugget",
+                "last_accept": 1738,
+                "$last_seen": "2023-05-31T06:44:53.080Z"
               }
             ],
             "amiralitetsgatan": [
@@ -46257,6 +46299,20 @@
                 "$districtName": "vantör",
                 "last_accept": 1760,
                 "$last_seen": "2023-04-20T09:40:45.674Z"
+              },
+              {
+                "id": 83875,
+                "rent": 7456,
+                "area": 56,
+                "street": "stålbogavägen",
+                "street_number": "6",
+                "city": "bandhagen",
+                "zip": "12456",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 1251,
+                "$last_seen": "2023-05-31T06:44:53.080Z"
               }
             ],
             "askersundsgatan": [
