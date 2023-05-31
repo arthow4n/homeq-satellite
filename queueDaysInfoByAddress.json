@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-05-31T09:39:40.316Z",
+  "lastUpdatedAt": "2023-05-31T10:42:39.643Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -6117,6 +6117,20 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1491,
                 "$last_seen": "2023-05-02T07:40:09.119Z"
+              },
+              {
+                "id": 83620,
+                "rent": 8753,
+                "area": 57,
+                "street": "rosensköldsgatan",
+                "street_number": "11",
+                "city": "göteborg",
+                "zip": "41258",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1383,
+                "$last_seen": "2023-05-31T09:39:40.316Z"
               }
             ],
             "formskäraregatan": [
@@ -9789,6 +9803,20 @@
                 "$districtName": "brämaregården",
                 "last_accept": 706,
                 "$last_seen": "2023-05-30T09:40:37.261Z"
+              },
+              {
+                "id": 84160,
+                "rent": 11544,
+                "area": 66,
+                "street": "gustaf dalénsgatan",
+                "street_number": "6",
+                "city": "göteborg",
+                "zip": "41722",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brämaregården",
+                "last_accept": 812,
+                "$last_seen": "2023-05-31T09:39:40.316Z"
               }
             ],
             "lantmätaregatan": [
@@ -21273,20 +21301,6 @@
                 "$districtName": "askim",
                 "last_accept": 828,
                 "$last_seen": "2023-05-26T09:41:32.960Z"
-              },
-              {
-                "id": 84315,
-                "rent": 10587,
-                "area": 76,
-                "street": "pilegården",
-                "street_number": "3c",
-                "city": "göteborg",
-                "zip": "43635",
-                "municipality": "göteborg",
-                "county": "västra götalands län",
-                "$districtName": "askim",
-                "last_accept": 1058,
-                "$last_seen": "2023-05-31T08:42:59.679Z"
               }
             ],
             "nergårdsvägen": [
