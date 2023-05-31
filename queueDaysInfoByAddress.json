@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-05-31T15:39:31.702Z",
+  "lastUpdatedAt": "2023-05-31T16:45:56.842Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -45801,6 +45801,20 @@
                 "$districtName": "oxie",
                 "last_accept": 0,
                 "$last_seen": "2023-05-15T07:42:05.172Z"
+              },
+              {
+                "id": 80380,
+                "rent": 4704,
+                "area": 22,
+                "street": "panelgatan",
+                "street_number": "9",
+                "city": "malmö",
+                "zip": "23837",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "oxie",
+                "last_accept": 0,
+                "$last_seen": "2023-05-31T14:40:02.305Z"
               }
             ]
           },
