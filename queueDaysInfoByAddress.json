@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-05-31T10:42:39.643Z",
+  "lastUpdatedAt": "2023-05-31T11:39:33.783Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -2235,6 +2235,20 @@
                 "$districtName": "fässberg",
                 "last_accept": 1293,
                 "$last_seen": "2023-05-23T06:44:00.356Z"
+              },
+              {
+                "id": 83877,
+                "rent": 11788,
+                "area": 73,
+                "street": "åby allé",
+                "street_number": "61",
+                "city": "göteborg",
+                "zip": "43145",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 1579,
+                "$last_seen": "2023-05-31T10:42:39.643Z"
               }
             ],
             "åbyvägen": [
@@ -11781,6 +11795,20 @@
                 "$districtName": "lundby",
                 "last_accept": 1352,
                 "$last_seen": "2023-02-15T07:36:29.304Z"
+              },
+              {
+                "id": 83462,
+                "rent": 7056,
+                "area": 58,
+                "street": "wieselgrensplatsen",
+                "street_number": "27",
+                "city": "göteborg",
+                "zip": "41712",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1365,
+                "$last_seen": "2023-05-31T10:42:39.643Z"
               }
             ],
             "lundbygatan": [
@@ -21301,6 +21329,20 @@
                 "$districtName": "askim",
                 "last_accept": 828,
                 "$last_seen": "2023-05-26T09:41:32.960Z"
+              },
+              {
+                "id": 84315,
+                "rent": 10587,
+                "area": 76,
+                "street": "pilegården",
+                "street_number": "3c",
+                "city": "göteborg",
+                "zip": "43635",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 1058,
+                "$last_seen": "2023-05-31T10:42:39.643Z"
               }
             ],
             "nergårdsvägen": [
@@ -24109,6 +24151,20 @@
                 "$districtName": "bergsjön",
                 "last_accept": 0,
                 "$last_seen": "2023-04-25T06:45:59.559Z"
+              },
+              {
+                "id": 83697,
+                "rent": 7460,
+                "area": 56,
+                "street": "kosmosgatan",
+                "street_number": "1",
+                "city": "göteborg",
+                "zip": "41562",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bergsjön",
+                "last_accept": 947,
+                "$last_seen": "2023-05-31T10:42:39.643Z"
               },
               {
                 "id": 83708,
