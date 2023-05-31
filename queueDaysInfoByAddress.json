@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-05-31T14:40:02.305Z",
+  "lastUpdatedAt": "2023-05-31T15:39:31.702Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -5877,6 +5877,20 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1498,
                 "$last_seen": "2023-02-15T07:36:29.304Z"
+              },
+              {
+                "id": 84174,
+                "rent": 11366,
+                "area": 78,
+                "street": "terrassgatan",
+                "street_number": "15",
+                "city": "göteborg",
+                "zip": "41133",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1617,
+                "$last_seen": "2023-05-31T14:40:02.305Z"
               }
             ],
             "kjellbergsgatan": [
