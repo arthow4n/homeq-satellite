@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-05-31T07:39:51.113Z",
+  "lastUpdatedAt": "2023-05-31T08:42:59.679Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -9749,6 +9749,20 @@
                 "$last_seen": "2023-04-18T11:41:06.180Z"
               },
               {
+                "id": 80888,
+                "rent": 9531,
+                "area": 54,
+                "street": "gustaf dalénsgatan",
+                "street_number": "24",
+                "city": "göteborg",
+                "zip": "41724",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brämaregården",
+                "last_accept": 1035,
+                "$last_seen": "2023-05-31T07:39:51.113Z"
+              },
+              {
                 "id": 81956,
                 "rent": 9262,
                 "area": 54,
@@ -16707,6 +16721,20 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1589,
                 "$last_seen": "2023-05-17T06:43:39.008Z"
+              },
+              {
+                "id": 82988,
+                "rent": 10600,
+                "area": 70,
+                "street": "liedstrandsgatan",
+                "street_number": "3b",
+                "city": "göteborg",
+                "zip": "41658",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1596,
+                "$last_seen": "2023-05-31T07:39:51.113Z"
               }
             ],
             "övre olskroksgatan": [
@@ -31578,6 +31606,22 @@
                 "last_accept": 1588,
                 "$last_seen": "2023-05-15T09:41:32.175Z"
               }
+            ],
+            "s:t pauligatan": [
+              {
+                "id": 84303,
+                "rent": 9635,
+                "area": 76,
+                "street": "s:t pauligatan",
+                "street_number": "25 a",
+                "city": "göteborg",
+                "zip": "41660",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1604,
+                "$last_seen": "2023-05-31T07:39:51.113Z"
+              }
             ]
           },
           "västra frölunda": {
@@ -38733,6 +38777,20 @@
                 "$districtName": "biskopsgården",
                 "last_accept": 1207,
                 "$last_seen": "2023-05-09T10:46:25.032Z"
+              },
+              {
+                "id": 81146,
+                "rent": 6674,
+                "area": 49,
+                "street": "temperaturgatan",
+                "street_number": "29",
+                "city": "göteborg",
+                "zip": "41841",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "biskopsgården",
+                "last_accept": 684,
+                "$last_seen": "2023-05-31T07:39:51.113Z"
               },
               {
                 "id": 81370,
