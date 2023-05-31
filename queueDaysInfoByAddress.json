@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-05-31T08:42:59.679Z",
+  "lastUpdatedAt": "2023-05-31T09:39:40.316Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -21273,6 +21273,20 @@
                 "$districtName": "askim",
                 "last_accept": 828,
                 "$last_seen": "2023-05-26T09:41:32.960Z"
+              },
+              {
+                "id": 84315,
+                "rent": 10587,
+                "area": 76,
+                "street": "pilegården",
+                "street_number": "3c",
+                "city": "göteborg",
+                "zip": "43635",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 1058,
+                "$last_seen": "2023-05-31T08:42:59.679Z"
               }
             ],
             "nergårdsvägen": [
@@ -23449,6 +23463,20 @@
                 "$districtName": "bergsjön",
                 "last_accept": 697,
                 "$last_seen": "2023-05-15T08:45:10.936Z"
+              },
+              {
+                "id": 81563,
+                "rent": 3464,
+                "area": 33,
+                "street": "galileis gata",
+                "street_number": "1",
+                "city": "göteborg",
+                "zip": "41554",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bergsjön",
+                "last_accept": 1063,
+                "$last_seen": "2023-05-31T08:42:59.679Z"
               }
             ],
             "kosmosgatan": [
@@ -45055,6 +45083,22 @@
                 "$districtName": "malmö sankt pauli",
                 "last_accept": 472,
                 "$last_seen": "2023-05-11T13:48:36.936Z"
+              }
+            ],
+            "drottninggatan": [
+              {
+                "id": 83902,
+                "rent": 6852,
+                "area": 42,
+                "street": "drottninggatan",
+                "street_number": "4 a",
+                "city": "malmö",
+                "zip": "21211",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "malmö sankt pauli",
+                "last_accept": 764,
+                "$last_seen": "2023-05-31T08:42:59.679Z"
               }
             ]
           },
