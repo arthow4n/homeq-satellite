@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-06-01T10:48:06.340Z",
+  "lastUpdatedAt": "2023-06-01T11:41:57.706Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -4167,6 +4167,20 @@
                 "$districtName": "johanneberg",
                 "last_accept": 971,
                 "$last_seen": "2023-05-11T10:45:37.261Z"
+              },
+              {
+                "id": 81595,
+                "rent": 10525,
+                "area": 58,
+                "street": "ebbe lieberathsgatan",
+                "street_number": "22 a",
+                "city": "göteborg",
+                "zip": "41265",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1165,
+                "$last_seen": "2023-06-01T10:48:06.340Z"
               },
               {
                 "id": 81633,
@@ -19845,6 +19859,20 @@
                 "$districtName": "kortedala",
                 "last_accept": 1180,
                 "$last_seen": "2023-05-04T11:40:35.853Z"
+              },
+              {
+                "id": 83793,
+                "rent": 5709,
+                "area": 40,
+                "street": "solvarvsgatan",
+                "street_number": "4",
+                "city": "göteborg",
+                "zip": "41531",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "kortedala",
+                "last_accept": 946,
+                "$last_seen": "2023-06-01T10:48:06.340Z"
               }
             ],
             "solståndsgatan": [
@@ -22797,6 +22825,20 @@
                 "$districtName": "askim",
                 "last_accept": 1420,
                 "$last_seen": "2023-04-13T14:43:39.314Z"
+              },
+              {
+                "id": 82264,
+                "rent": 8893,
+                "area": 48,
+                "street": "sisjövägen",
+                "street_number": "59",
+                "city": "göteborg",
+                "zip": "43638",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 1241,
+                "$last_seen": "2023-06-01T10:48:06.340Z"
               }
             ],
             "askims pilegårdsväg": [
