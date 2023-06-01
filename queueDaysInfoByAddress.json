@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-06-01T06:46:16.774Z",
+  "lastUpdatedAt": "2023-06-01T07:41:38.477Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -10671,6 +10671,20 @@
                 "$districtName": "brämaregården",
                 "last_accept": 1385,
                 "$last_seen": "2023-05-16T07:40:11.304Z"
+              },
+              {
+                "id": 80891,
+                "rent": 10158,
+                "area": 54,
+                "street": "fjärdingsgatan",
+                "street_number": "27",
+                "city": "göteborg",
+                "zip": "41724",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brämaregården",
+                "last_accept": 913,
+                "$last_seen": "2023-06-01T06:46:16.774Z"
               }
             ],
             "madängsgatan": [
@@ -11579,6 +11593,20 @@
                 "$districtName": "lundby",
                 "last_accept": 1515,
                 "$last_seen": "2023-04-04T13:41:16.333Z"
+              },
+              {
+                "id": 84529,
+                "rent": 10691,
+                "area": 78,
+                "street": "södra säterigatan",
+                "street_number": "5",
+                "city": "göteborg",
+                "zip": "41876",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1494,
+                "$last_seen": "2023-06-01T06:46:16.774Z"
               }
             ],
             "trollhasselgatan": [
