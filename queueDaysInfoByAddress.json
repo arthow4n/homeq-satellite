@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-06-01T07:41:38.477Z",
+  "lastUpdatedAt": "2023-06-01T08:44:43.363Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -25765,6 +25765,20 @@
                 "$last_seen": "2023-05-10T07:41:55.922Z"
               },
               {
+                "id": 81418,
+                "rent": 7045,
+                "area": 42,
+                "street": "sysslomansgatan",
+                "street_number": "38",
+                "city": "göteborg",
+                "zip": "41574",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "nylöse",
+                "last_accept": 425,
+                "$last_seen": "2023-06-01T07:41:38.477Z"
+              },
+              {
                 "id": 81420,
                 "rent": 9516,
                 "area": 64.8,
@@ -28407,6 +28421,20 @@
                 "$districtName": "göteborgs domkyrkodistrikt",
                 "last_accept": 1588,
                 "$last_seen": "2023-05-15T10:45:30.035Z"
+              },
+              {
+                "id": 83415,
+                "rent": 9356,
+                "area": 61,
+                "street": "friggagatan",
+                "street_number": "9c",
+                "city": "göteborg",
+                "zip": "41101",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs domkyrkodistrikt",
+                "last_accept": 1582,
+                "$last_seen": "2023-06-01T07:41:38.477Z"
               }
             ],
             "sten sturegatan": [
