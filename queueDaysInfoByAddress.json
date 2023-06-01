@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-06-01T13:46:31.114Z",
+  "lastUpdatedAt": "2023-06-01T14:43:02.764Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -18611,6 +18611,20 @@
                 "$districtName": "björkekärr",
                 "last_accept": 539,
                 "$last_seen": "2023-06-01T11:41:57.706Z"
+              },
+              {
+                "id": 82011,
+                "rent": 5148,
+                "area": 23,
+                "street": "smörslätten",
+                "street_number": "6",
+                "city": "göteborg",
+                "zip": "41677",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "björkekärr",
+                "last_accept": 539,
+                "$last_seen": "2023-06-01T13:46:31.114Z"
               },
               {
                 "id": 82971,
@@ -46743,6 +46757,20 @@
                 "$districtName": "vantör",
                 "last_accept": 1051,
                 "$last_seen": "2023-04-27T12:03:49.134Z"
+              },
+              {
+                "id": 83952,
+                "rent": 9948,
+                "area": 76,
+                "street": "glanshammarsgatan",
+                "street_number": "65",
+                "city": "bandhagen",
+                "zip": "12471",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 1546,
+                "$last_seen": "2023-06-01T13:46:31.114Z"
               }
             ],
             "bäverbäcksgränd": [
