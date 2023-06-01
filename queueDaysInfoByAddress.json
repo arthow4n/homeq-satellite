@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-06-01T11:41:57.706Z",
+  "lastUpdatedAt": "2023-06-01T13:02:30.869Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -18583,6 +18583,34 @@
                 "$districtName": "björkekärr",
                 "last_accept": 1031,
                 "$last_seen": "2023-05-29T14:41:28.345Z"
+              },
+              {
+                "id": 81997,
+                "rent": 5148,
+                "area": 22,
+                "street": "smörslätten",
+                "street_number": "6",
+                "city": "göteborg",
+                "zip": "41677",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "björkekärr",
+                "last_accept": 539,
+                "$last_seen": "2023-06-01T11:41:57.706Z"
+              },
+              {
+                "id": 82971,
+                "rent": 5063,
+                "area": 22,
+                "street": "smörslätten",
+                "street_number": "8",
+                "city": "göteborg",
+                "zip": "41677",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "björkekärr",
+                "last_accept": 487,
+                "$last_seen": "2023-06-01T11:41:57.706Z"
               }
             ],
             "lådspikaregatan": [
@@ -25847,6 +25875,20 @@
                 "$districtName": "nylöse",
                 "last_accept": 0,
                 "$last_seen": "2023-05-24T07:41:09.761Z"
+              },
+              {
+                "id": 83436,
+                "rent": 9322,
+                "area": 54,
+                "street": "sysslomansgatan",
+                "street_number": "44",
+                "city": "göteborg",
+                "zip": "40422",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "nylöse",
+                "last_accept": 0,
+                "$last_seen": "2023-06-01T11:41:57.706Z"
               },
               {
                 "id": 83474,
@@ -42647,6 +42689,20 @@
                 "$districtName": "annedal",
                 "last_accept": 1481,
                 "$last_seen": "2023-04-24T14:43:13.575Z"
+              },
+              {
+                "id": 84197,
+                "rent": 8707,
+                "area": 49,
+                "street": "lilla risåsgatan",
+                "street_number": "26",
+                "city": "göteborg ",
+                "zip": "41304",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "annedal",
+                "last_accept": 1651,
+                "$last_seen": "2023-06-01T11:41:57.706Z"
               }
             ],
             "linnégatan": [
