@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-06-02T10:45:20.106Z",
+  "lastUpdatedAt": "2023-06-02T11:42:33.395Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -44753,6 +44753,22 @@
                 "$districtName": "sofielund",
                 "last_accept": 0,
                 "$last_seen": "2023-05-26T04:45:00.481Z"
+              }
+            ],
+            "spånehusvägen": [
+              {
+                "id": 84114,
+                "rent": 8388,
+                "area": 57,
+                "street": "spånehusvägen",
+                "street_number": "93 c",
+                "city": "malmö",
+                "zip": "21439",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "sofielund",
+                "last_accept": 351,
+                "$last_seen": "2023-06-02T10:45:20.106Z"
               }
             ]
           },
