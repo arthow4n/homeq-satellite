@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-06-02T08:44:32.482Z",
+  "lastUpdatedAt": "2023-06-02T09:42:23.034Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -2263,6 +2263,20 @@
                 "$districtName": "fässberg",
                 "last_accept": 1579,
                 "$last_seen": "2023-05-31T10:42:39.643Z"
+              },
+              {
+                "id": 84155,
+                "rent": 9449,
+                "area": 55,
+                "street": "åby allé",
+                "street_number": "55",
+                "city": "göteborg",
+                "zip": "43145",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 1225,
+                "$last_seen": "2023-06-02T08:44:32.482Z"
               }
             ],
             "åbyvägen": [
@@ -23149,6 +23163,20 @@
                 "$districtName": "askim",
                 "last_accept": 276,
                 "$last_seen": "2023-05-17T11:40:34.791Z"
+              },
+              {
+                "id": 84163,
+                "rent": 12527,
+                "area": 69,
+                "street": "askims pilegårdsväg",
+                "street_number": "48",
+                "city": "göteborg",
+                "zip": "43635",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 270,
+                "$last_seen": "2023-06-02T08:44:32.482Z"
               }
             ]
           },
@@ -29517,6 +29545,20 @@
                 "$districtName": "örgryte",
                 "last_accept": 1372,
                 "$last_seen": "2023-03-30T09:40:12.549Z"
+              },
+              {
+                "id": 82510,
+                "rent": 9642,
+                "area": 52,
+                "street": "smörgatan",
+                "street_number": "1",
+                "city": "göteborg",
+                "zip": "41278",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1142,
+                "$last_seen": "2023-06-02T08:44:32.482Z"
               },
               {
                 "id": 82511,
@@ -47383,6 +47425,20 @@
                 "$districtName": "skärholmen",
                 "last_accept": 1506,
                 "$last_seen": "2023-05-24T05:41:58.198Z"
+              },
+              {
+                "id": 84869,
+                "rent": 10433,
+                "area": 78,
+                "street": "ålgrytevägen",
+                "street_number": "1",
+                "city": "stockholm ",
+                "zip": "12732",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "skärholmen",
+                "last_accept": 1376,
+                "$last_seen": "2023-06-02T08:44:32.482Z"
               }
             ],
             "bredängsvägen": [
