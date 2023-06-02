@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-06-02T07:41:58.450Z",
+  "lastUpdatedAt": "2023-06-02T08:44:32.482Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -17913,6 +17913,20 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1511,
                 "$last_seen": "2023-03-02T09:39:32.074Z"
+              },
+              {
+                "id": 84549,
+                "rent": 6721,
+                "area": 39,
+                "street": "räntmästaregatan",
+                "street_number": "7b",
+                "city": "göteborg",
+                "zip": "41658",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1572,
+                "$last_seen": "2023-06-02T07:41:58.450Z"
               }
             ],
             "svangatan": [
@@ -25975,6 +25989,20 @@
                 "$last_seen": "2023-06-01T11:41:57.706Z"
               },
               {
+                "id": 83455,
+                "rent": 9818,
+                "area": 59,
+                "street": "sysslomansgatan",
+                "street_number": "44",
+                "city": "göteborg",
+                "zip": "40422",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "nylöse",
+                "last_accept": 0,
+                "$last_seen": "2023-06-02T07:41:58.450Z"
+              },
+              {
                 "id": 83474,
                 "rent": 13850,
                 "area": 110.4,
@@ -31495,6 +31523,20 @@
                 "$districtName": "örgryte",
                 "last_accept": 1543,
                 "$last_seen": "2023-05-11T08:45:44.902Z"
+              },
+              {
+                "id": 83817,
+                "rent": 8443,
+                "area": 35,
+                "street": "jättegrytsgatan",
+                "street_number": "3b",
+                "city": "göteborg",
+                "zip": "41268",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1593,
+                "$last_seen": "2023-06-02T07:41:58.450Z"
               }
             ],
             "jakobsdalsgatan": [
@@ -37469,6 +37511,20 @@
                 "$districtName": "masthugget",
                 "last_accept": 1436,
                 "$last_seen": "2023-03-30T09:40:12.549Z"
+              },
+              {
+                "id": 84276,
+                "rent": 10197,
+                "area": 55,
+                "street": "amiralitetsgatan",
+                "street_number": "8",
+                "city": "göteborg",
+                "zip": "41462",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "masthugget",
+                "last_accept": 1384,
+                "$last_seen": "2023-06-02T07:41:58.450Z"
               }
             ],
             "kolumbusgatan": [
