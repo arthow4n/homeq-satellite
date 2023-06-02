@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-06-02T09:42:23.034Z",
+  "lastUpdatedAt": "2023-06-02T10:45:20.106Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -24433,20 +24433,6 @@
                 "$last_seen": "2023-04-25T06:45:59.559Z"
               },
               {
-                "id": 83697,
-                "rent": 7460,
-                "area": 56,
-                "street": "kosmosgatan",
-                "street_number": "1",
-                "city": "göteborg",
-                "zip": "41562",
-                "municipality": "göteborg",
-                "county": "västra götalands län",
-                "$districtName": "bergsjön",
-                "last_accept": 947,
-                "$last_seen": "2023-05-31T10:42:39.643Z"
-              },
-              {
                 "id": 83708,
                 "rent": 6497,
                 "area": 46,
@@ -28673,6 +28659,20 @@
                 "$districtName": "göteborgs domkyrkodistrikt",
                 "last_accept": 1582,
                 "$last_seen": "2023-06-01T07:41:38.477Z"
+              },
+              {
+                "id": 83457,
+                "rent": 10385,
+                "area": 75,
+                "street": "friggagatan",
+                "street_number": "9a",
+                "city": "göteborg",
+                "zip": "41101",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs domkyrkodistrikt",
+                "last_accept": 895,
+                "$last_seen": "2023-06-02T09:42:23.034Z"
               }
             ],
             "sten sturegatan": [
@@ -37865,6 +37865,20 @@
                 "$districtName": "masthugget",
                 "last_accept": 1344,
                 "$last_seen": "2023-03-20T08:44:52.803Z"
+              },
+              {
+                "id": 84039,
+                "rent": 7884,
+                "area": 34,
+                "street": "stenklevsgatan",
+                "street_number": "7 a",
+                "city": "göteborg",
+                "zip": "41465",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "masthugget",
+                "last_accept": 1163,
+                "$last_seen": "2023-06-02T09:42:23.034Z"
               }
             ],
             "djurgårdsgatan": [
