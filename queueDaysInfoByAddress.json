@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-06-02T06:45:32.189Z",
+  "lastUpdatedAt": "2023-06-02T07:41:58.450Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -5599,6 +5599,20 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1406,
                 "$last_seen": "2022-11-14T07:42:47.623Z"
+              },
+              {
+                "id": 84360,
+                "rent": 10343,
+                "area": 69,
+                "street": "richertsgatan",
+                "street_number": "8",
+                "city": "göteborg",
+                "zip": "41260",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1606,
+                "$last_seen": "2023-06-02T06:45:32.189Z"
               }
             ],
             "kullegatan": [
@@ -5757,6 +5771,20 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1604,
                 "$last_seen": "2023-05-31T05:40:30.375Z"
+              },
+              {
+                "id": 84237,
+                "rent": 5496,
+                "area": 49,
+                "street": "övre besvärsgatan",
+                "street_number": "9",
+                "city": "göteborg",
+                "zip": "41129",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1668,
+                "$last_seen": "2023-06-02T06:45:32.189Z"
               },
               {
                 "id": 84243,
@@ -22303,6 +22331,20 @@
                 "$last_seen": "2023-05-17T07:40:29.799Z"
               },
               {
+                "id": 84165,
+                "rent": 10400,
+                "area": 54,
+                "street": "kobbeslätten",
+                "street_number": "8",
+                "city": "göteborg",
+                "zip": "43637",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 251,
+                "$last_seen": "2023-06-02T06:45:32.189Z"
+              },
+              {
                 "id": 84508,
                 "rent": 10296,
                 "area": 54,
@@ -26631,6 +26673,20 @@
                 "$districtName": "härlanda",
                 "last_accept": 1598,
                 "$last_seen": "2023-04-06T07:39:24.230Z"
+              },
+              {
+                "id": 84654,
+                "rent": 8350,
+                "area": 62,
+                "street": "björcksgatan",
+                "street_number": "42 b",
+                "city": "göteborg",
+                "zip": "41652",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "härlanda",
+                "last_accept": 1603,
+                "$last_seen": "2023-06-02T06:45:32.189Z"
               }
             ],
             "solrosgatan": [
