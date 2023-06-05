@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-06-05T14:44:50.635Z",
+  "lastUpdatedAt": "2023-06-05T15:42:46.431Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -32277,6 +32277,20 @@
                 "$districtName": "örgryte",
                 "last_accept": 1588,
                 "$last_seen": "2023-05-15T09:41:32.175Z"
+              },
+              {
+                "id": 84470,
+                "rent": 9215,
+                "area": 65,
+                "street": "birkagatan",
+                "street_number": "39",
+                "city": "göteborg",
+                "zip": "41656",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1609,
+                "$last_seen": "2023-06-05T14:44:50.635Z"
               }
             ],
             "s:t pauligatan": [
@@ -43133,6 +43147,24 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1657,
                 "$last_seen": "2023-05-23T10:43:54.363Z"
+              }
+            ]
+          },
+          "johanneberg": {
+            "eklandagatan": [
+              {
+                "id": 85552,
+                "rent": 11719,
+                "area": 76,
+                "street": "eklandagatan",
+                "street_number": "40",
+                "city": "göteborg ",
+                "zip": "41282",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1519,
+                "$last_seen": "2023-06-05T14:44:50.635Z"
               }
             ]
           }
