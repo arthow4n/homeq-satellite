@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-06-05T06:47:20.100Z",
+  "lastUpdatedAt": "2023-06-05T07:42:18.767Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -5597,6 +5597,20 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1426,
                 "$last_seen": "2022-12-05T11:36:08.974Z"
+              },
+              {
+                "id": 84218,
+                "rent": 4600,
+                "area": 30,
+                "street": "kristinehöjdsgatan",
+                "street_number": "12 a",
+                "city": "göteborg",
+                "zip": "41282",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1609,
+                "$last_seen": "2023-06-05T06:47:20.100Z"
               }
             ],
             "richertsgatan": [
@@ -16745,6 +16759,20 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1570,
                 "$last_seen": "2023-04-28T08:45:36.649Z"
+              },
+              {
+                "id": 84169,
+                "rent": 9882,
+                "area": 64,
+                "street": "mäster johansgatan",
+                "street_number": "16",
+                "city": "göteborg",
+                "zip": "41662",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1609,
+                "$last_seen": "2023-06-05T06:47:20.100Z"
               }
             ],
             "sankt pauligatan": [
@@ -30587,6 +30615,20 @@
                 "$districtName": "örgryte",
                 "last_accept": 1050,
                 "$last_seen": "2023-04-27T11:03:21.699Z"
+              },
+              {
+                "id": 84404,
+                "rent": 10115,
+                "area": 54,
+                "street": "smörkärnegatan",
+                "street_number": "21",
+                "city": "göteborg",
+                "zip": "41278",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1008,
+                "$last_seen": "2023-06-05T06:47:20.100Z"
               }
             ],
             "tändsticksgatan": [
@@ -43697,6 +43739,20 @@
                 "$districtName": "tynnered",
                 "last_accept": 914,
                 "$last_seen": "2023-05-22T11:40:13.436Z"
+              },
+              {
+                "id": 84198,
+                "rent": 7404,
+                "area": 69,
+                "street": "smyckegatan",
+                "street_number": "32",
+                "city": "västra frölunda",
+                "zip": "42650",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tynnered",
+                "last_accept": 0,
+                "$last_seen": "2023-06-05T06:47:20.100Z"
               },
               {
                 "id": 84350,
