@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-06-05T11:42:35.602Z",
+  "lastUpdatedAt": "2023-06-05T13:05:23.166Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -42895,20 +42895,6 @@
                 "$districtName": "gunnared",
                 "last_accept": 241,
                 "$last_seen": "2023-05-03T11:39:57.659Z"
-              },
-              {
-                "id": 83275,
-                "rent": 5228,
-                "area": 34,
-                "street": "gårdstensvägen",
-                "street_number": "57",
-                "city": "göteborg",
-                "zip": "42440",
-                "municipality": "göteborg",
-                "county": "västra götalands län",
-                "$districtName": "gunnared",
-                "last_accept": 862,
-                "$last_seen": "2023-05-29T11:40:54.800Z"
               }
             ]
           },
@@ -47377,6 +47363,20 @@
                 "$districtName": "vantör",
                 "last_accept": 1386,
                 "$last_seen": "2023-05-24T14:43:29.300Z"
+              },
+              {
+                "id": 83156,
+                "rent": 10026,
+                "area": 78,
+                "street": "askersundsgatan",
+                "street_number": "12",
+                "city": "bandhagen",
+                "zip": "12467",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 1471,
+                "$last_seen": "2023-06-05T11:42:35.602Z"
               }
             ],
             "hagsätra torg": [
