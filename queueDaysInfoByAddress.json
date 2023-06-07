@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-06-07T09:42:31.706Z",
+  "lastUpdatedAt": "2023-06-07T10:45:59.323Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -15321,6 +15321,20 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1590,
                 "$last_seen": "2023-05-19T09:40:58.296Z"
+              },
+              {
+                "id": 84396,
+                "rent": 8600,
+                "area": 66,
+                "street": "kobbarnas väg",
+                "street_number": "16",
+                "city": "göteborg",
+                "zip": "41647",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1546,
+                "$last_seen": "2023-06-07T09:42:31.706Z"
               }
             ],
             "s:t pauligatan": [
