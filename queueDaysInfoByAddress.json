@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-06-07T10:45:59.323Z",
+  "lastUpdatedAt": "2023-06-07T11:43:35.911Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -9045,6 +9045,20 @@
                 "$districtName": "högsbo",
                 "last_accept": 1621,
                 "$last_seen": "2023-05-26T06:45:31.480Z"
+              },
+              {
+                "id": 84175,
+                "rent": 4595,
+                "area": 42,
+                "street": "marklandsgatan",
+                "street_number": "27",
+                "city": "göteborg",
+                "zip": "41477",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 1527,
+                "$last_seen": "2023-06-07T10:45:59.323Z"
               }
             ],
             "riksdalersgatan": [
@@ -27543,6 +27557,22 @@
                 "$districtName": "härlanda",
                 "last_accept": 1454,
                 "$last_seen": "2023-05-16T07:40:11.304Z"
+              }
+            ],
+            "fräntorpsgatan": [
+              {
+                "id": 83848,
+                "rent": 7626,
+                "area": 61,
+                "street": "fräntorpsgatan",
+                "street_number": "2e",
+                "city": "göteborg",
+                "zip": "41676",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "härlanda",
+                "last_accept": 1606,
+                "$last_seen": "2023-06-07T10:45:59.323Z"
               }
             ]
           },
