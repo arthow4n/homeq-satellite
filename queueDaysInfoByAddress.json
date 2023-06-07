@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-06-07T11:43:35.911Z",
+  "lastUpdatedAt": "2023-06-07T13:04:53.139Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -27343,6 +27343,20 @@
                 "$districtName": "härlanda",
                 "last_accept": 1595,
                 "$last_seen": "2023-05-22T16:47:11.933Z"
+              },
+              {
+                "id": 84854,
+                "rent": 4900,
+                "area": 34,
+                "street": "intagsgatan",
+                "street_number": "11 a",
+                "city": "göteborg",
+                "zip": "41651",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "härlanda",
+                "last_accept": 1266,
+                "$last_seen": "2023-06-07T11:43:35.911Z"
               }
             ],
             "qvidingsgatan": [
@@ -32119,6 +32133,20 @@
                 "$districtName": "örgryte",
                 "last_accept": 249,
                 "$last_seen": "2023-05-16T06:44:28.079Z"
+              },
+              {
+                "id": 83110,
+                "rent": 11445,
+                "area": 60,
+                "street": "skummjölksgatan",
+                "street_number": "8",
+                "city": "göteborg",
+                "zip": "41278",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1094,
+                "$last_seen": "2023-06-07T11:43:35.911Z"
               }
             ],
             "separatorsgatan": [
@@ -38149,6 +38177,20 @@
                 "$districtName": "masthugget",
                 "last_accept": 1344,
                 "$last_seen": "2023-03-20T08:44:52.803Z"
+              },
+              {
+                "id": 84039,
+                "rent": 7884,
+                "area": 34,
+                "street": "stenklevsgatan",
+                "street_number": "7 a",
+                "city": "göteborg",
+                "zip": "41465",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "masthugget",
+                "last_accept": 1168,
+                "$last_seen": "2023-06-07T11:43:35.911Z"
               }
             ],
             "djurgårdsgatan": [
@@ -46331,6 +46373,22 @@
                 "$districtName": "hyllie",
                 "last_accept": 0,
                 "$last_seen": "2023-06-07T07:42:55.680Z"
+              }
+            ],
+            "sagas gränd": [
+              {
+                "id": 85453,
+                "rent": 9321,
+                "area": 54.9,
+                "street": "sagas gränd",
+                "street_number": "14",
+                "city": "malmö",
+                "zip": "21536",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "hyllie",
+                "last_accept": 0,
+                "$last_seen": "2023-06-07T11:43:35.911Z"
               }
             ],
             "hyllie vattenparksgata": [
