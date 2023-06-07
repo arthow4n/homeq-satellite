@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-06-07T05:44:04.679Z",
+  "lastUpdatedAt": "2023-06-07T06:46:59.898Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -4251,6 +4251,20 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1491,
                 "$last_seen": "2023-05-30T13:00:59.420Z"
+              },
+              {
+                "id": 82689,
+                "rent": 10199,
+                "area": 58,
+                "street": "ebbe lieberathsgatan",
+                "street_number": "22 e",
+                "city": "göteborg",
+                "zip": "41265",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1010,
+                "$last_seen": "2023-06-07T05:44:04.679Z"
               }
             ],
             "nordgårdsgatan": [
@@ -13215,6 +13229,20 @@
                 "$districtName": "lundby",
                 "last_accept": 1494,
                 "$last_seen": "2023-05-24T07:41:09.761Z"
+              },
+              {
+                "id": 84519,
+                "rent": 8580,
+                "area": 43,
+                "street": "fyrklöversgatan",
+                "street_number": "17",
+                "city": "göteborg",
+                "zip": "41725",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 631,
+                "$last_seen": "2023-06-07T05:44:04.679Z"
               }
             ],
             "arvid lindmansgatan": [
@@ -18131,6 +18159,22 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 871,
                 "$last_seen": "2023-04-06T11:39:25.906Z"
+              }
+            ],
+            "hebegatan": [
+              {
+                "id": 84305,
+                "rent": 9367,
+                "area": 52,
+                "street": "hebegatan",
+                "street_number": "4b",
+                "city": "göteborg",
+                "zip": "41659",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1592,
+                "$last_seen": "2023-06-07T05:44:04.679Z"
               }
             ]
           },
