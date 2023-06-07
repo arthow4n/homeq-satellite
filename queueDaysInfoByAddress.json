@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-06-07T14:44:35.139Z",
+  "lastUpdatedAt": "2023-06-07T15:42:58.258Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -8819,6 +8819,20 @@
                 "$districtName": "högsbo",
                 "last_accept": 1560,
                 "$last_seen": "2023-04-18T13:44:24.892Z"
+              },
+              {
+                "id": 84496,
+                "rent": 6346,
+                "area": 42,
+                "street": "skäpplandsgatan",
+                "street_number": "23",
+                "city": "göteborg",
+                "zip": "41478",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 1222,
+                "$last_seen": "2023-06-07T14:44:35.139Z"
               }
             ],
             "marklandsgatan": [
@@ -36199,6 +36213,20 @@
                 "$districtName": "göteborgs vasa",
                 "last_accept": 1627,
                 "$last_seen": "2023-04-20T07:40:45.327Z"
+              },
+              {
+                "id": 84494,
+                "rent": 7700,
+                "area": 44,
+                "street": "arkivgatan",
+                "street_number": "4",
+                "city": "göteborg",
+                "zip": "41134",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs vasa",
+                "last_accept": 1611,
+                "$last_seen": "2023-06-07T14:44:35.139Z"
               }
             ],
             "kungsportsavenyen": [
