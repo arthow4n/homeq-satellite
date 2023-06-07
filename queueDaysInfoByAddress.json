@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-06-07T08:46:35.244Z",
+  "lastUpdatedAt": "2023-06-07T09:42:31.706Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -11119,20 +11119,6 @@
                 "$districtName": "brämaregården",
                 "last_accept": 900,
                 "$last_seen": "2023-03-20T13:00:36.390Z"
-              },
-              {
-                "id": 84170,
-                "rent": 8819,
-                "area": 81,
-                "street": "ögontröstgatan",
-                "street_number": "4a",
-                "city": "göteborg",
-                "zip": "41720",
-                "municipality": "göteborg",
-                "county": "västra götalands län",
-                "$districtName": "brämaregården",
-                "last_accept": 1601,
-                "$last_seen": "2023-06-02T11:42:33.395Z"
               }
             ],
             "hjalmar brantingsgatan": [
@@ -45481,6 +45467,20 @@
                 "$districtName": "limhamn",
                 "last_accept": 0,
                 "$last_seen": "2023-06-05T08:45:55.307Z"
+              },
+              {
+                "id": 85259,
+                "rent": 13541,
+                "area": 86.9,
+                "street": "nätsnäcksgränd",
+                "street_number": "9",
+                "city": "malmö",
+                "zip": "21631",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "limhamn",
+                "last_accept": 0,
+                "$last_seen": "2023-06-07T08:46:35.244Z"
               }
             ]
           },
@@ -46288,6 +46288,22 @@
                 "last_accept": 0,
                 "$last_seen": "2023-06-07T07:42:55.680Z"
               }
+            ],
+            "hyllie vattenparksgata": [
+              {
+                "id": 85525,
+                "rent": 12484,
+                "area": 80.8,
+                "street": "hyllie vattenparksgata",
+                "street_number": "19",
+                "city": "malmö",
+                "zip": "21531",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "hyllie",
+                "last_accept": 19,
+                "$last_seen": "2023-06-07T08:46:35.244Z"
+              }
             ]
           },
           "västra skrävlinge": {
@@ -46522,6 +46538,20 @@
               }
             ],
             "södra förstadsgatan": [
+              {
+                "id": 81348,
+                "rent": 9327,
+                "area": 59,
+                "street": "södra förstadsgatan",
+                "street_number": "68 c",
+                "city": "malmö",
+                "zip": "21420",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "malmö sankt johannes",
+                "last_accept": 1042,
+                "$last_seen": "2023-06-07T08:46:35.244Z"
+              },
               {
                 "id": 82052,
                 "rent": 4035,
