@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-06-07T13:47:38.588Z",
+  "lastUpdatedAt": "2023-06-07T14:44:35.139Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -9231,6 +9231,20 @@
                 "$districtName": "högsbo",
                 "last_accept": 1384,
                 "$last_seen": "2023-05-23T06:44:00.356Z"
+              },
+              {
+                "id": 83879,
+                "rent": 9065,
+                "area": 60,
+                "street": "högsbogatan",
+                "street_number": "21",
+                "city": "göteborg",
+                "zip": "41475",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 1062,
+                "$last_seen": "2023-06-07T13:47:38.588Z"
               }
             ],
             "lilla tunnlandsgatan": [
@@ -11133,6 +11147,20 @@
                 "$districtName": "brämaregården",
                 "last_accept": 900,
                 "$last_seen": "2023-03-20T13:00:36.390Z"
+              },
+              {
+                "id": 84170,
+                "rent": 8819,
+                "area": 81,
+                "street": "ögontröstgatan",
+                "street_number": "4a",
+                "city": "göteborg",
+                "zip": "41720",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brämaregården",
+                "last_accept": 1606,
+                "$last_seen": "2023-06-07T13:47:38.588Z"
               }
             ],
             "hjalmar brantingsgatan": [
@@ -31807,6 +31835,20 @@
                 "$last_seen": "2023-05-10T13:03:14.279Z"
               },
               {
+                "id": 83391,
+                "rent": 9440,
+                "area": 48,
+                "street": "filmjölksgatan",
+                "street_number": "6",
+                "city": "göteborg",
+                "zip": "41278",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1322,
+                "$last_seen": "2023-06-07T13:47:38.588Z"
+              },
+              {
                 "id": 83420,
                 "rent": 11266,
                 "area": 61,
@@ -44273,6 +44315,22 @@
                 "$districtName": "tynnered",
                 "last_accept": 1363,
                 "$last_seen": "2023-05-22T10:44:04.333Z"
+              }
+            ],
+            "lilla grevegårdsvägen": [
+              {
+                "id": 84420,
+                "rent": 8974,
+                "area": 74,
+                "street": "lilla grevegårdsvägen",
+                "street_number": "37",
+                "city": "västra frölunda",
+                "zip": "42655",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tynnered",
+                "last_accept": 985,
+                "$last_seen": "2023-06-07T13:47:38.588Z"
               }
             ],
             "björkhöjdgatan": [
