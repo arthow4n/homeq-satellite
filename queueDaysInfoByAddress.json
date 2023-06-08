@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-06-08T08:45:54.875Z",
+  "lastUpdatedAt": "2023-06-08T09:42:38.379Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -2943,6 +2943,20 @@
                 "$districtName": "örgryte",
                 "last_accept": 762,
                 "$last_seen": "2023-05-08T07:41:14.175Z"
+              },
+              {
+                "id": 82503,
+                "rent": 7845,
+                "area": 35,
+                "street": "smörkärnegatan",
+                "street_number": "25",
+                "city": "göteborg",
+                "zip": "41278",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1187,
+                "$last_seen": "2023-06-08T08:45:54.875Z"
               }
             ]
           }
@@ -4945,6 +4959,20 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1414,
                 "$last_seen": "2022-11-22T13:50:32.282Z"
+              },
+              {
+                "id": 84973,
+                "rent": 5124,
+                "area": 35,
+                "street": "vidblicksgatan",
+                "street_number": "4",
+                "city": "göteborg",
+                "zip": "41257",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1674,
+                "$last_seen": "2023-06-08T08:45:54.875Z"
               }
             ],
             "fribergsgatan": [
@@ -20959,6 +20987,20 @@
                 "$districtName": "kortedala",
                 "last_accept": 1162,
                 "$last_seen": "2023-05-23T13:43:00.620Z"
+              },
+              {
+                "id": 84649,
+                "rent": 5864,
+                "area": 62.5,
+                "street": "februarigatan",
+                "street_number": "13",
+                "city": "göteborg",
+                "zip": "41546",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "kortedala",
+                "last_accept": 1396,
+                "$last_seen": "2023-06-08T08:45:54.875Z"
               }
             ],
             "kalendervägen": [
@@ -29399,6 +29441,20 @@
                 "$districtName": "göteborgs domkyrkodistrikt",
                 "last_accept": 1569,
                 "$last_seen": "2023-04-27T13:02:32.712Z"
+              },
+              {
+                "id": 85169,
+                "rent": 4402,
+                "area": 36,
+                "street": "odinsgatan",
+                "street_number": "20 c",
+                "city": "göteborg",
+                "zip": "41103",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs domkyrkodistrikt",
+                "last_accept": 1611,
+                "$last_seen": "2023-06-08T08:45:54.875Z"
               }
             ],
             "haga kyrkogata": [
@@ -32473,20 +32529,6 @@
                 "$last_seen": "2023-05-08T05:43:33.818Z"
               },
               {
-                "id": 84325,
-                "rent": 12810,
-                "area": 74,
-                "street": "separatorsgatan",
-                "street_number": "14",
-                "city": "göteborg",
-                "zip": "41278",
-                "municipality": "göteborg",
-                "county": "västra götalands län",
-                "$districtName": "örgryte",
-                "last_accept": 695,
-                "$last_seen": "2023-05-31T11:39:33.783Z"
-              },
-              {
                 "id": 84542,
                 "rent": 7875,
                 "area": 35,
@@ -34997,6 +35039,20 @@
                 "$districtName": "göteborgs vasa",
                 "last_accept": 1596,
                 "$last_seen": "2023-05-25T06:45:36.590Z"
+              },
+              {
+                "id": 85348,
+                "rent": 7019,
+                "area": 38,
+                "street": "karl gustavsgatan",
+                "street_number": "55",
+                "city": "göteborg",
+                "zip": "41131",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs vasa",
+                "last_accept": 1575,
+                "$last_seen": "2023-06-08T08:45:54.875Z"
               }
             ],
             "mölndalsvägen": [
@@ -37849,6 +37905,20 @@
                 "$districtName": "masthugget",
                 "last_accept": 1394,
                 "$last_seen": "2023-04-28T08:45:36.649Z"
+              },
+              {
+                "id": 81436,
+                "rent": 5435,
+                "area": 29,
+                "street": "bangatan",
+                "street_number": "29",
+                "city": "göteborg",
+                "zip": "41464",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "masthugget",
+                "last_accept": 1365,
+                "$last_seen": "2023-06-08T08:45:54.875Z"
               },
               {
                 "id": 82230,
@@ -45971,6 +46041,20 @@
                 "$districtName": "kirseberg",
                 "last_accept": 0,
                 "$last_seen": "2023-04-27T05:43:19.101Z"
+              },
+              {
+                "id": 82079,
+                "rent": 11476,
+                "area": 76,
+                "street": "segeparksgatan",
+                "street_number": "17",
+                "city": "malmö",
+                "zip": "21250",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "kirseberg",
+                "last_accept": 0,
+                "$last_seen": "2023-06-08T08:45:54.875Z"
               }
             ],
             "lundavägen": [
@@ -46673,6 +46757,22 @@
                 "$districtName": "hyllie",
                 "last_accept": 0,
                 "$last_seen": "2023-06-07T07:42:55.680Z"
+              }
+            ],
+            "sagas gränd": [
+              {
+                "id": 85453,
+                "rent": 9321,
+                "area": 54.9,
+                "street": "sagas gränd",
+                "street_number": "14",
+                "city": "malmö",
+                "zip": "21536",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "hyllie",
+                "last_accept": 0,
+                "$last_seen": "2023-06-08T08:45:54.875Z"
               }
             ],
             "hyllie vattenparksgata": [
