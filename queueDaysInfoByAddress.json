@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-06-08T10:46:26.271Z",
+  "lastUpdatedAt": "2023-06-08T11:42:32.020Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -11383,6 +11383,20 @@
                 "$districtName": "brämaregården",
                 "last_accept": 1405,
                 "$last_seen": "2023-05-11T05:43:18.794Z"
+              },
+              {
+                "id": 85789,
+                "rent": 8000,
+                "area": 59,
+                "street": "kvillegatan",
+                "street_number": "14 b",
+                "city": "göteborg",
+                "zip": "41708",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brämaregården",
+                "last_accept": 1553,
+                "$last_seen": "2023-06-08T10:46:26.271Z"
               }
             ]
           },
@@ -12275,6 +12289,20 @@
                 "$districtName": "lundby",
                 "last_accept": 1357,
                 "$last_seen": "2023-05-15T10:45:30.035Z"
+              },
+              {
+                "id": 84530,
+                "rent": 7290,
+                "area": 63,
+                "street": "hällskriftsgatan",
+                "street_number": "12d",
+                "city": "göteborg",
+                "zip": "41726",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1599,
+                "$last_seen": "2023-06-08T10:46:26.271Z"
               }
             ],
             "fyrklöversgatan": [
@@ -47017,6 +47045,20 @@
                 "$districtName": "västra skrävlinge",
                 "last_accept": 0,
                 "$last_seen": "2023-05-24T11:41:38.006Z"
+              },
+              {
+                "id": 82915,
+                "rent": 9169,
+                "area": 89,
+                "street": "ramels väg",
+                "street_number": "25",
+                "city": "malmö",
+                "zip": "21368",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "västra skrävlinge",
+                "last_accept": 0,
+                "$last_seen": "2023-06-08T10:46:26.271Z"
               }
             ]
           },
@@ -48553,6 +48595,20 @@
                 "$districtName": "skärholmen",
                 "last_accept": 1432,
                 "$last_seen": "2023-05-12T04:45:13.168Z"
+              },
+              {
+                "id": 84299,
+                "rent": 4460,
+                "area": 23,
+                "street": "bredängsvägen",
+                "street_number": "222",
+                "city": "stockholm ",
+                "zip": "12732",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "skärholmen",
+                "last_accept": 283,
+                "$last_seen": "2023-06-08T10:46:26.271Z"
               }
             ]
           }
