@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-06-09T13:02:36.663Z",
+  "lastUpdatedAt": "2023-06-09T13:44:46.155Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -24939,6 +24939,20 @@
                 "$last_seen": "2023-04-25T06:45:59.559Z"
               },
               {
+                "id": 83688,
+                "rent": 11316,
+                "area": 99,
+                "street": "kosmosgatan",
+                "street_number": "10",
+                "city": "göteborg",
+                "zip": "41562",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bergsjön",
+                "last_accept": 572,
+                "$last_seen": "2023-06-09T13:02:36.663Z"
+              },
+              {
                 "id": 83697,
                 "rent": 7460,
                 "area": 56,
@@ -47375,6 +47389,20 @@
                 "$districtName": "malmö sankt johannes",
                 "last_accept": 1407,
                 "$last_seen": "2023-04-24T08:46:30.859Z"
+              },
+              {
+                "id": 84064,
+                "rent": 8292,
+                "area": 72,
+                "street": "södra skolgatan",
+                "street_number": "31",
+                "city": "malmö",
+                "zip": "21422",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "malmö sankt johannes",
+                "last_accept": 1474,
+                "$last_seen": "2023-06-09T11:42:32.328Z"
               }
             ],
             "södra förstadsgatan": [
