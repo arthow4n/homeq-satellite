@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-06-09T14:44:42.252Z",
+  "lastUpdatedAt": "2023-06-09T15:43:08.355Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -26055,6 +26055,20 @@
                 "$districtName": "nylöse",
                 "last_accept": 1450,
                 "$last_seen": "2023-01-04T13:40:57.225Z"
+              },
+              {
+                "id": 83371,
+                "rent": 4704,
+                "area": 40,
+                "street": "brahegatan",
+                "street_number": "2c",
+                "city": "göteborg",
+                "zip": "41514",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "nylöse",
+                "last_accept": 1502,
+                "$last_seen": "2023-06-09T14:44:42.252Z"
               }
             ],
             "hornsgatan": [
