@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-06-09T08:45:26.541Z",
+  "lastUpdatedAt": "2023-06-09T09:42:24.586Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -13343,6 +13343,20 @@
                 "$last_seen": "2023-05-04T11:40:35.853Z"
               },
               {
+                "id": 82486,
+                "rent": 7594,
+                "area": 83,
+                "street": "fyrklöversgatan",
+                "street_number": "78",
+                "city": "göteborg",
+                "zip": "41721",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1600,
+                "$last_seen": "2023-06-09T08:45:26.541Z"
+              },
+              {
                 "id": 82700,
                 "rent": 7578,
                 "area": 83,
@@ -26509,6 +26523,20 @@
                 "$last_seen": "2023-06-02T07:41:58.450Z"
               },
               {
+                "id": 83468,
+                "rent": 9149,
+                "area": 66.8,
+                "street": "sysslomansgatan",
+                "street_number": "40",
+                "city": "göteborg",
+                "zip": "41574",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "nylöse",
+                "last_accept": 0,
+                "$last_seen": "2023-06-09T08:45:26.541Z"
+              },
+              {
                 "id": 83474,
                 "rent": 13850,
                 "area": 110.4,
@@ -27421,6 +27449,20 @@
                 "$districtName": "härlanda",
                 "last_accept": 1527,
                 "$last_seen": "2023-05-26T09:41:32.960Z"
+              },
+              {
+                "id": 83465,
+                "rent": 9747,
+                "area": 71.4,
+                "street": "utjordsgatan",
+                "street_number": "27",
+                "city": "göteborg",
+                "zip": "41656",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "härlanda",
+                "last_accept": 1362,
+                "$last_seen": "2023-06-09T08:45:26.541Z"
               }
             ],
             "lagmansgatan": [
@@ -46048,20 +46090,6 @@
                 "county": "skåne län",
                 "$districtName": "limhamn",
                 "last_accept": 0,
-                "$last_seen": "2023-06-07T07:42:55.680Z"
-              },
-              {
-                "id": 85244,
-                "rent": 13309,
-                "area": 83,
-                "street": "nätsnäcksgränd",
-                "street_number": "9",
-                "city": "malmö",
-                "zip": "21631",
-                "municipality": "malmö",
-                "county": "skåne län",
-                "$districtName": "limhamn",
-                "last_accept": 133,
                 "$last_seen": "2023-06-07T07:42:55.680Z"
               },
               {
