@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-06-11T12:59:59.600Z",
+  "lastUpdatedAt": "2023-06-11T13:42:59.503Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -46281,6 +46281,36 @@
                 "$last_seen": "2023-04-26T10:46:11.451Z"
               }
             ],
+            "rosendalsv": [
+              {
+                "id": 76595,
+                "rent": 9995,
+                "area": 89,
+                "street": "rosendalsv",
+                "street_number": "5",
+                "city": "malmö",
+                "zip": "21219",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "kirseberg",
+                "last_accept": 79,
+                "$last_seen": "2023-06-11T12:59:59.600Z"
+              },
+              {
+                "id": 83151,
+                "rent": 11192,
+                "area": 88,
+                "street": "rosendalsv",
+                "street_number": "3",
+                "city": "malmö",
+                "zip": "21219",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "kirseberg",
+                "last_accept": 0,
+                "$last_seen": "2023-06-04T19:42:13.548Z"
+              }
+            ],
             "segeparksgatan": [
               {
                 "id": 78001,
@@ -46719,22 +46749,6 @@
                 "$districtName": "kirseberg",
                 "last_accept": 216,
                 "$last_seen": "2023-04-27T13:49:03.126Z"
-              }
-            ],
-            "rosendalsv": [
-              {
-                "id": 83151,
-                "rent": 11192,
-                "area": 88,
-                "street": "rosendalsv",
-                "street_number": "3",
-                "city": "malmö",
-                "zip": "21219",
-                "municipality": "malmö",
-                "county": "skåne län",
-                "$districtName": "kirseberg",
-                "last_accept": 0,
-                "$last_seen": "2023-06-04T19:42:13.548Z"
               }
             ]
           },
