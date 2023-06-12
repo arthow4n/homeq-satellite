@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-06-12T05:44:44.651Z",
+  "lastUpdatedAt": "2023-06-12T06:47:56.862Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -7331,6 +7331,34 @@
                 "$districtName": "högsbo",
                 "last_accept": 433,
                 "$last_seen": "2023-05-29T07:41:10.592Z"
+              },
+              {
+                "id": 83758,
+                "rent": 11570,
+                "area": 70.3,
+                "street": "nymilsgatan",
+                "street_number": "45",
+                "city": "göteborg",
+                "zip": "42170",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 811,
+                "$last_seen": "2023-06-12T05:44:44.651Z"
+              },
+              {
+                "id": 84642,
+                "rent": 12668,
+                "area": 78,
+                "street": "nymilsgatan",
+                "street_number": "43",
+                "city": "göteborg",
+                "zip": "42170",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 561,
+                "$last_seen": "2023-06-12T05:44:44.651Z"
               }
             ],
             "pennygången": [
@@ -32917,6 +32945,20 @@
                 "$districtName": "västra frölunda",
                 "last_accept": 676,
                 "$last_seen": "2023-05-05T06:46:17.664Z"
+              },
+              {
+                "id": 83962,
+                "rent": 10653,
+                "area": 72,
+                "street": "cymbalgatan",
+                "street_number": "7",
+                "city": "göteborg",
+                "zip": "42151",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "västra frölunda",
+                "last_accept": 0,
+                "$last_seen": "2023-06-12T05:44:44.651Z"
               }
             ],
             "transistorgatan": [
@@ -46245,6 +46287,20 @@
                 "$districtName": "limhamn",
                 "last_accept": 0,
                 "$last_seen": "2023-06-09T07:42:42.158Z"
+              },
+              {
+                "id": 85739,
+                "rent": 13799,
+                "area": 88.3,
+                "street": "nätsnäcksgränd",
+                "street_number": "2",
+                "city": "malmö",
+                "zip": "21631",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "limhamn",
+                "last_accept": 6,
+                "$last_seen": "2023-06-12T05:44:44.651Z"
               }
             ]
           },
