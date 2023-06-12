@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-06-12T10:47:27.021Z",
+  "lastUpdatedAt": "2023-06-12T11:41:56.778Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -37065,6 +37065,20 @@
                 "$districtName": "göteborgs vasa",
                 "last_accept": 1594,
                 "$last_seen": "2023-05-22T11:40:13.436Z"
+              },
+              {
+                "id": 85983,
+                "rent": 10608,
+                "area": 70,
+                "street": "viktor rydbergsgatan",
+                "street_number": "1 b",
+                "city": "göteborg",
+                "zip": "41134",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs vasa",
+                "last_accept": 1616,
+                "$last_seen": "2023-06-12T10:47:27.021Z"
               }
             ],
             "nedre fogelbergsgatan": [
@@ -37867,6 +37881,20 @@
                 "$districtName": "göteborgs oscar fredrik",
                 "last_accept": 1489,
                 "$last_seen": "2023-05-15T07:42:05.172Z"
+              },
+              {
+                "id": 85788,
+                "rent": 5943,
+                "area": 32,
+                "street": "kryssdäcket",
+                "street_number": "2",
+                "city": "göteborg",
+                "zip": "41327",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs oscar fredrik",
+                "last_accept": 1526,
+                "$last_seen": "2023-06-12T10:47:27.021Z"
               }
             ],
             "övre djupedalsgatan": [
