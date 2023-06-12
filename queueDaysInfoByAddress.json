@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-06-12T15:41:46.484Z",
+  "lastUpdatedAt": "2023-06-12T16:49:17.606Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -6669,6 +6669,20 @@
                 "$districtName": "högsbo",
                 "last_accept": 332,
                 "$last_seen": "2023-05-17T06:43:39.008Z"
+              },
+              {
+                "id": 86266,
+                "rent": 7770,
+                "area": 35,
+                "street": "skillingmyntsgatan",
+                "street_number": "8",
+                "city": "göteborg",
+                "zip": "41484",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 765,
+                "$last_seen": "2023-06-12T15:41:46.484Z"
               }
             ],
             "synhållsgatan": [
@@ -23397,6 +23411,20 @@
                 "$districtName": "askim",
                 "last_accept": 1489,
                 "$last_seen": "2023-04-17T11:41:36.332Z"
+              },
+              {
+                "id": 84836,
+                "rent": 9055,
+                "area": 63,
+                "street": "kobbegården",
+                "street_number": "19",
+                "city": "göteborg",
+                "zip": "43637",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 970,
+                "$last_seen": "2023-06-12T15:41:46.484Z"
               }
             ],
             "ugglegården": [
