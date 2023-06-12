@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-06-12T14:43:50.937Z",
+  "lastUpdatedAt": "2023-06-12T15:41:46.484Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -44117,6 +44117,20 @@
                 "$districtName": "haga",
                 "last_accept": 1603,
                 "$last_seen": "2023-05-30T11:40:09.119Z"
+              },
+              {
+                "id": 86387,
+                "rent": 9768,
+                "area": 61,
+                "street": "nilssonsberg",
+                "street_number": "33",
+                "city": "göteborg ",
+                "zip": "41143",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "haga",
+                "last_accept": 1616,
+                "$last_seen": "2023-06-12T14:43:50.937Z"
               }
             ]
           },
