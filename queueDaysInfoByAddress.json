@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-06-12T09:42:16.991Z",
+  "lastUpdatedAt": "2023-06-12T10:47:27.021Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -8621,6 +8621,20 @@
                 "$districtName": "högsbo",
                 "last_accept": 1354,
                 "$last_seen": "2023-05-30T11:40:09.119Z"
+              },
+              {
+                "id": 86537,
+                "rent": 8418,
+                "area": 62,
+                "street": "pennygången",
+                "street_number": "88",
+                "city": "göteborg",
+                "zip": "41482",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 699,
+                "$last_seen": "2023-06-12T09:42:16.991Z"
               }
             ],
             "skäpplandsgatan": [
@@ -9157,6 +9171,20 @@
                 "$districtName": "högsbo",
                 "last_accept": 1616,
                 "$last_seen": "2023-06-12T07:42:35.672Z"
+              },
+              {
+                "id": 86397,
+                "rent": 8939,
+                "area": 61,
+                "street": "marklandsgatan",
+                "street_number": "39",
+                "city": "göteborg",
+                "zip": "41477",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 1083,
+                "$last_seen": "2023-06-12T09:42:16.991Z"
               }
             ],
             "riksdalersgatan": [
@@ -15601,6 +15629,20 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1613,
                 "$last_seen": "2023-06-09T07:42:42.158Z"
+              },
+              {
+                "id": 85675,
+                "rent": 5300,
+                "area": 38,
+                "street": "kobbarnas väg",
+                "street_number": "12",
+                "city": "göteborg",
+                "zip": "41647",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1531,
+                "$last_seen": "2023-06-12T09:42:16.991Z"
               }
             ],
             "s:t pauligatan": [
@@ -47323,6 +47365,20 @@
                 "$districtName": "hyllie",
                 "last_accept": 0,
                 "$last_seen": "2023-06-08T08:45:54.875Z"
+              },
+              {
+                "id": 85456,
+                "rent": 9321,
+                "area": 54.9,
+                "street": "sagas gränd",
+                "street_number": "14",
+                "city": "malmö",
+                "zip": "21536",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "hyllie",
+                "last_accept": 0,
+                "$last_seen": "2023-06-12T09:42:16.991Z"
               }
             ],
             "hyllie vattenparksgata": [
