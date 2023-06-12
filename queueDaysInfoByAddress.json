@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-06-12T04:46:27.164Z",
+  "lastUpdatedAt": "2023-06-12T05:44:44.651Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -34589,6 +34589,20 @@
                 "$districtName": "annedal",
                 "last_accept": 1587,
                 "$last_seen": "2023-05-30T07:40:40.964Z"
+              },
+              {
+                "id": 86642,
+                "rent": 7022,
+                "area": 45,
+                "street": "västergatan",
+                "street_number": "11",
+                "city": "göteborg",
+                "zip": "41313",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "annedal",
+                "last_accept": 1481,
+                "$last_seen": "2023-06-12T04:46:27.164Z"
               }
             ],
             "seminariegatan": [
@@ -46231,22 +46245,6 @@
                 "$districtName": "limhamn",
                 "last_accept": 0,
                 "$last_seen": "2023-06-09T07:42:42.158Z"
-              }
-            ],
-            "dammsnäcksgränd": [
-              {
-                "id": 85255,
-                "rent": 9647,
-                "area": 53,
-                "street": "dammsnäcksgränd",
-                "street_number": "10",
-                "city": "malmö",
-                "zip": "21631",
-                "municipality": "malmö",
-                "county": "skåne län",
-                "$districtName": "limhamn",
-                "last_accept": 0,
-                "$last_seen": "2023-06-09T11:42:32.328Z"
               }
             ]
           },
