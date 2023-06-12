@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-06-12T08:46:14.225Z",
+  "lastUpdatedAt": "2023-06-12T09:42:16.991Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -26847,6 +26847,20 @@
                 "$districtName": "nylöse",
                 "last_accept": 795,
                 "$last_seen": "2023-03-23T11:35:55.174Z"
+              },
+              {
+                "id": 85051,
+                "rent": 9514,
+                "area": 52,
+                "street": "gamlestadsvägen",
+                "street_number": "10 d",
+                "city": "göteborg",
+                "zip": "41502",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "nylöse",
+                "last_accept": 980,
+                "$last_seen": "2023-06-12T08:46:14.225Z"
               }
             ],
             "ryttaregatan": [
@@ -29193,6 +29207,20 @@
                 "$districtName": "göteborgs domkyrkodistrikt",
                 "last_accept": 1564,
                 "$last_seen": "2023-04-21T10:44:35.631Z"
+              },
+              {
+                "id": 85877,
+                "rent": 7248,
+                "area": 42,
+                "street": "stampgatan",
+                "street_number": "46",
+                "city": "göteborg",
+                "zip": "41101",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs domkyrkodistrikt",
+                "last_accept": 1400,
+                "$last_seen": "2023-06-12T08:46:14.225Z"
               }
             ],
             "friggagatan": [
@@ -32883,6 +32911,20 @@
                 "$districtName": "örgryte",
                 "last_accept": 1609,
                 "$last_seen": "2023-06-05T14:44:50.635Z"
+              },
+              {
+                "id": 84497,
+                "rent": 9265,
+                "area": 78,
+                "street": "birkagatan",
+                "street_number": "59 a",
+                "city": "göteborg",
+                "zip": "41656",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1672,
+                "$last_seen": "2023-06-12T08:46:14.225Z"
               }
             ],
             "s:t pauligatan": [
@@ -38665,6 +38707,20 @@
                 "$districtName": "masthugget",
                 "last_accept": 1541,
                 "$last_seen": "2023-05-29T10:44:29.978Z"
+              },
+              {
+                "id": 85283,
+                "rent": 9733,
+                "area": 55,
+                "street": "kolumbusgatan",
+                "street_number": "3",
+                "city": "göteborg",
+                "zip": "41465",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "masthugget",
+                "last_accept": 1455,
+                "$last_seen": "2023-06-12T08:46:14.225Z"
               }
             ],
             "stenklevsgatan": [
@@ -44429,6 +44485,20 @@
                 "$districtName": "tynnered",
                 "last_accept": 1213,
                 "$last_seen": "2023-05-15T06:46:43.201Z"
+              },
+              {
+                "id": 84589,
+                "rent": 8797,
+                "area": 77,
+                "street": "karneolgatan",
+                "street_number": "3",
+                "city": "västra frölunda",
+                "zip": "42651",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tynnered",
+                "last_accept": 1329,
+                "$last_seen": "2023-06-12T08:46:14.225Z"
               }
             ],
             "smaragdgatan": [
@@ -46874,6 +46944,22 @@
                 "last_accept": 216,
                 "$last_seen": "2023-04-27T13:49:03.126Z"
               }
+            ],
+            "rantzowsgatan": [
+              {
+                "id": 84724,
+                "rent": 5965,
+                "area": 38,
+                "street": "rantzowsgatan",
+                "street_number": "12c",
+                "city": "malmö",
+                "zip": "21221",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "kirseberg",
+                "last_accept": 440,
+                "$last_seen": "2023-06-12T08:46:14.225Z"
+              }
             ]
           },
           "malmö sankt pauli": {
@@ -47497,6 +47583,20 @@
                 "$last_seen": "2023-05-24T11:41:38.006Z"
               },
               {
+                "id": 82894,
+                "rent": 9513,
+                "area": 89,
+                "street": "ramels väg",
+                "street_number": "35",
+                "city": "malmö",
+                "zip": "21368",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "västra skrävlinge",
+                "last_accept": 0,
+                "$last_seen": "2023-06-12T08:46:14.225Z"
+              },
+              {
                 "id": 82915,
                 "rent": 9169,
                 "area": 89,
@@ -47843,6 +47943,20 @@
                 "$districtName": "limhamn",
                 "last_accept": 0,
                 "$last_seen": "2023-06-12T06:47:56.862Z"
+              },
+              {
+                "id": 84727,
+                "rent": 9588,
+                "area": 55,
+                "street": "blåsebergavägen",
+                "street_number": "12",
+                "city": "limhamn",
+                "zip": "21633",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "limhamn",
+                "last_accept": 0,
+                "$last_seen": "2023-06-12T08:46:14.225Z"
               }
             ],
             "birger jarlsgatan": [
