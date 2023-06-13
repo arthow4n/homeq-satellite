@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-06-13T10:45:54.943Z",
+  "lastUpdatedAt": "2023-06-13T11:42:05.490Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -48705,6 +48705,22 @@
                 "$districtName": "limhamn",
                 "last_accept": 953,
                 "$last_seen": "2023-05-30T05:41:44.776Z"
+              }
+            ],
+            "tegnergatan": [
+              {
+                "id": 85549,
+                "rent": 10089,
+                "area": 81,
+                "street": "tegnergatan",
+                "street_number": "23a",
+                "city": "limhamn",
+                "zip": "21612",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "limhamn",
+                "last_accept": 1047,
+                "$last_seen": "2023-06-13T10:45:54.943Z"
               }
             ]
           }
