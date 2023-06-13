@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-06-13T11:42:05.490Z",
+  "lastUpdatedAt": "2023-06-13T13:02:32.095Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -9241,6 +9241,20 @@
                 "$districtName": "högsbo",
                 "last_accept": 1083,
                 "$last_seen": "2023-06-12T09:42:16.991Z"
+              },
+              {
+                "id": 86398,
+                "rent": 8939,
+                "area": 61,
+                "street": "marklandsgatan",
+                "street_number": "39",
+                "city": "göteborg",
+                "zip": "41477",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 1150,
+                "$last_seen": "2023-06-13T11:42:05.490Z"
               },
               {
                 "id": 86511,
@@ -48169,22 +48183,6 @@
                 "$districtName": "möllevången",
                 "last_accept": 815,
                 "$last_seen": "2023-05-15T10:45:30.035Z"
-              }
-            ],
-            "södra förstadsgatan": [
-              {
-                "id": 84080,
-                "rent": 6088,
-                "area": 42,
-                "street": "södra förstadsgatan",
-                "street_number": "118",
-                "city": "malmö",
-                "zip": "21428",
-                "municipality": "malmö",
-                "county": "skåne län",
-                "$districtName": "möllevången",
-                "last_accept": 844,
-                "$last_seen": "2023-06-13T06:46:00.390Z"
               }
             ]
           },
