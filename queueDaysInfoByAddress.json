@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-06-13T05:43:22.592Z",
+  "lastUpdatedAt": "2023-06-13T06:46:00.390Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -13551,6 +13551,20 @@
                 "$districtName": "lundby",
                 "last_accept": 631,
                 "$last_seen": "2023-06-07T05:44:04.679Z"
+              },
+              {
+                "id": 85538,
+                "rent": 12733,
+                "area": 76,
+                "street": "fyrklöversgatan",
+                "street_number": "15",
+                "city": "göteborg",
+                "zip": "41725",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 577,
+                "$last_seen": "2023-06-13T05:43:22.592Z"
               }
             ],
             "arvid lindmansgatan": [
@@ -15031,6 +15045,20 @@
                 "$districtName": "lundby",
                 "last_accept": 1213,
                 "$last_seen": "2023-05-05T09:40:59.888Z"
+              },
+              {
+                "id": 85981,
+                "rent": 5853,
+                "area": 26,
+                "street": "pilegårdsgatan",
+                "street_number": "2",
+                "city": "göteborg",
+                "zip": "41877",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 0,
+                "$last_seen": "2023-06-12T06:47:56.862Z"
               }
             ],
             "korstörnegatan": [
@@ -31391,20 +31419,6 @@
                 "$last_seen": "2023-04-27T11:03:21.699Z"
               },
               {
-                "id": 84386,
-                "rent": 13559,
-                "area": 79,
-                "street": "smörkärnegatan",
-                "street_number": "13",
-                "city": "göteborg",
-                "zip": "41278",
-                "municipality": "göteborg",
-                "county": "västra götalands län",
-                "$districtName": "örgryte",
-                "last_accept": 794,
-                "$last_seen": "2023-06-09T05:43:33.408Z"
-              },
-              {
                 "id": 84404,
                 "rent": 10115,
                 "area": 54,
@@ -44145,6 +44159,20 @@
                 "$districtName": "haga",
                 "last_accept": 1603,
                 "$last_seen": "2023-05-30T11:40:09.119Z"
+              },
+              {
+                "id": 85978,
+                "rent": 5805,
+                "area": 47,
+                "street": "nilssonsberg",
+                "street_number": "32",
+                "city": "göteborg ",
+                "zip": "41143",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "haga",
+                "last_accept": 1618,
+                "$last_seen": "2023-06-13T05:43:22.592Z"
               },
               {
                 "id": 86387,
