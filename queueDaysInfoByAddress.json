@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-06-13T13:44:00.080Z",
+  "lastUpdatedAt": "2023-06-13T14:44:37.787Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -22325,6 +22325,20 @@
                 "$districtName": "askim",
                 "last_accept": 1531,
                 "$last_seen": "2023-06-08T07:43:04.020Z"
+              },
+              {
+                "id": 85334,
+                "rent": 6025,
+                "area": 32,
+                "street": "pilegården",
+                "street_number": "1a",
+                "city": "göteborg",
+                "zip": "43635",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 1037,
+                "$last_seen": "2023-06-13T13:44:00.080Z"
               }
             ],
             "nergårdsvägen": [
@@ -37361,6 +37375,20 @@
                 "$last_seen": "2023-05-22T11:40:13.436Z"
               },
               {
+                "id": 85982,
+                "rent": 17503,
+                "area": 141,
+                "street": "viktor rydbergsgatan",
+                "street_number": "1 a",
+                "city": "göteborg",
+                "zip": "41134",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs vasa",
+                "last_accept": 1392,
+                "$last_seen": "2023-06-13T13:44:00.080Z"
+              },
+              {
                 "id": 85983,
                 "rent": 10608,
                 "area": 70,
@@ -48731,6 +48759,22 @@
                 "$districtName": "limhamn",
                 "last_accept": 835,
                 "$last_seen": "2023-05-23T07:40:19.622Z"
+              }
+            ],
+            "gamla gatan": [
+              {
+                "id": 83731,
+                "rent": 9480,
+                "area": 81,
+                "street": "gamla gatan",
+                "street_number": "5",
+                "city": "limhamn",
+                "zip": "21612",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "limhamn",
+                "last_accept": 550,
+                "$last_seen": "2023-06-13T13:44:00.080Z"
               }
             ],
             "linnegatan": [
