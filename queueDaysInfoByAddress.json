@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-06-13T06:46:00.390Z",
+  "lastUpdatedAt": "2023-06-13T07:41:43.580Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -29675,6 +29675,20 @@
                 "$districtName": "göteborgs domkyrkodistrikt",
                 "last_accept": 1585,
                 "$last_seen": "2023-05-11T06:46:32.602Z"
+              },
+              {
+                "id": 85874,
+                "rent": 4633,
+                "area": 21,
+                "street": "folkungagatan",
+                "street_number": "8",
+                "city": "göteborg",
+                "zip": "41102",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs domkyrkodistrikt",
+                "last_accept": 1320,
+                "$last_seen": "2023-06-13T06:46:00.390Z"
               }
             ],
             "basargatan": [
@@ -31417,6 +31431,20 @@
                 "$districtName": "örgryte",
                 "last_accept": 1050,
                 "$last_seen": "2023-04-27T11:03:21.699Z"
+              },
+              {
+                "id": 84386,
+                "rent": 13559,
+                "area": 79,
+                "street": "smörkärnegatan",
+                "street_number": "13",
+                "city": "göteborg",
+                "zip": "41278",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 782,
+                "$last_seen": "2023-06-13T06:46:00.390Z"
               },
               {
                 "id": 84404,
@@ -48014,6 +48042,22 @@
                 "last_accept": 815,
                 "$last_seen": "2023-05-15T10:45:30.035Z"
               }
+            ],
+            "södra förstadsgatan": [
+              {
+                "id": 84080,
+                "rent": 6088,
+                "area": 42,
+                "street": "södra förstadsgatan",
+                "street_number": "118",
+                "city": "malmö",
+                "zip": "21428",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "möllevången",
+                "last_accept": 844,
+                "$last_seen": "2023-06-13T06:46:00.390Z"
+              }
             ]
           },
           "oxie": {
@@ -48567,26 +48611,6 @@
                 "$districtName": "slottsstaden",
                 "last_accept": 564,
                 "$last_seen": "2023-05-23T07:40:19.622Z"
-              }
-            ]
-          }
-        },
-        "bunkeflostrand": {
-          "bunkeflo": {
-            "sadelmakarebyn": [
-              {
-                "id": 85329,
-                "rent": 8719,
-                "area": 64,
-                "street": "sadelmakarebyn",
-                "street_number": "1f",
-                "city": "bunkeflostrand",
-                "zip": "21840",
-                "municipality": "malmö",
-                "county": "skåne län",
-                "$districtName": "bunkeflo",
-                "last_accept": 0,
-                "$last_seen": "2023-06-07T06:46:59.898Z"
               }
             ]
           }
