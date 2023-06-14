@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-06-14T06:46:15.251Z",
+  "lastUpdatedAt": "2023-06-14T07:42:13.644Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -27317,6 +27317,20 @@
                 "$districtName": "nylöse",
                 "last_accept": 1445,
                 "$last_seen": "2023-02-14T11:36:48.062Z"
+              },
+              {
+                "id": 86365,
+                "rent": 7645,
+                "area": 49,
+                "street": "lars kaggsgatan",
+                "street_number": "33b",
+                "city": "göteborg",
+                "zip": "41516",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "nylöse",
+                "last_accept": 1397,
+                "$last_seen": "2023-06-14T06:46:15.251Z"
               }
             ],
             "björnekärrsgatan": [
@@ -28239,6 +28253,20 @@
                 "$districtName": "härlanda",
                 "last_accept": 1498,
                 "$last_seen": "2023-03-06T13:03:18.310Z"
+              },
+              {
+                "id": 80513,
+                "rent": 9772,
+                "area": 84,
+                "street": "hjalmar selandersgata",
+                "street_number": "4d",
+                "city": "göteborg",
+                "zip": "41674",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "härlanda",
+                "last_accept": 1642,
+                "$last_seen": "2023-06-14T06:46:15.251Z"
               }
             ],
             "l:a munkebäcksgatan": [
