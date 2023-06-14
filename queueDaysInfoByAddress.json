@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-06-14T11:43:17.261Z",
+  "lastUpdatedAt": "2023-06-14T13:03:21.374Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -13663,6 +13663,34 @@
                 "$districtName": "lundby",
                 "last_accept": 577,
                 "$last_seen": "2023-06-13T05:43:22.592Z"
+              },
+              {
+                "id": 85643,
+                "rent": 8745,
+                "area": 43,
+                "street": "fyrklöversgatan",
+                "street_number": "17",
+                "city": "göteborg",
+                "zip": "41725",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 398,
+                "$last_seen": "2023-06-14T11:43:17.261Z"
+              },
+              {
+                "id": 85666,
+                "rent": 7881,
+                "area": 83,
+                "street": "fyrklöversgatan",
+                "street_number": "102",
+                "city": "göteborg",
+                "zip": "41721",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1538,
+                "$last_seen": "2023-06-14T11:43:17.261Z"
               },
               {
                 "id": 85762,
@@ -40909,6 +40937,20 @@
                 "$districtName": "biskopsgården",
                 "last_accept": 0,
                 "$last_seen": "2023-06-07T11:43:35.911Z"
+              },
+              {
+                "id": 86837,
+                "rent": 6340,
+                "area": 49,
+                "street": "temperaturgatan",
+                "street_number": "33",
+                "city": "göteborg",
+                "zip": "41841",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "biskopsgården",
+                "last_accept": 391,
+                "$last_seen": "2023-06-14T11:43:17.261Z"
               }
             ],
             "solstrålegatan": [
@@ -45387,6 +45429,20 @@
                 "$districtName": "tynnered",
                 "last_accept": 1219,
                 "$last_seen": "2023-05-30T14:41:01.610Z"
+              },
+              {
+                "id": 84352,
+                "rent": 8973,
+                "area": 81,
+                "street": "smyckegatan",
+                "street_number": "87",
+                "city": "västra frölunda",
+                "zip": "42651",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tynnered",
+                "last_accept": 1534,
+                "$last_seen": "2023-06-14T11:43:17.261Z"
               }
             ],
             "björkhöjdsgatan": [
