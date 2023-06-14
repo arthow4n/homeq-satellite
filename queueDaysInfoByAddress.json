@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-06-14T13:44:22.332Z",
+  "lastUpdatedAt": "2023-06-14T14:44:46.173Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -16041,6 +16041,20 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1589,
                 "$last_seen": "2023-05-16T11:40:06.445Z"
+              },
+              {
+                "id": 84555,
+                "rent": 7032,
+                "area": 49,
+                "street": "runebergsgatan",
+                "street_number": "4",
+                "city": "göteborg",
+                "zip": "41658",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1618,
+                "$last_seen": "2023-06-14T13:44:22.332Z"
               }
             ],
             "redbergsvägen": [
@@ -19481,6 +19495,20 @@
                 "$districtName": "björkekärr",
                 "last_accept": 487,
                 "$last_seen": "2023-06-01T11:41:57.706Z"
+              },
+              {
+                "id": 86584,
+                "rent": 5051,
+                "area": 22,
+                "street": "smörslätten",
+                "street_number": "6",
+                "city": "göteborg",
+                "zip": "41677",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "björkekärr",
+                "last_accept": 466,
+                "$last_seen": "2023-06-14T13:44:22.332Z"
               }
             ],
             "lådspikaregatan": [
@@ -48421,6 +48449,20 @@
                 "$districtName": "möllevången",
                 "last_accept": 106,
                 "$last_seen": "2023-05-08T13:01:40.032Z"
+              },
+              {
+                "id": 84055,
+                "rent": 8659,
+                "area": 86,
+                "street": "upplandsgatan",
+                "street_number": "5 b",
+                "city": "malmö",
+                "zip": "21429",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "möllevången",
+                "last_accept": 539,
+                "$last_seen": "2023-06-14T13:44:22.332Z"
               }
             ],
             "sigtunagatan": [
