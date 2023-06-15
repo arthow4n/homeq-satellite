@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-06-15T13:49:53.986Z",
+  "lastUpdatedAt": "2023-06-15T14:45:14.409Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -33913,6 +33913,20 @@
                 "$districtName": "västra frölunda",
                 "last_accept": 1297,
                 "$last_seen": "2023-06-08T07:43:04.020Z"
+              },
+              {
+                "id": 86532,
+                "rent": 11081,
+                "area": 75,
+                "street": "transistorgatan",
+                "street_number": "47",
+                "city": "göteborg",
+                "zip": "42135",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "västra frölunda",
+                "last_accept": 1300,
+                "$last_seen": "2023-06-15T13:49:53.986Z"
               }
             ],
             "blockflöjtsgatan": [
@@ -48729,6 +48743,22 @@
                 "$districtName": "möllevången",
                 "last_accept": 815,
                 "$last_seen": "2023-05-15T10:45:30.035Z"
+              }
+            ],
+            "södra förstadsgatan": [
+              {
+                "id": 87671,
+                "rent": 4983,
+                "area": 27,
+                "street": "södra förstadsgatan",
+                "street_number": "118",
+                "city": "malmö",
+                "zip": "21428",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "möllevången",
+                "last_accept": 0,
+                "$last_seen": "2023-06-15T13:49:53.986Z"
               }
             ]
           },
