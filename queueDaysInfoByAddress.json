@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-06-15T04:46:30.732Z",
+  "lastUpdatedAt": "2023-06-15T05:44:49.992Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -47995,22 +47995,6 @@
                 "$districtName": "hyllie",
                 "last_accept": 0,
                 "$last_seen": "2023-05-26T09:41:32.960Z"
-              }
-            ],
-            "bures gata": [
-              {
-                "id": 85253,
-                "rent": 12368,
-                "area": 73.9,
-                "street": "bures gata",
-                "street_number": "3 b",
-                "city": "malmö",
-                "zip": "21533",
-                "municipality": "malmö",
-                "county": "skåne län",
-                "$districtName": "hyllie",
-                "last_accept": 0,
-                "$last_seen": "2023-06-07T07:42:55.680Z"
               }
             ],
             "sagas gränd": [
