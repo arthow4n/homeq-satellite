@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-06-15T06:47:48.198Z",
+  "lastUpdatedAt": "2023-06-15T07:44:01.865Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -8693,6 +8693,20 @@
                 "$last_seen": "2023-05-30T11:40:09.119Z"
               },
               {
+                "id": 86530,
+                "rent": 10690,
+                "area": 83,
+                "street": "pennygången",
+                "street_number": "18",
+                "city": "göteborg",
+                "zip": "41482",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 857,
+                "$last_seen": "2023-06-15T06:47:48.198Z"
+              },
+              {
                 "id": 86534,
                 "rent": 8418,
                 "area": 62,
@@ -15185,20 +15199,6 @@
                 "$districtName": "lundby",
                 "last_accept": 1213,
                 "$last_seen": "2023-05-05T09:40:59.888Z"
-              },
-              {
-                "id": 85981,
-                "rent": 5853,
-                "area": 26,
-                "street": "pilegårdsgatan",
-                "street_number": "2",
-                "city": "göteborg",
-                "zip": "41877",
-                "municipality": "göteborg",
-                "county": "västra götalands län",
-                "$districtName": "lundby",
-                "last_accept": 0,
-                "$last_seen": "2023-06-12T06:47:56.862Z"
               }
             ],
             "korstörnegatan": [
@@ -46689,6 +46689,20 @@
                 "$districtName": "sofielund",
                 "last_accept": 351,
                 "$last_seen": "2023-06-02T10:45:20.106Z"
+              },
+              {
+                "id": 86591,
+                "rent": 8326,
+                "area": 61,
+                "street": "spånehusvägen",
+                "street_number": "93 b",
+                "city": "malmö",
+                "zip": "21439",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "sofielund",
+                "last_accept": 132,
+                "$last_seen": "2023-06-15T06:47:48.198Z"
               }
             ]
           },
