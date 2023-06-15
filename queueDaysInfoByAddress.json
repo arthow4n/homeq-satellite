@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-06-15T11:44:18.275Z",
+  "lastUpdatedAt": "2023-06-15T13:05:20.841Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -8789,6 +8789,20 @@
                 "$districtName": "högsbo",
                 "last_accept": 699,
                 "$last_seen": "2023-06-12T09:42:16.991Z"
+              },
+              {
+                "id": 86538,
+                "rent": 8418,
+                "area": 62,
+                "street": "pennygången",
+                "street_number": "38",
+                "city": "göteborg",
+                "zip": "41482",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 564,
+                "$last_seen": "2023-06-15T11:44:18.275Z"
               }
             ],
             "skäpplandsgatan": [
@@ -9071,6 +9085,34 @@
                 "$districtName": "högsbo",
                 "last_accept": 1222,
                 "$last_seen": "2023-06-07T14:44:35.139Z"
+              },
+              {
+                "id": 85740,
+                "rent": 8803,
+                "area": 70,
+                "street": "skäpplandsgatan",
+                "street_number": "4",
+                "city": "göteborg",
+                "zip": "41478",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 1619,
+                "$last_seen": "2023-06-15T11:44:18.275Z"
+              },
+              {
+                "id": 85752,
+                "rent": 8936,
+                "area": 70,
+                "street": "skäpplandsgatan",
+                "street_number": "4",
+                "city": "göteborg",
+                "zip": "41478",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 1618,
+                "$last_seen": "2023-06-15T11:44:18.275Z"
               }
             ],
             "marklandsgatan": [
@@ -11231,6 +11273,20 @@
                 "$districtName": "brämaregården",
                 "last_accept": 913,
                 "$last_seen": "2023-06-01T06:46:16.774Z"
+              },
+              {
+                "id": 84154,
+                "rent": 10158,
+                "area": 54,
+                "street": "fjärdingsgatan",
+                "street_number": "27",
+                "city": "göteborg",
+                "zip": "41724",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brämaregården",
+                "last_accept": 737,
+                "$last_seen": "2023-06-15T11:44:18.275Z"
               }
             ],
             "madängsgatan": [
@@ -49837,6 +49893,34 @@
                 "$districtName": "vantör",
                 "last_accept": 1176,
                 "$last_seen": "2023-05-24T11:41:38.006Z"
+              },
+              {
+                "id": 85934,
+                "rent": 8538,
+                "area": 62,
+                "street": "bäverdammsgränd",
+                "street_number": "72",
+                "city": "bandhagen",
+                "zip": "12463",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 1148,
+                "$last_seen": "2023-06-15T11:44:18.275Z"
+              },
+              {
+                "id": 87166,
+                "rent": 11053,
+                "area": 93,
+                "street": "bäverdammsgränd",
+                "street_number": "105",
+                "city": "bandhagen",
+                "zip": "12463",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 818,
+                "$last_seen": "2023-06-15T11:44:18.275Z"
               }
             ],
             "skebokvarnsvägen": [
