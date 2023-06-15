@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-06-15T13:05:20.841Z",
+  "lastUpdatedAt": "2023-06-15T13:49:53.986Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -4335,6 +4335,20 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1129,
                 "$last_seen": "2023-06-15T08:46:44.590Z"
+              },
+              {
+                "id": 85162,
+                "rent": 10146,
+                "area": 58,
+                "street": "ebbe lieberathsgatan",
+                "street_number": "20 c",
+                "city": "göteborg",
+                "zip": "41265",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1035,
+                "$last_seen": "2023-06-15T13:05:20.841Z"
               }
             ],
             "nordgårdsgatan": [
@@ -19621,6 +19635,20 @@
                 "$districtName": "björkekärr",
                 "last_accept": 487,
                 "$last_seen": "2023-06-01T11:41:57.706Z"
+              },
+              {
+                "id": 83690,
+                "rent": 5150,
+                "area": 22,
+                "street": "smörslätten",
+                "street_number": "6",
+                "city": "göteborg",
+                "zip": "41677",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "björkekärr",
+                "last_accept": 618,
+                "$last_seen": "2023-06-15T13:05:20.841Z"
               },
               {
                 "id": 86584,
@@ -43987,6 +44015,20 @@
                 "$districtName": "göteborgs karl johan",
                 "last_accept": 0,
                 "$last_seen": "2023-06-13T13:02:32.095Z"
+              },
+              {
+                "id": 86858,
+                "rent": 13893,
+                "area": 81,
+                "street": "stortoppsgatan",
+                "street_number": "10",
+                "city": "göteborg",
+                "zip": "41457",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs karl johan",
+                "last_accept": 1194,
+                "$last_seen": "2023-06-15T13:05:20.841Z"
               }
             ],
             "asperögatan": [
