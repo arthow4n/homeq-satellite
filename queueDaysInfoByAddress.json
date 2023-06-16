@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-06-16T08:46:42.603Z",
+  "lastUpdatedAt": "2023-06-16T09:44:07.870Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -50081,6 +50081,20 @@
                 "$districtName": "vantör",
                 "last_accept": 1242,
                 "$last_seen": "2023-05-26T07:42:05.999Z"
+              },
+              {
+                "id": 86410,
+                "rent": 8279,
+                "area": 72,
+                "street": "bjursätragatan",
+                "street_number": "23a",
+                "city": "bandhagen",
+                "zip": "12462",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 1582,
+                "$last_seen": "2023-06-16T08:46:42.603Z"
               }
             ]
           }
