@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-06-16T06:48:10.356Z",
+  "lastUpdatedAt": "2023-06-16T07:44:12.704Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -50175,6 +50175,24 @@
                 "$districtName": "hägersten",
                 "last_accept": 30,
                 "$last_seen": "2023-05-17T07:40:29.799Z"
+              }
+            ]
+          },
+          "vällingby": {
+            "ångermannagatan": [
+              {
+                "id": 85767,
+                "rent": 7745,
+                "area": 58,
+                "street": "ångermannagatan",
+                "street_number": "189",
+                "city": "stockholm",
+                "zip": "16265",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vällingby",
+                "last_accept": 1484,
+                "$last_seen": "2023-06-16T06:48:10.356Z"
               }
             ]
           }
