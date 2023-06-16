@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-06-16T07:44:12.704Z",
+  "lastUpdatedAt": "2023-06-16T08:46:42.603Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -4785,6 +4785,20 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1240,
                 "$last_seen": "2023-06-15T08:46:44.590Z"
+              },
+              {
+                "id": 85343,
+                "rent": 9995,
+                "area": 55,
+                "street": "nordgårdsgatan",
+                "street_number": "6",
+                "city": "göteborg",
+                "zip": "41285",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1273,
+                "$last_seen": "2023-06-16T07:44:12.704Z"
               }
             ],
             "norra krokslättsgatan": [
@@ -49917,6 +49931,20 @@
                 "$districtName": "vantör",
                 "last_accept": 1471,
                 "$last_seen": "2023-06-05T11:42:35.602Z"
+              },
+              {
+                "id": 84541,
+                "rent": 8137,
+                "area": 58,
+                "street": "askersundsgatan",
+                "street_number": "14",
+                "city": "bandhagen",
+                "zip": "12467",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 1577,
+                "$last_seen": "2023-06-16T07:44:12.704Z"
               }
             ],
             "hagsätra torg": [
