@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-06-16T11:43:54.900Z",
+  "lastUpdatedAt": "2023-06-16T13:04:03.318Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -10899,6 +10899,20 @@
                 "$districtName": "brämaregården",
                 "last_accept": 1144,
                 "$last_seen": "2023-05-03T11:39:57.659Z"
+              },
+              {
+                "id": 85709,
+                "rent": 12806,
+                "area": 75,
+                "street": "långängen",
+                "street_number": "16",
+                "city": "göteborg",
+                "zip": "41722",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brämaregården",
+                "last_accept": 941,
+                "$last_seen": "2023-06-16T11:43:54.900Z"
               }
             ],
             "wieselgrensplatsen": [
@@ -12393,6 +12407,20 @@
                 "$districtName": "lundby",
                 "last_accept": 793,
                 "$last_seen": "2023-05-08T10:45:28.348Z"
+              },
+              {
+                "id": 85990,
+                "rent": 12733,
+                "area": 77.5,
+                "street": "trollhasselgatan",
+                "street_number": "28",
+                "city": "göteborg",
+                "zip": "41711",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 724,
+                "$last_seen": "2023-06-16T11:43:54.900Z"
               }
             ],
             "karl staaffsgatan": [
@@ -30021,6 +30049,20 @@
                 "$districtName": "göteborgs domkyrkodistrikt",
                 "last_accept": 895,
                 "$last_seen": "2023-06-02T09:42:23.034Z"
+              },
+              {
+                "id": 84527,
+                "rent": 7431,
+                "area": 42,
+                "street": "friggagatan",
+                "street_number": "25 a",
+                "city": "göteborg",
+                "zip": "41664",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs domkyrkodistrikt",
+                "last_accept": 1617,
+                "$last_seen": "2023-06-16T11:43:54.900Z"
               }
             ],
             "sten sturegatan": [
