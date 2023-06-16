@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-06-16T09:44:07.870Z",
+  "lastUpdatedAt": "2023-06-16T10:47:46.069Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -2971,6 +2971,20 @@
                 "$districtName": "örgryte",
                 "last_accept": 1187,
                 "$last_seen": "2023-06-08T08:45:54.875Z"
+              },
+              {
+                "id": 86734,
+                "rent": 7843,
+                "area": 35,
+                "street": "smörkärnegatan",
+                "street_number": "29",
+                "city": "göteborg",
+                "zip": "41278",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1049,
+                "$last_seen": "2023-06-16T09:44:07.870Z"
               }
             ]
           }
@@ -11315,6 +11329,20 @@
                 "$districtName": "brämaregården",
                 "last_accept": 737,
                 "$last_seen": "2023-06-15T11:44:18.275Z"
+              },
+              {
+                "id": 85432,
+                "rent": 10158,
+                "area": 54,
+                "street": "fjärdingsgatan",
+                "street_number": "27",
+                "city": "göteborg",
+                "zip": "41724",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brämaregården",
+                "last_accept": 588,
+                "$last_seen": "2023-06-16T09:44:07.870Z"
               }
             ],
             "madängsgatan": [
@@ -36159,6 +36187,20 @@
                 "$districtName": "göteborgs vasa",
                 "last_accept": 1595,
                 "$last_seen": "2023-06-12T11:41:56.778Z"
+              },
+              {
+                "id": 86650,
+                "rent": 6943,
+                "area": 38,
+                "street": "karl gustavsgatan",
+                "street_number": "57",
+                "city": "göteborg",
+                "zip": "41131",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs vasa",
+                "last_accept": 1515,
+                "$last_seen": "2023-06-16T09:44:07.870Z"
               }
             ],
             "mölndalsvägen": [
@@ -50353,6 +50395,20 @@
                 "$districtName": "skärholmen",
                 "last_accept": 1580,
                 "$last_seen": "2023-06-15T05:44:49.992Z"
+              },
+              {
+                "id": 87461,
+                "rent": 6090,
+                "area": 37,
+                "street": "ålgrytevägen",
+                "street_number": "119",
+                "city": "stockholm ",
+                "zip": "12731",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "skärholmen",
+                "last_accept": 402,
+                "$last_seen": "2023-06-16T09:44:07.870Z"
               }
             ],
             "bredängsvägen": [
