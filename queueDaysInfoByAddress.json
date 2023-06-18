@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-06-18T16:50:20.820Z",
+  "lastUpdatedAt": "2023-06-18T17:44:35.017Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -47329,6 +47329,22 @@
                 "$districtName": "malmö sankt petri",
                 "last_accept": 531,
                 "$last_seen": "2023-06-13T13:02:32.095Z"
+              }
+            ],
+            "maribogatan": [
+              {
+                "id": 86515,
+                "rent": 12616,
+                "area": 78.5,
+                "street": "maribogatan",
+                "street_number": "3",
+                "city": "malmö",
+                "zip": "21741",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "malmö sankt petri",
+                "last_accept": 555,
+                "$last_seen": "2023-06-18T16:50:20.820Z"
               }
             ]
           },
