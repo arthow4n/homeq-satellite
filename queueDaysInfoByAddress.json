@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-06-19T13:46:21.279Z",
+  "lastUpdatedAt": "2023-06-19T14:46:24.448Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -187,6 +187,20 @@
                 "$districtName": "fässberg",
                 "last_accept": 1121,
                 "$last_seen": "2023-05-12T16:48:48.614Z"
+              },
+              {
+                "id": 85153,
+                "rent": 6253,
+                "area": 33.2,
+                "street": "toltorpsgatan",
+                "street_number": "131",
+                "city": "mölndal",
+                "zip": "43141",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 1234,
+                "$last_seen": "2023-06-19T13:46:21.279Z"
               }
             ],
             "bergmansgatan": [
@@ -8915,6 +8929,20 @@
                 "$districtName": "högsbo",
                 "last_accept": 564,
                 "$last_seen": "2023-06-15T11:44:18.275Z"
+              },
+              {
+                "id": 87359,
+                "rent": 10683,
+                "area": 83,
+                "street": "pennygången",
+                "street_number": "61",
+                "city": "göteborg",
+                "zip": "41482",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 1021,
+                "$last_seen": "2023-06-19T13:46:21.279Z"
               }
             ],
             "skäpplandsgatan": [
@@ -32681,6 +32709,20 @@
                 "$districtName": "örgryte",
                 "last_accept": 879,
                 "$last_seen": "2023-06-19T08:48:36.933Z"
+              },
+              {
+                "id": 87389,
+                "rent": 10833,
+                "area": 51,
+                "street": "gräddgatan",
+                "street_number": "5",
+                "city": "göteborg",
+                "zip": "41276",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 0,
+                "$last_seen": "2023-06-19T13:46:21.279Z"
               }
             ],
             "anders zornsgatan": [
@@ -45931,6 +45973,20 @@
                 "$districtName": "tynnered",
                 "last_accept": 368,
                 "$last_seen": "2023-05-09T11:41:20.449Z"
+              },
+              {
+                "id": 84355,
+                "rent": 9558,
+                "area": 55,
+                "street": "smaragdgatan",
+                "street_number": "10 b",
+                "city": "västra frölunda",
+                "zip": "42149",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tynnered",
+                "last_accept": 0,
+                "$last_seen": "2023-06-19T13:05:48.828Z"
               },
               {
                 "id": 86576,
