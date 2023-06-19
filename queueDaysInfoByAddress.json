@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-06-19T14:46:24.448Z",
+  "lastUpdatedAt": "2023-06-19T15:44:53.339Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -21897,6 +21897,20 @@
                 "$districtName": "kortedala",
                 "last_accept": 1396,
                 "$last_seen": "2023-06-08T08:45:54.875Z"
+              },
+              {
+                "id": 87361,
+                "rent": 5194,
+                "area": 51.5,
+                "street": "februarigatan",
+                "street_number": "12",
+                "city": "göteborg",
+                "zip": "41543",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "kortedala",
+                "last_accept": 1106,
+                "$last_seen": "2023-06-19T14:46:24.448Z"
               }
             ],
             "kalendervägen": [
@@ -45453,6 +45467,24 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1519,
                 "$last_seen": "2023-06-05T14:44:50.635Z"
+              }
+            ]
+          },
+          "bergum": {
+            "östra björredsvägen": [
+              {
+                "id": 86384,
+                "rent": 16900,
+                "area": 118,
+                "street": "östra björredsvägen",
+                "street_number": "22b",
+                "city": "göteborg ",
+                "zip": "42471",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bergum",
+                "last_accept": 0,
+                "$last_seen": "2023-06-19T14:46:24.448Z"
               }
             ]
           }
