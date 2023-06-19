@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-06-19T07:44:25.372Z",
+  "lastUpdatedAt": "2023-06-19T08:48:36.933Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -11781,6 +11781,20 @@
                 "$districtName": "brämaregården",
                 "last_accept": 1362,
                 "$last_seen": "2023-05-26T08:44:53.687Z"
+              },
+              {
+                "id": 87448,
+                "rent": 6878,
+                "area": 45,
+                "street": "ekebergsgatan",
+                "street_number": "1",
+                "city": "göteborg",
+                "zip": "41702",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brämaregården",
+                "last_accept": 1305,
+                "$last_seen": "2023-06-19T07:44:25.372Z"
               }
             ],
             "rudenschöldsgatan": [
@@ -47471,6 +47485,20 @@
                 "$last_seen": "2023-06-07T07:42:55.680Z"
               },
               {
+                "id": 85244,
+                "rent": 13309,
+                "area": 83,
+                "street": "nätsnäcksgränd",
+                "street_number": "9",
+                "city": "malmö",
+                "zip": "21631",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "limhamn",
+                "last_accept": 145,
+                "$last_seen": "2023-06-19T07:44:25.372Z"
+              },
+              {
                 "id": 85256,
                 "rent": 11683,
                 "area": 69.9,
@@ -50447,6 +50475,20 @@
                 "$districtName": "hässelby",
                 "last_accept": 1064,
                 "$last_seen": "2023-04-17T05:44:07.070Z"
+              },
+              {
+                "id": 87129,
+                "rent": 7695,
+                "area": 57.9,
+                "street": "persikogatan",
+                "street_number": "2",
+                "city": "stockholm",
+                "zip": "16563",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "hässelby",
+                "last_accept": 1534,
+                "$last_seen": "2023-06-19T07:44:25.372Z"
               }
             ]
           },
