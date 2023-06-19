@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-06-19T10:49:27.706Z",
+  "lastUpdatedAt": "2023-06-19T11:44:24.858Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -3187,6 +3187,20 @@
                 "$districtName": "kållered",
                 "last_accept": 1267,
                 "$last_seen": "2023-06-14T09:42:53.732Z"
+              },
+              {
+                "id": 86101,
+                "rent": 9049,
+                "area": 76,
+                "street": "våmmedalsvägen",
+                "street_number": "118",
+                "city": "kållered",
+                "zip": "42831",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "kållered",
+                "last_accept": 1159,
+                "$last_seen": "2023-06-19T10:49:27.706Z"
               }
             ]
           }
@@ -15479,6 +15493,20 @@
                 "$districtName": "lundby",
                 "last_accept": 1213,
                 "$last_seen": "2023-05-05T09:40:59.888Z"
+              },
+              {
+                "id": 85981,
+                "rent": 5853,
+                "area": 26,
+                "street": "pilegårdsgatan",
+                "street_number": "2",
+                "city": "göteborg",
+                "zip": "41877",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 0,
+                "$last_seen": "2023-06-12T06:47:56.862Z"
               }
             ],
             "korstörnegatan": [
@@ -21503,6 +21531,20 @@
                 "$districtName": "kortedala",
                 "last_accept": 1457,
                 "$last_seen": "2023-06-05T10:46:45.462Z"
+              },
+              {
+                "id": 86806,
+                "rent": 6058,
+                "area": 62.5,
+                "street": "aprilgatan",
+                "street_number": "56",
+                "city": "göteborg",
+                "zip": "41546",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "kortedala",
+                "last_accept": 1249,
+                "$last_seen": "2023-06-19T10:49:27.706Z"
               }
             ],
             "februarigatan": [
