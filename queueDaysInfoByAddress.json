@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-06-20T11:44:00.503Z",
+  "lastUpdatedAt": "2023-06-20T13:05:47.256Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -2559,20 +2559,6 @@
                 "$districtName": "fässberg",
                 "last_accept": 1099,
                 "$last_seen": "2023-06-14T05:44:24.196Z"
-              },
-              {
-                "id": 85520,
-                "rent": 9515,
-                "area": 54,
-                "street": "åbyvägen",
-                "street_number": "4 a",
-                "city": "göteborg",
-                "zip": "43162",
-                "municipality": "mölndal",
-                "county": "västra götalands län",
-                "$districtName": "fässberg",
-                "last_accept": 1023,
-                "$last_seen": "2023-06-19T08:48:36.933Z"
               }
             ],
             "krokslätts parkgata": [
@@ -20641,6 +20627,20 @@
                 "$districtName": "kortedala",
                 "last_accept": 771,
                 "$last_seen": "2023-06-19T09:44:38.317Z"
+              },
+              {
+                "id": 87545,
+                "rent": 9200,
+                "area": 70,
+                "street": "allhelgonagatan",
+                "street_number": "6",
+                "city": "göteborg",
+                "zip": "41545",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "kortedala",
+                "last_accept": 375,
+                "$last_seen": "2023-06-20T11:44:00.503Z"
               }
             ],
             "julaftonsgatan": [
@@ -21997,6 +21997,20 @@
                 "$districtName": "kortedala",
                 "last_accept": 1106,
                 "$last_seen": "2023-06-19T14:46:24.448Z"
+              },
+              {
+                "id": 87362,
+                "rent": 5265,
+                "area": 55,
+                "street": "februarigatan",
+                "street_number": "17",
+                "city": "göteborg",
+                "zip": "41543",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "kortedala",
+                "last_accept": 1061,
+                "$last_seen": "2023-06-20T11:44:00.503Z"
               }
             ],
             "kalendervägen": [
@@ -39769,6 +39783,20 @@
                 "$districtName": "masthugget",
                 "last_accept": 1198,
                 "$last_seen": "2023-06-19T13:05:48.828Z"
+              },
+              {
+                "id": 87721,
+                "rent": 12835,
+                "area": 96,
+                "street": "bangatan",
+                "street_number": "27",
+                "city": "göteborg",
+                "zip": "41463",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "masthugget",
+                "last_accept": 1496,
+                "$last_seen": "2023-06-20T11:44:00.503Z"
               }
             ],
             "amiralitetsgatan": [
