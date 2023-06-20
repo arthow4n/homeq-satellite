@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-06-20T08:47:22.970Z",
+  "lastUpdatedAt": "2023-06-20T09:44:19.652Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -45469,6 +45469,20 @@
                 "$districtName": "annedal",
                 "last_accept": 1651,
                 "$last_seen": "2023-06-01T11:41:57.706Z"
+              },
+              {
+                "id": 87604,
+                "rent": 5140,
+                "area": 28,
+                "street": "lilla risåsgatan",
+                "street_number": "22",
+                "city": "göteborg ",
+                "zip": "41103",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "annedal",
+                "last_accept": 1539,
+                "$last_seen": "2023-06-20T08:47:22.970Z"
               }
             ],
             "linnégatan": [
