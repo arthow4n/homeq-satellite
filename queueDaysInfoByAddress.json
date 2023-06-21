@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-06-21T07:45:21.617Z",
+  "lastUpdatedAt": "2023-06-21T08:49:35.850Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -35625,6 +35625,20 @@
                 "$districtName": "annedal",
                 "last_accept": 1405,
                 "$last_seen": "2023-03-20T13:44:16.825Z"
+              },
+              {
+                "id": 87601,
+                "rent": 7997,
+                "area": 49,
+                "street": "carl grimbergsgatan",
+                "street_number": "13",
+                "city": "göteborg",
+                "zip": "41313",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "annedal",
+                "last_accept": 1625,
+                "$last_seen": "2023-06-21T07:45:21.617Z"
               }
             ],
             "västergatan": [
@@ -49887,6 +49901,22 @@
             ]
           },
           "slottsstaden": {
+            "sergels väg": [
+              {
+                "id": 81475,
+                "rent": 12418,
+                "area": 91.7,
+                "street": "sergels väg",
+                "street_number": "13 a",
+                "city": "malmö",
+                "zip": "21757",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "slottsstaden",
+                "last_accept": 872,
+                "$last_seen": "2023-06-21T07:45:21.617Z"
+              }
+            ],
             "marietorps alle": [
               {
                 "id": 84358,
