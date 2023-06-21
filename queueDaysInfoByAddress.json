@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-06-21T10:49:22.530Z",
+  "lastUpdatedAt": "2023-06-21T11:45:54.903Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -4391,6 +4391,20 @@
                 "$districtName": "johanneberg",
                 "last_accept": 873,
                 "$last_seen": "2023-06-15T08:46:44.590Z"
+              },
+              {
+                "id": 85160,
+                "rent": 12028,
+                "area": 73,
+                "street": "ebbe lieberathsgatan",
+                "street_number": "20 c",
+                "city": "göteborg",
+                "zip": "41265",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1051,
+                "$last_seen": "2023-06-21T10:49:22.530Z"
               },
               {
                 "id": 85162,
@@ -11413,6 +11427,20 @@
                 "$districtName": "brämaregården",
                 "last_accept": 1565,
                 "$last_seen": "2023-06-05T07:42:18.767Z"
+              },
+              {
+                "id": 87593,
+                "rent": 7650,
+                "area": 65,
+                "street": "hisingsgatan",
+                "street_number": "22",
+                "city": "göteborg",
+                "zip": "41703",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brämaregården",
+                "last_accept": 1614,
+                "$last_seen": "2023-06-21T10:49:22.530Z"
               }
             ],
             "fjärdingsgatan": [
@@ -43647,6 +43675,20 @@
                 "$districtName": "biskopsgården",
                 "last_accept": 461,
                 "$last_seen": "2023-06-07T11:43:35.911Z"
+              },
+              {
+                "id": 83472,
+                "rent": 5732,
+                "area": 65,
+                "street": "lufttrycksgatan",
+                "street_number": "1",
+                "city": "göteborg",
+                "zip": "41840",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "biskopsgården",
+                "last_accept": 1316,
+                "$last_seen": "2023-06-21T10:49:22.530Z"
               }
             ],
             "lågtrycksgatan": [
@@ -51401,6 +51443,38 @@
                 "$districtName": "vantör",
                 "last_accept": 1582,
                 "$last_seen": "2023-06-16T08:46:42.603Z"
+              }
+            ],
+            "vintrosagatan": [
+              {
+                "id": 84262,
+                "rent": 8717,
+                "area": 64,
+                "street": "vintrosagatan",
+                "street_number": "10",
+                "city": "bandhagen",
+                "zip": "12473",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 1623,
+                "$last_seen": "2023-06-21T10:49:22.530Z"
+              }
+            ],
+            "porlabacken": [
+              {
+                "id": 84381,
+                "rent": 8731,
+                "area": 59,
+                "street": "porlabacken",
+                "street_number": "24",
+                "city": "bandhagen",
+                "zip": "12477",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 1624,
+                "$last_seen": "2023-06-21T10:49:22.530Z"
               }
             ]
           }
