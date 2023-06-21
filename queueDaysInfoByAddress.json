@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-06-21T09:44:52.056Z",
+  "lastUpdatedAt": "2023-06-21T10:49:22.530Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -42103,6 +42103,20 @@
                 "$districtName": "biskopsgården",
                 "last_accept": 1123,
                 "$last_seen": "2023-06-08T09:42:38.379Z"
+              },
+              {
+                "id": 83469,
+                "rent": 5019,
+                "area": 46,
+                "street": "solstrålegatan",
+                "street_number": "44",
+                "city": "göteborg",
+                "zip": "41843",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "biskopsgården",
+                "last_accept": 817,
+                "$last_seen": "2023-06-21T09:44:52.056Z"
               }
             ],
             "långströmsgatan": [
@@ -51523,6 +51537,24 @@
                 "$districtName": "hägersten",
                 "last_accept": 30,
                 "$last_seen": "2023-05-17T07:40:29.799Z"
+              }
+            ]
+          },
+          "vantör": {
+            "olshammarsgatan": [
+              {
+                "id": 83285,
+                "rent": 9798,
+                "area": 70,
+                "street": "olshammarsgatan",
+                "street_number": "9",
+                "city": "stockholm",
+                "zip": "12475",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 1419,
+                "$last_seen": "2023-06-21T09:44:52.056Z"
               }
             ]
           },
