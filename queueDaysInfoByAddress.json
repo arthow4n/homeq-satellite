@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-06-21T05:47:06.532Z",
+  "lastUpdatedAt": "2023-06-21T06:49:31.971Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -2559,6 +2559,20 @@
                 "$districtName": "fässberg",
                 "last_accept": 1099,
                 "$last_seen": "2023-06-14T05:44:24.196Z"
+              },
+              {
+                "id": 85520,
+                "rent": 9515,
+                "area": 54,
+                "street": "åbyvägen",
+                "street_number": "4 a",
+                "city": "göteborg",
+                "zip": "43162",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 930,
+                "$last_seen": "2023-06-21T05:47:06.532Z"
               }
             ],
             "krokslätts parkgata": [
@@ -46823,6 +46837,20 @@
                 "$districtName": "västra frölunda",
                 "last_accept": 378,
                 "$last_seen": "2023-05-25T13:47:43.330Z"
+              },
+              {
+                "id": 87677,
+                "rent": 11482,
+                "area": 80,
+                "street": "munspelsgatan",
+                "street_number": "8",
+                "city": "västra frölunda",
+                "zip": "42151",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "västra frölunda",
+                "last_accept": 397,
+                "$last_seen": "2023-06-21T05:47:06.532Z"
               }
             ],
             "speldosegatan": [
@@ -51461,6 +51489,24 @@
                 "$districtName": "skärholmen",
                 "last_accept": 283,
                 "$last_seen": "2023-06-08T10:46:26.271Z"
+              }
+            ]
+          },
+          "farsta": {
+            "lingvägen": [
+              {
+                "id": 86492,
+                "rent": 12544,
+                "area": 77,
+                "street": "lingvägen",
+                "street_number": "178",
+                "city": "stockholm ",
+                "zip": "12361",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "farsta",
+                "last_accept": 1356,
+                "$last_seen": "2023-06-21T04:48:07.101Z"
               }
             ]
           }
