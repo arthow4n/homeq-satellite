@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-06-21T13:46:06.090Z",
+  "lastUpdatedAt": "2023-06-21T14:46:16.275Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -6951,6 +6951,20 @@
                 "$districtName": "högsbo",
                 "last_accept": 765,
                 "$last_seen": "2023-06-12T15:41:46.484Z"
+              },
+              {
+                "id": 88107,
+                "rent": 12820,
+                "area": 71,
+                "street": "skillingmyntsgatan",
+                "street_number": "2",
+                "city": "göteborg",
+                "zip": "41484",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 0,
+                "$last_seen": "2023-06-21T13:46:06.090Z"
               }
             ],
             "synhållsgatan": [
@@ -20087,6 +20101,20 @@
                 "$last_seen": "2023-06-15T13:05:20.841Z"
               },
               {
+                "id": 83710,
+                "rent": 8548,
+                "area": 61,
+                "street": "smörslätten",
+                "street_number": "4",
+                "city": "göteborg",
+                "zip": "41677",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "björkekärr",
+                "last_accept": 1484,
+                "$last_seen": "2023-06-21T13:46:06.090Z"
+              },
+              {
                 "id": 86584,
                 "rent": 5051,
                 "area": 22,
@@ -29115,6 +29143,22 @@
                 "$districtName": "härlanda",
                 "last_accept": 1606,
                 "$last_seen": "2023-06-07T10:45:59.323Z"
+              }
+            ],
+            "ahrenbergsgatan": [
+              {
+                "id": 87452,
+                "rent": 7800,
+                "area": 58,
+                "street": "ahrenbergsgatan",
+                "street_number": "11 b",
+                "city": "göteborg",
+                "zip": "41673",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "härlanda",
+                "last_accept": 1623,
+                "$last_seen": "2023-06-21T13:46:06.090Z"
               }
             ]
           },
