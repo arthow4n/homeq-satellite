@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-06-26T07:44:19.715Z",
+  "lastUpdatedAt": "2023-06-26T08:55:58.557Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -38968,6 +38968,22 @@
                 "last_accept": 1541,
                 "$last_seen": "2023-05-11T11:41:57.176Z"
               }
+            ],
+            "tegnérsgatan": [
+              {
+                "id": 88270,
+                "rent": 9650,
+                "area": 79,
+                "street": "tegnérsgatan",
+                "street_number": "17",
+                "city": "göteborg",
+                "zip": "41252",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs vasa",
+                "last_accept": 1701,
+                "$last_seen": "2023-06-26T07:44:19.715Z"
+              }
             ]
           },
           "göteborgs oscar fredrik": {
@@ -39797,6 +39813,22 @@
                 "$districtName": "göteborgs oscar fredrik",
                 "last_accept": 1554,
                 "$last_seen": "2023-02-28T07:37:03.136Z"
+              }
+            ],
+            "nordhemsgatan": [
+              {
+                "id": 86748,
+                "rent": 9300,
+                "area": 63,
+                "street": "nordhemsgatan",
+                "street_number": "39",
+                "city": "göteborg",
+                "zip": "41306",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs oscar fredrik",
+                "last_accept": 1631,
+                "$last_seen": "2023-06-26T07:44:19.715Z"
               }
             ]
           },
@@ -44603,6 +44635,20 @@
                 "$districtName": "tuve",
                 "last_accept": 384,
                 "$last_seen": "2023-05-29T08:44:11.275Z"
+              },
+              {
+                "id": 86820,
+                "rent": 10224,
+                "area": 63,
+                "street": "gunnestorpsvägen",
+                "street_number": "133",
+                "city": "göteborg",
+                "zip": "41747",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tuve",
+                "last_accept": 5,
+                "$last_seen": "2023-06-26T07:44:19.715Z"
               }
             ],
             "gubbe lars väg": [
@@ -46605,6 +46651,20 @@
                 "$districtName": "brunnsbo",
                 "last_accept": 768,
                 "$last_seen": "2023-05-17T11:40:34.791Z"
+              },
+              {
+                "id": 87587,
+                "rent": 9657,
+                "area": 73,
+                "street": "klassikergatan",
+                "street_number": "15",
+                "city": "hisings backa",
+                "zip": "42241",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brunnsbo",
+                "last_accept": 937,
+                "$last_seen": "2023-06-26T07:44:19.715Z"
               }
             ],
             "prologgatan": [
@@ -52121,6 +52181,22 @@
                 "$districtName": "vantör",
                 "last_accept": 1623,
                 "$last_seen": "2023-06-21T10:49:22.530Z"
+              }
+            ],
+            "skyllbergsgatan": [
+              {
+                "id": 84298,
+                "rent": 9287,
+                "area": 68,
+                "street": "skyllbergsgatan",
+                "street_number": "18",
+                "city": "bandhagen",
+                "zip": "12471",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 1514,
+                "$last_seen": "2023-06-26T07:44:19.715Z"
               }
             ],
             "porlabacken": [
