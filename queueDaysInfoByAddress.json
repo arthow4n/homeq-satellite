@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-06-26T06:55:02.367Z",
+  "lastUpdatedAt": "2023-06-26T07:44:19.715Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -2615,6 +2615,20 @@
                 "$districtName": "fässberg",
                 "last_accept": 930,
                 "$last_seen": "2023-06-21T05:47:06.532Z"
+              },
+              {
+                "id": 85745,
+                "rent": 12350,
+                "area": 71,
+                "street": "åbyvägen",
+                "street_number": "4 d",
+                "city": "göteborg",
+                "zip": "43162",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 1180,
+                "$last_seen": "2023-06-26T06:55:02.367Z"
               }
             ],
             "krokslätts parkgata": [
@@ -17795,6 +17809,20 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1302,
                 "$last_seen": "2023-04-18T07:41:15.642Z"
+              },
+              {
+                "id": 87960,
+                "rent": 12875,
+                "area": 87,
+                "street": "st pauligatan",
+                "street_number": "16",
+                "city": "göteborg",
+                "zip": "41660",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1629,
+                "$last_seen": "2023-06-26T06:55:02.367Z"
               }
             ],
             "platågatan": [
@@ -36049,6 +36077,20 @@
                 "$districtName": "annedal",
                 "last_accept": 1625,
                 "$last_seen": "2023-06-21T07:45:21.617Z"
+              },
+              {
+                "id": 88263,
+                "rent": 8960,
+                "area": 62,
+                "street": "carl grimbergsgatan",
+                "street_number": "27",
+                "city": "göteborg",
+                "zip": "41313",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "annedal",
+                "last_accept": 1630,
+                "$last_seen": "2023-06-26T06:55:02.367Z"
               }
             ],
             "västergatan": [
@@ -40375,6 +40417,20 @@
                 "$districtName": "masthugget",
                 "last_accept": 1055,
                 "$last_seen": "2023-06-22T10:47:46.715Z"
+              },
+              {
+                "id": 87730,
+                "rent": 6474,
+                "area": 38,
+                "street": "bangatan",
+                "street_number": "29",
+                "city": "göteborg",
+                "zip": "41464",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "masthugget",
+                "last_accept": 1124,
+                "$last_seen": "2023-06-26T06:55:02.367Z"
               },
               {
                 "id": 87733,
