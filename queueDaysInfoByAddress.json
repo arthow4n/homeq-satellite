@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-06-26T09:46:05.499Z",
+  "lastUpdatedAt": "2023-06-26T10:51:56.925Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -9993,6 +9993,20 @@
                 "$last_seen": "2023-06-07T13:47:38.588Z"
               },
               {
+                "id": 84171,
+                "rent": 9107,
+                "area": 60,
+                "street": "högsbogatan",
+                "street_number": "25",
+                "city": "göteborg",
+                "zip": "41475",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 1363,
+                "$last_seen": "2023-06-26T09:46:05.499Z"
+              },
+              {
                 "id": 85276,
                 "rent": 13121,
                 "area": 95,
@@ -14833,6 +14847,20 @@
                 "$districtName": "lundby",
                 "last_accept": 1582,
                 "$last_seen": "2023-06-08T07:43:04.020Z"
+              },
+              {
+                "id": 86580,
+                "rent": 6746,
+                "area": 40,
+                "street": "arvid lindmansgatan",
+                "street_number": "3 a",
+                "city": "göteborg",
+                "zip": "41726",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1196,
+                "$last_seen": "2023-06-26T09:46:05.499Z"
               }
             ],
             "estlandsgatan": [
@@ -23493,6 +23521,20 @@
                 "$districtName": "askim",
                 "last_accept": 1037,
                 "$last_seen": "2023-06-13T13:44:00.080Z"
+              },
+              {
+                "id": 86395,
+                "rent": 7280,
+                "area": 41,
+                "street": "pilegården",
+                "street_number": "6c",
+                "city": "göteborg",
+                "zip": "43635",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 810,
+                "$last_seen": "2023-06-26T09:46:05.499Z"
               },
               {
                 "id": 87814,
@@ -47505,6 +47547,20 @@
                 "$last_seen": "2023-06-19T09:44:38.317Z"
               },
               {
+                "id": 87749,
+                "rent": 5353,
+                "area": 41,
+                "street": "smyckegatan",
+                "street_number": "24",
+                "city": "västra frölunda",
+                "zip": "42650",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tynnered",
+                "last_accept": 1193,
+                "$last_seen": "2023-06-26T09:46:05.499Z"
+              },
+              {
                 "id": 88027,
                 "rent": 8098,
                 "area": 76,
@@ -47857,6 +47913,20 @@
                 "$last_seen": "2023-06-22T06:49:12.918Z"
               },
               {
+                "id": 87636,
+                "rent": 11482,
+                "area": 80,
+                "street": "munspelsgatan",
+                "street_number": "16",
+                "city": "västra frölunda",
+                "zip": "42151",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "västra frölunda",
+                "last_accept": 399,
+                "$last_seen": "2023-06-26T09:46:05.499Z"
+              },
+              {
                 "id": 87677,
                 "rent": 11482,
                 "area": 80,
@@ -47971,6 +48041,20 @@
                 "$districtName": "västra frölunda",
                 "last_accept": 224,
                 "$last_seen": "2023-05-22T07:40:29.914Z"
+              },
+              {
+                "id": 88079,
+                "rent": 11482,
+                "area": 80,
+                "street": "tamburingatan",
+                "street_number": "5",
+                "city": "västra frölunda",
+                "zip": "42151",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "västra frölunda",
+                "last_accept": 517,
+                "$last_seen": "2023-06-26T09:46:05.499Z"
               }
             ],
             "marconigatan": [
