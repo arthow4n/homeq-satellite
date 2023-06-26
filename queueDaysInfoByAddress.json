@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-06-26T10:51:56.925Z",
+  "lastUpdatedAt": "2023-06-26T11:42:42.242Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -17981,6 +17981,20 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1630,
                 "$last_seen": "2023-06-26T08:55:58.557Z"
+              },
+              {
+                "id": 88063,
+                "rent": 9233,
+                "area": 49,
+                "street": "platågatan",
+                "street_number": "3a",
+                "city": "göteborg",
+                "zip": "41659",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1281,
+                "$last_seen": "2023-06-26T10:51:56.925Z"
               }
             ],
             "mäster johansgatan": [
@@ -23535,6 +23549,20 @@
                 "$districtName": "askim",
                 "last_accept": 810,
                 "$last_seen": "2023-06-26T09:46:05.499Z"
+              },
+              {
+                "id": 86577,
+                "rent": 9728,
+                "area": 66,
+                "street": "pilegården",
+                "street_number": "8 d",
+                "city": "göteborg",
+                "zip": "43635",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 879,
+                "$last_seen": "2023-06-26T10:51:56.925Z"
               },
               {
                 "id": 87814,
@@ -32993,6 +33021,20 @@
                 "$districtName": "örgryte",
                 "last_accept": 1008,
                 "$last_seen": "2023-06-05T06:47:20.100Z"
+              },
+              {
+                "id": 88032,
+                "rent": 15766,
+                "area": 95,
+                "street": "smörkärnegatan",
+                "street_number": "13",
+                "city": "göteborg",
+                "zip": "41278",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 526,
+                "$last_seen": "2023-06-26T10:51:56.925Z"
               }
             ],
             "tändsticksgatan": [
@@ -37357,6 +37399,20 @@
                 "$districtName": "göteborgs vasa",
                 "last_accept": 1515,
                 "$last_seen": "2023-06-16T09:44:07.870Z"
+              },
+              {
+                "id": 87940,
+                "rent": 12280,
+                "area": 78,
+                "street": "karl gustavsgatan",
+                "street_number": "57",
+                "city": "göteborg",
+                "zip": "41131",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs vasa",
+                "last_accept": 1620,
+                "$last_seen": "2023-06-26T10:51:56.925Z"
               }
             ],
             "mölndalsvägen": [
@@ -40619,6 +40675,20 @@
                 "$districtName": "masthugget",
                 "last_accept": 1124,
                 "$last_seen": "2023-06-26T06:55:02.367Z"
+              },
+              {
+                "id": 87732,
+                "rent": 12007,
+                "area": 98,
+                "street": "bangatan",
+                "street_number": "31",
+                "city": "göteborg",
+                "zip": "41464",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "masthugget",
+                "last_accept": 825,
+                "$last_seen": "2023-06-26T10:51:56.925Z"
               },
               {
                 "id": 87733,
@@ -47925,20 +47995,6 @@
                 "$districtName": "västra frölunda",
                 "last_accept": 399,
                 "$last_seen": "2023-06-26T09:46:05.499Z"
-              },
-              {
-                "id": 87677,
-                "rent": 11482,
-                "area": 80,
-                "street": "munspelsgatan",
-                "street_number": "8",
-                "city": "västra frölunda",
-                "zip": "42151",
-                "municipality": "göteborg",
-                "county": "västra götalands län",
-                "$districtName": "västra frölunda",
-                "last_accept": 397,
-                "$last_seen": "2023-06-21T05:47:06.532Z"
               }
             ],
             "speldosegatan": [
@@ -47997,6 +48053,20 @@
                 "$districtName": "västra frölunda",
                 "last_accept": 496,
                 "$last_seen": "2023-05-26T11:41:23.068Z"
+              },
+              {
+                "id": 87613,
+                "rent": 11482,
+                "area": 80,
+                "street": "speldosegatan",
+                "street_number": "4",
+                "city": "västra frölunda",
+                "zip": "42151",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "västra frölunda",
+                "last_accept": 381,
+                "$last_seen": "2023-06-26T10:51:56.925Z"
               }
             ],
             "tamburingatan": [
@@ -50265,20 +50335,6 @@
                 "$districtName": "hyllie",
                 "last_accept": 0,
                 "$last_seen": "2023-06-22T09:44:24.054Z"
-              },
-              {
-                "id": 86723,
-                "rent": 9747,
-                "area": 52,
-                "street": "hyllie allé",
-                "street_number": "28a",
-                "city": "malmö",
-                "zip": "21535",
-                "municipality": "malmö",
-                "county": "skåne län",
-                "$districtName": "hyllie",
-                "last_accept": 0,
-                "$last_seen": "2023-06-19T06:49:18.018Z"
               }
             ],
             "tors gränd": [
