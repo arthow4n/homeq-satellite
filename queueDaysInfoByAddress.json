@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-06-27T11:41:59.985Z",
+  "lastUpdatedAt": "2023-06-27T13:09:19.781Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -4489,6 +4489,20 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1181,
                 "$last_seen": "2023-06-20T06:49:15.341Z"
+              },
+              {
+                "id": 86529,
+                "rent": 10274,
+                "area": 58,
+                "street": "ebbe lieberathsgatan",
+                "street_number": "22 b",
+                "city": "göteborg",
+                "zip": "41265",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 832,
+                "$last_seen": "2023-06-27T11:41:59.985Z"
               }
             ],
             "nordgårdsgatan": [
@@ -30657,6 +30671,20 @@
                 "$last_seen": "2023-06-19T11:44:24.858Z"
               },
               {
+                "id": 84563,
+                "rent": 7171,
+                "area": 34,
+                "street": "bangårdsgatan",
+                "street_number": "15",
+                "city": "göteborg",
+                "zip": "41112",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs domkyrkodistrikt",
+                "last_accept": 1300,
+                "$last_seen": "2023-06-27T11:41:59.985Z"
+              },
+              {
                 "id": 84569,
                 "rent": 9184,
                 "area": 55,
@@ -47173,6 +47201,20 @@
                 "$districtName": "brunnsbo",
                 "last_accept": 937,
                 "$last_seen": "2023-06-26T07:44:19.715Z"
+              },
+              {
+                "id": 87594,
+                "rent": 5967,
+                "area": 38,
+                "street": "klassikergatan",
+                "street_number": "19",
+                "city": "hisings backa",
+                "zip": "42241",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brunnsbo",
+                "last_accept": 984,
+                "$last_seen": "2023-06-27T11:41:59.985Z"
               }
             ],
             "prologgatan": [
@@ -50701,6 +50743,20 @@
                 "$districtName": "hyllie",
                 "last_accept": 0,
                 "$last_seen": "2023-06-22T09:44:24.054Z"
+              },
+              {
+                "id": 86723,
+                "rent": 9747,
+                "area": 52,
+                "street": "hyllie allé",
+                "street_number": "28a",
+                "city": "malmö",
+                "zip": "21535",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "hyllie",
+                "last_accept": 0,
+                "$last_seen": "2023-06-27T11:41:59.985Z"
               }
             ],
             "tors gränd": [
