@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-06-27T13:49:38.703Z",
+  "lastUpdatedAt": "2023-06-27T14:46:43.423Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -9187,6 +9187,20 @@
                 "$districtName": "högsbo",
                 "last_accept": 1120,
                 "$last_seen": "2023-06-22T07:44:39.744Z"
+              },
+              {
+                "id": 88072,
+                "rent": 10527,
+                "area": 85,
+                "street": "pennygången",
+                "street_number": "36",
+                "city": "göteborg",
+                "zip": "41482",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 797,
+                "$last_seen": "2023-06-27T13:49:38.703Z"
               }
             ],
             "skäpplandsgatan": [
@@ -14905,6 +14919,20 @@
                 "$districtName": "lundby",
                 "last_accept": 1196,
                 "$last_seen": "2023-06-26T09:46:05.499Z"
+              },
+              {
+                "id": 87415,
+                "rent": 6461,
+                "area": 63,
+                "street": "arvid lindmansgatan",
+                "street_number": "4c",
+                "city": "göteborg",
+                "zip": "41741",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1630,
+                "$last_seen": "2023-06-27T13:49:38.703Z"
               }
             ],
             "estlandsgatan": [
@@ -33431,6 +33459,34 @@
                 "$districtName": "örgryte",
                 "last_accept": 886,
                 "$last_seen": "2023-04-24T13:01:22.941Z"
+              },
+              {
+                "id": 84579,
+                "rent": 12043,
+                "area": 64,
+                "street": "tändsticksgatan",
+                "street_number": "2",
+                "city": "göteborg",
+                "zip": "41263",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 767,
+                "$last_seen": "2023-06-27T13:49:38.703Z"
+              },
+              {
+                "id": 84582,
+                "rent": 12004,
+                "area": 64,
+                "street": "tändsticksgatan",
+                "street_number": "2",
+                "city": "göteborg",
+                "zip": "41263",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 567,
+                "$last_seen": "2023-06-27T13:49:38.703Z"
               }
             ],
             "gräddgatan": [
