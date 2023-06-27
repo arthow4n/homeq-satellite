@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-06-27T06:51:47.527Z",
+  "lastUpdatedAt": "2023-06-27T07:42:50.678Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -4461,20 +4461,6 @@
                 "$districtName": "johanneberg",
                 "last_accept": 873,
                 "$last_seen": "2023-06-15T08:46:44.590Z"
-              },
-              {
-                "id": 85160,
-                "rent": 12028,
-                "area": 73,
-                "street": "ebbe lieberathsgatan",
-                "street_number": "20 c",
-                "city": "göteborg",
-                "zip": "41265",
-                "municipality": "göteborg",
-                "county": "västra götalands län",
-                "$districtName": "johanneberg",
-                "last_accept": 1051,
-                "$last_seen": "2023-06-21T10:49:22.530Z"
               },
               {
                 "id": 85162,
@@ -23649,6 +23635,20 @@
                 "$districtName": "askim",
                 "last_accept": 101,
                 "$last_seen": "2023-06-20T06:49:15.341Z"
+              },
+              {
+                "id": 87818,
+                "rent": 9535,
+                "area": 76,
+                "street": "pilegården",
+                "street_number": "1a",
+                "city": "göteborg",
+                "zip": "43635",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 1247,
+                "$last_seen": "2023-06-27T06:51:47.527Z"
               }
             ],
             "nergårdsvägen": [
@@ -49919,6 +49919,20 @@
                 "$districtName": "kirseberg",
                 "last_accept": 0,
                 "$last_seen": "2023-06-19T09:44:38.317Z"
+              },
+              {
+                "id": 88094,
+                "rent": 10127,
+                "area": 102,
+                "street": "lundavägen",
+                "street_number": "44a",
+                "city": "malmö",
+                "zip": "21219",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "kirseberg",
+                "last_accept": 0,
+                "$last_seen": "2023-06-27T06:51:47.527Z"
               }
             ],
             "högamöllegatan": [
@@ -51009,6 +51023,20 @@
                 "$districtName": "västra skrävlinge",
                 "last_accept": 0,
                 "$last_seen": "2023-06-13T08:45:19.192Z"
+              },
+              {
+                "id": 86385,
+                "rent": 6059,
+                "area": 50.99,
+                "street": "ramels väg",
+                "street_number": "25",
+                "city": "malmö",
+                "zip": "21368",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "västra skrävlinge",
+                "last_accept": 0,
+                "$last_seen": "2023-06-27T05:47:32.397Z"
               }
             ]
           },
@@ -51085,6 +51113,22 @@
                 "$districtName": "malmö sankt johannes",
                 "last_accept": 824,
                 "$last_seen": "2023-05-24T13:00:42.558Z"
+              }
+            ],
+            "smedjegatan": [
+              {
+                "id": 87605,
+                "rent": 7030,
+                "area": 66,
+                "street": "smedjegatan",
+                "street_number": "5 a",
+                "city": "malmö",
+                "zip": "21421",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "malmö sankt johannes",
+                "last_accept": 1132,
+                "$last_seen": "2023-06-27T06:51:47.527Z"
               }
             ]
           },
@@ -51211,6 +51255,20 @@
             ],
             "södra förstadsgatan": [
               {
+                "id": 84080,
+                "rent": 6088,
+                "area": 42,
+                "street": "södra förstadsgatan",
+                "street_number": "118",
+                "city": "malmö",
+                "zip": "21428",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "möllevången",
+                "last_accept": 970,
+                "$last_seen": "2023-06-27T06:51:47.527Z"
+              },
+              {
                 "id": 87671,
                 "rent": 4983,
                 "area": 27,
@@ -51223,6 +51281,22 @@
                 "$districtName": "möllevången",
                 "last_accept": 0,
                 "$last_seen": "2023-06-15T13:49:53.986Z"
+              }
+            ],
+            "almbacksgatan": [
+              {
+                "id": 87661,
+                "rent": 8655,
+                "area": 75,
+                "street": "almbacksgatan",
+                "street_number": "11 b",
+                "city": "malmö",
+                "zip": "21154",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "möllevången",
+                "last_accept": 1510,
+                "$last_seen": "2023-06-27T06:51:47.527Z"
               }
             ]
           },
@@ -51923,6 +51997,26 @@
                 "$districtName": "slottsstaden",
                 "last_accept": 564,
                 "$last_seen": "2023-05-23T07:40:19.622Z"
+              }
+            ]
+          }
+        },
+        "bunkeflostrand": {
+          "bunkeflo": {
+            "vagnmakarebyn": [
+              {
+                "id": 85358,
+                "rent": 9163,
+                "area": 65,
+                "street": "vagnmakarebyn",
+                "street_number": "6d",
+                "city": "bunkeflostrand",
+                "zip": "21840",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "bunkeflo",
+                "last_accept": 0,
+                "$last_seen": "2023-06-27T06:51:47.527Z"
               }
             ]
           }
