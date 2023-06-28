@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-06-28T10:49:50.791Z",
+  "lastUpdatedAt": "2023-06-28T11:42:15.053Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -19353,6 +19353,20 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1375,
                 "$last_seen": "2023-06-22T07:44:39.744Z"
+              },
+              {
+                "id": 87970,
+                "rent": 8714,
+                "area": 55,
+                "street": "danska vägen",
+                "street_number": "79b",
+                "city": "göteborg",
+                "zip": "41659",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1548,
+                "$last_seen": "2023-06-28T10:49:50.791Z"
               }
             ],
             "vävskedsgatan": [
@@ -48191,6 +48205,20 @@
                 "$districtName": "tynnered",
                 "last_accept": 0,
                 "$last_seen": "2023-06-19T11:44:24.858Z"
+              },
+              {
+                "id": 88030,
+                "rent": 10328,
+                "area": 81,
+                "street": "smyckegatan",
+                "street_number": "78",
+                "city": "västra frölunda",
+                "zip": "42651",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tynnered",
+                "last_accept": 1203,
+                "$last_seen": "2023-06-28T10:49:50.791Z"
               }
             ],
             "björkhöjdsgatan": [
@@ -49703,6 +49731,20 @@
                 "$districtName": "malmö sankt petri",
                 "last_accept": 0,
                 "$last_seen": "2023-04-28T07:41:22.543Z"
+              },
+              {
+                "id": 81394,
+                "rent": 10170,
+                "area": 58,
+                "street": "lilla varvsgatan",
+                "street_number": "24",
+                "city": "malmö",
+                "zip": "21175",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "malmö sankt petri",
+                "last_accept": 80,
+                "$last_seen": "2023-06-28T10:49:50.791Z"
               },
               {
                 "id": 82601,
@@ -51787,20 +51829,6 @@
                 "$districtName": "möllevången",
                 "last_accept": 1407,
                 "$last_seen": "2023-06-27T07:42:50.678Z"
-              },
-              {
-                "id": 87661,
-                "rent": 8655,
-                "area": 75,
-                "street": "almbacksgatan",
-                "street_number": "11 b",
-                "city": "malmö",
-                "zip": "21154",
-                "municipality": "malmö",
-                "county": "skåne län",
-                "$districtName": "möllevången",
-                "last_accept": 1510,
-                "$last_seen": "2023-06-27T06:51:47.527Z"
               }
             ]
           },
