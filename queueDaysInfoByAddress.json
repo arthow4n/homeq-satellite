@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-06-28T05:47:03.499Z",
+  "lastUpdatedAt": "2023-06-28T06:51:23.080Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -10289,6 +10289,20 @@
                 "$districtName": "högsbo",
                 "last_accept": 1103,
                 "$last_seen": "2023-04-21T11:40:13.834Z"
+              },
+              {
+                "id": 84208,
+                "rent": 6592,
+                "area": 35,
+                "street": "lilla tunnlandsgatan",
+                "street_number": "7",
+                "city": "göteborg",
+                "zip": "41477",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 1383,
+                "$last_seen": "2023-06-28T05:47:03.499Z"
               }
             ],
             "sjupundsgatan": [
@@ -48431,20 +48445,6 @@
                 "$districtName": "västra frölunda",
                 "last_accept": 1315,
                 "$last_seen": "2023-06-22T06:49:12.918Z"
-              },
-              {
-                "id": 87636,
-                "rent": 11482,
-                "area": 80,
-                "street": "munspelsgatan",
-                "street_number": "16",
-                "city": "västra frölunda",
-                "zip": "42151",
-                "municipality": "göteborg",
-                "county": "västra götalands län",
-                "$districtName": "västra frölunda",
-                "last_accept": 399,
-                "$last_seen": "2023-06-26T09:46:05.499Z"
               }
             ],
             "speldosegatan": [
@@ -51103,6 +51103,34 @@
                 "$districtName": "hyllie",
                 "last_accept": 0,
                 "$last_seen": "2023-06-08T05:44:38.452Z"
+              },
+              {
+                "id": 88307,
+                "rent": 14832,
+                "area": 101.9,
+                "street": "hyllie vattenparksgata",
+                "street_number": "19",
+                "city": "malmö",
+                "zip": "21531",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "hyllie",
+                "last_accept": 0,
+                "$last_seen": "2023-06-28T05:47:03.499Z"
+              },
+              {
+                "id": 88635,
+                "rent": 10333,
+                "area": 62.8,
+                "street": "hyllie vattenparksgata",
+                "street_number": "19",
+                "city": "malmö",
+                "zip": "21531",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "hyllie",
+                "last_accept": 0,
+                "$last_seen": "2023-06-28T05:47:03.499Z"
               }
             ]
           },
