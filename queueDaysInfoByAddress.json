@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-06-28T08:49:59.118Z",
+  "lastUpdatedAt": "2023-06-28T09:43:57.609Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -9173,6 +9173,20 @@
                 "$districtName": "högsbo",
                 "last_accept": 295,
                 "$last_seen": "2023-06-22T07:44:39.744Z"
+              },
+              {
+                "id": 88064,
+                "rent": 8420,
+                "area": 62,
+                "street": "pennygången",
+                "street_number": "78",
+                "city": "göteborg",
+                "zip": "41482",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 652,
+                "$last_seen": "2023-06-28T08:49:59.118Z"
               },
               {
                 "id": 88066,
@@ -46895,6 +46909,20 @@
                 "$districtName": "haga",
                 "last_accept": 1710,
                 "$last_seen": "2023-05-02T11:40:16.072Z"
+              },
+              {
+                "id": 88666,
+                "rent": 8335,
+                "area": 61,
+                "street": "nilssonsberg",
+                "street_number": "34",
+                "city": "göteborg",
+                "zip": "41143",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "haga",
+                "last_accept": 1632,
+                "$last_seen": "2023-06-28T08:49:59.118Z"
               }
             ]
           }
@@ -48487,6 +48515,20 @@
                 "$districtName": "västra frölunda",
                 "last_accept": 1315,
                 "$last_seen": "2023-06-22T06:49:12.918Z"
+              },
+              {
+                "id": 88614,
+                "rent": 11220,
+                "area": 77,
+                "street": "munspelsgatan",
+                "street_number": "12",
+                "city": "västra frölunda",
+                "zip": "42151",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "västra frölunda",
+                "last_accept": 426,
+                "$last_seen": "2023-06-28T08:49:59.118Z"
               }
             ],
             "speldosegatan": [
@@ -49993,6 +50035,20 @@
                 "$districtName": "limhamn",
                 "last_accept": 6,
                 "$last_seen": "2023-06-12T05:44:44.651Z"
+              },
+              {
+                "id": 86311,
+                "rent": 9846,
+                "area": 54.9,
+                "street": "nätsnäcksgränd",
+                "street_number": "6",
+                "city": "malmö",
+                "zip": "21631",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "limhamn",
+                "last_accept": 51,
+                "$last_seen": "2023-06-28T08:49:59.118Z"
               }
             ]
           },
@@ -51060,6 +51116,20 @@
               }
             ],
             "sagas gränd": [
+              {
+                "id": 85450,
+                "rent": 7198,
+                "area": 36.9,
+                "street": "sagas gränd",
+                "street_number": "14",
+                "city": "malmö",
+                "zip": "21536",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "hyllie",
+                "last_accept": 147,
+                "$last_seen": "2023-06-28T08:49:59.118Z"
+              },
               {
                 "id": 85453,
                 "rent": 9321,
