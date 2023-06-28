@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-06-28T11:42:15.053Z",
+  "lastUpdatedAt": "2023-06-28T13:10:04.269Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -32303,6 +32303,20 @@
                 "$districtName": "örgryte",
                 "last_accept": 1130,
                 "$last_seen": "2023-06-19T08:48:36.933Z"
+              },
+              {
+                "id": 88911,
+                "rent": 9643,
+                "area": 52,
+                "street": "smörgatan",
+                "street_number": "1",
+                "city": "göteborg",
+                "zip": "41278",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 178,
+                "$last_seen": "2023-06-28T11:42:15.053Z"
               }
             ],
             "prästgårdsängen": [
@@ -51813,6 +51827,20 @@
                 "$districtName": "möllevången",
                 "last_accept": 0,
                 "$last_seen": "2023-06-15T13:49:53.986Z"
+              },
+              {
+                "id": 87675,
+                "rent": 5536,
+                "area": 41,
+                "street": "södra förstadsgatan",
+                "street_number": "118",
+                "city": "malmö",
+                "zip": "21428",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "möllevången",
+                "last_accept": 785,
+                "$last_seen": "2023-06-28T11:42:15.053Z"
               }
             ],
             "almbacksgatan": [
@@ -51829,6 +51857,20 @@
                 "$districtName": "möllevången",
                 "last_accept": 1407,
                 "$last_seen": "2023-06-27T07:42:50.678Z"
+              },
+              {
+                "id": 87661,
+                "rent": 8655,
+                "area": 75,
+                "street": "almbacksgatan",
+                "street_number": "11 b",
+                "city": "malmö",
+                "zip": "21154",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "möllevången",
+                "last_accept": 1597,
+                "$last_seen": "2023-06-28T11:42:15.053Z"
               }
             ]
           },
@@ -52529,6 +52571,20 @@
                 "$districtName": "slottsstaden",
                 "last_accept": 564,
                 "$last_seen": "2023-05-23T07:40:19.622Z"
+              },
+              {
+                "id": 83797,
+                "rent": 5347,
+                "area": 30,
+                "street": "erikstorpsgatan",
+                "street_number": "4",
+                "city": "malmö ",
+                "zip": "21754",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "slottsstaden",
+                "last_accept": 785,
+                "$last_seen": "2023-06-28T11:42:15.053Z"
               }
             ]
           }
