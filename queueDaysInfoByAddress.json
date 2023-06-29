@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-06-29T08:50:46.701Z",
+  "lastUpdatedAt": "2023-06-29T09:43:45.219Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -5585,6 +5585,20 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1424,
                 "$last_seen": "2022-12-15T14:39:30.817Z"
+              },
+              {
+                "id": 87834,
+                "rent": 9289,
+                "area": 61,
+                "street": "drivhusgatan",
+                "street_number": "4 a",
+                "city": "göteborg",
+                "zip": "41264",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1595,
+                "$last_seen": "2023-06-29T08:50:46.701Z"
               }
             ],
             "mölndalsvägen": [
@@ -6019,6 +6033,20 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1606,
                 "$last_seen": "2023-06-02T06:45:32.189Z"
+              },
+              {
+                "id": 88618,
+                "rent": 6670,
+                "area": 34,
+                "street": "richertsgatan",
+                "street_number": "6",
+                "city": "göteborg",
+                "zip": "41260",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1460,
+                "$last_seen": "2023-06-29T08:50:46.701Z"
               }
             ],
             "kullegatan": [
@@ -9215,6 +9243,20 @@
                 "$districtName": "högsbo",
                 "last_accept": 797,
                 "$last_seen": "2023-06-27T13:49:38.703Z"
+              },
+              {
+                "id": 88603,
+                "rent": 10758,
+                "area": 83,
+                "street": "pennygången",
+                "street_number": "51",
+                "city": "göteborg",
+                "zip": "41482",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 675,
+                "$last_seen": "2023-06-29T08:50:46.701Z"
               },
               {
                 "id": 88604,
@@ -16159,6 +16201,20 @@
                 "$districtName": "lundby",
                 "last_accept": 0,
                 "$last_seen": "2023-06-12T06:47:56.862Z"
+              },
+              {
+                "id": 87520,
+                "rent": 5750,
+                "area": 36,
+                "street": "pilegårdsgatan",
+                "street_number": "20 b",
+                "city": "göteborg",
+                "zip": "41877",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1149,
+                "$last_seen": "2023-06-29T08:50:46.701Z"
               }
             ],
             "korstörnegatan": [
