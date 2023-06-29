@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-06-29T14:43:28.861Z",
+  "lastUpdatedAt": "2023-06-29T15:44:11.622Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -40327,6 +40327,20 @@
                 "$districtName": "göteborgs oscar fredrik",
                 "last_accept": 1631,
                 "$last_seen": "2023-03-30T10:42:29.733Z"
+              },
+              {
+                "id": 88267,
+                "rent": 12000,
+                "area": 89,
+                "street": "olivedalsgatan",
+                "street_number": "27",
+                "city": "göteborg",
+                "zip": "41310",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs oscar fredrik",
+                "last_accept": 1697,
+                "$last_seen": "2023-06-29T14:43:28.861Z"
               }
             ],
             "kryssdäcket": [
