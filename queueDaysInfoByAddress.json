@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-06-29T11:41:45.120Z",
+  "lastUpdatedAt": "2023-06-29T13:06:32.282Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -10973,6 +10973,20 @@
                 "$last_seen": "2023-05-30T09:40:37.261Z"
               },
               {
+                "id": 84075,
+                "rent": 13810,
+                "area": 88,
+                "street": "gustaf dalénsgatan",
+                "street_number": "7 e",
+                "city": "göteborg",
+                "zip": "41723",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brämaregården",
+                "last_accept": 1191,
+                "$last_seen": "2023-06-29T11:41:45.120Z"
+              },
+              {
                 "id": 84160,
                 "rent": 11544,
                 "area": 66,
@@ -11071,6 +11085,20 @@
                 "$districtName": "brämaregården",
                 "last_accept": 1552,
                 "$last_seen": "2023-05-22T06:45:21.852Z"
+              },
+              {
+                "id": 87424,
+                "rent": 8168,
+                "area": 58,
+                "street": "lantmätaregatan",
+                "street_number": "14 b",
+                "city": "göteborg",
+                "zip": "41706",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brämaregården",
+                "last_accept": 1484,
+                "$last_seen": "2023-06-29T11:41:45.120Z"
               }
             ],
             "långängen": [
@@ -41239,6 +41267,20 @@
                 "$last_seen": "2023-06-22T05:46:15.199Z"
               },
               {
+                "id": 88281,
+                "rent": 7096,
+                "area": 62,
+                "street": "bangatan",
+                "street_number": "24 a",
+                "city": "göteborg",
+                "zip": "41463",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "masthugget",
+                "last_accept": 1700,
+                "$last_seen": "2023-06-29T11:41:45.120Z"
+              },
+              {
                 "id": 88773,
                 "rent": 5166,
                 "area": 29,
@@ -44933,6 +44975,20 @@
                 "$last_seen": "2023-06-27T07:42:50.678Z"
               },
               {
+                "id": 87646,
+                "rent": 13323,
+                "area": 109,
+                "street": "långströmsgatan",
+                "street_number": "42a",
+                "city": "göteborg",
+                "zip": "41870",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "biskopsgården",
+                "last_accept": 665,
+                "$last_seen": "2023-06-29T11:41:45.120Z"
+              },
+              {
                 "id": 87967,
                 "rent": 10878,
                 "area": 83,
@@ -44959,6 +45015,20 @@
                 "$districtName": "biskopsgården",
                 "last_accept": 836,
                 "$last_seen": "2023-06-27T07:42:50.678Z"
+              },
+              {
+                "id": 88080,
+                "rent": 8973,
+                "area": 63,
+                "street": "långströmsgatan",
+                "street_number": "42c",
+                "city": "göteborg",
+                "zip": "41870",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "biskopsgården",
+                "last_accept": 663,
+                "$last_seen": "2023-06-29T11:41:45.120Z"
               }
             ],
             "lufttrycksgatan": [
@@ -49309,6 +49379,20 @@
                 "$districtName": "partille",
                 "last_accept": 1333,
                 "$last_seen": "2023-04-11T07:40:10.655Z"
+              },
+              {
+                "id": 88324,
+                "rent": 6195,
+                "area": 59,
+                "street": "länsmansvägen",
+                "street_number": "8 b",
+                "city": "jonsered",
+                "zip": "43375",
+                "municipality": "partille",
+                "county": "västra götalands län",
+                "$districtName": "partille",
+                "last_accept": 1381,
+                "$last_seen": "2023-06-29T11:41:45.120Z"
               }
             ],
             "kyrkogatan": [
@@ -53877,6 +53961,38 @@
                 "$districtName": "vällingby",
                 "last_accept": 1484,
                 "$last_seen": "2023-06-16T06:48:10.356Z"
+              }
+            ]
+          },
+          "skärholmen": {
+            "vårbergsvägen": [
+              {
+                "id": 88989,
+                "rent": 7019,
+                "area": 30,
+                "street": "vårbergsvägen",
+                "street_number": "77",
+                "city": "stockholm",
+                "zip": "12743",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "skärholmen",
+                "last_accept": 0,
+                "$last_seen": "2023-06-29T11:41:45.120Z"
+              },
+              {
+                "id": 88999,
+                "rent": 8551,
+                "area": 35,
+                "street": "vårbergsvägen",
+                "street_number": "79",
+                "city": "stockholm",
+                "zip": "12743",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "skärholmen",
+                "last_accept": 0,
+                "$last_seen": "2023-06-29T11:41:45.120Z"
               }
             ]
           }
