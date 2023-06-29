@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-06-29T10:49:34.275Z",
+  "lastUpdatedAt": "2023-06-29T11:41:45.120Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -46039,6 +46039,20 @@
                 "$districtName": "göteborgs karl johan",
                 "last_accept": 1547,
                 "$last_seen": "2023-04-05T14:43:41.198Z"
+              },
+              {
+                "id": 88811,
+                "rent": 7900,
+                "area": 52,
+                "street": "seglaregatan",
+                "street_number": "29 b",
+                "city": "göteborg",
+                "zip": "41457",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs karl johan",
+                "last_accept": 1627,
+                "$last_seen": "2023-06-29T10:49:34.275Z"
               }
             ],
             "kabelgatan": [
@@ -47451,6 +47465,20 @@
                 "$districtName": "brunnsbo",
                 "last_accept": 1085,
                 "$last_seen": "2023-06-21T08:49:35.850Z"
+              },
+              {
+                "id": 88600,
+                "rent": 7393,
+                "area": 63,
+                "street": "folkvisegatan",
+                "street_number": "20",
+                "city": "hisings backa",
+                "zip": "42241",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brunnsbo",
+                "last_accept": 1307,
+                "$last_seen": "2023-06-29T10:49:34.275Z"
               }
             ],
             "klassikergatan": [
