@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-06-30T13:46:20.429Z",
+  "lastUpdatedAt": "2023-06-30T14:44:55.289Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -6061,6 +6061,20 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1606,
                 "$last_seen": "2023-06-02T06:45:32.189Z"
+              },
+              {
+                "id": 85782,
+                "rent": 6420,
+                "area": 34,
+                "street": "richertsgatan",
+                "street_number": "6",
+                "city": "göteborg",
+                "zip": "41260",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1624,
+                "$last_seen": "2023-06-30T13:46:20.429Z"
               },
               {
                 "id": 88618,
@@ -49433,6 +49447,20 @@
                 "$last_seen": "2023-04-25T08:46:08.723Z"
               },
               {
+                "id": 88230,
+                "rent": 9035,
+                "area": 51.9,
+                "street": "stengetsgatan",
+                "street_number": "22",
+                "city": "västra frölunda ",
+                "zip": "42672",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "älvsborg",
+                "last_accept": 819,
+                "$last_seen": "2023-06-30T13:46:20.429Z"
+              },
+              {
                 "id": 88250,
                 "rent": 9312,
                 "area": 51.9,
@@ -51355,6 +51383,20 @@
             ],
             "rantzowsgatan": [
               {
+                "id": 84723,
+                "rent": 6088,
+                "area": 38,
+                "street": "rantzowsgatan",
+                "street_number": "12b",
+                "city": "malmö",
+                "zip": "21221",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "kirseberg",
+                "last_accept": 22,
+                "$last_seen": "2023-06-30T13:46:20.429Z"
+              },
+              {
                 "id": 84724,
                 "rent": 5965,
                 "area": 38,
@@ -51815,20 +51857,6 @@
                 "$districtName": "hyllie",
                 "last_accept": 0,
                 "$last_seen": "2023-06-19T05:46:22.854Z"
-              },
-              {
-                "id": 87832,
-                "rent": 9910,
-                "area": 55,
-                "street": "bures gata",
-                "street_number": "1a",
-                "city": "malmö",
-                "zip": "21533",
-                "municipality": "malmö",
-                "county": "skåne län",
-                "$districtName": "hyllie",
-                "last_accept": 0,
-                "$last_seen": "2023-06-27T05:47:32.397Z"
               }
             ],
             "sagas gränd": [
