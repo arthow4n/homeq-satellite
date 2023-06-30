@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-06-30T09:42:09.665Z",
+  "lastUpdatedAt": "2023-06-30T10:47:52.211Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -9961,6 +9961,20 @@
                 "$districtName": "högsbo",
                 "last_accept": 1631,
                 "$last_seen": "2023-06-28T09:43:57.609Z"
+              },
+              {
+                "id": 88747,
+                "rent": 10202,
+                "area": 71,
+                "street": "marklandsgatan",
+                "street_number": "37",
+                "city": "göteborg",
+                "zip": "41477",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 1427,
+                "$last_seen": "2023-06-30T09:42:09.665Z"
               },
               {
                 "id": 88884,
@@ -51573,6 +51587,20 @@
                 "$districtName": "hyllie",
                 "last_accept": 0,
                 "$last_seen": "2023-05-25T14:43:51.870Z"
+              },
+              {
+                "id": 87619,
+                "rent": 11108,
+                "area": 69,
+                "street": "tors gränd",
+                "street_number": "12",
+                "city": "malmö",
+                "zip": "21534",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "hyllie",
+                "last_accept": 0,
+                "$last_seen": "2023-06-30T09:42:09.665Z"
               }
             ],
             "allétorget": [
@@ -54421,6 +54449,26 @@
                 "$districtName": "hägersten",
                 "last_accept": 2113,
                 "$last_seen": "2023-05-23T09:40:33.838Z"
+              }
+            ]
+          }
+        },
+        "bromma": {
+          "bromma": {
+            "klädesvägen": [
+              {
+                "id": 88814,
+                "rent": 5531,
+                "area": 34,
+                "street": "klädesvägen",
+                "street_number": "7",
+                "city": "bromma",
+                "zip": "16876",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "bromma",
+                "last_accept": 1838,
+                "$last_seen": "2023-06-30T09:42:09.665Z"
               }
             ]
           }
