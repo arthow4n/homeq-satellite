@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-06-30T10:47:52.211Z",
+  "lastUpdatedAt": "2023-06-30T11:41:43.758Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -10189,6 +10189,20 @@
                 "$districtName": "högsbo",
                 "last_accept": 1363,
                 "$last_seen": "2023-06-26T09:46:05.499Z"
+              },
+              {
+                "id": 84248,
+                "rent": 9065,
+                "area": 60,
+                "street": "högsbogatan",
+                "street_number": "23",
+                "city": "göteborg",
+                "zip": "41475",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 1447,
+                "$last_seen": "2023-06-30T10:47:52.211Z"
               },
               {
                 "id": 85276,
@@ -20805,6 +20819,20 @@
                 "$districtName": "björkekärr",
                 "last_accept": 466,
                 "$last_seen": "2023-06-14T13:44:22.332Z"
+              },
+              {
+                "id": 87969,
+                "rent": 6741,
+                "area": 38,
+                "street": "smörslätten",
+                "street_number": "8",
+                "city": "göteborg",
+                "zip": "41677",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "björkekärr",
+                "last_accept": 920,
+                "$last_seen": "2023-06-30T10:47:52.211Z"
               }
             ],
             "lådspikaregatan": [
@@ -24845,6 +24873,20 @@
                 "$districtName": "askim",
                 "last_accept": 0,
                 "$last_seen": "2023-05-29T08:44:11.275Z"
+              },
+              {
+                "id": 86300,
+                "rent": 10527,
+                "area": 54,
+                "street": "kobbeslätten",
+                "street_number": "8",
+                "city": "göteborg",
+                "zip": "43637",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 340,
+                "$last_seen": "2023-06-30T10:47:52.211Z"
               }
             ],
             "kobbegården": [
@@ -41419,6 +41461,20 @@
                 "$districtName": "masthugget",
                 "last_accept": 1192,
                 "$last_seen": "2023-06-28T07:42:23.270Z"
+              },
+              {
+                "id": 88898,
+                "rent": 9886,
+                "area": 69,
+                "street": "bangatan",
+                "street_number": "35",
+                "city": "göteborg",
+                "zip": "41464",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "masthugget",
+                "last_accept": 1307,
+                "$last_seen": "2023-06-30T10:47:52.211Z"
               }
             ],
             "amiralitetsgatan": [
@@ -49193,6 +49249,20 @@
                 "$districtName": "västra frölunda",
                 "last_accept": 1115,
                 "$last_seen": "2023-06-09T10:46:29.436Z"
+              },
+              {
+                "id": 88181,
+                "rent": 9663,
+                "area": 81,
+                "street": "marconigatan",
+                "street_number": "33 a",
+                "city": "västra frölunda",
+                "zip": "42144",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "västra frölunda",
+                "last_accept": 1060,
+                "$last_seen": "2023-06-30T10:47:52.211Z"
               }
             ]
           },
@@ -50845,6 +50915,20 @@
                 "$districtName": "kirseberg",
                 "last_accept": 0,
                 "$last_seen": "2023-05-16T07:40:11.304Z"
+              },
+              {
+                "id": 84397,
+                "rent": 10598,
+                "area": 80.4,
+                "street": "lundavägen",
+                "street_number": "44a",
+                "city": "malmö",
+                "zip": "21219",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "kirseberg",
+                "last_accept": 213,
+                "$last_seen": "2023-06-30T10:47:52.211Z"
               },
               {
                 "id": 84644,
