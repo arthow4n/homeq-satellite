@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-06-30T05:45:51.161Z",
+  "lastUpdatedAt": "2023-06-30T06:49:27.970Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -4967,6 +4967,20 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1273,
                 "$last_seen": "2023-06-16T07:44:12.704Z"
+              },
+              {
+                "id": 87441,
+                "rent": 10096,
+                "area": 55,
+                "street": "nordgårdsgatan",
+                "street_number": "8",
+                "city": "göteborg",
+                "zip": "41285",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1187,
+                "$last_seen": "2023-06-30T05:45:51.161Z"
               }
             ],
             "norra krokslättsgatan": [
@@ -49207,6 +49221,20 @@
                 "$districtName": "älvsborg",
                 "last_accept": 535,
                 "$last_seen": "2023-06-29T13:06:32.282Z"
+              },
+              {
+                "id": 89226,
+                "rent": 8819,
+                "area": 60.6,
+                "street": "stengetsgatan",
+                "street_number": "24",
+                "city": "västra frölunda ",
+                "zip": "42672",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "älvsborg",
+                "last_accept": 306,
+                "$last_seen": "2023-06-30T05:45:51.161Z"
               }
             ],
             "tigerstigen": [
