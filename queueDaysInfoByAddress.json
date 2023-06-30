@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-06-30T07:41:58.286Z",
+  "lastUpdatedAt": "2023-06-30T08:47:29.666Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -7841,6 +7841,20 @@
                 "$districtName": "högsbo",
                 "last_accept": 561,
                 "$last_seen": "2023-06-12T05:44:44.651Z"
+              },
+              {
+                "id": 86763,
+                "rent": 11063,
+                "area": 65,
+                "street": "nymilsgatan",
+                "street_number": "39",
+                "city": "göteborg",
+                "zip": "42170",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 620,
+                "$last_seen": "2023-06-30T06:49:27.970Z"
               }
             ],
             "pennygången": [
@@ -42617,6 +42631,20 @@
                 "$districtName": "masthugget",
                 "last_accept": 1033,
                 "$last_seen": "2023-06-05T07:42:18.767Z"
+              },
+              {
+                "id": 88906,
+                "rent": 7273,
+                "area": 45,
+                "street": "djurgårdsgatan",
+                "street_number": "38",
+                "city": "göteborg",
+                "zip": "41464",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "masthugget",
+                "last_accept": 1483,
+                "$last_seen": "2023-06-30T07:41:58.286Z"
               }
             ],
             "dahlströmsgatan": [
@@ -51049,6 +51077,20 @@
                 "$districtName": "kirseberg",
                 "last_accept": 0,
                 "$last_seen": "2023-06-26T11:42:42.242Z"
+              },
+              {
+                "id": 88182,
+                "rent": 5603,
+                "area": 32,
+                "street": "gerlachsgatan",
+                "street_number": "2 b",
+                "city": "malmö",
+                "zip": "21219",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "kirseberg",
+                "last_accept": 32,
+                "$last_seen": "2023-06-30T07:41:58.286Z"
               }
             ],
             "dalhemsgtan": [
@@ -51707,6 +51749,20 @@
                 "$districtName": "hyllie",
                 "last_accept": 0,
                 "$last_seen": "2023-06-28T05:47:03.499Z"
+              },
+              {
+                "id": 89149,
+                "rent": 14832,
+                "area": 101.9,
+                "street": "hyllie vattenparksgata",
+                "street_number": "19",
+                "city": "malmö",
+                "zip": "21531",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "hyllie",
+                "last_accept": 0,
+                "$last_seen": "2023-06-30T07:41:58.286Z"
               }
             ]
           },
