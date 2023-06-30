@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-06-30T13:05:53.544Z",
+  "lastUpdatedAt": "2023-06-30T13:46:20.429Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -54167,6 +54167,20 @@
                 "$districtName": "vantör",
                 "last_accept": 1624,
                 "$last_seen": "2023-06-21T10:49:22.530Z"
+              },
+              {
+                "id": 85397,
+                "rent": 8731,
+                "area": 59,
+                "street": "porlabacken",
+                "street_number": "22",
+                "city": "bandhagen",
+                "zip": "12477",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 1642,
+                "$last_seen": "2023-06-30T13:05:53.544Z"
               }
             ]
           }
