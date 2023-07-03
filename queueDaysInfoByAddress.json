@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-07-03T10:48:56.709Z",
+  "lastUpdatedAt": "2023-07-03T11:41:26.288Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -3299,6 +3299,20 @@
                 "$districtName": "kållered",
                 "last_accept": 1159,
                 "$last_seen": "2023-06-19T10:49:27.706Z"
+              },
+              {
+                "id": 88308,
+                "rent": 9118,
+                "area": 76,
+                "street": "våmmedalsvägen",
+                "street_number": "90",
+                "city": "kållered",
+                "zip": "42831",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "kållered",
+                "last_accept": 1105,
+                "$last_seen": "2023-07-03T10:48:56.709Z"
               }
             ]
           }
@@ -6289,6 +6303,20 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1623,
                 "$last_seen": "2023-06-19T09:44:38.317Z"
+              },
+              {
+                "id": 87813,
+                "rent": 6828,
+                "area": 58,
+                "street": "övre besvärsgatan",
+                "street_number": "9",
+                "city": "göteborg",
+                "zip": "41129",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1707,
+                "$last_seen": "2023-07-03T10:48:56.709Z"
               }
             ],
             "utlandagatan": [
@@ -35500,6 +35528,22 @@
                 "last_accept": 1604,
                 "$last_seen": "2023-05-31T07:39:51.113Z"
               }
+            ],
+            "vävskedsgatan": [
+              {
+                "id": 88215,
+                "rent": 9940,
+                "area": 70,
+                "street": "vävskedsgatan",
+                "street_number": "12",
+                "city": "göteborg",
+                "zip": "41659",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1713,
+                "$last_seen": "2023-07-03T10:48:56.709Z"
+              }
             ]
           },
           "västra frölunda": {
@@ -35915,6 +35959,20 @@
                 "$districtName": "västra frölunda",
                 "last_accept": 1159,
                 "$last_seen": "2023-05-23T14:43:46.846Z"
+              },
+              {
+                "id": 83961,
+                "rent": 10749,
+                "area": 72,
+                "street": "trumgatan",
+                "street_number": "7",
+                "city": "göteborg",
+                "zip": "42151",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "västra frölunda",
+                "last_accept": 1004,
+                "$last_seen": "2023-07-03T10:48:56.709Z"
               }
             ],
             "tvärflöjtsgatan": [
