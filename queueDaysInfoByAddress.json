@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-07-03T05:45:51.269Z",
+  "lastUpdatedAt": "2023-07-03T06:49:40.755Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -33669,6 +33669,20 @@
                 "$last_seen": "2023-06-05T06:47:20.100Z"
               },
               {
+                "id": 88032,
+                "rent": 15766,
+                "area": 95,
+                "street": "smörkärnegatan",
+                "street_number": "13",
+                "city": "göteborg",
+                "zip": "41278",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 721,
+                "$last_seen": "2023-07-03T05:45:51.269Z"
+              },
+              {
                 "id": 88779,
                 "rent": 9880,
                 "area": 49,
@@ -54434,20 +54448,6 @@
                 "area": 30,
                 "street": "vårbergsvägen",
                 "street_number": "77",
-                "city": "stockholm",
-                "zip": "12743",
-                "municipality": "stockholm",
-                "county": "stockholms län",
-                "$districtName": "skärholmen",
-                "last_accept": 0,
-                "$last_seen": "2023-06-29T11:41:45.120Z"
-              },
-              {
-                "id": 88999,
-                "rent": 8551,
-                "area": 35,
-                "street": "vårbergsvägen",
-                "street_number": "79",
                 "city": "stockholm",
                 "zip": "12743",
                 "municipality": "stockholm",
