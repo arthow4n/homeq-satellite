@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-07-03T11:41:26.288Z",
+  "lastUpdatedAt": "2023-07-03T13:09:50.030Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -3312,6 +3312,20 @@
                 "county": "västra götalands län",
                 "$districtName": "kållered",
                 "last_accept": 1105,
+                "$last_seen": "2023-07-03T10:48:56.709Z"
+              },
+              {
+                "id": 89016,
+                "rent": 7818,
+                "area": 63,
+                "street": "våmmedalsvägen",
+                "street_number": "112",
+                "city": "kållered",
+                "zip": "42831",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "kållered",
+                "last_accept": 985,
                 "$last_seen": "2023-07-03T10:48:56.709Z"
               }
             ]
@@ -9343,6 +9357,20 @@
                 "$last_seen": "2023-06-27T13:49:38.703Z"
               },
               {
+                "id": 88602,
+                "rent": 10758,
+                "area": 83,
+                "street": "pennygången",
+                "street_number": "98",
+                "city": "göteborg",
+                "zip": "41482",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 1253,
+                "$last_seen": "2023-07-03T11:41:26.288Z"
+              },
+              {
                 "id": 88603,
                 "rent": 10758,
                 "area": 83,
@@ -11153,6 +11181,20 @@
                 "$districtName": "brämaregården",
                 "last_accept": 812,
                 "$last_seen": "2023-05-31T09:39:40.316Z"
+              },
+              {
+                "id": 88260,
+                "rent": 8293,
+                "area": 44,
+                "street": "gustaf dalénsgatan",
+                "street_number": "7 b",
+                "city": "göteborg",
+                "zip": "41723",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brämaregården",
+                "last_accept": 1288,
+                "$last_seen": "2023-07-03T11:41:26.288Z"
               }
             ],
             "lantmätaregatan": [
@@ -15855,6 +15897,20 @@
                 "$districtName": "lundby",
                 "last_accept": 1184,
                 "$last_seen": "2023-06-08T07:43:04.020Z"
+              },
+              {
+                "id": 87908,
+                "rent": 8861,
+                "area": 49.5,
+                "street": "södra vårvindsgatan",
+                "street_number": "3b",
+                "city": "göteborg",
+                "zip": "41877",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1096,
+                "$last_seen": "2023-07-03T11:41:26.288Z"
               }
             ],
             "prebendegatan": [
@@ -35543,6 +35599,20 @@
                 "$districtName": "örgryte",
                 "last_accept": 1713,
                 "$last_seen": "2023-07-03T10:48:56.709Z"
+              },
+              {
+                "id": 88218,
+                "rent": 9940,
+                "area": 70,
+                "street": "vävskedsgatan",
+                "street_number": "10",
+                "city": "göteborg",
+                "zip": "41659",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1704,
+                "$last_seen": "2023-07-03T11:41:26.288Z"
               }
             ]
           },
@@ -43195,6 +43265,20 @@
                 "$districtName": "masthugget",
                 "last_accept": 1633,
                 "$last_seen": "2023-06-30T11:41:43.758Z"
+              },
+              {
+                "id": 88785,
+                "rent": 6128,
+                "area": 39,
+                "street": "dahlströmsgatan",
+                "street_number": "12",
+                "city": "göteborg",
+                "zip": "41465",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "masthugget",
+                "last_accept": 1555,
+                "$last_seen": "2023-07-03T11:41:26.288Z"
               }
             ],
             "ekedalsgatan": [
