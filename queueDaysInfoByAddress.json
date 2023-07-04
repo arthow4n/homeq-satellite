@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-07-04T14:46:43.322Z",
+  "lastUpdatedAt": "2023-07-04T15:44:59.422Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -3327,20 +3327,6 @@
                 "$districtName": "kållered",
                 "last_accept": 1159,
                 "$last_seen": "2023-06-19T10:49:27.706Z"
-              },
-              {
-                "id": 88301,
-                "rent": 8858,
-                "area": 76,
-                "street": "våmmedalsvägen",
-                "street_number": "74",
-                "city": "kållered",
-                "zip": "42831",
-                "municipality": "mölndal",
-                "county": "västra götalands län",
-                "$districtName": "kållered",
-                "last_accept": 1391,
-                "$last_seen": "2023-07-04T11:41:32.752Z"
               },
               {
                 "id": 88308,
@@ -26569,6 +26555,20 @@
                 "$last_seen": "2023-05-03T07:40:19.208Z"
               },
               {
+                "id": 79070,
+                "rent": 3721,
+                "area": 33,
+                "street": "galileis gata",
+                "street_number": "2",
+                "city": "göteborg",
+                "zip": "41554",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bergsjön",
+                "last_accept": 1182,
+                "$last_seen": "2023-07-04T14:46:43.322Z"
+              },
+              {
                 "id": 80493,
                 "rent": 10000,
                 "area": 100,
@@ -35809,6 +35809,22 @@
                 "$districtName": "örgryte",
                 "last_accept": 1704,
                 "$last_seen": "2023-07-03T11:41:26.288Z"
+              }
+            ],
+            "kronhjortsgatan": [
+              {
+                "id": 88682,
+                "rent": 6600,
+                "area": 47,
+                "street": "kronhjortsgatan",
+                "street_number": "4",
+                "city": "göteborg",
+                "zip": "41268",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1629,
+                "$last_seen": "2023-07-04T14:46:43.322Z"
               }
             ]
           },
