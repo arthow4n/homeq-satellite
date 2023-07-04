@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-07-04T13:08:40.865Z",
+  "lastUpdatedAt": "2023-07-04T13:50:06.812Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -41087,6 +41087,20 @@
                 "$districtName": "göteborgs oscar fredrik",
                 "last_accept": 1526,
                 "$last_seen": "2023-06-12T10:47:27.021Z"
+              },
+              {
+                "id": 88057,
+                "rent": 5573,
+                "area": 46,
+                "street": "kryssdäcket",
+                "street_number": "2",
+                "city": "göteborg",
+                "zip": "41327",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs oscar fredrik",
+                "last_accept": 1637,
+                "$last_seen": "2023-07-04T13:08:40.865Z"
               }
             ],
             "övre djupedalsgatan": [
@@ -45731,6 +45745,20 @@
                 "$districtName": "biskopsgården",
                 "last_accept": 780,
                 "$last_seen": "2023-07-04T07:42:00.210Z"
+              },
+              {
+                "id": 88069,
+                "rent": 6059,
+                "area": 35,
+                "street": "långströmsgatan",
+                "street_number": "42c",
+                "city": "göteborg",
+                "zip": "41870",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "biskopsgården",
+                "last_accept": 701,
+                "$last_seen": "2023-07-04T13:08:40.865Z"
               },
               {
                 "id": 88080,
