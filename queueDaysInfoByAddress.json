@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-07-04T06:50:50.316Z",
+  "lastUpdatedAt": "2023-07-04T07:42:00.210Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -41857,6 +41857,20 @@
                 "$districtName": "masthugget",
                 "last_accept": 1481,
                 "$last_seen": "2023-06-15T05:44:49.992Z"
+              },
+              {
+                "id": 87924,
+                "rent": 10106,
+                "area": 55,
+                "street": "amiralitetsgatan",
+                "street_number": "8",
+                "city": "göteborg",
+                "zip": "41462",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "masthugget",
+                "last_accept": 1261,
+                "$last_seen": "2023-07-04T06:50:50.316Z"
               }
             ],
             "kolumbusgatan": [
