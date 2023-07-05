@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-07-05T06:52:22.054Z",
+  "lastUpdatedAt": "2023-07-05T07:42:45.974Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -4575,18 +4575,18 @@
                 "$last_seen": "2023-06-20T06:49:15.341Z"
               },
               {
-                "id": 86529,
-                "rent": 10274,
-                "area": 58,
+                "id": 86518,
+                "rent": 8921,
+                "area": 44,
                 "street": "ebbe lieberathsgatan",
-                "street_number": "22 b",
+                "street_number": "20 a",
                 "city": "göteborg",
                 "zip": "41265",
                 "municipality": "göteborg",
                 "county": "västra götalands län",
                 "$districtName": "johanneberg",
-                "last_accept": 832,
-                "$last_seen": "2023-06-27T11:41:59.985Z"
+                "last_accept": 1471,
+                "$last_seen": "2023-07-05T06:52:22.054Z"
               },
               {
                 "id": 87799,
@@ -18273,6 +18273,20 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1530,
                 "$last_seen": "2023-03-22T08:40:13.136Z"
+              },
+              {
+                "id": 89263,
+                "rent": 8060,
+                "area": 48,
+                "street": "pärlstickaregatan",
+                "street_number": "4c",
+                "city": "göteborg",
+                "zip": "41658",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1490,
+                "$last_seen": "2023-07-05T06:52:22.054Z"
               }
             ],
             "st pauligatan": [
@@ -18569,6 +18583,20 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1629,
                 "$last_seen": "2023-06-26T06:55:02.367Z"
+              },
+              {
+                "id": 89267,
+                "rent": 16031,
+                "area": 125,
+                "street": "st pauligatan",
+                "street_number": "1",
+                "city": "göteborg",
+                "zip": "41660",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1372,
+                "$last_seen": "2023-07-05T06:52:22.054Z"
               }
             ],
             "platågatan": [
@@ -18979,6 +19007,20 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1609,
                 "$last_seen": "2023-06-05T06:47:20.100Z"
+              },
+              {
+                "id": 88167,
+                "rent": 8026,
+                "area": 51,
+                "street": "mäster johansgatan",
+                "street_number": "17",
+                "city": "göteborg",
+                "zip": "41662",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1638,
+                "$last_seen": "2023-07-05T06:52:22.054Z"
               }
             ],
             "sankt pauligatan": [
@@ -43577,6 +43619,20 @@
                 "$districtName": "masthugget",
                 "last_accept": 1325,
                 "$last_seen": "2022-11-21T06:50:31.620Z"
+              },
+              {
+                "id": 87433,
+                "rent": 4320,
+                "area": 39,
+                "street": "ekedalsgatan",
+                "street_number": "45 c",
+                "city": "göteborg",
+                "zip": "41468",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "masthugget",
+                "last_accept": 1513,
+                "$last_seen": "2023-07-05T06:52:22.054Z"
               }
             ],
             "godhemsgatan": [
