@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-07-05T15:45:23.572Z",
+  "lastUpdatedAt": "2023-07-05T16:54:48.825Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -6791,6 +6791,20 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1570,
                 "$last_seen": "2023-04-28T09:40:04.035Z"
+              },
+              {
+                "id": 88619,
+                "rent": 8704,
+                "area": 54,
+                "street": "fridkullagatan",
+                "street_number": "24 b",
+                "city": "göteborg",
+                "zip": "41262",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1638,
+                "$last_seen": "2023-07-05T15:45:23.572Z"
               }
             ],
             "örnehufvudsgatan": [
@@ -26041,6 +26055,20 @@
                 "$districtName": "askim",
                 "last_accept": 1241,
                 "$last_seen": "2023-06-01T10:48:06.340Z"
+              },
+              {
+                "id": 87740,
+                "rent": 7073,
+                "area": 32,
+                "street": "sisjövägen",
+                "street_number": "59",
+                "city": "göteborg",
+                "zip": "43638",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 1037,
+                "$last_seen": "2023-07-05T14:47:47.462Z"
               }
             ],
             "askims pilegårdsväg": [
@@ -55618,6 +55646,24 @@
               }
             ]
           },
+          "skarpnäck": {
+            "tätorpsvägen": [
+              {
+                "id": 88746,
+                "rent": 7267,
+                "area": 51,
+                "street": "tätorpsvägen",
+                "street_number": "17 a",
+                "city": "stockholm",
+                "zip": "12831",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "skarpnäck",
+                "last_accept": 1758,
+                "$last_seen": "2023-07-05T15:45:23.572Z"
+              }
+            ]
+          },
           "skärholmen": {
             "vårbergsvägen": [
               {
@@ -55633,6 +55679,20 @@
                 "$districtName": "skärholmen",
                 "last_accept": 0,
                 "$last_seen": "2023-06-29T11:41:45.120Z"
+              },
+              {
+                "id": 88999,
+                "rent": 8551,
+                "area": 35,
+                "street": "vårbergsvägen",
+                "street_number": "79",
+                "city": "stockholm",
+                "zip": "12743",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "skärholmen",
+                "last_accept": 0,
+                "$last_seen": "2023-07-05T14:47:47.462Z"
               }
             ]
           }
