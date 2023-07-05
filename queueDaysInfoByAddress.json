@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-07-05T11:41:31.733Z",
+  "lastUpdatedAt": "2023-07-05T13:10:47.838Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -15085,6 +15085,20 @@
                 "$districtName": "lundby",
                 "last_accept": 367,
                 "$last_seen": "2023-06-29T06:51:17.197Z"
+              },
+              {
+                "id": 89133,
+                "rent": 8938,
+                "area": 43,
+                "street": "fyrklöversgatan",
+                "street_number": "25",
+                "city": "göteborg",
+                "zip": "41721",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 0,
+                "$last_seen": "2023-07-05T11:41:31.733Z"
               }
             ],
             "arvid lindmansgatan": [
@@ -26805,6 +26819,20 @@
                 "$districtName": "bergsjön",
                 "last_accept": 1149,
                 "$last_seen": "2023-07-04T09:44:07.805Z"
+              },
+              {
+                "id": 86603,
+                "rent": 3658,
+                "area": 33,
+                "street": "galileis gata",
+                "street_number": "5",
+                "city": "göteborg",
+                "zip": "41554",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bergsjön",
+                "last_accept": 1165,
+                "$last_seen": "2023-07-05T11:41:31.733Z"
               }
             ],
             "kosmosgatan": [
@@ -48585,6 +48613,20 @@
                 "$districtName": "kortedala",
                 "last_accept": 550,
                 "$last_seen": "2023-05-09T11:41:20.449Z"
+              },
+              {
+                "id": 89809,
+                "rent": 4934,
+                "area": 25,
+                "street": "januarigatan",
+                "street_number": "18",
+                "city": "göteborg ",
+                "zip": "41546",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "kortedala",
+                "last_accept": 0,
+                "$last_seen": "2023-07-05T11:41:31.733Z"
               }
             ]
           },
@@ -54587,6 +54629,20 @@
                 "$districtName": "vantör",
                 "last_accept": 1591,
                 "$last_seen": "2023-06-29T07:42:28.532Z"
+              },
+              {
+                "id": 88220,
+                "rent": 7436,
+                "area": 62,
+                "street": "olshammarsgatan",
+                "street_number": "44",
+                "city": "bandhagen",
+                "zip": "12475",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 1670,
+                "$last_seen": "2023-07-05T11:41:31.733Z"
               }
             ],
             "glanshammarsgatan": [
@@ -55205,6 +55261,20 @@
                 "$districtName": "vantör",
                 "last_accept": 1642,
                 "$last_seen": "2023-06-30T13:05:53.544Z"
+              },
+              {
+                "id": 88092,
+                "rent": 10247,
+                "area": 72,
+                "street": "porlabacken",
+                "street_number": "18",
+                "city": "bandhagen",
+                "zip": "12477",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 1533,
+                "$last_seen": "2023-07-05T11:41:31.733Z"
               }
             ]
           }
