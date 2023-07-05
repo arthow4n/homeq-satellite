@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-07-05T09:44:50.983Z",
+  "lastUpdatedAt": "2023-07-05T10:51:47.183Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -9833,6 +9833,20 @@
                 "$districtName": "högsbo",
                 "last_accept": 1618,
                 "$last_seen": "2023-06-15T11:44:18.275Z"
+              },
+              {
+                "id": 88103,
+                "rent": 12124,
+                "area": 80,
+                "street": "skäpplandsgatan",
+                "street_number": "4",
+                "city": "göteborg",
+                "zip": "41478",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 1609,
+                "$last_seen": "2023-07-05T09:44:50.983Z"
               }
             ],
             "marklandsgatan": [
@@ -21183,6 +21197,20 @@
                 "$districtName": "björkekärr",
                 "last_accept": 466,
                 "$last_seen": "2023-06-14T13:44:22.332Z"
+              },
+              {
+                "id": 87915,
+                "rent": 6279,
+                "area": 37,
+                "street": "smörslätten",
+                "street_number": "18",
+                "city": "göteborg",
+                "zip": "41677",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "björkekärr",
+                "last_accept": 980,
+                "$last_seen": "2023-07-05T09:44:50.983Z"
               },
               {
                 "id": 87969,
@@ -42109,6 +42137,34 @@
                 "$districtName": "masthugget",
                 "last_accept": 1307,
                 "$last_seen": "2023-06-30T10:47:52.211Z"
+              },
+              {
+                "id": 88912,
+                "rent": 11571,
+                "area": 84,
+                "street": "bangatan",
+                "street_number": "25",
+                "city": "göteborg",
+                "zip": "41463",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "masthugget",
+                "last_accept": 1551,
+                "$last_seen": "2023-07-05T09:44:50.983Z"
+              },
+              {
+                "id": 89590,
+                "rent": 11318,
+                "area": 81,
+                "street": "bangatan",
+                "street_number": "25",
+                "city": "göteborg",
+                "zip": "41463",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "masthugget",
+                "last_accept": 1219,
+                "$last_seen": "2023-07-05T09:44:50.983Z"
               }
             ],
             "amiralitetsgatan": [
