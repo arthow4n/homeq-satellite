@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-07-05T13:10:47.838Z",
+  "lastUpdatedAt": "2023-07-05T13:52:37.348Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -4587,6 +4587,20 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1471,
                 "$last_seen": "2023-07-05T06:52:22.054Z"
+              },
+              {
+                "id": 87446,
+                "rent": 8077,
+                "area": 40,
+                "street": "ebbe lieberathsgatan",
+                "street_number": "2 c",
+                "city": "göteborg",
+                "zip": "41285",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1247,
+                "$last_seen": "2023-07-05T13:10:47.838Z"
               },
               {
                 "id": 87799,
@@ -17801,6 +17815,20 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1401,
                 "$last_seen": "2023-06-01T13:02:30.869Z"
+              },
+              {
+                "id": 89264,
+                "rent": 11125,
+                "area": 79,
+                "street": "redbergsvägen",
+                "street_number": "28",
+                "city": "göteborg",
+                "zip": "41665",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1638,
+                "$last_seen": "2023-07-05T13:10:47.838Z"
               }
             ],
             "kungälvsgatan": [
@@ -18653,6 +18681,20 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1629,
                 "$last_seen": "2023-06-26T06:55:02.367Z"
+              },
+              {
+                "id": 89222,
+                "rent": 5647,
+                "area": 29,
+                "street": "st pauligatan",
+                "street_number": "20",
+                "city": "göteborg",
+                "zip": "41660",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1170,
+                "$last_seen": "2023-07-05T13:10:47.838Z"
               },
               {
                 "id": 89267,
@@ -54363,6 +54405,36 @@
         },
         "bunkeflostrand": {
           "bunkeflo": {
+            "sadelmakarebyn": [
+              {
+                "id": 85319,
+                "rent": 4933,
+                "area": 27,
+                "street": "sadelmakarebyn",
+                "street_number": "8b",
+                "city": "bunkeflostrand",
+                "zip": "21840",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "bunkeflo",
+                "last_accept": 0,
+                "$last_seen": "2023-07-05T11:41:31.733Z"
+              },
+              {
+                "id": 85391,
+                "rent": 10064,
+                "area": 70,
+                "street": "sadelmakarebyn",
+                "street_number": "8d",
+                "city": "bunkeflostrand",
+                "zip": "21840",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "bunkeflo",
+                "last_accept": 0,
+                "$last_seen": "2023-06-27T07:42:50.678Z"
+              }
+            ],
             "vagnmakarebyn": [
               {
                 "id": 85358,
@@ -54377,22 +54449,6 @@
                 "$districtName": "bunkeflo",
                 "last_accept": 0,
                 "$last_seen": "2023-06-27T06:51:47.527Z"
-              }
-            ],
-            "sadelmakarebyn": [
-              {
-                "id": 85391,
-                "rent": 10064,
-                "area": 70,
-                "street": "sadelmakarebyn",
-                "street_number": "8d",
-                "city": "bunkeflostrand",
-                "zip": "21840",
-                "municipality": "malmö",
-                "county": "skåne län",
-                "$districtName": "bunkeflo",
-                "last_accept": 0,
-                "$last_seen": "2023-06-27T07:42:50.678Z"
               }
             ]
           }
