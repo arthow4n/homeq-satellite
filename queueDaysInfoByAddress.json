@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-07-06T09:43:59.280Z",
+  "lastUpdatedAt": "2023-07-06T10:51:22.349Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -857,6 +857,20 @@
                 "$districtName": "fässberg",
                 "last_accept": 1338,
                 "$last_seen": "2023-06-22T08:47:28.608Z"
+              },
+              {
+                "id": 87955,
+                "rent": 6039,
+                "area": 36,
+                "street": "gustavsbergsgatan",
+                "street_number": "4",
+                "city": "mölndal",
+                "zip": "43137",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 1449,
+                "$last_seen": "2023-07-06T09:43:59.280Z"
               }
             ],
             "fredåsgatan": [
@@ -28477,6 +28491,20 @@
                 "$districtName": "bergsjön",
                 "last_accept": 1062,
                 "$last_seen": "2023-06-08T11:42:32.020Z"
+              },
+              {
+                "id": 88143,
+                "rent": 10915,
+                "area": 99,
+                "street": "zenitgatan",
+                "street_number": "18",
+                "city": "göteborg",
+                "zip": "41562",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bergsjön",
+                "last_accept": 733,
+                "$last_seen": "2023-07-06T09:43:59.280Z"
               }
             ],
             "galileisgata": [
