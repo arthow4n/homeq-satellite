@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-07-06T06:52:54.733Z",
+  "lastUpdatedAt": "2023-07-06T07:42:13.053Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -18779,6 +18779,20 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1372,
                 "$last_seen": "2023-07-05T06:52:22.054Z"
+              },
+              {
+                "id": 89389,
+                "rent": 13916,
+                "area": 100,
+                "street": "st pauligatan",
+                "street_number": "8",
+                "city": "göteborg",
+                "zip": "41660",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1598,
+                "$last_seen": "2023-07-06T06:52:54.733Z"
               }
             ],
             "platågatan": [
@@ -36037,6 +36051,20 @@
                 "$districtName": "örgryte",
                 "last_accept": 1097,
                 "$last_seen": "2023-06-27T09:43:47.726Z"
+              },
+              {
+                "id": 89676,
+                "rent": 13125,
+                "area": 73,
+                "street": "separatorsgatan",
+                "street_number": "10",
+                "city": "göteborg",
+                "zip": "41278",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 373,
+                "$last_seen": "2023-07-06T06:52:54.733Z"
               }
             ],
             "påskbergsgatan": [
@@ -46295,6 +46323,20 @@
                 "$last_seen": "2023-07-05T10:51:47.183Z"
               },
               {
+                "id": 88752,
+                "rent": 13323,
+                "area": 109,
+                "street": "långströmsgatan",
+                "street_number": "42a",
+                "city": "göteborg",
+                "zip": "41870",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "biskopsgården",
+                "last_accept": 297,
+                "$last_seen": "2023-07-06T06:52:54.733Z"
+              },
+              {
                 "id": 88753,
                 "rent": 8973,
                 "area": 63,
@@ -52787,6 +52829,20 @@
                 "$districtName": "malmö sankt pauli",
                 "last_accept": 3,
                 "$last_seen": "2023-06-09T11:42:32.328Z"
+              },
+              {
+                "id": 88750,
+                "rent": 8032,
+                "area": 37.8,
+                "street": "garagegatan",
+                "street_number": "14c",
+                "city": "malmö",
+                "zip": "21251",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "malmö sankt pauli",
+                "last_accept": 7,
+                "$last_seen": "2023-07-06T06:52:54.733Z"
               }
             ]
           },
@@ -55855,6 +55911,20 @@
                 "$districtName": "skärholmen",
                 "last_accept": 1432,
                 "$last_seen": "2023-05-12T04:45:13.168Z"
+              },
+              {
+                "id": 84096,
+                "rent": 9026,
+                "area": 65,
+                "street": "bredängsvägen",
+                "street_number": "228",
+                "city": "stockholm ",
+                "zip": "12732",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "skärholmen",
+                "last_accept": 1703,
+                "$last_seen": "2023-07-06T06:52:54.733Z"
               },
               {
                 "id": 84299,
