@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-07-06T08:50:35.868Z",
+  "lastUpdatedAt": "2023-07-06T09:43:59.280Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -46253,6 +46253,20 @@
                 "$last_seen": "2023-06-27T07:42:50.678Z"
               },
               {
+                "id": 88041,
+                "rent": 8973,
+                "area": 63,
+                "street": "långströmsgatan",
+                "street_number": "42a",
+                "city": "göteborg",
+                "zip": "41870",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "biskopsgården",
+                "last_accept": 883,
+                "$last_seen": "2023-07-06T08:50:35.868Z"
+              },
+              {
                 "id": 88047,
                 "rent": 6527,
                 "area": 41,
@@ -46293,6 +46307,20 @@
                 "$districtName": "biskopsgården",
                 "last_accept": 701,
                 "$last_seen": "2023-07-04T13:08:40.865Z"
+              },
+              {
+                "id": 88076,
+                "rent": 8973,
+                "area": 63,
+                "street": "långströmsgatan",
+                "street_number": "42a",
+                "city": "göteborg",
+                "zip": "41870",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "biskopsgården",
+                "last_accept": 883,
+                "$last_seen": "2023-07-06T08:50:35.868Z"
               },
               {
                 "id": 88080,
@@ -53149,6 +53177,20 @@
                 "$districtName": "hyllie",
                 "last_accept": 0,
                 "$last_seen": "2023-06-19T05:46:22.854Z"
+              },
+              {
+                "id": 88294,
+                "rent": 9992,
+                "area": 55,
+                "street": "bures gata",
+                "street_number": "1 c",
+                "city": "malmö",
+                "zip": "21533",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "hyllie",
+                "last_accept": 0,
+                "$last_seen": "2023-07-06T08:50:35.868Z"
               }
             ],
             "sagas gränd": [
@@ -55155,6 +55197,20 @@
                 "$districtName": "vantör",
                 "last_accept": 1239,
                 "$last_seen": "2023-06-07T06:46:59.898Z"
+              },
+              {
+                "id": 87945,
+                "rent": 10321,
+                "area": 84,
+                "street": "harpsundsvägen",
+                "street_number": "52",
+                "city": "bandhagen",
+                "zip": "12458",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 1294,
+                "$last_seen": "2023-07-06T08:50:35.868Z"
               }
             ],
             "kilsmogatan": [
@@ -55583,6 +55639,22 @@
                 "$districtName": "vantör",
                 "last_accept": 1533,
                 "$last_seen": "2023-07-05T11:41:31.733Z"
+              }
+            ],
+            "trollesundsvägen": [
+              {
+                "id": 89052,
+                "rent": 7789,
+                "area": 57,
+                "street": "trollesundsvägen",
+                "street_number": "72",
+                "city": "bandhagen",
+                "zip": "12457",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 1762,
+                "$last_seen": "2023-07-06T08:50:35.868Z"
               }
             ]
           }
