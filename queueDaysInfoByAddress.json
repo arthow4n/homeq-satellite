@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-07-07T10:48:02.477Z",
+  "lastUpdatedAt": "2023-07-07T11:40:24.690Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -6573,6 +6573,20 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1621,
                 "$last_seen": "2023-06-19T08:48:36.933Z"
+              },
+              {
+                "id": 88255,
+                "rent": 15760,
+                "area": 140,
+                "street": "pontus wiknersgatan",
+                "street_number": "6",
+                "city": "göteborg",
+                "zip": "41132",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1641,
+                "$last_seen": "2023-07-07T10:48:02.477Z"
               }
             ],
             "sylvestergatan": [
@@ -20581,6 +20595,20 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1572,
                 "$last_seen": "2023-06-02T07:41:58.450Z"
+              },
+              {
+                "id": 89605,
+                "rent": 11191,
+                "area": 78,
+                "street": "räntmästaregatan",
+                "street_number": "5a",
+                "city": "göteborg",
+                "zip": "41658",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1641,
+                "$last_seen": "2023-07-07T10:48:02.477Z"
               }
             ],
             "svangatan": [
@@ -55121,6 +55149,20 @@
                 "$districtName": "vantör",
                 "last_accept": 1846,
                 "$last_seen": "2023-06-29T09:43:45.219Z"
+              },
+              {
+                "id": 85505,
+                "rent": 8972,
+                "area": 76,
+                "street": "olshammarsgatan",
+                "street_number": "57",
+                "city": "bandhagen",
+                "zip": "12475",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 1295,
+                "$last_seen": "2023-07-07T10:48:02.477Z"
               },
               {
                 "id": 87712,
