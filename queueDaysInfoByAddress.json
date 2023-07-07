@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-07-07T05:45:03.536Z",
+  "lastUpdatedAt": "2023-07-07T06:49:10.878Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -34411,6 +34411,20 @@
                 "$last_seen": "2023-07-05T08:50:44.628Z"
               },
               {
+                "id": 88745,
+                "rent": 13109,
+                "area": 77,
+                "street": "smörkärnegatan",
+                "street_number": "25",
+                "city": "göteborg",
+                "zip": "41278",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1149,
+                "$last_seen": "2023-07-07T05:45:03.536Z"
+              },
+              {
                 "id": 88779,
                 "rent": 9880,
                 "area": 49,
@@ -51873,6 +51887,20 @@
                 "$districtName": "malmö sankt petri",
                 "last_accept": 15,
                 "$last_seen": "2023-06-22T09:44:24.054Z"
+              },
+              {
+                "id": 89634,
+                "rent": 6679,
+                "area": 30,
+                "street": "kalendegatan",
+                "street_number": "16",
+                "city": "malmö",
+                "zip": "21135",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "malmö sankt petri",
+                "last_accept": 0,
+                "$last_seen": "2023-07-07T05:45:03.536Z"
               }
             ],
             "dagvattengatan": [
