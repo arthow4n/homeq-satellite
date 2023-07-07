@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-07-07T07:40:21.788Z",
+  "lastUpdatedAt": "2023-07-07T08:47:51.454Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -56012,26 +56012,22 @@
               }
             ]
           },
-          "skarpnäck": {
-            "tätorpsvägen": [
-              {
-                "id": 88746,
-                "rent": 7267,
-                "area": 51,
-                "street": "tätorpsvägen",
-                "street_number": "17 a",
-                "city": "stockholm",
-                "zip": "12831",
-                "municipality": "stockholm",
-                "county": "stockholms län",
-                "$districtName": "skarpnäck",
-                "last_accept": 1758,
-                "$last_seen": "2023-07-05T15:45:23.572Z"
-              }
-            ]
-          },
           "skärholmen": {
             "vårbergsvägen": [
+              {
+                "id": 87748,
+                "rent": 8225,
+                "area": 35,
+                "street": "vårbergsvägen",
+                "street_number": "77",
+                "city": "stockholm",
+                "zip": "12743",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "skärholmen",
+                "last_accept": 930,
+                "$last_seen": "2023-07-07T07:40:21.788Z"
+              },
               {
                 "id": 88989,
                 "rent": 7019,
@@ -56059,6 +56055,24 @@
                 "$districtName": "skärholmen",
                 "last_accept": 0,
                 "$last_seen": "2023-07-05T14:47:47.462Z"
+              }
+            ]
+          },
+          "skarpnäck": {
+            "tätorpsvägen": [
+              {
+                "id": 88746,
+                "rent": 7267,
+                "area": 51,
+                "street": "tätorpsvägen",
+                "street_number": "17 a",
+                "city": "stockholm",
+                "zip": "12831",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "skarpnäck",
+                "last_accept": 1758,
+                "$last_seen": "2023-07-05T15:45:23.572Z"
               }
             ]
           }
