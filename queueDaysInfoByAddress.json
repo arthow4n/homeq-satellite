@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-07-07T14:45:14.275Z",
+  "lastUpdatedAt": "2023-07-07T15:43:13.722Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -29815,6 +29815,20 @@
                 "$districtName": "nylöse",
                 "last_accept": 1302,
                 "$last_seen": "2023-05-30T08:43:58.053Z"
+              },
+              {
+                "id": 88856,
+                "rent": 11752,
+                "area": 123,
+                "street": "skaragatan",
+                "street_number": "10a",
+                "city": "göteborg",
+                "zip": "41516",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "nylöse",
+                "last_accept": 1613,
+                "$last_seen": "2023-07-07T14:45:14.275Z"
               }
             ],
             "lars kaggsgatan": [
