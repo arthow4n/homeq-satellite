@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-07-07T09:42:05.027Z",
+  "lastUpdatedAt": "2023-07-07T10:48:02.477Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -24713,6 +24713,20 @@
                 "$districtName": "askim",
                 "last_accept": 1247,
                 "$last_seen": "2023-06-27T06:51:47.527Z"
+              },
+              {
+                "id": 88861,
+                "rent": 9588,
+                "area": 64,
+                "street": "pilegården",
+                "street_number": "5b",
+                "city": "göteborg",
+                "zip": "43635",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 636,
+                "$last_seen": "2023-07-07T09:42:05.027Z"
               }
             ],
             "nergårdsvägen": [
@@ -54869,6 +54883,22 @@
                 "$districtName": "bunkeflo",
                 "last_accept": 0,
                 "$last_seen": "2023-06-27T06:51:47.527Z"
+              }
+            ],
+            "smedmästarebyn": [
+              {
+                "id": 85756,
+                "rent": 9101,
+                "area": 60.9,
+                "street": "smedmästarebyn",
+                "street_number": "1a",
+                "city": "bunkeflostrand",
+                "zip": "21841",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "bunkeflo",
+                "last_accept": 0,
+                "$last_seen": "2023-07-07T08:47:51.454Z"
               }
             ]
           }
