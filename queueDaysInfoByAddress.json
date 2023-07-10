@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-07-10T06:49:53.817Z",
+  "lastUpdatedAt": "2023-07-10T07:40:41.042Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -8149,6 +8149,20 @@
                 "$districtName": "högsbo",
                 "last_accept": 701,
                 "$last_seen": "2023-07-04T06:50:50.316Z"
+              },
+              {
+                "id": 87902,
+                "rent": 8154,
+                "area": 41,
+                "street": "nymilsgatan",
+                "street_number": "35",
+                "city": "göteborg",
+                "zip": "42170",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 1113,
+                "$last_seen": "2023-07-10T06:49:53.817Z"
               }
             ],
             "pennygången": [
@@ -13991,6 +14005,20 @@
                 "$districtName": "lundby",
                 "last_accept": 1085,
                 "$last_seen": "2023-06-26T11:42:42.242Z"
+              },
+              {
+                "id": 89340,
+                "rent": 7499,
+                "area": 63,
+                "street": "hällskriftsgatan",
+                "street_number": "10b",
+                "city": "göteborg",
+                "zip": "41741",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1643,
+                "$last_seen": "2023-07-10T06:49:53.817Z"
               }
             ],
             "fyrklöversgatan": [
@@ -48121,6 +48149,20 @@
                 "$districtName": "göteborgs karl johan",
                 "last_accept": 1194,
                 "$last_seen": "2023-06-15T13:05:20.841Z"
+              },
+              {
+                "id": 88914,
+                "rent": 13606,
+                "area": 81,
+                "street": "stortoppsgatan",
+                "street_number": "12",
+                "city": "göteborg",
+                "zip": "41457",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs karl johan",
+                "last_accept": 1376,
+                "$last_seen": "2023-07-10T06:49:53.817Z"
               }
             ],
             "asperögatan": [
@@ -56125,6 +56167,20 @@
                 "$districtName": "hässelby",
                 "last_accept": 1095,
                 "$last_seen": "2023-07-05T13:52:37.348Z"
+              },
+              {
+                "id": 88494,
+                "rent": 5794,
+                "area": 32.6,
+                "street": "persikogatan",
+                "street_number": "6",
+                "city": "stockholm",
+                "zip": "16563",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "hässelby",
+                "last_accept": 1064,
+                "$last_seen": "2023-07-10T06:49:53.817Z"
               }
             ]
           },
