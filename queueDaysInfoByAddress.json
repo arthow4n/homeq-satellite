@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-07-10T17:44:13.582Z",
+  "lastUpdatedAt": "2023-07-10T18:47:35.216Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -201,6 +201,20 @@
                 "$districtName": "fässberg",
                 "last_accept": 1234,
                 "$last_seen": "2023-06-19T13:46:21.279Z"
+              },
+              {
+                "id": 89075,
+                "rent": 8852,
+                "area": 54.4,
+                "street": "toltorpsgatan",
+                "street_number": "131",
+                "city": "mölndal",
+                "zip": "43141",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 1528,
+                "$last_seen": "2023-07-10T17:44:13.582Z"
               },
               {
                 "id": 89363,
