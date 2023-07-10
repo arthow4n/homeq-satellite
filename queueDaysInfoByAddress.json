@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-07-10T09:43:03.838Z",
+  "lastUpdatedAt": "2023-07-10T10:49:09.117Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -6083,6 +6083,20 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1685,
                 "$last_seen": "2023-06-19T06:49:18.018Z"
+              },
+              {
+                "id": 89448,
+                "rent": 8647,
+                "area": 72,
+                "street": "södra viktoriagatan",
+                "street_number": "37",
+                "city": "göteborg",
+                "zip": "41130",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1715,
+                "$last_seen": "2023-07-10T09:43:03.838Z"
               }
             ],
             "framnäsgatan": [
@@ -36091,6 +36105,20 @@
                 "$districtName": "örgryte",
                 "last_accept": 981,
                 "$last_seen": "2023-07-05T07:42:45.974Z"
+              },
+              {
+                "id": 89684,
+                "rent": 9376,
+                "area": 47,
+                "street": "skummjölksgatan",
+                "street_number": "10",
+                "city": "göteborg",
+                "zip": "41278",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 999,
+                "$last_seen": "2023-07-10T09:43:03.838Z"
               }
             ],
             "separatorsgatan": [
@@ -56333,6 +56361,22 @@
                 "$districtName": "vällingby",
                 "last_accept": 1484,
                 "$last_seen": "2023-06-16T06:48:10.356Z"
+              }
+            ],
+            "lyckselevägen": [
+              {
+                "id": 89046,
+                "rent": 6260,
+                "area": 57,
+                "street": "lyckselevägen",
+                "street_number": "124",
+                "city": "stockholm",
+                "zip": "16267",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vällingby",
+                "last_accept": 1558,
+                "$last_seen": "2023-07-10T09:43:03.838Z"
               }
             ]
           },
