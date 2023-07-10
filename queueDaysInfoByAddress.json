@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-07-10T10:49:09.117Z",
+  "lastUpdatedAt": "2023-07-10T11:39:59.125Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -13071,6 +13071,20 @@
                 "$districtName": "brämaregården",
                 "last_accept": 1617,
                 "$last_seen": "2023-06-26T08:55:58.557Z"
+              },
+              {
+                "id": 89129,
+                "rent": 7375,
+                "area": 51,
+                "street": "nansensgatan",
+                "street_number": "8b",
+                "city": "göteborg",
+                "zip": "41719",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brämaregården",
+                "last_accept": 1460,
+                "$last_seen": "2023-07-10T10:49:09.117Z"
               }
             ]
           },
@@ -28759,6 +28773,20 @@
                 "$districtName": "bergsjön",
                 "last_accept": 878,
                 "$last_seen": "2022-10-17T07:22:12.569Z"
+              },
+              {
+                "id": 89044,
+                "rent": 3450,
+                "area": 34,
+                "street": "galileisgata",
+                "street_number": "17",
+                "city": "göteborg",
+                "zip": "41554",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bergsjön",
+                "last_accept": 912,
+                "$last_seen": "2023-07-10T10:49:09.117Z"
               }
             ],
             "universumsgatan": [
@@ -36119,6 +36147,20 @@
                 "$districtName": "örgryte",
                 "last_accept": 999,
                 "$last_seen": "2023-07-10T09:43:03.838Z"
+              },
+              {
+                "id": 89782,
+                "rent": 7875,
+                "area": 35,
+                "street": "skummjölksgatan",
+                "street_number": "8",
+                "city": "göteborg",
+                "zip": "41278",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1091,
+                "$last_seen": "2023-07-10T10:49:09.117Z"
               }
             ],
             "separatorsgatan": [
