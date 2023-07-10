@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-07-10T05:44:52.501Z",
+  "lastUpdatedAt": "2023-07-10T06:49:53.817Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -8079,6 +8079,20 @@
                 "$districtName": "högsbo",
                 "last_accept": 811,
                 "$last_seen": "2023-06-12T05:44:44.651Z"
+              },
+              {
+                "id": 83801,
+                "rent": 8454,
+                "area": 42,
+                "street": "nymilsgatan",
+                "street_number": "39",
+                "city": "göteborg",
+                "zip": "42170",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 0,
+                "$last_seen": "2023-07-10T05:44:52.501Z"
               },
               {
                 "id": 84376,
@@ -52267,6 +52281,20 @@
                 "$districtName": "limhamn",
                 "last_accept": 51,
                 "$last_seen": "2023-06-28T08:49:59.118Z"
+              },
+              {
+                "id": 88849,
+                "rent": 12388,
+                "area": 79.6,
+                "street": "nätsnäcksgränd",
+                "street_number": "11",
+                "city": "malmö",
+                "zip": "21631",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "limhamn",
+                "last_accept": 0,
+                "$last_seen": "2023-07-10T05:44:52.501Z"
               }
             ]
           },
@@ -56375,6 +56403,20 @@
                 "$districtName": "skärholmen",
                 "last_accept": 402,
                 "$last_seen": "2023-06-16T09:44:07.870Z"
+              },
+              {
+                "id": 88980,
+                "rent": 4292,
+                "area": 22,
+                "street": "ålgrytevägen",
+                "street_number": "123",
+                "city": "stockholm ",
+                "zip": "12731",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "skärholmen",
+                "last_accept": 350,
+                "$last_seen": "2023-07-10T05:44:52.501Z"
               }
             ],
             "bredängsvägen": [
