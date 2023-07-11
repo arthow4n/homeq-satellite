@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-07-11T07:39:55.383Z",
+  "lastUpdatedAt": "2023-07-11T08:48:07.746Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -25389,6 +25389,20 @@
                 "$districtName": "askim",
                 "last_accept": 1046,
                 "$last_seen": "2023-04-06T10:42:43.415Z"
+              },
+              {
+                "id": 87682,
+                "rent": 8994,
+                "area": 66,
+                "street": "hyltegården",
+                "street_number": "23",
+                "city": "göteborg",
+                "zip": "43634",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 1259,
+                "$last_seen": "2023-07-11T07:39:55.383Z"
               }
             ],
             "kobbeslätten": [
@@ -56727,20 +56741,6 @@
                 "$districtName": "skärholmen",
                 "last_accept": 402,
                 "$last_seen": "2023-06-16T09:44:07.870Z"
-              },
-              {
-                "id": 88980,
-                "rent": 4292,
-                "area": 22,
-                "street": "ålgrytevägen",
-                "street_number": "123",
-                "city": "stockholm ",
-                "zip": "12731",
-                "municipality": "stockholm",
-                "county": "stockholms län",
-                "$districtName": "skärholmen",
-                "last_accept": 350,
-                "$last_seen": "2023-07-10T05:44:52.501Z"
               }
             ],
             "bredängsvägen": [
