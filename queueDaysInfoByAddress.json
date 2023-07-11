@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-07-11T10:48:08.526Z",
+  "lastUpdatedAt": "2023-07-11T11:40:22.377Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -21689,6 +21689,20 @@
                 "$last_seen": "2023-06-21T09:44:52.056Z"
               },
               {
+                "id": 88287,
+                "rent": 5704,
+                "area": 30,
+                "street": "smörslätten",
+                "street_number": "12",
+                "city": "göteborg",
+                "zip": "41677",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "björkekärr",
+                "last_accept": 1050,
+                "$last_seen": "2023-07-11T10:48:08.526Z"
+              },
+              {
                 "id": 89538,
                 "rent": 7977,
                 "area": 61,
@@ -28855,6 +28869,20 @@
                 "$districtName": "bergsjön",
                 "last_accept": 733,
                 "$last_seen": "2023-07-06T09:43:59.280Z"
+              },
+              {
+                "id": 89032,
+                "rent": 10347,
+                "area": 90,
+                "street": "zenitgatan",
+                "street_number": "2",
+                "city": "göteborg",
+                "zip": "41562",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bergsjön",
+                "last_accept": 146,
+                "$last_seen": "2023-07-11T10:48:08.526Z"
               }
             ],
             "galileisgata": [
