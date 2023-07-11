@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-07-11T06:52:14.615Z",
+  "lastUpdatedAt": "2023-07-11T07:39:55.383Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -2699,6 +2699,20 @@
                 "$districtName": "fässberg",
                 "last_accept": 1180,
                 "$last_seen": "2023-06-26T06:55:02.367Z"
+              },
+              {
+                "id": 88327,
+                "rent": 7282,
+                "area": 34,
+                "street": "åbyvägen",
+                "street_number": "4 c",
+                "city": "göteborg",
+                "zip": "43162",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 902,
+                "$last_seen": "2023-07-11T06:52:14.615Z"
               }
             ],
             "krokslätts parkgata": [
@@ -50957,6 +50971,20 @@
                 "$districtName": "västra frölunda",
                 "last_accept": 381,
                 "$last_seen": "2023-06-26T10:51:56.925Z"
+              },
+              {
+                "id": 89705,
+                "rent": 9566,
+                "area": 77,
+                "street": "speldosegatan",
+                "street_number": "2",
+                "city": "västra frölunda",
+                "zip": "42151",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "västra frölunda",
+                "last_accept": 1332,
+                "$last_seen": "2023-07-11T06:52:14.615Z"
               }
             ],
             "tamburingatan": [
