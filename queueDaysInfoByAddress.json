@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-07-11T11:40:22.377Z",
+  "lastUpdatedAt": "2023-07-11T13:06:34.472Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -3411,6 +3411,20 @@
                 "$districtName": "kållered",
                 "last_accept": 1105,
                 "$last_seen": "2023-07-03T10:48:56.709Z"
+              },
+              {
+                "id": 89007,
+                "rent": 8753,
+                "area": 76,
+                "street": "våmmedalsvägen",
+                "street_number": "36",
+                "city": "kållered",
+                "zip": "42831",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "kållered",
+                "last_accept": 1180,
+                "$last_seen": "2023-07-11T11:40:22.377Z"
               },
               {
                 "id": 89016,
@@ -26701,6 +26715,20 @@
                 "$districtName": "askim",
                 "last_accept": 270,
                 "$last_seen": "2023-06-02T08:44:32.482Z"
+              },
+              {
+                "id": 87739,
+                "rent": 10196,
+                "area": 51,
+                "street": "askims pilegårdsväg",
+                "street_number": "46",
+                "city": "göteborg",
+                "zip": "43635",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 60,
+                "$last_seen": "2023-07-11T11:40:22.377Z"
               }
             ]
           },
@@ -33391,6 +33419,22 @@
                 "$districtName": "göteborgs domkyrkodistrikt",
                 "last_accept": 0,
                 "$last_seen": "2023-06-21T11:45:54.903Z"
+              }
+            ],
+            "galileisgata": [
+              {
+                "id": 88783,
+                "rent": 8600,
+                "area": 80,
+                "street": "galileisgata",
+                "street_number": "13",
+                "city": "göteborg",
+                "zip": "41554",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs domkyrkodistrikt",
+                "last_accept": 1604,
+                "$last_seen": "2023-07-11T11:40:22.377Z"
               }
             ]
           },
