@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-07-12T08:47:29.022Z",
+  "lastUpdatedAt": "2023-07-12T09:41:45.639Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -2403,6 +2403,20 @@
                 "$districtName": "fässberg",
                 "last_accept": 1561,
                 "$last_seen": "2023-06-21T06:49:31.971Z"
+              },
+              {
+                "id": 88026,
+                "rent": 9262,
+                "area": 46,
+                "street": "åby allé",
+                "street_number": "61",
+                "city": "göteborg",
+                "zip": "43145",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 1009,
+                "$last_seen": "2023-07-12T08:47:29.022Z"
               },
               {
                 "id": 88266,
@@ -55277,6 +55291,20 @@
                 "$districtName": "limhamn",
                 "last_accept": 0,
                 "$last_seen": "2023-06-28T13:10:04.269Z"
+              },
+              {
+                "id": 89394,
+                "rent": 12413,
+                "area": 74,
+                "street": "högatan",
+                "street_number": "14",
+                "city": "limhamn",
+                "zip": "21633",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "limhamn",
+                "last_accept": 0,
+                "$last_seen": "2023-07-12T08:47:29.022Z"
               },
               {
                 "id": 89396,
