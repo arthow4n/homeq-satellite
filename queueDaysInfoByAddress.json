@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-07-12T13:47:57.043Z",
+  "lastUpdatedAt": "2023-07-12T14:44:28.967Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -6105,6 +6105,20 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1478,
                 "$last_seen": "2023-05-30T11:40:09.119Z"
+              },
+              {
+                "id": 89501,
+                "rent": 9889,
+                "area": 62,
+                "street": "mölndalsvägen",
+                "street_number": "11 a",
+                "city": "göteborg",
+                "zip": "41263",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1554,
+                "$last_seen": "2023-07-12T13:47:57.043Z"
               }
             ],
             "milpålegatan": [
