@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-07-12T11:39:39.608Z",
+  "lastUpdatedAt": "2023-07-12T13:07:06.572Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -2403,6 +2403,20 @@
                 "$districtName": "fässberg",
                 "last_accept": 1561,
                 "$last_seen": "2023-06-21T06:49:31.971Z"
+              },
+              {
+                "id": 87797,
+                "rent": 9449,
+                "area": 55,
+                "street": "åby allé",
+                "street_number": "57",
+                "city": "göteborg",
+                "zip": "43145",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 1276,
+                "$last_seen": "2023-07-12T11:39:39.608Z"
               },
               {
                 "id": 88026,
@@ -27533,6 +27547,20 @@
                 "$districtName": "bergsjön",
                 "last_accept": 1165,
                 "$last_seen": "2023-07-05T11:41:31.733Z"
+              },
+              {
+                "id": 89096,
+                "rent": 3503,
+                "area": 33,
+                "street": "galileis gata",
+                "street_number": "5",
+                "city": "göteborg",
+                "zip": "41554",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bergsjön",
+                "last_accept": 773,
+                "$last_seen": "2023-07-12T11:39:39.608Z"
               }
             ],
             "kosmosgatan": [
@@ -28207,6 +28235,20 @@
                 "$districtName": "bergsjön",
                 "last_accept": 636,
                 "$last_seen": "2023-05-29T14:41:28.345Z"
+              },
+              {
+                "id": 88256,
+                "rent": 7544,
+                "area": 56,
+                "street": "kosmosgatan",
+                "street_number": "10",
+                "city": "göteborg",
+                "zip": "41562",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bergsjön",
+                "last_accept": 710,
+                "$last_seen": "2023-07-12T11:39:39.608Z"
               }
             ],
             "atmosfärgatan": [
@@ -56399,6 +56441,20 @@
                 "$districtName": "vantör",
                 "last_accept": 1577,
                 "$last_seen": "2023-06-16T07:44:12.704Z"
+              },
+              {
+                "id": 88866,
+                "rent": 8083,
+                "area": 58,
+                "street": "askersundsgatan",
+                "street_number": "14",
+                "city": "bandhagen",
+                "zip": "12467",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 1709,
+                "$last_seen": "2023-07-12T11:39:39.608Z"
               }
             ],
             "hagsätra torg": [
@@ -56503,6 +56559,20 @@
                 "$districtName": "vantör",
                 "last_accept": 818,
                 "$last_seen": "2023-06-15T11:44:18.275Z"
+              },
+              {
+                "id": 89015,
+                "rent": 11053,
+                "area": 93,
+                "street": "bäverdammsgränd",
+                "street_number": "105",
+                "city": "bandhagen",
+                "zip": "12463",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 1153,
+                "$last_seen": "2023-07-12T11:39:39.608Z"
               }
             ],
             "skebokvarnsvägen": [
@@ -56903,20 +56973,6 @@
                 "$districtName": "skärholmen",
                 "last_accept": 930,
                 "$last_seen": "2023-07-07T07:40:21.788Z"
-              },
-              {
-                "id": 87877,
-                "rent": 8225,
-                "area": 35,
-                "street": "vårbergsvägen",
-                "street_number": "77",
-                "city": "stockholm",
-                "zip": "12744",
-                "municipality": "stockholm",
-                "county": "stockholms län",
-                "$districtName": "skärholmen",
-                "last_accept": 821,
-                "$last_seen": "2023-07-12T09:41:45.639Z"
               },
               {
                 "id": 88989,
