@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-07-12T13:07:06.572Z",
+  "lastUpdatedAt": "2023-07-12T13:47:57.043Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -2445,6 +2445,20 @@
                 "$districtName": "fässberg",
                 "last_accept": 1324,
                 "$last_seen": "2023-07-10T07:40:41.042Z"
+              },
+              {
+                "id": 89467,
+                "rent": 8420,
+                "area": 40,
+                "street": "åby allé",
+                "street_number": "53",
+                "city": "göteborg",
+                "zip": "43145",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 583,
+                "$last_seen": "2023-07-12T13:07:06.572Z"
               }
             ],
             "åbyvägen": [
@@ -9845,6 +9859,20 @@
                 "$districtName": "högsbo",
                 "last_accept": 1170,
                 "$last_seen": "2023-07-05T07:42:45.974Z"
+              },
+              {
+                "id": 89582,
+                "rent": 8418,
+                "area": 62,
+                "street": "pennygången",
+                "street_number": "44",
+                "city": "göteborg",
+                "zip": "41482",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 994,
+                "$last_seen": "2023-07-12T13:07:06.572Z"
               }
             ],
             "skäpplandsgatan": [
@@ -29051,6 +29079,20 @@
                 "$districtName": "bergsjön",
                 "last_accept": 733,
                 "$last_seen": "2023-07-06T09:43:59.280Z"
+              },
+              {
+                "id": 88166,
+                "rent": 6429,
+                "area": 46,
+                "street": "zenitgatan",
+                "street_number": "2",
+                "city": "göteborg",
+                "zip": "41562",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bergsjön",
+                "last_accept": 1275,
+                "$last_seen": "2023-07-12T13:07:06.572Z"
               },
               {
                 "id": 89032,
@@ -51443,6 +51485,20 @@
                 "$districtName": "högsbo",
                 "last_accept": 1237,
                 "$last_seen": "2023-06-22T11:44:02.177Z"
+              },
+              {
+                "id": 89920,
+                "rent": 7900,
+                "area": 67,
+                "street": "svängrumsgatan",
+                "street_number": "55",
+                "city": "västra frölunda",
+                "zip": "42171",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 1283,
+                "$last_seen": "2023-07-12T13:07:06.572Z"
               }
             ]
           }
