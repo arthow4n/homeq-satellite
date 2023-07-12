@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-07-12T07:39:52.207Z",
+  "lastUpdatedAt": "2023-07-12T08:47:29.022Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -2727,6 +2727,20 @@
                 "$districtName": "fässberg",
                 "last_accept": 902,
                 "$last_seen": "2023-07-11T06:52:14.615Z"
+              },
+              {
+                "id": 88641,
+                "rent": 9515,
+                "area": 55,
+                "street": "åbyvägen",
+                "street_number": "4c",
+                "city": "göteborg",
+                "zip": "43162",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 664,
+                "$last_seen": "2023-07-12T07:39:52.207Z"
               }
             ],
             "krokslätts parkgata": [
@@ -4685,6 +4699,20 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1471,
                 "$last_seen": "2023-07-05T06:52:22.054Z"
+              },
+              {
+                "id": 86529,
+                "rent": 10274,
+                "area": 58,
+                "street": "ebbe lieberathsgatan",
+                "street_number": "22 b",
+                "city": "göteborg",
+                "zip": "41265",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 986,
+                "$last_seen": "2023-07-12T07:39:52.207Z"
               },
               {
                 "id": 87446,
