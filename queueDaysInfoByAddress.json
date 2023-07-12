@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-07-12T06:48:01.850Z",
+  "lastUpdatedAt": "2023-07-12T07:39:52.207Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -4727,6 +4727,20 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1303,
                 "$last_seen": "2023-07-05T10:51:47.183Z"
+              },
+              {
+                "id": 89770,
+                "rent": 6766,
+                "area": 30,
+                "street": "ebbe lieberathsgatan",
+                "street_number": "20 f",
+                "city": "göteborg",
+                "zip": "41265",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1323,
+                "$last_seen": "2023-07-12T06:48:01.850Z"
               }
             ],
             "nordgårdsgatan": [
@@ -23131,6 +23145,20 @@
                 "$districtName": "kortedala",
                 "last_accept": 1322,
                 "$last_seen": "2023-06-26T08:55:58.557Z"
+              },
+              {
+                "id": 88334,
+                "rent": 9031,
+                "area": 72,
+                "street": "solvarvsgatan",
+                "street_number": "28",
+                "city": "göteborg",
+                "zip": "41531",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "kortedala",
+                "last_accept": 1343,
+                "$last_seen": "2023-07-12T06:48:01.850Z"
               }
             ],
             "solståndsgatan": [
@@ -51425,6 +51453,20 @@
                 "$districtName": "älvsborg",
                 "last_accept": 535,
                 "$last_seen": "2023-06-29T13:06:32.282Z"
+              },
+              {
+                "id": 89223,
+                "rent": 11147,
+                "area": 71.9,
+                "street": "stengetsgatan",
+                "street_number": "20",
+                "city": "västra frölunda ",
+                "zip": "42672",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "älvsborg",
+                "last_accept": 1472,
+                "$last_seen": "2023-07-12T06:48:01.850Z"
               },
               {
                 "id": 89226,
