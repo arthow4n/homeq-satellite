@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-07-13T06:47:44.593Z",
+  "lastUpdatedAt": "2023-07-13T07:39:21.188Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -4811,6 +4811,20 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1323,
                 "$last_seen": "2023-07-12T06:48:01.850Z"
+              },
+              {
+                "id": 89779,
+                "rent": 10349,
+                "area": 60,
+                "street": "ebbe lieberathsgatan",
+                "street_number": "22 f",
+                "city": "göteborg",
+                "zip": "41265",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1056,
+                "$last_seen": "2023-07-13T06:47:44.593Z"
               }
             ],
             "nordgårdsgatan": [
@@ -26911,6 +26925,20 @@
                 "$districtName": "askim",
                 "last_accept": 60,
                 "$last_seen": "2023-07-11T11:40:22.377Z"
+              },
+              {
+                "id": 89597,
+                "rent": 9880,
+                "area": 49,
+                "street": "askims pilegårdsväg",
+                "street_number": "42",
+                "city": "göteborg",
+                "zip": "43635",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 353,
+                "$last_seen": "2023-07-13T06:47:44.593Z"
               }
             ]
           },
