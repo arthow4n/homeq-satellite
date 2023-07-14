@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-07-14T11:39:06.161Z",
+  "lastUpdatedAt": "2023-07-14T13:04:02.388Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -3237,6 +3237,20 @@
                 "$districtName": "örgryte",
                 "last_accept": 1303,
                 "$last_seen": "2023-07-04T09:44:07.805Z"
+              },
+              {
+                "id": 91600,
+                "rent": 7741,
+                "area": 35,
+                "street": "smörkärnegatan",
+                "street_number": "25",
+                "city": "göteborg",
+                "zip": "41278",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1133,
+                "$last_seen": "2023-07-14T11:39:06.161Z"
               }
             ]
           }
@@ -25359,6 +25373,20 @@
                 "$districtName": "askim",
                 "last_accept": 986,
                 "$last_seen": "2023-07-11T05:44:17.646Z"
+              },
+              {
+                "id": 89966,
+                "rent": 13529,
+                "area": 97,
+                "street": "pilegården",
+                "street_number": "2d",
+                "city": "göteborg",
+                "zip": "43635",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 604,
+                "$last_seen": "2023-07-14T11:39:06.161Z"
               }
             ],
             "nergårdsvägen": [
@@ -51903,6 +51931,20 @@
                 "$districtName": "älvsborg",
                 "last_accept": 306,
                 "$last_seen": "2023-06-30T05:45:51.161Z"
+              },
+              {
+                "id": 89281,
+                "rent": 9260,
+                "area": 60.6,
+                "street": "stengetsgatan",
+                "street_number": "24",
+                "city": "västra frölunda ",
+                "zip": "42672",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "älvsborg",
+                "last_accept": 992,
+                "$last_seen": "2023-07-14T11:39:06.161Z"
               }
             ],
             "tigerstigen": [
