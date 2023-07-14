@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-07-14T05:43:39.509Z",
+  "lastUpdatedAt": "2023-07-14T06:47:45.649Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -3509,6 +3509,36 @@
                 "$districtName": "kållered",
                 "last_accept": 985,
                 "$last_seen": "2023-07-03T10:48:56.709Z"
+              },
+              {
+                "id": 89890,
+                "rent": 8504,
+                "area": 76,
+                "street": "våmmedalsvägen",
+                "street_number": "70",
+                "city": "kållered",
+                "zip": "42831",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "kållered",
+                "last_accept": 852,
+                "$last_seen": "2023-07-14T05:43:39.509Z"
+              }
+            ],
+            "streteredsvägen": [
+              {
+                "id": 91461,
+                "rent": 6952,
+                "area": 33,
+                "street": "streteredsvägen",
+                "street_number": "16b",
+                "city": "kållered",
+                "zip": "42831",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "kållered",
+                "last_accept": 513,
+                "$last_seen": "2023-07-14T05:43:39.509Z"
               }
             ]
           }
