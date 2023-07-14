@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-07-14T13:04:02.388Z",
+  "lastUpdatedAt": "2023-07-14T13:44:42.236Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -3483,6 +3483,20 @@
                 "$last_seen": "2023-07-05T13:52:37.348Z"
               },
               {
+                "id": 88301,
+                "rent": 8858,
+                "area": 76,
+                "street": "våmmedalsvägen",
+                "street_number": "74",
+                "city": "kållered",
+                "zip": "42831",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "kållered",
+                "last_accept": 1314,
+                "$last_seen": "2023-07-14T13:04:02.388Z"
+              },
+              {
                 "id": 88308,
                 "rent": 9118,
                 "area": 76,
@@ -3523,6 +3537,34 @@
                 "$districtName": "kållered",
                 "last_accept": 985,
                 "$last_seen": "2023-07-03T10:48:56.709Z"
+              },
+              {
+                "id": 89886,
+                "rent": 8853,
+                "area": 76,
+                "street": "våmmedalsvägen",
+                "street_number": "76",
+                "city": "kållered",
+                "zip": "42831",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "kållered",
+                "last_accept": 1061,
+                "$last_seen": "2023-07-14T13:04:02.388Z"
+              },
+              {
+                "id": 89888,
+                "rent": 8506,
+                "area": 76,
+                "street": "våmmedalsvägen",
+                "street_number": "120",
+                "city": "kållered",
+                "zip": "42831",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "kållered",
+                "last_accept": 1026,
+                "$last_seen": "2023-07-14T13:04:02.388Z"
               },
               {
                 "id": 89890,
@@ -51945,6 +51987,20 @@
                 "$districtName": "älvsborg",
                 "last_accept": 992,
                 "$last_seen": "2023-07-14T11:39:06.161Z"
+              },
+              {
+                "id": 91431,
+                "rent": 12460,
+                "area": 74,
+                "street": "stengetsgatan",
+                "street_number": "14",
+                "city": "västra frölunda ",
+                "zip": "42672",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "älvsborg",
+                "last_accept": 992,
+                "$last_seen": "2023-07-14T13:04:02.388Z"
               }
             ],
             "tigerstigen": [
