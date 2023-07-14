@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-07-14T08:45:53.061Z",
+  "lastUpdatedAt": "2023-07-14T09:40:06.958Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -57717,6 +57717,26 @@
                 "$districtName": "bromma",
                 "last_accept": 1838,
                 "$last_seen": "2023-06-30T09:42:09.665Z"
+              }
+            ]
+          }
+        },
+        "årsta": {
+          "enskede": {
+            "sköntorpsvägen": [
+              {
+                "id": 89716,
+                "rent": 9102,
+                "area": 39.7,
+                "street": "sköntorpsvägen",
+                "street_number": "29a",
+                "city": "årsta",
+                "zip": "12038",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "enskede",
+                "last_accept": 1752,
+                "$last_seen": "2023-07-14T08:45:53.061Z"
               }
             ]
           }
