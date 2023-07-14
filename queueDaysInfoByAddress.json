@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-07-14T06:47:45.649Z",
+  "lastUpdatedAt": "2023-07-14T07:39:08.603Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -52715,6 +52715,20 @@
                 "$districtName": "malmö sankt petri",
                 "last_accept": 924,
                 "$last_seen": "2023-04-17T10:46:54.794Z"
+              },
+              {
+                "id": 88909,
+                "rent": 14405,
+                "area": 100,
+                "street": "norregatan",
+                "street_number": "21",
+                "city": "malmö",
+                "zip": "21127",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "malmö sankt petri",
+                "last_accept": 154,
+                "$last_seen": "2023-07-14T06:47:45.649Z"
               }
             ],
             "baltzargatan": [
@@ -53003,6 +53017,22 @@
                 "$districtName": "malmö sankt petri",
                 "last_accept": 645,
                 "$last_seen": "2023-07-11T08:48:07.746Z"
+              }
+            ],
+            "fabriksgatan": [
+              {
+                "id": 88405,
+                "rent": 9870,
+                "area": 92,
+                "street": "fabriksgatan",
+                "street_number": "9",
+                "city": "malmö",
+                "zip": "21137",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "malmö sankt petri",
+                "last_accept": 1096,
+                "$last_seen": "2023-07-14T06:47:45.649Z"
               }
             ]
           },
