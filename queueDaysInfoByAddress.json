@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-07-14T07:39:08.603Z",
+  "lastUpdatedAt": "2023-07-14T08:45:53.061Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -50499,6 +50499,20 @@
                 "$last_seen": "2023-06-26T11:42:42.242Z"
               },
               {
+                "id": 89341,
+                "rent": 10850,
+                "area": 54,
+                "street": "sisjöbäckens väg",
+                "street_number": "24",
+                "city": "askim",
+                "zip": "43638",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 354,
+                "$last_seen": "2023-07-14T07:39:08.603Z"
+              },
+              {
                 "id": 89646,
                 "rent": 7835,
                 "area": 33,
@@ -52717,18 +52731,18 @@
                 "$last_seen": "2023-04-17T10:46:54.794Z"
               },
               {
-                "id": 88909,
-                "rent": 14405,
-                "area": 100,
+                "id": 91664,
+                "rent": 12639,
+                "area": 85,
                 "street": "norregatan",
-                "street_number": "21",
+                "street_number": "4",
                 "city": "malmö",
-                "zip": "21127",
+                "zip": "21129",
                 "municipality": "malmö",
                 "county": "skåne län",
                 "$districtName": "malmö sankt petri",
-                "last_accept": 154,
-                "$last_seen": "2023-07-14T06:47:45.649Z"
+                "last_accept": 0,
+                "$last_seen": "2023-07-14T07:39:08.603Z"
               }
             ],
             "baltzargatan": [
@@ -57549,6 +57563,20 @@
                 "$districtName": "skärholmen",
                 "last_accept": 402,
                 "$last_seen": "2023-06-16T09:44:07.870Z"
+              },
+              {
+                "id": 88980,
+                "rent": 4292,
+                "area": 22,
+                "street": "ålgrytevägen",
+                "street_number": "123",
+                "city": "stockholm ",
+                "zip": "12731",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "skärholmen",
+                "last_accept": 354,
+                "$last_seen": "2023-07-14T07:39:08.603Z"
               }
             ],
             "bredängsvägen": [
