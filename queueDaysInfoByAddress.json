@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-07-17T10:47:20.616Z",
+  "lastUpdatedAt": "2023-07-17T11:38:38.143Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -22777,6 +22777,20 @@
                 "$districtName": "kortedala",
                 "last_accept": 375,
                 "$last_seen": "2023-06-20T11:44:00.503Z"
+              },
+              {
+                "id": 91411,
+                "rent": 7125,
+                "area": 70,
+                "street": "allhelgonagatan",
+                "street_number": "6",
+                "city": "göteborg",
+                "zip": "41545",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "kortedala",
+                "last_accept": 1555,
+                "$last_seen": "2023-07-17T10:47:20.616Z"
               }
             ],
             "julaftonsgatan": [
@@ -50501,6 +50515,20 @@
                 "$districtName": "brunnsbo",
                 "last_accept": 1098,
                 "$last_seen": "2023-06-20T06:49:15.341Z"
+              },
+              {
+                "id": 89882,
+                "rent": 4743,
+                "area": 31,
+                "street": "prologgatan",
+                "street_number": "14",
+                "city": "hisings backa",
+                "zip": "42241",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brunnsbo",
+                "last_accept": 1202,
+                "$last_seen": "2023-07-17T10:47:20.616Z"
               }
             ],
             "sångspelsgatan": [
@@ -52995,6 +53023,20 @@
                 "$districtName": "malmö sankt petri",
                 "last_accept": 924,
                 "$last_seen": "2023-04-17T10:46:54.794Z"
+              },
+              {
+                "id": 91664,
+                "rent": 12639,
+                "area": 85,
+                "street": "norregatan",
+                "street_number": "4",
+                "city": "malmö",
+                "zip": "21129",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "malmö sankt petri",
+                "last_accept": 0,
+                "$last_seen": "2023-07-17T10:47:20.616Z"
               }
             ],
             "baltzargatan": [
