@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-07-18T10:44:06.120Z",
+  "lastUpdatedAt": "2023-07-18T11:38:11.029Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -23243,6 +23243,20 @@
                 "$districtName": "kortedala",
                 "last_accept": 1290,
                 "$last_seen": "2023-04-12T07:40:20.350Z"
+              },
+              {
+                "id": 88235,
+                "rent": 8395,
+                "area": 83,
+                "street": "januarigatan",
+                "street_number": "14",
+                "city": "göteborg",
+                "zip": "41545",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "kortedala",
+                "last_accept": 1563,
+                "$last_seen": "2023-07-18T10:44:06.120Z"
               },
               {
                 "id": 91737,
@@ -53591,6 +53605,20 @@
                 "$districtName": "limhamn",
                 "last_accept": 0,
                 "$last_seen": "2023-06-07T07:42:55.680Z"
+              },
+              {
+                "id": 85244,
+                "rent": 13309,
+                "area": 83,
+                "street": "nätsnäcksgränd",
+                "street_number": "9",
+                "city": "malmö",
+                "zip": "21631",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "limhamn",
+                "last_accept": 398,
+                "$last_seen": "2023-07-18T10:44:06.120Z"
               },
               {
                 "id": 85256,
