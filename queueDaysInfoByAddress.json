@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-07-18T11:38:11.029Z",
+  "lastUpdatedAt": "2023-07-18T13:01:08.656Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -12505,6 +12505,20 @@
                 "$districtName": "brämaregården",
                 "last_accept": 1431,
                 "$last_seen": "2023-06-09T08:45:26.541Z"
+              },
+              {
+                "id": 89571,
+                "rent": 4497,
+                "area": 20,
+                "street": "wieselgrensplatsen",
+                "street_number": "5",
+                "city": "göteborg",
+                "zip": "41739",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brämaregården",
+                "last_accept": 1360,
+                "$last_seen": "2023-07-18T11:38:11.029Z"
               }
             ],
             "väderkvarnsgatan": [
@@ -16753,6 +16767,20 @@
                 "$districtName": "lundby",
                 "last_accept": 1096,
                 "$last_seen": "2023-07-03T11:41:26.288Z"
+              },
+              {
+                "id": 89536,
+                "rent": 11000,
+                "area": 48.1,
+                "street": "södra vårvindsgatan",
+                "street_number": "1",
+                "city": "göteborg",
+                "zip": "41877",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 198,
+                "$last_seen": "2023-07-18T11:38:11.029Z"
               }
             ],
             "prebendegatan": [
@@ -33723,6 +33751,20 @@
                 "$districtName": "göteborgs domkyrkodistrikt",
                 "last_accept": 1611,
                 "$last_seen": "2023-06-08T08:45:54.875Z"
+              },
+              {
+                "id": 89725,
+                "rent": 10605,
+                "area": 94,
+                "street": "odinsgatan",
+                "street_number": "19",
+                "city": "göteborg",
+                "zip": "41103",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs domkyrkodistrikt",
+                "last_accept": 1652,
+                "$last_seen": "2023-07-18T11:38:11.029Z"
               }
             ],
             "haga kyrkogata": [
@@ -40169,6 +40211,20 @@
                 "$districtName": "göteborgs vasa",
                 "last_accept": 1544,
                 "$last_seen": "2023-05-30T13:00:59.420Z"
+              },
+              {
+                "id": 88197,
+                "rent": 14974,
+                "area": 110,
+                "street": "mölndalsvägen",
+                "street_number": "7",
+                "city": "göteborg",
+                "zip": "41263",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs vasa",
+                "last_accept": 1638,
+                "$last_seen": "2023-07-18T11:38:11.029Z"
               }
             ],
             "götabergsgatan": [
@@ -44935,6 +44991,20 @@
                 "$districtName": "masthugget",
                 "last_accept": 1483,
                 "$last_seen": "2023-06-30T07:41:58.286Z"
+              },
+              {
+                "id": 89495,
+                "rent": 7281,
+                "area": 35,
+                "street": "djurgårdsgatan",
+                "street_number": "34",
+                "city": "göteborg",
+                "zip": "41462",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "masthugget",
+                "last_accept": 1166,
+                "$last_seen": "2023-07-18T11:38:11.029Z"
               },
               {
                 "id": 91488,
@@ -50671,6 +50741,20 @@
                 "$districtName": "brunnsbo",
                 "last_accept": 1032,
                 "$last_seen": "2023-05-30T10:43:32.987Z"
+              },
+              {
+                "id": 89947,
+                "rent": 8146,
+                "area": 73,
+                "street": "sångspelsgatan",
+                "street_number": "3",
+                "city": "hisings backa",
+                "zip": "42241",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brunnsbo",
+                "last_accept": 1484,
+                "$last_seen": "2023-07-18T11:38:11.029Z"
               }
             ],
             "poesigatan": [
