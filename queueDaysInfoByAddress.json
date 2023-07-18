@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-07-18T08:43:42.126Z",
+  "lastUpdatedAt": "2023-07-18T09:38:31.078Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -54333,6 +54333,20 @@
                 "$districtName": "kirseberg",
                 "last_accept": 216,
                 "$last_seen": "2023-04-27T13:49:03.126Z"
+              },
+              {
+                "id": 91870,
+                "rent": 5149,
+                "area": 37,
+                "street": "lundav",
+                "street_number": "53b",
+                "city": "malmö",
+                "zip": "21224",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "kirseberg",
+                "last_accept": 293,
+                "$last_seen": "2023-07-18T08:43:42.126Z"
               }
             ],
             "rantzowsgatan": [
@@ -56473,6 +56487,20 @@
                 "$districtName": "bunkeflo",
                 "last_accept": 0,
                 "$last_seen": "2023-07-05T11:41:31.733Z"
+              },
+              {
+                "id": 85364,
+                "rent": 13113,
+                "area": 102,
+                "street": "sadelmakarebyn",
+                "street_number": "1a",
+                "city": "bunkeflostrand",
+                "zip": "21840",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "bunkeflo",
+                "last_accept": 0,
+                "$last_seen": "2023-07-18T08:43:42.126Z"
               },
               {
                 "id": 85388,
