@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-07-18T07:38:23.255Z",
+  "lastUpdatedAt": "2023-07-18T08:43:42.126Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -27871,6 +27871,20 @@
                 "$districtName": "bergsjön",
                 "last_accept": 1149,
                 "$last_seen": "2023-07-04T09:44:07.805Z"
+              },
+              {
+                "id": 85777,
+                "rent": 5588,
+                "area": 62,
+                "street": "galileis gata",
+                "street_number": "5",
+                "city": "göteborg",
+                "zip": "41554",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bergsjön",
+                "last_accept": 993,
+                "$last_seen": "2023-07-18T07:38:23.255Z"
               },
               {
                 "id": 86603,
