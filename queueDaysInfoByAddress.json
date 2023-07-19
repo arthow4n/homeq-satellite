@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-07-19T07:38:10.608Z",
+  "lastUpdatedAt": "2023-07-19T08:40:54.270Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -2419,6 +2419,20 @@
                 "$last_seen": "2023-07-12T11:39:39.608Z"
               },
               {
+                "id": 87905,
+                "rent": 9168,
+                "area": 50,
+                "street": "åby allé",
+                "street_number": "51",
+                "city": "göteborg",
+                "zip": "43145",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 1163,
+                "$last_seen": "2023-07-19T07:38:10.608Z"
+              },
+              {
                 "id": 88026,
                 "rent": 9262,
                 "area": 46,
@@ -2783,6 +2797,20 @@
                 "$districtName": "fässberg",
                 "last_accept": 664,
                 "$last_seen": "2023-07-12T07:39:52.207Z"
+              },
+              {
+                "id": 89541,
+                "rent": 7476,
+                "area": 38,
+                "street": "åbyvägen",
+                "street_number": "4 b",
+                "city": "göteborg",
+                "zip": "43162",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 959,
+                "$last_seen": "2023-07-19T07:38:10.608Z"
               }
             ],
             "krokslätts parkgata": [
@@ -6323,6 +6351,20 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1685,
                 "$last_seen": "2023-06-19T06:49:18.018Z"
+              },
+              {
+                "id": 89097,
+                "rent": 4900,
+                "area": 37,
+                "street": "södra viktoriagatan",
+                "street_number": "50",
+                "city": "göteborg",
+                "zip": "41130",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1623,
+                "$last_seen": "2023-07-19T07:38:10.608Z"
               },
               {
                 "id": 89448,
@@ -27235,6 +27277,20 @@
                 "$districtName": "askim",
                 "last_accept": 60,
                 "$last_seen": "2023-07-11T11:40:22.377Z"
+              },
+              {
+                "id": 89592,
+                "rent": 9947,
+                "area": 51,
+                "street": "askims pilegårdsväg",
+                "street_number": "46",
+                "city": "göteborg",
+                "zip": "43635",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 491,
+                "$last_seen": "2023-07-19T07:38:10.608Z"
               },
               {
                 "id": 89597,
@@ -50189,6 +50245,20 @@
                 "$districtName": "haga",
                 "last_accept": 1616,
                 "$last_seen": "2023-06-12T14:43:50.937Z"
+              },
+              {
+                "id": 90009,
+                "rent": 7294,
+                "area": 61,
+                "street": "nilssonsberg",
+                "street_number": "31",
+                "city": "göteborg ",
+                "zip": "41143",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "haga",
+                "last_accept": 1730,
+                "$last_seen": "2023-07-19T07:38:10.608Z"
               }
             ]
           },
