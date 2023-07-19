@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-07-19T11:37:51.466Z",
+  "lastUpdatedAt": "2023-07-19T12:57:55.615Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -2459,6 +2459,20 @@
                 "$districtName": "fässberg",
                 "last_accept": 1324,
                 "$last_seen": "2023-07-10T07:40:41.042Z"
+              },
+              {
+                "id": 88649,
+                "rent": 11556,
+                "area": 71,
+                "street": "åby allé",
+                "street_number": "19",
+                "city": "göteborg",
+                "zip": "43145",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 1653,
+                "$last_seen": "2023-07-19T11:37:51.466Z"
               },
               {
                 "id": 89467,
@@ -19891,6 +19905,20 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1638,
                 "$last_seen": "2023-07-05T06:52:22.054Z"
+              },
+              {
+                "id": 89603,
+                "rent": 9458,
+                "area": 64,
+                "street": "mäster johansgatan",
+                "street_number": "14",
+                "city": "göteborg",
+                "zip": "41662",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1652,
+                "$last_seen": "2023-07-19T11:37:51.466Z"
               }
             ],
             "sankt pauligatan": [
@@ -30693,6 +30721,20 @@
                 "$districtName": "nylöse",
                 "last_accept": 1146,
                 "$last_seen": "2023-07-14T15:41:21.421Z"
+              },
+              {
+                "id": 89645,
+                "rent": 9821,
+                "area": 53,
+                "street": "gamlestadsvägen",
+                "street_number": "10 d",
+                "city": "göteborg",
+                "zip": "41502",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "nylöse",
+                "last_accept": 1172,
+                "$last_seen": "2023-07-19T11:37:51.466Z"
               }
             ],
             "ryttaregatan": [
@@ -53541,6 +53583,22 @@
                 "$districtName": "malmö sankt petri",
                 "last_accept": 162,
                 "$last_seen": "2023-05-30T08:43:58.053Z"
+              }
+            ],
+            "västergatan": [
+              {
+                "id": 85678,
+                "rent": 15795,
+                "area": 100,
+                "street": "västergatan",
+                "street_number": "6 c",
+                "city": "malmö",
+                "zip": "21121",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "malmö sankt petri",
+                "last_accept": 37,
+                "$last_seen": "2023-07-19T11:37:51.466Z"
               }
             ],
             "kalendegatan": [
