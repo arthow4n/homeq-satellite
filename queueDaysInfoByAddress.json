@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-07-19T12:57:55.615Z",
+  "lastUpdatedAt": "2023-07-19T13:40:33.345Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -2475,6 +2475,20 @@
                 "$last_seen": "2023-07-19T11:37:51.466Z"
               },
               {
+                "id": 88977,
+                "rent": 8420,
+                "area": 40,
+                "street": "åby allé",
+                "street_number": "53",
+                "city": "göteborg",
+                "zip": "43145",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 690,
+                "$last_seen": "2023-07-19T12:57:55.615Z"
+              },
+              {
                 "id": 89467,
                 "rent": 8420,
                 "area": 40,
@@ -2487,6 +2501,20 @@
                 "$districtName": "fässberg",
                 "last_accept": 583,
                 "$last_seen": "2023-07-12T13:07:06.572Z"
+              },
+              {
+                "id": 89658,
+                "rent": 10438,
+                "area": 57,
+                "street": "åby allé",
+                "street_number": "17",
+                "city": "göteborg",
+                "zip": "43145",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 1134,
+                "$last_seen": "2023-07-19T12:57:55.615Z"
               }
             ],
             "åbyvägen": [
@@ -56029,6 +56057,20 @@
                 "$districtName": "slottsstaden",
                 "last_accept": 872,
                 "$last_seen": "2023-06-21T07:45:21.617Z"
+              },
+              {
+                "id": 89611,
+                "rent": 12418,
+                "area": 91.7,
+                "street": "sergels väg",
+                "street_number": "13 a",
+                "city": "malmö",
+                "zip": "21757",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "slottsstaden",
+                "last_accept": 928,
+                "$last_seen": "2023-07-19T12:57:55.615Z"
               }
             ],
             "marietorps alle": [
