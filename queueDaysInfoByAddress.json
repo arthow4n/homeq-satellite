@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-07-19T14:40:09.250Z",
+  "lastUpdatedAt": "2023-07-19T15:38:10.342Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -54729,6 +54729,22 @@
                 "$districtName": "kirseberg",
                 "last_accept": 9,
                 "$last_seen": "2023-07-07T11:40:24.690Z"
+              }
+            ],
+            "almedalsgatan": [
+              {
+                "id": 91876,
+                "rent": 10892,
+                "area": 83,
+                "street": "almedalsgatan",
+                "street_number": "3",
+                "city": "malmö",
+                "zip": "21121",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "kirseberg",
+                "last_accept": 0,
+                "$last_seen": "2023-07-19T14:40:09.250Z"
               }
             ]
           },
