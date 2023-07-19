@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-07-19T05:39:15.643Z",
+  "lastUpdatedAt": "2023-07-19T06:42:57.823Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -55093,6 +55093,20 @@
                 "$districtName": "hyllie",
                 "last_accept": 0,
                 "$last_seen": "2023-06-12T09:42:16.991Z"
+              },
+              {
+                "id": 89304,
+                "rent": 7198,
+                "area": 36.9,
+                "street": "sagas gränd",
+                "street_number": "14",
+                "city": "malmö",
+                "zip": "21536",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "hyllie",
+                "last_accept": 0,
+                "$last_seen": "2023-07-19T05:39:15.643Z"
               }
             ],
             "hyllie vattenparksgata": [
