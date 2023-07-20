@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-07-20T12:59:00.847Z",
+  "lastUpdatedAt": "2023-07-20T13:44:55.626Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -2515,6 +2515,20 @@
                 "$districtName": "fässberg",
                 "last_accept": 583,
                 "$last_seen": "2023-07-12T13:07:06.572Z"
+              },
+              {
+                "id": 89478,
+                "rent": 12022,
+                "area": 73,
+                "street": "åby allé",
+                "street_number": "21",
+                "city": "göteborg",
+                "zip": "32145",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 1416,
+                "$last_seen": "2023-07-20T12:59:00.847Z"
               },
               {
                 "id": 89658,
@@ -10085,6 +10099,20 @@
                 "$districtName": "högsbo",
                 "last_accept": 994,
                 "$last_seen": "2023-07-12T13:07:06.572Z"
+              },
+              {
+                "id": 89678,
+                "rent": 10758,
+                "area": 83,
+                "street": "pennygången",
+                "street_number": "45",
+                "city": "göteborg",
+                "zip": "41482",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 838,
+                "$last_seen": "2023-07-20T12:59:00.847Z"
               },
               {
                 "id": 89680,
@@ -50487,6 +50515,20 @@
                 "$districtName": "annedal",
                 "last_accept": 1539,
                 "$last_seen": "2023-06-20T08:47:22.970Z"
+              },
+              {
+                "id": 90005,
+                "rent": 3605,
+                "area": 28,
+                "street": "lilla risåsgatan",
+                "street_number": "22",
+                "city": "göteborg ",
+                "zip": "41103",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "annedal",
+                "last_accept": 1654,
+                "$last_seen": "2023-07-20T12:59:00.847Z"
               }
             ],
             "linnégatan": [
@@ -53575,6 +53617,20 @@
                 "$districtName": "malmö sankt petri",
                 "last_accept": 6,
                 "$last_seen": "2023-05-25T09:41:49.160Z"
+              },
+              {
+                "id": 91440,
+                "rent": 10529,
+                "area": 57,
+                "street": "lilla varvsgatan",
+                "street_number": "24",
+                "city": "malmö",
+                "zip": "21175",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "malmö sankt petri",
+                "last_accept": 52,
+                "$last_seen": "2023-07-20T12:59:00.847Z"
               }
             ],
             "stora trädgårdsgatan": [
