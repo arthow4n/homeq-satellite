@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-07-20T13:44:55.626Z",
+  "lastUpdatedAt": "2023-07-20T14:40:28.389Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -33949,6 +33949,20 @@
                 "$last_seen": "2023-06-08T08:45:54.875Z"
               },
               {
+                "id": 89114,
+                "rent": 10331,
+                "area": 88,
+                "street": "odinsgatan",
+                "street_number": "19",
+                "city": "göteborg",
+                "zip": "41103",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs domkyrkodistrikt",
+                "last_accept": 1654,
+                "$last_seen": "2023-07-20T13:44:55.626Z"
+              },
+              {
                 "id": 89725,
                 "rent": 10605,
                 "area": 94,
@@ -55011,6 +55025,20 @@
                 "$last_seen": "2023-07-11T07:39:55.383Z"
               },
               {
+                "id": 82751,
+                "rent": 8774,
+                "area": 56,
+                "street": "fredriksbergsgatan",
+                "street_number": "10 a",
+                "city": "malmö",
+                "zip": "21211",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "malmö sankt pauli",
+                "last_accept": 1182,
+                "$last_seen": "2023-07-20T12:59:00.847Z"
+              },
+              {
                 "id": 82755,
                 "rent": 6716,
                 "area": 32,
@@ -56029,6 +56057,20 @@
                 "$districtName": "möllevången",
                 "last_accept": 815,
                 "$last_seen": "2023-05-15T10:45:30.035Z"
+              },
+              {
+                "id": 88298,
+                "rent": 10516,
+                "area": 69,
+                "street": "sigtunagatan",
+                "street_number": "4 a",
+                "city": "malmö",
+                "zip": "21429",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "möllevången",
+                "last_accept": 0,
+                "$last_seen": "2023-07-20T12:59:00.847Z"
               }
             ],
             "kristianstadsgatan": [
