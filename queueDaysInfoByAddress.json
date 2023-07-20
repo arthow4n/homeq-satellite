@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-07-20T07:37:45.862Z",
+  "lastUpdatedAt": "2023-07-20T08:41:24.168Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -2459,6 +2459,20 @@
                 "$districtName": "fässberg",
                 "last_accept": 1324,
                 "$last_seen": "2023-07-10T07:40:41.042Z"
+              },
+              {
+                "id": 88323,
+                "rent": 7631,
+                "area": 30,
+                "street": "åby allé",
+                "street_number": "71",
+                "city": "göteborg",
+                "zip": "43145",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 958,
+                "$last_seen": "2023-07-20T07:37:45.862Z"
               },
               {
                 "id": 88649,
@@ -47991,6 +48005,20 @@
                 "$districtName": "biskopsgården",
                 "last_accept": 1514,
                 "$last_seen": "2023-07-17T07:39:01.493Z"
+              },
+              {
+                "id": 91780,
+                "rent": 10897,
+                "area": 83,
+                "street": "långströmsgatan",
+                "street_number": "4b",
+                "city": "göteborg",
+                "zip": "41870",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "biskopsgården",
+                "last_accept": 578,
+                "$last_seen": "2023-07-20T07:37:45.862Z"
               }
             ],
             "lufttrycksgatan": [
