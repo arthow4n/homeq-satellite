@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-07-21T09:37:43.193Z",
+  "lastUpdatedAt": "2023-07-21T10:41:45.638Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -5009,6 +5009,20 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1056,
                 "$last_seen": "2023-07-13T06:47:44.593Z"
+              },
+              {
+                "id": 91633,
+                "rent": 7096,
+                "area": 30,
+                "street": "ebbe lieberathsgatan",
+                "street_number": "22 a",
+                "city": "göteborg",
+                "zip": "41265",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1215,
+                "$last_seen": "2023-07-21T09:37:43.193Z"
               }
             ],
             "nordgårdsgatan": [
@@ -5819,6 +5833,20 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1374,
                 "$last_seen": "2022-09-07T10:47:04.422Z"
+              },
+              {
+                "id": 87447,
+                "rent": 8324,
+                "area": 67,
+                "street": "gibraltargatan",
+                "street_number": "48",
+                "city": "göteborg",
+                "zip": "41258",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1655,
+                "$last_seen": "2023-07-21T09:37:43.193Z"
               }
             ],
             "liljeforsgatan": [
@@ -45651,6 +45679,20 @@
                 "$districtName": "masthugget",
                 "last_accept": 1655,
                 "$last_seen": "2023-07-20T06:42:14.174Z"
+              },
+              {
+                "id": 91642,
+                "rent": 9057,
+                "area": 64,
+                "street": "dahlströmsgatan",
+                "street_number": "14",
+                "city": "göteborg",
+                "zip": "41465",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "masthugget",
+                "last_accept": 1657,
+                "$last_seen": "2023-07-21T09:37:43.193Z"
               }
             ],
             "ekedalsgatan": [
@@ -48131,20 +48173,6 @@
                 "$districtName": "biskopsgården",
                 "last_accept": 578,
                 "$last_seen": "2023-07-20T07:37:45.862Z"
-              },
-              {
-                "id": 91786,
-                "rent": 9200,
-                "area": 73,
-                "street": "långströmsgatan",
-                "street_number": "19c",
-                "city": "göteborg",
-                "zip": "41870",
-                "municipality": "göteborg",
-                "county": "västra götalands län",
-                "$districtName": "biskopsgården",
-                "last_accept": 1413,
-                "$last_seen": "2023-07-21T07:37:54.496Z"
               }
             ],
             "lufttrycksgatan": [
