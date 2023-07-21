@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-07-21T08:41:10.598Z",
+  "lastUpdatedAt": "2023-07-21T09:37:43.193Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -2431,6 +2431,20 @@
                 "$districtName": "fässberg",
                 "last_accept": 1163,
                 "$last_seen": "2023-07-19T07:38:10.608Z"
+              },
+              {
+                "id": 88024,
+                "rent": 8609,
+                "area": 40,
+                "street": "åby allé",
+                "street_number": "71",
+                "city": "göteborg",
+                "zip": "43145",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 1397,
+                "$last_seen": "2023-07-21T08:41:10.598Z"
               },
               {
                 "id": 88026,
@@ -13177,6 +13191,20 @@
                 "$districtName": "brämaregården",
                 "last_accept": 830,
                 "$last_seen": "2023-06-20T08:47:22.970Z"
+              },
+              {
+                "id": 86784,
+                "rent": 9937,
+                "area": 57,
+                "street": "solventilsgatan",
+                "street_number": "20",
+                "city": "göteborg",
+                "zip": "41722",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brämaregården",
+                "last_accept": 1346,
+                "$last_seen": "2023-07-21T08:41:10.598Z"
               },
               {
                 "id": 86787,
@@ -58429,6 +58457,20 @@
           "skärholmen": {
             "vårbergsvägen": [
               {
+                "id": 87713,
+                "rent": 8551,
+                "area": 35,
+                "street": "vårbergsvägen",
+                "street_number": "79",
+                "city": "stockholm",
+                "zip": "12743",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "skärholmen",
+                "last_accept": 769,
+                "$last_seen": "2023-07-21T08:41:10.598Z"
+              },
+              {
                 "id": 87748,
                 "rent": 8225,
                 "area": 35,
@@ -58441,6 +58483,20 @@
                 "$districtName": "skärholmen",
                 "last_accept": 930,
                 "$last_seen": "2023-07-07T07:40:21.788Z"
+              },
+              {
+                "id": 87877,
+                "rent": 8225,
+                "area": 35,
+                "street": "vårbergsvägen",
+                "street_number": "77",
+                "city": "stockholm",
+                "zip": "12744",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "skärholmen",
+                "last_accept": 830,
+                "$last_seen": "2023-07-21T08:41:10.598Z"
               },
               {
                 "id": 88989,
