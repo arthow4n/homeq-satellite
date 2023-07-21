@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-07-21T06:42:28.228Z",
+  "lastUpdatedAt": "2023-07-21T07:37:54.496Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -27431,6 +27431,20 @@
                 "$districtName": "askim",
                 "last_accept": 353,
                 "$last_seen": "2023-07-13T06:47:44.593Z"
+              },
+              {
+                "id": 89620,
+                "rent": 13055,
+                "area": 75,
+                "street": "askims pilegårdsväg",
+                "street_number": "48",
+                "city": "göteborg",
+                "zip": "43635",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 0,
+                "$last_seen": "2023-07-21T06:42:28.228Z"
               }
             ]
           },
@@ -36535,6 +36549,20 @@
                 "$districtName": "örgryte",
                 "last_accept": 1493,
                 "$last_seen": "2023-05-16T13:01:30.070Z"
+              },
+              {
+                "id": 92226,
+                "rent": 12118,
+                "area": 92,
+                "street": "mejerigatan",
+                "street_number": "14",
+                "city": "göteborg",
+                "zip": "41276",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1227,
+                "$last_seen": "2023-07-21T06:42:28.228Z"
               }
             ],
             "filmjölksgatan": [
