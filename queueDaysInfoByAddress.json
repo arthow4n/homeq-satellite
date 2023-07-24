@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-07-24T06:43:42.997Z",
+  "lastUpdatedAt": "2023-07-24T07:38:01.690Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -58458,6 +58458,68 @@
               }
             ]
           },
+          "vällingby": {
+            "lyckselevägen": [
+              {
+                "id": 82056,
+                "rent": 5564,
+                "area": 52.5,
+                "street": "lyckselevägen",
+                "street_number": "140",
+                "city": "stockholm",
+                "zip": "16267",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vällingby",
+                "last_accept": 1507,
+                "$last_seen": "2023-05-09T11:41:20.449Z"
+              },
+              {
+                "id": 89046,
+                "rent": 6260,
+                "area": 57,
+                "street": "lyckselevägen",
+                "street_number": "124",
+                "city": "stockholm",
+                "zip": "16267",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vällingby",
+                "last_accept": 1558,
+                "$last_seen": "2023-07-10T09:43:03.838Z"
+              }
+            ],
+            "ångermannagatan": [
+              {
+                "id": 85767,
+                "rent": 7745,
+                "area": 58,
+                "street": "ångermannagatan",
+                "street_number": "189",
+                "city": "stockholm",
+                "zip": "16265",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vällingby",
+                "last_accept": 1484,
+                "$last_seen": "2023-06-16T06:48:10.356Z"
+              },
+              {
+                "id": 89443,
+                "rent": 7522,
+                "area": 55.3,
+                "street": "ångermannagatan",
+                "street_number": "191",
+                "city": "stockholm",
+                "zip": "16265",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vällingby",
+                "last_accept": 1532,
+                "$last_seen": "2023-07-24T06:43:42.997Z"
+              }
+            ]
+          },
           "vantör": {
             "olshammarsgatan": [
               {
@@ -58473,40 +58535,20 @@
                 "$districtName": "vantör",
                 "last_accept": 1419,
                 "$last_seen": "2023-06-21T09:44:52.056Z"
-              }
-            ]
-          },
-          "vällingby": {
-            "ångermannagatan": [
+              },
               {
-                "id": 85767,
-                "rent": 7745,
-                "area": 58,
-                "street": "ångermannagatan",
-                "street_number": "189",
+                "id": 89873,
+                "rent": 9465,
+                "area": 71,
+                "street": "olshammarsgatan",
+                "street_number": "5",
                 "city": "stockholm",
-                "zip": "16265",
+                "zip": "12475",
                 "municipality": "stockholm",
                 "county": "stockholms län",
-                "$districtName": "vällingby",
-                "last_accept": 1484,
-                "$last_seen": "2023-06-16T06:48:10.356Z"
-              }
-            ],
-            "lyckselevägen": [
-              {
-                "id": 89046,
-                "rent": 6260,
-                "area": 57,
-                "street": "lyckselevägen",
-                "street_number": "124",
-                "city": "stockholm",
-                "zip": "16267",
-                "municipality": "stockholm",
-                "county": "stockholms län",
-                "$districtName": "vällingby",
-                "last_accept": 1558,
-                "$last_seen": "2023-07-10T09:43:03.838Z"
+                "$districtName": "vantör",
+                "last_accept": 1518,
+                "$last_seen": "2023-07-24T06:43:42.997Z"
               }
             ]
           },
