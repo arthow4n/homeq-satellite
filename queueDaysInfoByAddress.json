@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-07-24T11:37:51.040Z",
+  "lastUpdatedAt": "2023-07-24T12:58:32.651Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -5515,6 +5515,20 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1187,
                 "$last_seen": "2023-06-30T05:45:51.161Z"
+              },
+              {
+                "id": 88499,
+                "rent": 7168,
+                "area": 33,
+                "street": "nordgårdsgatan",
+                "street_number": "6 b",
+                "city": "göteborg",
+                "zip": "41285",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1309,
+                "$last_seen": "2023-07-24T11:37:51.040Z"
               }
             ],
             "norra krokslättsgatan": [
@@ -12771,6 +12785,20 @@
                 "$districtName": "brämaregården",
                 "last_accept": 1360,
                 "$last_seen": "2023-07-18T11:38:11.029Z"
+              },
+              {
+                "id": 91429,
+                "rent": 4519,
+                "area": 20,
+                "street": "wieselgrensplatsen",
+                "street_number": "21",
+                "city": "göteborg",
+                "zip": "41739",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brämaregården",
+                "last_accept": 1296,
+                "$last_seen": "2023-07-24T11:37:51.040Z"
               }
             ],
             "väderkvarnsgatan": [
@@ -26201,6 +26229,20 @@
                 "$districtName": "askim",
                 "last_accept": 1049,
                 "$last_seen": "2023-06-26T11:42:42.242Z"
+              },
+              {
+                "id": 91862,
+                "rent": 4659,
+                "area": 34,
+                "street": "nergårdsvägen",
+                "street_number": "25",
+                "city": "göteborg",
+                "zip": "43636",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 1194,
+                "$last_seen": "2023-07-24T11:37:51.040Z"
               }
             ],
             "hyltegården": [
@@ -28291,6 +28333,20 @@
                 "$districtName": "bergsjön",
                 "last_accept": 773,
                 "$last_seen": "2023-07-12T11:39:39.608Z"
+              },
+              {
+                "id": 91506,
+                "rent": 3503,
+                "area": 33,
+                "street": "galileis gata",
+                "street_number": "4",
+                "city": "göteborg",
+                "zip": "41554",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bergsjön",
+                "last_accept": 1249,
+                "$last_seen": "2023-07-24T11:37:51.040Z"
               }
             ],
             "kosmosgatan": [
@@ -48231,6 +48287,20 @@
                 "$last_seen": "2023-07-17T07:39:01.493Z"
               },
               {
+                "id": 91736,
+                "rent": 6530,
+                "area": 41,
+                "street": "långströmsgatan",
+                "street_number": "32b",
+                "city": "göteborg",
+                "zip": "41870",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "biskopsgården",
+                "last_accept": 1028,
+                "$last_seen": "2023-07-24T11:37:51.040Z"
+              },
+              {
                 "id": 91780,
                 "rent": 10897,
                 "area": 83,
@@ -58985,6 +59055,20 @@
                 "$districtName": "hägersten",
                 "last_accept": 2113,
                 "$last_seen": "2023-05-23T09:40:33.838Z"
+              },
+              {
+                "id": 88723,
+                "rent": 3198,
+                "area": 23,
+                "street": "erikslundsgatan",
+                "street_number": "4",
+                "city": "hägersten",
+                "zip": "12632",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "hägersten",
+                "last_accept": 1968,
+                "$last_seen": "2023-07-24T11:37:51.040Z"
               }
             ]
           }
