@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-07-24T09:38:12.235Z",
+  "lastUpdatedAt": "2023-07-24T10:42:58.462Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -4941,6 +4941,20 @@
                 "$last_seen": "2023-07-05T06:52:22.054Z"
               },
               {
+                "id": 86529,
+                "rent": 10541,
+                "area": 58,
+                "street": "ebbe lieberathsgatan",
+                "street_number": "22 b",
+                "city": "göteborg",
+                "zip": "41265",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1183,
+                "$last_seen": "2023-07-24T09:38:12.235Z"
+              },
+              {
                 "id": 87446,
                 "rent": 8077,
                 "area": 40,
@@ -5831,6 +5845,20 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1310,
                 "$last_seen": "2023-02-13T08:46:16.184Z"
+              },
+              {
+                "id": 89004,
+                "rent": 8017,
+                "area": 65,
+                "street": "fribergsgatan",
+                "street_number": "2",
+                "city": "göteborg",
+                "zip": "41260",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1595,
+                "$last_seen": "2023-07-24T09:38:12.235Z"
               }
             ],
             "gibraltargatan": [
@@ -49887,6 +49915,20 @@
                 "$districtName": "tynnered",
                 "last_accept": 1376,
                 "$last_seen": "2023-07-17T07:39:01.493Z"
+              },
+              {
+                "id": 91980,
+                "rent": 9640,
+                "area": 98,
+                "street": "karneolgatan",
+                "street_number": "71",
+                "city": "göteborg",
+                "zip": "42651",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tynnered",
+                "last_accept": 1654,
+                "$last_seen": "2023-07-24T09:38:12.235Z"
               }
             ],
             "beryllgatan": [
@@ -56073,6 +56115,20 @@
                 "$districtName": "malmö sankt johannes",
                 "last_accept": 1474,
                 "$last_seen": "2023-06-09T11:42:32.328Z"
+              },
+              {
+                "id": 88873,
+                "rent": 6575,
+                "area": 54,
+                "street": "södra skolgatan",
+                "street_number": "31",
+                "city": "malmö",
+                "zip": "21422",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "malmö sankt johannes",
+                "last_accept": 1552,
+                "$last_seen": "2023-07-24T09:38:12.235Z"
               }
             ],
             "södra förstadsgatan": [
@@ -56181,6 +56237,20 @@
                 "$districtName": "möllevången",
                 "last_accept": 539,
                 "$last_seen": "2023-06-14T13:44:22.332Z"
+              },
+              {
+                "id": 87681,
+                "rent": 6934,
+                "area": 63,
+                "street": "upplandsgatan",
+                "street_number": "5 b",
+                "city": "malmö",
+                "zip": "21429",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "möllevången",
+                "last_accept": 1392,
+                "$last_seen": "2023-07-24T09:38:12.235Z"
               }
             ],
             "sigtunagatan": [
