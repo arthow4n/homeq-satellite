@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-07-26T07:37:46.308Z",
+  "lastUpdatedAt": "2023-07-26T08:40:10.185Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -51687,6 +51687,20 @@
                 "$districtName": "askim",
                 "last_accept": 0,
                 "$last_seen": "2023-07-05T07:42:45.974Z"
+              },
+              {
+                "id": 91675,
+                "rent": 8198,
+                "area": 34,
+                "street": "sisjöbäckens väg",
+                "street_number": "22",
+                "city": "askim",
+                "zip": "43638",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 352,
+                "$last_seen": "2023-07-26T07:37:46.308Z"
               }
             ],
             "kobbegården": [
@@ -56559,6 +56573,20 @@
                 "$districtName": "möllevången",
                 "last_accept": 1392,
                 "$last_seen": "2023-07-24T09:38:12.235Z"
+              },
+              {
+                "id": 92424,
+                "rent": 6596,
+                "area": 60,
+                "street": "upplandsgatan",
+                "street_number": "5 b",
+                "city": "malmö",
+                "zip": "21429",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "möllevången",
+                "last_accept": 887,
+                "$last_seen": "2023-07-26T07:37:46.308Z"
               }
             ],
             "sigtunagatan": [
