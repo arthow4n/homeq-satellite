@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-07-26T11:37:51.722Z",
+  "lastUpdatedAt": "2023-07-26T12:57:24.736Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -27727,6 +27727,20 @@
                 "$last_seen": "2023-07-13T06:47:44.593Z"
               },
               {
+                "id": 89599,
+                "rent": 13270,
+                "area": 75,
+                "street": "askims pilegårdsväg",
+                "street_number": "46",
+                "city": "göteborg",
+                "zip": "43635",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 7,
+                "$last_seen": "2023-07-26T11:37:51.722Z"
+              },
+              {
                 "id": 89620,
                 "rent": 13055,
                 "area": 75,
@@ -33897,6 +33911,20 @@
                 "$districtName": "göteborgs domkyrkodistrikt",
                 "last_accept": 1531,
                 "$last_seen": "2023-06-22T15:43:50.192Z"
+              },
+              {
+                "id": 92079,
+                "rent": 5773,
+                "area": 42,
+                "street": "friggagatan",
+                "street_number": "25 a",
+                "city": "göteborg",
+                "zip": "41664",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs domkyrkodistrikt",
+                "last_accept": 1660,
+                "$last_seen": "2023-07-26T11:37:51.722Z"
               }
             ],
             "sten sturegatan": [
@@ -58281,6 +58309,20 @@
                 "$districtName": "vantör",
                 "last_accept": 1294,
                 "$last_seen": "2023-07-06T08:50:35.868Z"
+              },
+              {
+                "id": 89450,
+                "rent": 7523,
+                "area": 57,
+                "street": "harpsundsvägen",
+                "street_number": "62",
+                "city": "bandhagen",
+                "zip": "12458",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 1233,
+                "$last_seen": "2023-07-26T11:37:51.722Z"
               }
             ],
             "kilsmogatan": [
