@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-07-26T10:41:08.362Z",
+  "lastUpdatedAt": "2023-07-26T11:37:51.722Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -26835,6 +26835,20 @@
                 "$districtName": "askim",
                 "last_accept": 340,
                 "$last_seen": "2023-06-30T10:47:52.211Z"
+              },
+              {
+                "id": 90006,
+                "rent": 14675,
+                "area": 79,
+                "street": "kobbeslätten",
+                "street_number": "8",
+                "city": "göteborg",
+                "zip": "43637",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 653,
+                "$last_seen": "2023-07-26T10:41:08.362Z"
               }
             ],
             "kobbegården": [
@@ -58179,6 +58193,20 @@
                 "$districtName": "vantör",
                 "last_accept": 1633,
                 "$last_seen": "2023-05-24T11:41:38.006Z"
+              },
+              {
+                "id": 91629,
+                "rent": 9879,
+                "area": 93,
+                "street": "bäverbäcksgränd",
+                "street_number": "115",
+                "city": "bandhagen",
+                "zip": "12462",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 1782,
+                "$last_seen": "2023-07-26T10:41:08.362Z"
               }
             ],
             "kvarntorpsgränd": [
