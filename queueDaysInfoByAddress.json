@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-07-26T09:37:35.214Z",
+  "lastUpdatedAt": "2023-07-26T10:41:08.362Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -50167,6 +50167,20 @@
                 "$districtName": "tynnered",
                 "last_accept": 1343,
                 "$last_seen": "2023-01-26T14:38:35.415Z"
+              },
+              {
+                "id": 89717,
+                "rent": 7059,
+                "area": 69,
+                "street": "karneolgatan",
+                "street_number": "75",
+                "city": "göteborg",
+                "zip": "42651",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tynnered",
+                "last_accept": 1616,
+                "$last_seen": "2023-07-26T09:37:35.214Z"
               },
               {
                 "id": 91427,
