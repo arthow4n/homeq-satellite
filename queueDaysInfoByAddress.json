@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-07-26T13:38:31.030Z",
+  "lastUpdatedAt": "2023-07-26T14:39:19.501Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -27257,6 +27257,20 @@
                 "$districtName": "askim",
                 "last_accept": 623,
                 "$last_seen": "2023-07-10T14:45:47.550Z"
+              },
+              {
+                "id": 91809,
+                "rent": 9102,
+                "area": 65,
+                "street": "kobbegården",
+                "street_number": "38",
+                "city": "göteborg",
+                "zip": "43637",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 1185,
+                "$last_seen": "2023-07-26T13:38:31.030Z"
               }
             ],
             "ugglegården": [
@@ -51295,6 +51309,20 @@
                 "$districtName": "brunnsbo",
                 "last_accept": 1366,
                 "$last_seen": "2023-07-17T07:39:01.493Z"
+              },
+              {
+                "id": 92234,
+                "rent": 6149,
+                "area": 40,
+                "street": "folkvisegatan",
+                "street_number": "22",
+                "city": "hisings backa",
+                "zip": "42241",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brunnsbo",
+                "last_accept": 1086,
+                "$last_seen": "2023-07-26T13:38:31.030Z"
               }
             ],
             "klassikergatan": [
