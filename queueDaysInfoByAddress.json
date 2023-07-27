@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-07-27T09:37:28.421Z",
+  "lastUpdatedAt": "2023-07-27T10:40:33.760Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -28531,6 +28531,20 @@
                 "$last_seen": "2023-07-18T07:38:23.255Z"
               },
               {
+                "id": 86602,
+                "rent": 5652,
+                "area": 62,
+                "street": "galileis gata",
+                "street_number": "5",
+                "city": "göteborg",
+                "zip": "41554",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bergsjön",
+                "last_accept": 1545,
+                "$last_seen": "2023-07-27T09:37:28.421Z"
+              },
+              {
                 "id": 86603,
                 "rent": 3658,
                 "area": 33,
@@ -55469,20 +55483,6 @@
                 "$districtName": "kirseberg",
                 "last_accept": 216,
                 "$last_seen": "2023-04-27T13:49:03.126Z"
-              },
-              {
-                "id": 91870,
-                "rent": 5149,
-                "area": 37,
-                "street": "lundav",
-                "street_number": "53b",
-                "city": "malmö",
-                "zip": "21224",
-                "municipality": "malmö",
-                "county": "skåne län",
-                "$districtName": "kirseberg",
-                "last_accept": 358,
-                "$last_seen": "2023-07-24T08:42:19.044Z"
               }
             ],
             "rantzowsgatan": [
