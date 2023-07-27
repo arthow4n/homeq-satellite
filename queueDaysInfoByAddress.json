@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-07-27T07:37:37.314Z",
+  "lastUpdatedAt": "2023-07-27T08:39:40.148Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -3377,6 +3377,34 @@
                 "$districtName": "örgryte",
                 "last_accept": 1133,
                 "$last_seen": "2023-07-14T11:39:06.161Z"
+              },
+              {
+                "id": 92308,
+                "rent": 10115,
+                "area": 54,
+                "street": "smörkärnegatan",
+                "street_number": "25",
+                "city": "göteborg",
+                "zip": "41278",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1282,
+                "$last_seen": "2023-07-27T07:37:37.314Z"
+              },
+              {
+                "id": 92478,
+                "rent": 7741,
+                "area": 35,
+                "street": "smörkärnegatan",
+                "street_number": "25",
+                "city": "göteborg",
+                "zip": "41278",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1104,
+                "$last_seen": "2023-07-27T07:37:37.314Z"
               }
             ]
           }
@@ -27399,6 +27427,20 @@
                 "$districtName": "askim",
                 "last_accept": 987,
                 "$last_seen": "2023-04-03T12:58:14.801Z"
+              },
+              {
+                "id": 92276,
+                "rent": 13289,
+                "area": 76,
+                "street": "ugglegården",
+                "street_number": "38",
+                "city": "göteborg",
+                "zip": "43658",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 313,
+                "$last_seen": "2023-07-27T07:37:37.314Z"
               }
             ],
             "sisjövägen": [
