@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-07-27T10:40:33.760Z",
+  "lastUpdatedAt": "2023-07-27T11:37:16.248Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -57027,6 +57027,24 @@
                 "$districtName": "slottsstaden",
                 "last_accept": 0,
                 "$last_seen": "2023-06-20T06:49:15.341Z"
+              }
+            ]
+          },
+          "fosie": {
+            "professorsgatan": [
+              {
+                "id": 89127,
+                "rent": 7652,
+                "area": 63,
+                "street": "professorsgatan",
+                "street_number": "9 h",
+                "city": "malmö",
+                "zip": "21553",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "fosie",
+                "last_accept": 0,
+                "$last_seen": "2023-07-27T10:40:33.760Z"
               }
             ]
           }
