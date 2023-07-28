@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-07-28T09:37:59.300Z",
+  "lastUpdatedAt": "2023-07-28T10:40:41.174Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -52797,6 +52797,20 @@
                 "$districtName": "tynnered",
                 "last_accept": 1602,
                 "$last_seen": "2023-06-07T07:42:55.680Z"
+              },
+              {
+                "id": 89325,
+                "rent": 7301,
+                "area": 70,
+                "street": "briljantgatan",
+                "street_number": "9",
+                "city": "västra frölunda",
+                "zip": "42149",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tynnered",
+                "last_accept": 1316,
+                "$last_seen": "2023-07-28T09:37:59.300Z"
               }
             ],
             "safirgatan": [
@@ -57965,23 +57979,21 @@
         },
         "bunkeflostrand": {
           "bunkeflo": {
-            "skomakarebyn": [
+            "sadelmakarebyn": [
               {
-                "id": 85302,
-                "rent": 8942,
-                "area": 61.2,
-                "street": "skomakarebyn",
-                "street_number": "7f",
+                "id": 85231,
+                "rent": 10051,
+                "area": 70,
+                "street": "sadelmakarebyn",
+                "street_number": "8d",
                 "city": "bunkeflostrand",
-                "zip": "21841",
+                "zip": "21840",
                 "municipality": "malmö",
                 "county": "skåne län",
                 "$districtName": "bunkeflo",
-                "last_accept": 0,
-                "$last_seen": "2023-07-19T12:57:55.615Z"
-              }
-            ],
-            "sadelmakarebyn": [
+                "last_accept": 16,
+                "$last_seen": "2023-07-28T09:37:59.300Z"
+              },
               {
                 "id": 85319,
                 "rent": 4933,
@@ -58037,6 +58049,22 @@
                 "$districtName": "bunkeflo",
                 "last_accept": 0,
                 "$last_seen": "2023-06-27T07:42:50.678Z"
+              }
+            ],
+            "skomakarebyn": [
+              {
+                "id": 85302,
+                "rent": 8942,
+                "area": 61.2,
+                "street": "skomakarebyn",
+                "street_number": "7f",
+                "city": "bunkeflostrand",
+                "zip": "21841",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "bunkeflo",
+                "last_accept": 0,
+                "$last_seen": "2023-07-19T12:57:55.615Z"
               }
             ],
             "vagnmakarebyn": [
