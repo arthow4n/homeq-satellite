@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-07-31T14:40:14.655Z",
+  "lastUpdatedAt": "2023-07-31T15:39:38.091Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -1233,6 +1233,20 @@
                 "$districtName": "fässberg",
                 "last_accept": 1303,
                 "$last_seen": "2023-05-30T11:40:09.119Z"
+              },
+              {
+                "id": 92293,
+                "rent": 10354,
+                "area": 76,
+                "street": "ranunkelgatan",
+                "street_number": "5b",
+                "city": "mölndal",
+                "zip": "43132",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 1331,
+                "$last_seen": "2023-07-31T14:40:14.655Z"
               }
             ],
             "katrinebergsgatan": [
@@ -24663,6 +24677,20 @@
                 "$districtName": "kortedala",
                 "last_accept": 1305,
                 "$last_seen": "2023-07-17T11:38:38.143Z"
+              },
+              {
+                "id": 92302,
+                "rent": 5086,
+                "area": 51.5,
+                "street": "aprilgatan",
+                "street_number": "42",
+                "city": "göteborg",
+                "zip": "41548",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "kortedala",
+                "last_accept": 1496,
+                "$last_seen": "2023-07-31T14:40:14.655Z"
               }
             ],
             "februarigatan": [
