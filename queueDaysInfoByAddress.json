@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-07-31T07:38:03.585Z",
+  "lastUpdatedAt": "2023-07-31T08:42:11.266Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -37503,6 +37503,20 @@
                 "$districtName": "örgryte",
                 "last_accept": 1098,
                 "$last_seen": "2023-07-10T11:39:59.125Z"
+              },
+              {
+                "id": 92429,
+                "rent": 10599,
+                "area": 61,
+                "street": "filmjölksgatan",
+                "street_number": "5",
+                "city": "göteborg",
+                "zip": "41278",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 701,
+                "$last_seen": "2023-07-31T07:38:03.585Z"
               }
             ],
             "jättegrytsgatan": [
@@ -53597,20 +53611,6 @@
                 "$districtName": "älvsborg",
                 "last_accept": 992,
                 "$last_seen": "2023-07-14T11:39:06.161Z"
-              },
-              {
-                "id": 91431,
-                "rent": 12460,
-                "area": 74,
-                "street": "stengetsgatan",
-                "street_number": "14",
-                "city": "västra frölunda ",
-                "zip": "42672",
-                "municipality": "göteborg",
-                "county": "västra götalands län",
-                "$districtName": "älvsborg",
-                "last_accept": 992,
-                "$last_seen": "2023-07-14T13:04:02.388Z"
               }
             ],
             "tigerstigen": [
@@ -59557,6 +59557,20 @@
                 "$districtName": "vällingby",
                 "last_accept": 1532,
                 "$last_seen": "2023-07-24T06:43:42.997Z"
+              },
+              {
+                "id": 89872,
+                "rent": 7782,
+                "area": 58,
+                "street": "ångermannagatan",
+                "street_number": "207",
+                "city": "stockholm",
+                "zip": "16265",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vällingby",
+                "last_accept": 1659,
+                "$last_seen": "2023-07-31T07:38:03.585Z"
               }
             ]
           },
