@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-07-31T06:42:34.033Z",
+  "lastUpdatedAt": "2023-07-31T07:38:03.585Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -10311,6 +10311,20 @@
                 "$last_seen": "2023-07-28T06:41:30.294Z"
               },
               {
+                "id": 91760,
+                "rent": 10758,
+                "area": 83,
+                "street": "pennygången",
+                "street_number": "12",
+                "city": "göteborg",
+                "zip": "41482",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 850,
+                "$last_seen": "2023-07-31T06:42:34.033Z"
+              },
+              {
                 "id": 91765,
                 "rent": 8418,
                 "area": 62,
@@ -20553,6 +20567,20 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1625,
                 "$last_seen": "2023-06-21T08:49:35.850Z"
+              },
+              {
+                "id": 89827,
+                "rent": 7900,
+                "area": 49,
+                "street": "liedstrandsgatan",
+                "street_number": "6",
+                "city": "göteborg",
+                "zip": "41658",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1665,
+                "$last_seen": "2023-07-31T06:42:34.033Z"
               }
             ],
             "övre olskroksgatan": [
@@ -33923,6 +33951,20 @@
                 "$districtName": "göteborgs domkyrkodistrikt",
                 "last_accept": 1351,
                 "$last_seen": "2023-06-15T07:44:01.865Z"
+              },
+              {
+                "id": 89720,
+                "rent": 15140,
+                "area": 108,
+                "street": "stampgatan",
+                "street_number": "38",
+                "city": "göteborg",
+                "zip": "41101",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs domkyrkodistrikt",
+                "last_accept": 1440,
+                "$last_seen": "2023-07-31T06:42:34.033Z"
               }
             ],
             "friggagatan": [
@@ -36543,6 +36585,34 @@
                 "$districtName": "örgryte",
                 "last_accept": 567,
                 "$last_seen": "2023-06-27T13:49:38.703Z"
+              },
+              {
+                "id": 89834,
+                "rent": 12364,
+                "area": 64,
+                "street": "tändsticksgatan",
+                "street_number": "2",
+                "city": "göteborg",
+                "zip": "41263",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 850,
+                "$last_seen": "2023-07-31T06:42:34.033Z"
+              },
+              {
+                "id": 89837,
+                "rent": 12685,
+                "area": 64,
+                "street": "tändsticksgatan",
+                "street_number": "2",
+                "city": "göteborg",
+                "zip": "41263",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 598,
+                "$last_seen": "2023-07-31T06:42:34.033Z"
               }
             ],
             "gräddgatan": [
