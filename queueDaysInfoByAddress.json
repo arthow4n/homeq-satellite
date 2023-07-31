@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-07-31T09:37:33.891Z",
+  "lastUpdatedAt": "2023-07-31T10:42:06.222Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -7993,6 +7993,20 @@
                 "$districtName": "högsbo",
                 "last_accept": 687,
                 "$last_seen": "2023-07-21T10:41:45.638Z"
+              },
+              {
+                "id": 91769,
+                "rent": 6838,
+                "area": 35,
+                "street": "skillingmyntsgatan",
+                "street_number": "8",
+                "city": "göteborg",
+                "zip": "41484",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 1193,
+                "$last_seen": "2023-07-31T09:37:33.891Z"
               }
             ],
             "synhållsgatan": [
@@ -55931,6 +55945,20 @@
                 "$districtName": "kirseberg",
                 "last_accept": 216,
                 "$last_seen": "2023-04-27T13:49:03.126Z"
+              },
+              {
+                "id": 91870,
+                "rent": 5149,
+                "area": 37,
+                "street": "lundav",
+                "street_number": "53b",
+                "city": "malmö",
+                "zip": "21224",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "kirseberg",
+                "last_accept": 621,
+                "$last_seen": "2023-07-31T09:37:33.891Z"
               }
             ],
             "rantzowsgatan": [
