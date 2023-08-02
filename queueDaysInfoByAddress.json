@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-08-02T13:39:05.465Z",
+  "lastUpdatedAt": "2023-08-02T14:40:25.244Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -37147,6 +37147,20 @@
                 "$districtName": "örgryte",
                 "last_accept": 0,
                 "$last_seen": "2023-06-19T13:46:21.279Z"
+              },
+              {
+                "id": 92262,
+                "rent": 12535,
+                "area": 69,
+                "street": "gräddgatan",
+                "street_number": "5",
+                "city": "göteborg",
+                "zip": "41276",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1332,
+                "$last_seen": "2023-08-02T13:39:05.465Z"
               }
             ],
             "anders zornsgatan": [
