@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-08-03T08:40:36.890Z",
+  "lastUpdatedAt": "2023-08-03T09:38:11.060Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -55969,6 +55969,20 @@
                 "$districtName": "kirseberg",
                 "last_accept": 0,
                 "$last_seen": "2023-04-27T05:43:19.101Z"
+              },
+              {
+                "id": 82019,
+                "rent": 11126,
+                "area": 72,
+                "street": "segeparksgatan",
+                "street_number": "16",
+                "city": "malmö",
+                "zip": "21250",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "kirseberg",
+                "last_accept": 0,
+                "$last_seen": "2023-08-03T08:40:36.890Z"
               },
               {
                 "id": 82079,
