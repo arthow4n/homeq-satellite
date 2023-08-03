@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-08-03T10:41:40.130Z",
+  "lastUpdatedAt": "2023-08-03T11:38:24.607Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -6485,6 +6485,20 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1554,
                 "$last_seen": "2023-07-12T13:47:57.043Z"
+              },
+              {
+                "id": 92081,
+                "rent": 6003,
+                "area": 40,
+                "street": "mölndalsvägen",
+                "street_number": "47",
+                "city": "göteborg",
+                "zip": "41263",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1663,
+                "$last_seen": "2023-08-03T10:41:40.130Z"
               }
             ],
             "milpålegatan": [
@@ -22753,6 +22767,20 @@
                 "$districtName": "björkekärr",
                 "last_accept": 1052,
                 "$last_seen": "2023-07-13T07:39:21.188Z"
+              },
+              {
+                "id": 91821,
+                "rent": 5328,
+                "area": 22,
+                "street": "smörslätten",
+                "street_number": "6",
+                "city": "göteborg",
+                "zip": "41677",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "björkekärr",
+                "last_accept": 882,
+                "$last_seen": "2023-08-03T10:41:40.130Z"
               },
               {
                 "id": 91832,
