@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-08-04T11:40:04.727Z",
+  "lastUpdatedAt": "2023-08-04T12:57:40.493Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -43247,6 +43247,20 @@
                 "$last_seen": "2023-05-30T07:40:40.964Z"
               },
               {
+                "id": 92867,
+                "rent": 12283,
+                "area": 84,
+                "street": "nedre fogelbergsgatan",
+                "street_number": "4a",
+                "city": "göteborg",
+                "zip": "41128",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs vasa",
+                "last_accept": 1669,
+                "$last_seen": "2023-08-04T11:40:04.727Z"
+              },
+              {
                 "id": 92873,
                 "rent": 7188,
                 "area": 35,
@@ -57723,6 +57737,20 @@
                 "$districtName": "västra skrävlinge",
                 "last_accept": 0,
                 "$last_seen": "2023-08-04T09:39:50.517Z"
+              },
+              {
+                "id": 92837,
+                "rent": 9168,
+                "area": 89,
+                "street": "ramels väg",
+                "street_number": "35",
+                "city": "malmö",
+                "zip": "21368",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "västra skrävlinge",
+                "last_accept": 0,
+                "$last_seen": "2023-08-04T11:40:04.727Z"
               }
             ]
           },
