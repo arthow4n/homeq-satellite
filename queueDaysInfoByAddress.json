@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-08-04T09:39:50.517Z",
+  "lastUpdatedAt": "2023-08-04T10:42:48.084Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -56195,6 +56195,20 @@
                 "$districtName": "kirseberg",
                 "last_accept": 0,
                 "$last_seen": "2023-06-27T06:51:47.527Z"
+              },
+              {
+                "id": 91892,
+                "rent": 6440,
+                "area": 32.1,
+                "street": "lundavägen",
+                "street_number": "35",
+                "city": "malmö",
+                "zip": "21219",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "kirseberg",
+                "last_accept": 279,
+                "$last_seen": "2023-08-04T09:39:50.517Z"
               }
             ],
             "högamöllegatan": [
@@ -56607,6 +56621,22 @@
                 "$districtName": "kirseberg",
                 "last_accept": 539,
                 "$last_seen": "2023-07-24T07:38:01.690Z"
+              }
+            ],
+            "solgatan": [
+              {
+                "id": 91890,
+                "rent": 9293,
+                "area": 71,
+                "street": "solgatan",
+                "street_number": "24 c",
+                "city": "malmö",
+                "zip": "21220",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "kirseberg",
+                "last_accept": 364,
+                "$last_seen": "2023-08-04T09:39:50.517Z"
               }
             ]
           },
@@ -57665,6 +57695,20 @@
                 "$districtName": "västra skrävlinge",
                 "last_accept": 0,
                 "$last_seen": "2023-07-26T12:57:24.736Z"
+              },
+              {
+                "id": 92414,
+                "rent": 9233,
+                "area": 90,
+                "street": "ramels väg",
+                "street_number": "29",
+                "city": "malmö",
+                "zip": "21368",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "västra skrävlinge",
+                "last_accept": 0,
+                "$last_seen": "2023-08-04T09:39:50.517Z"
               },
               {
                 "id": 92837,
