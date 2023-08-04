@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-08-04T08:41:48.746Z",
+  "lastUpdatedAt": "2023-08-04T09:39:50.517Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -57665,6 +57665,20 @@
                 "$districtName": "västra skrävlinge",
                 "last_accept": 0,
                 "$last_seen": "2023-07-26T12:57:24.736Z"
+              },
+              {
+                "id": 92837,
+                "rent": 9168,
+                "area": 89,
+                "street": "ramels väg",
+                "street_number": "35",
+                "city": "malmö",
+                "zip": "21368",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "västra skrävlinge",
+                "last_accept": 0,
+                "$last_seen": "2023-08-04T08:41:48.746Z"
               }
             ]
           },
@@ -58911,6 +58925,24 @@
                 "$districtName": "slottsstaden",
                 "last_accept": 785,
                 "$last_seen": "2023-06-28T11:42:15.053Z"
+              }
+            ]
+          },
+          "fosie": {
+            "koralgatan": [
+              {
+                "id": 89698,
+                "rent": 9836,
+                "area": 73,
+                "street": "koralgatan",
+                "street_number": "24",
+                "city": "malmö ",
+                "zip": "21570",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "fosie",
+                "last_accept": 37,
+                "$last_seen": "2023-08-04T07:39:11.440Z"
               }
             ]
           }
