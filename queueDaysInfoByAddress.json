@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-08-04T05:39:58.197Z",
+  "lastUpdatedAt": "2023-08-04T06:42:28.347Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -37203,20 +37203,6 @@
                 "$districtName": "örgryte",
                 "last_accept": 0,
                 "$last_seen": "2023-06-19T13:46:21.279Z"
-              },
-              {
-                "id": 92262,
-                "rent": 12535,
-                "area": 69,
-                "street": "gräddgatan",
-                "street_number": "5",
-                "city": "göteborg",
-                "zip": "41276",
-                "municipality": "göteborg",
-                "county": "västra götalands län",
-                "$districtName": "örgryte",
-                "last_accept": 1332,
-                "$last_seen": "2023-08-02T13:39:05.465Z"
               }
             ],
             "anders zornsgatan": [
@@ -56579,20 +56565,6 @@
                 "$districtName": "kirseberg",
                 "last_accept": 0,
                 "$last_seen": "2023-07-19T14:40:09.250Z"
-              },
-              {
-                "id": 92082,
-                "rent": 12107,
-                "area": 109,
-                "street": "almedalsgatan",
-                "street_number": "7 b",
-                "city": "malmö",
-                "zip": "21219",
-                "municipality": "malmö",
-                "county": "skåne län",
-                "$districtName": "kirseberg",
-                "last_accept": 0,
-                "$last_seen": "2023-08-03T06:41:28.569Z"
               },
               {
                 "id": 92190,
