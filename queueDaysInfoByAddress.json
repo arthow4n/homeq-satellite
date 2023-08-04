@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-08-04T10:42:48.084Z",
+  "lastUpdatedAt": "2023-08-04T11:40:04.727Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -56469,6 +56469,20 @@
                 "$districtName": "kirseberg",
                 "last_accept": 32,
                 "$last_seen": "2023-06-30T07:41:58.286Z"
+              },
+              {
+                "id": 89379,
+                "rent": 9008,
+                "area": 62,
+                "street": "gerlachsgatan",
+                "street_number": "2 b",
+                "city": "malmö",
+                "zip": "21219",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "kirseberg",
+                "last_accept": 0,
+                "$last_seen": "2023-08-04T10:42:48.084Z"
               }
             ],
             "dalhemsgtan": [
@@ -57709,20 +57723,6 @@
                 "$districtName": "västra skrävlinge",
                 "last_accept": 0,
                 "$last_seen": "2023-08-04T09:39:50.517Z"
-              },
-              {
-                "id": 92837,
-                "rent": 9168,
-                "area": 89,
-                "street": "ramels väg",
-                "street_number": "35",
-                "city": "malmö",
-                "zip": "21368",
-                "municipality": "malmö",
-                "county": "skåne län",
-                "$districtName": "västra skrävlinge",
-                "last_accept": 0,
-                "$last_seen": "2023-08-04T08:41:48.746Z"
               }
             ]
           },
