@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-08-04T04:41:21.004Z",
+  "lastUpdatedAt": "2023-08-04T05:39:58.197Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -35977,6 +35977,20 @@
                 "$districtName": "örgryte",
                 "last_accept": 1537,
                 "$last_seen": "2023-06-28T13:51:05.686Z"
+              },
+              {
+                "id": 89345,
+                "rent": 8035,
+                "area": 50,
+                "street": "prästgårdsängen",
+                "street_number": "21",
+                "city": "göteborg",
+                "zip": "41271",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1669,
+                "$last_seen": "2023-08-04T04:41:21.004Z"
               }
             ],
             "karlfeldtsgatan": [
