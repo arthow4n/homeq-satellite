@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-08-07T07:40:59.553Z",
+  "lastUpdatedAt": "2023-08-07T08:44:09.421Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -17971,6 +17971,22 @@
                 "$districtName": "lundby",
                 "last_accept": 904,
                 "$last_seen": "2023-06-25T11:43:44.492Z"
+              }
+            ],
+            "östra keillersgatan": [
+              {
+                "id": 89949,
+                "rent": 5350,
+                "area": 33,
+                "street": "östra keillersgatan",
+                "street_number": "8b",
+                "city": "göteborg",
+                "zip": "41715",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1421,
+                "$last_seen": "2023-08-07T07:40:59.553Z"
               }
             ]
           },
@@ -56251,6 +56267,20 @@
                 "$districtName": "kirseberg",
                 "last_accept": 279,
                 "$last_seen": "2023-08-04T09:39:50.517Z"
+              },
+              {
+                "id": 91893,
+                "rent": 10931,
+                "area": 75.3,
+                "street": "lundavägen",
+                "street_number": "39",
+                "city": "malmö",
+                "zip": "21219",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "kirseberg",
+                "last_accept": 0,
+                "$last_seen": "2023-08-07T07:40:59.553Z"
               }
             ],
             "högamöllegatan": [
