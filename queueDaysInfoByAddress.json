@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-08-07T09:40:34.806Z",
+  "lastUpdatedAt": "2023-08-07T10:44:44.697Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -13339,6 +13339,20 @@
                 "$districtName": "brämaregården",
                 "last_accept": 1016,
                 "$last_seen": "2023-07-03T11:41:26.288Z"
+              },
+              {
+                "id": 89937,
+                "rent": 12960,
+                "area": 82,
+                "street": "fjärdingsgatan",
+                "street_number": "27",
+                "city": "göteborg",
+                "zip": "41724",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brämaregården",
+                "last_accept": 1575,
+                "$last_seen": "2023-08-07T08:44:09.421Z"
               }
             ],
             "madängsgatan": [
@@ -43537,6 +43551,20 @@
                 "$districtName": "göteborgs oscar fredrik",
                 "last_accept": 1623,
                 "$last_seen": "2023-06-20T10:48:22.581Z"
+              },
+              {
+                "id": 92257,
+                "rent": 12174,
+                "area": 83,
+                "street": "vegagatan",
+                "street_number": "44a",
+                "city": "göteborg",
+                "zip": "41311",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs oscar fredrik",
+                "last_accept": 1672,
+                "$last_seen": "2023-08-07T09:40:34.806Z"
               }
             ],
             "jungmansgatan": [
