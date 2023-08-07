@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-08-07T15:40:39.996Z",
+  "lastUpdatedAt": "2023-08-07T16:46:29.604Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -459,6 +459,20 @@
                 "$districtName": "fässberg",
                 "last_accept": 1311,
                 "$last_seen": "2023-05-23T13:00:09.516Z"
+              },
+              {
+                "id": 92545,
+                "rent": 9133,
+                "area": 63,
+                "street": "berghemsgatan",
+                "street_number": "18",
+                "city": "mölndal",
+                "zip": "43137",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 1539,
+                "$last_seen": "2023-08-07T15:40:39.996Z"
               }
             ],
             "brogatan": [
