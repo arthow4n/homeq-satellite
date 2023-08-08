@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-08-08T11:40:37.299Z",
+  "lastUpdatedAt": "2023-08-08T12:58:58.968Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -36797,6 +36797,20 @@
                 "$last_seen": "2023-06-28T07:42:23.270Z"
               },
               {
+                "id": 89544,
+                "rent": 10196,
+                "area": 51,
+                "street": "smörkärnegatan",
+                "street_number": "9",
+                "city": "göteborg",
+                "zip": "41278",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1149,
+                "$last_seen": "2023-08-08T11:40:37.299Z"
+              },
+              {
                 "id": 89688,
                 "rent": 9643,
                 "area": 52,
@@ -37995,6 +38009,20 @@
                 "$districtName": "örgryte",
                 "last_accept": 1553,
                 "$last_seen": "2023-08-07T12:59:15.290Z"
+              },
+              {
+                "id": 89024,
+                "rent": 10090,
+                "area": 54,
+                "street": "filmjölksgatan",
+                "street_number": "3",
+                "city": "göteborg",
+                "zip": "41278",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1134,
+                "$last_seen": "2023-08-08T11:40:37.299Z"
               },
               {
                 "id": 89825,
@@ -42163,6 +42191,20 @@
                 "$districtName": "göteborgs vasa",
                 "last_accept": 1617,
                 "$last_seen": "2023-06-13T07:41:43.580Z"
+              },
+              {
+                "id": 93065,
+                "rent": 22530,
+                "area": 181,
+                "street": "geijersgatan",
+                "street_number": "3a",
+                "city": "göteborg",
+                "zip": "41134",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs vasa",
+                "last_accept": 1531,
+                "$last_seen": "2023-08-08T11:40:37.299Z"
               }
             ],
             "engelbrektsgatan": [
