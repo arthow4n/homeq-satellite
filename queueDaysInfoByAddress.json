@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-08-09T10:46:28.587Z",
+  "lastUpdatedAt": "2023-08-09T11:41:42.424Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -20991,6 +20991,20 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1558,
                 "$last_seen": "2023-05-15T13:42:55.512Z"
+              },
+              {
+                "id": 93367,
+                "rent": 7930,
+                "area": 70,
+                "street": "övre olskroksgatan",
+                "street_number": "12",
+                "city": "göteborg",
+                "zip": "41667",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1665,
+                "$last_seen": "2023-08-09T10:46:28.587Z"
               }
             ],
             "vävstolsgatan": [
