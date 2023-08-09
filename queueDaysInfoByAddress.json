@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-08-09T11:41:42.424Z",
+  "lastUpdatedAt": "2023-08-09T13:02:52.874Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -26481,6 +26481,20 @@
                 "$districtName": "askim",
                 "last_accept": 1144,
                 "$last_seen": "2023-07-25T13:41:32.387Z"
+              },
+              {
+                "id": 93122,
+                "rent": 6496,
+                "area": 64,
+                "street": "pilegården",
+                "street_number": "9e",
+                "city": "göteborg",
+                "zip": "43635",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 1536,
+                "$last_seen": "2023-08-09T11:41:42.424Z"
               }
             ],
             "nergårdsvägen": [
@@ -30981,6 +30995,20 @@
                 "$districtName": "nylöse",
                 "last_accept": 1502,
                 "$last_seen": "2023-06-09T14:44:42.252Z"
+              },
+              {
+                "id": 93338,
+                "rent": 5998,
+                "area": 36,
+                "street": "brahegatan",
+                "street_number": "2c",
+                "city": "göteborg",
+                "zip": "41514",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "nylöse",
+                "last_accept": 1238,
+                "$last_seen": "2023-08-09T11:41:42.424Z"
               }
             ],
             "hornsgatan": [
@@ -38093,6 +38121,20 @@
                 "$districtName": "örgryte",
                 "last_accept": 701,
                 "$last_seen": "2023-07-31T07:38:03.585Z"
+              },
+              {
+                "id": 93064,
+                "rent": 7613,
+                "area": 35,
+                "street": "filmjölksgatan",
+                "street_number": "6",
+                "city": "göteborg",
+                "zip": "41278",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1319,
+                "$last_seen": "2023-08-09T11:41:42.424Z"
               },
               {
                 "id": 93208,
