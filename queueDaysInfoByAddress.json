@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-08-09T09:41:36.498Z",
+  "lastUpdatedAt": "2023-08-09T10:46:28.587Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -61321,6 +61321,20 @@
                 "$districtName": "skärholmen",
                 "last_accept": 283,
                 "$last_seen": "2023-06-08T10:46:26.271Z"
+              },
+              {
+                "id": 92622,
+                "rent": 9027,
+                "area": 65,
+                "street": "bredängsvägen",
+                "street_number": "230",
+                "city": "stockholm ",
+                "zip": "12732",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "skärholmen",
+                "last_accept": 0,
+                "$last_seen": "2023-07-27T07:37:37.314Z"
               }
             ]
           },
