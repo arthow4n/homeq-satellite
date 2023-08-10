@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-08-10T13:50:31.879Z",
+  "lastUpdatedAt": "2023-08-10T14:46:49.943Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -32569,6 +32569,20 @@
                 "$districtName": "härlanda",
                 "last_accept": 1460,
                 "$last_seen": "2023-05-25T10:45:33.901Z"
+              },
+              {
+                "id": 93028,
+                "rent": 8930,
+                "area": 66,
+                "street": "solrosgatan",
+                "street_number": "5 a",
+                "city": "göteborg",
+                "zip": "41651",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "härlanda",
+                "last_accept": 1675,
+                "$last_seen": "2023-08-10T13:50:31.879Z"
               }
             ],
             "utjordsgatan": [
@@ -32843,6 +32857,20 @@
                 "$districtName": "härlanda",
                 "last_accept": 1266,
                 "$last_seen": "2023-06-07T11:43:35.911Z"
+              },
+              {
+                "id": 93005,
+                "rent": 7374,
+                "area": 48,
+                "street": "intagsgatan",
+                "street_number": "2a",
+                "city": "göteborg",
+                "zip": "41651",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "härlanda",
+                "last_accept": 1666,
+                "$last_seen": "2023-08-10T13:50:31.879Z"
               }
             ],
             "qvidingsgatan": [
@@ -54675,6 +54703,20 @@
                 "$districtName": "västra frölunda",
                 "last_accept": 516,
                 "$last_seen": "2023-07-17T11:38:38.143Z"
+              },
+              {
+                "id": 93318,
+                "rent": 11482,
+                "area": 80,
+                "street": "tamburingatan",
+                "street_number": "7",
+                "city": "västra frölunda",
+                "zip": "42151",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "västra frölunda",
+                "last_accept": 657,
+                "$last_seen": "2023-08-10T13:50:31.879Z"
               }
             ],
             "marconigatan": [
