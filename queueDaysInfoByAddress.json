@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-08-10T13:04:25.703Z",
+  "lastUpdatedAt": "2023-08-10T13:50:31.879Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -38885,6 +38885,20 @@
                 "$districtName": "örgryte",
                 "last_accept": 1097,
                 "$last_seen": "2023-06-27T09:43:47.726Z"
+              },
+              {
+                "id": 89102,
+                "rent": 9580,
+                "area": 47,
+                "street": "separatorsgatan",
+                "street_number": "8",
+                "city": "göteborg",
+                "zip": "41278",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1384,
+                "$last_seen": "2023-08-10T13:04:25.703Z"
               },
               {
                 "id": 89676,
