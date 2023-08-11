@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-08-11T06:46:02.822Z",
+  "lastUpdatedAt": "2023-08-11T07:43:09.371Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -12401,6 +12401,20 @@
                 "$districtName": "brämaregården",
                 "last_accept": 1288,
                 "$last_seen": "2023-07-03T11:41:26.288Z"
+              },
+              {
+                "id": 92213,
+                "rent": 9710,
+                "area": 54,
+                "street": "gustaf dalénsgatan",
+                "street_number": "24",
+                "city": "göteborg",
+                "zip": "41724",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brämaregården",
+                "last_accept": 1040,
+                "$last_seen": "2023-08-11T06:46:02.822Z"
               },
               {
                 "id": 92514,
@@ -35893,6 +35907,20 @@
                 "$districtName": "örgryte",
                 "last_accept": 178,
                 "$last_seen": "2023-06-28T11:42:15.053Z"
+              },
+              {
+                "id": 89702,
+                "rent": 13094,
+                "area": 83,
+                "street": "smörgatan",
+                "street_number": "1",
+                "city": "göteborg",
+                "zip": "41278",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1137,
+                "$last_seen": "2023-08-11T06:46:02.822Z"
               }
             ],
             "prästgårdsängen": [
@@ -54517,6 +54545,20 @@
                 "$districtName": "västra frölunda",
                 "last_accept": 566,
                 "$last_seen": "2023-07-17T11:38:38.143Z"
+              },
+              {
+                "id": 93305,
+                "rent": 11482,
+                "area": 80,
+                "street": "munspelsgatan",
+                "street_number": "10",
+                "city": "västra frölunda",
+                "zip": "42151",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "västra frölunda",
+                "last_accept": 598,
+                "$last_seen": "2023-08-11T06:46:02.822Z"
               }
             ],
             "speldosegatan": [
