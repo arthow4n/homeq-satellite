@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-08-11T10:46:03.078Z",
+  "lastUpdatedAt": "2023-08-11T11:43:03.477Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -52723,6 +52723,20 @@
                 "$districtName": "kortedala",
                 "last_accept": 839,
                 "$last_seen": "2023-07-17T11:38:38.143Z"
+              },
+              {
+                "id": 92982,
+                "rent": 8268,
+                "area": 58,
+                "street": "januarigatan",
+                "street_number": "18",
+                "city": "göteborg ",
+                "zip": "41515",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "kortedala",
+                "last_accept": 594,
+                "$last_seen": "2023-08-11T10:46:03.078Z"
               }
             ]
           },
@@ -55953,6 +55967,20 @@
                 "$districtName": "malmö sankt petri",
                 "last_accept": 924,
                 "$last_seen": "2023-04-17T10:46:54.794Z"
+              },
+              {
+                "id": 87914,
+                "rent": 18058,
+                "area": 123,
+                "street": "norregatan",
+                "street_number": "18 a",
+                "city": "malmö",
+                "zip": "21127",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "malmö sankt petri",
+                "last_accept": 0,
+                "$last_seen": "2023-08-11T10:46:03.078Z"
               },
               {
                 "id": 88909,
