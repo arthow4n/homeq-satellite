@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-08-11T12:58:44.546Z",
+  "lastUpdatedAt": "2023-08-11T13:42:57.535Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -60109,6 +60109,20 @@
                 "$districtName": "bunkeflo",
                 "last_accept": 0,
                 "$last_seen": "2023-07-07T08:47:51.454Z"
+              },
+              {
+                "id": 92852,
+                "rent": 7984,
+                "area": 60.6,
+                "street": "smedmästarebyn",
+                "street_number": "2g",
+                "city": "bunkeflostrand",
+                "zip": "21841",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "bunkeflo",
+                "last_accept": 0,
+                "$last_seen": "2023-08-11T12:58:44.546Z"
               }
             ]
           }
