@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-08-11T09:43:03.768Z",
+  "lastUpdatedAt": "2023-08-11T10:46:03.078Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -3789,6 +3789,20 @@
                 "$districtName": "kållered",
                 "last_accept": 852,
                 "$last_seen": "2023-07-14T05:43:39.509Z"
+              },
+              {
+                "id": 91872,
+                "rent": 9049,
+                "area": 76,
+                "street": "våmmedalsvägen",
+                "street_number": "36",
+                "city": "kållered",
+                "zip": "42831",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "kållered",
+                "last_accept": 989,
+                "$last_seen": "2023-08-11T09:43:03.768Z"
               }
             ],
             "streteredsvägen": [
@@ -18085,6 +18099,22 @@
                 "$districtName": "lundby",
                 "last_accept": 1421,
                 "$last_seen": "2023-08-07T07:40:59.553Z"
+              }
+            ],
+            "stataregatan": [
+              {
+                "id": 93394,
+                "rent": 5282,
+                "area": 45,
+                "street": "stataregatan",
+                "street_number": "5a",
+                "city": "göteborg",
+                "zip": "41715",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1389,
+                "$last_seen": "2023-08-11T09:43:03.768Z"
               }
             ]
           },
@@ -42911,6 +42941,20 @@
                 "$districtName": "göteborgs vasa",
                 "last_accept": 1567,
                 "$last_seen": "2023-04-26T10:46:11.451Z"
+              },
+              {
+                "id": 93045,
+                "rent": 22900,
+                "area": 119,
+                "street": "södra vägen",
+                "street_number": "4",
+                "city": "göteborg",
+                "zip": "41254",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs vasa",
+                "last_accept": 1129,
+                "$last_seen": "2023-08-11T09:43:03.768Z"
               }
             ],
             "kapellgatan": [
