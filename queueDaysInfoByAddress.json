@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-08-14T06:46:30.880Z",
+  "lastUpdatedAt": "2023-08-14T07:43:17.224Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -54661,6 +54661,20 @@
                 "$last_seen": "2023-07-17T11:38:38.143Z"
               },
               {
+                "id": 93301,
+                "rent": 11482,
+                "area": 80,
+                "street": "munspelsgatan",
+                "street_number": "12",
+                "city": "västra frölunda",
+                "zip": "42151",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "västra frölunda",
+                "last_accept": 930,
+                "$last_seen": "2023-08-14T06:46:30.880Z"
+              },
+              {
                 "id": 93305,
                 "rent": 11482,
                 "area": 80,
@@ -58311,6 +58325,20 @@
                 "$districtName": "hyllie",
                 "last_accept": 0,
                 "$last_seen": "2023-06-30T07:41:58.286Z"
+              },
+              {
+                "id": 93558,
+                "rent": 5536,
+                "area": 35,
+                "street": "hyllie vattenparksgata",
+                "street_number": "15m",
+                "city": "malmö",
+                "zip": "21531",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "hyllie",
+                "last_accept": 1460,
+                "$last_seen": "2023-08-14T06:46:30.880Z"
               }
             ]
           },
