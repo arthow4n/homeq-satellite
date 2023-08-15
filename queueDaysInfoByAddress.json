@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-08-15T07:43:34.323Z",
+  "lastUpdatedAt": "2023-08-15T08:45:33.609Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -2585,6 +2585,20 @@
                 "$districtName": "fässberg",
                 "last_accept": 1134,
                 "$last_seen": "2023-07-19T12:57:55.615Z"
+              },
+              {
+                "id": 91861,
+                "rent": 10188,
+                "area": 57,
+                "street": "åby allé",
+                "street_number": "23",
+                "city": "göteborg",
+                "zip": "43145",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 1190,
+                "$last_seen": "2023-08-15T07:43:34.323Z"
               },
               {
                 "id": 92085,
@@ -22067,6 +22081,22 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1592,
                 "$last_seen": "2023-06-07T05:44:04.679Z"
+              }
+            ],
+            "slätten": [
+              {
+                "id": 93382,
+                "rent": 8865,
+                "area": 49,
+                "street": "slätten",
+                "street_number": "2",
+                "city": "göteborg",
+                "zip": "41253",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 775,
+                "$last_seen": "2023-08-15T07:43:34.323Z"
               }
             ]
           },
@@ -47489,6 +47519,34 @@
                 "$districtName": "masthugget",
                 "last_accept": 1715,
                 "$last_seen": "2023-07-25T11:38:04.209Z"
+              },
+              {
+                "id": 91858,
+                "rent": 8273,
+                "area": 60,
+                "street": "dahlströmsgatan",
+                "street_number": "22",
+                "city": "göteborg",
+                "zip": "41465",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "masthugget",
+                "last_accept": 1685,
+                "$last_seen": "2023-08-15T07:43:34.323Z"
+              },
+              {
+                "id": 93639,
+                "rent": 9695,
+                "area": 73,
+                "street": "dahlströmsgatan",
+                "street_number": "46",
+                "city": "göteborg",
+                "zip": "41465",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "masthugget",
+                "last_accept": 1680,
+                "$last_seen": "2023-08-15T07:43:34.323Z"
               }
             ],
             "ekedalsgatan": [
@@ -48089,6 +48147,34 @@
                 "$districtName": "biskopsgården",
                 "last_accept": 391,
                 "$last_seen": "2023-06-14T11:43:17.261Z"
+              },
+              {
+                "id": 93379,
+                "rent": 12025,
+                "area": 104,
+                "street": "temperaturgatan",
+                "street_number": "79",
+                "city": "göteborg",
+                "zip": "41841",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "biskopsgården",
+                "last_accept": 0,
+                "$last_seen": "2023-08-15T07:43:34.323Z"
+              },
+              {
+                "id": 93392,
+                "rent": 9364,
+                "area": 79,
+                "street": "temperaturgatan",
+                "street_number": "55",
+                "city": "göteborg",
+                "zip": "41841",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "biskopsgården",
+                "last_accept": 204,
+                "$last_seen": "2023-08-15T07:43:34.323Z"
               }
             ],
             "solstrålegatan": [
@@ -61923,6 +62009,20 @@
                 "$districtName": "skärholmen",
                 "last_accept": 354,
                 "$last_seen": "2023-07-14T07:39:08.603Z"
+              },
+              {
+                "id": 92623,
+                "rent": 10433,
+                "area": 78,
+                "street": "ålgrytevägen",
+                "street_number": "103",
+                "city": "stockholm ",
+                "zip": "12732",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "skärholmen",
+                "last_accept": 0,
+                "$last_seen": "2023-07-27T07:37:37.314Z"
               }
             ],
             "bredängsvägen": [
