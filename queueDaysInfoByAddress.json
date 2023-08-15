@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-08-15T15:43:34.361Z",
+  "lastUpdatedAt": "2023-08-15T16:48:50.916Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -61988,6 +61988,20 @@
           },
           "skärholmen": {
             "vårbergsvägen": [
+              {
+                "id": 87713,
+                "rent": 8551,
+                "area": 35,
+                "street": "vårbergsvägen",
+                "street_number": "79",
+                "city": "stockholm",
+                "zip": "12743",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "skärholmen",
+                "last_accept": 855,
+                "$last_seen": "2023-08-15T15:43:34.361Z"
+              },
               {
                 "id": 87741,
                 "rent": 8551,
