@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-08-15T05:44:06.537Z",
+  "lastUpdatedAt": "2023-08-15T06:46:17.364Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -52081,6 +52081,20 @@
                 "$districtName": "gunnared",
                 "last_accept": 699,
                 "$last_seen": "2023-06-19T11:44:24.858Z"
+              },
+              {
+                "id": 92635,
+                "rent": 6399,
+                "area": 41,
+                "street": "lagerbladsgatan",
+                "street_number": "2",
+                "city": "göteborg",
+                "zip": "42440",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "gunnared",
+                "last_accept": 1135,
+                "$last_seen": "2023-08-15T05:44:06.537Z"
               }
             ],
             "gårdstensvägen": [
@@ -52391,6 +52405,20 @@
                 "$districtName": "gunnared",
                 "last_accept": 736,
                 "$last_seen": "2023-07-04T11:41:32.752Z"
+              },
+              {
+                "id": 92847,
+                "rent": 5284,
+                "area": 33,
+                "street": "gårdstensvägen",
+                "street_number": "57",
+                "city": "göteborg",
+                "zip": "42461",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "gunnared",
+                "last_accept": 858,
+                "$last_seen": "2023-08-15T05:44:06.537Z"
               }
             ]
           },
