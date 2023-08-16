@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-08-16T13:00:18.427Z",
+  "lastUpdatedAt": "2023-08-16T13:43:34.792Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -42303,6 +42303,20 @@
                 "$districtName": "göteborgs vasa",
                 "last_accept": 1681,
                 "$last_seen": "2023-08-16T07:43:51.388Z"
+              },
+              {
+                "id": 93553,
+                "rent": 9882,
+                "area": 70,
+                "street": "karl gustavsgatan",
+                "street_number": "39",
+                "city": "göteborg",
+                "zip": "41131",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs vasa",
+                "last_accept": 1474,
+                "$last_seen": "2023-08-16T13:00:18.427Z"
               }
             ],
             "mölndalsvägen": [
