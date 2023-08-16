@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-08-16T11:44:08.060Z",
+  "lastUpdatedAt": "2023-08-16T13:00:18.427Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -22183,6 +22183,20 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 775,
                 "$last_seen": "2023-08-15T07:43:34.323Z"
+              },
+              {
+                "id": 93383,
+                "rent": 11976,
+                "area": 77,
+                "street": "slätten",
+                "street_number": "2",
+                "city": "göteborg",
+                "zip": "41253",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1292,
+                "$last_seen": "2023-08-16T11:44:08.060Z"
               }
             ]
           },
@@ -40941,6 +40955,20 @@
                 "$districtName": "annedal",
                 "last_accept": 1664,
                 "$last_seen": "2023-07-31T12:59:24.493Z"
+              },
+              {
+                "id": 93860,
+                "rent": 10098,
+                "area": 62,
+                "street": "carl grimbergsgatan",
+                "street_number": "25",
+                "city": "göteborg",
+                "zip": "41313",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "annedal",
+                "last_accept": 1558,
+                "$last_seen": "2023-08-16T11:44:08.060Z"
               }
             ],
             "västergatan": [
@@ -48375,6 +48403,20 @@
                 "$last_seen": "2023-08-15T07:43:34.323Z"
               },
               {
+                "id": 93386,
+                "rent": 8385,
+                "area": 64,
+                "street": "temperaturgatan",
+                "street_number": "35",
+                "city": "göteborg",
+                "zip": "41841",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "biskopsgården",
+                "last_accept": 0,
+                "$last_seen": "2023-08-16T11:44:08.060Z"
+              },
+              {
                 "id": 93392,
                 "rent": 9364,
                 "area": 79,
@@ -48387,6 +48429,20 @@
                 "$districtName": "biskopsgården",
                 "last_accept": 204,
                 "$last_seen": "2023-08-15T07:43:34.323Z"
+              },
+              {
+                "id": 93401,
+                "rent": 6633,
+                "area": 43,
+                "street": "temperaturgatan",
+                "street_number": "67",
+                "city": "göteborg",
+                "zip": "41841",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "biskopsgården",
+                "last_accept": 0,
+                "$last_seen": "2023-08-16T11:44:08.060Z"
               }
             ],
             "solstrålegatan": [
@@ -53547,6 +53603,20 @@
                 "$districtName": "brunnsbo",
                 "last_accept": 1202,
                 "$last_seen": "2023-07-17T10:47:20.616Z"
+              },
+              {
+                "id": 91863,
+                "rent": 8565,
+                "area": 62,
+                "street": "prologgatan",
+                "street_number": "6",
+                "city": "hisings backa",
+                "zip": "42241",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brunnsbo",
+                "last_accept": 1287,
+                "$last_seen": "2023-08-16T11:44:08.060Z"
               }
             ],
             "sångspelsgatan": [
@@ -55397,6 +55467,20 @@
                 "$districtName": "västra frölunda",
                 "last_accept": 1060,
                 "$last_seen": "2023-06-30T10:47:52.211Z"
+              },
+              {
+                "id": 91838,
+                "rent": 4868,
+                "area": 28,
+                "street": "marconigatan",
+                "street_number": "33 b",
+                "city": "västra frölunda",
+                "zip": "42144",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "västra frölunda",
+                "last_accept": 1420,
+                "$last_seen": "2023-08-16T11:44:08.060Z"
               }
             ]
           },
@@ -56891,6 +56975,20 @@
                 "$districtName": "malmö sankt petri",
                 "last_accept": 645,
                 "$last_seen": "2023-07-11T08:48:07.746Z"
+              },
+              {
+                "id": 91923,
+                "rent": 9900,
+                "area": 60,
+                "street": "stormgatan",
+                "street_number": "6",
+                "city": "malmö",
+                "zip": "21120",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "malmö sankt petri",
+                "last_accept": 496,
+                "$last_seen": "2023-08-16T11:44:08.060Z"
               }
             ],
             "fabriksgatan": [
@@ -59905,6 +60003,20 @@
                 "$districtName": "limhamn",
                 "last_accept": 0,
                 "$last_seen": "2023-07-04T04:49:04.233Z"
+              },
+              {
+                "id": 93092,
+                "rent": 8641,
+                "area": 45,
+                "street": "blåsebergavägen",
+                "street_number": "12",
+                "city": "limhamn",
+                "zip": "21633",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "limhamn",
+                "last_accept": 0,
+                "$last_seen": "2023-08-16T11:44:08.060Z"
               },
               {
                 "id": 93114,
