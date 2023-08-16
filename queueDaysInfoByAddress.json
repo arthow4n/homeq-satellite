@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-08-16T06:46:46.723Z",
+  "lastUpdatedAt": "2023-08-16T07:43:51.388Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -34967,6 +34967,20 @@
                 "$districtName": "göteborgs domkyrkodistrikt",
                 "last_accept": 1660,
                 "$last_seen": "2023-07-26T11:37:51.722Z"
+              },
+              {
+                "id": 92636,
+                "rent": 7522,
+                "area": 43,
+                "street": "friggagatan",
+                "street_number": "25 a",
+                "city": "göteborg",
+                "zip": "41664",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs domkyrkodistrikt",
+                "last_accept": 1681,
+                "$last_seen": "2023-08-16T06:46:46.723Z"
               }
             ],
             "sten sturegatan": [
