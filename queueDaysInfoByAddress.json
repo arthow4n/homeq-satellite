@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-08-16T08:45:57.925Z",
+  "lastUpdatedAt": "2023-08-16T09:43:57.829Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -21957,6 +21957,20 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1424,
                 "$last_seen": "2023-04-12T11:40:25.023Z"
+              },
+              {
+                "id": 93604,
+                "rent": 7700,
+                "area": 60,
+                "street": "norra gubberogatan",
+                "street_number": "20",
+                "city": "göteborg",
+                "zip": "41663",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1681,
+                "$last_seen": "2023-08-16T08:45:57.925Z"
               }
             ],
             "räntmästaregatan": [
@@ -22123,6 +22137,22 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1592,
                 "$last_seen": "2023-06-07T05:44:04.679Z"
+              }
+            ],
+            "l:a redbergsgatan": [
+              {
+                "id": 91914,
+                "rent": 9500,
+                "area": 63,
+                "street": "l:a redbergsgatan",
+                "street_number": "2",
+                "city": "göteborg",
+                "zip": "41665",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1545,
+                "$last_seen": "2023-08-16T08:45:57.925Z"
               }
             ],
             "slätten": [
@@ -41561,6 +41591,20 @@
                 "$districtName": "annedal",
                 "last_accept": 1559,
                 "$last_seen": "2023-05-02T11:40:16.072Z"
+              },
+              {
+                "id": 92223,
+                "rent": 7263,
+                "area": 49,
+                "street": "guldhedstorget",
+                "street_number": "1a",
+                "city": "göteborg",
+                "zip": "41321",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "annedal",
+                "last_accept": 1680,
+                "$last_seen": "2023-08-16T08:45:57.925Z"
               }
             ],
             "sveagatan": [
@@ -57157,6 +57201,22 @@
                 "$last_seen": "2023-07-10T05:44:52.501Z"
               }
             ],
+            "dammsnäcksgränd": [
+              {
+                "id": 85255,
+                "rent": 9647,
+                "area": 53,
+                "street": "dammsnäcksgränd",
+                "street_number": "10",
+                "city": "malmö",
+                "zip": "21631",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "limhamn",
+                "last_accept": 371,
+                "$last_seen": "2023-08-16T08:45:57.925Z"
+              }
+            ],
             "roddaregatan": [
               {
                 "id": 89175,
@@ -59831,6 +59891,34 @@
                 "$districtName": "limhamn",
                 "last_accept": 0,
                 "$last_seen": "2023-07-04T04:49:04.233Z"
+              },
+              {
+                "id": 93114,
+                "rent": 8840,
+                "area": 48,
+                "street": "blåsebergavägen",
+                "street_number": "2",
+                "city": "limhamn",
+                "zip": "21633",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "limhamn",
+                "last_accept": 3,
+                "$last_seen": "2023-08-16T08:45:57.925Z"
+              },
+              {
+                "id": 93835,
+                "rent": 10968,
+                "area": 68,
+                "street": "blåsebergavägen",
+                "street_number": "14",
+                "city": "limhamn",
+                "zip": "21633",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "limhamn",
+                "last_accept": 36,
+                "$last_seen": "2023-08-16T08:45:57.925Z"
               }
             ],
             "birger jarlsgatan": [
