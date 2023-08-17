@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-08-17T10:45:55.937Z",
+  "lastUpdatedAt": "2023-08-17T11:43:14.908Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -273,6 +273,20 @@
                 "$districtName": "fässberg",
                 "last_accept": 1439,
                 "$last_seen": "2023-06-29T15:44:11.622Z"
+              },
+              {
+                "id": 93747,
+                "rent": 10507,
+                "area": 65,
+                "street": "bergmansgatan",
+                "street_number": "1",
+                "city": "mölndal",
+                "zip": "43130",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 839,
+                "$last_seen": "2023-08-17T10:45:55.937Z"
               }
             ],
             "stenbrogatan": [
@@ -44295,6 +44309,20 @@
                 "$districtName": "göteborgs vasa",
                 "last_accept": 1541,
                 "$last_seen": "2023-05-11T11:41:57.176Z"
+              },
+              {
+                "id": 93312,
+                "rent": 18486,
+                "area": 144,
+                "street": "föreningsgatan",
+                "street_number": "33",
+                "city": "göteborg",
+                "zip": "41127",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs vasa",
+                "last_accept": 1681,
+                "$last_seen": "2023-08-17T10:45:55.937Z"
               }
             ],
             "tegnérsgatan": [
@@ -55075,6 +55103,20 @@
                 "$districtName": "tynnered",
                 "last_accept": 849,
                 "$last_seen": "2023-07-31T12:59:24.493Z"
+              },
+              {
+                "id": 94060,
+                "rent": 6714,
+                "area": 70,
+                "street": "briljantgatan",
+                "street_number": "9",
+                "city": "västra frölunda",
+                "zip": "42149",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tynnered",
+                "last_accept": 1407,
+                "$last_seen": "2023-08-17T10:45:55.937Z"
               }
             ],
             "safirgatan": [
