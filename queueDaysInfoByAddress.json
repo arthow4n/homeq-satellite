@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-08-17T12:59:19.742Z",
+  "lastUpdatedAt": "2023-08-17T13:45:42.397Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -3845,6 +3845,20 @@
                 "$districtName": "kållered",
                 "last_accept": 989,
                 "$last_seen": "2023-08-11T09:43:03.768Z"
+              },
+              {
+                "id": 91875,
+                "rent": 7742,
+                "area": 63,
+                "street": "våmmedalsvägen",
+                "street_number": "98",
+                "city": "kållered",
+                "zip": "42831",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "kållered",
+                "last_accept": 1189,
+                "$last_seen": "2023-08-17T12:59:19.742Z"
               }
             ],
             "streteredsvägen": [
@@ -45263,6 +45277,20 @@
                 "$districtName": "göteborgs oscar fredrik",
                 "last_accept": 1557,
                 "$last_seen": "2022-11-30T08:46:08.455Z"
+              },
+              {
+                "id": 93932,
+                "rent": 11372,
+                "area": 76,
+                "street": "övre djupedalsgatan",
+                "street_number": "7 c",
+                "city": "göteborg",
+                "zip": "41307",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs oscar fredrik",
+                "last_accept": 1682,
+                "$last_seen": "2023-08-17T12:59:19.742Z"
               }
             ],
             "fjärde långgatan": [
@@ -57189,6 +57217,20 @@
                 "$last_seen": "2023-07-11T08:48:07.746Z"
               },
               {
+                "id": 91922,
+                "rent": 10100,
+                "area": 62,
+                "street": "stormgatan",
+                "street_number": "6",
+                "city": "malmö",
+                "zip": "21120",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "malmö sankt petri",
+                "last_accept": 170,
+                "$last_seen": "2023-08-17T12:59:19.742Z"
+              },
+              {
                 "id": 91923,
                 "rent": 9900,
                 "area": 60,
@@ -61023,6 +61065,20 @@
                 "$districtName": "bunkeflo",
                 "last_accept": 0,
                 "$last_seen": "2023-08-11T08:44:29.176Z"
+              },
+              {
+                "id": 93433,
+                "rent": 11681,
+                "area": 82.7,
+                "street": "skomakarebyn",
+                "street_number": "5p",
+                "city": "bunkeflostrand",
+                "zip": "21841",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "bunkeflo",
+                "last_accept": 0,
+                "$last_seen": "2023-08-17T12:59:19.742Z"
               }
             ],
             "vagnmakarebyn": [
