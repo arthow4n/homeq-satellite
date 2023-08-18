@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-08-18T08:45:10.661Z",
+  "lastUpdatedAt": "2023-08-18T09:43:06.658Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -38325,6 +38325,20 @@
                 "$last_seen": "2023-07-21T06:42:28.228Z"
               },
               {
+                "id": 93052,
+                "rent": 7670,
+                "area": 76,
+                "street": "mejerigatan",
+                "street_number": "8",
+                "city": "göteborg",
+                "zip": "41276",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1676,
+                "$last_seen": "2023-08-18T08:45:10.661Z"
+              },
+              {
                 "id": 93060,
                 "rent": 7687,
                 "area": 76,
@@ -55647,6 +55661,20 @@
                 "$districtName": "västra frölunda",
                 "last_accept": 469,
                 "$last_seen": "2023-08-10T07:42:44.142Z"
+              },
+              {
+                "id": 93966,
+                "rent": 11482,
+                "area": 80,
+                "street": "speldosegatan",
+                "street_number": "6",
+                "city": "västra frölunda",
+                "zip": "42151",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "västra frölunda",
+                "last_accept": 548,
+                "$last_seen": "2023-08-18T08:45:10.661Z"
               }
             ],
             "tamburingatan": [
@@ -62809,6 +62837,24 @@
                 "$districtName": "skarpnäck",
                 "last_accept": 1758,
                 "$last_seen": "2023-07-05T15:45:23.572Z"
+              }
+            ]
+          },
+          "stockholms sankt göran": {
+            "st. eriksgatan": [
+              {
+                "id": 89154,
+                "rent": 9430,
+                "area": 57,
+                "street": "st. eriksgatan",
+                "street_number": "34",
+                "city": "stockholm",
+                "zip": "11234",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "stockholms sankt göran",
+                "last_accept": 2341,
+                "$last_seen": "2023-08-18T07:43:20.837Z"
               }
             ]
           }
