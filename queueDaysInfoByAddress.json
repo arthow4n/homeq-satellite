@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-08-18T06:46:00.367Z",
+  "lastUpdatedAt": "2023-08-18T07:43:20.837Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -16533,6 +16533,20 @@
                 "$last_seen": "2023-07-13T13:07:11.588Z"
               },
               {
+                "id": 93320,
+                "rent": 7898,
+                "area": 83,
+                "street": "fyrklöversgatan",
+                "street_number": "70",
+                "city": "göteborg",
+                "zip": "41721",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1676,
+                "$last_seen": "2023-08-18T06:46:00.367Z"
+              },
+              {
                 "id": 93945,
                 "rent": 6939,
                 "area": 70,
@@ -27811,6 +27825,20 @@
                 "$districtName": "askim",
                 "last_accept": 653,
                 "$last_seen": "2023-07-26T10:41:08.362Z"
+              },
+              {
+                "id": 93306,
+                "rent": 14462,
+                "area": 79,
+                "street": "kobbeslätten",
+                "street_number": "8",
+                "city": "göteborg",
+                "zip": "43637",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 480,
+                "$last_seen": "2023-08-18T06:46:00.367Z"
               }
             ],
             "kobbegården": [
@@ -41139,6 +41167,20 @@
                 "$districtName": "annedal",
                 "last_accept": 1558,
                 "$last_seen": "2023-08-16T11:44:08.060Z"
+              },
+              {
+                "id": 93914,
+                "rent": 8489,
+                "area": 62,
+                "street": "carl grimbergsgatan",
+                "street_number": "23",
+                "city": "göteborg",
+                "zip": "41313",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "annedal",
+                "last_accept": 1682,
+                "$last_seen": "2023-08-18T06:46:00.367Z"
               }
             ],
             "västergatan": [
@@ -54175,6 +54217,20 @@
                 "$districtName": "askim",
                 "last_accept": 352,
                 "$last_seen": "2023-07-26T07:37:46.308Z"
+              },
+              {
+                "id": 93308,
+                "rent": 8407,
+                "area": 34,
+                "street": "sisjöbäckens väg",
+                "street_number": "22",
+                "city": "askim",
+                "zip": "43638",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 396,
+                "$last_seen": "2023-08-18T06:46:00.367Z"
               }
             ],
             "kobbegården": [
@@ -55173,6 +55229,20 @@
                 "$districtName": "tynnered",
                 "last_accept": 849,
                 "$last_seen": "2023-07-31T12:59:24.493Z"
+              },
+              {
+                "id": 94057,
+                "rent": 9604,
+                "area": 116,
+                "street": "briljantgatan",
+                "street_number": "14",
+                "city": "västra frölunda",
+                "zip": "42149",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tynnered",
+                "last_accept": 1416,
+                "$last_seen": "2023-08-18T06:46:00.367Z"
               },
               {
                 "id": 94060,
