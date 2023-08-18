@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-08-18T07:43:20.837Z",
+  "lastUpdatedAt": "2023-08-18T08:45:10.661Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -59111,6 +59111,20 @@
                 "$districtName": "hyllie",
                 "last_accept": 7,
                 "$last_seen": "2023-06-20T10:48:22.581Z"
+              },
+              {
+                "id": 93094,
+                "rent": 7048,
+                "area": 32,
+                "street": "allétorget",
+                "street_number": "9",
+                "city": "malmö",
+                "zip": "21534",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "hyllie",
+                "last_accept": 52,
+                "$last_seen": "2023-08-18T07:43:20.837Z"
               }
             ],
             "bures gata": [
@@ -61281,6 +61295,20 @@
                 "$districtName": "bunkeflo",
                 "last_accept": 0,
                 "$last_seen": "2023-08-15T11:43:40.207Z"
+              },
+              {
+                "id": 93355,
+                "rent": 8508,
+                "area": 60.1,
+                "street": "skräddarebyn",
+                "street_number": "4b",
+                "city": "bunkeflostrand",
+                "zip": "21842",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "bunkeflo",
+                "last_accept": 0,
+                "$last_seen": "2023-08-18T07:43:20.837Z"
               }
             ]
           }
@@ -63083,6 +63111,20 @@
                 "$districtName": "hägersten",
                 "last_accept": 1968,
                 "$last_seen": "2023-07-24T11:37:51.040Z"
+              },
+              {
+                "id": 94120,
+                "rent": 9322,
+                "area": 81,
+                "street": "erikslundsgatan",
+                "street_number": "7",
+                "city": "hägersten",
+                "zip": "12632",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "hägersten",
+                "last_accept": 2205,
+                "$last_seen": "2023-08-18T07:43:20.837Z"
               }
             ]
           }
