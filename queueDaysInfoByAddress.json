@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-08-21T09:42:57.826Z",
+  "lastUpdatedAt": "2023-08-21T10:46:42.970Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -17079,6 +17079,20 @@
                 "$districtName": "lundby",
                 "last_accept": 1403,
                 "$last_seen": "2023-08-15T10:46:27.547Z"
+              },
+              {
+                "id": 93848,
+                "rent": 7864,
+                "area": 66,
+                "street": "arvid lindmansgatan",
+                "street_number": "5 c",
+                "city": "göteborg",
+                "zip": "41726",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1679,
+                "$last_seen": "2023-08-21T09:42:57.826Z"
               }
             ],
             "estlandsgatan": [
@@ -28387,6 +28401,20 @@
                 "$districtName": "askim",
                 "last_accept": 1230,
                 "$last_seen": "2023-07-31T11:37:39.771Z"
+              },
+              {
+                "id": 92671,
+                "rent": 8895,
+                "area": 65,
+                "street": "kobbegården",
+                "street_number": "58",
+                "city": "göteborg",
+                "zip": "43637",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 1340,
+                "$last_seen": "2023-08-21T09:42:57.826Z"
               }
             ],
             "ugglegården": [
@@ -60463,6 +60491,22 @@
             ]
           },
           "fosie": {
+            "docentgatan": [
+              {
+                "id": 89050,
+                "rent": 6456,
+                "area": 42,
+                "street": "docentgatan",
+                "street_number": "3a",
+                "city": "malmö",
+                "zip": "21552",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "fosie",
+                "last_accept": 420,
+                "$last_seen": "2023-08-21T09:42:57.826Z"
+              }
+            ],
             "professorsgatan": [
               {
                 "id": 89123,
