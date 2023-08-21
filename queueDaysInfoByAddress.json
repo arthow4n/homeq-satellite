@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-08-21T13:00:08.919Z",
+  "lastUpdatedAt": "2023-08-21T13:42:59.381Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -2641,6 +2641,20 @@
                 "$districtName": "fässberg",
                 "last_accept": 1299,
                 "$last_seen": "2023-08-18T10:45:46.326Z"
+              },
+              {
+                "id": 93358,
+                "rent": 9542,
+                "area": 56,
+                "street": "åby allé",
+                "street_number": "61",
+                "city": "göteborg",
+                "zip": "43145",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 1274,
+                "$last_seen": "2023-08-21T13:00:08.919Z"
               }
             ],
             "åbyvägen": [
@@ -29083,6 +29097,20 @@
                 "$districtName": "bergsjön",
                 "last_accept": 1316,
                 "$last_seen": "2023-04-24T13:01:22.941Z"
+              },
+              {
+                "id": 92606,
+                "rent": 5769,
+                "area": 44,
+                "street": "keplers gata",
+                "street_number": "44",
+                "city": "göteborg",
+                "zip": "41555",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bergsjön",
+                "last_accept": 1237,
+                "$last_seen": "2023-08-21T13:00:08.919Z"
               }
             ],
             "galileis gata": [
@@ -37999,6 +38027,20 @@
                 "$last_seen": "2023-07-31T06:42:34.033Z"
               },
               {
+                "id": 93209,
+                "rent": 12043,
+                "area": 64,
+                "street": "tändsticksgatan",
+                "street_number": "2",
+                "city": "göteborg",
+                "zip": "41263",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 997,
+                "$last_seen": "2023-08-21T13:00:08.919Z"
+              },
+              {
                 "id": 93240,
                 "rent": 9133,
                 "area": 45,
@@ -38593,6 +38635,20 @@
                 "$last_seen": "2023-05-16T13:01:30.070Z"
               },
               {
+                "id": 84587,
+                "rent": 11683,
+                "area": 92,
+                "street": "mejerigatan",
+                "street_number": "14",
+                "city": "göteborg",
+                "zip": "41276",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1685,
+                "$last_seen": "2023-08-21T11:45:32.704Z"
+              },
+              {
                 "id": 92226,
                 "rent": 12118,
                 "area": 92,
@@ -38689,6 +38745,20 @@
                 "$districtName": "örgryte",
                 "last_accept": 0,
                 "$last_seen": "2023-08-15T08:45:33.609Z"
+              },
+              {
+                "id": 94251,
+                "rent": 12118,
+                "area": 92,
+                "street": "mejerigatan",
+                "street_number": "14",
+                "city": "göteborg",
+                "zip": "41276",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1332,
+                "$last_seen": "2023-08-21T11:45:32.704Z"
               }
             ],
             "filmjölksgatan": [
