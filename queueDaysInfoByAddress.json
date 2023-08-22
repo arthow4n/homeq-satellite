@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-08-22T05:42:46.552Z",
+  "lastUpdatedAt": "2023-08-22T06:45:42.017Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -56747,6 +56747,20 @@
                 "$districtName": "partille",
                 "last_accept": 1166,
                 "$last_seen": "2023-06-07T13:04:53.139Z"
+              },
+              {
+                "id": 93942,
+                "rent": 6870,
+                "area": 59,
+                "street": "stärteredsvägen",
+                "street_number": "26 a",
+                "city": "jonsered",
+                "zip": "43375",
+                "municipality": "partille",
+                "county": "västra götalands län",
+                "$districtName": "partille",
+                "last_accept": 1308,
+                "$last_seen": "2023-08-22T05:42:46.552Z"
               }
             ],
             "länsmansvägen": [
