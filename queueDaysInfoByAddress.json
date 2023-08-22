@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-08-22T07:42:20.460Z",
+  "lastUpdatedAt": "2023-08-22T08:44:53.628Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -21979,6 +21979,20 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1627,
                 "$last_seen": "2023-07-06T07:42:13.053Z"
+              },
+              {
+                "id": 91906,
+                "rent": 9540,
+                "area": 60,
+                "street": "danska vägen",
+                "street_number": "79b",
+                "city": "göteborg",
+                "zip": "41659",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1601,
+                "$last_seen": "2023-08-22T07:42:20.460Z"
               }
             ],
             "vävskedsgatan": [
@@ -27091,6 +27105,20 @@
                 "$districtName": "askim",
                 "last_accept": 1024,
                 "$last_seen": "2023-08-17T13:45:42.397Z"
+              },
+              {
+                "id": 93843,
+                "rent": 9511,
+                "area": 81,
+                "street": "pilegården",
+                "street_number": "7 b",
+                "city": "göteborg",
+                "zip": "43635",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 1402,
+                "$last_seen": "2023-08-22T07:42:20.460Z"
               }
             ],
             "nergårdsvägen": [
@@ -55823,6 +55851,20 @@
                 "$districtName": "tynnered",
                 "last_accept": 985,
                 "$last_seen": "2023-06-07T13:47:38.588Z"
+              },
+              {
+                "id": 89842,
+                "rent": 9275,
+                "area": 74,
+                "street": "lilla grevegårdsvägen",
+                "street_number": "47",
+                "city": "västra frölunda",
+                "zip": "42655",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tynnered",
+                "last_accept": 1245,
+                "$last_seen": "2023-08-22T07:42:20.460Z"
               }
             ],
             "björkhöjdgatan": [
@@ -57771,6 +57813,20 @@
                 "$districtName": "malmö sankt petri",
                 "last_accept": 0,
                 "$last_seen": "2023-07-07T05:45:03.536Z"
+              },
+              {
+                "id": 94346,
+                "rent": 8048,
+                "area": 43,
+                "street": "kalendegatan",
+                "street_number": "16",
+                "city": "malmö",
+                "zip": "21135",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "malmö sankt petri",
+                "last_accept": 45,
+                "$last_seen": "2023-08-22T07:42:20.460Z"
               }
             ],
             "dagvattengatan": [
@@ -59517,6 +59573,20 @@
                 "$districtName": "hyllie",
                 "last_accept": 0,
                 "$last_seen": "2023-06-27T11:41:59.985Z"
+              },
+              {
+                "id": 93871,
+                "rent": 9147,
+                "area": 46,
+                "street": "hyllie allé",
+                "street_number": "28b",
+                "city": "malmö",
+                "zip": "21535",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "hyllie",
+                "last_accept": 0,
+                "$last_seen": "2023-08-22T07:42:20.460Z"
               }
             ],
             "tors gränd": [
