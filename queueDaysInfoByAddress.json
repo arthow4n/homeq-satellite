@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-08-22T11:42:21.438Z",
+  "lastUpdatedAt": "2023-08-22T12:59:52.179Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -32323,6 +32323,20 @@
                 "$districtName": "nylöse",
                 "last_accept": 279,
                 "$last_seen": "2023-08-22T09:42:18.297Z"
+              },
+              {
+                "id": 93936,
+                "rent": 8910,
+                "area": 64.8,
+                "street": "sysslomansgatan",
+                "street_number": "39",
+                "city": "göteborg",
+                "zip": "41574",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "nylöse",
+                "last_accept": 0,
+                "$last_seen": "2023-08-22T11:42:21.438Z"
               }
             ],
             "hinderbanan": [
@@ -35037,6 +35051,34 @@
                 "$districtName": "göteborgs domkyrkodistrikt",
                 "last_accept": 1414,
                 "$last_seen": "2023-07-31T11:37:39.771Z"
+              },
+              {
+                "id": 93210,
+                "rent": 7171,
+                "area": 34,
+                "street": "bangårdsgatan",
+                "street_number": "19",
+                "city": "göteborg",
+                "zip": "41112",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs domkyrkodistrikt",
+                "last_accept": 1462,
+                "$last_seen": "2023-08-22T11:42:21.438Z"
+              },
+              {
+                "id": 93212,
+                "rent": 6916,
+                "area": 34,
+                "street": "bangårdsgatan",
+                "street_number": "21",
+                "city": "göteborg",
+                "zip": "41112",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs domkyrkodistrikt",
+                "last_accept": 1565,
+                "$last_seen": "2023-08-22T11:42:21.438Z"
               },
               {
                 "id": 93218,
