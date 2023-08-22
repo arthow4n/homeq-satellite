@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-08-22T09:42:18.297Z",
+  "lastUpdatedAt": "2023-08-22T10:45:35.359Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -32295,6 +32295,20 @@
                 "$districtName": "nylöse",
                 "last_accept": 159,
                 "$last_seen": "2023-06-22T09:44:24.054Z"
+              },
+              {
+                "id": 93931,
+                "rent": 9377,
+                "area": 54,
+                "street": "sysslomansgatan",
+                "street_number": "44",
+                "city": "göteborg",
+                "zip": "40422",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "nylöse",
+                "last_accept": 279,
+                "$last_seen": "2023-08-22T09:42:18.297Z"
               }
             ],
             "hinderbanan": [
@@ -42167,6 +42181,34 @@
                 "$districtName": "annedal",
                 "last_accept": 1440,
                 "$last_seen": "2022-12-27T12:55:14.930Z"
+              },
+              {
+                "id": 70303,
+                "rent": 7284,
+                "area": 53,
+                "street": "seminariegatan",
+                "street_number": "6",
+                "city": "göteborg",
+                "zip": "41313",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "annedal",
+                "last_accept": 1682,
+                "$last_seen": "2023-08-22T09:42:18.297Z"
+              },
+              {
+                "id": 77343,
+                "rent": 9456,
+                "area": 64,
+                "street": "seminariegatan",
+                "street_number": "8",
+                "city": "göteborg",
+                "zip": "41313",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "annedal",
+                "last_accept": 1682,
+                "$last_seen": "2023-08-22T09:42:18.297Z"
               },
               {
                 "id": 79534,
