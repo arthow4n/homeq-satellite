@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-08-23T05:42:55.631Z",
+  "lastUpdatedAt": "2023-08-23T06:45:38.685Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -38913,6 +38913,20 @@
                 "$districtName": "örgryte",
                 "last_accept": 1332,
                 "$last_seen": "2023-08-21T11:45:32.704Z"
+              },
+              {
+                "id": 94943,
+                "rent": 12118,
+                "area": 92,
+                "street": "mejerigatan",
+                "street_number": "14",
+                "city": "göteborg",
+                "zip": "41276",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1581,
+                "$last_seen": "2023-08-23T05:42:55.631Z"
               }
             ],
             "filmjölksgatan": [
@@ -45621,6 +45635,20 @@
                 "$districtName": "göteborgs oscar fredrik",
                 "last_accept": 1672,
                 "$last_seen": "2023-08-08T09:41:08.884Z"
+              },
+              {
+                "id": 94068,
+                "rent": 13667,
+                "area": 58,
+                "street": "jungmansgatan",
+                "street_number": "33c",
+                "city": "göteborg",
+                "zip": "41315",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs oscar fredrik",
+                "last_accept": 1349,
+                "$last_seen": "2023-08-23T05:42:55.631Z"
               }
             ],
             "gubbe lars väg": [
@@ -60938,6 +60966,22 @@
                 "last_accept": 0,
                 "$last_seen": "2023-06-20T06:49:15.341Z"
               }
+            ],
+            "nordlindsväg": [
+              {
+                "id": 91807,
+                "rent": 21652,
+                "area": 176,
+                "street": "nordlindsväg",
+                "street_number": "91 b",
+                "city": "malmö",
+                "zip": "21748",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "slottsstaden",
+                "last_accept": 2,
+                "$last_seen": "2023-08-23T05:42:55.631Z"
+              }
             ]
           },
           "fosie": {
@@ -64083,20 +64127,6 @@
                 "$districtName": "spånga",
                 "last_accept": 1197,
                 "$last_seen": "2023-07-11T13:47:34.805Z"
-              },
-              {
-                "id": 93434,
-                "rent": 5199,
-                "area": 31,
-                "street": "nybykroken",
-                "street_number": "33",
-                "city": "spånga",
-                "zip": "16370",
-                "municipality": "stockholm",
-                "county": "stockholms län",
-                "$districtName": "spånga",
-                "last_accept": 1371,
-                "$last_seen": "2023-08-22T15:42:14.970Z"
               },
               {
                 "id": 93441,
