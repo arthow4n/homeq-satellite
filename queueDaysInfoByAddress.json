@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-08-23T10:45:57.795Z",
+  "lastUpdatedAt": "2023-08-23T11:42:41.675Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -13947,6 +13947,20 @@
                 "$districtName": "brämaregården",
                 "last_accept": 900,
                 "$last_seen": "2023-06-22T07:44:39.744Z"
+              },
+              {
+                "id": 93913,
+                "rent": 10402,
+                "area": 58,
+                "street": "solventilsgatan",
+                "street_number": "20",
+                "city": "göteborg",
+                "zip": "41722",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brämaregården",
+                "last_accept": 937,
+                "$last_seen": "2023-08-23T09:42:43.683Z"
               }
             ],
             "godemansgatan": [
@@ -27189,6 +27203,20 @@
                 "$districtName": "askim",
                 "last_accept": 1402,
                 "$last_seen": "2023-08-22T07:42:20.460Z"
+              },
+              {
+                "id": 94635,
+                "rent": 9330,
+                "area": 65,
+                "street": "pilegården",
+                "street_number": "4c",
+                "city": "göteborg",
+                "zip": "43635",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 931,
+                "$last_seen": "2023-08-23T10:45:57.795Z"
               }
             ],
             "nergårdsvägen": [
@@ -58186,6 +58214,22 @@
                 "last_accept": 1096,
                 "$last_seen": "2023-07-14T06:47:45.649Z"
               }
+            ],
+            "stora kvarngatan": [
+              {
+                "id": 93853,
+                "rent": 3783,
+                "area": 26,
+                "street": "stora kvarngatan",
+                "street_number": "10",
+                "city": "malmö",
+                "zip": "21129",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "malmö sankt petri",
+                "last_accept": 1230,
+                "$last_seen": "2023-08-23T10:45:57.795Z"
+              }
             ]
           },
           "husie": {
@@ -64225,6 +64269,20 @@
                 "$districtName": "spånga",
                 "last_accept": 1197,
                 "$last_seen": "2023-07-11T13:47:34.805Z"
+              },
+              {
+                "id": 93434,
+                "rent": 5199,
+                "area": 31,
+                "street": "nybykroken",
+                "street_number": "33",
+                "city": "spånga",
+                "zip": "16370",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "spånga",
+                "last_accept": 1378,
+                "$last_seen": "2023-08-23T10:45:57.795Z"
               },
               {
                 "id": 93441,
