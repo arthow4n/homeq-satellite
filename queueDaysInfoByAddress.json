@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-08-23T13:43:07.342Z",
+  "lastUpdatedAt": "2023-08-23T14:44:33.344Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -23687,6 +23687,20 @@
                 "$districtName": "björkekärr",
                 "last_accept": 1033,
                 "$last_seen": "2023-08-15T13:43:55.317Z"
+              },
+              {
+                "id": 93223,
+                "rent": 5328,
+                "area": 22,
+                "street": "smörslätten",
+                "street_number": "6",
+                "city": "göteborg",
+                "zip": "41677",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "björkekärr",
+                "last_accept": 830,
+                "$last_seen": "2023-08-23T13:43:07.342Z"
               }
             ],
             "lådspikaregatan": [
@@ -54381,6 +54395,20 @@
                 "$districtName": "bergum",
                 "last_accept": 0,
                 "$last_seen": "2023-06-19T14:46:24.448Z"
+              },
+              {
+                "id": 93331,
+                "rent": 16900,
+                "area": 118,
+                "street": "östra björredsvägen",
+                "street_number": "22c",
+                "city": "göteborg ",
+                "zip": "42471",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bergum",
+                "last_accept": 331,
+                "$last_seen": "2023-08-23T13:43:07.342Z"
               }
             ]
           }
@@ -64395,6 +64423,20 @@
                 "$districtName": "spånga",
                 "last_accept": 1378,
                 "$last_seen": "2023-08-23T10:45:57.795Z"
+              },
+              {
+                "id": 93437,
+                "rent": 5199,
+                "area": 31,
+                "street": "nybykroken",
+                "street_number": "33",
+                "city": "spånga",
+                "zip": "16370",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "spånga",
+                "last_accept": 1451,
+                "$last_seen": "2023-08-23T13:43:07.342Z"
               },
               {
                 "id": 93441,
