@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-08-24T11:42:23.314Z",
+  "lastUpdatedAt": "2023-08-24T13:00:11.174Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -15293,6 +15293,20 @@
                 "$districtName": "lundby",
                 "last_accept": 1365,
                 "$last_seen": "2023-05-31T10:42:39.643Z"
+              },
+              {
+                "id": 93400,
+                "rent": 7639,
+                "area": 61,
+                "street": "wieselgrensplatsen",
+                "street_number": "27",
+                "city": "göteborg",
+                "zip": "41712",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1466,
+                "$last_seen": "2023-08-24T11:42:23.314Z"
               }
             ],
             "lundbygatan": [
@@ -16825,6 +16839,20 @@
                 "$districtName": "lundby",
                 "last_accept": 1676,
                 "$last_seen": "2023-08-18T06:46:00.367Z"
+              },
+              {
+                "id": 93326,
+                "rent": 4867,
+                "area": 43,
+                "street": "fyrklöversgatan",
+                "street_number": "12",
+                "city": "göteborg",
+                "zip": "41721",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1506,
+                "$last_seen": "2023-08-24T11:42:23.314Z"
               },
               {
                 "id": 93945,
