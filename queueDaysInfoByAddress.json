@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-08-24T08:45:10.935Z",
+  "lastUpdatedAt": "2023-08-24T09:42:36.976Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -23757,6 +23757,20 @@
                 "$districtName": "björkekärr",
                 "last_accept": 1230,
                 "$last_seen": "2023-08-08T09:41:08.884Z"
+              },
+              {
+                "id": 93771,
+                "rent": 5325,
+                "area": 0,
+                "street": "smörslätten",
+                "street_number": "6",
+                "city": "göteborg",
+                "zip": "41677",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "björkekärr",
+                "last_accept": 830,
+                "$last_seen": "2023-08-24T08:45:10.935Z"
               }
             ],
             "lådspikaregatan": [
@@ -30037,6 +30051,20 @@
                 "$districtName": "bergsjön",
                 "last_accept": 1654,
                 "$last_seen": "2023-07-27T11:37:16.248Z"
+              },
+              {
+                "id": 94465,
+                "rent": 6669,
+                "area": 52,
+                "street": "galileis gata",
+                "street_number": "24",
+                "city": "göteborg",
+                "zip": "41554",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bergsjön",
+                "last_accept": 892,
+                "$last_seen": "2023-08-24T08:45:10.935Z"
               }
             ],
             "kosmosgatan": [
@@ -59919,6 +59947,22 @@
                 "$districtName": "malmö sankt pauli",
                 "last_accept": 7,
                 "$last_seen": "2023-07-06T06:52:54.733Z"
+              }
+            ],
+            "lugna gatan": [
+              {
+                "id": 91925,
+                "rent": 12300,
+                "area": 80,
+                "street": "lugna gatan",
+                "street_number": "38",
+                "city": "malmö",
+                "zip": "21160",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "malmö sankt pauli",
+                "last_accept": 0,
+                "$last_seen": "2023-08-24T08:45:10.935Z"
               }
             ]
           },
