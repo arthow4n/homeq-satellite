@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-08-24T04:44:29.602Z",
+  "lastUpdatedAt": "2023-08-24T05:43:13.162Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -12865,6 +12865,20 @@
                 "$districtName": "brämaregården",
                 "last_accept": 1484,
                 "$last_seen": "2023-06-29T11:41:45.120Z"
+              },
+              {
+                "id": 93464,
+                "rent": 8022,
+                "area": 57,
+                "street": "lantmätaregatan",
+                "street_number": "12 b",
+                "city": "göteborg",
+                "zip": "41706",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brämaregården",
+                "last_accept": 1567,
+                "$last_seen": "2023-08-24T04:44:29.602Z"
               }
             ],
             "långängen": [
