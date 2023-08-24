@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-08-24T07:42:56.187Z",
+  "lastUpdatedAt": "2023-08-24T08:45:10.935Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -1245,6 +1245,20 @@
                 "$districtName": "fässberg",
                 "last_accept": 1652,
                 "$last_seen": "2023-05-29T06:46:09.407Z"
+              },
+              {
+                "id": 89861,
+                "rent": 6051,
+                "area": 57,
+                "street": "lammevallsgatan",
+                "street_number": "46 d",
+                "city": "mölndal",
+                "zip": "43143",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 1689,
+                "$last_seen": "2023-08-24T07:42:56.187Z"
               }
             ],
             "ranunkelgatan": [
@@ -18635,6 +18649,20 @@
                 "$districtName": "lundby",
                 "last_accept": 1389,
                 "$last_seen": "2023-08-11T09:43:03.768Z"
+              },
+              {
+                "id": 93395,
+                "rent": 5450,
+                "area": 45,
+                "street": "stataregatan",
+                "street_number": "5a",
+                "city": "göteborg",
+                "zip": "41715",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1466,
+                "$last_seen": "2023-08-24T07:42:56.187Z"
               }
             ]
           },
@@ -23715,6 +23743,20 @@
                 "$districtName": "björkekärr",
                 "last_accept": 830,
                 "$last_seen": "2023-08-23T13:43:07.342Z"
+              },
+              {
+                "id": 93229,
+                "rent": 3640,
+                "area": 30,
+                "street": "smörslätten",
+                "street_number": "18",
+                "city": "göteborg",
+                "zip": "41677",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "björkekärr",
+                "last_accept": 1230,
+                "$last_seen": "2023-08-08T09:41:08.884Z"
               }
             ],
             "lådspikaregatan": [
@@ -30725,6 +30767,20 @@
                 "$districtName": "bergsjön",
                 "last_accept": 884,
                 "$last_seen": "2023-08-10T11:42:26.023Z"
+              },
+              {
+                "id": 92909,
+                "rent": 7986,
+                "area": 56,
+                "street": "kosmosgatan",
+                "street_number": "8",
+                "city": "göteborg",
+                "zip": "41562",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bergsjön",
+                "last_accept": 863,
+                "$last_seen": "2023-08-24T07:42:56.187Z"
               }
             ],
             "atmosfärgatan": [
