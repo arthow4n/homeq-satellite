@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-08-25T10:44:56.101Z",
+  "lastUpdatedAt": "2023-08-25T11:41:48.860Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -617,6 +617,20 @@
                 "$districtName": "fässberg",
                 "last_accept": 1547,
                 "$last_seen": "2023-05-16T13:41:38.492Z"
+              },
+              {
+                "id": 91937,
+                "rent": 8568,
+                "area": 59,
+                "street": "marielundsgatan",
+                "street_number": "13",
+                "city": "mölndal",
+                "zip": "43167",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 1262,
+                "$last_seen": "2023-08-25T10:44:56.101Z"
               }
             ],
             "gustavsbergsgatan": [
@@ -3985,6 +3999,20 @@
                 "$districtName": "kållered",
                 "last_accept": 1262,
                 "$last_seen": "2023-08-21T10:46:42.970Z"
+              },
+              {
+                "id": 93575,
+                "rent": 8853,
+                "area": 76,
+                "street": "våmmedalsvägen",
+                "street_number": "76",
+                "city": "kållered",
+                "zip": "42831",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "kållered",
+                "last_accept": 1299,
+                "$last_seen": "2023-08-25T10:44:56.101Z"
               },
               {
                 "id": 94252,
@@ -8427,6 +8455,20 @@
                 "$districtName": "högsbo",
                 "last_accept": 1193,
                 "$last_seen": "2023-07-31T09:37:33.891Z"
+              },
+              {
+                "id": 92441,
+                "rent": 13572,
+                "area": 74,
+                "street": "skillingmyntsgatan",
+                "street_number": "6",
+                "city": "göteborg",
+                "zip": "41484",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 571,
+                "$last_seen": "2023-08-25T10:44:56.101Z"
               }
             ],
             "synhållsgatan": [
@@ -12821,6 +12863,20 @@
                 "$districtName": "brämaregården",
                 "last_accept": 1202,
                 "$last_seen": "2023-08-23T11:42:41.675Z"
+              },
+              {
+                "id": 93569,
+                "rent": 8293,
+                "area": 44,
+                "street": "gustaf dalénsgatan",
+                "street_number": "7 e",
+                "city": "göteborg",
+                "zip": "41723",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brämaregården",
+                "last_accept": 1432,
+                "$last_seen": "2023-08-25T10:44:56.101Z"
               }
             ],
             "lantmätaregatan": [
@@ -59039,6 +59095,20 @@
                 "$last_seen": "2023-07-31T11:37:39.771Z"
               },
               {
+                "id": 88299,
+                "rent": 7536,
+                "area": 32.6,
+                "street": "nätsnäcksgränd",
+                "street_number": "11",
+                "city": "malmö",
+                "zip": "21631",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "limhamn",
+                "last_accept": 80,
+                "$last_seen": "2023-08-25T10:44:56.101Z"
+              },
+              {
                 "id": 88849,
                 "rent": 12388,
                 "area": 79.6,
@@ -64169,20 +64239,6 @@
                 "$districtName": "hässelby",
                 "last_accept": 1064,
                 "$last_seen": "2023-04-17T05:44:07.070Z"
-              },
-              {
-                "id": 82068,
-                "rent": 5670,
-                "area": 34,
-                "street": "persikogatan",
-                "street_number": "4",
-                "city": "stockholm",
-                "zip": "16563",
-                "municipality": "stockholm",
-                "county": "stockholms län",
-                "$districtName": "hässelby",
-                "last_accept": 1305,
-                "$last_seen": "2023-08-10T07:42:44.142Z"
               },
               {
                 "id": 87129,
