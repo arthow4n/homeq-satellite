@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-08-25T09:41:53.910Z",
+  "lastUpdatedAt": "2023-08-25T10:44:56.101Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -3985,6 +3985,20 @@
                 "$districtName": "kållered",
                 "last_accept": 1262,
                 "$last_seen": "2023-08-21T10:46:42.970Z"
+              },
+              {
+                "id": 94252,
+                "rent": 9194,
+                "area": 76,
+                "street": "våmmedalsvägen",
+                "street_number": "124",
+                "city": "kållered",
+                "zip": "42831",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "kållered",
+                "last_accept": 954,
+                "$last_seen": "2023-08-25T09:41:53.910Z"
               }
             ],
             "streteredsvägen": [
@@ -7787,6 +7801,20 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1638,
                 "$last_seen": "2023-07-05T15:45:23.572Z"
+              },
+              {
+                "id": 94256,
+                "rent": 8750,
+                "area": 54,
+                "street": "fridkullagatan",
+                "street_number": "22 c",
+                "city": "göteborg",
+                "zip": "41262",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1684,
+                "$last_seen": "2023-08-25T09:41:53.910Z"
               }
             ],
             "örnehufvudsgatan": [
@@ -19909,6 +19937,20 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1674,
                 "$last_seen": "2023-08-09T08:45:35.581Z"
+              },
+              {
+                "id": 94845,
+                "rent": 15000,
+                "area": 111,
+                "street": "redbergsvägen",
+                "street_number": "26",
+                "city": "göteborg",
+                "zip": "41665",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1682,
+                "$last_seen": "2023-08-25T09:41:53.910Z"
               }
             ],
             "kungälvsgatan": [
@@ -22245,6 +22287,20 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1627,
                 "$last_seen": "2023-07-06T07:42:13.053Z"
+              },
+              {
+                "id": 91905,
+                "rent": 10586,
+                "area": 72,
+                "street": "danska vägen",
+                "street_number": "79a",
+                "city": "göteborg",
+                "zip": "41659",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1685,
+                "$last_seen": "2023-08-25T09:41:53.910Z"
               },
               {
                 "id": 91906,
@@ -60345,20 +60401,6 @@
                 "$districtName": "hyllie",
                 "last_accept": 0,
                 "$last_seen": "2023-06-27T11:41:59.985Z"
-              },
-              {
-                "id": 93871,
-                "rent": 9147,
-                "area": 46,
-                "street": "hyllie allé",
-                "street_number": "28b",
-                "city": "malmö",
-                "zip": "21535",
-                "municipality": "malmö",
-                "county": "skåne län",
-                "$districtName": "hyllie",
-                "last_accept": 0,
-                "$last_seen": "2023-08-22T07:42:20.460Z"
               }
             ],
             "tors gränd": [
