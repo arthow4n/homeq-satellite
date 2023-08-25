@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-08-25T07:41:59.679Z",
+  "lastUpdatedAt": "2023-08-25T08:44:01.180Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -15507,6 +15507,20 @@
                 "$districtName": "lundby",
                 "last_accept": 1509,
                 "$last_seen": "2023-08-16T09:43:57.829Z"
+              },
+              {
+                "id": 93855,
+                "rent": 7848,
+                "area": 63,
+                "street": "hällskriftsgatan",
+                "street_number": "10d",
+                "city": "göteborg",
+                "zip": "41726",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1667,
+                "$last_seen": "2023-08-25T07:41:59.679Z"
               },
               {
                 "id": 94059,
@@ -35797,6 +35811,20 @@
                 "$districtName": "göteborgs domkyrkodistrikt",
                 "last_accept": 1688,
                 "$last_seen": "2023-08-24T06:46:02.642Z"
+              },
+              {
+                "id": 94745,
+                "rent": 8131,
+                "area": 44,
+                "street": "stampgatan",
+                "street_number": "38",
+                "city": "göteborg",
+                "zip": "41101",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs domkyrkodistrikt",
+                "last_accept": 1300,
+                "$last_seen": "2023-08-25T07:41:59.679Z"
               }
             ],
             "friggagatan": [
@@ -54415,6 +54443,20 @@
                 "$districtName": "haga",
                 "last_accept": 1728,
                 "$last_seen": "2023-08-07T12:59:15.290Z"
+              },
+              {
+                "id": 94760,
+                "rent": 10038,
+                "area": 63,
+                "street": "nilssonsberg",
+                "street_number": "32",
+                "city": "göteborg ",
+                "zip": "41143",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "haga",
+                "last_accept": 1697,
+                "$last_seen": "2023-08-25T07:41:59.679Z"
               }
             ]
           },
@@ -54993,6 +55035,20 @@
                 "$districtName": "brunnsbo",
                 "last_accept": 1287,
                 "$last_seen": "2023-08-16T11:44:08.060Z"
+              },
+              {
+                "id": 92231,
+                "rent": 5736,
+                "area": 31,
+                "street": "prologgatan",
+                "street_number": "10",
+                "city": "hisings backa",
+                "zip": "42241",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brunnsbo",
+                "last_accept": 1135,
+                "$last_seen": "2023-08-25T07:41:59.679Z"
               }
             ],
             "sångspelsgatan": [
@@ -55325,6 +55381,20 @@
                 "$districtName": "askim",
                 "last_accept": 396,
                 "$last_seen": "2023-08-18T06:46:00.367Z"
+              },
+              {
+                "id": 93846,
+                "rent": 7626,
+                "area": 33,
+                "street": "sisjöbäckens väg",
+                "street_number": "24",
+                "city": "askim",
+                "zip": "43638",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 535,
+                "$last_seen": "2023-08-25T07:41:59.679Z"
               },
               {
                 "id": 94000,
@@ -62517,6 +62587,20 @@
                 "$districtName": "bunkeflo",
                 "last_accept": 0,
                 "$last_seen": "2023-06-27T07:42:50.678Z"
+              },
+              {
+                "id": 86423,
+                "rent": 14152,
+                "area": 102,
+                "street": "sadelmakarebyn",
+                "street_number": "9a",
+                "city": "bunkeflostrand",
+                "zip": "21840",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "bunkeflo",
+                "last_accept": 0,
+                "$last_seen": "2023-08-25T07:41:59.679Z"
               },
               {
                 "id": 86799,
