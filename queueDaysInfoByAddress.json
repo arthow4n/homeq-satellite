@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-08-25T06:45:28.444Z",
+  "lastUpdatedAt": "2023-08-25T07:41:59.679Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -15507,6 +15507,20 @@
                 "$districtName": "lundby",
                 "last_accept": 1509,
                 "$last_seen": "2023-08-16T09:43:57.829Z"
+              },
+              {
+                "id": 94059,
+                "rent": 9529,
+                "area": 63,
+                "street": "hällskriftsgatan",
+                "street_number": "10a",
+                "city": "göteborg",
+                "zip": "41741",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1539,
+                "$last_seen": "2023-08-25T06:45:28.444Z"
               }
             ],
             "fyrklöversgatan": [
@@ -18705,6 +18719,20 @@
                 "$districtName": "lundby",
                 "last_accept": 1466,
                 "$last_seen": "2023-08-24T07:42:56.187Z"
+              },
+              {
+                "id": 93398,
+                "rent": 5382,
+                "area": 45,
+                "street": "stataregatan",
+                "street_number": "5c",
+                "city": "göteborg",
+                "zip": "41715",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1453,
+                "$last_seen": "2023-08-25T06:45:28.444Z"
               }
             ]
           },
@@ -56179,6 +56207,20 @@
                 "$districtName": "tynnered",
                 "last_accept": 1413,
                 "$last_seen": "2023-08-21T06:47:01.526Z"
+              },
+              {
+                "id": 94755,
+                "rent": 9413,
+                "area": 82,
+                "street": "björkhöjdsgatan",
+                "street_number": "45",
+                "city": "västra frölunda",
+                "zip": "42651",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tynnered",
+                "last_accept": 1261,
+                "$last_seen": "2023-08-25T06:45:28.444Z"
               }
             ],
             "bergkristallsgatan": [
@@ -62677,20 +62719,6 @@
                 "$districtName": "bunkeflo",
                 "last_accept": 0,
                 "$last_seen": "2023-08-15T11:43:40.207Z"
-              },
-              {
-                "id": 93355,
-                "rent": 8508,
-                "area": 60.1,
-                "street": "skräddarebyn",
-                "street_number": "4b",
-                "city": "bunkeflostrand",
-                "zip": "21842",
-                "municipality": "malmö",
-                "county": "skåne län",
-                "$districtName": "bunkeflo",
-                "last_accept": 0,
-                "$last_seen": "2023-08-18T07:43:20.837Z"
               }
             ],
             "vagnmakarebyn": [
