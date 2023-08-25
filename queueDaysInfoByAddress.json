@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-08-25T08:44:01.180Z",
+  "lastUpdatedAt": "2023-08-25T09:41:53.910Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -6709,6 +6709,20 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1554,
                 "$last_seen": "2023-07-12T13:47:57.043Z"
+              },
+              {
+                "id": 91844,
+                "rent": 7394,
+                "area": 40,
+                "street": "mölndalsvägen",
+                "street_number": "11 a",
+                "city": "göteborg",
+                "zip": "41263",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1662,
+                "$last_seen": "2023-08-25T08:44:01.180Z"
               },
               {
                 "id": 91857,
@@ -36209,6 +36223,20 @@
                 "$districtName": "göteborgs domkyrkodistrikt",
                 "last_accept": 1320,
                 "$last_seen": "2023-06-13T06:46:00.390Z"
+              },
+              {
+                "id": 94018,
+                "rent": 9775,
+                "area": 60,
+                "street": "folkungagatan",
+                "street_number": "8",
+                "city": "göteborg",
+                "zip": "41102",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs domkyrkodistrikt",
+                "last_accept": 1690,
+                "$last_seen": "2023-08-25T08:44:01.180Z"
               }
             ],
             "basargatan": [
@@ -39375,6 +39403,20 @@
                 "$districtName": "örgryte",
                 "last_accept": 1332,
                 "$last_seen": "2023-08-21T11:45:32.704Z"
+              },
+              {
+                "id": 94590,
+                "rent": 9700,
+                "area": 102,
+                "street": "mejerigatan",
+                "street_number": "6",
+                "city": "göteborg",
+                "zip": "41276",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1690,
+                "$last_seen": "2023-08-25T08:44:01.180Z"
               },
               {
                 "id": 94943,
@@ -58645,22 +58687,6 @@
                 "$districtName": "malmö sankt petri",
                 "last_accept": 496,
                 "$last_seen": "2023-08-16T11:44:08.060Z"
-              }
-            ],
-            "fabriksgatan": [
-              {
-                "id": 88405,
-                "rent": 9870,
-                "area": 92,
-                "street": "fabriksgatan",
-                "street_number": "9",
-                "city": "malmö",
-                "zip": "21137",
-                "municipality": "malmö",
-                "county": "skåne län",
-                "$districtName": "malmö sankt petri",
-                "last_accept": 1096,
-                "$last_seen": "2023-07-14T06:47:45.649Z"
               }
             ],
             "stora kvarngatan": [
