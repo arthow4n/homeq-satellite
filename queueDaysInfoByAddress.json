@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-08-28T11:41:07.176Z",
+  "lastUpdatedAt": "2023-08-28T12:59:52.713Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -9299,6 +9299,20 @@
                 "$districtName": "högsbo",
                 "last_accept": 1113,
                 "$last_seen": "2023-07-10T06:49:53.817Z"
+              },
+              {
+                "id": 93629,
+                "rent": 8633,
+                "area": 44,
+                "street": "nymilsgatan",
+                "street_number": "43",
+                "city": "göteborg",
+                "zip": "42170",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 0,
+                "$last_seen": "2023-08-28T11:41:07.176Z"
               }
             ],
             "pennygången": [
@@ -32943,6 +32957,20 @@
                 "$last_seen": "2023-08-22T09:42:18.297Z"
               },
               {
+                "id": 93934,
+                "rent": 13355,
+                "area": 91,
+                "street": "sysslomansgatan",
+                "street_number": "41",
+                "city": "göteborg",
+                "zip": "40422",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "nylöse",
+                "last_accept": 0,
+                "$last_seen": "2023-08-28T11:41:07.176Z"
+              },
+              {
                 "id": 93936,
                 "rent": 8910,
                 "area": 64.8,
@@ -52389,6 +52417,20 @@
                 "$districtName": "biskopsgården",
                 "last_accept": 1316,
                 "$last_seen": "2023-06-21T10:49:22.530Z"
+              },
+              {
+                "id": 94058,
+                "rent": 7782,
+                "area": 64,
+                "street": "lufttrycksgatan",
+                "street_number": "4",
+                "city": "göteborg",
+                "zip": "41840",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "biskopsgården",
+                "last_accept": 898,
+                "$last_seen": "2023-08-28T11:41:07.176Z"
               }
             ],
             "lågtrycksgatan": [
@@ -65349,6 +65391,20 @@
                 "$districtName": "spånga",
                 "last_accept": 1378,
                 "$last_seen": "2023-08-23T10:45:57.795Z"
+              },
+              {
+                "id": 93437,
+                "rent": 5199,
+                "area": 31,
+                "street": "nybykroken",
+                "street_number": "33",
+                "city": "spånga",
+                "zip": "16370",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "spånga",
+                "last_accept": 1387,
+                "$last_seen": "2023-08-28T11:41:07.176Z"
               },
               {
                 "id": 93441,
