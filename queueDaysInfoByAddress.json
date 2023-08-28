@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-08-28T16:46:30.892Z",
+  "lastUpdatedAt": "2023-08-28T17:41:15.499Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -6193,6 +6193,20 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1674,
                 "$last_seen": "2023-06-08T08:45:54.875Z"
+              },
+              {
+                "id": 93649,
+                "rent": 6900,
+                "area": 41,
+                "street": "vidblicksgatan",
+                "street_number": "11",
+                "city": "göteborg",
+                "zip": "41257",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1692,
+                "$last_seen": "2023-08-28T16:46:30.892Z"
               }
             ],
             "fribergsgatan": [
@@ -27751,6 +27765,20 @@
                 "$districtName": "askim",
                 "last_accept": 931,
                 "$last_seen": "2023-08-23T10:45:57.795Z"
+              },
+              {
+                "id": 94746,
+                "rent": 5520,
+                "area": 32,
+                "street": "pilegården",
+                "street_number": "3c",
+                "city": "göteborg",
+                "zip": "43635",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 1046,
+                "$last_seen": "2023-08-28T16:46:30.892Z"
               }
             ],
             "nergårdsvägen": [
