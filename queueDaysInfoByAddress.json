@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-08-28T07:41:23.570Z",
+  "lastUpdatedAt": "2023-08-28T08:44:56.113Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -21015,6 +21015,20 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1598,
                 "$last_seen": "2023-07-06T06:52:54.733Z"
+              },
+              {
+                "id": 94848,
+                "rent": 8617,
+                "area": 54,
+                "street": "st pauligatan",
+                "street_number": "7",
+                "city": "göteborg",
+                "zip": "41660",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1675,
+                "$last_seen": "2023-08-28T07:41:23.570Z"
               }
             ],
             "platågatan": [
@@ -37459,6 +37473,20 @@
                 "$districtName": "örgryte",
                 "last_accept": 874,
                 "$last_seen": "2023-08-15T14:44:45.137Z"
+              },
+              {
+                "id": 94890,
+                "rent": 11000,
+                "area": 70,
+                "street": "smörgatan",
+                "street_number": "106",
+                "city": "göteborg",
+                "zip": "41276",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1520,
+                "$last_seen": "2023-08-28T07:41:23.570Z"
               }
             ],
             "prästgårdsängen": [
@@ -55719,6 +55747,20 @@
                 "$districtName": "askim",
                 "last_accept": 19,
                 "$last_seen": "2023-08-21T07:43:03.866Z"
+              },
+              {
+                "id": 94003,
+                "rent": 10018,
+                "area": 54,
+                "street": "sisjöbäckens väg",
+                "street_number": "24",
+                "city": "askim",
+                "zip": "43638",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 341,
+                "$last_seen": "2023-08-28T07:41:23.570Z"
               }
             ],
             "kobbegården": [
@@ -58927,6 +58969,20 @@
                 "$districtName": "malmö sankt petri",
                 "last_accept": 645,
                 "$last_seen": "2023-07-11T08:48:07.746Z"
+              },
+              {
+                "id": 91921,
+                "rent": 10300,
+                "area": 64,
+                "street": "stormgatan",
+                "street_number": "6",
+                "city": "malmö",
+                "zip": "21120",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "malmö sankt petri",
+                "last_accept": 572,
+                "$last_seen": "2023-08-28T06:45:43.995Z"
               },
               {
                 "id": 91922,
