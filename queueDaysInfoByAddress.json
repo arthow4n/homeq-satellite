@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-08-28T05:43:05.504Z",
+  "lastUpdatedAt": "2023-08-28T06:45:43.995Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -16979,6 +16979,20 @@
                 "$districtName": "lundby",
                 "last_accept": 1591,
                 "$last_seen": "2023-07-13T13:07:11.588Z"
+              },
+              {
+                "id": 91902,
+                "rent": 7881,
+                "area": 83,
+                "street": "fyrklöversgatan",
+                "street_number": "90",
+                "city": "göteborg",
+                "zip": "41721",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1683,
+                "$last_seen": "2023-08-28T05:43:05.504Z"
               },
               {
                 "id": 93320,
@@ -58905,6 +58919,20 @@
                 "$districtName": "husie",
                 "last_accept": 547,
                 "$last_seen": "2023-05-11T08:45:44.902Z"
+              },
+              {
+                "id": 88498,
+                "rent": 10951,
+                "area": 77,
+                "street": "lönnebergagatan",
+                "street_number": "6",
+                "city": "malmö",
+                "zip": "21215",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "husie",
+                "last_accept": 60,
+                "$last_seen": "2023-08-28T05:43:05.504Z"
               }
             ]
           },
@@ -59373,6 +59401,20 @@
                 "$districtName": "kirseberg",
                 "last_accept": 0,
                 "$last_seen": "2023-05-15T13:01:49.544Z"
+              },
+              {
+                "id": 78019,
+                "rent": 11368,
+                "area": 72,
+                "street": "segeparksgatan",
+                "street_number": "19",
+                "city": "malmö",
+                "zip": "21250",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "kirseberg",
+                "last_accept": 0,
+                "$last_seen": "2023-08-28T05:43:05.504Z"
               },
               {
                 "id": 79396,
