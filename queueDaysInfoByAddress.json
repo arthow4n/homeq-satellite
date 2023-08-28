@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-08-28T08:44:56.113Z",
+  "lastUpdatedAt": "2023-08-28T09:41:15.356Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -18271,6 +18271,20 @@
                 "$districtName": "lundby",
                 "last_accept": 1295,
                 "$last_seen": "2023-01-23T13:44:10.034Z"
+              },
+              {
+                "id": 94449,
+                "rent": 7700,
+                "area": 55,
+                "street": "hullgatan",
+                "street_number": "4b",
+                "city": "göteborg",
+                "zip": "41877",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1470,
+                "$last_seen": "2023-08-28T08:44:56.113Z"
               }
             ],
             "enekullegatan": [
@@ -59147,6 +59161,20 @@
                 "$districtName": "limhamn",
                 "last_accept": 8,
                 "$last_seen": "2023-08-09T13:44:39.784Z"
+              },
+              {
+                "id": 94729,
+                "rent": 9229,
+                "area": 60,
+                "street": "grönalundsgatan",
+                "street_number": "9 b",
+                "city": "malmö",
+                "zip": "21616",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "limhamn",
+                "last_accept": 54,
+                "$last_seen": "2023-08-28T08:44:56.113Z"
               }
             ],
             "järnvägsgatan": [
