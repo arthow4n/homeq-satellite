@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-08-30T11:41:24.698Z",
+  "lastUpdatedAt": "2023-08-30T12:59:54.556Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -5471,6 +5471,20 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1407,
                 "$last_seen": "2023-08-30T07:41:29.685Z"
+              },
+              {
+                "id": 93844,
+                "rent": 8077,
+                "area": 40,
+                "street": "ebbe lieberathsgatan",
+                "street_number": "2 b",
+                "city": "göteborg",
+                "zip": "41285",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1499,
+                "$last_seen": "2023-08-30T11:41:24.698Z"
               }
             ],
             "nordgårdsgatan": [
@@ -49935,6 +49949,20 @@
                 "$districtName": "masthugget",
                 "last_accept": 1680,
                 "$last_seen": "2023-08-15T07:43:34.323Z"
+              },
+              {
+                "id": 94515,
+                "rent": 9417,
+                "area": 56,
+                "street": "dahlströmsgatan",
+                "street_number": "44 b",
+                "city": "göteborg",
+                "zip": "41465",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "masthugget",
+                "last_accept": 1444,
+                "$last_seen": "2023-08-30T11:41:24.698Z"
               }
             ],
             "ekedalsgatan": [
@@ -57821,6 +57849,34 @@
                 "$districtName": "västra frölunda",
                 "last_accept": 548,
                 "$last_seen": "2023-08-18T08:45:10.661Z"
+              },
+              {
+                "id": 95214,
+                "rent": 11482,
+                "area": 80,
+                "street": "speldosegatan",
+                "street_number": "8",
+                "city": "västra frölunda",
+                "zip": "42151",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "västra frölunda",
+                "last_accept": 715,
+                "$last_seen": "2023-08-30T11:41:24.698Z"
+              },
+              {
+                "id": 95220,
+                "rent": 11482,
+                "area": 80,
+                "street": "speldosegatan",
+                "street_number": "6",
+                "city": "västra frölunda",
+                "zip": "42151",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "västra frölunda",
+                "last_accept": 1127,
+                "$last_seen": "2023-08-30T11:41:24.698Z"
               }
             ],
             "tamburingatan": [
@@ -63797,20 +63853,6 @@
                 "$districtName": "bunkeflo",
                 "last_accept": 0,
                 "$last_seen": "2023-07-19T12:57:55.615Z"
-              },
-              {
-                "id": 85303,
-                "rent": 9268,
-                "area": 61.2,
-                "street": "skomakarebyn",
-                "street_number": "6f",
-                "city": "bunkeflostrand",
-                "zip": "21841",
-                "municipality": "malmö",
-                "county": "skåne län",
-                "$districtName": "bunkeflo",
-                "last_accept": 0,
-                "$last_seen": "2023-08-22T06:45:42.017Z"
               },
               {
                 "id": 85311,
