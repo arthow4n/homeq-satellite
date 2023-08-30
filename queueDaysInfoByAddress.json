@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-08-30T07:41:29.685Z",
+  "lastUpdatedAt": "2023-08-30T08:44:16.172Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -5457,6 +5457,20 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1181,
                 "$last_seen": "2023-07-26T06:40:43.963Z"
+              },
+              {
+                "id": 92518,
+                "rent": 8077,
+                "area": 40,
+                "street": "ebbe lieberathsgatan",
+                "street_number": "2 c",
+                "city": "göteborg",
+                "zip": "41285",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1407,
+                "$last_seen": "2023-08-30T07:41:29.685Z"
               }
             ],
             "nordgårdsgatan": [
@@ -8709,6 +8723,20 @@
                 "$districtName": "högsbo",
                 "last_accept": 1414,
                 "$last_seen": "2023-06-05T07:42:18.767Z"
+              },
+              {
+                "id": 94896,
+                "rent": 10000,
+                "area": 76,
+                "street": "synhållsgatan",
+                "street_number": "11",
+                "city": "göteborg",
+                "zip": "42173",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 1522,
+                "$last_seen": "2023-08-30T07:41:29.685Z"
               }
             ],
             "nymilsgatan": [
@@ -18397,20 +18425,6 @@
                 "$districtName": "lundby",
                 "last_accept": 1295,
                 "$last_seen": "2023-01-23T13:44:10.034Z"
-              },
-              {
-                "id": 94449,
-                "rent": 7700,
-                "area": 55,
-                "street": "hullgatan",
-                "street_number": "4b",
-                "city": "göteborg",
-                "zip": "41877",
-                "municipality": "göteborg",
-                "county": "västra götalands län",
-                "$districtName": "lundby",
-                "last_accept": 1470,
-                "$last_seen": "2023-08-28T08:44:56.113Z"
               }
             ],
             "enekullegatan": [
@@ -62905,6 +62919,20 @@
                 "$districtName": "limhamn",
                 "last_accept": 0,
                 "$last_seen": "2023-08-17T07:43:27.729Z"
+              },
+              {
+                "id": 94669,
+                "rent": 9202,
+                "area": 50,
+                "street": "blåsebergavägen",
+                "street_number": "10",
+                "city": "limhamn",
+                "zip": "21633",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "limhamn",
+                "last_accept": 0,
+                "$last_seen": "2023-08-30T07:41:29.685Z"
               }
             ],
             "birger jarlsgatan": [
