@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-08-31T06:45:28.264Z",
+  "lastUpdatedAt": "2023-08-31T07:42:01.359Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -18945,6 +18945,20 @@
                 "$districtName": "lundby",
                 "last_accept": 963,
                 "$last_seen": "2023-02-03T11:36:12.783Z"
+              },
+              {
+                "id": 94507,
+                "rent": 7362,
+                "area": 50,
+                "street": "finlandsgatan",
+                "street_number": "4 d",
+                "city": "göteborg",
+                "zip": "41877",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1515,
+                "$last_seen": "2023-08-31T06:45:28.264Z"
               }
             ],
             "västanvindsgatan": [
@@ -59679,20 +59693,6 @@
                 "$districtName": "malmö sankt petri",
                 "last_accept": 0,
                 "$last_seen": "2023-07-07T05:45:03.536Z"
-              },
-              {
-                "id": 94346,
-                "rent": 8048,
-                "area": 43,
-                "street": "kalendegatan",
-                "street_number": "16",
-                "city": "malmö",
-                "zip": "21135",
-                "municipality": "malmö",
-                "county": "skåne län",
-                "$districtName": "malmö sankt petri",
-                "last_accept": 45,
-                "$last_seen": "2023-08-22T07:42:20.460Z"
               }
             ],
             "dagvattengatan": [
