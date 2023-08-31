@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-08-31T13:46:20.716Z",
+  "lastUpdatedAt": "2023-08-31T14:43:57.811Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -64463,6 +64463,20 @@
                 "$last_seen": "2023-08-24T13:00:11.174Z"
               },
               {
+                "id": 88315,
+                "rent": 7675,
+                "area": 47.5,
+                "street": "skräddarebyn",
+                "street_number": "5a",
+                "city": "bunkeflostrand",
+                "zip": "21842",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "bunkeflo",
+                "last_accept": 86,
+                "$last_seen": "2023-08-31T13:46:20.716Z"
+              },
+              {
                 "id": 89945,
                 "rent": 8179,
                 "area": 53.7,
@@ -64981,6 +64995,20 @@
                 "$districtName": "vantör",
                 "last_accept": 1798,
                 "$last_seen": "2023-08-18T10:45:46.326Z"
+              },
+              {
+                "id": 94726,
+                "rent": 8078,
+                "area": 68,
+                "street": "glanshammarsgatan",
+                "street_number": "56",
+                "city": "bandhagen",
+                "zip": "12471",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 1825,
+                "$last_seen": "2023-08-31T13:46:20.716Z"
               }
             ],
             "bäverbäcksgränd": [
@@ -65595,6 +65623,20 @@
                 "$districtName": "vantör",
                 "last_accept": 1514,
                 "$last_seen": "2023-06-26T07:44:19.715Z"
+              },
+              {
+                "id": 94161,
+                "rent": 9366,
+                "area": 68,
+                "street": "skyllbergsgatan",
+                "street_number": "16",
+                "city": "bandhagen",
+                "zip": "12471",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 1658,
+                "$last_seen": "2023-08-31T13:46:20.716Z"
               }
             ],
             "porlabacken": [
