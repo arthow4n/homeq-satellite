@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-08-31T09:41:27.545Z",
+  "lastUpdatedAt": "2023-08-31T10:45:23.798Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -63709,6 +63709,20 @@
                 "$districtName": "limhamn",
                 "last_accept": 6,
                 "$last_seen": "2023-08-23T09:42:43.683Z"
+              },
+              {
+                "id": 95016,
+                "rent": 8327,
+                "area": 42,
+                "street": "högatan",
+                "street_number": "10 d",
+                "city": "limhamn",
+                "zip": "21633",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "limhamn",
+                "last_accept": 13,
+                "$last_seen": "2023-08-31T09:41:27.545Z"
               }
             ],
             "höbalsgatan": [
