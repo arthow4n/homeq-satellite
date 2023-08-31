@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-08-31T11:41:19.599Z",
+  "lastUpdatedAt": "2023-08-31T12:59:29.277Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -3671,6 +3671,20 @@
                 "$districtName": "örgryte",
                 "last_accept": 1341,
                 "$last_seen": "2023-08-21T10:46:42.970Z"
+              },
+              {
+                "id": 95226,
+                "rent": 10322,
+                "area": 54,
+                "street": "smörkärnegatan",
+                "street_number": "29",
+                "city": "göteborg",
+                "zip": "41278",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1480,
+                "$last_seen": "2023-08-31T11:41:19.599Z"
               }
             ]
           }
@@ -15043,6 +15057,20 @@
                 "$districtName": "lundby",
                 "last_accept": 1693,
                 "$last_seen": "2023-08-30T10:44:58.883Z"
+              },
+              {
+                "id": 95162,
+                "rent": 4296,
+                "area": 30,
+                "street": "bautastensgatan",
+                "street_number": "11 b",
+                "city": "göteborg",
+                "zip": "41876",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1617,
+                "$last_seen": "2023-08-31T11:41:19.599Z"
               }
             ],
             "hjalmar brantingsgatan": [
@@ -50215,6 +50243,20 @@
                 "$districtName": "masthugget",
                 "last_accept": 1444,
                 "$last_seen": "2023-08-30T11:41:24.698Z"
+              },
+              {
+                "id": 95055,
+                "rent": 10983,
+                "area": 86,
+                "street": "dahlströmsgatan",
+                "street_number": "32",
+                "city": "göteborg",
+                "zip": "41465",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "masthugget",
+                "last_accept": 1693,
+                "$last_seen": "2023-08-31T11:41:19.599Z"
               }
             ],
             "ekedalsgatan": [
@@ -58597,6 +58639,20 @@
                 "$districtName": "älvsborg",
                 "last_accept": 1367,
                 "$last_seen": "2023-08-21T10:46:42.970Z"
+              },
+              {
+                "id": 91933,
+                "rent": 6603,
+                "area": 52,
+                "street": "tigerstigen",
+                "street_number": "9",
+                "city": "västra frölunda ",
+                "zip": "42672",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "älvsborg",
+                "last_accept": 1265,
+                "$last_seen": "2023-08-31T11:41:19.599Z"
               }
             ]
           }
@@ -62815,6 +62871,20 @@
                 "$districtName": "västra skrävlinge",
                 "last_accept": 0,
                 "$last_seen": "2023-08-04T11:40:04.727Z"
+              },
+              {
+                "id": 95713,
+                "rent": 9891,
+                "area": 90,
+                "street": "ramels väg",
+                "street_number": "29",
+                "city": "malmö",
+                "zip": "21368",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "västra skrävlinge",
+                "last_accept": 0,
+                "$last_seen": "2023-08-31T11:41:19.599Z"
               }
             ]
           },
@@ -62921,6 +62991,20 @@
                 "$districtName": "malmö sankt johannes",
                 "last_accept": 1132,
                 "$last_seen": "2023-06-27T06:51:47.527Z"
+              },
+              {
+                "id": 93251,
+                "rent": 7030,
+                "area": 66,
+                "street": "smedjegatan",
+                "street_number": "5 a",
+                "city": "malmö",
+                "zip": "21421",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "malmö sankt johannes",
+                "last_accept": 1695,
+                "$last_seen": "2023-08-31T11:41:19.599Z"
               }
             ],
             "möllevångsgatan": [
