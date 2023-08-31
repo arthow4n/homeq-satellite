@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-08-31T12:59:29.277Z",
+  "lastUpdatedAt": "2023-08-31T13:46:20.716Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -8693,6 +8693,20 @@
                 "$districtName": "högsbo",
                 "last_accept": 571,
                 "$last_seen": "2023-08-25T10:44:56.101Z"
+              },
+              {
+                "id": 92983,
+                "rent": 13365,
+                "area": 75,
+                "street": "skillingmyntsgatan",
+                "street_number": "6",
+                "city": "göteborg",
+                "zip": "41484",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 468,
+                "$last_seen": "2023-08-31T12:59:29.277Z"
               }
             ],
             "synhållsgatan": [
@@ -17441,6 +17455,20 @@
                 "$districtName": "lundby",
                 "last_accept": 0,
                 "$last_seen": "2023-08-29T08:44:55.336Z"
+              },
+              {
+                "id": 95178,
+                "rent": 8806,
+                "area": 83,
+                "street": "fyrklöversgatan",
+                "street_number": "116",
+                "city": "göteborg",
+                "zip": "41721",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1642,
+                "$last_seen": "2023-08-31T12:59:29.277Z"
               }
             ],
             "arvid lindmansgatan": [
@@ -24599,6 +24627,20 @@
                 "$districtName": "björkekärr",
                 "last_accept": 830,
                 "$last_seen": "2023-08-24T08:45:10.935Z"
+              },
+              {
+                "id": 93933,
+                "rent": 6773,
+                "area": 38,
+                "street": "smörslätten",
+                "street_number": "8",
+                "city": "göteborg",
+                "zip": "41677",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "björkekärr",
+                "last_accept": 1148,
+                "$last_seen": "2023-08-31T12:59:29.277Z"
               }
             ],
             "lådspikaregatan": [
@@ -58581,6 +58623,20 @@
                 "$districtName": "älvsborg",
                 "last_accept": 1122,
                 "$last_seen": "2023-08-14T13:00:32.406Z"
+              },
+              {
+                "id": 91864,
+                "rent": 9494,
+                "area": 60.6,
+                "street": "stengetsgatan",
+                "street_number": "2",
+                "city": "västra frölunda ",
+                "zip": "42672",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "älvsborg",
+                "last_accept": 1112,
+                "$last_seen": "2023-08-31T12:59:29.277Z"
               }
             ],
             "tigerstigen": [
