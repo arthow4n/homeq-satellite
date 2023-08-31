@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-08-31T05:43:01.025Z",
+  "lastUpdatedAt": "2023-08-31T06:45:28.264Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -5977,6 +5977,34 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1117,
                 "$last_seen": "2023-08-23T11:42:41.675Z"
+              },
+              {
+                "id": 93723,
+                "rent": 9995,
+                "area": 55,
+                "street": "nordgårdsgatan",
+                "street_number": "6",
+                "city": "göteborg",
+                "zip": "41285",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1317,
+                "$last_seen": "2023-08-31T05:43:01.025Z"
+              },
+              {
+                "id": 93726,
+                "rent": 9905,
+                "area": 55,
+                "street": "nordgårdsgatan",
+                "street_number": "6",
+                "city": "göteborg",
+                "zip": "41265",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1271,
+                "$last_seen": "2023-08-31T05:43:01.025Z"
               }
             ],
             "norra krokslättsgatan": [
@@ -9413,6 +9441,20 @@
                 "$last_seen": "2023-07-10T06:49:53.817Z"
               },
               {
+                "id": 89759,
+                "rent": 8529,
+                "area": 41,
+                "street": "nymilsgatan",
+                "street_number": "35",
+                "city": "göteborg",
+                "zip": "42170",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 1161,
+                "$last_seen": "2023-08-31T05:43:01.025Z"
+              },
+              {
                 "id": 93629,
                 "rent": 8633,
                 "area": 44,
@@ -9425,6 +9467,20 @@
                 "$districtName": "högsbo",
                 "last_accept": 0,
                 "$last_seen": "2023-08-28T11:41:07.176Z"
+              },
+              {
+                "id": 93632,
+                "rent": 6944,
+                "area": 35,
+                "street": "nymilsgatan",
+                "street_number": "37",
+                "city": "göteborg",
+                "zip": "42170",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 1019,
+                "$last_seen": "2023-08-31T05:43:01.025Z"
               },
               {
                 "id": 94202,
@@ -17175,6 +17231,20 @@
                 "$districtName": "lundby",
                 "last_accept": 1591,
                 "$last_seen": "2023-07-13T13:07:11.588Z"
+              },
+              {
+                "id": 91879,
+                "rent": 7881,
+                "area": 83,
+                "street": "fyrklöversgatan",
+                "street_number": "66",
+                "city": "göteborg",
+                "zip": "41721",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1752,
+                "$last_seen": "2023-08-31T05:43:01.025Z"
               },
               {
                 "id": 91902,
