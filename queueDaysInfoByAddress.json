@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-09-01T05:42:37.300Z",
+  "lastUpdatedAt": "2023-09-01T06:45:37.163Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -58413,6 +58413,20 @@
                 "$districtName": "västra frölunda",
                 "last_accept": 1420,
                 "$last_seen": "2023-08-16T11:44:08.060Z"
+              },
+              {
+                "id": 94842,
+                "rent": 8611,
+                "area": 67,
+                "street": "marconigatan",
+                "street_number": "33 b",
+                "city": "västra frölunda",
+                "zip": "42144",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "västra frölunda",
+                "last_accept": 676,
+                "$last_seen": "2023-09-01T05:42:37.300Z"
               }
             ]
           },
