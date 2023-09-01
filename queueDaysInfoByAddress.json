@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-09-01T06:45:37.163Z",
+  "lastUpdatedAt": "2023-09-01T07:41:31.507Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -24843,6 +24843,20 @@
                 "$districtName": "björkekärr",
                 "last_accept": 1548,
                 "$last_seen": "2023-04-05T13:08:44.500Z"
+              },
+              {
+                "id": 94712,
+                "rent": 7728,
+                "area": 61,
+                "street": "stabbegatan",
+                "street_number": "27",
+                "city": "göteborg",
+                "zip": "41680",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "björkekärr",
+                "last_accept": 1696,
+                "$last_seen": "2023-09-01T06:45:37.163Z"
               }
             ]
           },
