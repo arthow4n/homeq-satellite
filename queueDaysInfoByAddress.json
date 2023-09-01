@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-09-01T11:41:42.746Z",
+  "lastUpdatedAt": "2023-09-01T12:59:20.673Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -21009,6 +21009,20 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1429,
                 "$last_seen": "2023-01-16T08:44:11.868Z"
+              },
+              {
+                "id": 94737,
+                "rent": 10891,
+                "area": 63,
+                "street": "schéelegatan",
+                "street_number": "16c",
+                "city": "göteborg",
+                "zip": "41661",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1613,
+                "$last_seen": "2023-09-01T11:41:42.746Z"
               }
             ],
             "karlagatan": [
@@ -31061,6 +31075,20 @@
                 "$districtName": "bergsjön",
                 "last_accept": 1718,
                 "$last_seen": "2023-08-31T08:44:53.868Z"
+              },
+              {
+                "id": 92855,
+                "rent": 5630,
+                "area": 62,
+                "street": "galileis gata",
+                "street_number": "4",
+                "city": "göteborg",
+                "zip": "41554",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bergsjön",
+                "last_accept": 1446,
+                "$last_seen": "2023-09-01T11:41:42.746Z"
               },
               {
                 "id": 92858,
