@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-09-01T08:44:35.173Z",
+  "lastUpdatedAt": "2023-09-01T09:41:45.643Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -7237,6 +7237,20 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1683,
                 "$last_seen": "2023-08-17T08:45:21.733Z"
+              },
+              {
+                "id": 95449,
+                "rent": 5500,
+                "area": 28,
+                "street": "kristinehöjdsgatan",
+                "street_number": "12 b",
+                "city": "göteborg",
+                "zip": "41282",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1613,
+                "$last_seen": "2023-09-01T08:44:35.173Z"
               }
             ],
             "richertsgatan": [
@@ -33599,6 +33613,20 @@
                 "$districtName": "nylöse",
                 "last_accept": 0,
                 "$last_seen": "2023-08-22T11:42:21.438Z"
+              },
+              {
+                "id": 93985,
+                "rent": 14962,
+                "area": 104,
+                "street": "sysslomansgatan",
+                "street_number": "41",
+                "city": "göteborg",
+                "zip": "40422",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "nylöse",
+                "last_accept": 593,
+                "$last_seen": "2023-09-01T08:44:35.173Z"
               }
             ],
             "hinderbanan": [
