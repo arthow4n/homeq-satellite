@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-09-04T06:46:44.150Z",
+  "lastUpdatedAt": "2023-09-04T07:42:04.816Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -301,6 +301,20 @@
                 "$districtName": "fässberg",
                 "last_accept": 839,
                 "$last_seen": "2023-08-17T10:45:55.937Z"
+              },
+              {
+                "id": 96208,
+                "rent": 6969,
+                "area": 29,
+                "street": "bergmansgatan",
+                "street_number": "5b",
+                "city": "mölndal",
+                "zip": "43130",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 1021,
+                "$last_seen": "2023-09-04T06:46:44.150Z"
               }
             ],
             "stenbrogatan": [
@@ -529,6 +543,20 @@
                 "$districtName": "fässberg",
                 "last_accept": 1692,
                 "$last_seen": "2023-08-28T06:45:43.995Z"
+              },
+              {
+                "id": 95206,
+                "rent": 8020,
+                "area": 52,
+                "street": "berghemsgatan",
+                "street_number": "28",
+                "city": "mölndal",
+                "zip": "43137",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 1660,
+                "$last_seen": "2023-09-04T06:46:44.150Z"
               }
             ],
             "brogatan": [
@@ -1229,6 +1257,20 @@
                 "$districtName": "fässberg",
                 "last_accept": 1134,
                 "$last_seen": "2023-04-04T13:41:16.333Z"
+              },
+              {
+                "id": 95443,
+                "rent": 13082,
+                "area": 106,
+                "street": "luktärtsgatan",
+                "street_number": "4 c",
+                "city": "mölndal",
+                "zip": "43132",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 1474,
+                "$last_seen": "2023-09-04T06:46:44.150Z"
               }
             ],
             "lammevallsgatan": [
@@ -29789,6 +29831,20 @@
                 "$districtName": "askim",
                 "last_accept": 1340,
                 "$last_seen": "2023-08-21T09:42:57.826Z"
+              },
+              {
+                "id": 95952,
+                "rent": 11125,
+                "area": 80,
+                "street": "kobbegården",
+                "street_number": "26",
+                "city": "göteborg",
+                "zip": "43637",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 1044,
+                "$last_seen": "2023-09-04T06:46:44.150Z"
               }
             ],
             "ugglegården": [
@@ -30299,6 +30355,20 @@
                 "$districtName": "askim",
                 "last_accept": 0,
                 "$last_seen": "2023-07-21T06:42:28.228Z"
+              },
+              {
+                "id": 95877,
+                "rent": 9947,
+                "area": 51,
+                "street": "askims pilegårdsväg",
+                "street_number": "46",
+                "city": "göteborg",
+                "zip": "43635",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 390,
+                "$last_seen": "2023-09-04T06:46:44.150Z"
               }
             ]
           },
@@ -44731,6 +44801,20 @@
                 "$districtName": "göteborgs vasa",
                 "last_accept": 1664,
                 "$last_seen": "2023-08-15T10:46:27.547Z"
+              },
+              {
+                "id": 93444,
+                "rent": 14576,
+                "area": 96,
+                "street": "karl gustavsgatan",
+                "street_number": "67",
+                "city": "göteborg",
+                "zip": "41130",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs vasa",
+                "last_accept": 1700,
+                "$last_seen": "2023-09-04T06:46:44.150Z"
               },
               {
                 "id": 93553,
