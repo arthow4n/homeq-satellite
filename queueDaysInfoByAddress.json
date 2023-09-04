@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-09-04T08:45:14.165Z",
+  "lastUpdatedAt": "2023-09-04T09:42:19.926Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -54701,6 +54701,20 @@
                 "$districtName": "göteborgs karl johan",
                 "last_accept": 1137,
                 "$last_seen": "2023-08-28T10:46:19.194Z"
+              },
+              {
+                "id": 95718,
+                "rent": 9954,
+                "area": 47,
+                "street": "kabelgatan",
+                "street_number": "23",
+                "city": "göteborg",
+                "zip": "41457",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs karl johan",
+                "last_accept": 1517,
+                "$last_seen": "2023-09-04T08:45:14.165Z"
               }
             ],
             "kusttorget": [
@@ -58119,6 +58133,20 @@
                 "$districtName": "tynnered",
                 "last_accept": 1379,
                 "$last_seen": "2023-06-26T08:55:58.557Z"
+              },
+              {
+                "id": 95823,
+                "rent": 9183,
+                "area": 71,
+                "street": "safirgatan",
+                "street_number": "13",
+                "city": "västra frölunda",
+                "zip": "42148",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tynnered",
+                "last_accept": 793,
+                "$last_seen": "2023-09-04T08:45:14.165Z"
               }
             ],
             "lilla grevegårdsvägen": [
@@ -64639,6 +64667,20 @@
                 "$districtName": "bunkeflo",
                 "last_accept": 0,
                 "$last_seen": "2023-09-01T13:42:34.793Z"
+              },
+              {
+                "id": 86760,
+                "rent": 8691,
+                "area": 61.2,
+                "street": "skomakarebyn",
+                "street_number": "6t",
+                "city": "bunkeflostrand",
+                "zip": "21841",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "bunkeflo",
+                "last_accept": 19,
+                "$last_seen": "2023-09-04T08:45:14.165Z"
               },
               {
                 "id": 88638,
