@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-09-04T07:42:04.816Z",
+  "lastUpdatedAt": "2023-09-04T08:45:14.165Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -17539,6 +17539,20 @@
                 "$districtName": "lundby",
                 "last_accept": 1642,
                 "$last_seen": "2023-08-31T12:59:29.277Z"
+              },
+              {
+                "id": 95739,
+                "rent": 8744,
+                "area": 43,
+                "street": "fyrklöversgatan",
+                "street_number": "17",
+                "city": "göteborg",
+                "zip": "41725",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 523,
+                "$last_seen": "2023-09-04T07:42:04.816Z"
               }
             ],
             "arvid lindmansgatan": [
@@ -47729,6 +47743,20 @@
                 "$districtName": "göteborgs oscar fredrik",
                 "last_accept": 1651,
                 "$last_seen": "2023-08-02T08:40:29.064Z"
+              },
+              {
+                "id": 94232,
+                "rent": 7216,
+                "area": 47,
+                "street": "kryssdäcket",
+                "street_number": "2",
+                "city": "göteborg",
+                "zip": "41327",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs oscar fredrik",
+                "last_accept": 1699,
+                "$last_seen": "2023-09-04T07:42:04.816Z"
               }
             ],
             "övre djupedalsgatan": [
@@ -56079,6 +56107,20 @@
                 "$districtName": "kortedala",
                 "last_accept": 398,
                 "$last_seen": "2023-08-30T09:41:36.719Z"
+              },
+              {
+                "id": 94978,
+                "rent": 5218,
+                "area": 25,
+                "street": "januarigatan",
+                "street_number": "18",
+                "city": "göteborg ",
+                "zip": "41546",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "kortedala",
+                "last_accept": 902,
+                "$last_seen": "2023-09-04T07:42:04.816Z"
               }
             ]
           },
@@ -59115,6 +59157,20 @@
                 "$districtName": "partille",
                 "last_accept": 1308,
                 "$last_seen": "2023-08-22T05:42:46.552Z"
+              },
+              {
+                "id": 95179,
+                "rent": 8331,
+                "area": 57,
+                "street": "stärteredsvägen",
+                "street_number": "25",
+                "city": "jonsered",
+                "zip": "43375",
+                "municipality": "partille",
+                "county": "västra götalands län",
+                "$districtName": "partille",
+                "last_accept": 983,
+                "$last_seen": "2023-09-04T07:42:04.816Z"
               }
             ],
             "länsmansvägen": [
