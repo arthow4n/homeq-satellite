@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-09-04T11:42:00.220Z",
+  "lastUpdatedAt": "2023-09-04T13:00:11.399Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -34805,6 +34805,20 @@
                 "$districtName": "härlanda",
                 "last_accept": 1675,
                 "$last_seen": "2023-08-10T13:50:31.879Z"
+              },
+              {
+                "id": 94910,
+                "rent": 8200,
+                "area": 60,
+                "street": "solrosgatan",
+                "street_number": "8c",
+                "city": "göteborg",
+                "zip": "41651",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "härlanda",
+                "last_accept": 1694,
+                "$last_seen": "2023-09-04T11:42:00.220Z"
               }
             ],
             "utjordsgatan": [
@@ -35409,6 +35423,20 @@
                 "$districtName": "härlanda",
                 "last_accept": 1682,
                 "$last_seen": "2023-08-24T10:46:25.606Z"
+              },
+              {
+                "id": 95233,
+                "rent": 7911,
+                "area": 55,
+                "street": "ahrenbergsgatan",
+                "street_number": "10c",
+                "city": "göteborg",
+                "zip": "41673",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "härlanda",
+                "last_accept": 1700,
+                "$last_seen": "2023-09-04T11:42:00.220Z"
               }
             ],
             "utåkersgatan": [
@@ -59227,6 +59255,20 @@
                 "$districtName": "partille",
                 "last_accept": 983,
                 "$last_seen": "2023-09-04T07:42:04.816Z"
+              },
+              {
+                "id": 95296,
+                "rent": 6900,
+                "area": 59,
+                "street": "stärteredsvägen",
+                "street_number": "30 a",
+                "city": "jonsered",
+                "zip": "43375",
+                "municipality": "partille",
+                "county": "västra götalands län",
+                "$districtName": "partille",
+                "last_accept": 1598,
+                "$last_seen": "2023-09-04T11:42:00.220Z"
               }
             ],
             "länsmansvägen": [
@@ -63505,6 +63547,20 @@
                 "$districtName": "slottsstaden",
                 "last_accept": 928,
                 "$last_seen": "2023-07-19T12:57:55.615Z"
+              },
+              {
+                "id": 95862,
+                "rent": 8631,
+                "area": 68.9,
+                "street": "sergels väg",
+                "street_number": "13b",
+                "city": "malmö",
+                "zip": "21757",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "slottsstaden",
+                "last_accept": 1039,
+                "$last_seen": "2023-09-04T11:42:00.220Z"
               }
             ],
             "marietorps alle": [
