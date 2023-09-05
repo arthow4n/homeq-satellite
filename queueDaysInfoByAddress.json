@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-09-05T10:45:39.568Z",
+  "lastUpdatedAt": "2023-09-05T11:41:52.387Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -15909,6 +15909,20 @@
                 "$districtName": "lundby",
                 "last_accept": 1466,
                 "$last_seen": "2023-08-24T11:42:23.314Z"
+              },
+              {
+                "id": 93776,
+                "rent": 3315,
+                "area": 20,
+                "street": "wieselgrensplatsen",
+                "street_number": "31",
+                "city": "göteborg",
+                "zip": "41712",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1258,
+                "$last_seen": "2023-09-05T10:45:39.568Z"
               }
             ],
             "lundbygatan": [
@@ -66279,6 +66293,20 @@
                 "$districtName": "vantör",
                 "last_accept": 1623,
                 "$last_seen": "2023-06-21T10:49:22.530Z"
+              },
+              {
+                "id": 92071,
+                "rent": 10988,
+                "area": 84,
+                "street": "vintrosagatan",
+                "street_number": "14",
+                "city": "bandhagen",
+                "zip": "12473",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 1758,
+                "$last_seen": "2023-09-05T10:45:39.568Z"
               }
             ],
             "skyllbergsgatan": [
