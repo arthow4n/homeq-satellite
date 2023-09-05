@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-09-05T08:44:39.192Z",
+  "lastUpdatedAt": "2023-09-05T10:45:39.568Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -387,6 +387,20 @@
                 "$districtName": "fässberg",
                 "last_accept": 1694,
                 "$last_seen": "2023-08-29T08:44:55.336Z"
+              },
+              {
+                "id": 95356,
+                "rent": 3602,
+                "area": 30,
+                "street": "stenbrogatan",
+                "street_number": "3 c",
+                "city": "mölndal",
+                "zip": "43143",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 1652,
+                "$last_seen": "2023-09-05T08:44:39.192Z"
               }
             ],
             "berghemsgatan": [
@@ -60821,6 +60835,20 @@
                 "$districtName": "möllevången",
                 "last_accept": 887,
                 "$last_seen": "2023-07-26T07:37:46.308Z"
+              },
+              {
+                "id": 95710,
+                "rent": 6596,
+                "area": 60,
+                "street": "upplandsgatan",
+                "street_number": "5 b",
+                "city": "malmö",
+                "zip": "21429",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "möllevången",
+                "last_accept": 1118,
+                "$last_seen": "2023-09-05T08:44:39.192Z"
               }
             ],
             "sigtunagatan": [
