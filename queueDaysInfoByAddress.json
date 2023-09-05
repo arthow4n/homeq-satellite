@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-09-05T11:41:52.387Z",
+  "lastUpdatedAt": "2023-09-05T13:00:01.703Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -5611,6 +5611,20 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1499,
                 "$last_seen": "2023-08-30T11:41:24.698Z"
+              },
+              {
+                "id": 95929,
+                "rent": 8639,
+                "area": 46,
+                "street": "ebbe lieberathsgatan",
+                "street_number": "20 a",
+                "city": "göteborg",
+                "zip": "41265",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1492,
+                "$last_seen": "2023-09-05T11:41:52.387Z"
               }
             ],
             "nordgårdsgatan": [
@@ -19397,6 +19411,20 @@
                 "$districtName": "lundby",
                 "last_accept": 261,
                 "$last_seen": "2023-08-03T11:38:24.607Z"
+              },
+              {
+                "id": 95186,
+                "rent": 4025,
+                "area": 24,
+                "street": "pilegårdsgatan",
+                "street_number": "2",
+                "city": "göteborg",
+                "zip": "41877",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 0,
+                "$last_seen": "2023-08-24T13:00:11.174Z"
               }
             ],
             "korstörnegatan": [
@@ -47301,6 +47329,20 @@
                 "$districtName": "göteborgs oscar fredrik",
                 "last_accept": 1686,
                 "$last_seen": "2023-08-24T13:46:18.747Z"
+              },
+              {
+                "id": 95313,
+                "rent": 11300,
+                "area": 73,
+                "street": "vegagatan",
+                "street_number": "32",
+                "city": "göteborg",
+                "zip": "41309",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs oscar fredrik",
+                "last_accept": 1790,
+                "$last_seen": "2023-09-05T11:41:52.387Z"
               }
             ],
             "jungmansgatan": [
@@ -57507,6 +57549,20 @@
                 "$districtName": "tynnered",
                 "last_accept": 273,
                 "$last_seen": "2023-08-30T06:45:15.520Z"
+              },
+              {
+                "id": 95434,
+                "rent": 8870,
+                "area": 70,
+                "street": "smaragdgatan",
+                "street_number": "20",
+                "city": "västra frölunda",
+                "zip": "42149",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tynnered",
+                "last_accept": 1203,
+                "$last_seen": "2023-09-05T11:41:52.387Z"
               }
             ],
             "smyckegatan": [
@@ -62239,6 +62295,20 @@
                 "$districtName": "kirseberg",
                 "last_accept": 3,
                 "$last_seen": "2023-08-15T09:43:22.145Z"
+              },
+              {
+                "id": 95819,
+                "rent": 6088,
+                "area": 38,
+                "street": "rantzowsgatan",
+                "street_number": "12b",
+                "city": "malmö",
+                "zip": "21221",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "kirseberg",
+                "last_accept": 460,
+                "$last_seen": "2023-09-05T11:41:52.387Z"
               }
             ],
             "kirsebergsgatan": [
@@ -64717,6 +64787,20 @@
                 "$districtName": "limhamn",
                 "last_accept": 953,
                 "$last_seen": "2023-05-30T05:41:44.776Z"
+              },
+              {
+                "id": 95552,
+                "rent": 8951,
+                "area": 58,
+                "street": "linnegatan",
+                "street_number": "9",
+                "city": "limhamn",
+                "zip": "21612",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "limhamn",
+                "last_accept": 642,
+                "$last_seen": "2023-09-05T11:41:52.387Z"
               }
             ],
             "tegnergatan": [
@@ -64989,20 +65073,6 @@
                 "$districtName": "bunkeflo",
                 "last_accept": 0,
                 "$last_seen": "2023-09-01T13:42:34.793Z"
-              },
-              {
-                "id": 86760,
-                "rent": 8691,
-                "area": 61.2,
-                "street": "skomakarebyn",
-                "street_number": "6t",
-                "city": "bunkeflostrand",
-                "zip": "21841",
-                "municipality": "malmö",
-                "county": "skåne län",
-                "$districtName": "bunkeflo",
-                "last_accept": 19,
-                "$last_seen": "2023-09-04T08:45:14.165Z"
               },
               {
                 "id": 88638,
