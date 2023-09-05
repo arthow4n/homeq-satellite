@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-09-05T07:42:02.647Z",
+  "lastUpdatedAt": "2023-09-05T08:44:39.192Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -33867,6 +33867,20 @@
                 "$last_seen": "2023-08-28T11:41:07.176Z"
               },
               {
+                "id": 93935,
+                "rent": 8910,
+                "area": 64.8,
+                "street": "sysslomansgatan",
+                "street_number": "39",
+                "city": "göteborg",
+                "zip": "41574",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "nylöse",
+                "last_accept": 252,
+                "$last_seen": "2023-09-05T07:42:02.647Z"
+              },
+              {
                 "id": 93936,
                 "rent": 8910,
                 "area": 64.8,
@@ -33879,6 +33893,34 @@
                 "$districtName": "nylöse",
                 "last_accept": 0,
                 "$last_seen": "2023-08-22T11:42:21.438Z"
+              },
+              {
+                "id": 93937,
+                "rent": 8910,
+                "area": 64.8,
+                "street": "sysslomansgatan",
+                "street_number": "37",
+                "city": "göteborg",
+                "zip": "41574",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "nylöse",
+                "last_accept": 423,
+                "$last_seen": "2023-09-05T07:42:02.647Z"
+              },
+              {
+                "id": 93939,
+                "rent": 6840,
+                "area": 42,
+                "street": "sysslomansgatan",
+                "street_number": "40",
+                "city": "göteborg",
+                "zip": "41574",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "nylöse",
+                "last_accept": 825,
+                "$last_seen": "2023-09-05T07:42:02.647Z"
               },
               {
                 "id": 93985,
@@ -53871,6 +53913,20 @@
                 "$districtName": "tuve",
                 "last_accept": 278,
                 "$last_seen": "2023-06-26T11:42:42.242Z"
+              },
+              {
+                "id": 93725,
+                "rent": 12028,
+                "area": 74.2,
+                "street": "herman anderssons väg",
+                "street_number": "2",
+                "city": "göteborg",
+                "zip": "41747",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tuve",
+                "last_accept": 482,
+                "$last_seen": "2023-09-05T07:42:02.647Z"
               }
             ],
             "gunnestorpsvägen": [
