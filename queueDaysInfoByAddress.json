@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-09-06T11:42:57.207Z",
+  "lastUpdatedAt": "2023-09-06T13:01:12.197Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -18429,6 +18429,20 @@
                 "$districtName": "lundby",
                 "last_accept": 1264,
                 "$last_seen": "2023-06-08T11:42:32.020Z"
+              },
+              {
+                "id": 94940,
+                "rent": 8918,
+                "area": 63,
+                "street": "norra säterigatan",
+                "street_number": "24",
+                "city": "göteborg",
+                "zip": "41876",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1551,
+                "$last_seen": "2023-09-06T11:42:57.207Z"
               }
             ],
             "biskopsgatan": [
@@ -23583,6 +23597,20 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1654,
                 "$last_seen": "2023-05-15T08:45:10.936Z"
+              },
+              {
+                "id": 95172,
+                "rent": 4283,
+                "area": 36,
+                "street": "lundgatan",
+                "street_number": "3b",
+                "city": "göteborg",
+                "zip": "41661",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1697,
+                "$last_seen": "2023-09-06T11:42:57.207Z"
               }
             ],
             "norra gubberogatan": [
@@ -32211,6 +32239,20 @@
                 "$districtName": "bergsjön",
                 "last_accept": 863,
                 "$last_seen": "2023-08-24T07:42:56.187Z"
+              },
+              {
+                "id": 93891,
+                "rent": 11393,
+                "area": 90,
+                "street": "kosmosgatan",
+                "street_number": "5",
+                "city": "göteborg",
+                "zip": "41562",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bergsjön",
+                "last_accept": 456,
+                "$last_seen": "2023-09-06T11:42:57.207Z"
               },
               {
                 "id": 93892,
@@ -53717,6 +53759,76 @@
                 "$districtName": "biskopsgården",
                 "last_accept": 760,
                 "$last_seen": "2023-08-02T14:40:25.244Z"
+              },
+              {
+                "id": 93660,
+                "rent": 10892,
+                "area": 83,
+                "street": "långströmsgatan",
+                "street_number": "10b",
+                "city": "göteborg",
+                "zip": "41870",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "biskopsgården",
+                "last_accept": 990,
+                "$last_seen": "2023-09-06T11:42:57.207Z"
+              },
+              {
+                "id": 93664,
+                "rent": 6524,
+                "area": 41,
+                "street": "långströmsgatan",
+                "street_number": "28b",
+                "city": "göteborg",
+                "zip": "41870",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "biskopsgården",
+                "last_accept": 1038,
+                "$last_seen": "2023-09-06T11:42:57.207Z"
+              },
+              {
+                "id": 93691,
+                "rent": 10892,
+                "area": 83,
+                "street": "långströmsgatan",
+                "street_number": "16c",
+                "city": "göteborg",
+                "zip": "41870",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "biskopsgården",
+                "last_accept": 972,
+                "$last_seen": "2023-09-06T11:42:57.207Z"
+              },
+              {
+                "id": 93708,
+                "rent": 13330,
+                "area": 109,
+                "street": "långströmsgatan",
+                "street_number": "36a",
+                "city": "göteborg",
+                "zip": "41870",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "biskopsgården",
+                "last_accept": 707,
+                "$last_seen": "2023-09-06T11:42:57.207Z"
+              },
+              {
+                "id": 93732,
+                "rent": 10909,
+                "area": 83,
+                "street": "långströmsgatan",
+                "street_number": "34a",
+                "city": "göteborg",
+                "zip": "41870",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "biskopsgården",
+                "last_accept": 963,
+                "$last_seen": "2023-09-06T11:42:57.207Z"
               }
             ],
             "lufttrycksgatan": [
@@ -58237,6 +58349,20 @@
                 "$districtName": "tynnered",
                 "last_accept": 1029,
                 "$last_seen": "2023-08-29T11:41:41.334Z"
+              },
+              {
+                "id": 95439,
+                "rent": 12645,
+                "area": 106,
+                "street": "smyckegatan",
+                "street_number": "14",
+                "city": "västra frölunda",
+                "zip": "42650",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tynnered",
+                "last_accept": 1652,
+                "$last_seen": "2023-09-06T11:42:57.207Z"
               }
             ],
             "björkhöjdsgatan": [
@@ -66755,6 +66881,20 @@
                 "$districtName": "hässelby",
                 "last_accept": 1744,
                 "$last_seen": "2023-08-21T14:43:58.897Z"
+              },
+              {
+                "id": 95489,
+                "rent": 5217,
+                "area": 26,
+                "street": "enspännargatan",
+                "street_number": "14",
+                "city": "hässelby",
+                "zip": "16557",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "hässelby",
+                "last_accept": 1484,
+                "$last_seen": "2023-09-06T11:42:57.207Z"
               },
               {
                 "id": 96080,
