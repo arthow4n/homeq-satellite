@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-09-06T08:45:43.722Z",
+  "lastUpdatedAt": "2023-09-06T09:43:04.793Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -32759,6 +32759,20 @@
                 "$districtName": "bergsjön",
                 "last_accept": 834,
                 "$last_seen": "2023-08-08T07:40:43.965Z"
+              },
+              {
+                "id": 92908,
+                "rent": 9822,
+                "area": 83,
+                "street": "atmosfärgatan",
+                "street_number": "43",
+                "city": "göteborg",
+                "zip": "41561",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bergsjön",
+                "last_accept": 916,
+                "$last_seen": "2023-09-06T08:45:43.722Z"
               }
             ],
             "zenitgatan": [
@@ -66629,6 +66643,20 @@
                 "$districtName": "hässelby",
                 "last_accept": 1744,
                 "$last_seen": "2023-08-21T14:43:58.897Z"
+              },
+              {
+                "id": 96080,
+                "rent": 8888,
+                "area": 60,
+                "street": "enspännargatan",
+                "street_number": "14",
+                "city": "hässelby",
+                "zip": "16557",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "hässelby",
+                "last_accept": 1565,
+                "$last_seen": "2023-09-06T08:45:43.722Z"
               }
             ]
           }
