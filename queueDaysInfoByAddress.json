@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-09-06T10:47:20.385Z",
+  "lastUpdatedAt": "2023-09-06T11:42:57.207Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -32211,6 +32211,20 @@
                 "$districtName": "bergsjön",
                 "last_accept": 863,
                 "$last_seen": "2023-08-24T07:42:56.187Z"
+              },
+              {
+                "id": 93892,
+                "rent": 11393,
+                "area": 90,
+                "street": "kosmosgatan",
+                "street_number": "6",
+                "city": "göteborg",
+                "zip": "41562",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bergsjön",
+                "last_accept": 331,
+                "$last_seen": "2023-09-06T10:47:20.385Z"
               }
             ],
             "atmosfärgatan": [
@@ -32801,6 +32815,20 @@
                 "$districtName": "bergsjön",
                 "last_accept": 834,
                 "$last_seen": "2023-08-08T07:40:43.965Z"
+              },
+              {
+                "id": 92906,
+                "rent": 8075,
+                "area": 65,
+                "street": "atmosfärgatan",
+                "street_number": "11",
+                "city": "göteborg",
+                "zip": "41561",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bergsjön",
+                "last_accept": 935,
+                "$last_seen": "2023-09-06T10:47:20.385Z"
               },
               {
                 "id": 92908,
@@ -66589,6 +66617,20 @@
                 "$districtName": "vantör",
                 "last_accept": 1658,
                 "$last_seen": "2023-08-31T13:46:20.716Z"
+              },
+              {
+                "id": 94942,
+                "rent": 9121,
+                "area": 68,
+                "street": "skyllbergsgatan",
+                "street_number": "18",
+                "city": "bandhagen",
+                "zip": "12471",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 1505,
+                "$last_seen": "2023-09-06T10:47:20.385Z"
               }
             ],
             "porlabacken": [
