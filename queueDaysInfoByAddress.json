@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-09-07T08:46:31.798Z",
+  "lastUpdatedAt": "2023-09-07T09:43:04.520Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -7977,6 +7977,20 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1638,
                 "$last_seen": "2023-07-04T09:44:07.805Z"
+              },
+              {
+                "id": 95778,
+                "rent": 16016,
+                "area": 103,
+                "street": "sylvestergatan",
+                "street_number": "4",
+                "city": "göteborg",
+                "zip": "41132",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1702,
+                "$last_seen": "2023-09-07T07:43:23.617Z"
               }
             ],
             "terrassgatan": [
@@ -15765,6 +15779,20 @@
                 "$districtName": "lundby",
                 "last_accept": 724,
                 "$last_seen": "2023-06-16T11:43:54.900Z"
+              },
+              {
+                "id": 95747,
+                "rent": 10801,
+                "area": 62,
+                "street": "trollhasselgatan",
+                "street_number": "24",
+                "city": "göteborg",
+                "zip": "41711",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1328,
+                "$last_seen": "2023-09-07T08:46:31.798Z"
               }
             ],
             "karl staaffsgatan": [
@@ -51157,6 +51185,20 @@
                 "$districtName": "masthugget",
                 "last_accept": 1588,
                 "$last_seen": "2023-05-15T08:45:10.936Z"
+              },
+              {
+                "id": 95153,
+                "rent": 6337,
+                "area": 39,
+                "street": "godhemsgatan",
+                "street_number": "8 b",
+                "city": "göteborg",
+                "zip": "41467",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "masthugget",
+                "last_accept": 1698,
+                "$last_seen": "2023-09-07T08:46:31.798Z"
               }
             ],
             "gamla varvsgatan": [
@@ -60701,6 +60743,20 @@
                 "$districtName": "malmö sankt petri",
                 "last_accept": 477,
                 "$last_seen": "2023-03-30T06:44:48.551Z"
+              },
+              {
+                "id": 89299,
+                "rent": 21090,
+                "area": 190,
+                "street": "gustav adolfs torg",
+                "street_number": "8a",
+                "city": "malmö",
+                "zip": "21139",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "malmö sankt petri",
+                "last_accept": 0,
+                "$last_seen": "2023-09-07T08:46:31.798Z"
               }
             ],
             "lilla varvsgatan": [
