@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-09-08T11:44:06.227Z",
+  "lastUpdatedAt": "2023-09-08T13:01:45.229Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -6473,6 +6473,20 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1692,
                 "$last_seen": "2023-08-28T16:46:30.892Z"
+              },
+              {
+                "id": 94396,
+                "rent": 10500,
+                "area": 67,
+                "street": "vidblicksgatan",
+                "street_number": "11 b",
+                "city": "göteborg",
+                "zip": "41257",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1704,
+                "$last_seen": "2023-09-08T11:44:06.227Z"
               }
             ],
             "fribergsgatan": [
@@ -8291,6 +8305,20 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1472,
                 "$last_seen": "2023-09-07T10:47:56.456Z"
+              },
+              {
+                "id": 97341,
+                "rent": 8750,
+                "area": 54,
+                "street": "fridkullagatan",
+                "street_number": "22b",
+                "city": "göteborg",
+                "zip": "41262",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1652,
+                "$last_seen": "2023-09-08T11:44:06.227Z"
               }
             ],
             "örnehufvudsgatan": [
@@ -22915,6 +22943,20 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1665,
                 "$last_seen": "2023-08-09T10:46:28.587Z"
+              },
+              {
+                "id": 95667,
+                "rent": 9756,
+                "area": 55,
+                "street": "övre olskroksgatan",
+                "street_number": "9",
+                "city": "göteborg",
+                "zip": "41667",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1704,
+                "$last_seen": "2023-09-08T11:44:06.227Z"
               }
             ],
             "vävstolsgatan": [
@@ -33335,6 +33377,20 @@
                 "$districtName": "bergsjön",
                 "last_accept": 359,
                 "$last_seen": "2023-09-06T14:45:42.043Z"
+              },
+              {
+                "id": 93877,
+                "rent": 12442,
+                "area": 99,
+                "street": "zenitgatan",
+                "street_number": "20",
+                "city": "göteborg",
+                "zip": "41562",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bergsjön",
+                "last_accept": 1012,
+                "$last_seen": "2023-09-08T11:44:06.227Z"
               },
               {
                 "id": 93882,
