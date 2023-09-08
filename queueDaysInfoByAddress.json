@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-09-08T13:01:45.229Z",
+  "lastUpdatedAt": "2023-09-08T13:44:10.897Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -44687,6 +44687,20 @@
                 "$districtName": "annedal",
                 "last_accept": 1649,
                 "$last_seen": "2023-08-15T10:46:27.547Z"
+              },
+              {
+                "id": 96405,
+                "rent": 7893,
+                "area": 62,
+                "street": "västergatan",
+                "street_number": "15",
+                "city": "göteborg",
+                "zip": "41313",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "annedal",
+                "last_accept": 1693,
+                "$last_seen": "2023-09-08T13:01:45.229Z"
               }
             ],
             "seminariegatan": [
@@ -68115,6 +68129,24 @@
                 "$last_seen": "2023-06-21T08:49:35.850Z"
               }
             ]
+          },
+          "vantör": {
+            "bjursätragatan": [
+              {
+                "id": 95836,
+                "rent": 7277,
+                "area": 47,
+                "street": "bjursätragatan",
+                "street_number": "52 b",
+                "city": "stockholm ",
+                "zip": "12464",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 1322,
+                "$last_seen": "2023-09-08T13:01:45.229Z"
+              }
+            ]
           }
         },
         "hägersten": {
@@ -68335,6 +68367,28 @@
                 "$districtName": "boo",
                 "last_accept": 1267,
                 "$last_seen": "2023-04-25T08:46:08.723Z"
+              }
+            ]
+          }
+        }
+      },
+      "haninge": {
+        "stockholm": {
+          "österhaninge": {
+            "vardövägen": [
+              {
+                "id": 96528,
+                "rent": 7795,
+                "area": 29,
+                "street": "vardövägen",
+                "street_number": "44",
+                "city": "stockholm",
+                "zip": "13657",
+                "municipality": "haninge",
+                "county": "stockholms län",
+                "$districtName": "österhaninge",
+                "last_accept": 32,
+                "$last_seen": "2023-09-08T13:01:45.229Z"
               }
             ]
           }
