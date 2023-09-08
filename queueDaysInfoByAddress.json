@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-09-08T14:45:40.700Z",
+  "lastUpdatedAt": "2023-09-08T15:44:04.288Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -44815,6 +44815,20 @@
                 "$districtName": "annedal",
                 "last_accept": 1556,
                 "$last_seen": "2023-05-12T14:42:49.148Z"
+              },
+              {
+                "id": 95688,
+                "rent": 11336,
+                "area": 68,
+                "street": "seminariegatan",
+                "street_number": "2",
+                "city": "göteborg",
+                "zip": "41313",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "annedal",
+                "last_accept": 1673,
+                "$last_seen": "2023-09-08T14:45:40.700Z"
               }
             ],
             "guldhedstorget": [
