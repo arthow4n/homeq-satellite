@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-09-08T05:44:47.317Z",
+  "lastUpdatedAt": "2023-09-08T06:47:24.967Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -44097,6 +44097,20 @@
                 "$districtName": "annedal",
                 "last_accept": 1665,
                 "$last_seen": "2023-08-23T13:00:05.060Z"
+              },
+              {
+                "id": 95661,
+                "rent": 10757,
+                "area": 65,
+                "street": "carl grimbergsgatan",
+                "street_number": "15",
+                "city": "göteborg",
+                "zip": "41313",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "annedal",
+                "last_accept": 1694,
+                "$last_seen": "2023-09-08T05:44:47.317Z"
               }
             ],
             "västergatan": [
@@ -49931,6 +49945,20 @@
                 "$districtName": "masthugget",
                 "last_accept": 1168,
                 "$last_seen": "2023-06-07T11:43:35.911Z"
+              },
+              {
+                "id": 95104,
+                "rent": 8079,
+                "area": 39,
+                "street": "stenklevsgatan",
+                "street_number": "7 b",
+                "city": "göteborg",
+                "zip": "41465",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "masthugget",
+                "last_accept": 1349,
+                "$last_seen": "2023-09-08T05:44:47.317Z"
               }
             ],
             "djurgårdsgatan": [
