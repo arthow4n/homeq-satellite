@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-09-08T10:48:12.044Z",
+  "lastUpdatedAt": "2023-09-08T11:44:06.227Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -33707,6 +33707,20 @@
                 "$districtName": "nylöse",
                 "last_accept": 1238,
                 "$last_seen": "2023-08-09T11:41:42.424Z"
+              },
+              {
+                "id": 94236,
+                "rent": 6011,
+                "area": 33,
+                "street": "brahegatan",
+                "street_number": "6c",
+                "city": "göteborg",
+                "zip": "41514",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "nylöse",
+                "last_accept": 1542,
+                "$last_seen": "2023-09-08T10:48:12.044Z"
               }
             ],
             "hornsgatan": [
@@ -43745,6 +43759,20 @@
                 "$districtName": "annedal",
                 "last_accept": 1663,
                 "$last_seen": "2023-07-31T11:37:39.771Z"
+              },
+              {
+                "id": 96442,
+                "rent": 6372,
+                "area": 33,
+                "street": "övre husargatan",
+                "street_number": "6",
+                "city": "göteborg",
+                "zip": "41314",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "annedal",
+                "last_accept": 1483,
+                "$last_seen": "2023-09-08T10:48:12.044Z"
               }
             ],
             "carl grimbergsgatan": [
