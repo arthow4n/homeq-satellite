@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-09-11T11:43:37.024Z",
+  "lastUpdatedAt": "2023-09-11T13:02:33.291Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -3231,6 +3231,20 @@
                 "$districtName": "fässberg",
                 "last_accept": 959,
                 "$last_seen": "2023-07-19T07:38:10.608Z"
+              },
+              {
+                "id": 93252,
+                "rent": 9709,
+                "area": 55,
+                "street": "åbyvägen",
+                "street_number": "4 c",
+                "city": "göteborg",
+                "zip": "43162",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 1104,
+                "$last_seen": "2023-09-11T11:43:37.024Z"
               },
               {
                 "id": 93254,
@@ -54337,20 +54351,6 @@
                 "$last_seen": "2023-09-06T11:42:57.207Z"
               },
               {
-                "id": 93708,
-                "rent": 13330,
-                "area": 109,
-                "street": "långströmsgatan",
-                "street_number": "36a",
-                "city": "göteborg",
-                "zip": "41870",
-                "municipality": "göteborg",
-                "county": "västra götalands län",
-                "$districtName": "biskopsgården",
-                "last_accept": 707,
-                "$last_seen": "2023-09-06T11:42:57.207Z"
-              },
-              {
                 "id": 93732,
                 "rent": 10909,
                 "area": 83,
@@ -59885,6 +59885,20 @@
                 "$districtName": "västra frölunda",
                 "last_accept": 676,
                 "$last_seen": "2023-09-01T05:42:37.300Z"
+              },
+              {
+                "id": 94844,
+                "rent": 7186,
+                "area": 51,
+                "street": "marconigatan",
+                "street_number": "33 b",
+                "city": "västra frölunda",
+                "zip": "42144",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "västra frölunda",
+                "last_accept": 1306,
+                "$last_seen": "2023-09-11T11:43:37.024Z"
               }
             ]
           },
