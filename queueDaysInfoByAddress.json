@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-09-11T08:47:39.846Z",
+  "lastUpdatedAt": "2023-09-11T09:43:25.955Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -63449,6 +63449,20 @@
                 "$districtName": "malmö sankt pauli",
                 "last_accept": 472,
                 "$last_seen": "2023-05-11T13:48:36.936Z"
+              },
+              {
+                "id": 95217,
+                "rent": 11486,
+                "area": 86,
+                "street": "östra förstadsgatan",
+                "street_number": "23",
+                "city": "malmö",
+                "zip": "21211",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "malmö sankt pauli",
+                "last_accept": 141,
+                "$last_seen": "2023-09-11T08:47:39.846Z"
               }
             ],
             "fredriksbergsgatan": [
@@ -66215,20 +66229,6 @@
                 "$districtName": "bunkeflo",
                 "last_accept": 0,
                 "$last_seen": "2023-08-24T13:00:11.174Z"
-              },
-              {
-                "id": 88315,
-                "rent": 7675,
-                "area": 47.5,
-                "street": "skräddarebyn",
-                "street_number": "5a",
-                "city": "bunkeflostrand",
-                "zip": "21842",
-                "municipality": "malmö",
-                "county": "skåne län",
-                "$districtName": "bunkeflo",
-                "last_accept": 86,
-                "$last_seen": "2023-08-31T13:46:20.716Z"
               },
               {
                 "id": 89945,
