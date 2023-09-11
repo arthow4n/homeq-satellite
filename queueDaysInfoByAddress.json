@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-09-11T14:46:23.622Z",
+  "lastUpdatedAt": "2023-09-11T15:43:52.166Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -11499,6 +11499,20 @@
                 "$districtName": "högsbo",
                 "last_accept": 1442,
                 "$last_seen": "2023-08-23T09:42:43.683Z"
+              },
+              {
+                "id": 95912,
+                "rent": 8418,
+                "area": 62,
+                "street": "pennygången",
+                "street_number": "34",
+                "city": "göteborg",
+                "zip": "41482",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 1187,
+                "$last_seen": "2023-09-11T14:46:23.622Z"
               }
             ],
             "skäpplandsgatan": [
@@ -12869,6 +12883,20 @@
                 "$districtName": "högsbo",
                 "last_accept": 334,
                 "$last_seen": "2023-06-20T07:44:26.105Z"
+              },
+              {
+                "id": 92948,
+                "rent": 9950,
+                "area": 48,
+                "street": "sjupundsgatan",
+                "street_number": "17",
+                "city": "göteborg",
+                "zip": "41484",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 1052,
+                "$last_seen": "2023-09-11T14:46:23.622Z"
               }
             ],
             "handelsmyntet": [
