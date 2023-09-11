@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-09-11T15:43:52.166Z",
+  "lastUpdatedAt": "2023-09-11T16:50:19.060Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -39211,6 +39211,20 @@
                 "$districtName": "örgryte",
                 "last_accept": 874,
                 "$last_seen": "2023-08-15T14:44:45.137Z"
+              },
+              {
+                "id": 93851,
+                "rent": 9762,
+                "area": 64,
+                "street": "smörgatan",
+                "street_number": "100",
+                "city": "göteborg",
+                "zip": "41276",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1407,
+                "$last_seen": "2023-09-11T15:43:52.166Z"
               },
               {
                 "id": 94890,
