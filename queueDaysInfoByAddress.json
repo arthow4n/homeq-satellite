@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-09-12T11:43:37.854Z",
+  "lastUpdatedAt": "2023-09-12T13:01:47.985Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -62101,6 +62101,20 @@
                 "$last_seen": "2023-09-06T05:43:15.714Z"
               },
               {
+                "id": 95658,
+                "rent": 6336,
+                "area": 58,
+                "street": "upplandsgatan",
+                "street_number": "5 a",
+                "city": "malmö",
+                "zip": "21429",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "möllevången",
+                "last_accept": 1564,
+                "$last_seen": "2023-09-12T11:43:37.854Z"
+              },
+              {
                 "id": 95710,
                 "rent": 6596,
                 "area": 60,
@@ -63179,6 +63193,20 @@
                 "$districtName": "kirseberg",
                 "last_accept": 729,
                 "$last_seen": "2023-08-17T11:43:14.908Z"
+              },
+              {
+                "id": 96205,
+                "rent": 9386,
+                "area": 65,
+                "street": "högamöllegatan",
+                "street_number": "3 a",
+                "city": "malmö",
+                "zip": "21219",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "kirseberg",
+                "last_accept": 0,
+                "$last_seen": "2023-09-12T11:43:37.854Z"
               },
               {
                 "id": 96438,
@@ -68005,6 +68033,20 @@
                 "$districtName": "hässelby",
                 "last_accept": 1565,
                 "$last_seen": "2023-09-06T08:45:43.722Z"
+              },
+              {
+                "id": 97614,
+                "rent": 5806,
+                "area": 33,
+                "street": "enspännargatan",
+                "street_number": "14 a",
+                "city": "hässelby",
+                "zip": "16557",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "hässelby",
+                "last_accept": 882,
+                "$last_seen": "2023-09-12T11:43:37.854Z"
               }
             ]
           }
@@ -68371,6 +68413,22 @@
                 "$districtName": "skärholmen",
                 "last_accept": 0,
                 "$last_seen": "2023-09-07T14:45:53.410Z"
+              }
+            ],
+            "ålgrytevägen": [
+              {
+                "id": 97005,
+                "rent": 10681,
+                "area": 81,
+                "street": "ålgrytevägen",
+                "street_number": "131",
+                "city": "stockholm",
+                "zip": "12731",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "skärholmen",
+                "last_accept": 1709,
+                "$last_seen": "2023-09-12T11:43:37.854Z"
               }
             ]
           },
