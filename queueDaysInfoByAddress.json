@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-09-12T09:44:03.302Z",
+  "lastUpdatedAt": "2023-09-12T10:48:29.056Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -32703,6 +32703,20 @@
                 "$districtName": "bergsjön",
                 "last_accept": 331,
                 "$last_seen": "2023-09-06T10:47:20.385Z"
+              },
+              {
+                "id": 97446,
+                "rent": 7431,
+                "area": 46,
+                "street": "kosmosgatan",
+                "street_number": "12",
+                "city": "göteborg",
+                "zip": "41562",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bergsjön",
+                "last_accept": 545,
+                "$last_seen": "2023-09-12T09:44:03.302Z"
               }
             ],
             "atmosfärgatan": [
@@ -46433,6 +46447,20 @@
                 "$districtName": "göteborgs vasa",
                 "last_accept": 1531,
                 "$last_seen": "2023-08-08T11:40:37.299Z"
+              },
+              {
+                "id": 95984,
+                "rent": 6817,
+                "area": 40,
+                "street": "geijersgatan",
+                "street_number": "7 b",
+                "city": "göteborg",
+                "zip": "41134",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs vasa",
+                "last_accept": 1748,
+                "$last_seen": "2023-09-12T09:44:03.302Z"
               }
             ],
             "engelbrektsgatan": [
@@ -68769,6 +68797,20 @@
                 "$districtName": "bromma",
                 "last_accept": 1929,
                 "$last_seen": "2023-09-05T05:42:45.559Z"
+              },
+              {
+                "id": 97302,
+                "rent": 6097,
+                "area": 46,
+                "street": "björnsonsgatan",
+                "street_number": "115",
+                "city": "bromma",
+                "zip": "16843",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "bromma",
+                "last_accept": 1808,
+                "$last_seen": "2023-09-12T09:44:03.302Z"
               }
             ]
           }
