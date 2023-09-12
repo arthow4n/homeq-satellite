@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-09-12T05:44:52.311Z",
+  "lastUpdatedAt": "2023-09-12T06:47:35.495Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -8435,6 +8435,20 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1588,
                 "$last_seen": "2023-05-15T06:46:43.201Z"
+              },
+              {
+                "id": 95817,
+                "rent": 9300,
+                "area": 76,
+                "street": "viktor rydbergsgatan",
+                "street_number": "37a",
+                "city": "göteborg",
+                "zip": "41257",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1708,
+                "$last_seen": "2023-09-12T05:44:52.311Z"
               }
             ],
             "meijerbergsgatan": [
@@ -61945,6 +61959,20 @@
                 "$districtName": "möllevången",
                 "last_accept": 1118,
                 "$last_seen": "2023-09-05T08:44:39.192Z"
+              },
+              {
+                "id": 95730,
+                "rent": 7479,
+                "area": 71,
+                "street": "upplandsgatan",
+                "street_number": "5 a",
+                "city": "malmö",
+                "zip": "21429",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "möllevången",
+                "last_accept": 706,
+                "$last_seen": "2023-09-12T05:44:52.311Z"
               }
             ],
             "sigtunagatan": [
@@ -64052,20 +64080,6 @@
                 "county": "skåne län",
                 "$districtName": "hyllie",
                 "last_accept": 423,
-                "$last_seen": "2023-09-11T06:48:28.419Z"
-              },
-              {
-                "id": 95805,
-                "rent": 8868,
-                "area": 49,
-                "street": "tors gränd",
-                "street_number": "6",
-                "city": "malmö",
-                "zip": "21534",
-                "municipality": "malmö",
-                "county": "skåne län",
-                "$districtName": "hyllie",
-                "last_accept": 0,
                 "$last_seen": "2023-09-11T06:48:28.419Z"
               }
             ],
