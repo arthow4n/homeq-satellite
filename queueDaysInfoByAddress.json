@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-09-13T13:46:06.461Z",
+  "lastUpdatedAt": "2023-09-13T14:47:07.756Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -31243,6 +31243,20 @@
                 "$districtName": "bergsjön",
                 "last_accept": 1237,
                 "$last_seen": "2023-08-21T13:00:08.919Z"
+              },
+              {
+                "id": 97634,
+                "rent": 7463,
+                "area": 74,
+                "street": "keplers gata",
+                "street_number": "52",
+                "city": "göteborg",
+                "zip": "41555",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bergsjön",
+                "last_accept": 1322,
+                "$last_seen": "2023-09-13T13:46:06.461Z"
               }
             ],
             "galileis gata": [
@@ -39871,6 +39885,20 @@
                 "$districtName": "örgryte",
                 "last_accept": 1697,
                 "$last_seen": "2023-09-12T13:01:47.985Z"
+              },
+              {
+                "id": 97280,
+                "rent": 7755,
+                "area": 50,
+                "street": "prästgårdsängen",
+                "street_number": "7",
+                "city": "göteborg",
+                "zip": "41271",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1695,
+                "$last_seen": "2023-09-13T13:46:06.461Z"
               }
             ],
             "karlfeldtsgatan": [
