@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-09-13T09:43:39.111Z",
+  "lastUpdatedAt": "2023-09-13T10:48:08.217Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -3287,6 +3287,20 @@
                 "$districtName": "fässberg",
                 "last_accept": 933,
                 "$last_seen": "2023-08-18T11:43:11.341Z"
+              },
+              {
+                "id": 94927,
+                "rent": 7476,
+                "area": 38,
+                "street": "åbyvägen",
+                "street_number": "4 d",
+                "city": "göteborg",
+                "zip": "43162",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 1275,
+                "$last_seen": "2023-09-13T09:43:39.111Z"
               }
             ],
             "krokslätts parkgata": [
@@ -58149,6 +58163,20 @@
                 "$districtName": "brunnsbo",
                 "last_accept": 1660,
                 "$last_seen": "2023-09-07T09:43:04.520Z"
+              },
+              {
+                "id": 96925,
+                "rent": 9808,
+                "area": 72,
+                "street": "sångspelsgatan",
+                "street_number": "2",
+                "city": "hisings backa",
+                "zip": "42241",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brunnsbo",
+                "last_accept": 1598,
+                "$last_seen": "2023-09-13T09:43:39.111Z"
               }
             ],
             "poesigatan": [
