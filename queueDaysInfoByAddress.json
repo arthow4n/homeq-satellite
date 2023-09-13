@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-09-13T10:48:08.217Z",
+  "lastUpdatedAt": "2023-09-13T11:43:51.833Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -58049,6 +58049,20 @@
                 "$districtName": "brunnsbo",
                 "last_accept": 1171,
                 "$last_seen": "2023-09-07T13:48:28.358Z"
+              },
+              {
+                "id": 97483,
+                "rent": 4489,
+                "area": 31,
+                "street": "prologgatan",
+                "street_number": "10",
+                "city": "hisings backa",
+                "zip": "42241",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brunnsbo",
+                "last_accept": 1284,
+                "$last_seen": "2023-09-13T10:48:08.217Z"
               }
             ],
             "sångspelsgatan": [
@@ -67351,6 +67365,20 @@
                 "$districtName": "vantör",
                 "last_accept": 1825,
                 "$last_seen": "2023-08-31T13:46:20.716Z"
+              },
+              {
+                "id": 96247,
+                "rent": 7621,
+                "area": 68,
+                "street": "glanshammarsgatan",
+                "street_number": "66",
+                "city": "bandhagen",
+                "zip": "12471",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 1786,
+                "$last_seen": "2023-09-13T10:48:08.217Z"
               }
             ],
             "bäverbäcksgränd": [
