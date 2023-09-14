@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-09-14T09:42:59.780Z",
+  "lastUpdatedAt": "2023-09-14T10:47:32.734Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -22207,6 +22207,20 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1675,
                 "$last_seen": "2023-08-28T07:41:23.570Z"
+              },
+              {
+                "id": 95606,
+                "rent": 3929,
+                "area": 17,
+                "street": "st pauligatan",
+                "street_number": "14",
+                "city": "göteborg",
+                "zip": "41660",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1336,
+                "$last_seen": "2023-09-14T09:42:59.780Z"
               }
             ],
             "platågatan": [
@@ -64015,6 +64029,20 @@
                 "$districtName": "kirseberg",
                 "last_accept": 742,
                 "$last_seen": "2023-08-30T06:45:15.520Z"
+              },
+              {
+                "id": 96267,
+                "rent": 7552,
+                "area": 53,
+                "street": "solgatan",
+                "street_number": "24 a",
+                "city": "malmö",
+                "zip": "21220",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "kirseberg",
+                "last_accept": 686,
+                "$last_seen": "2023-09-14T09:42:59.780Z"
               }
             ]
           },
