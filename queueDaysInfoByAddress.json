@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-09-14T11:43:18.492Z",
+  "lastUpdatedAt": "2023-09-14T13:00:51.867Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -2893,6 +2893,34 @@
                 "$districtName": "fässberg",
                 "last_accept": 1187,
                 "$last_seen": "2023-09-07T10:47:56.456Z"
+              },
+              {
+                "id": 97315,
+                "rent": 12910,
+                "area": 81,
+                "street": "åby allé",
+                "street_number": "57",
+                "city": "göteborg",
+                "zip": "43145",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 1617,
+                "$last_seen": "2023-09-14T11:43:18.492Z"
+              },
+              {
+                "id": 97541,
+                "rent": 12910,
+                "area": 81,
+                "street": "åby allé",
+                "street_number": "57",
+                "city": "göteborg",
+                "zip": "43145",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 1620,
+                "$last_seen": "2023-09-14T11:43:18.492Z"
               }
             ],
             "åbyvägen": [
@@ -54943,6 +54971,20 @@
                 "$last_seen": "2023-06-21T10:49:22.530Z"
               },
               {
+                "id": 93814,
+                "rent": 7442,
+                "area": 65,
+                "street": "lufttrycksgatan",
+                "street_number": "5",
+                "city": "göteborg",
+                "zip": "41840",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "biskopsgården",
+                "last_accept": 764,
+                "$last_seen": "2023-09-14T11:43:18.492Z"
+              },
+              {
                 "id": 94058,
                 "rent": 7782,
                 "area": 64,
@@ -58707,6 +58749,22 @@
                 "$districtName": "askim",
                 "last_accept": 268,
                 "$last_seen": "2023-06-21T06:49:31.971Z"
+              }
+            ],
+            "sisjöbäckensväg": [
+              {
+                "id": 95342,
+                "rent": 10539,
+                "area": 54,
+                "street": "sisjöbäckensväg",
+                "street_number": "22",
+                "city": "askim",
+                "zip": "43638",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 477,
+                "$last_seen": "2023-09-14T11:43:18.492Z"
               }
             ]
           }
