@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-09-14T06:48:24.503Z",
+  "lastUpdatedAt": "2023-09-14T07:43:58.436Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -7403,6 +7403,20 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1578,
                 "$last_seen": "2023-05-05T07:41:05.948Z"
+              },
+              {
+                "id": 97265,
+                "rent": 7234,
+                "area": 56,
+                "street": "framnäsgatan",
+                "street_number": "26b",
+                "city": "göteborg",
+                "zip": "41262",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1710,
+                "$last_seen": "2023-09-14T06:48:24.503Z"
               }
             ],
             "kristinehöjdsgatan": [
@@ -13675,6 +13689,20 @@
                 "$districtName": "brämaregården",
                 "last_accept": 1432,
                 "$last_seen": "2023-08-25T10:44:56.101Z"
+              },
+              {
+                "id": 95093,
+                "rent": 8114,
+                "area": 44,
+                "street": "gustaf dalénsgatan",
+                "street_number": "7 b",
+                "city": "göteborg",
+                "zip": "41723",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brämaregården",
+                "last_accept": 1305,
+                "$last_seen": "2023-09-14T06:48:24.503Z"
               }
             ],
             "lantmätaregatan": [
@@ -48795,6 +48823,20 @@
                 "$districtName": "göteborgs oscar fredrik",
                 "last_accept": 1697,
                 "$last_seen": "2023-06-29T14:43:28.861Z"
+              },
+              {
+                "id": 97599,
+                "rent": 8900,
+                "area": 59,
+                "street": "olivedalsgatan",
+                "street_number": "25",
+                "city": "göteborg",
+                "zip": "41310",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs oscar fredrik",
+                "last_accept": 1717,
+                "$last_seen": "2023-09-14T06:48:24.503Z"
               }
             ],
             "kryssdäcket": [
@@ -66773,6 +66815,20 @@
                 "$districtName": "bunkeflo",
                 "last_accept": 80,
                 "$last_seen": "2023-08-29T10:45:25.168Z"
+              },
+              {
+                "id": 96931,
+                "rent": 8996,
+                "area": 61.2,
+                "street": "skomakarebyn",
+                "street_number": "7f",
+                "city": "bunkeflostrand",
+                "zip": "21841",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "bunkeflo",
+                "last_accept": 0,
+                "$last_seen": "2023-09-14T06:48:24.503Z"
               }
             ],
             "smedmästarebyn": [
@@ -67913,6 +67969,20 @@
                 "$districtName": "vantör",
                 "last_accept": 1559,
                 "$last_seen": "2023-04-26T09:42:05.314Z"
+              },
+              {
+                "id": 97002,
+                "rent": 10763,
+                "area": 78.5,
+                "street": "hagsätra torg",
+                "street_number": "40",
+                "city": "bandhagen",
+                "zip": "12473",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 1739,
+                "$last_seen": "2023-09-14T06:48:24.503Z"
               }
             ],
             "pålsbodagränd": [
