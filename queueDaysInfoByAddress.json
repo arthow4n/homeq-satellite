@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-09-15T09:42:50.185Z",
+  "lastUpdatedAt": "2023-09-15T10:46:34.983Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -599,6 +599,20 @@
                 "$districtName": "fässberg",
                 "last_accept": 1601,
                 "$last_seen": "2023-09-12T08:46:50.930Z"
+              },
+              {
+                "id": 97095,
+                "rent": 8676,
+                "area": 60,
+                "street": "berghemsgatan",
+                "street_number": "6",
+                "city": "mölndal",
+                "zip": "43137",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 1341,
+                "$last_seen": "2023-09-15T09:42:50.185Z"
               }
             ],
             "brogatan": [
@@ -4335,6 +4349,20 @@
                 "$districtName": "kållered",
                 "last_accept": 1202,
                 "$last_seen": "2023-09-12T08:46:50.930Z"
+              },
+              {
+                "id": 96450,
+                "rent": 7014,
+                "area": 63,
+                "street": "våmmedalsvägen",
+                "street_number": "134",
+                "city": "kållered",
+                "zip": "42831",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "kållered",
+                "last_accept": 1218,
+                "$last_seen": "2023-09-15T09:42:50.185Z"
               }
             ],
             "streteredsvägen": [
@@ -29729,6 +29757,20 @@
                 "$districtName": "askim",
                 "last_accept": 1466,
                 "$last_seen": "2023-09-07T14:45:53.410Z"
+              },
+              {
+                "id": 96926,
+                "rent": 5507,
+                "area": 32,
+                "street": "nergårdsvägen",
+                "street_number": "61",
+                "city": "göteborg",
+                "zip": "43536",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 1048,
+                "$last_seen": "2023-09-15T09:42:50.185Z"
               }
             ],
             "hyltegården": [
@@ -36143,6 +36185,20 @@
                 "$districtName": "härlanda",
                 "last_accept": 1450,
                 "$last_seen": "2022-09-28T10:51:40.315Z"
+              },
+              {
+                "id": 95522,
+                "rent": 5826,
+                "area": 39,
+                "street": "sanatoriegatan",
+                "street_number": "20 a",
+                "city": "göteborg",
+                "zip": "41653",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "härlanda",
+                "last_accept": 1567,
+                "$last_seen": "2023-09-15T09:42:50.185Z"
               }
             ],
             "intagsgatan": [
@@ -48961,6 +49017,20 @@
                 "$districtName": "göteborgs oscar fredrik",
                 "last_accept": 1650,
                 "$last_seen": "2023-09-15T07:43:03.656Z"
+              },
+              {
+                "id": 97565,
+                "rent": 13667,
+                "area": 58,
+                "street": "jungmansgatan",
+                "street_number": "33b",
+                "city": "göteborg",
+                "zip": "41315",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs oscar fredrik",
+                "last_accept": 1430,
+                "$last_seen": "2023-09-15T09:42:50.185Z"
               }
             ],
             "gubbe lars väg": [
@@ -62475,6 +62545,20 @@
                 "$districtName": "husie",
                 "last_accept": 60,
                 "$last_seen": "2023-08-28T05:43:05.504Z"
+              },
+              {
+                "id": 95834,
+                "rent": 8353,
+                "area": 52,
+                "street": "lönnebergagatan",
+                "street_number": "2",
+                "city": "malmö",
+                "zip": "21215",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "husie",
+                "last_accept": 351,
+                "$last_seen": "2023-09-15T09:42:50.185Z"
               }
             ]
           },
