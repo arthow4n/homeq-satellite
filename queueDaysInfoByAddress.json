@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-09-15T11:42:49.285Z",
+  "lastUpdatedAt": "2023-09-15T13:00:29.897Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -2907,6 +2907,20 @@
                 "$districtName": "fässberg",
                 "last_accept": 1187,
                 "$last_seen": "2023-09-07T10:47:56.456Z"
+              },
+              {
+                "id": 96614,
+                "rent": 6750,
+                "area": 30,
+                "street": "åby allé",
+                "street_number": "71",
+                "city": "göteborg",
+                "zip": "43145",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 1116,
+                "$last_seen": "2023-09-15T11:42:49.285Z"
               },
               {
                 "id": 97315,
@@ -16213,20 +16227,6 @@
                 "$districtName": "lundby",
                 "last_accept": 724,
                 "$last_seen": "2023-06-16T11:43:54.900Z"
-              },
-              {
-                "id": 95747,
-                "rent": 10801,
-                "area": 62,
-                "street": "trollhasselgatan",
-                "street_number": "24",
-                "city": "göteborg",
-                "zip": "41711",
-                "municipality": "göteborg",
-                "county": "västra götalands län",
-                "$districtName": "lundby",
-                "last_accept": 1328,
-                "$last_seen": "2023-09-07T08:46:31.798Z"
               }
             ],
             "karl staaffsgatan": [
@@ -40883,6 +40883,20 @@
                 "$districtName": "örgryte",
                 "last_accept": 518,
                 "$last_seen": "2023-07-19T09:38:09.217Z"
+              },
+              {
+                "id": 96001,
+                "rent": 12180,
+                "area": 70,
+                "street": "smörkärnegatan",
+                "street_number": "1",
+                "city": "göteborg",
+                "zip": "41278",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1538,
+                "$last_seen": "2023-09-15T11:42:49.285Z"
               }
             ],
             "tändsticksgatan": [
@@ -60587,6 +60601,20 @@
                 "$districtName": "västra frölunda",
                 "last_accept": 1127,
                 "$last_seen": "2023-08-30T11:41:24.698Z"
+              },
+              {
+                "id": 97387,
+                "rent": 11482,
+                "area": 80,
+                "street": "speldosegatan",
+                "street_number": "8",
+                "city": "västra frölunda",
+                "zip": "42151",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "västra frölunda",
+                "last_accept": 1015,
+                "$last_seen": "2023-09-15T11:42:49.285Z"
               }
             ],
             "tamburingatan": [
@@ -60759,6 +60787,20 @@
                 "$districtName": "västra frölunda",
                 "last_accept": 1420,
                 "$last_seen": "2023-08-16T11:44:08.060Z"
+              },
+              {
+                "id": 94829,
+                "rent": 8760,
+                "area": 67,
+                "street": "marconigatan",
+                "street_number": "33 a",
+                "city": "västra frölunda",
+                "zip": "42144",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "västra frölunda",
+                "last_accept": 823,
+                "$last_seen": "2023-09-15T11:42:49.285Z"
               },
               {
                 "id": 94842,
@@ -62375,6 +62417,20 @@
                 "$districtName": "malmö sankt petri",
                 "last_accept": 0,
                 "$last_seen": "2023-07-07T05:45:03.536Z"
+              },
+              {
+                "id": 94346,
+                "rent": 8048,
+                "area": 43,
+                "street": "kalendegatan",
+                "street_number": "16",
+                "city": "malmö",
+                "zip": "21135",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "malmö sankt petri",
+                "last_accept": 153,
+                "$last_seen": "2023-09-15T11:42:49.285Z"
               }
             ],
             "dagvattengatan": [
