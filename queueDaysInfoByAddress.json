@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-09-15T06:46:58.635Z",
+  "lastUpdatedAt": "2023-09-15T07:43:03.656Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -12019,6 +12019,20 @@
                 "$districtName": "högsbo",
                 "last_accept": 1703,
                 "$last_seen": "2023-09-08T08:46:27.815Z"
+              },
+              {
+                "id": 95833,
+                "rent": 9223,
+                "area": 73,
+                "street": "skäpplandsgatan",
+                "street_number": "4",
+                "city": "göteborg",
+                "zip": "41478",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 1711,
+                "$last_seen": "2023-09-15T06:46:58.635Z"
               }
             ],
             "marklandsgatan": [
@@ -34917,6 +34931,20 @@
                 "$districtName": "nylöse",
                 "last_accept": 173,
                 "$last_seen": "2023-09-07T10:47:56.456Z"
+              },
+              {
+                "id": 93987,
+                "rent": 9495,
+                "area": 65,
+                "street": "sysslomansgatan",
+                "street_number": "39",
+                "city": "göteborg",
+                "zip": "41574",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "nylöse",
+                "last_accept": 0,
+                "$last_seen": "2023-09-15T06:46:58.635Z"
               }
             ],
             "hinderbanan": [
@@ -59111,6 +59139,20 @@
                 "$districtName": "tynnered",
                 "last_accept": 1203,
                 "$last_seen": "2023-09-05T11:41:52.387Z"
+              },
+              {
+                "id": 97348,
+                "rent": 9809,
+                "area": 58,
+                "street": "smaragdgatan",
+                "street_number": "10 b",
+                "city": "västra frölunda",
+                "zip": "42149",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tynnered",
+                "last_accept": 487,
+                "$last_seen": "2023-09-15T06:46:58.635Z"
               }
             ],
             "smyckegatan": [
@@ -63113,6 +63155,20 @@
                 "$districtName": "limhamn",
                 "last_accept": 9,
                 "$last_seen": "2023-09-11T07:44:04.016Z"
+              },
+              {
+                "id": 95892,
+                "rent": 7572,
+                "area": 32.6,
+                "street": "nätsnäcksgränd",
+                "street_number": "8",
+                "city": "malmö",
+                "zip": "21631",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "limhamn",
+                "last_accept": 0,
+                "$last_seen": "2023-09-15T06:46:58.635Z"
               }
             ],
             "dammsnäcksgränd": [
