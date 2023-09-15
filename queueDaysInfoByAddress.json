@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-09-15T10:46:34.983Z",
+  "lastUpdatedAt": "2023-09-15T11:42:49.285Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -4349,6 +4349,20 @@
                 "$districtName": "kållered",
                 "last_accept": 1202,
                 "$last_seen": "2023-09-12T08:46:50.930Z"
+              },
+              {
+                "id": 96190,
+                "rent": 7677,
+                "area": 63,
+                "street": "våmmedalsvägen",
+                "street_number": "132",
+                "city": "kållered",
+                "zip": "42831",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "kållered",
+                "last_accept": 1220,
+                "$last_seen": "2023-09-15T10:46:34.983Z"
               },
               {
                 "id": 96450,
@@ -18183,6 +18197,20 @@
                 "$districtName": "lundby",
                 "last_accept": 130,
                 "$last_seen": "2023-09-14T14:45:56.817Z"
+              },
+              {
+                "id": 97396,
+                "rent": 11428,
+                "area": 65,
+                "street": "fyrklöversgatan",
+                "street_number": "25",
+                "city": "göteborg",
+                "zip": "41721",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 0,
+                "$last_seen": "2023-09-15T10:46:34.983Z"
               }
             ],
             "arvid lindmansgatan": [
