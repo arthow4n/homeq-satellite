@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-09-15T13:00:29.897Z",
+  "lastUpdatedAt": "2023-09-15T13:43:10.944Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -21425,6 +21425,20 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1691,
                 "$last_seen": "2023-09-01T14:43:55.942Z"
+              },
+              {
+                "id": 96116,
+                "rent": 8864,
+                "area": 55,
+                "street": "redbergsvägen",
+                "street_number": "11 b",
+                "city": "göteborg",
+                "zip": "41665",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1627,
+                "$last_seen": "2023-09-15T13:00:29.897Z"
               }
             ],
             "kungälvsgatan": [
@@ -32997,20 +33011,6 @@
                 "$districtName": "bergsjön",
                 "last_accept": 863,
                 "$last_seen": "2023-08-24T07:42:56.187Z"
-              },
-              {
-                "id": 93891,
-                "rent": 11393,
-                "area": 90,
-                "street": "kosmosgatan",
-                "street_number": "5",
-                "city": "göteborg",
-                "zip": "41562",
-                "municipality": "göteborg",
-                "county": "västra götalands län",
-                "$districtName": "bergsjön",
-                "last_accept": 456,
-                "$last_seen": "2023-09-06T11:42:57.207Z"
               },
               {
                 "id": 93892,
@@ -46359,6 +46359,20 @@
                 "$districtName": "göteborgs vasa",
                 "last_accept": 1675,
                 "$last_seen": "2023-08-28T06:45:43.995Z"
+              },
+              {
+                "id": 97103,
+                "rent": 19300,
+                "area": 138,
+                "street": "karl gustavsgatan",
+                "street_number": "65",
+                "city": "göteborg",
+                "zip": "41131",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs vasa",
+                "last_accept": 1489,
+                "$last_seen": "2023-09-15T13:00:29.897Z"
               }
             ],
             "mölndalsvägen": [
