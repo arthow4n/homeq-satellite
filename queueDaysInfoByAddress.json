@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-09-15T13:43:10.944Z",
+  "lastUpdatedAt": "2023-09-15T14:45:03.236Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -16227,6 +16227,20 @@
                 "$districtName": "lundby",
                 "last_accept": 724,
                 "$last_seen": "2023-06-16T11:43:54.900Z"
+              },
+              {
+                "id": 95747,
+                "rent": 10801,
+                "area": 62,
+                "street": "trollhasselgatan",
+                "street_number": "24",
+                "city": "göteborg",
+                "zip": "41711",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1378,
+                "$last_seen": "2023-09-15T13:43:10.944Z"
               }
             ],
             "karl staaffsgatan": [
@@ -33629,20 +33643,6 @@
                 "$districtName": "bergsjön",
                 "last_accept": 834,
                 "$last_seen": "2023-08-08T07:40:43.965Z"
-              },
-              {
-                "id": 92906,
-                "rent": 8075,
-                "area": 65,
-                "street": "atmosfärgatan",
-                "street_number": "11",
-                "city": "göteborg",
-                "zip": "41561",
-                "municipality": "göteborg",
-                "county": "västra götalands län",
-                "$districtName": "bergsjön",
-                "last_accept": 936,
-                "$last_seen": "2023-09-07T13:48:28.358Z"
               },
               {
                 "id": 92908,
@@ -62861,6 +62861,20 @@
                 "$districtName": "möllevången",
                 "last_accept": 706,
                 "$last_seen": "2023-09-12T05:44:52.311Z"
+              },
+              {
+                "id": 97382,
+                "rent": 5500,
+                "area": 48,
+                "street": "upplandsgatan",
+                "street_number": "5 a",
+                "city": "malmö",
+                "zip": "21429",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "möllevången",
+                "last_accept": 1119,
+                "$last_seen": "2023-09-15T13:43:10.944Z"
               }
             ],
             "sigtunagatan": [
@@ -65725,6 +65739,20 @@
                 "$districtName": "västra skrävlinge",
                 "last_accept": 0,
                 "$last_seen": "2023-08-31T11:41:19.599Z"
+              },
+              {
+                "id": 97389,
+                "rent": 4895,
+                "area": 35,
+                "street": "ramels väg",
+                "street_number": "31",
+                "city": "malmö",
+                "zip": "21368",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "västra skrävlinge",
+                "last_accept": 0,
+                "$last_seen": "2023-09-15T13:43:10.944Z"
               }
             ]
           },
