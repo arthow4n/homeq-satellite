@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-09-15T05:44:16.741Z",
+  "lastUpdatedAt": "2023-09-15T06:46:58.635Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -45556,6 +45556,22 @@
                 "last_accept": 1590,
                 "$last_seen": "2023-04-05T10:45:42.102Z"
               }
+            ],
+            "nordenskiöldsgatan": [
+              {
+                "id": 97101,
+                "rent": 10500,
+                "area": 70,
+                "street": "nordenskiöldsgatan",
+                "street_number": "9",
+                "city": "göteborg",
+                "zip": "41309",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "annedal",
+                "last_accept": 1711,
+                "$last_seen": "2023-09-15T05:44:16.741Z"
+              }
             ]
           },
           "göteborgs vasa": {
@@ -65059,6 +65075,22 @@
                 "$districtName": "hyllie",
                 "last_accept": 0,
                 "$last_seen": "2023-09-06T05:43:15.714Z"
+              }
+            ],
+            "svansjögatan": [
+              {
+                "id": 93329,
+                "rent": 8403,
+                "area": 53,
+                "street": "svansjögatan",
+                "street_number": "53",
+                "city": "malmö",
+                "zip": "21766",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "hyllie",
+                "last_accept": 254,
+                "$last_seen": "2023-09-15T05:44:16.741Z"
               }
             ]
           },
