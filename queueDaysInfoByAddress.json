@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-09-18T08:46:21.711Z",
+  "lastUpdatedAt": "2023-09-18T09:42:05.291Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -31039,6 +31039,20 @@
                 "$districtName": "askim",
                 "last_accept": 462,
                 "$last_seen": "2023-09-12T07:43:51.016Z"
+              },
+              {
+                "id": 97772,
+                "rent": 11406,
+                "area": 60,
+                "street": "ugglegården",
+                "street_number": "38",
+                "city": "göteborg",
+                "zip": "43658",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 530,
+                "$last_seen": "2023-09-18T08:46:21.711Z"
               }
             ],
             "sisjövägen": [
@@ -39785,6 +39799,20 @@
                 "$districtName": "örgryte",
                 "last_accept": 1520,
                 "$last_seen": "2023-08-28T07:41:23.570Z"
+              },
+              {
+                "id": 97493,
+                "rent": 9908,
+                "area": 67,
+                "street": "smörgatan",
+                "street_number": "8",
+                "city": "göteborg",
+                "zip": "41276",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1604,
+                "$last_seen": "2023-09-18T08:46:21.711Z"
               }
             ],
             "prästgårdsängen": [
@@ -50533,6 +50561,20 @@
                 "$districtName": "masthugget",
                 "last_accept": 1707,
                 "$last_seen": "2023-09-11T10:48:01.585Z"
+              },
+              {
+                "id": 97226,
+                "rent": 6371,
+                "area": 39,
+                "street": "bangatan",
+                "street_number": "35",
+                "city": "göteborg",
+                "zip": "41464",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "masthugget",
+                "last_accept": 1526,
+                "$last_seen": "2023-09-18T08:46:21.711Z"
               }
             ],
             "amiralitetsgatan": [
@@ -55249,6 +55291,20 @@
                 "$districtName": "biskopsgården",
                 "last_accept": 972,
                 "$last_seen": "2023-09-06T11:42:57.207Z"
+              },
+              {
+                "id": 93708,
+                "rent": 13330,
+                "area": 109,
+                "street": "långströmsgatan",
+                "street_number": "36a",
+                "city": "göteborg",
+                "zip": "41870",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "biskopsgården",
+                "last_accept": 1241,
+                "$last_seen": "2023-09-18T08:46:21.711Z"
               },
               {
                 "id": 93732,
@@ -65337,6 +65393,20 @@
                 "$districtName": "hyllie",
                 "last_accept": 0,
                 "$last_seen": "2023-08-18T05:43:35.515Z"
+              },
+              {
+                "id": 94111,
+                "rent": 11156,
+                "area": 68.4,
+                "street": "bures gata",
+                "street_number": "1a",
+                "city": "malmö",
+                "zip": "21533",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "hyllie",
+                "last_accept": 1093,
+                "$last_seen": "2023-09-18T08:46:21.711Z"
               }
             ],
             "sagas gränd": [
@@ -68409,6 +68479,20 @@
                 "$districtName": "vantör",
                 "last_accept": 1474,
                 "$last_seen": "2023-09-13T11:43:51.833Z"
+              },
+              {
+                "id": 97954,
+                "rent": 4500,
+                "area": 26.6,
+                "street": "glanshammarsgatan",
+                "street_number": "47",
+                "city": "bandhagen",
+                "zip": "12471",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 1344,
+                "$last_seen": "2023-09-18T08:46:21.711Z"
               }
             ],
             "bäverbäcksgränd": [
@@ -68885,6 +68969,20 @@
                 "$districtName": "vantör",
                 "last_accept": 1739,
                 "$last_seen": "2023-09-14T06:48:24.503Z"
+              },
+              {
+                "id": 97538,
+                "rent": 5175,
+                "area": 26,
+                "street": "hagsätra torg",
+                "street_number": "42",
+                "city": "bandhagen",
+                "zip": "12473",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 1344,
+                "$last_seen": "2023-09-18T08:46:21.711Z"
               }
             ],
             "pålsbodagränd": [
@@ -69119,6 +69217,20 @@
                 "$districtName": "vantör",
                 "last_accept": 1758,
                 "$last_seen": "2023-09-05T10:45:39.568Z"
+              },
+              {
+                "id": 96389,
+                "rent": 11137,
+                "area": 90,
+                "street": "vintrosagatan",
+                "street_number": "12",
+                "city": "bandhagen",
+                "zip": "12473",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 870,
+                "$last_seen": "2023-09-18T08:46:21.711Z"
               }
             ],
             "skyllbergsgatan": [
