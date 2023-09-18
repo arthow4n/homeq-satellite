@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-09-18T09:42:05.291Z",
+  "lastUpdatedAt": "2023-09-18T10:46:32.448Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -585,6 +585,20 @@
                 "$districtName": "fässberg",
                 "last_accept": 1660,
                 "$last_seen": "2023-09-04T06:46:44.150Z"
+              },
+              {
+                "id": 96697,
+                "rent": 6785,
+                "area": 44,
+                "street": "berghemsgatan",
+                "street_number": "26",
+                "city": "mölndal",
+                "zip": "43137",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 1538,
+                "$last_seen": "2023-09-18T09:42:05.291Z"
               },
               {
                 "id": 97054,
@@ -27193,6 +27207,20 @@
                 "$districtName": "kortedala",
                 "last_accept": 1614,
                 "$last_seen": "2023-08-17T08:45:21.733Z"
+              },
+              {
+                "id": 95227,
+                "rent": 9105,
+                "area": 73,
+                "street": "solvarvsgatan",
+                "street_number": "30",
+                "city": "göteborg",
+                "zip": "41531",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "kortedala",
+                "last_accept": 1490,
+                "$last_seen": "2023-09-18T09:42:05.291Z"
               }
             ],
             "solståndsgatan": [
@@ -29869,6 +29897,20 @@
                 "$districtName": "askim",
                 "last_accept": 1048,
                 "$last_seen": "2023-09-15T09:42:50.185Z"
+              },
+              {
+                "id": 97856,
+                "rent": 9646,
+                "area": 80,
+                "street": "nergårdsvägen",
+                "street_number": "37",
+                "city": "göteborg",
+                "zip": "43636",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 1599,
+                "$last_seen": "2023-09-18T09:42:05.291Z"
               }
             ],
             "hyltegården": [
@@ -30897,6 +30939,20 @@
                 "$districtName": "askim",
                 "last_accept": 1044,
                 "$last_seen": "2023-09-04T06:46:44.150Z"
+              },
+              {
+                "id": 95953,
+                "rent": 11125,
+                "area": 80,
+                "street": "kobbegården",
+                "street_number": "3",
+                "city": "göteborg",
+                "zip": "43637",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 871,
+                "$last_seen": "2023-09-18T09:42:05.291Z"
               },
               {
                 "id": 95958,
@@ -46513,6 +46569,20 @@
                 "$districtName": "göteborgs vasa",
                 "last_accept": 1675,
                 "$last_seen": "2023-08-28T06:45:43.995Z"
+              },
+              {
+                "id": 96126,
+                "rent": 9397,
+                "area": 65,
+                "street": "karl gustavsgatan",
+                "street_number": "43",
+                "city": "göteborg",
+                "zip": "41131",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs vasa",
+                "last_accept": 1714,
+                "$last_seen": "2023-09-18T09:42:05.291Z"
               },
               {
                 "id": 97103,
