@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-09-18T05:44:07.888Z",
+  "lastUpdatedAt": "2023-09-18T06:47:22.136Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -55813,6 +55813,20 @@
                 "$districtName": "tuve",
                 "last_accept": 448,
                 "$last_seen": "2022-10-11T14:57:21.607Z"
+              },
+              {
+                "id": 86835,
+                "rent": 9811,
+                "area": 63,
+                "street": "gubbe lars väg",
+                "street_number": "1",
+                "city": "göteborg",
+                "zip": "41747",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tuve",
+                "last_accept": 576,
+                "$last_seen": "2023-09-18T05:44:07.888Z"
               }
             ],
             "arves marias väg": [
