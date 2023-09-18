@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-09-18T13:42:12.192Z",
+  "lastUpdatedAt": "2023-09-18T14:44:49.983Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -257,6 +257,20 @@
                 "$districtName": "fässberg",
                 "last_accept": 1481,
                 "$last_seen": "2023-09-05T05:42:45.559Z"
+              },
+              {
+                "id": 97547,
+                "rent": 7194,
+                "area": 42.4,
+                "street": "toltorpsgatan",
+                "street_number": "127",
+                "city": "mölndal",
+                "zip": "43141",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 1160,
+                "$last_seen": "2023-09-18T13:42:12.192Z"
               }
             ],
             "bergmansgatan": [
@@ -29447,6 +29461,20 @@
                 "$districtName": "askim",
                 "last_accept": 1077,
                 "$last_seen": "2023-09-11T13:02:33.291Z"
+              },
+              {
+                "id": 97494,
+                "rent": 8038,
+                "area": 66,
+                "street": "pilegården",
+                "street_number": "3e",
+                "city": "göteborg",
+                "zip": "43635",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 1325,
+                "$last_seen": "2023-09-18T13:42:12.192Z"
               }
             ],
             "nergårdsvägen": [
@@ -30995,6 +31023,20 @@
                 "$districtName": "askim",
                 "last_accept": 1568,
                 "$last_seen": "2023-09-15T07:43:03.656Z"
+              },
+              {
+                "id": 97498,
+                "rent": 8616,
+                "area": 63,
+                "street": "kobbegården",
+                "street_number": "6",
+                "city": "göteborg",
+                "zip": "43637",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 1262,
+                "$last_seen": "2023-09-18T13:42:12.192Z"
               }
             ],
             "ugglegården": [
@@ -33797,6 +33839,20 @@
                 "$districtName": "bergsjön",
                 "last_accept": 834,
                 "$last_seen": "2023-08-08T07:40:43.965Z"
+              },
+              {
+                "id": 92906,
+                "rent": 8075,
+                "area": 65,
+                "street": "atmosfärgatan",
+                "street_number": "11",
+                "city": "göteborg",
+                "zip": "41561",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bergsjön",
+                "last_accept": 875,
+                "$last_seen": "2023-09-18T13:42:12.192Z"
               },
               {
                 "id": 92908,
@@ -62990,6 +63046,22 @@
                 "last_accept": 671,
                 "$last_seen": "2023-09-07T09:43:04.520Z"
               }
+            ],
+            "v rönneholmsvägen": [
+              {
+                "id": 97352,
+                "rent": 13941,
+                "area": 92,
+                "street": "v rönneholmsvägen",
+                "street_number": "37 b",
+                "city": "malmö",
+                "zip": "21741",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "malmö sankt petri",
+                "last_accept": 787,
+                "$last_seen": "2023-09-18T13:42:12.192Z"
+              }
             ]
           },
           "husie": {
@@ -63239,6 +63311,20 @@
                 "$districtName": "möllevången",
                 "last_accept": 706,
                 "$last_seen": "2023-09-12T05:44:52.311Z"
+              },
+              {
+                "id": 97382,
+                "rent": 5500,
+                "area": 48,
+                "street": "upplandsgatan",
+                "street_number": "5 a",
+                "city": "malmö",
+                "zip": "21429",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "möllevången",
+                "last_accept": 1122,
+                "$last_seen": "2023-09-18T13:42:12.192Z"
               }
             ],
             "sigtunagatan": [
