@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-09-19T06:46:05.168Z",
+  "lastUpdatedAt": "2023-09-19T07:41:36.343Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -3413,6 +3413,20 @@
                 "$districtName": "fässberg",
                 "last_accept": 1275,
                 "$last_seen": "2023-09-13T09:43:39.111Z"
+              },
+              {
+                "id": 94939,
+                "rent": 7961,
+                "area": 38,
+                "street": "åbyvägen",
+                "street_number": "4 b",
+                "city": "göteborg",
+                "zip": "43162",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 1153,
+                "$last_seen": "2023-09-19T06:46:05.168Z"
               }
             ],
             "krokslätts parkgata": [
@@ -15255,6 +15269,20 @@
                 "$districtName": "brämaregården",
                 "last_accept": 1569,
                 "$last_seen": "2023-08-21T11:45:32.704Z"
+              },
+              {
+                "id": 97609,
+                "rent": 6305,
+                "area": 41,
+                "street": "jägaregatan",
+                "street_number": "9 c",
+                "city": "göteborg",
+                "zip": "41702",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brämaregården",
+                "last_accept": 1331,
+                "$last_seen": "2023-09-19T06:46:05.168Z"
               }
             ],
             "ögontröstgatan": [
@@ -58361,6 +58389,20 @@
                 "$districtName": "annedal",
                 "last_accept": 1654,
                 "$last_seen": "2023-07-20T12:59:00.847Z"
+              },
+              {
+                "id": 97723,
+                "rent": 7332,
+                "area": 66,
+                "street": "lilla risåsgatan",
+                "street_number": "22",
+                "city": "göteborg ",
+                "zip": "41103",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "annedal",
+                "last_accept": 1845,
+                "$last_seen": "2023-09-19T06:46:05.168Z"
               }
             ],
             "linnégatan": [
