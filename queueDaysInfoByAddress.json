@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-09-19T07:41:36.343Z",
+  "lastUpdatedAt": "2023-09-19T08:45:31.406Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -18379,6 +18379,20 @@
                 "$districtName": "lundby",
                 "last_accept": 0,
                 "$last_seen": "2023-09-15T10:46:34.983Z"
+              },
+              {
+                "id": 97965,
+                "rent": 8823,
+                "area": 83,
+                "street": "fyrklöversgatan",
+                "street_number": "112",
+                "city": "göteborg",
+                "zip": "41721",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1629,
+                "$last_seen": "2023-09-19T07:41:36.343Z"
               }
             ],
             "arvid lindmansgatan": [
@@ -21607,6 +21621,20 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1627,
                 "$last_seen": "2023-09-15T13:00:29.897Z"
+              },
+              {
+                "id": 97474,
+                "rent": 8100,
+                "area": 52,
+                "street": "redbergsvägen",
+                "street_number": "28",
+                "city": "göteborg",
+                "zip": "41665",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1674,
+                "$last_seen": "2023-09-19T07:41:36.343Z"
               }
             ],
             "kungälvsgatan": [
@@ -57425,6 +57453,20 @@
                 "$districtName": "tynnered",
                 "last_accept": 1704,
                 "$last_seen": "2023-09-19T05:42:52.140Z"
+              },
+              {
+                "id": 96671,
+                "rent": 7059,
+                "area": 66,
+                "street": "karneolgatan",
+                "street_number": "75",
+                "city": "göteborg",
+                "zip": "42651",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tynnered",
+                "last_accept": 1552,
+                "$last_seen": "2023-09-19T07:41:36.343Z"
               }
             ],
             "beryllgatan": [
@@ -59161,6 +59203,20 @@
                 "$districtName": "brunnsbo",
                 "last_accept": 1598,
                 "$last_seen": "2023-09-13T09:43:39.111Z"
+              },
+              {
+                "id": 97883,
+                "rent": 8407,
+                "area": 60,
+                "street": "sångspelsgatan",
+                "street_number": "3",
+                "city": "hisings backa",
+                "zip": "42241",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brunnsbo",
+                "last_accept": 747,
+                "$last_seen": "2023-09-19T07:41:36.343Z"
               }
             ],
             "poesigatan": [
@@ -66967,6 +67023,20 @@
                 "$districtName": "limhamn",
                 "last_accept": 0,
                 "$last_seen": "2023-09-07T07:43:23.617Z"
+              },
+              {
+                "id": 97119,
+                "rent": 11279,
+                "area": 69,
+                "street": "blåsebergavägen",
+                "street_number": "8",
+                "city": "limhamn",
+                "zip": "21633",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "limhamn",
+                "last_accept": 77,
+                "$last_seen": "2023-09-19T07:41:36.343Z"
               }
             ],
             "birger jarlsgatan": [
@@ -69693,6 +69763,20 @@
                 "$districtName": "hässelby",
                 "last_accept": 953,
                 "$last_seen": "2023-03-29T07:37:58.173Z"
+              },
+              {
+                "id": 97276,
+                "rent": 9545,
+                "area": 40,
+                "street": "lindblomsgränd",
+                "street_number": "12",
+                "city": "hässelby",
+                "zip": "16577",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "hässelby",
+                "last_accept": 806,
+                "$last_seen": "2023-09-19T07:41:36.343Z"
               }
             ],
             "enspännargatan": [
