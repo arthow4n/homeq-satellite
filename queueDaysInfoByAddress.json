@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-09-19T10:46:16.789Z",
+  "lastUpdatedAt": "2023-09-19T11:41:24.570Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -39521,6 +39521,20 @@
                 "$districtName": "göteborgs domkyrkodistrikt",
                 "last_accept": 1680,
                 "$last_seen": "2023-08-15T09:43:22.145Z"
+              },
+              {
+                "id": 97141,
+                "rent": 6800,
+                "area": 46,
+                "street": "götabergsgatan",
+                "street_number": "8a",
+                "city": "göteborg",
+                "zip": "41134",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs domkyrkodistrikt",
+                "last_accept": 1715,
+                "$last_seen": "2023-09-19T10:46:16.789Z"
               }
             ],
             "ranängsgatan.": [
@@ -51293,6 +51307,20 @@
                 "$districtName": "masthugget",
                 "last_accept": 1683,
                 "$last_seen": "2023-08-21T11:45:32.704Z"
+              },
+              {
+                "id": 97219,
+                "rent": 10220,
+                "area": 55,
+                "street": "kolumbusgatan",
+                "street_number": "5",
+                "city": "göteborg",
+                "zip": "41465",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "masthugget",
+                "last_accept": 1427,
+                "$last_seen": "2023-09-19T10:46:16.789Z"
               }
             ],
             "stenklevsgatan": [
