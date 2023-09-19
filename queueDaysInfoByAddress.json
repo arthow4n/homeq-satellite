@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-09-19T09:41:25.058Z",
+  "lastUpdatedAt": "2023-09-19T10:46:16.789Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -38615,6 +38615,20 @@
                 "$districtName": "göteborgs domkyrkodistrikt",
                 "last_accept": 1300,
                 "$last_seen": "2023-08-25T07:41:59.679Z"
+              },
+              {
+                "id": 97576,
+                "rent": 7944,
+                "area": 44,
+                "street": "stampgatan",
+                "street_number": "38",
+                "city": "göteborg",
+                "zip": "41101",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs domkyrkodistrikt",
+                "last_accept": 1438,
+                "$last_seen": "2023-09-19T09:41:25.058Z"
               }
             ],
             "friggagatan": [
