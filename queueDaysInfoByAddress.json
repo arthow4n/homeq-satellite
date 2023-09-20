@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-09-20T11:41:54.415Z",
+  "lastUpdatedAt": "2023-09-20T13:01:28.568Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -3979,20 +3979,6 @@
                 "$districtName": "örgryte",
                 "last_accept": 1341,
                 "$last_seen": "2023-08-21T10:46:42.970Z"
-              },
-              {
-                "id": 95226,
-                "rent": 10322,
-                "area": 54,
-                "street": "smörkärnegatan",
-                "street_number": "29",
-                "city": "göteborg",
-                "zip": "41278",
-                "municipality": "mölndal",
-                "county": "västra götalands län",
-                "$districtName": "örgryte",
-                "last_accept": 1480,
-                "$last_seen": "2023-08-31T11:41:19.599Z"
               }
             ]
           }
@@ -13983,6 +13969,20 @@
                 "$districtName": "brämaregården",
                 "last_accept": 1432,
                 "$last_seen": "2023-08-25T10:44:56.101Z"
+              },
+              {
+                "id": 94615,
+                "rent": 9992,
+                "area": 55,
+                "street": "gustaf dalénsgatan",
+                "street_number": "6",
+                "city": "göteborg",
+                "zip": "41722",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brämaregården",
+                "last_accept": 1542,
+                "$last_seen": "2023-09-20T11:41:54.415Z"
               },
               {
                 "id": 95093,
@@ -38443,6 +38443,20 @@
                 "$districtName": "göteborgs domkyrkodistrikt",
                 "last_accept": 1553,
                 "$last_seen": "2023-08-10T09:42:31.442Z"
+              },
+              {
+                "id": 95975,
+                "rent": 9547,
+                "area": 55,
+                "street": "bangårdsgatan",
+                "street_number": "15",
+                "city": "göteborg",
+                "zip": "41112",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs domkyrkodistrikt",
+                "last_accept": 1175,
+                "$last_seen": "2023-09-20T11:41:54.415Z"
               }
             ],
             "burggreveplatsen": [
