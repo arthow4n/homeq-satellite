@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-09-20T07:42:07.040Z",
+  "lastUpdatedAt": "2023-09-20T08:45:52.641Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -10167,6 +10167,20 @@
                 "$districtName": "högsbo",
                 "last_accept": 1029,
                 "$last_seen": "2023-08-29T06:45:27.155Z"
+              },
+              {
+                "id": 95438,
+                "rent": 10378,
+                "area": 58.6,
+                "street": "nymilsgatan",
+                "street_number": "45",
+                "city": "göteborg",
+                "zip": "42170",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 809,
+                "$last_seen": "2023-09-20T07:42:07.040Z"
               }
             ],
             "pennygången": [
@@ -18407,6 +18421,20 @@
                 "$districtName": "lundby",
                 "last_accept": 0,
                 "$last_seen": "2023-09-15T10:46:34.983Z"
+              },
+              {
+                "id": 97945,
+                "rent": 11561,
+                "area": 83,
+                "street": "fyrklöversgatan",
+                "street_number": "112",
+                "city": "göteborg",
+                "zip": "41721",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1274,
+                "$last_seen": "2023-09-20T07:42:07.040Z"
               },
               {
                 "id": 97948,
@@ -35435,6 +35463,20 @@
                 "$districtName": "nylöse",
                 "last_accept": 0,
                 "$last_seen": "2023-09-15T06:46:58.635Z"
+              },
+              {
+                "id": 97416,
+                "rent": 8910,
+                "area": 65,
+                "street": "sysslomansgatan",
+                "street_number": "39",
+                "city": "göteborg",
+                "zip": "41574",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "nylöse",
+                "last_accept": 407,
+                "$last_seen": "2023-09-20T07:42:07.040Z"
               }
             ],
             "hinderbanan": [
@@ -45049,6 +45091,20 @@
                 "$districtName": "annedal",
                 "last_accept": 1705,
                 "$last_seen": "2023-09-12T08:46:50.930Z"
+              },
+              {
+                "id": 97942,
+                "rent": 9400,
+                "area": 61,
+                "street": "övre husargatan",
+                "street_number": "14",
+                "city": "göteborg",
+                "zip": "41314",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "annedal",
+                "last_accept": 1673,
+                "$last_seen": "2023-09-20T07:42:07.040Z"
               }
             ],
             "carl grimbergsgatan": [
@@ -53551,6 +53607,20 @@
                 "$districtName": "biskopsgården",
                 "last_accept": 0,
                 "$last_seen": "2023-09-13T06:47:52.977Z"
+              },
+              {
+                "id": 97299,
+                "rent": 9319,
+                "area": 78,
+                "street": "temperaturgatan",
+                "street_number": "29",
+                "city": "göteborg",
+                "zip": "41841",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "biskopsgården",
+                "last_accept": 470,
+                "$last_seen": "2023-09-20T07:42:07.040Z"
               }
             ],
             "solstrålegatan": [
