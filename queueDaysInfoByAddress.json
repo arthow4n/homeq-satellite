@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-09-20T08:45:52.641Z",
+  "lastUpdatedAt": "2023-09-20T09:42:00.692Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -2963,6 +2963,20 @@
                 "$districtName": "fässberg",
                 "last_accept": 1307,
                 "$last_seen": "2023-09-18T07:42:50.535Z"
+              },
+              {
+                "id": 96210,
+                "rent": 7044,
+                "area": 31,
+                "street": "åby allé",
+                "street_number": "71",
+                "city": "göteborg",
+                "zip": "43145",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 1154,
+                "$last_seen": "2023-09-20T08:45:52.641Z"
               },
               {
                 "id": 96614,
@@ -42063,6 +42077,20 @@
                 "$districtName": "örgryte",
                 "last_accept": 996,
                 "$last_seen": "2023-09-11T05:45:16.373Z"
+              },
+              {
+                "id": 97894,
+                "rent": 12742,
+                "area": 67.5,
+                "street": "gräddgatan",
+                "street_number": "5",
+                "city": "göteborg",
+                "zip": "41276",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1351,
+                "$last_seen": "2023-09-20T08:45:52.641Z"
               }
             ],
             "anders zornsgatan": [
@@ -58375,6 +58403,20 @@
                 "$districtName": "haga",
                 "last_accept": 1790,
                 "$last_seen": "2023-08-28T12:59:52.713Z"
+              },
+              {
+                "id": 96509,
+                "rent": 6963,
+                "area": 52,
+                "street": "nilssonsberg",
+                "street_number": "34",
+                "city": "göteborg",
+                "zip": "41143",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "haga",
+                "last_accept": 1747,
+                "$last_seen": "2023-09-20T08:45:52.641Z"
               },
               {
                 "id": 97243,
