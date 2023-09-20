@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-09-20T14:45:39.502Z",
+  "lastUpdatedAt": "2023-09-20T15:41:41.838Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -2935,6 +2935,20 @@
                 "$districtName": "fässberg",
                 "last_accept": 1354,
                 "$last_seen": "2023-08-23T06:45:38.685Z"
+              },
+              {
+                "id": 95099,
+                "rent": 7110,
+                "area": 30,
+                "street": "åby allé",
+                "street_number": "59",
+                "city": "göteborg",
+                "zip": "43145",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 1154,
+                "$last_seen": "2023-09-20T14:45:39.502Z"
               },
               {
                 "id": 95108,
@@ -47215,6 +47229,20 @@
                 "$districtName": "göteborgs vasa",
                 "last_accept": 1638,
                 "$last_seen": "2023-07-18T11:38:11.029Z"
+              },
+              {
+                "id": 97963,
+                "rent": 12260,
+                "area": 84,
+                "street": "mölndalsvägen",
+                "street_number": "7",
+                "city": "göteborg",
+                "zip": "41263",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs vasa",
+                "last_accept": 1628,
+                "$last_seen": "2023-09-20T14:45:39.502Z"
               }
             ],
             "götabergsgatan": [
@@ -68617,6 +68645,20 @@
                 "$districtName": "bunkeflo",
                 "last_accept": 0,
                 "$last_seen": "2023-08-24T13:00:11.174Z"
+              },
+              {
+                "id": 85394,
+                "rent": 9593,
+                "area": 60.9,
+                "street": "smedmästarebyn",
+                "street_number": "2g",
+                "city": "bunkeflostrand",
+                "zip": "21841",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "bunkeflo",
+                "last_accept": 0,
+                "$last_seen": "2023-09-20T14:45:39.502Z"
               },
               {
                 "id": 85756,
