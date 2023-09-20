@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-09-20T10:46:29.145Z",
+  "lastUpdatedAt": "2023-09-20T11:41:54.415Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -63399,6 +63399,20 @@
                 "$districtName": "malmö sankt petri",
                 "last_accept": 620,
                 "$last_seen": "2023-06-29T07:42:28.532Z"
+              },
+              {
+                "id": 95132,
+                "rent": 9285,
+                "area": 51.5,
+                "street": "dagvattengatan",
+                "street_number": "18",
+                "city": "malmö",
+                "zip": "21531",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "malmö sankt petri",
+                "last_accept": 568,
+                "$last_seen": "2023-09-20T10:46:29.145Z"
               }
             ],
             "maribogatan": [
@@ -64923,6 +64937,20 @@
                 "$districtName": "kirseberg",
                 "last_accept": 0,
                 "$last_seen": "2023-09-08T06:47:24.967Z"
+              },
+              {
+                "id": 97353,
+                "rent": 5953,
+                "area": 36,
+                "street": "högamöllegatan",
+                "street_number": "8a",
+                "city": "malmö",
+                "zip": "21219",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "kirseberg",
+                "last_accept": 460,
+                "$last_seen": "2023-09-20T10:46:29.145Z"
               }
             ],
             "floragatan": [
@@ -68277,20 +68305,6 @@
                 "$districtName": "bunkeflo",
                 "last_accept": 0,
                 "$last_seen": "2023-08-24T13:00:11.174Z"
-              },
-              {
-                "id": 89126,
-                "rent": 10496,
-                "area": 70,
-                "street": "sadelmakarebyn",
-                "street_number": "3d",
-                "city": "bunkeflostrand",
-                "zip": "21840",
-                "municipality": "malmö",
-                "county": "skåne län",
-                "$districtName": "bunkeflo",
-                "last_accept": 223,
-                "$last_seen": "2023-09-18T11:41:41.870Z"
               }
             ],
             "skomakarebyn": [
