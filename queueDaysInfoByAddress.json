@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-09-21T15:41:06.922Z",
+  "lastUpdatedAt": "2023-09-21T16:46:49.967Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -71517,6 +71517,20 @@
                 "$districtName": "skarpnäck",
                 "last_accept": 1743,
                 "$last_seen": "2023-07-04T07:42:00.210Z"
+              },
+              {
+                "id": 94578,
+                "rent": 6915,
+                "area": 51,
+                "street": "tätorpsvägen",
+                "street_number": "7a",
+                "city": "skarpnäck",
+                "zip": "12831",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "skarpnäck",
+                "last_accept": 1844,
+                "$last_seen": "2023-09-21T15:41:06.922Z"
               }
             ]
           }
