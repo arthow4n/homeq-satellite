@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-09-21T12:59:54.557Z",
+  "lastUpdatedAt": "2023-09-21T13:46:30.870Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -1397,6 +1397,20 @@
                 "$districtName": "fässberg",
                 "last_accept": 1474,
                 "$last_seen": "2023-09-04T06:46:44.150Z"
+              },
+              {
+                "id": 98048,
+                "rent": 7225,
+                "area": 53,
+                "street": "luktärtsgatan",
+                "street_number": "8 a",
+                "city": "mölndal",
+                "zip": "43132",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 1692,
+                "$last_seen": "2023-09-21T12:59:54.557Z"
               }
             ],
             "lammevallsgatan": [
@@ -38695,6 +38709,20 @@
                 "$districtName": "göteborgs domkyrkodistrikt",
                 "last_accept": 1418,
                 "$last_seen": "2023-09-21T11:40:49.806Z"
+              },
+              {
+                "id": 96025,
+                "rent": 9656,
+                "area": 55,
+                "street": "bangårdsgatan",
+                "street_number": "17",
+                "city": "göteborg",
+                "zip": "41112",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs domkyrkodistrikt",
+                "last_accept": 1528,
+                "$last_seen": "2023-09-21T12:59:54.557Z"
               }
             ],
             "burggreveplatsen": [
