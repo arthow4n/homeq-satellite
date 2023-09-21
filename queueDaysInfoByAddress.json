@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-09-21T10:45:28.151Z",
+  "lastUpdatedAt": "2023-09-21T11:40:49.806Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -2963,6 +2963,20 @@
                 "$districtName": "fässberg",
                 "last_accept": 1187,
                 "$last_seen": "2023-09-07T10:47:56.456Z"
+              },
+              {
+                "id": 95143,
+                "rent": 7269,
+                "area": 30,
+                "street": "åby allé",
+                "street_number": "17",
+                "city": "göteborg",
+                "zip": "43145",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 1075,
+                "$last_seen": "2023-09-21T10:45:28.151Z"
               },
               {
                 "id": 96204,
@@ -38611,6 +38625,20 @@
                 "$districtName": "göteborgs domkyrkodistrikt",
                 "last_accept": 1175,
                 "$last_seen": "2023-09-20T11:41:54.415Z"
+              },
+              {
+                "id": 95986,
+                "rent": 6686,
+                "area": 34,
+                "street": "bangårdsgatan",
+                "street_number": "17",
+                "city": "göteborg",
+                "zip": "41112",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs domkyrkodistrikt",
+                "last_accept": 1241,
+                "$last_seen": "2023-09-21T10:45:28.151Z"
               }
             ],
             "burggreveplatsen": [
