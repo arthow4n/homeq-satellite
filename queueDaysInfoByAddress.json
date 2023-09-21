@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-09-21T06:45:49.436Z",
+  "lastUpdatedAt": "2023-09-21T07:41:15.406Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -4489,6 +4489,20 @@
                 "$districtName": "kållered",
                 "last_accept": 1218,
                 "$last_seen": "2023-09-15T09:42:50.185Z"
+              },
+              {
+                "id": 97797,
+                "rent": 8838,
+                "area": 76,
+                "street": "våmmedalsvägen",
+                "street_number": "76",
+                "city": "kållered",
+                "zip": "42831",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "kållered",
+                "last_accept": 1059,
+                "$last_seen": "2023-09-21T06:45:49.436Z"
               }
             ],
             "streteredsvägen": [
@@ -5891,6 +5905,20 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1492,
                 "$last_seen": "2023-09-05T11:41:52.387Z"
+              },
+              {
+                "id": 97264,
+                "rent": 7096,
+                "area": 30,
+                "street": "ebbe lieberathsgatan",
+                "street_number": "20 f",
+                "city": "göteborg",
+                "zip": "41265",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1128,
+                "$last_seen": "2023-09-21T06:45:49.436Z"
               }
             ],
             "nordgårdsgatan": [
@@ -35561,6 +35589,20 @@
                 "$districtName": "nylöse",
                 "last_accept": 407,
                 "$last_seen": "2023-09-20T07:42:07.040Z"
+              },
+              {
+                "id": 97419,
+                "rent": 9182,
+                "area": 64.8,
+                "street": "sysslomansgatan",
+                "street_number": "37",
+                "city": "göteborg",
+                "zip": "41574",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "nylöse",
+                "last_accept": 366,
+                "$last_seen": "2023-09-21T06:45:49.436Z"
               }
             ],
             "hinderbanan": [
