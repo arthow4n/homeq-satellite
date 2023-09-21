@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-09-21T07:41:15.406Z",
+  "lastUpdatedAt": "2023-09-21T08:44:58.725Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -3019,6 +3019,20 @@
                 "$districtName": "fässberg",
                 "last_accept": 1116,
                 "$last_seen": "2023-09-15T11:42:49.285Z"
+              },
+              {
+                "id": 97308,
+                "rent": 6455,
+                "area": 28,
+                "street": "åby allé",
+                "street_number": "51",
+                "city": "göteborg",
+                "zip": "43145",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 1032,
+                "$last_seen": "2023-09-21T07:41:15.406Z"
               },
               {
                 "id": 97315,
@@ -14561,6 +14575,20 @@
                 "$districtName": "brämaregården",
                 "last_accept": 875,
                 "$last_seen": "2023-06-22T10:47:46.715Z"
+              },
+              {
+                "id": 95727,
+                "rent": 9119,
+                "area": 42,
+                "street": "långängen",
+                "street_number": "14",
+                "city": "göteborg",
+                "zip": "41722",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brämaregården",
+                "last_accept": 1148,
+                "$last_seen": "2023-09-21T07:41:15.406Z"
               }
             ],
             "wieselgrensplatsen": [
@@ -27261,6 +27289,20 @@
                 "$districtName": "kortedala",
                 "last_accept": 1248,
                 "$last_seen": "2023-08-29T11:41:41.334Z"
+              },
+              {
+                "id": 95235,
+                "rent": 7784,
+                "area": 94.5,
+                "street": "januarigatan",
+                "street_number": "30",
+                "city": "göteborg",
+                "zip": "41546",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "kortedala",
+                "last_accept": 1746,
+                "$last_seen": "2023-09-21T07:41:15.406Z"
               }
             ],
             "solvarvsgatan": [
@@ -56753,6 +56795,20 @@
                 "$districtName": "tuve",
                 "last_accept": 0,
                 "$last_seen": "2023-06-20T09:44:19.652Z"
+              },
+              {
+                "id": 97402,
+                "rent": 8631,
+                "area": 45,
+                "street": "arves marias väg",
+                "street_number": "10",
+                "city": "göteborg",
+                "zip": "41747",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tuve",
+                "last_accept": 541,
+                "$last_seen": "2023-09-21T07:41:15.406Z"
               }
             ],
             "finlandsvägen": [
@@ -67145,6 +67201,20 @@
                 "$districtName": "slottsstaden",
                 "last_accept": 928,
                 "$last_seen": "2023-07-19T12:57:55.615Z"
+              },
+              {
+                "id": 95804,
+                "rent": 10485,
+                "area": 68.89,
+                "street": "sergels väg",
+                "street_number": "13b",
+                "city": "malmö",
+                "zip": "21757",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "slottsstaden",
+                "last_accept": 1207,
+                "$last_seen": "2023-09-21T07:41:15.406Z"
               },
               {
                 "id": 95862,
