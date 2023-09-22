@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-09-22T05:41:53.789Z",
+  "lastUpdatedAt": "2023-09-22T06:44:59.014Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -8725,6 +8725,20 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1707,
                 "$last_seen": "2023-09-20T05:43:22.078Z"
+              },
+              {
+                "id": 97916,
+                "rent": 6900,
+                "area": 39,
+                "street": "fridkullagatan",
+                "street_number": "20b",
+                "city": "göteborg",
+                "zip": "41262",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1617,
+                "$last_seen": "2023-09-22T05:41:53.789Z"
               }
             ],
             "örnehufvudsgatan": [
@@ -19095,6 +19109,20 @@
                 "$districtName": "lundby",
                 "last_accept": 1679,
                 "$last_seen": "2023-08-21T09:42:57.826Z"
+              },
+              {
+                "id": 97905,
+                "rent": 6830,
+                "area": 53,
+                "street": "arvid lindmansgatan",
+                "street_number": "3 d",
+                "city": "göteborg",
+                "zip": "41725",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1659,
+                "$last_seen": "2023-09-22T05:41:53.789Z"
               }
             ],
             "estlandsgatan": [
@@ -63129,6 +63157,20 @@
                 "$districtName": "råda",
                 "last_accept": 1238,
                 "$last_seen": "2023-05-12T11:42:27.363Z"
+              },
+              {
+                "id": 97237,
+                "rent": 8424,
+                "area": 51,
+                "street": "centralvägen",
+                "street_number": "8b",
+                "city": "göteborg",
+                "zip": "43530",
+                "municipality": "härryda",
+                "county": "västra götalands län",
+                "$districtName": "råda",
+                "last_accept": 1039,
+                "$last_seen": "2023-09-22T05:41:53.789Z"
               }
             ],
             "badhusgatan": [
@@ -67301,6 +67343,20 @@
                 "$districtName": "malmö sankt johannes",
                 "last_accept": 1572,
                 "$last_seen": "2023-09-12T13:01:47.985Z"
+              },
+              {
+                "id": 97369,
+                "rent": 11961,
+                "area": 89,
+                "street": "södra förstadsgatan",
+                "street_number": "83 b",
+                "city": "malmö",
+                "zip": "21420",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "malmö sankt johannes",
+                "last_accept": 597,
+                "$last_seen": "2023-09-22T05:41:53.789Z"
               }
             ],
             "smedjegatan": [
