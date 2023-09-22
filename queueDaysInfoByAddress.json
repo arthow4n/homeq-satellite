@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-09-22T08:43:31.679Z",
+  "lastUpdatedAt": "2023-09-22T09:40:33.311Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -12383,6 +12383,20 @@
                 "$districtName": "högsbo",
                 "last_accept": 1711,
                 "$last_seen": "2023-09-15T06:46:58.635Z"
+              },
+              {
+                "id": 97267,
+                "rent": 6054,
+                "area": 42,
+                "street": "skäpplandsgatan",
+                "street_number": "3",
+                "city": "göteborg",
+                "zip": "41478",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 1333,
+                "$last_seen": "2023-09-22T08:43:31.679Z"
               }
             ],
             "marklandsgatan": [
@@ -44751,6 +44765,20 @@
                 "$districtName": "annedal",
                 "last_accept": 1576,
                 "$last_seen": "2023-02-15T06:44:23.387Z"
+              },
+              {
+                "id": 94663,
+                "rent": 11220,
+                "area": 78,
+                "street": "risåsgatan",
+                "street_number": "12 a",
+                "city": "göteborg",
+                "zip": "41307",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "annedal",
+                "last_accept": 1718,
+                "$last_seen": "2023-09-22T08:43:31.679Z"
               }
             ],
             "skanstorget": [
