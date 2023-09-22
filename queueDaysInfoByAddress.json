@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-09-22T10:44:51.976Z",
+  "lastUpdatedAt": "2023-09-22T11:40:21.232Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -47623,6 +47623,20 @@
                 "$districtName": "göteborgs vasa",
                 "last_accept": 0,
                 "$last_seen": "2023-07-10T04:47:55.631Z"
+              },
+              {
+                "id": 94748,
+                "rent": 11728,
+                "area": 79,
+                "street": "götabergsgatan",
+                "street_number": "26 a",
+                "city": "göteborg",
+                "zip": "41134",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs vasa",
+                "last_accept": 1784,
+                "$last_seen": "2023-09-22T10:44:51.976Z"
               }
             ],
             "geijersgatan": [
@@ -66553,6 +66567,20 @@
                 "$districtName": "hyllie",
                 "last_accept": 423,
                 "$last_seen": "2023-09-11T06:48:28.419Z"
+              },
+              {
+                "id": 97736,
+                "rent": 6652,
+                "area": 32,
+                "street": "tors gränd",
+                "street_number": "14",
+                "city": "malmö",
+                "zip": "21534",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "hyllie",
+                "last_accept": 4,
+                "$last_seen": "2023-09-22T10:44:51.976Z"
               }
             ],
             "allétorget": [
