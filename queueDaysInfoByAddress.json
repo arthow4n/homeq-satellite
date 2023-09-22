@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-09-22T13:41:15.470Z",
+  "lastUpdatedAt": "2023-09-22T14:42:35.601Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -4545,6 +4545,20 @@
                 "$districtName": "kållered",
                 "last_accept": 1218,
                 "$last_seen": "2023-09-15T09:42:50.185Z"
+              },
+              {
+                "id": 97792,
+                "rent": 8854,
+                "area": 76,
+                "street": "våmmedalsvägen",
+                "street_number": "72",
+                "city": "kållered",
+                "zip": "42831",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "kållered",
+                "last_accept": 1227,
+                "$last_seen": "2023-09-22T13:41:15.470Z"
               },
               {
                 "id": 97797,
@@ -38767,6 +38781,20 @@
                 "$last_seen": "2023-09-20T11:41:54.415Z"
               },
               {
+                "id": 95978,
+                "rent": 9635,
+                "area": 55,
+                "street": "bangårdsgatan",
+                "street_number": "15",
+                "city": "göteborg",
+                "zip": "41112",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs domkyrkodistrikt",
+                "last_accept": 1529,
+                "$last_seen": "2023-09-22T13:41:15.470Z"
+              },
+              {
                 "id": 95982,
                 "rent": 7124,
                 "area": 34,
@@ -62313,6 +62341,20 @@
                 "$districtName": "västra frölunda",
                 "last_accept": 1306,
                 "$last_seen": "2023-09-11T11:43:37.024Z"
+              },
+              {
+                "id": 97847,
+                "rent": 10455,
+                "area": 83,
+                "street": "marconigatan",
+                "street_number": "33 b",
+                "city": "västra frölunda",
+                "zip": "42144",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "västra frölunda",
+                "last_accept": 1208,
+                "$last_seen": "2023-09-22T13:41:15.470Z"
               }
             ]
           },
