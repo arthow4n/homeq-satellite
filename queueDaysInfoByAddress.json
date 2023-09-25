@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-09-25T08:44:55.233Z",
+  "lastUpdatedAt": "2023-09-25T09:40:27.802Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -19965,6 +19965,20 @@
                 "$districtName": "lundby",
                 "last_accept": 1452,
                 "$last_seen": "2023-08-30T08:44:16.172Z"
+              },
+              {
+                "id": 97900,
+                "rent": 6500,
+                "area": 66,
+                "street": "hullgatan",
+                "street_number": "4a",
+                "city": "göteborg",
+                "zip": "41877",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1806,
+                "$last_seen": "2023-09-25T08:44:55.233Z"
               }
             ],
             "enekullegatan": [
@@ -21459,6 +21473,20 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1684,
                 "$last_seen": "2023-08-22T10:45:35.359Z"
+              },
+              {
+                "id": 98179,
+                "rent": 8600,
+                "area": 35,
+                "street": "kobbarnas väg",
+                "street_number": "4",
+                "city": "göteborg",
+                "zip": "41647",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1338,
+                "$last_seen": "2023-09-25T08:44:55.233Z"
               }
             ],
             "s:t pauligatan": [
@@ -22497,6 +22525,20 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1683,
                 "$last_seen": "2023-08-18T09:43:06.658Z"
+              },
+              {
+                "id": 98161,
+                "rent": 7761,
+                "area": 37,
+                "street": "karlagatan",
+                "street_number": "7 a",
+                "city": "göteborg",
+                "zip": "41661",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1467,
+                "$last_seen": "2023-09-25T08:44:55.233Z"
               }
             ],
             "pärlstickaregatan": [
@@ -69503,6 +69545,20 @@
                 "$districtName": "bunkeflo",
                 "last_accept": 0,
                 "$last_seen": "2023-08-15T11:43:40.207Z"
+              },
+              {
+                "id": 92935,
+                "rent": 9958,
+                "area": 68.6,
+                "street": "skräddarebyn",
+                "street_number": "5b",
+                "city": "bunkeflostrand",
+                "zip": "21842",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "bunkeflo",
+                "last_accept": 10,
+                "$last_seen": "2023-09-25T08:44:55.233Z"
               },
               {
                 "id": 93355,
