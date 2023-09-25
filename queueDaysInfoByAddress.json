@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-09-25T05:41:55.057Z",
+  "lastUpdatedAt": "2023-09-25T06:47:32.477Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -39977,6 +39977,20 @@
                 "$districtName": "göteborgs domkyrkodistrikt",
                 "last_accept": 1533,
                 "$last_seen": "2023-03-21T08:41:35.361Z"
+              },
+              {
+                "id": 97477,
+                "rent": 4825,
+                "area": 41,
+                "street": "burggrevegatan",
+                "street_number": "23 b",
+                "city": "göteborg",
+                "zip": "41103",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs domkyrkodistrikt",
+                "last_accept": 1769,
+                "$last_seen": "2023-09-25T05:41:55.057Z"
               }
             ],
             "ranängsgatan": [
@@ -67553,6 +67567,20 @@
                 "$districtName": "malmö sankt johannes",
                 "last_accept": 1572,
                 "$last_seen": "2023-09-12T13:01:47.985Z"
+              },
+              {
+                "id": 97369,
+                "rent": 11961,
+                "area": 89,
+                "street": "södra förstadsgatan",
+                "street_number": "83 b",
+                "city": "malmö",
+                "zip": "21420",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "malmö sankt johannes",
+                "last_accept": 637,
+                "$last_seen": "2023-09-25T05:41:55.057Z"
               }
             ],
             "smedjegatan": [
@@ -68793,6 +68821,22 @@
                 "$districtName": "limhamn",
                 "last_accept": 63,
                 "$last_seen": "2023-07-06T07:42:13.053Z"
+              }
+            ],
+            "storabackegatan": [
+              {
+                "id": 98665,
+                "rent": 10159,
+                "area": 67,
+                "street": "storabackegatan",
+                "street_number": "13a",
+                "city": "limhamn",
+                "zip": "21615",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "limhamn",
+                "last_accept": 770,
+                "$last_seen": "2023-09-25T05:41:55.057Z"
               }
             ]
           }
