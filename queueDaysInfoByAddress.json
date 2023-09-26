@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-09-26T12:59:58.444Z",
+  "lastUpdatedAt": "2023-09-26T13:42:01.694Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -12467,6 +12467,20 @@
                 "$districtName": "högsbo",
                 "last_accept": 1333,
                 "$last_seen": "2023-09-22T08:43:31.679Z"
+              },
+              {
+                "id": 97616,
+                "rent": 7190,
+                "area": 54,
+                "street": "skäpplandsgatan",
+                "street_number": "8",
+                "city": "göteborg",
+                "zip": "41478",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 1713,
+                "$last_seen": "2023-09-26T12:59:58.444Z"
               },
               {
                 "id": 98211,
@@ -31795,6 +31809,20 @@
                 "$districtName": "askim",
                 "last_accept": 1262,
                 "$last_seen": "2023-09-18T13:42:12.192Z"
+              },
+              {
+                "id": 98914,
+                "rent": 9414,
+                "area": 60,
+                "street": "kobbegården",
+                "street_number": "25",
+                "city": "göteborg",
+                "zip": "43637",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 785,
+                "$last_seen": "2023-09-26T12:59:58.444Z"
               }
             ],
             "ugglegården": [
@@ -39103,6 +39131,20 @@
                 "$districtName": "göteborgs domkyrkodistrikt",
                 "last_accept": 1418,
                 "$last_seen": "2023-09-21T11:40:49.806Z"
+              },
+              {
+                "id": 95993,
+                "rent": 7157,
+                "area": 37,
+                "street": "bangårdsgatan",
+                "street_number": "23",
+                "city": "göteborg",
+                "zip": "41112",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs domkyrkodistrikt",
+                "last_accept": 1397,
+                "$last_seen": "2023-09-26T12:59:58.444Z"
               },
               {
                 "id": 96025,
