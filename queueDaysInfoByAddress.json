@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-09-26T09:40:25.263Z",
+  "lastUpdatedAt": "2023-09-26T10:44:49.896Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -21543,6 +21543,20 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1338,
                 "$last_seen": "2023-09-25T08:44:55.233Z"
+              },
+              {
+                "id": 98986,
+                "rent": 8700,
+                "area": 35,
+                "street": "kobbarnas väg",
+                "street_number": "4",
+                "city": "göteborg",
+                "zip": "41647",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1279,
+                "$last_seen": "2023-09-26T09:40:25.263Z"
               }
             ],
             "s:t pauligatan": [
@@ -66703,6 +66717,20 @@
                 "$districtName": "hyllie",
                 "last_accept": 2,
                 "$last_seen": "2023-07-14T08:45:53.061Z"
+              },
+              {
+                "id": 96221,
+                "rent": 8003,
+                "area": 50,
+                "street": "hålsjögatan",
+                "street_number": "3 b",
+                "city": "malmö",
+                "zip": "21766",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "hyllie",
+                "last_accept": 379,
+                "$last_seen": "2023-09-26T09:40:25.263Z"
               }
             ],
             "hyllie allé": [
