@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-09-26T05:41:36.628Z",
+  "lastUpdatedAt": "2023-09-26T06:45:14.004Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -59601,20 +59601,6 @@
                 "$last_seen": "2023-09-04T07:42:04.816Z"
               },
               {
-                "id": 96695,
-                "rent": 10998,
-                "area": 83,
-                "street": "januarigatan",
-                "street_number": "14",
-                "city": "göteborg ",
-                "zip": "41546",
-                "municipality": "göteborg",
-                "county": "västra götalands län",
-                "$districtName": "kortedala",
-                "last_accept": 1224,
-                "$last_seen": "2023-09-25T10:45:13.700Z"
-              },
-              {
                 "id": 97783,
                 "rent": 5940,
                 "area": 34,
@@ -60153,6 +60139,20 @@
                 "$districtName": "brunnsbo",
                 "last_accept": 1284,
                 "$last_seen": "2023-09-13T10:48:08.217Z"
+              },
+              {
+                "id": 98138,
+                "rent": 7177,
+                "area": 63,
+                "street": "prologgatan",
+                "street_number": "6",
+                "city": "hisings backa",
+                "zip": "42241",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brunnsbo",
+                "last_accept": 1429,
+                "$last_seen": "2023-09-26T05:41:36.628Z"
               }
             ],
             "sångspelsgatan": [
