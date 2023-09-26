@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-09-26T13:42:01.694Z",
+  "lastUpdatedAt": "2023-09-26T14:44:04.663Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -56735,6 +56735,20 @@
                 "$districtName": "biskopsgården",
                 "last_accept": 556,
                 "$last_seen": "2023-09-22T07:40:28.691Z"
+              },
+              {
+                "id": 97979,
+                "rent": 6527,
+                "area": 41,
+                "street": "långströmsgatan",
+                "street_number": "40a",
+                "city": "göteborg",
+                "zip": "41870",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "biskopsgården",
+                "last_accept": 1003,
+                "$last_seen": "2023-09-26T13:42:01.694Z"
               }
             ],
             "lufttrycksgatan": [
@@ -72595,18 +72609,18 @@
                 "$last_seen": "2023-09-08T13:01:45.229Z"
               },
               {
-                "id": 98090,
-                "rent": 8536,
-                "area": 34.7,
+                "id": 97931,
+                "rent": 17982,
+                "area": 89.4,
                 "street": "vardövägen",
-                "street_number": "46",
+                "street_number": "49",
                 "city": "stockholm",
                 "zip": "13657",
                 "municipality": "haninge",
                 "county": "stockholms län",
                 "$districtName": "österhaninge",
-                "last_accept": 197,
-                "$last_seen": "2023-09-19T11:41:24.570Z"
+                "last_accept": 0,
+                "$last_seen": "2023-09-26T13:42:01.694Z"
               },
               {
                 "id": 98091,
