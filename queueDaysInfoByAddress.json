@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-09-27T09:40:19.378Z",
+  "lastUpdatedAt": "2023-09-27T10:44:40.058Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -36125,6 +36125,20 @@
                 "$last_seen": "2023-09-15T06:46:58.635Z"
               },
               {
+                "id": 97413,
+                "rent": 7045,
+                "area": 42,
+                "street": "sysslomansgatan",
+                "street_number": "38",
+                "city": "göteborg",
+                "zip": "41574",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "nylöse",
+                "last_accept": 408,
+                "$last_seen": "2023-09-27T09:40:19.378Z"
+              },
+              {
                 "id": 97416,
                 "rent": 8910,
                 "area": 65,
@@ -39781,6 +39795,20 @@
                 "$districtName": "göteborgs domkyrkodistrikt",
                 "last_accept": 1681,
                 "$last_seen": "2023-08-16T06:46:46.723Z"
+              },
+              {
+                "id": 99178,
+                "rent": 9257,
+                "area": 58,
+                "street": "friggagatan",
+                "street_number": "9a",
+                "city": "göteborg",
+                "zip": "41101",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs domkyrkodistrikt",
+                "last_accept": 1311,
+                "$last_seen": "2023-09-27T09:40:19.378Z"
               }
             ],
             "sten sturegatan": [
@@ -41047,6 +41075,20 @@
                 "$districtName": "örgryte",
                 "last_accept": 1604,
                 "$last_seen": "2023-09-18T08:46:21.711Z"
+              },
+              {
+                "id": 98868,
+                "rent": 9500,
+                "area": 64,
+                "street": "smörgatan",
+                "street_number": "106",
+                "city": "göteborg",
+                "zip": "41276",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1501,
+                "$last_seen": "2023-09-27T09:40:19.378Z"
               }
             ],
             "prästgårdsängen": [
@@ -44573,6 +44615,20 @@
                 "$districtName": "örgryte",
                 "last_accept": 1484,
                 "$last_seen": "2023-01-31T08:43:01.177Z"
+              },
+              {
+                "id": 96674,
+                "rent": 7300,
+                "area": 70,
+                "street": "påskbergsgatan",
+                "street_number": "18",
+                "city": "göteborg",
+                "zip": "41268",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1739,
+                "$last_seen": "2023-09-27T09:40:19.378Z"
               }
             ],
             "filmjölsgatan": [
@@ -49351,6 +49407,20 @@
                 "$districtName": "göteborgs vasa",
                 "last_accept": 1525,
                 "$last_seen": "2023-06-26T08:55:58.557Z"
+              },
+              {
+                "id": 93798,
+                "rent": 13121,
+                "area": 63,
+                "street": "teatergatan",
+                "street_number": "32",
+                "city": "göteborg",
+                "zip": "41135",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs vasa",
+                "last_accept": 1680,
+                "$last_seen": "2023-09-27T09:40:19.378Z"
               },
               {
                 "id": 94478,
