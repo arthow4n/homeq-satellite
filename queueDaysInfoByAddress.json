@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-09-27T10:44:40.058Z",
+  "lastUpdatedAt": "2023-09-27T11:40:05.911Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -50050,6 +50050,22 @@
                 "last_accept": 1804,
                 "$last_seen": "2023-09-13T11:43:51.833Z"
               }
+            ],
+            "kapellplatsen": [
+              {
+                "id": 97427,
+                "rent": 12828,
+                "area": 105,
+                "street": "kapellplatsen",
+                "street_number": "2",
+                "city": "göteborg",
+                "zip": "41131",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs vasa",
+                "last_accept": 1723,
+                "$last_seen": "2023-09-27T10:44:40.058Z"
+              }
             ]
           },
           "göteborgs oscar fredrik": {
@@ -50727,6 +50743,20 @@
                 "$districtName": "göteborgs oscar fredrik",
                 "last_accept": 1430,
                 "$last_seen": "2023-09-15T09:42:50.185Z"
+              },
+              {
+                "id": 98626,
+                "rent": 10136,
+                "area": 59,
+                "street": "jungmansgatan",
+                "street_number": "33c",
+                "city": "göteborg",
+                "zip": "41315",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs oscar fredrik",
+                "last_accept": 1723,
+                "$last_seen": "2023-09-27T10:44:40.058Z"
               }
             ],
             "gubbe lars väg": [
