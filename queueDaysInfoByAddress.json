@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-09-27T07:40:28.530Z",
+  "lastUpdatedAt": "2023-09-27T08:43:57.863Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -6879,6 +6879,20 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1704,
                 "$last_seen": "2023-09-08T11:44:06.227Z"
+              },
+              {
+                "id": 98209,
+                "rent": 10400,
+                "area": 67,
+                "street": "vidblicksgatan",
+                "street_number": "11b",
+                "city": "göteborg",
+                "zip": "41257",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1724,
+                "$last_seen": "2023-09-27T07:40:28.530Z"
               }
             ],
             "fribergsgatan": [
@@ -9703,6 +9717,20 @@
                 "$districtName": "högsbo",
                 "last_accept": 1522,
                 "$last_seen": "2023-08-30T07:41:29.685Z"
+              },
+              {
+                "id": 98592,
+                "rent": 13600,
+                "area": 111,
+                "street": "synhållsgatan",
+                "street_number": "17",
+                "city": "göteborg",
+                "zip": "42173",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 1707,
+                "$last_seen": "2023-09-27T07:40:28.530Z"
               }
             ],
             "nymilsgatan": [
@@ -43047,6 +43075,20 @@
                 "$districtName": "örgryte",
                 "last_accept": 1590,
                 "$last_seen": "2023-05-17T10:44:12.335Z"
+              },
+              {
+                "id": 98212,
+                "rent": 7300,
+                "area": 53,
+                "street": "anders zornsgatan",
+                "street_number": "34c",
+                "city": "göteborg",
+                "zip": "41272",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1723,
+                "$last_seen": "2023-09-27T07:40:28.530Z"
               }
             ],
             "mejerigatan": [
@@ -57467,6 +57509,20 @@
                 "$districtName": "tuve",
                 "last_accept": 576,
                 "$last_seen": "2023-09-18T05:44:07.888Z"
+              },
+              {
+                "id": 98231,
+                "rent": 9669,
+                "area": 55,
+                "street": "gubbe lars väg",
+                "street_number": "1",
+                "city": "göteborg",
+                "zip": "41747",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tuve",
+                "last_accept": 554,
+                "$last_seen": "2023-09-27T07:40:28.530Z"
               }
             ],
             "arves marias väg": [
