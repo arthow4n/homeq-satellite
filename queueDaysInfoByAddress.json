@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-09-27T06:44:56.200Z",
+  "lastUpdatedAt": "2023-09-27T07:40:28.530Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -8853,6 +8853,20 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1702,
                 "$last_seen": "2023-09-20T13:01:28.568Z"
+              },
+              {
+                "id": 98210,
+                "rent": 8100,
+                "area": 59,
+                "street": "örnehufvudsgatan",
+                "street_number": "13",
+                "city": "göteborg",
+                "zip": "41259",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1724,
+                "$last_seen": "2023-09-27T06:44:56.200Z"
               }
             ],
             "viktor rydbergsgatan": [
@@ -18743,6 +18757,20 @@
                 "$districtName": "lundby",
                 "last_accept": 0,
                 "$last_seen": "2023-09-15T10:46:34.983Z"
+              },
+              {
+                "id": 97932,
+                "rent": 11575,
+                "area": 65,
+                "street": "fyrklöversgatan",
+                "street_number": "17",
+                "city": "göteborg",
+                "zip": "41725",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 415,
+                "$last_seen": "2023-09-27T06:44:56.200Z"
               },
               {
                 "id": 97945,
