@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-09-28T10:43:47.758Z",
+  "lastUpdatedAt": "2023-09-28T11:39:27.963Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -3021,6 +3021,20 @@
                 "$last_seen": "2023-09-21T10:45:28.151Z"
               },
               {
+                "id": 96199,
+                "rent": 9542,
+                "area": 56,
+                "street": "åby allé",
+                "street_number": "61",
+                "city": "göteborg",
+                "zip": "43145",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 1442,
+                "$last_seen": "2023-09-28T10:43:47.758Z"
+              },
+              {
                 "id": 96204,
                 "rent": 9823,
                 "area": 54,
@@ -3131,6 +3145,20 @@
                 "$districtName": "fässberg",
                 "last_accept": 1620,
                 "$last_seen": "2023-09-14T11:43:18.492Z"
+              },
+              {
+                "id": 98232,
+                "rent": 9972,
+                "area": 57,
+                "street": "åby allé",
+                "street_number": "15",
+                "city": "göteborg",
+                "zip": "43145",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 1236,
+                "$last_seen": "2023-09-28T10:43:47.758Z"
               }
             ],
             "åbyvägen": [
@@ -59285,6 +59313,20 @@
                 "$last_seen": "2023-06-19T11:44:24.858Z"
               },
               {
+                "id": 91784,
+                "rent": 5031,
+                "area": 30,
+                "street": "lagerbladsgatan",
+                "street_number": "6",
+                "city": "göteborg",
+                "zip": "42440",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "gunnared",
+                "last_accept": 1325,
+                "$last_seen": "2023-09-28T10:43:47.758Z"
+              },
+              {
                 "id": 92635,
                 "rent": 6399,
                 "area": 41,
@@ -71311,6 +71353,20 @@
                 "$districtName": "vantör",
                 "last_accept": 1968,
                 "$last_seen": "2023-09-13T13:03:00.528Z"
+              },
+              {
+                "id": 97820,
+                "rent": 4790,
+                "area": 25,
+                "street": "stålbogavägen",
+                "street_number": "16",
+                "city": "bandhagen",
+                "zip": "12456",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 1767,
+                "$last_seen": "2023-09-28T10:43:47.758Z"
               }
             ],
             "askersundsgatan": [
