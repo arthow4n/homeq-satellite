@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-09-28T12:58:12.110Z",
+  "lastUpdatedAt": "2023-09-28T13:44:36.908Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -19759,6 +19759,20 @@
                 "$districtName": "lundby",
                 "last_accept": 1264,
                 "$last_seen": "2023-06-08T11:42:32.020Z"
+              },
+              {
+                "id": 93377,
+                "rent": 8714,
+                "area": 63,
+                "street": "norra säterigatan",
+                "street_number": "20",
+                "city": "göteborg",
+                "zip": "41876",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1638,
+                "$last_seen": "2023-09-28T12:58:12.110Z"
               },
               {
                 "id": 94940,
