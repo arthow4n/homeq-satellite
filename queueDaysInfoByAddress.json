@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-09-28T05:40:38.124Z",
+  "lastUpdatedAt": "2023-09-28T06:44:08.355Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -66961,6 +66961,20 @@
                 "$districtName": "malmö sankt pauli",
                 "last_accept": 472,
                 "$last_seen": "2023-05-11T13:48:36.936Z"
+              },
+              {
+                "id": 88051,
+                "rent": 14638,
+                "area": 95,
+                "street": "östra förstadsgatan",
+                "street_number": "21",
+                "city": "malmö",
+                "zip": "21131",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "malmö sankt pauli",
+                "last_accept": 242,
+                "$last_seen": "2023-09-28T05:40:38.124Z"
               },
               {
                 "id": 95217,
