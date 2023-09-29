@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-09-29T08:42:21.569Z",
+  "lastUpdatedAt": "2023-09-29T09:39:58.265Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -4631,6 +4631,20 @@
                 "$districtName": "kållered",
                 "last_accept": 513,
                 "$last_seen": "2023-07-14T05:43:39.509Z"
+              },
+              {
+                "id": 99083,
+                "rent": 15064,
+                "area": 100,
+                "street": "streteredsvägen",
+                "street_number": "14a",
+                "city": "kållered",
+                "zip": "42833",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "kållered",
+                "last_accept": 532,
+                "$last_seen": "2023-09-29T08:42:21.569Z"
               }
             ]
           }
@@ -10503,6 +10517,20 @@
                 "$districtName": "högsbo",
                 "last_accept": 809,
                 "$last_seen": "2023-09-20T07:42:07.040Z"
+              },
+              {
+                "id": 96997,
+                "rent": 12489,
+                "area": 73.1,
+                "street": "nymilsgatan",
+                "street_number": "45",
+                "city": "göteborg",
+                "zip": "42170",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 1277,
+                "$last_seen": "2023-09-29T07:39:32.430Z"
               }
             ],
             "pennygången": [
@@ -30485,20 +30513,6 @@
                 "$districtName": "askim",
                 "last_accept": 1325,
                 "$last_seen": "2023-09-18T13:42:12.192Z"
-              },
-              {
-                "id": 98530,
-                "rent": 11280,
-                "area": 76,
-                "street": "pilegården",
-                "street_number": "9c",
-                "city": "göteborg",
-                "zip": "43635",
-                "municipality": "göteborg",
-                "county": "västra götalands län",
-                "$districtName": "askim",
-                "last_accept": 1176,
-                "$last_seen": "2023-09-26T11:40:19.723Z"
               },
               {
                 "id": 98918,
@@ -57213,6 +57227,20 @@
                 "$districtName": "biskopsgården",
                 "last_accept": 984,
                 "$last_seen": "2023-09-27T12:59:05.380Z"
+              },
+              {
+                "id": 98765,
+                "rent": 6135,
+                "area": 35,
+                "street": "långströmsgatan",
+                "street_number": "28c",
+                "city": "göteborg",
+                "zip": "41870",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "biskopsgården",
+                "last_accept": 951,
+                "$last_seen": "2023-09-29T08:42:21.569Z"
               }
             ],
             "lufttrycksgatan": [
@@ -68695,6 +68723,20 @@
                 "$districtName": "malmö sankt johannes",
                 "last_accept": 1320,
                 "$last_seen": "2023-06-28T13:10:04.269Z"
+              },
+              {
+                "id": 96194,
+                "rent": 9909,
+                "area": 92,
+                "street": "möllevångsgatan",
+                "street_number": "33 e",
+                "city": "malmö",
+                "zip": "21420",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "malmö sankt johannes",
+                "last_accept": 968,
+                "$last_seen": "2023-09-29T08:42:21.569Z"
               }
             ]
           },
@@ -70543,6 +70585,20 @@
                 "$districtName": "bunkeflo",
                 "last_accept": 0,
                 "$last_seen": "2023-09-14T07:43:58.436Z"
+              },
+              {
+                "id": 88315,
+                "rent": 7675,
+                "area": 47.5,
+                "street": "skräddarebyn",
+                "street_number": "5a",
+                "city": "bunkeflostrand",
+                "zip": "21842",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "bunkeflo",
+                "last_accept": 43,
+                "$last_seen": "2023-09-29T08:42:21.569Z"
               },
               {
                 "id": 89945,
