@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-09-29T11:39:45.695Z",
+  "lastUpdatedAt": "2023-09-29T12:57:28.378Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -429,6 +429,20 @@
                 "$districtName": "fässberg",
                 "last_accept": 1652,
                 "$last_seen": "2023-09-05T08:44:39.192Z"
+              },
+              {
+                "id": 98930,
+                "rent": 6178,
+                "area": 59,
+                "street": "stenbrogatan",
+                "street_number": "1 d",
+                "city": "mölndal",
+                "zip": "43143",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 1722,
+                "$last_seen": "2023-09-29T11:39:45.695Z"
               }
             ],
             "berghemsgatan": [
@@ -1123,6 +1137,20 @@
                 "$districtName": "fässberg",
                 "last_accept": 1577,
                 "$last_seen": "2023-09-27T12:59:05.380Z"
+              },
+              {
+                "id": 98195,
+                "rent": 6040,
+                "area": 36,
+                "street": "gustavsbergsgatan",
+                "street_number": "6",
+                "city": "mölndal",
+                "zip": "43167",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 1261,
+                "$last_seen": "2023-09-29T11:39:45.695Z"
               },
               {
                 "id": 98200,
@@ -15509,6 +15537,20 @@
                 "$districtName": "brämaregården",
                 "last_accept": 1575,
                 "$last_seen": "2023-08-07T08:44:09.421Z"
+              },
+              {
+                "id": 98314,
+                "rent": 12965,
+                "area": 69,
+                "street": "fjärdingsgatan",
+                "street_number": "14",
+                "city": "göteborg",
+                "zip": "41706",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brämaregården",
+                "last_accept": 308,
+                "$last_seen": "2023-09-29T11:39:45.695Z"
               }
             ],
             "madängsgatan": [
@@ -45607,6 +45649,20 @@
                 "$districtName": "annedal",
                 "last_accept": 1718,
                 "$last_seen": "2023-09-22T08:43:31.679Z"
+              },
+              {
+                "id": 98105,
+                "rent": 10144,
+                "area": 80,
+                "street": "risåsgatan",
+                "street_number": "6",
+                "city": "göteborg",
+                "zip": "41307",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "annedal",
+                "last_accept": 1893,
+                "$last_seen": "2023-09-29T11:39:45.695Z"
               }
             ],
             "skanstorget": [
@@ -54299,6 +54355,20 @@
                 "$districtName": "masthugget",
                 "last_accept": 1693,
                 "$last_seen": "2023-08-31T11:41:19.599Z"
+              },
+              {
+                "id": 95095,
+                "rent": 9402,
+                "area": 70,
+                "street": "dahlströmsgatan",
+                "street_number": "24",
+                "city": "göteborg",
+                "zip": "41465",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "masthugget",
+                "last_accept": 1844,
+                "$last_seen": "2023-09-29T11:39:45.695Z"
               }
             ],
             "ekedalsgatan": [
