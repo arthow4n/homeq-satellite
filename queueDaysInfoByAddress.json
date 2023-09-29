@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-09-29T06:43:54.724Z",
+  "lastUpdatedAt": "2023-09-29T07:39:32.430Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -30499,6 +30499,20 @@
                 "$districtName": "askim",
                 "last_accept": 1176,
                 "$last_seen": "2023-09-26T11:40:19.723Z"
+              },
+              {
+                "id": 98918,
+                "rent": 11297,
+                "area": 76,
+                "street": "pilegården",
+                "street_number": "8b",
+                "city": "göteborg",
+                "zip": "43635",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 1157,
+                "$last_seen": "2023-09-29T06:43:54.724Z"
               }
             ],
             "nergårdsvägen": [
@@ -42523,6 +42537,20 @@
                 "$districtName": "örgryte",
                 "last_accept": 1538,
                 "$last_seen": "2023-09-15T11:42:49.285Z"
+              },
+              {
+                "id": 98150,
+                "rent": 13212,
+                "area": 76,
+                "street": "smörkärnegatan",
+                "street_number": "21",
+                "city": "göteborg",
+                "zip": "41278",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1517,
+                "$last_seen": "2023-09-29T06:43:54.724Z"
               }
             ],
             "tändsticksgatan": [
