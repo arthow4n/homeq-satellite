@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-09-29T13:40:30.930Z",
+  "lastUpdatedAt": "2023-09-29T14:40:51.473Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -6889,6 +6889,20 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1692,
                 "$last_seen": "2023-09-19T11:41:24.570Z"
+              },
+              {
+                "id": 98528,
+                "rent": 11283,
+                "area": 79,
+                "street": "norra krokslättsgatan",
+                "street_number": "4",
+                "city": "göteborg",
+                "zip": "41264",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1683,
+                "$last_seen": "2023-09-29T13:40:30.930Z"
               }
             ],
             "norgårdsgatan": [
@@ -71861,6 +71875,20 @@
                 "$districtName": "vantör",
                 "last_accept": 1762,
                 "$last_seen": "2023-09-06T09:43:04.793Z"
+              },
+              {
+                "id": 97277,
+                "rent": 7380,
+                "area": 69,
+                "street": "askersundsgatan",
+                "street_number": "20",
+                "city": "bandhagen",
+                "zip": "12467",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 1767,
+                "$last_seen": "2023-09-29T13:40:30.930Z"
               }
             ],
             "hagsätra torg": [
@@ -72151,6 +72179,20 @@
                 "$districtName": "vantör",
                 "last_accept": 1655,
                 "$last_seen": "2023-09-21T13:46:30.870Z"
+              },
+              {
+                "id": 98198,
+                "rent": 8722,
+                "area": 74,
+                "street": "bjursätragatan",
+                "street_number": "25c",
+                "city": "bandhagen",
+                "zip": "12462",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 1830,
+                "$last_seen": "2023-09-29T13:40:30.930Z"
               }
             ],
             "vintrosagatan": [
