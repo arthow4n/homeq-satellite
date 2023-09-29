@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-09-29T09:39:58.265Z",
+  "lastUpdatedAt": "2023-09-29T10:44:00.009Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -32669,6 +32669,20 @@
                 "$districtName": "askim",
                 "last_accept": 390,
                 "$last_seen": "2023-09-04T06:46:44.150Z"
+              },
+              {
+                "id": 98424,
+                "rent": 10258,
+                "area": 53,
+                "street": "askims pilegårdsväg",
+                "street_number": "42",
+                "city": "göteborg",
+                "zip": "43635",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 317,
+                "$last_seen": "2023-09-29T09:39:58.265Z"
               }
             ]
           },
@@ -64003,6 +64017,22 @@
                 "$districtName": "partille",
                 "last_accept": 1588,
                 "$last_seen": "2023-04-18T05:43:13.269Z"
+              }
+            ],
+            "björkelundsvägen": [
+              {
+                "id": 98929,
+                "rent": 6558,
+                "area": 65,
+                "street": "björkelundsvägen",
+                "street_number": "4 b",
+                "city": "jonsered",
+                "zip": "43375",
+                "municipality": "partille",
+                "county": "västra götalands län",
+                "$districtName": "partille",
+                "last_accept": 1485,
+                "$last_seen": "2023-09-29T09:39:58.265Z"
               }
             ]
           }
