@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-09-30T07:39:20.251Z",
+  "lastUpdatedAt": "2023-09-30T08:40:07.230Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -49453,6 +49453,20 @@
                 "$districtName": "göteborgs vasa",
                 "last_accept": 1707,
                 "$last_seen": "2023-09-11T09:43:25.955Z"
+              },
+              {
+                "id": 98190,
+                "rent": 15800,
+                "area": 83,
+                "street": "södra vägen",
+                "street_number": "4",
+                "city": "göteborg",
+                "zip": "41254",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs vasa",
+                "last_accept": 1725,
+                "$last_seen": "2023-09-30T07:39:20.251Z"
               }
             ],
             "kapellgatan": [
