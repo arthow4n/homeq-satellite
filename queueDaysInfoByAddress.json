@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-10-02T05:40:43.403Z",
+  "lastUpdatedAt": "2023-10-02T06:44:08.544Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -37711,6 +37711,20 @@
                 "$districtName": "härlanda",
                 "last_accept": 1559,
                 "$last_seen": "2023-03-10T13:47:55.157Z"
+              },
+              {
+                "id": 98489,
+                "rent": 5328,
+                "area": 36,
+                "street": "lagmansgatan",
+                "street_number": "6b",
+                "city": "göteborg",
+                "zip": "41653",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "härlanda",
+                "last_accept": 1727,
+                "$last_seen": "2023-10-02T04:42:44.296Z"
               }
             ],
             "sanatoriegatan": [
@@ -37741,6 +37755,20 @@
                 "$districtName": "härlanda",
                 "last_accept": 1567,
                 "$last_seen": "2023-09-15T09:42:50.185Z"
+              },
+              {
+                "id": 98480,
+                "rent": 9509,
+                "area": 87,
+                "street": "sanatoriegatan",
+                "street_number": "36",
+                "city": "göteborg",
+                "zip": "41653",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "härlanda",
+                "last_accept": 1827,
+                "$last_seen": "2023-10-02T05:40:43.403Z"
               }
             ],
             "intagsgatan": [
