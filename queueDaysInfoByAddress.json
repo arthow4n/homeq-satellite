@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-10-02T07:39:00.173Z",
+  "lastUpdatedAt": "2023-10-02T08:42:43.561Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -10587,6 +10587,20 @@
                 "$districtName": "högsbo",
                 "last_accept": 1277,
                 "$last_seen": "2023-09-29T07:39:32.430Z"
+              },
+              {
+                "id": 97291,
+                "rent": 8455,
+                "area": 42,
+                "street": "nymilsgatan",
+                "street_number": "39",
+                "city": "göteborg",
+                "zip": "42170",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 0,
+                "$last_seen": "2023-10-02T07:39:00.173Z"
               }
             ],
             "pennygången": [
@@ -66593,6 +66607,20 @@
                 "$districtName": "kirseberg",
                 "last_accept": 0,
                 "$last_seen": "2023-09-11T10:48:01.585Z"
+              },
+              {
+                "id": 99170,
+                "rent": 11476,
+                "area": 76,
+                "street": "segeparksgatan",
+                "street_number": "17",
+                "city": "malmö",
+                "zip": "21250",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "kirseberg",
+                "last_accept": 0,
+                "$last_seen": "2023-10-02T07:39:00.173Z"
               }
             ],
             "lundavägen": [
