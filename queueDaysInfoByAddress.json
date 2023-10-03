@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-10-03T08:43:17.461Z",
+  "lastUpdatedAt": "2023-10-03T09:39:47.331Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -6719,6 +6719,20 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1459,
                 "$last_seen": "2023-09-28T05:40:38.124Z"
+              },
+              {
+                "id": 97975,
+                "rent": 8077,
+                "area": 40,
+                "street": "nordgårdsgatan",
+                "street_number": "10",
+                "city": "göteborg",
+                "zip": "41285",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1294,
+                "$last_seen": "2023-10-03T08:43:17.461Z"
               }
             ],
             "norra krokslättsgatan": [
