@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-10-03T13:43:05.034Z",
+  "lastUpdatedAt": "2023-10-03T14:45:09.239Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -4161,6 +4161,20 @@
                 "$districtName": "örgryte",
                 "last_accept": 1341,
                 "$last_seen": "2023-08-21T10:46:42.970Z"
+              },
+              {
+                "id": 95226,
+                "rent": 10322,
+                "area": 54,
+                "street": "smörkärnegatan",
+                "street_number": "29",
+                "city": "göteborg",
+                "zip": "41278",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1421,
+                "$last_seen": "2023-10-03T13:43:05.034Z"
               }
             ]
           }
@@ -32469,6 +32483,20 @@
                 "$districtName": "askim",
                 "last_accept": 785,
                 "$last_seen": "2023-09-26T12:59:58.444Z"
+              },
+              {
+                "id": 99016,
+                "rent": 11040,
+                "area": 80,
+                "street": "kobbegården",
+                "street_number": "62",
+                "city": "göteborg",
+                "zip": "43637",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 1215,
+                "$last_seen": "2023-10-03T13:43:05.034Z"
               }
             ],
             "ugglegården": [
