@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-10-03T11:40:31.274Z",
+  "lastUpdatedAt": "2023-10-03T13:00:19.319Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -16435,6 +16435,20 @@
                 "$districtName": "brämaregården",
                 "last_accept": 1695,
                 "$last_seen": "2023-09-28T07:41:03.187Z"
+              },
+              {
+                "id": 98961,
+                "rent": 11253,
+                "area": 76.9,
+                "street": "karlavagnsgatan",
+                "street_number": "20",
+                "city": "göteborg",
+                "zip": "41753",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brämaregården",
+                "last_accept": 1760,
+                "$last_seen": "2023-10-03T11:40:31.274Z"
               }
             ],
             "björnsonsgatan": [
@@ -26971,6 +26985,20 @@
                 "$districtName": "björkekärr",
                 "last_accept": 1637,
                 "$last_seen": "2023-09-25T11:40:13.517Z"
+              },
+              {
+                "id": 97886,
+                "rent": 3640,
+                "area": 30,
+                "street": "smörslätten",
+                "street_number": "12",
+                "city": "göteborg",
+                "zip": "41677",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "björkekärr",
+                "last_accept": 1276,
+                "$last_seen": "2023-09-19T13:44:05.621Z"
               },
               {
                 "id": 97890,
@@ -70667,6 +70695,22 @@
                 "$districtName": "limhamn",
                 "last_accept": 63,
                 "$last_seen": "2023-07-06T07:42:13.053Z"
+              }
+            ],
+            "hyllie kyrkoväg": [
+              {
+                "id": 98008,
+                "rent": 8206,
+                "area": 55,
+                "street": "hyllie kyrkoväg",
+                "street_number": "57b",
+                "city": "limhamn",
+                "zip": "21616",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "limhamn",
+                "last_accept": 257,
+                "$last_seen": "2023-10-03T11:40:31.274Z"
               }
             ],
             "storabackegatan": [
