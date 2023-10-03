@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-10-03T07:39:28.184Z",
+  "lastUpdatedAt": "2023-10-03T08:43:17.461Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -16421,6 +16421,22 @@
                 "$districtName": "brämaregården",
                 "last_accept": 1695,
                 "$last_seen": "2023-09-28T07:41:03.187Z"
+              }
+            ],
+            "björnsonsgatan": [
+              {
+                "id": 99068,
+                "rent": 5235,
+                "area": 38,
+                "street": "björnsonsgatan",
+                "street_number": "2",
+                "city": "göteborg",
+                "zip": "41741",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brämaregården",
+                "last_accept": 1452,
+                "$last_seen": "2023-10-03T07:39:28.184Z"
               }
             ]
           },
@@ -57745,6 +57761,20 @@
                 "$districtName": "biskopsgården",
                 "last_accept": 951,
                 "$last_seen": "2023-09-29T08:42:21.569Z"
+              },
+              {
+                "id": 99605,
+                "rent": 6605,
+                "area": 41,
+                "street": "långströmsgatan",
+                "street_number": "50b",
+                "city": "göteborg",
+                "zip": "41870",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "biskopsgården",
+                "last_accept": 963,
+                "$last_seen": "2023-10-03T07:39:28.184Z"
               }
             ],
             "lufttrycksgatan": [
@@ -66729,6 +66759,20 @@
                 "$districtName": "kirseberg",
                 "last_accept": 0,
                 "$last_seen": "2023-06-27T07:42:50.678Z"
+              },
+              {
+                "id": 98832,
+                "rent": 10649,
+                "area": 70.2,
+                "street": "vattenverksvägen",
+                "street_number": "2",
+                "city": "malmö",
+                "zip": "21221",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "kirseberg",
+                "last_accept": 34,
+                "$last_seen": "2023-10-03T07:39:28.184Z"
               }
             ],
             "rosendalsv": [
