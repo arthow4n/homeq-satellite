@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-10-03T06:44:01.349Z",
+  "lastUpdatedAt": "2023-10-03T07:39:28.184Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -17593,6 +17593,20 @@
                 "$districtName": "lundby",
                 "last_accept": 1670,
                 "$last_seen": "2023-09-18T11:41:41.870Z"
+              },
+              {
+                "id": 99021,
+                "rent": 6528,
+                "area": 50,
+                "street": "hällskriftsgatan",
+                "street_number": "12b",
+                "city": "göteborg",
+                "zip": "41741",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1704,
+                "$last_seen": "2023-10-03T06:44:01.349Z"
               }
             ],
             "fyrklöversgatan": [
@@ -19219,6 +19233,34 @@
                 "$districtName": "lundby",
                 "last_accept": 1691,
                 "$last_seen": "2023-09-25T16:48:16.059Z"
+              },
+              {
+                "id": 98786,
+                "rent": 8938,
+                "area": 43,
+                "street": "fyrklöversgatan",
+                "street_number": "21",
+                "city": "göteborg",
+                "zip": "41725",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 421,
+                "$last_seen": "2023-10-03T06:44:01.349Z"
+              },
+              {
+                "id": 99298,
+                "rent": 10287,
+                "area": 55,
+                "street": "fyrklöversgatan",
+                "street_number": "19 f",
+                "city": "göteborg",
+                "zip": "41725",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 629,
+                "$last_seen": "2023-10-03T06:44:01.349Z"
               }
             ],
             "arvid lindmansgatan": [
@@ -32497,6 +32539,20 @@
                 "$districtName": "askim",
                 "last_accept": 462,
                 "$last_seen": "2023-09-12T07:43:51.016Z"
+              },
+              {
+                "id": 97767,
+                "rent": 11517,
+                "area": 63,
+                "street": "ugglegården",
+                "street_number": "36",
+                "city": "göteborg",
+                "zip": "43658",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 291,
+                "$last_seen": "2023-10-03T06:44:01.349Z"
               },
               {
                 "id": 97772,
@@ -47759,6 +47815,20 @@
                 "$districtName": "annedal",
                 "last_accept": 1673,
                 "$last_seen": "2023-09-08T14:45:40.700Z"
+              },
+              {
+                "id": 98709,
+                "rent": 9898,
+                "area": 64,
+                "street": "seminariegatan",
+                "street_number": "4",
+                "city": "göteborg",
+                "zip": "41313",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "annedal",
+                "last_accept": 1729,
+                "$last_seen": "2023-10-03T06:44:01.349Z"
               }
             ],
             "guldhedstorget": [
@@ -68375,6 +68445,20 @@
                 "$last_seen": "2023-06-19T05:46:22.854Z"
               },
               {
+                "id": 86859,
+                "rent": 9966,
+                "area": 55,
+                "street": "bures gata",
+                "street_number": "1 a",
+                "city": "malmö",
+                "zip": "21533",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "hyllie",
+                "last_accept": 727,
+                "$last_seen": "2023-10-03T06:44:01.349Z"
+              },
+              {
                 "id": 88294,
                 "rent": 9992,
                 "area": 55,
@@ -68429,6 +68513,20 @@
                 "$districtName": "hyllie",
                 "last_accept": 15,
                 "$last_seen": "2023-09-21T08:44:58.725Z"
+              },
+              {
+                "id": 94701,
+                "rent": 12368,
+                "area": 73.9,
+                "street": "bures gata",
+                "street_number": "3 b",
+                "city": "malmö",
+                "zip": "21533",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "hyllie",
+                "last_accept": 520,
+                "$last_seen": "2023-10-03T06:44:01.349Z"
               },
               {
                 "id": 97579,
