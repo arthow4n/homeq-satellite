@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-10-04T11:40:37.345Z",
+  "lastUpdatedAt": "2023-10-04T13:01:17.796Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -9077,6 +9077,20 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1702,
                 "$last_seen": "2023-09-20T13:01:28.568Z"
+              },
+              {
+                "id": 97571,
+                "rent": 9665,
+                "area": 63,
+                "street": "örnehufvudsgatan",
+                "street_number": "5",
+                "city": "göteborg",
+                "zip": "41259",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1731,
+                "$last_seen": "2023-10-04T11:40:37.345Z"
               },
               {
                 "id": 98210,
@@ -55657,6 +55671,20 @@
                 "$districtName": "biskopsgården",
                 "last_accept": 163,
                 "$last_seen": "2023-09-20T09:42:00.692Z"
+              },
+              {
+                "id": 98226,
+                "rent": 9211,
+                "area": 77,
+                "street": "temperaturgatan",
+                "street_number": "55",
+                "city": "göteborg",
+                "zip": "41841",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "biskopsgården",
+                "last_accept": 657,
+                "$last_seen": "2023-10-04T11:40:37.345Z"
               }
             ],
             "solstrålegatan": [
@@ -71137,6 +71165,34 @@
                 "$last_seen": "2023-10-02T06:44:08.544Z"
               },
               {
+                "id": 89895,
+                "rent": 9508,
+                "area": 69,
+                "street": "sadelmakarebyn",
+                "street_number": "1a",
+                "city": "bunkeflostrand",
+                "zip": "21840",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "bunkeflo",
+                "last_accept": 0,
+                "$last_seen": "2023-10-04T11:40:37.345Z"
+              },
+              {
+                "id": 93161,
+                "rent": 8018,
+                "area": 40,
+                "street": "sadelmakarebyn",
+                "street_number": "8b",
+                "city": "bunkeflostrand",
+                "zip": "21840",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "bunkeflo",
+                "last_accept": 0,
+                "$last_seen": "2023-10-04T11:40:37.345Z"
+              },
+              {
                 "id": 93260,
                 "rent": 9980,
                 "area": 72,
@@ -71307,6 +71363,20 @@
                 "$last_seen": "2023-08-11T08:44:29.176Z"
               },
               {
+                "id": 89553,
+                "rent": 8919,
+                "area": 61.2,
+                "street": "skomakarebyn",
+                "street_number": "7f",
+                "city": "bunkeflostrand",
+                "zip": "21841",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "bunkeflo",
+                "last_accept": 0,
+                "$last_seen": "2023-10-04T11:40:37.345Z"
+              },
+              {
                 "id": 91828,
                 "rent": 8376,
                 "area": 61.2,
@@ -71319,6 +71389,34 @@
                 "$districtName": "bunkeflo",
                 "last_accept": 0,
                 "$last_seen": "2023-09-11T10:48:01.585Z"
+              },
+              {
+                "id": 93020,
+                "rent": 8877,
+                "area": 61.2,
+                "street": "skomakarebyn",
+                "street_number": "6d",
+                "city": "bunkeflostrand",
+                "zip": "21841",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "bunkeflo",
+                "last_accept": 0,
+                "$last_seen": "2023-10-04T11:40:37.345Z"
+              },
+              {
+                "id": 93285,
+                "rent": 9353,
+                "area": 61.2,
+                "street": "skomakarebyn",
+                "street_number": "7f",
+                "city": "bunkeflostrand",
+                "zip": "21841",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "bunkeflo",
+                "last_accept": 0,
+                "$last_seen": "2023-10-04T11:40:37.345Z"
               },
               {
                 "id": 93433,
@@ -71591,6 +71689,20 @@
                 "$last_seen": "2023-09-25T08:44:55.233Z"
               },
               {
+                "id": 93289,
+                "rent": 8468,
+                "area": 53.7,
+                "street": "skräddarebyn",
+                "street_number": "4a",
+                "city": "bunkeflostrand",
+                "zip": "21842",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "bunkeflo",
+                "last_accept": 0,
+                "$last_seen": "2023-10-04T11:40:37.345Z"
+              },
+              {
                 "id": 93355,
                 "rent": 8508,
                 "area": 60.1,
@@ -71675,6 +71787,20 @@
                 "$districtName": "bunkeflo",
                 "last_accept": 0,
                 "$last_seen": "2023-08-18T10:45:46.326Z"
+              },
+              {
+                "id": 88156,
+                "rent": 9174,
+                "area": 65,
+                "street": "vagnmakarebyn",
+                "street_number": "1m",
+                "city": "bunkeflostrand",
+                "zip": "21840",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "bunkeflo",
+                "last_accept": 0,
+                "$last_seen": "2023-10-04T11:40:37.345Z"
               }
             ]
           }
