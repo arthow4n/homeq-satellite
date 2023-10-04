@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-10-04T08:45:01.447Z",
+  "lastUpdatedAt": "2023-10-04T09:40:43.549Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -21825,6 +21825,20 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1414,
                 "$last_seen": "2023-08-31T08:44:53.868Z"
+              },
+              {
+                "id": 97744,
+                "rent": 7452,
+                "area": 33,
+                "street": "ulfsparregatan",
+                "street_number": "14",
+                "city": "göteborg",
+                "zip": "41657",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1469,
+                "$last_seen": "2023-10-04T08:45:01.447Z"
               }
             ],
             "kobbarnas väg": [
@@ -66045,6 +66059,20 @@
                 "$districtName": "möllevången",
                 "last_accept": 215,
                 "$last_seen": "2023-06-19T05:46:22.854Z"
+              },
+              {
+                "id": 96561,
+                "rent": 9470,
+                "area": 50,
+                "street": "kristianstadsgatan",
+                "street_number": "41 c",
+                "city": "malmö",
+                "zip": "21435",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "möllevången",
+                "last_accept": 0,
+                "$last_seen": "2023-10-04T07:41:06.028Z"
               }
             ],
             "nobelvägen": [
@@ -66317,6 +66345,20 @@
                 "$districtName": "möllevången",
                 "last_accept": 1693,
                 "$last_seen": "2023-08-29T09:41:35.452Z"
+              },
+              {
+                "id": 95231,
+                "rent": 7263,
+                "area": 69,
+                "street": "sigtunagatan",
+                "street_number": "4 a",
+                "city": "malmö",
+                "zip": "21429",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "möllevången",
+                "last_accept": 1074,
+                "$last_seen": "2023-10-04T07:41:06.028Z"
               }
             ],
             "södra förstadsgatan": [
@@ -66539,6 +66581,20 @@
                 "$districtName": "limhamn",
                 "last_accept": 1239,
                 "$last_seen": "2023-04-27T05:43:19.101Z"
+              },
+              {
+                "id": 97227,
+                "rent": 9057,
+                "area": 88,
+                "street": "järnvägsgatan",
+                "street_number": "47",
+                "city": "malmö",
+                "zip": "21614",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "limhamn",
+                "last_accept": 838,
+                "$last_seen": "2023-10-04T08:45:01.447Z"
               }
             ],
             "nätsnäcksgränd": [
@@ -68117,6 +68173,20 @@
                 "$districtName": "malmö sankt pauli",
                 "last_accept": 244,
                 "$last_seen": "2023-06-19T05:46:22.854Z"
+              },
+              {
+                "id": 96681,
+                "rent": 9410,
+                "area": 58,
+                "street": "fredriksbergsgatan",
+                "street_number": "12",
+                "city": "malmö",
+                "zip": "21211",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "malmö sankt pauli",
+                "last_accept": 0,
+                "$last_seen": "2023-10-04T07:41:06.028Z"
               }
             ],
             "drottninggatan": [
