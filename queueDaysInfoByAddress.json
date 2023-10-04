@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-10-04T09:40:43.549Z",
+  "lastUpdatedAt": "2023-10-04T10:45:39.913Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -25663,6 +25663,20 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1424,
                 "$last_seen": "2023-04-12T11:40:25.023Z"
+              },
+              {
+                "id": 89638,
+                "rent": 12752,
+                "area": 83,
+                "street": "norra gubberogatan",
+                "street_number": "8",
+                "city": "göteborg",
+                "zip": "41663",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1001,
+                "$last_seen": "2023-10-04T09:40:43.549Z"
               },
               {
                 "id": 93604,
