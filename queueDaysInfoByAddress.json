@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-10-04T13:44:42.567Z",
+  "lastUpdatedAt": "2023-10-04T14:43:52.101Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -74139,6 +74139,24 @@
                 "$districtName": "vantör",
                 "last_accept": 1322,
                 "$last_seen": "2023-09-08T13:01:45.229Z"
+              }
+            ]
+          },
+          "bromma": {
+            "vinjegatan": [
+              {
+                "id": 100057,
+                "rent": 5048,
+                "area": 29,
+                "street": "vinjegatan",
+                "street_number": "17",
+                "city": "stockholm ",
+                "zip": "16847",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "bromma",
+                "last_accept": 175,
+                "$last_seen": "2023-10-04T13:44:42.567Z"
               }
             ]
           }
