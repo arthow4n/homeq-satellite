@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-10-04T07:41:06.028Z",
+  "lastUpdatedAt": "2023-10-04T08:45:01.447Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -19811,6 +19811,20 @@
                 "$districtName": "lundby",
                 "last_accept": 1659,
                 "$last_seen": "2023-09-22T05:41:53.789Z"
+              },
+              {
+                "id": 99001,
+                "rent": 6202,
+                "area": 63,
+                "street": "arvid lindmansgatan",
+                "street_number": "4a",
+                "city": "göteborg",
+                "zip": "41741",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1723,
+                "$last_seen": "2023-10-04T07:41:06.028Z"
               }
             ],
             "estlandsgatan": [
@@ -65069,6 +65083,20 @@
                 "$districtName": "råda",
                 "last_accept": 1039,
                 "$last_seen": "2023-09-22T05:41:53.789Z"
+              },
+              {
+                "id": 98136,
+                "rent": 12529,
+                "area": 86,
+                "street": "centralvägen",
+                "street_number": "8b",
+                "city": "göteborg",
+                "zip": "43530",
+                "municipality": "härryda",
+                "county": "västra götalands län",
+                "$districtName": "råda",
+                "last_accept": 1672,
+                "$last_seen": "2023-10-04T07:41:06.028Z"
               }
             ],
             "badhusgatan": [
