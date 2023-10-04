@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-10-04T10:45:39.913Z",
+  "lastUpdatedAt": "2023-10-04T11:40:37.345Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -68595,6 +68595,20 @@
                 "$districtName": "hyllie",
                 "last_accept": 423,
                 "$last_seen": "2023-09-11T06:48:28.419Z"
+              },
+              {
+                "id": 95805,
+                "rent": 8868,
+                "area": 49,
+                "street": "tors gränd",
+                "street_number": "6",
+                "city": "malmö",
+                "zip": "21534",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "hyllie",
+                "last_accept": 51,
+                "$last_seen": "2023-10-04T10:45:39.913Z"
               },
               {
                 "id": 97736,
