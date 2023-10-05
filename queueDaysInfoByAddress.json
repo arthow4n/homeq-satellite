@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-10-05T13:01:49.336Z",
+  "lastUpdatedAt": "2023-10-05T13:46:45.502Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -19867,20 +19867,6 @@
                 "$districtName": "lundby",
                 "last_accept": 1659,
                 "$last_seen": "2023-09-22T05:41:53.789Z"
-              },
-              {
-                "id": 99001,
-                "rent": 6202,
-                "area": 63,
-                "street": "arvid lindmansgatan",
-                "street_number": "4a",
-                "city": "göteborg",
-                "zip": "41741",
-                "municipality": "göteborg",
-                "county": "västra götalands län",
-                "$districtName": "lundby",
-                "last_accept": 1723,
-                "$last_seen": "2023-10-04T07:41:06.028Z"
               }
             ],
             "estlandsgatan": [
