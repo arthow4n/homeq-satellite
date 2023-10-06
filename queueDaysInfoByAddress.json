@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-10-06T06:45:46.496Z",
+  "lastUpdatedAt": "2023-10-06T07:41:16.724Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -36131,6 +36131,20 @@
                 "$districtName": "bergsjön",
                 "last_accept": 1424,
                 "$last_seen": "2023-08-24T13:46:18.747Z"
+              },
+              {
+                "id": 98541,
+                "rent": 5575,
+                "area": 38,
+                "street": "universumsgatan",
+                "street_number": "22",
+                "city": "göteborg",
+                "zip": "41562",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bergsjön",
+                "last_accept": 1293,
+                "$last_seen": "2023-10-06T06:45:46.496Z"
               }
             ]
           },
@@ -68419,6 +68433,22 @@
                 "$districtName": "malmö sankt pauli",
                 "last_accept": 0,
                 "$last_seen": "2023-08-24T08:45:10.935Z"
+              }
+            ],
+            "linjeettgatan": [
+              {
+                "id": 96201,
+                "rent": 11815,
+                "area": 69.3,
+                "street": "linjeettgatan",
+                "street_number": "6a",
+                "city": "malmö",
+                "zip": "21251",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "malmö sankt pauli",
+                "last_accept": 611,
+                "$last_seen": "2023-10-06T06:45:46.496Z"
               }
             ],
             "spiggans gata": [
