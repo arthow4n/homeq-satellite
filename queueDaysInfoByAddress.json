@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-10-06T10:45:42.790Z",
+  "lastUpdatedAt": "2023-10-06T11:40:45.032Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -6199,6 +6199,20 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1561,
                 "$last_seen": "2023-10-05T07:40:36.933Z"
+              },
+              {
+                "id": 99567,
+                "rent": 10096,
+                "area": 55,
+                "street": "ebbe lieberathsgatan",
+                "street_number": "2d",
+                "city": "göteborg",
+                "zip": "41285",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1562,
+                "$last_seen": "2023-10-06T10:45:42.790Z"
               }
             ],
             "nordgårdsgatan": [
@@ -55785,6 +55799,20 @@
                 "$last_seen": "2023-09-20T09:42:00.692Z"
               },
               {
+                "id": 98223,
+                "rent": 7960,
+                "area": 64,
+                "street": "temperaturgatan",
+                "street_number": "59",
+                "city": "göteborg",
+                "zip": "41841",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "biskopsgården",
+                "last_accept": 472,
+                "$last_seen": "2023-10-06T10:45:42.790Z"
+              },
+              {
                 "id": 98226,
                 "rent": 9211,
                 "area": 77,
@@ -66027,6 +66055,20 @@
                 "$districtName": "malmö sankt petri",
                 "last_accept": 568,
                 "$last_seen": "2023-09-20T10:46:29.145Z"
+              },
+              {
+                "id": 99120,
+                "rent": 11680,
+                "area": 72,
+                "street": "dagvattengatan",
+                "street_number": "18",
+                "city": "malmö",
+                "zip": "21531",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "malmö sankt petri",
+                "last_accept": 1185,
+                "$last_seen": "2023-10-06T10:45:42.790Z"
               }
             ],
             "maribogatan": [
