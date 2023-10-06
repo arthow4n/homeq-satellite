@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-10-06T13:00:22.740Z",
+  "lastUpdatedAt": "2023-10-06T13:43:05.532Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -6761,6 +6761,20 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1284,
                 "$last_seen": "2023-08-31T07:42:01.359Z"
+              },
+              {
+                "id": 97238,
+                "rent": 9995,
+                "area": 55,
+                "street": "nordgårdsgatan",
+                "street_number": "6",
+                "city": "göteborg",
+                "zip": "41265",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1467,
+                "$last_seen": "2023-10-06T13:00:22.740Z"
               },
               {
                 "id": 97253,
@@ -22333,6 +22347,20 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1433,
                 "$last_seen": "2022-12-16T06:43:19.029Z"
+              },
+              {
+                "id": 97618,
+                "rent": 7829,
+                "area": 62,
+                "street": "s:t pauligatan",
+                "street_number": "32a",
+                "city": "göteborg",
+                "zip": "41660",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1950,
+                "$last_seen": "2023-10-06T13:00:22.740Z"
               }
             ],
             "sparvgatan": [
@@ -22971,6 +22999,20 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1635,
                 "$last_seen": "2023-06-01T15:42:00.201Z"
+              },
+              {
+                "id": 97290,
+                "rent": 6565,
+                "area": 37,
+                "street": "kungälvsgatan",
+                "street_number": "6a",
+                "city": "göteborg",
+                "zip": "41669",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1771,
+                "$last_seen": "2023-10-06T13:00:22.740Z"
               }
             ],
             "torkelsgatan": [
