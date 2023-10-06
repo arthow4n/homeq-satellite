@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-10-06T11:40:45.032Z",
+  "lastUpdatedAt": "2023-10-06T13:00:22.740Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -8019,6 +8019,20 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1710,
                 "$last_seen": "2023-09-14T06:48:24.503Z"
+              },
+              {
+                "id": 98647,
+                "rent": 7234,
+                "area": 56,
+                "street": "framnäsgatan",
+                "street_number": "26d",
+                "city": "göteborg",
+                "zip": "41262",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1732,
+                "$last_seen": "2023-10-06T11:40:45.032Z"
               }
             ],
             "kristinehöjdsgatan": [
@@ -70879,6 +70893,20 @@
                 "$districtName": "limhamn",
                 "last_accept": 0,
                 "$last_seen": "2023-09-13T06:47:52.977Z"
+              },
+              {
+                "id": 98830,
+                "rent": 12284,
+                "area": 74,
+                "street": "högatan",
+                "street_number": "14",
+                "city": "limhamn",
+                "zip": "21633",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "limhamn",
+                "last_accept": 393,
+                "$last_seen": "2023-10-06T11:40:45.032Z"
               }
             ],
             "höbalsgatan": [
@@ -70965,6 +70993,20 @@
                 "$districtName": "limhamn",
                 "last_accept": 15,
                 "$last_seen": "2023-09-28T11:39:27.963Z"
+              },
+              {
+                "id": 99719,
+                "rent": 8669,
+                "area": 44,
+                "street": "höbalsgatan",
+                "street_number": "3",
+                "city": "limhamn",
+                "zip": "21633",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "limhamn",
+                "last_accept": 0,
+                "$last_seen": "2023-10-06T11:40:45.032Z"
               }
             ],
             "hylliekyrkoväg": [
