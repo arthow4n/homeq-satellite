@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-10-09T13:05:27.316Z",
+  "lastUpdatedAt": "2023-10-09T13:44:38.958Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -42787,6 +42787,20 @@
                 "$districtName": "örgryte",
                 "last_accept": 1663,
                 "$last_seen": "2023-10-09T06:46:17.002Z"
+              },
+              {
+                "id": 100558,
+                "rent": 15955,
+                "area": 116,
+                "street": "prästgårdsängen",
+                "street_number": "14",
+                "city": "göteborg",
+                "zip": "41271",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1651,
+                "$last_seen": "2023-10-09T13:05:27.316Z"
               }
             ],
             "karlfeldtsgatan": [
@@ -71929,6 +71943,20 @@
                 "$districtName": "bunkeflo",
                 "last_accept": 0,
                 "$last_seen": "2023-09-22T05:41:53.789Z"
+              },
+              {
+                "id": 87118,
+                "rent": 9110,
+                "area": 60.5,
+                "street": "skomakarebyn",
+                "street_number": "5n",
+                "city": "bunkeflostrand",
+                "zip": "21841",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "bunkeflo",
+                "last_accept": 0,
+                "$last_seen": "2023-10-09T13:05:27.316Z"
               },
               {
                 "id": 87141,
