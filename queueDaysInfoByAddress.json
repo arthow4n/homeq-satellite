@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-10-09T11:41:12.892Z",
+  "lastUpdatedAt": "2023-10-09T13:05:27.316Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -6803,6 +6803,20 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1459,
                 "$last_seen": "2023-09-28T05:40:38.124Z"
+              },
+              {
+                "id": 97256,
+                "rent": 8279,
+                "area": 40,
+                "street": "nordgårdsgatan",
+                "street_number": "8",
+                "city": "göteborg",
+                "zip": "41285",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1319,
+                "$last_seen": "2023-10-09T11:41:12.892Z"
               },
               {
                 "id": 97975,
@@ -66457,6 +66471,20 @@
                 "$districtName": "malmö sankt petri",
                 "last_accept": 1230,
                 "$last_seen": "2023-08-23T10:45:57.795Z"
+              },
+              {
+                "id": 99255,
+                "rent": 14301,
+                "area": 97,
+                "street": "stora kvarngatan",
+                "street_number": "26",
+                "city": "malmö",
+                "zip": "21129",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "malmö sankt petri",
+                "last_accept": 206,
+                "$last_seen": "2023-10-09T11:41:12.892Z"
               }
             ],
             "rörsjögatan": [
@@ -67073,6 +67101,20 @@
                 "$districtName": "limhamn",
                 "last_accept": 259,
                 "$last_seen": "2023-09-28T13:44:36.908Z"
+              },
+              {
+                "id": 98987,
+                "rent": 9649,
+                "area": 60,
+                "street": "grönalundsgatan",
+                "street_number": "9c",
+                "city": "malmö",
+                "zip": "21616",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "limhamn",
+                "last_accept": 163,
+                "$last_seen": "2023-10-09T11:41:12.892Z"
               }
             ],
             "järnvägsgatan": [
