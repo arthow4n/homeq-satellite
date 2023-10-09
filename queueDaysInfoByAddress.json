@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-10-09T05:42:01.189Z",
+  "lastUpdatedAt": "2023-10-09T06:46:17.002Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -52313,6 +52313,22 @@
                 "$districtName": "göteborgs oscar fredrik",
                 "last_accept": 1638,
                 "$last_seen": "2023-07-04T13:50:06.812Z"
+              }
+            ],
+            "rosengatan": [
+              {
+                "id": 99612,
+                "rent": 11932,
+                "area": 109,
+                "street": "rosengatan",
+                "street_number": "2 a",
+                "city": "göteborg",
+                "zip": "41310",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs oscar fredrik",
+                "last_accept": 1893,
+                "$last_seen": "2023-10-09T05:42:01.189Z"
               }
             ]
           },
