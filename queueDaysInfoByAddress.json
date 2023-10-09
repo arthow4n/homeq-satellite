@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-10-09T06:46:17.002Z",
+  "lastUpdatedAt": "2023-10-09T07:40:33.790Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -42633,6 +42633,34 @@
                 "$districtName": "örgryte",
                 "last_accept": 1695,
                 "$last_seen": "2023-09-13T13:46:06.461Z"
+              },
+              {
+                "id": 99856,
+                "rent": 8477,
+                "area": 50,
+                "street": "prästgårdsängen",
+                "street_number": "23",
+                "city": "göteborg",
+                "zip": "41271",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1723,
+                "$last_seen": "2023-10-09T06:46:17.002Z"
+              },
+              {
+                "id": 100096,
+                "rent": 8477,
+                "area": 50,
+                "street": "prästgårdsängen",
+                "street_number": "17",
+                "city": "göteborg",
+                "zip": "41271",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1663,
+                "$last_seen": "2023-10-09T06:46:17.002Z"
               }
             ],
             "karlfeldtsgatan": [
@@ -67236,6 +67264,22 @@
                 "last_accept": 379,
                 "$last_seen": "2023-10-05T10:46:10.867Z"
               }
+            ],
+            "hyllie kyrkoväg": [
+              {
+                "id": 94740,
+                "rent": 9055,
+                "area": 58,
+                "street": "hyllie kyrkoväg",
+                "street_number": "51 a",
+                "city": "malmö",
+                "zip": "21616",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "limhamn",
+                "last_accept": 491,
+                "$last_seen": "2023-10-09T06:46:17.002Z"
+              }
             ]
           },
           "kirseberg": {
@@ -74912,20 +74956,6 @@
                 "county": "stockholms län",
                 "$districtName": "kista",
                 "last_accept": 729,
-                "$last_seen": "2023-10-06T07:41:16.724Z"
-              },
-              {
-                "id": 100366,
-                "rent": 5812,
-                "area": 22,
-                "street": "almbygatan",
-                "street_number": "14",
-                "city": "spånga",
-                "zip": "16376",
-                "municipality": "stockholm",
-                "county": "stockholms län",
-                "$districtName": "kista",
-                "last_accept": 0,
                 "$last_seen": "2023-10-06T07:41:16.724Z"
               }
             ]
