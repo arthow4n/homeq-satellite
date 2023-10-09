@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-10-09T13:44:38.958Z",
+  "lastUpdatedAt": "2023-10-09T14:44:49.334Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -35087,6 +35087,34 @@
                 "$districtName": "bergsjön",
                 "last_accept": 545,
                 "$last_seen": "2023-09-12T09:44:03.302Z"
+              },
+              {
+                "id": 98539,
+                "rent": 7431,
+                "area": 46,
+                "street": "kosmosgatan",
+                "street_number": "6",
+                "city": "göteborg",
+                "zip": "41562",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bergsjön",
+                "last_accept": 742,
+                "$last_seen": "2023-10-09T13:44:38.958Z"
+              },
+              {
+                "id": 98540,
+                "rent": 6933,
+                "area": 46,
+                "street": "kosmosgatan",
+                "street_number": "3",
+                "city": "göteborg",
+                "zip": "41562",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bergsjön",
+                "last_accept": 1057,
+                "$last_seen": "2023-10-09T13:44:38.958Z"
               }
             ],
             "atmosfärgatan": [
@@ -58309,6 +58337,20 @@
                 "$districtName": "biskopsgården",
                 "last_accept": 951,
                 "$last_seen": "2023-09-29T08:42:21.569Z"
+              },
+              {
+                "id": 99598,
+                "rent": 6527,
+                "area": 41,
+                "street": "långströmsgatan",
+                "street_number": "46a",
+                "city": "göteborg",
+                "zip": "41870",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "biskopsgården",
+                "last_accept": 948,
+                "$last_seen": "2023-10-09T13:44:38.958Z"
               },
               {
                 "id": 99603,
