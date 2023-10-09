@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-10-09T15:42:02.515Z",
+  "lastUpdatedAt": "2023-10-09T16:47:38.472Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -8531,6 +8531,20 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1632,
                 "$last_seen": "2023-08-18T09:43:06.658Z"
+              },
+              {
+                "id": 99355,
+                "rent": 8410,
+                "area": 73,
+                "street": "övre besvärsgatan",
+                "street_number": "9",
+                "city": "göteborg",
+                "zip": "41129",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1858,
+                "$last_seen": "2023-10-09T15:42:02.515Z"
               },
               {
                 "id": 99357,
@@ -32201,20 +32215,6 @@
                 "$districtName": "askim",
                 "last_accept": 0,
                 "$last_seen": "2023-10-06T08:44:45.855Z"
-              },
-              {
-                "id": 99713,
-                "rent": 13780,
-                "area": 74,
-                "street": "kobbeslätten",
-                "street_number": "4",
-                "city": "göteborg",
-                "zip": "43637",
-                "municipality": "göteborg",
-                "county": "västra götalands län",
-                "$districtName": "askim",
-                "last_accept": 383,
-                "$last_seen": "2023-10-09T10:47:26.913Z"
               }
             ],
             "kobbegården": [
