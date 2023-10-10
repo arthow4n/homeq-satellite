@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-10-10T13:43:04.647Z",
+  "lastUpdatedAt": "2023-10-10T14:44:08.438Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -31243,6 +31243,20 @@
                 "$districtName": "askim",
                 "last_accept": 1157,
                 "$last_seen": "2023-09-29T06:43:54.724Z"
+              },
+              {
+                "id": 99961,
+                "rent": 8182,
+                "area": 66,
+                "street": "pilegården",
+                "street_number": "1e",
+                "city": "göteborg",
+                "zip": "43635",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 1270,
+                "$last_seen": "2023-10-10T13:43:04.647Z"
               }
             ],
             "nergårdsvägen": [
@@ -36551,6 +36565,34 @@
                 "$districtName": "bergsjön",
                 "last_accept": 1293,
                 "$last_seen": "2023-10-06T06:45:46.496Z"
+              },
+              {
+                "id": 98685,
+                "rent": 7416,
+                "area": 55,
+                "street": "universumsgatan",
+                "street_number": "22",
+                "city": "göteborg",
+                "zip": "41562",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bergsjön",
+                "last_accept": 1191,
+                "$last_seen": "2023-10-10T13:43:04.647Z"
+              },
+              {
+                "id": 98687,
+                "rent": 5818,
+                "area": 40,
+                "street": "universumsgatan",
+                "street_number": "24",
+                "city": "göteborg",
+                "zip": "41562",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bergsjön",
+                "last_accept": 1274,
+                "$last_seen": "2023-10-10T13:43:04.647Z"
               },
               {
                 "id": 98690,
@@ -72041,6 +72083,20 @@
                 "$districtName": "bunkeflo",
                 "last_accept": 582,
                 "$last_seen": "2023-10-02T06:44:08.544Z"
+              },
+              {
+                "id": 89207,
+                "rent": 10139,
+                "area": 68,
+                "street": "sadelmakarebyn",
+                "street_number": "9a",
+                "city": "bunkeflostrand",
+                "zip": "21840",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "bunkeflo",
+                "last_accept": 0,
+                "$last_seen": "2023-10-10T13:43:04.647Z"
               },
               {
                 "id": 89895,
