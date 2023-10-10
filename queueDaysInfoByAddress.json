@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-10-10T10:46:02.116Z",
+  "lastUpdatedAt": "2023-10-10T11:40:50.386Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -16647,6 +16647,20 @@
                 "$last_seen": "2023-09-28T07:41:03.187Z"
               },
               {
+                "id": 98245,
+                "rent": 6843,
+                "area": 41.4,
+                "street": "karlavagnsgatan",
+                "street_number": "20",
+                "city": "göteborg",
+                "zip": "41753",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brämaregården",
+                "last_accept": 1800,
+                "$last_seen": "2023-10-10T10:46:02.116Z"
+              },
+              {
                 "id": 98731,
                 "rent": 7299,
                 "area": 41.4,
@@ -29427,6 +29441,20 @@
                 "$districtName": "kortedala",
                 "last_accept": 1417,
                 "$last_seen": "2023-09-27T11:40:05.911Z"
+              },
+              {
+                "id": 99736,
+                "rent": 6187,
+                "area": 65,
+                "street": "aprilgatan",
+                "street_number": "40",
+                "city": "göteborg",
+                "zip": "41548",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "kortedala",
+                "last_accept": 1660,
+                "$last_seen": "2023-10-10T10:46:02.116Z"
               }
             ],
             "februarigatan": [
@@ -70599,6 +70627,22 @@
                 "$districtName": "slottsstaden",
                 "last_accept": 2,
                 "$last_seen": "2023-08-23T05:42:55.631Z"
+              }
+            ],
+            "kramersvägen": [
+              {
+                "id": 98939,
+                "rent": 11552,
+                "area": 78,
+                "street": "kramersvägen",
+                "street_number": "4",
+                "city": "malmö",
+                "zip": "21745",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "slottsstaden",
+                "last_accept": 560,
+                "$last_seen": "2023-10-10T10:46:02.116Z"
               }
             ]
           },
