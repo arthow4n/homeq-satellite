@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-10-10T05:42:12.117Z",
+  "lastUpdatedAt": "2023-10-10T06:46:05.545Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -37589,6 +37589,20 @@
                 "$districtName": "nylöse",
                 "last_accept": 1319,
                 "$last_seen": "2023-05-26T06:45:31.480Z"
+              },
+              {
+                "id": 100020,
+                "rent": 6263,
+                "area": 36,
+                "street": "artillerigatan",
+                "street_number": "14c",
+                "city": "göteborg",
+                "zip": "41514",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "nylöse",
+                "last_accept": 1233,
+                "$last_seen": "2023-10-10T05:42:12.117Z"
               }
             ],
             "skaragatan": [
@@ -60605,20 +60619,6 @@
                 "$last_seen": "2023-06-19T11:44:24.858Z"
               },
               {
-                "id": 91784,
-                "rent": 5031,
-                "area": 30,
-                "street": "lagerbladsgatan",
-                "street_number": "6",
-                "city": "göteborg",
-                "zip": "42440",
-                "municipality": "göteborg",
-                "county": "västra götalands län",
-                "$districtName": "gunnared",
-                "last_accept": 1325,
-                "$last_seen": "2023-09-28T10:43:47.758Z"
-              },
-              {
                 "id": 92635,
                 "rent": 6399,
                 "area": 41,
@@ -64205,20 +64205,6 @@
                 "$districtName": "västra frölunda",
                 "last_accept": 1018,
                 "$last_seen": "2023-09-18T07:42:50.535Z"
-              },
-              {
-                "id": 99383,
-                "rent": 11482,
-                "area": 80,
-                "street": "munspelsgatan",
-                "street_number": "8",
-                "city": "västra frölunda",
-                "zip": "42151",
-                "municipality": "göteborg",
-                "county": "västra götalands län",
-                "$districtName": "västra frölunda",
-                "last_accept": 986,
-                "$last_seen": "2023-10-09T07:40:33.790Z"
               }
             ],
             "speldosegatan": [
@@ -70413,6 +70399,20 @@
                 "$districtName": "slottsstaden",
                 "last_accept": 1039,
                 "$last_seen": "2023-09-04T11:42:00.220Z"
+              },
+              {
+                "id": 96491,
+                "rent": 12626,
+                "area": 93,
+                "street": "sergels väg",
+                "street_number": "13c",
+                "city": "malmö",
+                "zip": "21757",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "slottsstaden",
+                "last_accept": 1317,
+                "$last_seen": "2023-10-10T05:42:12.117Z"
               }
             ],
             "marietorps alle": [
