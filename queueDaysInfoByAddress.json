@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-10-10T08:44:30.313Z",
+  "lastUpdatedAt": "2023-10-10T09:40:58.531Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -14767,6 +14767,20 @@
                 "$districtName": "brämaregården",
                 "last_accept": 1305,
                 "$last_seen": "2023-09-14T06:48:24.503Z"
+              },
+              {
+                "id": 100128,
+                "rent": 9262,
+                "area": 54,
+                "street": "gustaf dalénsgatan",
+                "street_number": "24",
+                "city": "göteborg",
+                "zip": "41724",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brämaregården",
+                "last_accept": 919,
+                "$last_seen": "2023-10-10T08:44:30.313Z"
               }
             ],
             "lantmätaregatan": [
@@ -69831,6 +69845,20 @@
                 "$districtName": "hyllie",
                 "last_accept": 254,
                 "$last_seen": "2023-09-15T05:44:16.741Z"
+              },
+              {
+                "id": 99212,
+                "rent": 6320,
+                "area": 35,
+                "street": "svansjögatan",
+                "street_number": "53",
+                "city": "malmö",
+                "zip": "21766",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "hyllie",
+                "last_accept": 181,
+                "$last_seen": "2023-10-10T08:44:30.313Z"
               }
             ]
           },
