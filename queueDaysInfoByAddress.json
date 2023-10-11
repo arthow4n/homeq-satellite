@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-10-11T06:46:34.133Z",
+  "lastUpdatedAt": "2023-10-11T07:41:06.269Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -827,6 +827,20 @@
                 "$districtName": "fässberg",
                 "last_accept": 1262,
                 "$last_seen": "2023-08-25T10:44:56.101Z"
+              },
+              {
+                "id": 100097,
+                "rent": 11105,
+                "area": 80,
+                "street": "marielundsgatan",
+                "street_number": "1",
+                "city": "mölndal",
+                "zip": "43167",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 1423,
+                "$last_seen": "2023-10-11T06:46:34.133Z"
               }
             ],
             "gustavsbergsgatan": [
@@ -12535,6 +12549,20 @@
                 "$districtName": "högsbo",
                 "last_accept": 937,
                 "$last_seen": "2023-09-22T06:44:59.014Z"
+              },
+              {
+                "id": 98522,
+                "rent": 10758,
+                "area": 83,
+                "street": "pennygången",
+                "street_number": "13",
+                "city": "göteborg",
+                "zip": "41482",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 1511,
+                "$last_seen": "2023-10-11T06:46:34.133Z"
               },
               {
                 "id": 100015,
@@ -62331,6 +62359,20 @@
                 "$districtName": "brunnsbo",
                 "last_accept": 611,
                 "$last_seen": "2023-09-28T15:39:59.463Z"
+              },
+              {
+                "id": 99657,
+                "rent": 4679,
+                "area": 31,
+                "street": "prologgatan",
+                "street_number": "10",
+                "city": "hisings backa",
+                "zip": "42241",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brunnsbo",
+                "last_accept": 1338,
+                "$last_seen": "2023-10-11T06:46:34.133Z"
               }
             ],
             "sångspelsgatan": [
@@ -70653,6 +70695,20 @@
                 "$last_seen": "2023-07-19T12:57:55.615Z"
               },
               {
+                "id": 95797,
+                "rent": 12414,
+                "area": 91.7,
+                "street": "sergels väg",
+                "street_number": "13a",
+                "city": "malmö",
+                "zip": "21757",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "slottsstaden",
+                "last_accept": 1120,
+                "$last_seen": "2023-10-11T06:46:34.133Z"
+              },
+              {
                 "id": 95804,
                 "rent": 10485,
                 "area": 68.89,
@@ -75506,20 +75562,6 @@
           },
           "kista": {
             "almbygatan": [
-              {
-                "id": 100340,
-                "rent": 5812,
-                "area": 22,
-                "street": "almbygatan",
-                "street_number": "14",
-                "city": "spånga",
-                "zip": "16376",
-                "municipality": "stockholm",
-                "county": "stockholms län",
-                "$districtName": "kista",
-                "last_accept": 0,
-                "$last_seen": "2023-10-06T08:44:45.855Z"
-              },
               {
                 "id": 100363,
                 "rent": 7266,
