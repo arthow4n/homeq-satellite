@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-10-11T07:41:06.269Z",
+  "lastUpdatedAt": "2023-10-11T08:44:47.576Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -6859,6 +6859,20 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1253,
                 "$last_seen": "2023-10-10T07:40:44.464Z"
+              },
+              {
+                "id": 99263,
+                "rent": 10096,
+                "area": 55,
+                "street": "nordgårdsgatan",
+                "street_number": "10",
+                "city": "göteborg",
+                "zip": "41265",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1254,
+                "$last_seen": "2023-10-11T07:41:06.269Z"
               }
             ],
             "norra krokslättsgatan": [
@@ -24539,6 +24553,20 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1693,
                 "$last_seen": "2023-08-29T13:00:15.977Z"
+              },
+              {
+                "id": 99957,
+                "rent": 15028,
+                "area": 113,
+                "street": "mäster johansgatan",
+                "street_number": "8",
+                "city": "göteborg",
+                "zip": "41662",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1737,
+                "$last_seen": "2023-10-11T07:41:06.269Z"
               }
             ],
             "sankt pauligatan": [
@@ -37739,6 +37767,20 @@
                 "$districtName": "nylöse",
                 "last_accept": 1172,
                 "$last_seen": "2023-07-19T11:37:51.466Z"
+              },
+              {
+                "id": 99078,
+                "rent": 9659,
+                "area": 53,
+                "street": "gamlestadsvägen",
+                "street_number": "10 d",
+                "city": "göteborg",
+                "zip": "41502",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "nylöse",
+                "last_accept": 1615,
+                "$last_seen": "2023-10-11T07:41:06.269Z"
               }
             ],
             "ryttaregatan": [
@@ -64727,6 +64769,20 @@
                 "$districtName": "västra frölunda",
                 "last_accept": 657,
                 "$last_seen": "2023-08-10T13:50:31.879Z"
+              },
+              {
+                "id": 100797,
+                "rent": 9896,
+                "area": 77,
+                "street": "tamburingatan",
+                "street_number": "5",
+                "city": "västra frölunda",
+                "zip": "42151",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "västra frölunda",
+                "last_accept": 1497,
+                "$last_seen": "2023-10-11T07:41:06.269Z"
               }
             ],
             "marconigatan": [
@@ -66435,6 +66491,20 @@
                 "$districtName": "malmö sankt petri",
                 "last_accept": 201,
                 "$last_seen": "2023-08-07T12:59:15.290Z"
+              },
+              {
+                "id": 96211,
+                "rent": 10770,
+                "area": 60,
+                "street": "lilla varvsgatan",
+                "street_number": "24",
+                "city": "malmö",
+                "zip": "21175",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "malmö sankt petri",
+                "last_accept": 815,
+                "$last_seen": "2023-10-11T06:46:34.133Z"
               }
             ],
             "stora trädgårdsgatan": [
@@ -68383,6 +68453,20 @@
                 "$districtName": "kirseberg",
                 "last_accept": 460,
                 "$last_seen": "2023-09-20T10:46:29.145Z"
+              },
+              {
+                "id": 100011,
+                "rent": 5941,
+                "area": 36,
+                "street": "högamöllegatan",
+                "street_number": "8b",
+                "city": "malmö",
+                "zip": "21219",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "kirseberg",
+                "last_accept": 437,
+                "$last_seen": "2023-10-11T07:41:06.269Z"
               }
             ],
             "floragatan": [
@@ -70437,6 +70521,20 @@
                 "$districtName": "västra skrävlinge",
                 "last_accept": 0,
                 "$last_seen": "2023-09-15T13:43:10.944Z"
+              },
+              {
+                "id": 99917,
+                "rent": 7368,
+                "area": 65,
+                "street": "ramels väg",
+                "street_number": "25",
+                "city": "malmö",
+                "zip": "21368",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "västra skrävlinge",
+                "last_accept": 13,
+                "$last_seen": "2023-10-11T07:41:06.269Z"
               }
             ]
           },
