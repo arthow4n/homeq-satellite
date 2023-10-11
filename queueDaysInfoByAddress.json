@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-10-11T13:00:01.100Z",
+  "lastUpdatedAt": "2023-10-11T13:43:51.587Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -61463,6 +61463,20 @@
                 "$districtName": "haga",
                 "last_accept": 1746,
                 "$last_seen": "2023-09-19T13:00:52.920Z"
+              },
+              {
+                "id": 99284,
+                "rent": 5324,
+                "area": 36,
+                "street": "nilssonsberg",
+                "street_number": "35",
+                "city": "göteborg",
+                "zip": "41143",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "haga",
+                "last_accept": 1768,
+                "$last_seen": "2023-10-11T13:00:01.100Z"
               }
             ]
           }
@@ -75899,6 +75913,20 @@
                 "$districtName": "österhaninge",
                 "last_accept": 5,
                 "$last_seen": "2023-10-10T07:40:44.464Z"
+              },
+              {
+                "id": 100945,
+                "rent": 8536,
+                "area": 34.7,
+                "street": "vardövägen",
+                "street_number": "46",
+                "city": "stockholm",
+                "zip": "13657",
+                "municipality": "haninge",
+                "county": "stockholms län",
+                "$districtName": "österhaninge",
+                "last_accept": 4,
+                "$last_seen": "2023-10-11T13:00:01.100Z"
               }
             ]
           }
