@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-10-11T13:43:51.587Z",
+  "lastUpdatedAt": "2023-10-11T14:45:27.426Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -23095,6 +23095,20 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1674,
                 "$last_seen": "2023-09-19T07:41:36.343Z"
+              },
+              {
+                "id": 100750,
+                "rent": 9469,
+                "area": 63,
+                "street": "redbergsvägen",
+                "street_number": "32",
+                "city": "göteborg",
+                "zip": "41665",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1586,
+                "$last_seen": "2023-10-11T13:43:51.587Z"
               }
             ],
             "kungälvsgatan": [
@@ -24935,6 +24949,20 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1700,
                 "$last_seen": "2023-09-07T07:43:23.617Z"
+              },
+              {
+                "id": 98600,
+                "rent": 8997,
+                "area": 58,
+                "street": "liedstrandsgatan",
+                "street_number": "8",
+                "city": "göteborg",
+                "zip": "41658",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1731,
+                "$last_seen": "2023-10-11T13:43:51.587Z"
               }
             ],
             "övre olskroksgatan": [
@@ -35381,6 +35409,20 @@
                 "$districtName": "bergsjön",
                 "last_accept": 1057,
                 "$last_seen": "2023-10-09T13:44:38.958Z"
+              },
+              {
+                "id": 98688,
+                "rent": 8242,
+                "area": 56,
+                "street": "kosmosgatan",
+                "street_number": "3",
+                "city": "göteborg",
+                "zip": "41562",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bergsjön",
+                "last_accept": 514,
+                "$last_seen": "2023-10-11T13:43:51.587Z"
               }
             ],
             "atmosfärgatan": [
