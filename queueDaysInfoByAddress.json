@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-10-11T08:44:47.576Z",
+  "lastUpdatedAt": "2023-10-11T09:40:43.116Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -827,6 +827,20 @@
                 "$districtName": "fässberg",
                 "last_accept": 1262,
                 "$last_seen": "2023-08-25T10:44:56.101Z"
+              },
+              {
+                "id": 100034,
+                "rent": 11105,
+                "area": 80,
+                "street": "marielundsgatan",
+                "street_number": "21",
+                "city": "mölndal",
+                "zip": "43167",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 1532,
+                "$last_seen": "2023-10-11T08:44:47.576Z"
               },
               {
                 "id": 100097,
@@ -35271,20 +35285,6 @@
                 "$last_seen": "2023-09-12T09:44:03.302Z"
               },
               {
-                "id": 98538,
-                "rent": 11393,
-                "area": 90,
-                "street": "kosmosgatan",
-                "street_number": "10",
-                "city": "göteborg",
-                "zip": "41562",
-                "municipality": "göteborg",
-                "county": "västra götalands län",
-                "$districtName": "bergsjön",
-                "last_accept": 380,
-                "$last_seen": "2023-10-10T06:46:05.545Z"
-              },
-              {
                 "id": 98539,
                 "rent": 7431,
                 "area": 46,
@@ -63235,6 +63235,20 @@
                 "$districtName": "tynnered",
                 "last_accept": 1203,
                 "$last_seen": "2023-09-05T11:41:52.387Z"
+              },
+              {
+                "id": 96498,
+                "rent": 9807,
+                "area": 58,
+                "street": "smaragdgatan",
+                "street_number": "10 b",
+                "city": "västra frölunda",
+                "zip": "42149",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tynnered",
+                "last_accept": 747,
+                "$last_seen": "2023-10-11T08:44:47.576Z"
               },
               {
                 "id": 97348,
