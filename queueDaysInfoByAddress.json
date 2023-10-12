@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-10-12T13:01:03.743Z",
+  "lastUpdatedAt": "2023-10-12T13:46:59.641Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -31495,6 +31495,20 @@
                 "$districtName": "askim",
                 "last_accept": 720,
                 "$last_seen": "2023-10-12T09:41:06.453Z"
+              },
+              {
+                "id": 99959,
+                "rent": 9510,
+                "area": 65,
+                "street": "pilegården",
+                "street_number": "8 b",
+                "city": "göteborg",
+                "zip": "43635",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 697,
+                "$last_seen": "2023-10-12T13:01:03.743Z"
               },
               {
                 "id": 99961,
@@ -63195,6 +63209,20 @@
                 "$districtName": "askim",
                 "last_accept": 329,
                 "$last_seen": "2023-10-06T09:41:05.511Z"
+              },
+              {
+                "id": 99945,
+                "rent": 9790,
+                "area": 51,
+                "street": "sisjöbäckens väg",
+                "street_number": "4",
+                "city": "askim",
+                "zip": "43638",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 386,
+                "$last_seen": "2023-10-12T13:01:03.743Z"
               }
             ],
             "kobbegården": [
@@ -66727,6 +66755,20 @@
                 "$districtName": "malmö sankt petri",
                 "last_accept": 0,
                 "$last_seen": "2023-09-07T08:46:31.798Z"
+              },
+              {
+                "id": 99265,
+                "rent": 17563,
+                "area": 125,
+                "street": "gustav adolfs torg",
+                "street_number": "8a",
+                "city": "malmö",
+                "zip": "21139",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "malmö sankt petri",
+                "last_accept": 0,
+                "$last_seen": "2023-10-12T13:01:03.743Z"
               }
             ],
             "lilla varvsgatan": [
@@ -72671,6 +72713,20 @@
                 "$districtName": "bunkeflo",
                 "last_accept": 0,
                 "$last_seen": "2023-09-25T07:40:29.569Z"
+              },
+              {
+                "id": 97309,
+                "rent": 10384,
+                "area": 70,
+                "street": "sadelmakarebyn",
+                "street_number": "3d",
+                "city": "bunkeflostrand",
+                "zip": "21840",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "bunkeflo",
+                "last_accept": 555,
+                "$last_seen": "2023-10-12T13:01:03.743Z"
               }
             ],
             "skomakarebyn": [
