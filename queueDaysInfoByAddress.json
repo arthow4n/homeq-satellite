@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-10-12T10:45:28.842Z",
+  "lastUpdatedAt": "2023-10-12T11:40:38.855Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -13097,6 +13097,20 @@
                 "$districtName": "högsbo",
                 "last_accept": 1625,
                 "$last_seen": "2023-09-26T11:40:19.723Z"
+              },
+              {
+                "id": 100104,
+                "rent": 8955,
+                "area": 69,
+                "street": "skäpplandsgatan",
+                "street_number": "1",
+                "city": "göteborg",
+                "zip": "41478",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 1694,
+                "$last_seen": "2023-10-12T10:45:28.842Z"
               }
             ],
             "marklandsgatan": [
