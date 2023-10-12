@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-10-12T09:41:06.453Z",
+  "lastUpdatedAt": "2023-10-12T10:45:28.842Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -31441,6 +31441,20 @@
                 "$last_seen": "2023-09-29T06:43:54.724Z"
               },
               {
+                "id": 99958,
+                "rent": 9680,
+                "area": 64,
+                "street": "pilegården",
+                "street_number": "5g",
+                "city": "göteborg",
+                "zip": "43535",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 720,
+                "$last_seen": "2023-10-12T09:41:06.453Z"
+              },
+              {
                 "id": 99961,
                 "rent": 8182,
                 "area": 66,
@@ -38617,6 +38631,20 @@
                 "$districtName": "härlanda",
                 "last_accept": 1512,
                 "$last_seen": "2023-10-02T08:42:43.561Z"
+              },
+              {
+                "id": 100009,
+                "rent": 4460,
+                "area": 32,
+                "street": "björcksgatan",
+                "street_number": "45c",
+                "city": "göteborg",
+                "zip": "41652",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "härlanda",
+                "last_accept": 1550,
+                "$last_seen": "2023-10-12T09:41:06.453Z"
               }
             ],
             "solrosgatan": [
