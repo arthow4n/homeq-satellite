@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-10-12T11:40:38.855Z",
+  "lastUpdatedAt": "2023-10-12T13:01:03.743Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -3313,6 +3313,20 @@
                 "$districtName": "fässberg",
                 "last_accept": 1236,
                 "$last_seen": "2023-10-12T08:44:55.056Z"
+              },
+              {
+                "id": 99283,
+                "rent": 10104,
+                "area": 55,
+                "street": "åby allé",
+                "street_number": "55",
+                "city": "göteborg",
+                "zip": "43145",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 1054,
+                "$last_seen": "2023-10-12T11:40:38.855Z"
               }
             ],
             "åbyvägen": [
@@ -6283,6 +6297,20 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1561,
                 "$last_seen": "2023-10-05T07:40:36.933Z"
+              },
+              {
+                "id": 99325,
+                "rent": 10096,
+                "area": 55,
+                "street": "ebbe lieberathsgatan",
+                "street_number": "2c",
+                "city": "göteborg",
+                "zip": "41285",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1261,
+                "$last_seen": "2023-10-12T11:40:38.855Z"
               },
               {
                 "id": 99567,
@@ -32551,6 +32579,20 @@
                 "$districtName": "askim",
                 "last_accept": 384,
                 "$last_seen": "2023-10-10T07:40:44.464Z"
+              },
+              {
+                "id": 99949,
+                "rent": 10611,
+                "area": 54,
+                "street": "kobbeslätten",
+                "street_number": "4",
+                "city": "göteborg",
+                "zip": "43637",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 386,
+                "$last_seen": "2023-10-12T11:40:38.855Z"
               }
             ],
             "kobbegården": [
@@ -37679,6 +37721,20 @@
                 "$districtName": "nylöse",
                 "last_accept": 366,
                 "$last_seen": "2023-09-21T06:45:49.436Z"
+              },
+              {
+                "id": 99906,
+                "rent": 13118,
+                "area": 86,
+                "street": "sysslomansgatan",
+                "street_number": "44",
+                "city": "göteborg",
+                "zip": "40422",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "nylöse",
+                "last_accept": 250,
+                "$last_seen": "2023-10-12T11:40:38.855Z"
               }
             ],
             "hinderbanan": [
