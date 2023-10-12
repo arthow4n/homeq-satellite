@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-10-12T13:46:59.641Z",
+  "lastUpdatedAt": "2023-10-12T14:44:45.881Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -21189,6 +21189,20 @@
                 "$districtName": "lundby",
                 "last_accept": 1408,
                 "$last_seen": "2023-09-11T06:48:28.419Z"
+              },
+              {
+                "id": 100871,
+                "rent": 8753,
+                "area": 60,
+                "street": "danagatan",
+                "street_number": "18",
+                "city": "göteborg",
+                "zip": "41876",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1521,
+                "$last_seen": "2023-10-12T13:46:59.641Z"
               }
             ],
             "trekantsgatan": [
@@ -63223,6 +63237,20 @@
                 "$districtName": "askim",
                 "last_accept": 386,
                 "$last_seen": "2023-10-12T13:01:03.743Z"
+              },
+              {
+                "id": 99946,
+                "rent": 10207,
+                "area": 51,
+                "street": "sisjöbäckens väg",
+                "street_number": "24",
+                "city": "askim",
+                "zip": "43638",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 0,
+                "$last_seen": "2023-10-12T13:46:59.641Z"
               }
             ],
             "kobbegården": [
@@ -69123,6 +69151,20 @@
                 "$districtName": "kirseberg",
                 "last_accept": 0,
                 "$last_seen": "2023-05-09T06:46:44.442Z"
+              },
+              {
+                "id": 100122,
+                "rent": 5410,
+                "area": 36,
+                "street": "dalhemsgatan",
+                "street_number": "4a",
+                "city": "malmö",
+                "zip": "21224",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "kirseberg",
+                "last_accept": 0,
+                "$last_seen": "2023-10-12T13:46:59.641Z"
               }
             ],
             "lundav": [
@@ -76079,6 +76121,20 @@
                 "$districtName": "kista",
                 "last_accept": 729,
                 "$last_seen": "2023-10-06T07:41:16.724Z"
+              },
+              {
+                "id": 100366,
+                "rent": 6236,
+                "area": 22,
+                "street": "almbygatan",
+                "street_number": "14",
+                "city": "spånga",
+                "zip": "16376",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "kista",
+                "last_accept": 94,
+                "$last_seen": "2023-10-12T13:46:59.641Z"
               }
             ]
           }
