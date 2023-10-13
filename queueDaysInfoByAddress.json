@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-10-13T08:45:17.989Z",
+  "lastUpdatedAt": "2023-10-13T09:40:57.277Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -9285,6 +9285,20 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1620,
                 "$last_seen": "2023-09-25T06:47:32.477Z"
+              },
+              {
+                "id": 100140,
+                "rent": 9421,
+                "area": 45,
+                "street": "fridkullagatan",
+                "street_number": "24c",
+                "city": "göteborg",
+                "zip": "41262",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1156,
+                "$last_seen": "2023-10-13T08:45:17.989Z"
               }
             ],
             "örnehufvudsgatan": [
@@ -69781,6 +69795,22 @@
                 "$districtName": "malmö sankt pauli",
                 "last_accept": 0,
                 "$last_seen": "2023-08-24T08:45:10.935Z"
+              }
+            ],
+            "ehrensvärdsgatan": [
+              {
+                "id": 94982,
+                "rent": 9469,
+                "area": 68,
+                "street": "ehrensvärdsgatan",
+                "street_number": "26",
+                "city": "malmö",
+                "zip": "21213",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "malmö sankt pauli",
+                "last_accept": 1200,
+                "$last_seen": "2023-10-13T08:45:17.989Z"
               }
             ],
             "linjeettgatan": [
