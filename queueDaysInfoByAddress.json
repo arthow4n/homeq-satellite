@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-10-13T10:44:57.702Z",
+  "lastUpdatedAt": "2023-10-13T11:40:41.542Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -13845,6 +13845,20 @@
                 "$districtName": "högsbo",
                 "last_accept": 1502,
                 "$last_seen": "2023-09-18T06:47:22.136Z"
+              },
+              {
+                "id": 99323,
+                "rent": 9388,
+                "area": 60,
+                "street": "högsbogatan",
+                "street_number": "21",
+                "city": "göteborg",
+                "zip": "41475",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 1459,
+                "$last_seen": "2023-10-13T10:44:57.702Z"
               }
             ],
             "lilla tunnlandsgatan": [
@@ -14935,6 +14949,20 @@
                 "$districtName": "brämaregården",
                 "last_accept": 1305,
                 "$last_seen": "2023-09-14T06:48:24.503Z"
+              },
+              {
+                "id": 97301,
+                "rent": 9710,
+                "area": 54,
+                "street": "gustaf dalénsgatan",
+                "street_number": "24",
+                "city": "göteborg",
+                "zip": "41724",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brämaregården",
+                "last_accept": 1121,
+                "$last_seen": "2023-10-13T10:44:57.702Z"
               },
               {
                 "id": 100128,
@@ -37819,6 +37847,20 @@
                 "$districtName": "nylöse",
                 "last_accept": 250,
                 "$last_seen": "2023-10-12T11:40:38.855Z"
+              },
+              {
+                "id": 100024,
+                "rent": 9734,
+                "area": 64.8,
+                "street": "sysslomansgatan",
+                "street_number": "39",
+                "city": "göteborg",
+                "zip": "41574",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "nylöse",
+                "last_accept": 75,
+                "$last_seen": "2023-10-13T10:44:57.702Z"
               }
             ],
             "hinderbanan": [
@@ -56779,6 +56821,20 @@
                 "$districtName": "biskopsgården",
                 "last_accept": 657,
                 "$last_seen": "2023-10-04T11:40:37.345Z"
+              },
+              {
+                "id": 98228,
+                "rent": 7910,
+                "area": 79,
+                "street": "temperaturgatan",
+                "street_number": "55",
+                "city": "göteborg",
+                "zip": "41841",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "biskopsgården",
+                "last_accept": 1117,
+                "$last_seen": "2023-10-13T10:44:57.702Z"
               }
             ],
             "solstrålegatan": [
@@ -68957,6 +69013,20 @@
                 "$districtName": "kirseberg",
                 "last_accept": 437,
                 "$last_seen": "2023-10-11T07:41:06.269Z"
+              },
+              {
+                "id": 101031,
+                "rent": 5929,
+                "area": 36,
+                "street": "högamöllegatan",
+                "street_number": "8b",
+                "city": "malmö",
+                "zip": "21219",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "kirseberg",
+                "last_accept": 0,
+                "$last_seen": "2023-10-13T10:44:57.702Z"
               }
             ],
             "floragatan": [
@@ -71261,6 +71331,20 @@
                 "$districtName": "malmö sankt johannes",
                 "last_accept": 968,
                 "$last_seen": "2023-09-29T08:42:21.569Z"
+              },
+              {
+                "id": 99724,
+                "rent": 4086,
+                "area": 26,
+                "street": "möllevångsgatan",
+                "street_number": "34",
+                "city": "malmö",
+                "zip": "21422",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "malmö sankt johannes",
+                "last_accept": 1110,
+                "$last_seen": "2023-10-13T10:44:57.702Z"
               }
             ]
           },
@@ -74067,6 +74151,20 @@
                 "$districtName": "vantör",
                 "last_accept": 1539,
                 "$last_seen": "2023-09-28T09:39:29.711Z"
+              },
+              {
+                "id": 99897,
+                "rent": 4668,
+                "area": 26.6,
+                "street": "glanshammarsgatan",
+                "street_number": "43",
+                "city": "bandhagen",
+                "zip": "12471",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 1509,
+                "$last_seen": "2023-10-13T10:44:57.702Z"
               }
             ],
             "bäverbäcksgränd": [
