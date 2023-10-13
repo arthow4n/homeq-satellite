@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-10-13T11:40:41.542Z",
+  "lastUpdatedAt": "2023-10-13T12:59:30.709Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -49947,6 +49947,20 @@
                 "$districtName": "göteborgs vasa",
                 "last_accept": 1489,
                 "$last_seen": "2023-09-15T13:00:29.897Z"
+              },
+              {
+                "id": 100710,
+                "rent": 12500,
+                "area": 78,
+                "street": "karl gustavsgatan",
+                "street_number": "63",
+                "city": "göteborg",
+                "zip": "41131",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs vasa",
+                "last_accept": 1739,
+                "$last_seen": "2023-10-13T11:40:41.542Z"
               }
             ],
             "mölndalsvägen": [
@@ -67231,6 +67245,20 @@
                 "$districtName": "malmö sankt petri",
                 "last_accept": 153,
                 "$last_seen": "2023-09-15T11:42:49.285Z"
+              },
+              {
+                "id": 100962,
+                "rent": 4816,
+                "area": 31,
+                "street": "kalendegatan",
+                "street_number": "16",
+                "city": "malmö",
+                "zip": "21135",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "malmö sankt petri",
+                "last_accept": 773,
+                "$last_seen": "2023-10-13T11:40:41.542Z"
               }
             ],
             "dagvattengatan": [
@@ -75181,6 +75209,20 @@
                 "$districtName": "hässelby",
                 "last_accept": 0,
                 "$last_seen": "2023-10-04T05:42:50.132Z"
+              },
+              {
+                "id": 100447,
+                "rent": 9960,
+                "area": 40,
+                "street": "lindblomsgränd",
+                "street_number": "4",
+                "city": "hässelby",
+                "zip": "16577",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "hässelby",
+                "last_accept": 453,
+                "$last_seen": "2023-10-13T11:40:41.542Z"
               }
             ],
             "enspännargatan": [
