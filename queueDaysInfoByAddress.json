@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-10-13T09:40:57.277Z",
+  "lastUpdatedAt": "2023-10-13T10:44:57.702Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -26195,6 +26195,20 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1681,
                 "$last_seen": "2023-08-16T08:45:57.925Z"
+              },
+              {
+                "id": 100599,
+                "rent": 7200,
+                "area": 58,
+                "street": "norra gubberogatan",
+                "street_number": "20",
+                "city": "göteborg",
+                "zip": "41663",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1714,
+                "$last_seen": "2023-10-13T09:40:57.277Z"
               }
             ],
             "räntmästaregatan": [
@@ -63443,6 +63457,20 @@
                 "$districtName": "tynnered",
                 "last_accept": 1343,
                 "$last_seen": "2023-10-06T07:41:16.724Z"
+              },
+              {
+                "id": 100111,
+                "rent": 11668,
+                "area": 120,
+                "street": "karneolgatan",
+                "street_number": "35",
+                "city": "västra frölunda",
+                "zip": "42651",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tynnered",
+                "last_accept": 1266,
+                "$last_seen": "2023-10-13T09:40:57.277Z"
               }
             ],
             "smaragdgatan": [
@@ -74977,6 +75005,20 @@
                 "$districtName": "vantör",
                 "last_accept": 1533,
                 "$last_seen": "2023-07-05T11:41:31.733Z"
+              },
+              {
+                "id": 99893,
+                "rent": 5593,
+                "area": 29,
+                "street": "porlabacken",
+                "street_number": "20",
+                "city": "bandhagen",
+                "zip": "12477",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 1608,
+                "$last_seen": "2023-10-13T09:40:57.277Z"
               }
             ],
             "trollesundsvägen": [
