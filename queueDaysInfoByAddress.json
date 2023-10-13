@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-10-13T21:40:20.950Z",
+  "lastUpdatedAt": "2023-10-13T22:43:18.968Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -66625,6 +66625,20 @@
                 "$districtName": "sofielund",
                 "last_accept": 615,
                 "$last_seen": "2023-03-31T07:37:22.434Z"
+              },
+              {
+                "id": 71827,
+                "rent": 6917,
+                "area": 64,
+                "street": "amiralsgatan",
+                "street_number": "70b",
+                "city": "malmö",
+                "zip": "21437",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "sofielund",
+                "last_accept": 607,
+                "$last_seen": "2023-10-13T21:40:20.950Z"
               },
               {
                 "id": 76667,
