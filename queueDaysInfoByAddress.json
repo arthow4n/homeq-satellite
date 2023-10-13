@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-10-13T13:44:03.048Z",
+  "lastUpdatedAt": "2023-10-13T14:43:54.839Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -20559,6 +20559,20 @@
                 "$districtName": "lundby",
                 "last_accept": 1294,
                 "$last_seen": "2023-09-20T06:46:50.505Z"
+              },
+              {
+                "id": 97734,
+                "rent": 8323,
+                "area": 63,
+                "street": "norra säterigatan",
+                "street_number": "24",
+                "city": "göteborg",
+                "zip": "41876",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1569,
+                "$last_seen": "2023-10-13T13:44:03.048Z"
               }
             ],
             "biskopsgatan": [
@@ -53131,6 +53145,20 @@
                 "$districtName": "göteborgs oscar fredrik",
                 "last_accept": 1699,
                 "$last_seen": "2023-09-04T07:42:04.816Z"
+              },
+              {
+                "id": 100530,
+                "rent": 10317,
+                "area": 62,
+                "street": "kryssdäcket",
+                "street_number": "1",
+                "city": "göteborg",
+                "zip": "41327",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs oscar fredrik",
+                "last_accept": 1736,
+                "$last_seen": "2023-10-13T13:44:03.048Z"
               }
             ],
             "övre djupedalsgatan": [
@@ -66559,6 +66587,20 @@
                 "$districtName": "råda",
                 "last_accept": 1358,
                 "$last_seen": "2023-08-29T07:41:21.656Z"
+              },
+              {
+                "id": 99914,
+                "rent": 5989,
+                "area": 41,
+                "street": "badhusgatan",
+                "street_number": "16 b",
+                "city": "göteborg",
+                "zip": "43530",
+                "municipality": "härryda",
+                "county": "västra götalands län",
+                "$districtName": "råda",
+                "last_accept": 1327,
+                "$last_seen": "2023-10-13T13:44:03.048Z"
               }
             ]
           }
