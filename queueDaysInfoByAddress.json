@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-10-13T05:42:58.564Z",
+  "lastUpdatedAt": "2023-10-13T06:46:40.778Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -68243,6 +68243,20 @@
                 "$districtName": "limhamn",
                 "last_accept": 379,
                 "$last_seen": "2023-10-05T10:46:10.867Z"
+              },
+              {
+                "id": 100008,
+                "rent": 9017,
+                "area": 69,
+                "street": "roddaregatan",
+                "street_number": "22b",
+                "city": "malmö",
+                "zip": "21611",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "limhamn",
+                "last_accept": 255,
+                "$last_seen": "2023-10-13T05:42:58.564Z"
               }
             ],
             "hyllie kyrkoväg": [
