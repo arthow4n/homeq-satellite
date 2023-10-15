@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-10-15T14:40:37.194Z",
+  "lastUpdatedAt": "2023-10-15T15:40:40.112Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -67211,6 +67211,20 @@
                 "$districtName": "malmö sankt petri",
                 "last_accept": 0,
                 "$last_seen": "2023-07-28T08:39:54.824Z"
+              },
+              {
+                "id": 98656,
+                "rent": 12616,
+                "area": 85,
+                "street": "gasverksgatan",
+                "street_number": "10",
+                "city": "malmö",
+                "zip": "21129",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "malmö sankt petri",
+                "last_accept": 1335,
+                "$last_seen": "2023-10-15T14:40:37.194Z"
               }
             ],
             "stora nygatan": [
