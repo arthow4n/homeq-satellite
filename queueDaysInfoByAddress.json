@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-10-16T04:44:07.677Z",
+  "lastUpdatedAt": "2023-10-16T05:42:25.624Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -54661,6 +54661,20 @@
                 "$districtName": "masthugget",
                 "last_accept": 1427,
                 "$last_seen": "2023-09-19T10:46:16.789Z"
+              },
+              {
+                "id": 99950,
+                "rent": 10415,
+                "area": 55,
+                "street": "kolumbusgatan",
+                "street_number": "5",
+                "city": "göteborg",
+                "zip": "41465",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "masthugget",
+                "last_accept": 1609,
+                "$last_seen": "2023-10-16T04:44:07.677Z"
               }
             ],
             "stenklevsgatan": [
@@ -66063,6 +66077,20 @@
                 "$districtName": "partille",
                 "last_accept": 713,
                 "$last_seen": "2023-09-25T12:59:50.901Z"
+              },
+              {
+                "id": 99851,
+                "rent": 8457,
+                "area": 57,
+                "street": "stärteredsvägen",
+                "street_number": "31",
+                "city": "jonsered",
+                "zip": "43375",
+                "municipality": "partille",
+                "county": "västra götalands län",
+                "$districtName": "partille",
+                "last_accept": 1124,
+                "$last_seen": "2023-10-16T04:44:07.677Z"
               }
             ],
             "länsmansvägen": [
