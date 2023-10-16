@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-10-16T13:00:30.903Z",
+  "lastUpdatedAt": "2023-10-16T13:43:16.181Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -37085,6 +37085,20 @@
                 "$last_seen": "2023-10-10T13:43:04.647Z"
               },
               {
+                "id": 98689,
+                "rent": 7416,
+                "area": 55,
+                "street": "universumsgatan",
+                "street_number": "22",
+                "city": "göteborg",
+                "zip": "41562",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bergsjön",
+                "last_accept": 1198,
+                "$last_seen": "2023-10-16T13:00:30.903Z"
+              },
+              {
                 "id": 98690,
                 "rent": 7470,
                 "area": 55,
@@ -48161,6 +48175,20 @@
                 "$districtName": "annedal",
                 "last_accept": 1673,
                 "$last_seen": "2023-09-20T07:42:07.040Z"
+              },
+              {
+                "id": 100618,
+                "rent": 10000,
+                "area": 63,
+                "street": "övre husargatan",
+                "street_number": "20",
+                "city": "göteborg",
+                "zip": "41314",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "annedal",
+                "last_accept": 1741,
+                "$last_seen": "2023-10-16T13:00:30.903Z"
               }
             ],
             "carl grimbergsgatan": [
