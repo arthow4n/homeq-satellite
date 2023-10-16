@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-10-16T07:40:32.715Z",
+  "lastUpdatedAt": "2023-10-16T08:45:16.680Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -19781,6 +19781,20 @@
                 "$districtName": "lundby",
                 "last_accept": 1723,
                 "$last_seen": "2023-10-11T11:40:37.243Z"
+              },
+              {
+                "id": 99626,
+                "rent": 11933,
+                "area": 64,
+                "street": "fyrklöversgatan",
+                "street_number": "23",
+                "city": "göteborg",
+                "zip": "41721",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1228,
+                "$last_seen": "2023-10-16T07:40:32.715Z"
               }
             ],
             "arvid lindmansgatan": [
@@ -23391,6 +23405,20 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1771,
                 "$last_seen": "2023-10-06T13:00:22.740Z"
+              },
+              {
+                "id": 99792,
+                "rent": 10076,
+                "area": 72,
+                "street": "kungälvsgatan",
+                "street_number": "4a",
+                "city": "göteborg",
+                "zip": "41669",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1781,
+                "$last_seen": "2023-10-16T07:40:32.715Z"
               }
             ],
             "torkelsgatan": [
@@ -73363,20 +73391,6 @@
                 "$last_seen": "2023-08-29T10:45:25.168Z"
               },
               {
-                "id": 95504,
-                "rent": 7984,
-                "area": 53.6,
-                "street": "skomakarebyn",
-                "street_number": "5p",
-                "city": "bunkeflostrand",
-                "zip": "21841",
-                "municipality": "malmö",
-                "county": "skåne län",
-                "$districtName": "bunkeflo",
-                "last_accept": 0,
-                "$last_seen": "2023-10-05T08:44:58.876Z"
-              },
-              {
                 "id": 96659,
                 "rent": 8274,
                 "area": 53.6,
@@ -73559,6 +73573,20 @@
                 "$districtName": "bunkeflo",
                 "last_accept": 0,
                 "$last_seen": "2023-09-14T07:43:58.436Z"
+              },
+              {
+                "id": 95554,
+                "rent": 8564,
+                "area": 60.6,
+                "street": "smedmästarebyn",
+                "street_number": "2g",
+                "city": "bunkeflostrand",
+                "zip": "21841",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "bunkeflo",
+                "last_accept": 0,
+                "$last_seen": "2023-10-16T07:40:32.715Z"
               }
             ],
             "skräddarebyn": [
