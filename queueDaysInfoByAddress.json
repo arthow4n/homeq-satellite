@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-10-16T08:45:16.680Z",
+  "lastUpdatedAt": "2023-10-16T09:39:57.834Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -41901,6 +41901,20 @@
                 "$districtName": "göteborgs domkyrkodistrikt",
                 "last_accept": 1690,
                 "$last_seen": "2023-08-25T08:44:01.180Z"
+              },
+              {
+                "id": 100563,
+                "rent": 8375,
+                "area": 47,
+                "street": "folkungagatan",
+                "street_number": "10",
+                "city": "göteborg",
+                "zip": "41102",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs domkyrkodistrikt",
+                "last_accept": 1565,
+                "$last_seen": "2023-10-16T08:45:16.680Z"
               }
             ],
             "basargatan": [
@@ -64469,6 +64483,20 @@
                 "$districtName": "tynnered",
                 "last_accept": 1639,
                 "$last_seen": "2023-10-02T09:39:40.891Z"
+              },
+              {
+                "id": 101052,
+                "rent": 8290,
+                "area": 69,
+                "street": "smyckegatan",
+                "street_number": "85",
+                "city": "västra frölunda",
+                "zip": "42651",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tynnered",
+                "last_accept": 0,
+                "$last_seen": "2023-10-16T08:45:16.680Z"
               }
             ],
             "björkhöjdsgatan": [
@@ -65637,6 +65665,20 @@
                 "$districtName": "tynnered",
                 "last_accept": 1702,
                 "$last_seen": "2023-10-04T19:40:27.913Z"
+              },
+              {
+                "id": 100495,
+                "rent": 6927,
+                "area": 74,
+                "street": "lilla grevegården",
+                "street_number": "7",
+                "city": "västra frölunda ",
+                "zip": "42655",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tynnered",
+                "last_accept": 1491,
+                "$last_seen": "2023-10-16T08:45:16.680Z"
               }
             ]
           },
@@ -65895,6 +65937,20 @@
                 "$districtName": "älvsborg",
                 "last_accept": 1022,
                 "$last_seen": "2023-09-19T08:45:31.406Z"
+              },
+              {
+                "id": 100137,
+                "rent": 12110,
+                "area": 77,
+                "street": "tigerstigen",
+                "street_number": "7",
+                "city": "västra frölunda ",
+                "zip": "42672",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "älvsborg",
+                "last_accept": 1151,
+                "$last_seen": "2023-10-16T08:45:16.680Z"
               }
             ]
           }
@@ -70425,6 +70481,20 @@
                 "$districtName": "hyllie",
                 "last_accept": 4,
                 "$last_seen": "2023-09-22T10:44:51.976Z"
+              },
+              {
+                "id": 100007,
+                "rent": 11445,
+                "area": 70,
+                "street": "tors gränd",
+                "street_number": "2",
+                "city": "malmö",
+                "zip": "21534",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "hyllie",
+                "last_accept": 961,
+                "$last_seen": "2023-10-16T08:45:16.680Z"
               }
             ],
             "allétorget": [
@@ -72087,6 +72157,20 @@
                 "$districtName": "limhamn",
                 "last_accept": 77,
                 "$last_seen": "2023-09-19T07:41:36.343Z"
+              },
+              {
+                "id": 99997,
+                "rent": 11402,
+                "area": 68,
+                "street": "blåsebergavägen",
+                "street_number": "16",
+                "city": "limhamn",
+                "zip": "21633",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "limhamn",
+                "last_accept": 462,
+                "$last_seen": "2023-10-16T08:45:16.680Z"
               }
             ],
             "birger jarlsgatan": [
