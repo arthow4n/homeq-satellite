@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-10-17T09:40:26.817Z",
+  "lastUpdatedAt": "2023-10-17T10:45:36.616Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -20343,6 +20343,20 @@
                 "$districtName": "lundby",
                 "last_accept": 1726,
                 "$last_seen": "2023-10-16T11:40:07.218Z"
+              },
+              {
+                "id": 101023,
+                "rent": 6611,
+                "area": 54,
+                "street": "arvid lindmansgatan",
+                "street_number": "10 b",
+                "city": "göteborg",
+                "zip": "41726",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1604,
+                "$last_seen": "2023-10-17T09:40:26.817Z"
               }
             ],
             "estlandsgatan": [
@@ -75783,6 +75797,20 @@
                 "$districtName": "hässelby",
                 "last_accept": 453,
                 "$last_seen": "2023-10-13T11:40:41.542Z"
+              },
+              {
+                "id": 100783,
+                "rent": 16585,
+                "area": 90,
+                "street": "lindblomsgränd",
+                "street_number": "6",
+                "city": "hässelby",
+                "zip": "16577",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "hässelby",
+                "last_accept": 0,
+                "$last_seen": "2023-10-17T09:40:26.817Z"
               }
             ],
             "enspännargatan": [
@@ -76855,6 +76883,20 @@
                 "$districtName": "enskede",
                 "last_accept": 1752,
                 "$last_seen": "2023-07-14T08:45:53.061Z"
+              },
+              {
+                "id": 100819,
+                "rent": 15621,
+                "area": 83.1,
+                "street": "sköntorpsvägen",
+                "street_number": "29 b",
+                "city": "årsta",
+                "zip": "12038",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "enskede",
+                "last_accept": 1511,
+                "$last_seen": "2023-10-17T09:40:26.817Z"
               }
             ]
           }
