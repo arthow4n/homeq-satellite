@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-10-17T10:45:36.616Z",
+  "lastUpdatedAt": "2023-10-17T11:40:19.315Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -38891,6 +38891,20 @@
                 "$districtName": "härlanda",
                 "last_accept": 1640,
                 "$last_seen": "2023-07-25T11:38:04.209Z"
+              },
+              {
+                "id": 100600,
+                "rent": 10778,
+                "area": 80,
+                "street": "ättestigen",
+                "street_number": "6",
+                "city": "göteborg",
+                "zip": "41674",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "härlanda",
+                "last_accept": 1651,
+                "$last_seen": "2023-10-17T10:45:36.616Z"
               }
             ],
             "ahrenbergsgata": [
@@ -68871,6 +68885,20 @@
                 "$districtName": "limhamn",
                 "last_accept": 371,
                 "$last_seen": "2023-08-16T08:45:57.925Z"
+              },
+              {
+                "id": 100735,
+                "rent": 9695,
+                "area": 53.6,
+                "street": "dammsnäcksgränd",
+                "street_number": "10",
+                "city": "malmö",
+                "zip": "21631",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "limhamn",
+                "last_accept": 0,
+                "$last_seen": "2023-10-17T10:45:36.616Z"
               }
             ],
             "roddaregatan": [
@@ -69403,6 +69431,20 @@
                 "$districtName": "kirseberg",
                 "last_accept": 384,
                 "$last_seen": "2023-10-05T07:40:36.933Z"
+              },
+              {
+                "id": 100949,
+                "rent": 11193,
+                "area": 74.4,
+                "street": "lundavägen",
+                "street_number": "35",
+                "city": "malmö",
+                "zip": "21219",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "kirseberg",
+                "last_accept": 0,
+                "$last_seen": "2023-10-17T10:45:36.616Z"
               }
             ],
             "högamöllegatan": [
