@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-10-17T11:40:19.315Z",
+  "lastUpdatedAt": "2023-10-17T13:00:03.646Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -27839,20 +27839,6 @@
                 "$districtName": "björkekärr",
                 "last_accept": 504,
                 "$last_seen": "2023-10-02T06:44:08.544Z"
-              },
-              {
-                "id": 100740,
-                "rent": 9842,
-                "area": 100,
-                "street": "smörslätten",
-                "street_number": "16",
-                "city": "göteborg",
-                "zip": "41677",
-                "municipality": "göteborg",
-                "county": "västra götalands län",
-                "$districtName": "björkekärr",
-                "last_accept": 1568,
-                "$last_seen": "2023-10-10T07:40:44.464Z"
               }
             ],
             "lådspikaregatan": [
@@ -43205,6 +43191,20 @@
                 "$districtName": "örgryte",
                 "last_accept": 1501,
                 "$last_seen": "2023-09-27T09:40:19.378Z"
+              },
+              {
+                "id": 100974,
+                "rent": 7613,
+                "area": 35,
+                "street": "smörgatan",
+                "street_number": "1",
+                "city": "göteborg",
+                "zip": "41278",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1086,
+                "$last_seen": "2023-10-17T11:40:19.315Z"
               }
             ],
             "prästgårdsängen": [
