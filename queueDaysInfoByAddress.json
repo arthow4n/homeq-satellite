@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-10-17T08:44:22.112Z",
+  "lastUpdatedAt": "2023-10-17T09:40:26.817Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -6283,6 +6283,20 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1176,
                 "$last_seen": "2023-09-26T11:40:19.723Z"
+              },
+              {
+                "id": 97264,
+                "rent": 7096,
+                "area": 30,
+                "street": "ebbe lieberathsgatan",
+                "street_number": "20 f",
+                "city": "göteborg",
+                "zip": "41265",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1388,
+                "$last_seen": "2023-10-17T08:44:22.112Z"
               },
               {
                 "id": 97268,
@@ -27811,6 +27825,20 @@
                 "$districtName": "björkekärr",
                 "last_accept": 504,
                 "$last_seen": "2023-10-02T06:44:08.544Z"
+              },
+              {
+                "id": 100740,
+                "rent": 9842,
+                "area": 100,
+                "street": "smörslätten",
+                "street_number": "16",
+                "city": "göteborg",
+                "zip": "41677",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "björkekärr",
+                "last_accept": 1568,
+                "$last_seen": "2023-10-10T07:40:44.464Z"
               }
             ],
             "lådspikaregatan": [
@@ -37973,6 +38001,20 @@
                 "$districtName": "nylöse",
                 "last_accept": 250,
                 "$last_seen": "2023-10-12T11:40:38.855Z"
+              },
+              {
+                "id": 100012,
+                "rent": 9898,
+                "area": 70,
+                "street": "sysslomansgatan",
+                "street_number": "37",
+                "city": "göteborg",
+                "zip": "41574",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "nylöse",
+                "last_accept": 1481,
+                "$last_seen": "2023-10-17T08:44:22.112Z"
               },
               {
                 "id": 100024,
@@ -73275,6 +73317,20 @@
                 "$districtName": "bunkeflo",
                 "last_accept": 17,
                 "$last_seen": "2023-08-30T13:42:45.090Z"
+              },
+              {
+                "id": 85317,
+                "rent": 10594,
+                "area": 70,
+                "street": "sadelmakarebyn",
+                "street_number": "8a",
+                "city": "bunkeflostrand",
+                "zip": "21840",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "bunkeflo",
+                "last_accept": 88,
+                "$last_seen": "2023-10-17T07:39:58.236Z"
               },
               {
                 "id": 85319,
