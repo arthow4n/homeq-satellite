@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-10-17T13:00:03.646Z",
+  "lastUpdatedAt": "2023-10-17T13:42:15.025Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -48723,6 +48723,20 @@
                 "$districtName": "annedal",
                 "last_accept": 1694,
                 "$last_seen": "2023-09-08T05:44:47.317Z"
+              },
+              {
+                "id": 100489,
+                "rent": 5803,
+                "area": 27,
+                "street": "carl grimbergsgatan",
+                "street_number": "25",
+                "city": "göteborg",
+                "zip": "41313",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "annedal",
+                "last_accept": 1654,
+                "$last_seen": "2023-10-17T13:00:03.646Z"
               }
             ],
             "västergatan": [
