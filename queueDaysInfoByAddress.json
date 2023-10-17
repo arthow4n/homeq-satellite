@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-10-17T15:40:42.477Z",
+  "lastUpdatedAt": "2023-10-17T16:47:18.449Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -9427,6 +9427,20 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1724,
                 "$last_seen": "2023-09-27T06:44:56.200Z"
+              },
+              {
+                "id": 100786,
+                "rent": 12500,
+                "area": 108,
+                "street": "örnehufvudsgatan",
+                "street_number": "13",
+                "city": "göteborg",
+                "zip": "41259",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1810,
+                "$last_seen": "2023-10-17T15:40:42.477Z"
               }
             ],
             "viktor rydbergsgatan": [
