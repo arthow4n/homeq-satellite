@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-10-18T10:44:39.690Z",
+  "lastUpdatedAt": "2023-10-18T11:39:54.758Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -4287,6 +4287,34 @@
                 "$districtName": "örgryte",
                 "last_accept": 1421,
                 "$last_seen": "2023-10-03T13:43:05.034Z"
+              },
+              {
+                "id": 98230,
+                "rent": 13315,
+                "area": 77,
+                "street": "smörkärnegatan",
+                "street_number": "25",
+                "city": "göteborg",
+                "zip": "41278",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1534,
+                "$last_seen": "2023-10-18T10:44:39.690Z"
+              },
+              {
+                "id": 98666,
+                "rent": 12799,
+                "area": 74,
+                "street": "smörkärnegatan",
+                "street_number": "29",
+                "city": "göteborg",
+                "zip": "41278",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1641,
+                "$last_seen": "2023-10-18T10:44:39.690Z"
               }
             ]
           }
@@ -41443,6 +41471,20 @@
                 "$districtName": "göteborgs domkyrkodistrikt",
                 "last_accept": 1374,
                 "$last_seen": "2023-10-18T08:44:26.287Z"
+              },
+              {
+                "id": 100056,
+                "rent": 10820,
+                "area": 67,
+                "street": "bangårdsgatan",
+                "street_number": "23",
+                "city": "göteborg",
+                "zip": "41112",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs domkyrkodistrikt",
+                "last_accept": 1661,
+                "$last_seen": "2023-10-18T10:44:39.690Z"
               }
             ],
             "burggreveplatsen": [
@@ -69093,20 +69135,6 @@
                 "$districtName": "limhamn",
                 "last_accept": 0,
                 "$last_seen": "2023-09-15T06:46:58.635Z"
-              },
-              {
-                "id": 98779,
-                "rent": 8567,
-                "area": 40.5,
-                "street": "nätsnäcksgränd",
-                "street_number": "4",
-                "city": "malmö",
-                "zip": "21631",
-                "municipality": "malmö",
-                "county": "skåne län",
-                "$districtName": "limhamn",
-                "last_accept": 49,
-                "$last_seen": "2023-10-16T05:42:25.624Z"
               }
             ],
             "dammsnäcksgränd": [
@@ -77355,6 +77383,20 @@
                 "$districtName": "kista",
                 "last_accept": 304,
                 "$last_seen": "2023-10-17T06:45:15.971Z"
+              },
+              {
+                "id": 101149,
+                "rent": 6459,
+                "area": 24,
+                "street": "almbygatan",
+                "street_number": "14",
+                "city": "spånga",
+                "zip": "16376",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "kista",
+                "last_accept": 596,
+                "$last_seen": "2023-10-18T10:44:39.690Z"
               }
             ]
           }
