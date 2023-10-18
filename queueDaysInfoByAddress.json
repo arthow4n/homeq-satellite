@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-10-18T08:44:26.287Z",
+  "lastUpdatedAt": "2023-10-18T09:40:15.381Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -22821,6 +22821,62 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1087,
                 "$last_seen": "2023-09-28T07:41:03.187Z"
+              },
+              {
+                "id": 101096,
+                "rent": 8953,
+                "area": 35,
+                "street": "kobbarnas väg",
+                "street_number": "6",
+                "city": "göteborg",
+                "zip": "41647",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1414,
+                "$last_seen": "2023-10-18T08:44:26.287Z"
+              },
+              {
+                "id": 101098,
+                "rent": 9067,
+                "area": 35,
+                "street": "kobbarnas väg",
+                "street_number": "6",
+                "city": "göteborg",
+                "zip": "41647",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1107,
+                "$last_seen": "2023-10-18T08:44:26.287Z"
+              },
+              {
+                "id": 102043,
+                "rent": 7800,
+                "area": 28,
+                "street": "kobbarnas väg",
+                "street_number": "4",
+                "city": "göteborg",
+                "zip": "41647",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 0,
+                "$last_seen": "2023-10-18T08:44:26.287Z"
+              },
+              {
+                "id": 102044,
+                "rent": 8700,
+                "area": 35,
+                "street": "kobbarnas väg",
+                "street_number": "4",
+                "city": "göteborg",
+                "zip": "41647",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 0,
+                "$last_seen": "2023-10-18T08:44:26.287Z"
               }
             ],
             "s:t pauligatan": [
@@ -41359,6 +41415,20 @@
                 "$districtName": "göteborgs domkyrkodistrikt",
                 "last_accept": 1597,
                 "$last_seen": "2023-10-18T07:40:07.423Z"
+              },
+              {
+                "id": 100054,
+                "rent": 10194,
+                "area": 58,
+                "street": "bangårdsgatan",
+                "street_number": "19",
+                "city": "göteborg",
+                "zip": "41112",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs domkyrkodistrikt",
+                "last_accept": 1374,
+                "$last_seen": "2023-10-18T08:44:26.287Z"
               }
             ],
             "burggreveplatsen": [
@@ -74005,6 +74075,20 @@
                 "$districtName": "bunkeflo",
                 "last_accept": 80,
                 "$last_seen": "2023-08-29T10:45:25.168Z"
+              },
+              {
+                "id": 95843,
+                "rent": 9171,
+                "area": 59.7,
+                "street": "skomakarebyn",
+                "street_number": "5n",
+                "city": "bunkeflostrand",
+                "zip": "21841",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "bunkeflo",
+                "last_accept": 0,
+                "$last_seen": "2023-10-18T08:44:26.287Z"
               },
               {
                 "id": 96659,
