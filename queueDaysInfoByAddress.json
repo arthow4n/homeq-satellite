@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-10-18T05:41:18.864Z",
+  "lastUpdatedAt": "2023-10-18T06:44:54.099Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -47123,6 +47123,20 @@
                 "$districtName": "västra frölunda",
                 "last_accept": 0,
                 "$last_seen": "2023-06-12T05:44:44.651Z"
+              },
+              {
+                "id": 101002,
+                "rent": 6756,
+                "area": 35,
+                "street": "cymbalgatan",
+                "street_number": "13",
+                "city": "göteborg",
+                "zip": "42151",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "västra frölunda",
+                "last_accept": 318,
+                "$last_seen": "2023-10-18T05:41:18.864Z"
               }
             ],
             "transistorgatan": [
