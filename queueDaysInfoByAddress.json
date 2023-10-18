@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-10-18T13:41:44.729Z",
+  "lastUpdatedAt": "2023-10-18T14:42:50.861Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -63237,6 +63237,20 @@
                 "$districtName": "brunnsbo",
                 "last_accept": 1027,
                 "$last_seen": "2023-09-18T10:46:32.448Z"
+              },
+              {
+                "id": 100148,
+                "rent": 8602,
+                "area": 62,
+                "street": "folkvisegatan",
+                "street_number": "18",
+                "city": "hisings backa",
+                "zip": "42241",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brunnsbo",
+                "last_accept": 1307,
+                "$last_seen": "2023-10-18T13:41:44.729Z"
               }
             ],
             "klassikergatan": [
@@ -65957,6 +65971,20 @@
                 "$districtName": "västra frölunda",
                 "last_accept": 1015,
                 "$last_seen": "2023-09-15T11:42:49.285Z"
+              },
+              {
+                "id": 101629,
+                "rent": 11482,
+                "area": 80,
+                "street": "speldosegatan",
+                "street_number": "4",
+                "city": "västra frölunda",
+                "zip": "42151",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "västra frölunda",
+                "last_accept": 1126,
+                "$last_seen": "2023-10-18T13:41:44.729Z"
               }
             ],
             "tamburingatan": [
