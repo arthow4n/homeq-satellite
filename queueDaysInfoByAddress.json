@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-10-19T07:39:31.521Z",
+  "lastUpdatedAt": "2023-10-19T08:43:27.952Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -6395,6 +6395,20 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1562,
                 "$last_seen": "2023-10-06T10:45:42.790Z"
+              },
+              {
+                "id": 101148,
+                "rent": 7199,
+                "area": 30,
+                "street": "ebbe lieberathsgatan",
+                "street_number": "22 a",
+                "city": "göteborg",
+                "zip": "41265",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1194,
+                "$last_seen": "2023-10-19T07:39:31.521Z"
               }
             ],
             "nordgårdsgatan": [
@@ -35113,6 +35127,20 @@
                 "$districtName": "bergsjön",
                 "last_accept": 1693,
                 "$last_seen": "2023-09-25T10:45:13.700Z"
+              },
+              {
+                "id": 97475,
+                "rent": 3686,
+                "area": 33,
+                "street": "galileis gata",
+                "street_number": "5",
+                "city": "göteborg",
+                "zip": "41554",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bergsjön",
+                "last_accept": 1484,
+                "$last_seen": "2023-10-19T07:39:31.521Z"
               },
               {
                 "id": 98835,
