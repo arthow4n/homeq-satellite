@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-10-19T06:44:27.613Z",
+  "lastUpdatedAt": "2023-10-19T07:39:31.521Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -33719,6 +33719,20 @@
                 "$last_seen": "2023-09-12T07:43:51.016Z"
               },
               {
+                "id": 97765,
+                "rent": 11207,
+                "area": 58,
+                "street": "ugglegården",
+                "street_number": "36",
+                "city": "göteborg",
+                "zip": "43658",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 467,
+                "$last_seen": "2023-10-19T05:41:04.311Z"
+              },
+              {
                 "id": 97767,
                 "rent": 11517,
                 "area": 63,
@@ -35955,6 +35969,20 @@
                 "$districtName": "bergsjön",
                 "last_accept": 1057,
                 "$last_seen": "2023-10-09T13:44:38.958Z"
+              },
+              {
+                "id": 98567,
+                "rent": 8242,
+                "area": 56,
+                "street": "kosmosgatan",
+                "street_number": "2",
+                "city": "göteborg",
+                "zip": "41562",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bergsjön",
+                "last_accept": 622,
+                "$last_seen": "2023-10-19T06:44:27.613Z"
               },
               {
                 "id": 98688,
@@ -57521,20 +57549,6 @@
                 "$districtName": "biskopsgården",
                 "last_accept": 657,
                 "$last_seen": "2023-10-04T11:40:37.345Z"
-              },
-              {
-                "id": 98228,
-                "rent": 7910,
-                "area": 79,
-                "street": "temperaturgatan",
-                "street_number": "55",
-                "city": "göteborg",
-                "zip": "41841",
-                "municipality": "göteborg",
-                "county": "västra götalands län",
-                "$districtName": "biskopsgården",
-                "last_accept": 1117,
-                "$last_seen": "2023-10-13T10:44:57.702Z"
               }
             ],
             "solstrålegatan": [
@@ -73437,20 +73451,6 @@
                 "$districtName": "limhamn",
                 "last_accept": 15,
                 "$last_seen": "2023-09-28T11:39:27.963Z"
-              },
-              {
-                "id": 99718,
-                "rent": 7524,
-                "area": 34,
-                "street": "höbalsgatan",
-                "street_number": "3",
-                "city": "limhamn",
-                "zip": "21633",
-                "municipality": "malmö",
-                "county": "skåne län",
-                "$districtName": "limhamn",
-                "last_accept": 0,
-                "$last_seen": "2023-10-17T06:45:15.971Z"
               },
               {
                 "id": 99719,
