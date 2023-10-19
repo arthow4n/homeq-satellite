@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-10-19T13:45:15.429Z",
+  "lastUpdatedAt": "2023-10-19T14:42:21.951Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -45313,6 +45313,20 @@
                 "$districtName": "örgryte",
                 "last_accept": 1041,
                 "$last_seen": "2023-10-16T11:40:07.218Z"
+              },
+              {
+                "id": 100070,
+                "rent": 12127,
+                "area": 65,
+                "street": "tändsticksgatan",
+                "street_number": "2",
+                "city": "göteborg",
+                "zip": "41263",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1116,
+                "$last_seen": "2023-10-19T13:45:15.429Z"
               }
             ],
             "gräddgatan": [
@@ -75483,6 +75497,20 @@
                 "$districtName": "vantör",
                 "last_accept": 1330,
                 "$last_seen": "2023-09-13T08:47:15.854Z"
+              },
+              {
+                "id": 100461,
+                "rent": 10656,
+                "area": 89,
+                "street": "bäverbäcksgränd",
+                "street_number": "13",
+                "city": "bandhagen",
+                "zip": "12462",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 1332,
+                "$last_seen": "2023-10-19T13:45:15.429Z"
               }
             ],
             "kvarntorpsgränd": [
