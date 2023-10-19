@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-10-19T11:39:15.325Z",
+  "lastUpdatedAt": "2023-10-19T12:59:09.041Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -23573,6 +23573,20 @@
                 "$last_seen": "2023-09-19T07:41:36.343Z"
               },
               {
+                "id": 99774,
+                "rent": 10910,
+                "area": 79,
+                "street": "redbergsvägen",
+                "street_number": "22",
+                "city": "göteborg",
+                "zip": "41665",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1747,
+                "$last_seen": "2023-10-19T11:39:15.325Z"
+              },
+              {
                 "id": 99780,
                 "rent": 8941,
                 "area": 60,
@@ -28020,6 +28034,20 @@
                 "county": "västra götalands län",
                 "$districtName": "björkekärr",
                 "last_accept": 1276,
+                "$last_seen": "2023-09-19T13:44:05.621Z"
+              },
+              {
+                "id": 97887,
+                "rent": 3424,
+                "area": 22,
+                "street": "smörslätten",
+                "street_number": "6",
+                "city": "göteborg",
+                "zip": "41677",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "björkekärr",
+                "last_accept": 830,
                 "$last_seen": "2023-09-19T13:44:05.621Z"
               },
               {
@@ -53531,6 +53559,20 @@
                 "$districtName": "göteborgs oscar fredrik",
                 "last_accept": 1723,
                 "$last_seen": "2023-09-27T10:44:40.058Z"
+              },
+              {
+                "id": 101707,
+                "rent": 11100,
+                "area": 62,
+                "street": "jungmansgatan",
+                "street_number": "31c",
+                "city": "göteborg",
+                "zip": "41315",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs oscar fredrik",
+                "last_accept": 1745,
+                "$last_seen": "2023-10-19T11:39:15.325Z"
               }
             ],
             "gubbe lars väg": [
