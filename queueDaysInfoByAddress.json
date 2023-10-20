@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-10-20T13:40:30.740Z",
+  "lastUpdatedAt": "2023-10-20T14:42:18.109Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -69641,6 +69641,20 @@
                 "$districtName": "limhamn",
                 "last_accept": 0,
                 "$last_seen": "2023-10-17T10:45:36.616Z"
+              },
+              {
+                "id": 100763,
+                "rent": 9844,
+                "area": 54.9,
+                "street": "dammsnäcksgränd",
+                "street_number": "12",
+                "city": "malmö",
+                "zip": "21631",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "limhamn",
+                "last_accept": 0,
+                "$last_seen": "2023-10-20T13:40:30.740Z"
               }
             ],
             "roddaregatan": [
