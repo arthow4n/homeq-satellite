@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-10-20T09:39:37.887Z",
+  "lastUpdatedAt": "2023-10-20T10:43:42.331Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -12899,6 +12899,20 @@
                 "$districtName": "högsbo",
                 "last_accept": 1650,
                 "$last_seen": "2023-10-10T07:40:44.464Z"
+              },
+              {
+                "id": 100028,
+                "rent": 10758,
+                "area": 83,
+                "street": "pennygången",
+                "street_number": "3",
+                "city": "göteborg",
+                "zip": "41482",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 1566,
+                "$last_seen": "2023-10-20T09:39:37.887Z"
               }
             ],
             "skäpplandsgatan": [
@@ -28913,6 +28927,20 @@
                 "$districtName": "kortedala",
                 "last_accept": 1555,
                 "$last_seen": "2023-07-17T10:47:20.616Z"
+              },
+              {
+                "id": 101030,
+                "rent": 7125,
+                "area": 70,
+                "street": "allhelgonagatan",
+                "street_number": "8",
+                "city": "göteborg",
+                "zip": "41545",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "kortedala",
+                "last_accept": 1654,
+                "$last_seen": "2023-10-20T09:39:37.887Z"
               }
             ],
             "julaftonsgatan": [
