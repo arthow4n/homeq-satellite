@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-10-20T05:40:32.433Z",
+  "lastUpdatedAt": "2023-10-20T06:43:52.363Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -7855,6 +7855,20 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1324,
                 "$last_seen": "2023-10-02T13:41:20.342Z"
+              },
+              {
+                "id": 100019,
+                "rent": 10637,
+                "area": 71,
+                "street": "drivhusgatan",
+                "street_number": "6 b",
+                "city": "göteborg",
+                "zip": "41264",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1748,
+                "$last_seen": "2023-10-20T05:40:32.433Z"
               }
             ],
             "mölndalsvägen": [
@@ -26585,6 +26599,20 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1697,
                 "$last_seen": "2023-09-06T11:42:57.207Z"
+              },
+              {
+                "id": 99233,
+                "rent": 5178,
+                "area": 34,
+                "street": "lundgatan",
+                "street_number": "3b",
+                "city": "göteborg",
+                "zip": "41661",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1739,
+                "$last_seen": "2023-10-20T05:40:32.433Z"
               }
             ],
             "norra gubberogatan": [
@@ -35253,6 +35281,20 @@
                 "$districtName": "bergsjön",
                 "last_accept": 1032,
                 "$last_seen": "2023-10-02T13:41:20.342Z"
+              },
+              {
+                "id": 101061,
+                "rent": 9075,
+                "area": 81,
+                "street": "galileis gata",
+                "street_number": "18",
+                "city": "göteborg",
+                "zip": "41554",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bergsjön",
+                "last_accept": 779,
+                "$last_seen": "2023-10-20T05:40:32.433Z"
               }
             ],
             "kosmosgatan": [
@@ -54993,6 +55035,20 @@
                 "$districtName": "masthugget",
                 "last_accept": 1707,
                 "$last_seen": "2023-09-11T10:48:01.585Z"
+              },
+              {
+                "id": 96310,
+                "rent": 6877,
+                "area": 44,
+                "street": "bangatan",
+                "street_number": "24 e",
+                "city": "göteborg",
+                "zip": "41463",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "masthugget",
+                "last_accept": 1730,
+                "$last_seen": "2023-10-20T05:40:32.433Z"
               },
               {
                 "id": 97226,
