@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-10-23T12:58:09.762Z",
+  "lastUpdatedAt": "2023-10-23T13:41:35.945Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -16711,6 +16711,20 @@
                 "$districtName": "brämaregården",
                 "last_accept": 1331,
                 "$last_seen": "2023-09-19T06:46:05.168Z"
+              },
+              {
+                "id": 100784,
+                "rent": 6383,
+                "area": 42,
+                "street": "jägaregatan",
+                "street_number": "9 b",
+                "city": "göteborg",
+                "zip": "41702",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brämaregården",
+                "last_accept": 1500,
+                "$last_seen": "2023-10-23T12:58:09.762Z"
               }
             ],
             "ögontröstgatan": [
@@ -74691,6 +74705,20 @@
                 "$last_seen": "2023-09-25T07:40:29.569Z"
               },
               {
+                "id": 93295,
+                "rent": 7688,
+                "area": 41,
+                "street": "sadelmakarebyn",
+                "street_number": "1a",
+                "city": "bunkeflostrand",
+                "zip": "21840",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "bunkeflo",
+                "last_accept": 20,
+                "$last_seen": "2023-10-23T12:58:09.762Z"
+              },
+              {
                 "id": 97309,
                 "rent": 10384,
                 "area": 70,
@@ -78307,6 +78335,20 @@
                 "$districtName": "kista",
                 "last_accept": 596,
                 "$last_seen": "2023-10-18T10:44:39.690Z"
+              },
+              {
+                "id": 101178,
+                "rent": 6236,
+                "area": 22,
+                "street": "almbygatan",
+                "street_number": "14",
+                "city": "spånga",
+                "zip": "16376",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "kista",
+                "last_accept": 461,
+                "$last_seen": "2023-10-23T12:58:09.762Z"
               }
             ]
           }
