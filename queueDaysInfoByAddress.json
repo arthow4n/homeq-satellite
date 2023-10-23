@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-10-23T14:42:38.077Z",
+  "lastUpdatedAt": "2023-10-23T15:39:02.222Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -34151,6 +34151,20 @@
                 "$districtName": "askim",
                 "last_accept": 530,
                 "$last_seen": "2023-09-18T08:46:21.711Z"
+              },
+              {
+                "id": 102161,
+                "rent": 11711,
+                "area": 58,
+                "street": "ugglegården",
+                "street_number": "36",
+                "city": "göteborg",
+                "zip": "43658",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 0,
+                "$last_seen": "2023-10-23T14:42:38.077Z"
               }
             ],
             "sisjövägen": [
