@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-10-23T04:42:56.524Z",
+  "lastUpdatedAt": "2023-10-23T05:41:20.378Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -32745,6 +32745,20 @@
                 "$districtName": "askim",
                 "last_accept": 1259,
                 "$last_seen": "2023-07-11T07:39:55.383Z"
+              },
+              {
+                "id": 97837,
+                "rent": 9050,
+                "area": 66,
+                "street": "hyltegården",
+                "street_number": "37",
+                "city": "göteborg",
+                "zip": "43634",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 1233,
+                "$last_seen": "2023-10-23T04:42:56.524Z"
               }
             ],
             "kobbeslätten": [
