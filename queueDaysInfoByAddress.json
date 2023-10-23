@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-10-23T10:44:23.612Z",
+  "lastUpdatedAt": "2023-10-23T11:38:53.451Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -9467,6 +9467,20 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1156,
                 "$last_seen": "2023-10-13T08:45:17.989Z"
+              },
+              {
+                "id": 101709,
+                "rent": 11526,
+                "area": 62,
+                "street": "fridkullagatan",
+                "street_number": "20a",
+                "city": "göteborg",
+                "zip": "41262",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1466,
+                "$last_seen": "2023-10-23T10:44:23.612Z"
               }
             ],
             "örnehufvudsgatan": [
@@ -15385,6 +15399,20 @@
                 "$districtName": "brämaregården",
                 "last_accept": 1495,
                 "$last_seen": "2023-09-14T13:48:52.341Z"
+              },
+              {
+                "id": 101114,
+                "rent": 7998,
+                "area": 57,
+                "street": "lantmätaregatan",
+                "street_number": "12 a",
+                "city": "göteborg",
+                "zip": "41706",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brämaregården",
+                "last_accept": 1680,
+                "$last_seen": "2023-10-23T10:44:23.612Z"
               }
             ],
             "långängen": [
@@ -47217,6 +47245,20 @@
                 "$districtName": "örgryte",
                 "last_accept": 1302,
                 "$last_seen": "2023-09-18T06:47:22.136Z"
+              },
+              {
+                "id": 101090,
+                "rent": 11445,
+                "area": 60,
+                "street": "skummjölksgatan",
+                "street_number": "8",
+                "city": "göteborg",
+                "zip": "41278",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1360,
+                "$last_seen": "2023-10-23T10:44:23.612Z"
               }
             ],
             "separatorsgatan": [
@@ -49029,6 +49071,20 @@
                 "$districtName": "annedal",
                 "last_accept": 1673,
                 "$last_seen": "2023-09-20T07:42:07.040Z"
+              },
+              {
+                "id": 100584,
+                "rent": 9279,
+                "area": 61,
+                "street": "övre husargatan",
+                "street_number": "26",
+                "city": "göteborg",
+                "zip": "41314",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "annedal",
+                "last_accept": 1748,
+                "$last_seen": "2023-10-23T10:44:23.612Z"
               },
               {
                 "id": 100618,
@@ -50955,6 +51011,20 @@
                 "$districtName": "göteborgs vasa",
                 "last_accept": 1489,
                 "$last_seen": "2023-09-15T13:00:29.897Z"
+              },
+              {
+                "id": 99912,
+                "rent": 12111,
+                "area": 73,
+                "street": "karl gustavsgatan",
+                "street_number": "37",
+                "city": "göteborg",
+                "zip": "41131",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs vasa",
+                "last_accept": 1354,
+                "$last_seen": "2023-10-23T10:44:23.612Z"
               },
               {
                 "id": 100611,
