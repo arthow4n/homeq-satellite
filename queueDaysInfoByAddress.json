@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-10-23T11:38:53.451Z",
+  "lastUpdatedAt": "2023-10-23T12:58:09.762Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -25677,6 +25677,20 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1731,
                 "$last_seen": "2023-10-11T13:43:51.587Z"
+              },
+              {
+                "id": 100085,
+                "rent": 10009,
+                "area": 64,
+                "street": "liedstrandsgatan",
+                "street_number": "6",
+                "city": "göteborg",
+                "zip": "41658",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1677,
+                "$last_seen": "2023-10-23T11:38:53.451Z"
               }
             ],
             "övre olskroksgatan": [
@@ -51295,6 +51309,20 @@
                 "$districtName": "göteborgs vasa",
                 "last_accept": 1771,
                 "$last_seen": "2023-09-29T05:40:43.566Z"
+              },
+              {
+                "id": 99101,
+                "rent": 20052,
+                "area": 156,
+                "street": "götabergsgatan",
+                "street_number": "26",
+                "city": "göteborg",
+                "zip": "41134",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs vasa",
+                "last_accept": 1748,
+                "$last_seen": "2023-10-23T11:38:53.451Z"
               }
             ],
             "geijersgatan": [
@@ -66861,6 +66889,20 @@
                 "$districtName": "högsbo",
                 "last_accept": 1283,
                 "$last_seen": "2023-07-12T13:07:06.572Z"
+              },
+              {
+                "id": 100950,
+                "rent": 8955,
+                "area": 77,
+                "street": "svängrumsgatan",
+                "street_number": "53",
+                "city": "västra frölunda",
+                "zip": "42171",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 1711,
+                "$last_seen": "2023-10-23T11:38:53.451Z"
               }
             ]
           }
@@ -75241,6 +75283,20 @@
                 "$districtName": "bunkeflo",
                 "last_accept": 0,
                 "$last_seen": "2023-10-04T11:40:37.345Z"
+              },
+              {
+                "id": 93291,
+                "rent": 8701,
+                "area": 60.1,
+                "street": "skräddarebyn",
+                "street_number": "5b",
+                "city": "bunkeflostrand",
+                "zip": "21842",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "bunkeflo",
+                "last_accept": 0,
+                "$last_seen": "2023-10-23T11:38:53.451Z"
               },
               {
                 "id": 93355,
