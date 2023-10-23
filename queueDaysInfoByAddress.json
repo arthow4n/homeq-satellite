@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-10-23T07:39:32.378Z",
+  "lastUpdatedAt": "2023-10-23T08:44:00.874Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -25281,6 +25281,20 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1737,
                 "$last_seen": "2023-10-11T07:41:06.269Z"
+              },
+              {
+                "id": 101850,
+                "rent": 8734,
+                "area": 59,
+                "street": "mäster johansgatan",
+                "street_number": "17",
+                "city": "göteborg",
+                "zip": "41662",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1621,
+                "$last_seen": "2023-10-23T07:39:32.378Z"
               }
             ],
             "sankt pauligatan": [
@@ -28447,6 +28461,20 @@
                 "$districtName": "björkekärr",
                 "last_accept": 1696,
                 "$last_seen": "2023-09-01T06:45:37.163Z"
+              },
+              {
+                "id": 101724,
+                "rent": 9500,
+                "area": 66,
+                "street": "stabbegatan",
+                "street_number": "107",
+                "city": "göteborg",
+                "zip": "41680",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "björkekärr",
+                "last_accept": 1749,
+                "$last_seen": "2023-10-23T07:39:32.378Z"
               }
             ]
           },
@@ -68021,6 +68049,20 @@
                 "$districtName": "malmö sankt petri",
                 "last_accept": 0,
                 "$last_seen": "2023-07-06T14:47:29.832Z"
+              },
+              {
+                "id": 94438,
+                "rent": 12816,
+                "area": 90,
+                "street": "östergatan",
+                "street_number": "15b",
+                "city": "malmö",
+                "zip": "21125",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "malmö sankt petri",
+                "last_accept": 548,
+                "$last_seen": "2023-10-23T07:39:32.378Z"
               }
             ],
             "banérsgatan": [
