@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-10-24T07:39:04.178Z",
+  "lastUpdatedAt": "2023-10-24T08:42:58.527Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -33995,6 +33995,20 @@
                 "$districtName": "askim",
                 "last_accept": 1224,
                 "$last_seen": "2023-10-12T06:45:54.842Z"
+              },
+              {
+                "id": 101725,
+                "rent": 6695,
+                "area": 63,
+                "street": "kobbegården",
+                "street_number": "10",
+                "city": "göteborg",
+                "zip": "43637",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 1722,
+                "$last_seen": "2023-10-24T07:39:04.178Z"
               }
             ],
             "ugglegården": [
@@ -55427,6 +55441,20 @@
                 "$districtName": "masthugget",
                 "last_accept": 1526,
                 "$last_seen": "2023-09-18T08:46:21.711Z"
+              },
+              {
+                "id": 100873,
+                "rent": 8031,
+                "area": 50,
+                "street": "bangatan",
+                "street_number": "37 b",
+                "city": "göteborg",
+                "zip": "41464",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "masthugget",
+                "last_accept": 1707,
+                "$last_seen": "2023-10-24T07:39:04.178Z"
               }
             ],
             "amiralitetsgatan": [
