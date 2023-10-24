@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-10-24T08:42:58.527Z",
+  "lastUpdatedAt": "2023-10-24T09:39:18.570Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -1335,6 +1335,20 @@
                 "$districtName": "fässberg",
                 "last_accept": 1325,
                 "$last_seen": "2023-08-25T12:58:34.218Z"
+              },
+              {
+                "id": 100964,
+                "rent": 9403,
+                "area": 65,
+                "street": "fredåsgatan",
+                "street_number": "28",
+                "city": "mölndal",
+                "zip": "43167",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 1568,
+                "$last_seen": "2023-10-24T08:42:58.527Z"
               }
             ],
             "oxdragargatan": [
@@ -15849,6 +15863,20 @@
                 "$districtName": "brämaregården",
                 "last_accept": 1057,
                 "$last_seen": "2023-09-26T07:40:34.215Z"
+              },
+              {
+                "id": 99947,
+                "rent": 9146,
+                "area": 49,
+                "street": "långängen",
+                "street_number": "11",
+                "city": "göteborg",
+                "zip": "41722",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brämaregården",
+                "last_accept": 1242,
+                "$last_seen": "2023-10-24T08:42:58.527Z"
               }
             ],
             "wieselgrensplatsen": [
@@ -20131,6 +20159,20 @@
                 "$districtName": "lundby",
                 "last_accept": 1228,
                 "$last_seen": "2023-10-16T07:40:32.715Z"
+              },
+              {
+                "id": 101923,
+                "rent": 8806,
+                "area": 83,
+                "street": "fyrklöversgatan",
+                "street_number": "104",
+                "city": "göteborg",
+                "zip": "41721",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1658,
+                "$last_seen": "2023-10-24T08:42:58.527Z"
               }
             ],
             "arvid lindmansgatan": [
@@ -42925,6 +42967,20 @@
                 "$districtName": "göteborgs domkyrkodistrikt",
                 "last_accept": 1516,
                 "$last_seen": "2023-03-26T13:37:15.080Z"
+              },
+              {
+                "id": 100292,
+                "rent": 8469,
+                "area": 60,
+                "street": "basargatan",
+                "street_number": "6 b",
+                "city": "göteborg",
+                "zip": "41117",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs domkyrkodistrikt",
+                "last_accept": 1838,
+                "$last_seen": "2023-10-24T08:42:58.527Z"
               }
             ],
             "odinsgatan": [
