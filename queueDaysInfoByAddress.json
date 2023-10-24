@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-10-24T13:41:35.865Z",
+  "lastUpdatedAt": "2023-10-24T14:41:54.967Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -30575,6 +30575,20 @@
                 "$districtName": "kortedala",
                 "last_accept": 1660,
                 "$last_seen": "2023-10-10T10:46:02.116Z"
+              },
+              {
+                "id": 101613,
+                "rent": 5176,
+                "area": 54,
+                "street": "aprilgatan",
+                "street_number": "34",
+                "city": "göteborg",
+                "zip": "41548",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "kortedala",
+                "last_accept": 1358,
+                "$last_seen": "2023-10-24T13:41:35.865Z"
               }
             ],
             "februarigatan": [
