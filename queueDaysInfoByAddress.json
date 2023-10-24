@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-10-24T06:43:40.179Z",
+  "lastUpdatedAt": "2023-10-24T07:39:04.178Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -4937,6 +4937,20 @@
                 "$districtName": "kållered",
                 "last_accept": 1131,
                 "$last_seen": "2023-10-23T09:39:28.167Z"
+              },
+              {
+                "id": 99910,
+                "rent": 7527,
+                "area": 63,
+                "street": "våmmedalsvägen",
+                "street_number": "100",
+                "city": "kållered",
+                "zip": "42831",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "kållered",
+                "last_accept": 1104,
+                "$last_seen": "2023-10-24T06:43:40.179Z"
               }
             ],
             "streteredsvägen": [
@@ -28343,6 +28357,20 @@
                 "$districtName": "björkekärr",
                 "last_accept": 504,
                 "$last_seen": "2023-10-02T06:44:08.544Z"
+              },
+              {
+                "id": 100459,
+                "rent": 6998,
+                "area": 61,
+                "street": "smörslätten",
+                "street_number": "4",
+                "city": "göteborg",
+                "zip": "41677",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "björkekärr",
+                "last_accept": 1348,
+                "$last_seen": "2023-10-06T11:40:45.032Z"
               }
             ],
             "lådspikaregatan": [
