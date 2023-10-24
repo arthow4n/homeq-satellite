@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-10-24T11:39:27.492Z",
+  "lastUpdatedAt": "2023-10-24T12:57:37.649Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -6465,6 +6465,20 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1562,
                 "$last_seen": "2023-10-06T10:45:42.790Z"
+              },
+              {
+                "id": 101021,
+                "rent": 6993,
+                "area": 30,
+                "street": "ebbe lieberathsgatan",
+                "street_number": "20 e",
+                "city": "göteborg",
+                "zip": "41265",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1411,
+                "$last_seen": "2023-10-24T11:39:27.492Z"
               },
               {
                 "id": 101148,
@@ -20161,6 +20175,20 @@
                 "$last_seen": "2023-10-16T07:40:32.715Z"
               },
               {
+                "id": 101047,
+                "rent": 4867,
+                "area": 43,
+                "street": "fyrklöversgatan",
+                "street_number": "12",
+                "city": "göteborg",
+                "zip": "41721",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1569,
+                "$last_seen": "2023-10-24T11:39:27.492Z"
+              },
+              {
                 "id": 101923,
                 "rent": 8806,
                 "area": 83,
@@ -22277,6 +22305,20 @@
                 "$districtName": "lundby",
                 "last_accept": 1453,
                 "$last_seen": "2023-08-25T06:45:28.444Z"
+              },
+              {
+                "id": 100926,
+                "rent": 5382,
+                "area": 45,
+                "street": "stataregatan",
+                "street_number": "5c",
+                "city": "göteborg",
+                "zip": "41715",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1615,
+                "$last_seen": "2023-10-24T11:39:27.492Z"
               }
             ],
             "rödlönnsgången": [
@@ -24505,6 +24547,20 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1755,
                 "$last_seen": "2023-10-13T07:41:01.719Z"
+              },
+              {
+                "id": 101736,
+                "rent": 9500,
+                "area": 62,
+                "street": "pärlstickaregatan",
+                "street_number": "2c",
+                "city": "göteborg",
+                "zip": "41658",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1733,
+                "$last_seen": "2023-10-24T11:39:27.492Z"
               }
             ],
             "st pauligatan": [
