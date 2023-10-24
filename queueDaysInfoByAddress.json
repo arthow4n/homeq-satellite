@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-10-24T10:44:15.955Z",
+  "lastUpdatedAt": "2023-10-24T11:39:27.492Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -32363,6 +32363,20 @@
                 "$districtName": "askim",
                 "last_accept": 1270,
                 "$last_seen": "2023-10-10T13:43:04.647Z"
+              },
+              {
+                "id": 101940,
+                "rent": 13438,
+                "area": 97,
+                "street": "pilegården",
+                "street_number": "6a",
+                "city": "göteborg",
+                "zip": "43635",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 1587,
+                "$last_seen": "2023-10-24T10:44:15.955Z"
               },
               {
                 "id": 102040,
@@ -70073,6 +70087,20 @@
                 "$districtName": "limhamn",
                 "last_accept": 0,
                 "$last_seen": "2023-09-15T06:46:58.635Z"
+              },
+              {
+                "id": 98779,
+                "rent": 8567,
+                "area": 40.5,
+                "street": "nätsnäcksgränd",
+                "street_number": "4",
+                "city": "malmö",
+                "zip": "21631",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "limhamn",
+                "last_accept": 114,
+                "$last_seen": "2023-10-24T10:44:15.955Z"
               }
             ],
             "dammsnäcksgränd": [
