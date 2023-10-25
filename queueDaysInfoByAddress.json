@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-10-25T14:41:32.450Z",
+  "lastUpdatedAt": "2023-10-25T15:39:06.587Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -38149,6 +38149,20 @@
                 "$last_seen": "2023-10-25T13:40:07.347Z"
               },
               {
+                "id": 101596,
+                "rent": 5818,
+                "area": 40,
+                "street": "universumsgatan",
+                "street_number": "24",
+                "city": "göteborg",
+                "zip": "41562",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bergsjön",
+                "last_accept": 1002,
+                "$last_seen": "2023-10-25T14:41:32.450Z"
+              },
+              {
                 "id": 101605,
                 "rent": 7416,
                 "area": 55,
@@ -64799,6 +64813,20 @@
                 "$districtName": "brunnsbo",
                 "last_accept": 1225,
                 "$last_seen": "2023-08-16T07:43:51.388Z"
+              },
+              {
+                "id": 101994,
+                "rent": 5481,
+                "area": 38,
+                "street": "poesigatan",
+                "street_number": "4",
+                "city": "hisings backa",
+                "zip": "42241",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brunnsbo",
+                "last_accept": 1176,
+                "$last_seen": "2023-10-25T14:41:32.450Z"
               }
             ]
           }
@@ -73471,6 +73499,20 @@
                 "$districtName": "malmö sankt johannes",
                 "last_accept": 1406,
                 "$last_seen": "2023-09-25T06:47:32.477Z"
+              },
+              {
+                "id": 99702,
+                "rent": 4907,
+                "area": 24,
+                "street": "smedjegatan",
+                "street_number": "5 a",
+                "city": "malmö",
+                "zip": "21421",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "malmö sankt johannes",
+                "last_accept": 986,
+                "$last_seen": "2023-10-25T14:41:32.450Z"
               }
             ],
             "möllevångsgatan": [
