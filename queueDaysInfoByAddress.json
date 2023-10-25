@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-10-25T05:41:09.163Z",
+  "lastUpdatedAt": "2023-10-25T06:44:24.223Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -42981,20 +42981,6 @@
                 "$last_seen": "2023-08-25T08:44:01.180Z"
               },
               {
-                "id": 100497,
-                "rent": 4821,
-                "area": 21,
-                "street": "folkungagatan",
-                "street_number": "8",
-                "city": "göteborg",
-                "zip": "41102",
-                "municipality": "göteborg",
-                "county": "västra götalands län",
-                "$districtName": "göteborgs domkyrkodistrikt",
-                "last_accept": 1723,
-                "$last_seen": "2023-10-17T13:42:15.025Z"
-              },
-              {
                 "id": 100563,
                 "rent": 8375,
                 "area": 47,
@@ -71991,6 +71977,20 @@
                 "$districtName": "hyllie",
                 "last_accept": 0,
                 "$last_seen": "2023-08-25T11:41:48.860Z"
+              },
+              {
+                "id": 100010,
+                "rent": 8545,
+                "area": 45,
+                "street": "hyllie allé",
+                "street_number": "26b",
+                "city": "malmö",
+                "zip": "21535",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "hyllie",
+                "last_accept": 1,
+                "$last_seen": "2023-10-25T05:41:09.163Z"
               }
             ],
             "tors gränd": [
