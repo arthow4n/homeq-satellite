@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-10-25T13:40:07.347Z",
+  "lastUpdatedAt": "2023-10-25T14:41:32.450Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -37737,6 +37737,20 @@
                 "$districtName": "bergsjön",
                 "last_accept": 838,
                 "$last_seen": "2023-10-09T07:40:33.790Z"
+              },
+              {
+                "id": 101593,
+                "rent": 7661,
+                "area": 46,
+                "street": "zenitgatan",
+                "street_number": "4",
+                "city": "göteborg",
+                "zip": "41562",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bergsjön",
+                "last_accept": 427,
+                "$last_seen": "2023-10-25T13:40:07.347Z"
               }
             ],
             "galileisgata": [
@@ -38105,6 +38119,48 @@
                 "$districtName": "bergsjön",
                 "last_accept": 1191,
                 "$last_seen": "2023-10-09T07:40:33.790Z"
+              },
+              {
+                "id": 101586,
+                "rent": 7470,
+                "area": 55,
+                "street": "universumsgatan",
+                "street_number": "26",
+                "city": "göteborg",
+                "zip": "41562",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bergsjön",
+                "last_accept": 1189,
+                "$last_seen": "2023-10-25T13:40:07.347Z"
+              },
+              {
+                "id": 101595,
+                "rent": 7077,
+                "area": 53,
+                "street": "universumsgatan",
+                "street_number": "26",
+                "city": "göteborg",
+                "zip": "41562",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bergsjön",
+                "last_accept": 903,
+                "$last_seen": "2023-10-25T13:40:07.347Z"
+              },
+              {
+                "id": 101605,
+                "rent": 7416,
+                "area": 55,
+                "street": "universumsgatan",
+                "street_number": "22",
+                "city": "göteborg",
+                "zip": "41562",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bergsjön",
+                "last_accept": 1018,
+                "$last_seen": "2023-10-25T13:40:07.347Z"
               }
             ]
           },
