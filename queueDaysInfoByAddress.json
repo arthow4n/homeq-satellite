@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-10-25T11:39:37.985Z",
+  "lastUpdatedAt": "2023-10-25T12:57:39.494Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -1751,6 +1751,20 @@
                 "$districtName": "fässberg",
                 "last_accept": 1331,
                 "$last_seen": "2023-07-31T14:40:14.655Z"
+              },
+              {
+                "id": 101034,
+                "rent": 6984,
+                "area": 45,
+                "street": "ranunkelgatan",
+                "street_number": "7a",
+                "city": "mölndal",
+                "zip": "43132",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 1367,
+                "$last_seen": "2023-10-25T11:39:37.985Z"
               }
             ],
             "katrinebergsgatan": [
