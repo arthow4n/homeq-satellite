@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-10-25T08:44:36.541Z",
+  "lastUpdatedAt": "2023-10-25T09:39:32.493Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -8597,6 +8597,20 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1682,
                 "$last_seen": "2023-08-18T05:43:35.515Z"
+              },
+              {
+                "id": 101731,
+                "rent": 6000,
+                "area": 34,
+                "street": "richertsgatan",
+                "street_number": "6",
+                "city": "göteborg",
+                "zip": "41260",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1751,
+                "$last_seen": "2023-10-25T08:44:36.541Z"
               }
             ],
             "kullegatan": [
@@ -20215,6 +20229,20 @@
                 "$districtName": "lundby",
                 "last_accept": 1569,
                 "$last_seen": "2023-10-24T11:39:27.492Z"
+              },
+              {
+                "id": 101588,
+                "rent": 7898,
+                "area": 83,
+                "street": "fyrklöversgatan",
+                "street_number": "52",
+                "city": "göteborg",
+                "zip": "41721",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1674,
+                "$last_seen": "2023-10-25T08:44:36.541Z"
               },
               {
                 "id": 101923,
@@ -71793,6 +71821,20 @@
                 "$districtName": "malmö sankt pauli",
                 "last_accept": 397,
                 "$last_seen": "2023-07-28T11:37:43.841Z"
+              },
+              {
+                "id": 99217,
+                "rent": 6860,
+                "area": 42,
+                "street": "drottninggatan",
+                "street_number": "2 a",
+                "city": "malmö",
+                "zip": "21211",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "malmö sankt pauli",
+                "last_accept": 940,
+                "$last_seen": "2023-10-25T08:44:36.541Z"
               }
             ],
             "garagegatan": [
@@ -75745,6 +75787,20 @@
                 "$districtName": "bunkeflo",
                 "last_accept": 0,
                 "$last_seen": "2023-10-23T08:44:00.874Z"
+              },
+              {
+                "id": 97008,
+                "rent": 8904,
+                "area": 60.1,
+                "street": "skräddarebyn",
+                "street_number": "3a",
+                "city": "bunkeflostrand",
+                "zip": "21842",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "bunkeflo",
+                "last_accept": 0,
+                "$last_seen": "2023-10-25T08:44:36.541Z"
               }
             ],
             "vagnmakarebyn": [
