@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-10-26T08:42:01.425Z",
+  "lastUpdatedAt": "2023-10-26T09:38:53.805Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -11315,6 +11315,20 @@
                 "$districtName": "högsbo",
                 "last_accept": 949,
                 "$last_seen": "2023-10-16T06:46:03.000Z"
+              },
+              {
+                "id": 99684,
+                "rent": 12170,
+                "area": 73,
+                "street": "nymilsgatan",
+                "street_number": "37",
+                "city": "göteborg",
+                "zip": "42170",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 1304,
+                "$last_seen": "2023-10-26T08:42:01.425Z"
               }
             ],
             "pennygången": [
@@ -46395,6 +46409,20 @@
                 "$districtName": "örgryte",
                 "last_accept": 1351,
                 "$last_seen": "2023-09-20T08:45:52.641Z"
+              },
+              {
+                "id": 101664,
+                "rent": 8666,
+                "area": 45,
+                "street": "gräddgatan",
+                "street_number": "5",
+                "city": "göteborg",
+                "zip": "41276",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1368,
+                "$last_seen": "2023-10-26T08:42:01.425Z"
               }
             ],
             "anders zornsgatan": [
