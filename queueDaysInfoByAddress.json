@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-10-26T10:42:11.278Z",
+  "lastUpdatedAt": "2023-10-26T11:38:48.814Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -69417,6 +69417,20 @@
                 "$districtName": "malmö sankt petri",
                 "last_accept": 773,
                 "$last_seen": "2023-10-13T11:40:41.542Z"
+              },
+              {
+                "id": 102667,
+                "rent": 7671,
+                "area": 39,
+                "street": "kalendegatan",
+                "street_number": "16",
+                "city": "malmö",
+                "zip": "21135",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "malmö sankt petri",
+                "last_accept": 496,
+                "$last_seen": "2023-10-26T10:42:11.278Z"
               }
             ],
             "dagvattengatan": [
@@ -72569,6 +72583,20 @@
                 "$districtName": "hyllie",
                 "last_accept": 961,
                 "$last_seen": "2023-10-16T08:45:16.680Z"
+              },
+              {
+                "id": 102441,
+                "rent": 11538,
+                "area": 69,
+                "street": "tors gränd",
+                "street_number": "2",
+                "city": "malmö",
+                "zip": "21534",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "hyllie",
+                "last_accept": 36,
+                "$last_seen": "2023-10-26T10:42:11.278Z"
               }
             ],
             "allétorget": [
@@ -72641,6 +72669,20 @@
                 "$districtName": "hyllie",
                 "last_accept": 52,
                 "$last_seen": "2023-08-18T07:43:20.837Z"
+              },
+              {
+                "id": 102324,
+                "rent": 11595,
+                "area": 69,
+                "street": "allétorget",
+                "street_number": "1",
+                "city": "malmö",
+                "zip": "21534",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "hyllie",
+                "last_accept": 289,
+                "$last_seen": "2023-10-26T10:42:11.278Z"
               }
             ],
             "bures gata": [
