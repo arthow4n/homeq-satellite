@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-10-26T11:38:48.814Z",
+  "lastUpdatedAt": "2023-10-26T12:56:12.527Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -65729,6 +65729,20 @@
                 "$districtName": "tynnered",
                 "last_accept": 1689,
                 "$last_seen": "2023-10-06T09:41:05.511Z"
+              },
+              {
+                "id": 101866,
+                "rent": 9807,
+                "area": 58,
+                "street": "smaragdgatan",
+                "street_number": "10 b",
+                "city": "västra frölunda",
+                "zip": "42149",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tynnered",
+                "last_accept": 1019,
+                "$last_seen": "2023-10-26T11:38:48.814Z"
               }
             ],
             "smyckegatan": [
@@ -73769,6 +73783,20 @@
                 "$districtName": "malmö sankt johannes",
                 "last_accept": 968,
                 "$last_seen": "2023-09-29T08:42:21.569Z"
+              },
+              {
+                "id": 98589,
+                "rent": 7754,
+                "area": 64,
+                "street": "möllevångsgatan",
+                "street_number": "34",
+                "city": "malmö",
+                "zip": "21422",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "malmö sankt johannes",
+                "last_accept": 1634,
+                "$last_seen": "2023-10-26T11:38:48.814Z"
               },
               {
                 "id": 99724,
