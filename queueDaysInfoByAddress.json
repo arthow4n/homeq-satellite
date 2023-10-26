@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-10-26T13:42:13.276Z",
+  "lastUpdatedAt": "2023-10-26T14:40:28.713Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -28639,6 +28639,20 @@
                 "$districtName": "björkekärr",
                 "last_accept": 764,
                 "$last_seen": "2023-10-10T07:40:44.464Z"
+              },
+              {
+                "id": 100941,
+                "rent": 7351,
+                "area": 71,
+                "street": "smörslätten",
+                "street_number": "2",
+                "city": "göteborg",
+                "zip": "41677",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "björkekärr",
+                "last_accept": 0,
+                "$last_seen": "2023-10-10T13:43:04.647Z"
               }
             ],
             "lådspikaregatan": [
@@ -33757,6 +33771,20 @@
                 "$districtName": "askim",
                 "last_accept": 384,
                 "$last_seen": "2023-10-10T07:40:44.464Z"
+              },
+              {
+                "id": 99949,
+                "rent": 10611,
+                "area": 54,
+                "street": "kobbeslätten",
+                "street_number": "4",
+                "city": "göteborg",
+                "zip": "43637",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 453,
+                "$last_seen": "2023-10-26T13:42:13.276Z"
               }
             ],
             "kobbegården": [
@@ -39463,20 +39491,6 @@
                 "$districtName": "nylöse",
                 "last_accept": 1615,
                 "$last_seen": "2023-10-11T14:45:27.426Z"
-              },
-              {
-                "id": 99920,
-                "rent": 9918,
-                "area": 53,
-                "street": "gamlestadsvägen",
-                "street_number": "10 d",
-                "city": "göteborg",
-                "zip": "41502",
-                "municipality": "göteborg",
-                "county": "västra götalands län",
-                "$districtName": "nylöse",
-                "last_accept": 1242,
-                "$last_seen": "2023-10-12T06:45:54.842Z"
               }
             ],
             "ryttaregatan": [
