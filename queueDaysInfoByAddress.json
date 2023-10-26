@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-10-26T06:42:58.213Z",
+  "lastUpdatedAt": "2023-10-26T07:39:01.428Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -30703,6 +30703,20 @@
                 "$districtName": "kortedala",
                 "last_accept": 1358,
                 "$last_seen": "2023-10-24T13:41:35.865Z"
+              },
+              {
+                "id": 101637,
+                "rent": 6325,
+                "area": 62.5,
+                "street": "aprilgatan",
+                "street_number": "58",
+                "city": "göteborg",
+                "zip": "41546",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "kortedala",
+                "last_accept": 1462,
+                "$last_seen": "2023-10-26T06:42:58.213Z"
               }
             ],
             "februarigatan": [
@@ -52693,6 +52707,20 @@
                 "$districtName": "göteborgs vasa",
                 "last_accept": 1382,
                 "$last_seen": "2022-10-21T11:48:01.909Z"
+              },
+              {
+                "id": 102036,
+                "rent": 12169,
+                "area": 99,
+                "street": "kapellgatan",
+                "street_number": "6",
+                "city": "göteborg",
+                "zip": "41131",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs vasa",
+                "last_accept": 1752,
+                "$last_seen": "2023-10-26T06:42:58.213Z"
               }
             ],
             "sten sturegatan": [
