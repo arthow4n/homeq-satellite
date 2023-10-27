@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-10-27T07:38:25.339Z",
+  "lastUpdatedAt": "2023-10-27T08:41:11.105Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -6479,6 +6479,20 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1562,
                 "$last_seen": "2023-10-06T10:45:42.790Z"
+              },
+              {
+                "id": 100540,
+                "rent": 9102,
+                "area": 44,
+                "street": "ebbe lieberathsgatan",
+                "street_number": "20 b",
+                "city": "göteborg",
+                "zip": "41265",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1488,
+                "$last_seen": "2023-10-27T07:38:25.339Z"
               },
               {
                 "id": 100542,
@@ -27147,6 +27161,20 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1714,
                 "$last_seen": "2023-10-13T09:40:57.277Z"
+              },
+              {
+                "id": 101828,
+                "rent": 11032,
+                "area": 83,
+                "street": "norra gubberogatan",
+                "street_number": "8",
+                "city": "göteborg",
+                "zip": "41663",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1752,
+                "$last_seen": "2023-10-27T07:38:25.339Z"
               }
             ],
             "räntmästaregatan": [
@@ -73165,6 +73193,20 @@
                 "$districtName": "hyllie",
                 "last_accept": 0,
                 "$last_seen": "2023-09-06T05:43:15.714Z"
+              },
+              {
+                "id": 99801,
+                "rent": 9261,
+                "area": 54.6,
+                "street": "hyllie vattenparksgata",
+                "street_number": "39",
+                "city": "malmö",
+                "zip": "21536",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "hyllie",
+                "last_accept": 165,
+                "$last_seen": "2023-10-27T07:38:25.339Z"
               }
             ],
             "svansjögatan": [
@@ -74483,6 +74525,20 @@
                 "$districtName": "limhamn",
                 "last_accept": 0,
                 "$last_seen": "2023-10-18T11:39:54.758Z"
+              },
+              {
+                "id": 100993,
+                "rent": 8192,
+                "area": 35,
+                "street": "blåsebergavägen",
+                "street_number": "30",
+                "city": "limhamn",
+                "zip": "21633",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "limhamn",
+                "last_accept": 0,
+                "$last_seen": "2023-10-27T06:42:22.518Z"
               },
               {
                 "id": 101000,
