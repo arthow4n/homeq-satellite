@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-10-27T13:38:25.062Z",
+  "lastUpdatedAt": "2023-10-27T14:40:20.297Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -18175,6 +18175,20 @@
                 "$districtName": "lundby",
                 "last_accept": 1378,
                 "$last_seen": "2023-09-15T13:43:10.944Z"
+              },
+              {
+                "id": 101819,
+                "rent": 11604,
+                "area": 68.1,
+                "street": "trollhasselgatan",
+                "street_number": "28",
+                "city": "göteborg",
+                "zip": "41711",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1658,
+                "$last_seen": "2023-10-27T13:38:25.062Z"
               }
             ],
             "karl staaffsgatan": [
