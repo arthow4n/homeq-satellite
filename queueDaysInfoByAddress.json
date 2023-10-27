@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-10-27T09:38:20.603Z",
+  "lastUpdatedAt": "2023-10-27T10:41:52.663Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -10389,6 +10389,20 @@
                 "$last_seen": "2023-09-27T13:41:32.069Z"
               },
               {
+                "id": 99915,
+                "rent": 7563,
+                "area": 32,
+                "street": "skillingmyntsgatan",
+                "street_number": "8",
+                "city": "göteborg",
+                "zip": "41484",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 851,
+                "$last_seen": "2023-10-27T09:38:20.603Z"
+              },
+              {
                 "id": 99918,
                 "rent": 12617,
                 "area": 71,
@@ -14037,6 +14051,20 @@
                 "$districtName": "högsbo",
                 "last_accept": 1773,
                 "$last_seen": "2023-09-05T14:44:40.710Z"
+              },
+              {
+                "id": 99656,
+                "rent": 9979,
+                "area": 71,
+                "street": "marklandsgatan",
+                "street_number": "35",
+                "city": "göteborg",
+                "zip": "41477",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 1753,
+                "$last_seen": "2023-10-27T09:38:20.603Z"
               }
             ],
             "riksdalersgatan": [
@@ -76453,6 +76481,28 @@
             ]
           }
         }
+      },
+      "lund": {
+        "malmö": {
+          "veberöd": {
+            "linjeettgatan": [
+              {
+                "id": 101141,
+                "rent": 12015,
+                "area": 68.7,
+                "street": "linjeettgatan",
+                "street_number": "6a",
+                "city": "malmö",
+                "zip": "21251",
+                "municipality": "lund",
+                "county": "skåne län",
+                "$districtName": "veberöd",
+                "last_accept": 0,
+                "$last_seen": "2023-10-27T09:38:20.603Z"
+              }
+            ]
+          }
+        }
       }
     },
     "stockholms län": {
@@ -76571,6 +76621,20 @@
                 "$districtName": "vantör",
                 "last_accept": 1694,
                 "$last_seen": "2023-07-03T08:48:20.142Z"
+              },
+              {
+                "id": 101888,
+                "rent": 6579,
+                "area": 45,
+                "street": "åmmebergsgatan",
+                "street_number": "11",
+                "city": "bandhagen",
+                "zip": "12470",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 1856,
+                "$last_seen": "2023-10-27T09:38:20.603Z"
               }
             ],
             "olshammarsgatan": [
@@ -77945,6 +78009,20 @@
                 "$districtName": "vantör",
                 "last_accept": 1317,
                 "$last_seen": "2023-09-07T05:43:56.925Z"
+              },
+              {
+                "id": 101889,
+                "rent": 10838,
+                "area": 69,
+                "street": "skyllbergsgatan",
+                "street_number": "20",
+                "city": "bandhagen",
+                "zip": "12471",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 1232,
+                "$last_seen": "2023-10-27T09:38:20.603Z"
               }
             ],
             "porlabacken": [
