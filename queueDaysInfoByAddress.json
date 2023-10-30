@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-10-30T09:38:19.912Z",
+  "lastUpdatedAt": "2023-10-30T10:43:23.767Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -16701,6 +16701,20 @@
                 "$districtName": "brämaregården",
                 "last_accept": 1358,
                 "$last_seen": "2023-03-13T11:37:29.402Z"
+              },
+              {
+                "id": 102070,
+                "rent": 8200,
+                "area": 60,
+                "street": "madängsgatan",
+                "street_number": "19c",
+                "city": "göteborg",
+                "zip": "41702",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brämaregården",
+                "last_accept": 1614,
+                "$last_seen": "2023-10-30T09:38:19.912Z"
               }
             ],
             "gustaf dahlénsgatan": [
@@ -24301,6 +24315,20 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1781,
                 "$last_seen": "2023-10-16T07:40:32.715Z"
+              },
+              {
+                "id": 102340,
+                "rent": 6677,
+                "area": 40,
+                "street": "kungälvsgatan",
+                "street_number": "4b",
+                "city": "göteborg",
+                "zip": "41669",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1753,
+                "$last_seen": "2023-10-30T09:38:19.912Z"
               }
             ],
             "torkelsgatan": [
@@ -52137,6 +52165,20 @@
                 "$districtName": "göteborgs vasa",
                 "last_accept": 1748,
                 "$last_seen": "2023-10-23T11:38:53.451Z"
+              },
+              {
+                "id": 99655,
+                "rent": 16741,
+                "area": 123,
+                "street": "götabergsgatan",
+                "street_number": "26 a",
+                "city": "göteborg",
+                "zip": "41134",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs vasa",
+                "last_accept": 1756,
+                "$last_seen": "2023-10-30T09:38:19.912Z"
               }
             ],
             "geijersgatan": [
@@ -75813,20 +75855,6 @@
                 "$last_seen": "2023-10-23T12:58:09.762Z"
               },
               {
-                "id": 97309,
-                "rent": 10384,
-                "area": 70,
-                "street": "sadelmakarebyn",
-                "street_number": "3d",
-                "city": "bunkeflostrand",
-                "zip": "21840",
-                "municipality": "malmö",
-                "county": "skåne län",
-                "$districtName": "bunkeflo",
-                "last_accept": 555,
-                "$last_seen": "2023-10-12T13:01:03.743Z"
-              },
-              {
                 "id": 97311,
                 "rent": 7452,
                 "area": 43,
@@ -76419,6 +76447,20 @@
                 "$districtName": "bunkeflo",
                 "last_accept": 43,
                 "$last_seen": "2023-09-29T08:42:21.569Z"
+              },
+              {
+                "id": 88749,
+                "rent": 8900,
+                "area": 60.1,
+                "street": "skräddarebyn",
+                "street_number": "3b",
+                "city": "bunkeflostrand",
+                "zip": "21842",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "bunkeflo",
+                "last_accept": 0,
+                "$last_seen": "2023-10-30T08:41:57.600Z"
               },
               {
                 "id": 89945,
