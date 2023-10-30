@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-10-30T12:56:46.812Z",
+  "lastUpdatedAt": "2023-10-30T13:39:24.566Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -7551,6 +7551,20 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1724,
                 "$last_seen": "2023-09-27T07:40:28.530Z"
+              },
+              {
+                "id": 101730,
+                "rent": 11200,
+                "area": 76,
+                "street": "vidblicksgatan",
+                "street_number": "11b",
+                "city": "göteborg",
+                "zip": "41257",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1833,
+                "$last_seen": "2023-10-30T12:56:46.812Z"
               }
             ],
             "fribergsgatan": [
@@ -68939,6 +68953,20 @@
                 "$districtName": "råda",
                 "last_accept": 1672,
                 "$last_seen": "2023-10-04T07:41:06.028Z"
+              },
+              {
+                "id": 100270,
+                "rent": 6129,
+                "area": 35,
+                "street": "centralvägen",
+                "street_number": "8b",
+                "city": "göteborg",
+                "zip": "43530",
+                "municipality": "härryda",
+                "county": "västra götalands län",
+                "$districtName": "råda",
+                "last_accept": 951,
+                "$last_seen": "2023-10-30T12:56:46.812Z"
               }
             ],
             "badhusgatan": [
@@ -74777,6 +74805,20 @@
                 "$districtName": "limhamn",
                 "last_accept": 270,
                 "$last_seen": "2023-10-27T11:38:21.394Z"
+              },
+              {
+                "id": 103106,
+                "rent": 11402,
+                "area": 68,
+                "street": "blåsebergavägen",
+                "street_number": "4",
+                "city": "limhamn",
+                "zip": "21633",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "limhamn",
+                "last_accept": 40,
+                "$last_seen": "2023-10-30T12:56:46.812Z"
               }
             ],
             "birger jarlsgatan": [
@@ -76403,6 +76445,20 @@
                 "$districtName": "bunkeflo",
                 "last_accept": 0,
                 "$last_seen": "2023-10-16T07:40:32.715Z"
+              },
+              {
+                "id": 98879,
+                "rent": 8935,
+                "area": 60.6,
+                "street": "smedmästarebyn",
+                "street_number": "1f",
+                "city": "bunkeflostrand",
+                "zip": "21841",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "bunkeflo",
+                "last_accept": 0,
+                "$last_seen": "2023-10-30T11:38:30.794Z"
               },
               {
                 "id": 98884,
