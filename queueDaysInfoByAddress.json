@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-10-30T06:42:57.450Z",
+  "lastUpdatedAt": "2023-10-30T07:38:13.841Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -17891,6 +17891,20 @@
                 "$last_seen": "2023-06-19T13:05:48.828Z"
               },
               {
+                "id": 96246,
+                "rent": 10245,
+                "area": 54,
+                "street": "hjalmar brantingsgatan",
+                "street_number": "104",
+                "city": "göteborg",
+                "zip": "41711",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 0,
+                "$last_seen": "2023-10-30T06:42:57.450Z"
+              },
+              {
                 "id": 97717,
                 "rent": 10245,
                 "area": 52,
@@ -24373,6 +24387,20 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 931,
                 "$last_seen": "2023-01-18T14:38:38.584Z"
+              },
+              {
+                "id": 102211,
+                "rent": 9025,
+                "area": 59,
+                "street": "torkelsgatan",
+                "street_number": "4a",
+                "city": "göteborg",
+                "zip": "41658",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1755,
+                "$last_seen": "2023-10-30T06:42:57.450Z"
               }
             ],
             "schéelegatan": [
@@ -40871,6 +40899,20 @@
                 "$districtName": "härlanda",
                 "last_accept": 1419,
                 "$last_seen": "2023-03-22T07:36:04.490Z"
+              },
+              {
+                "id": 102025,
+                "rent": 5585,
+                "area": 33,
+                "street": "qvidingsgatan",
+                "street_number": "2 b",
+                "city": "göteborg",
+                "zip": "41651",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "härlanda",
+                "last_accept": 1612,
+                "$last_seen": "2023-10-30T06:42:57.450Z"
               }
             ],
             "stobeégatan": [
