@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-10-30T13:39:24.566Z",
+  "lastUpdatedAt": "2023-10-30T14:41:34.163Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -26929,6 +26929,34 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1612,
                 "$last_seen": "2023-10-17T14:43:29.657Z"
+              },
+              {
+                "id": 102319,
+                "rent": 6928,
+                "area": 38,
+                "street": "danska vägen",
+                "street_number": "73a",
+                "city": "göteborg",
+                "zip": "41659",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1629,
+                "$last_seen": "2023-10-30T13:39:24.566Z"
+              },
+              {
+                "id": 102341,
+                "rent": 9761,
+                "area": 67,
+                "street": "danska vägen",
+                "street_number": "84d",
+                "city": "göteborg",
+                "zip": "41659",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1722,
+                "$last_seen": "2023-10-30T13:39:24.566Z"
               }
             ],
             "vävskedsgatan": [
@@ -41283,6 +41311,20 @@
                 "$districtName": "härlanda",
                 "last_accept": 1700,
                 "$last_seen": "2023-09-04T11:42:00.220Z"
+              },
+              {
+                "id": 101870,
+                "rent": 6050,
+                "area": 42,
+                "street": "ahrenbergsgatan",
+                "street_number": "11 a",
+                "city": "göteborg",
+                "zip": "41673",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "härlanda",
+                "last_accept": 1612,
+                "$last_seen": "2023-10-30T13:39:24.566Z"
               }
             ],
             "utåkersgatan": [
@@ -72335,6 +72377,20 @@
                 "$districtName": "malmö sankt pauli",
                 "last_accept": 824,
                 "$last_seen": "2023-05-08T13:01:40.032Z"
+              },
+              {
+                "id": 99707,
+                "rent": 17439,
+                "area": 124,
+                "street": "södra förstadsgatan",
+                "street_number": "40 b",
+                "city": "malmö",
+                "zip": "21143",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "malmö sankt pauli",
+                "last_accept": 185,
+                "$last_seen": "2023-10-30T13:39:24.566Z"
               }
             ],
             "östra förstadsgatan": [
