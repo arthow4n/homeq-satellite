@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-10-31T12:56:14.473Z",
+  "lastUpdatedAt": "2023-10-31T13:39:03.797Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -31503,6 +31503,20 @@
                 "$districtName": "kortedala",
                 "last_accept": 1359,
                 "$last_seen": "2023-10-11T11:40:37.243Z"
+              },
+              {
+                "id": 101028,
+                "rent": 3926,
+                "area": 36.5,
+                "street": "februarigatan",
+                "street_number": "11",
+                "city": "göteborg",
+                "zip": "41546",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "kortedala",
+                "last_accept": 1254,
+                "$last_seen": "2023-10-31T12:56:14.473Z"
               }
             ],
             "kalendervägen": [
@@ -46575,6 +46589,20 @@
                 "$districtName": "örgryte",
                 "last_accept": 1116,
                 "$last_seen": "2023-10-19T13:45:15.429Z"
+              },
+              {
+                "id": 100073,
+                "rent": 9026,
+                "area": 45,
+                "street": "tändsticksgatan",
+                "street_number": "2",
+                "city": "göteborg",
+                "zip": "41263",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1239,
+                "$last_seen": "2023-10-31T12:56:14.473Z"
               },
               {
                 "id": 100075,
