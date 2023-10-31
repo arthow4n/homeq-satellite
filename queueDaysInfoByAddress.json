@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-10-31T15:39:08.612Z",
+  "lastUpdatedAt": "2023-10-31T16:45:45.325Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -28989,6 +28989,20 @@
                 "$districtName": "björkekärr",
                 "last_accept": 0,
                 "$last_seen": "2023-10-10T13:43:04.647Z"
+              },
+              {
+                "id": 102346,
+                "rent": 5328,
+                "area": 22,
+                "street": "smörslätten",
+                "street_number": "6",
+                "city": "göteborg",
+                "zip": "41677",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "björkekärr",
+                "last_accept": 1007,
+                "$last_seen": "2023-10-31T15:39:08.612Z"
               }
             ],
             "lådspikaregatan": [
@@ -63869,6 +63883,20 @@
                 "$last_seen": "2023-06-19T11:44:24.858Z"
               },
               {
+                "id": 91784,
+                "rent": 5031,
+                "area": 30,
+                "street": "lagerbladsgatan",
+                "street_number": "6",
+                "city": "göteborg",
+                "zip": "42440",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "gunnared",
+                "last_accept": 1337,
+                "$last_seen": "2023-10-31T15:39:08.612Z"
+              },
+              {
                 "id": 92635,
                 "rent": 6399,
                 "area": 41,
@@ -65955,6 +65983,20 @@
                 "$districtName": "askim",
                 "last_accept": 0,
                 "$last_seen": "2023-10-12T13:46:59.641Z"
+              },
+              {
+                "id": 101925,
+                "rent": 10852,
+                "area": 54,
+                "street": "sisjöbäckens väg",
+                "street_number": "24",
+                "city": "askim",
+                "zip": "43638",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 126,
+                "$last_seen": "2023-10-31T15:39:08.612Z"
               }
             ],
             "kobbegården": [
@@ -68147,6 +68189,20 @@
                 "$districtName": "västra frölunda",
                 "last_accept": 1236,
                 "$last_seen": "2023-09-29T12:57:28.378Z"
+              },
+              {
+                "id": 102665,
+                "rent": 5051,
+                "area": 28,
+                "street": "marconigatan",
+                "street_number": "33 b",
+                "city": "västra frölunda",
+                "zip": "42144",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "västra frölunda",
+                "last_accept": 1247,
+                "$last_seen": "2023-10-31T15:39:08.612Z"
               }
             ]
           },
