@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-10-31T09:38:38.677Z",
+  "lastUpdatedAt": "2023-10-31T10:44:01.207Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -1291,6 +1291,20 @@
                 "$districtName": "fässberg",
                 "last_accept": 1401,
                 "$last_seen": "2023-10-20T12:58:14.573Z"
+              },
+              {
+                "id": 102313,
+                "rent": 10224,
+                "area": 70,
+                "street": "gustavsbergsgatan",
+                "street_number": "2",
+                "city": "mölndal",
+                "zip": "43137",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 1675,
+                "$last_seen": "2023-10-31T09:38:38.677Z"
               },
               {
                 "id": 102703,
@@ -51039,6 +51053,20 @@
                 "$last_seen": "2023-09-08T13:01:45.229Z"
               },
               {
+                "id": 100579,
+                "rent": 8647,
+                "area": 60,
+                "street": "västergatan",
+                "street_number": "27",
+                "city": "göteborg",
+                "zip": "41313",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "annedal",
+                "last_accept": 1755,
+                "$last_seen": "2023-10-31T09:38:38.677Z"
+              },
+              {
                 "id": 100581,
                 "rent": 7223,
                 "area": 45,
@@ -62807,6 +62835,20 @@
                 "$districtName": "göteborgs karl johan",
                 "last_accept": 1692,
                 "$last_seen": "2023-08-28T14:42:43.171Z"
+              },
+              {
+                "id": 101971,
+                "rent": 7850,
+                "area": 52,
+                "street": "seglaregatan",
+                "street_number": "29 a",
+                "city": "göteborg",
+                "zip": "41457",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs karl johan",
+                "last_accept": 1761,
+                "$last_seen": "2023-10-31T09:38:38.677Z"
               }
             ],
             "kabelgatan": [
@@ -75809,6 +75851,22 @@
                 "$districtName": "limhamn",
                 "last_accept": 770,
                 "$last_seen": "2023-09-25T05:41:55.057Z"
+              }
+            ],
+            "högerudsgatan": [
+              {
+                "id": 102915,
+                "rent": 4634,
+                "area": 35,
+                "street": "högerudsgatan",
+                "street_number": "28",
+                "city": "limhamn",
+                "zip": "21614",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "limhamn",
+                "last_accept": 155,
+                "$last_seen": "2023-10-31T09:38:38.677Z"
               }
             ]
           }
