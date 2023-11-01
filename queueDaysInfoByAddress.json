@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-11-01T11:38:50.464Z",
+  "lastUpdatedAt": "2023-11-01T12:56:45.924Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -47013,6 +47013,20 @@
                 "$last_seen": "2023-09-20T08:45:52.641Z"
               },
               {
+                "id": 101660,
+                "rent": 11710,
+                "area": 70,
+                "street": "gräddgatan",
+                "street_number": "5",
+                "city": "göteborg",
+                "zip": "41276",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1530,
+                "$last_seen": "2023-11-01T11:38:50.464Z"
+              },
+              {
                 "id": 101664,
                 "rent": 8666,
                 "area": 45,
@@ -72619,6 +72633,20 @@
                 "$districtName": "kirseberg",
                 "last_accept": 877,
                 "$last_seen": "2023-08-28T06:45:43.995Z"
+              },
+              {
+                "id": 102337,
+                "rent": 7450,
+                "area": 55,
+                "street": "almedalsgatan",
+                "street_number": "9",
+                "city": "malmö",
+                "zip": "21219",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "kirseberg",
+                "last_accept": 1126,
+                "$last_seen": "2023-11-01T11:38:50.464Z"
               }
             ],
             "solgatan": [
@@ -77449,6 +77477,20 @@
                 "$districtName": "vantör",
                 "last_accept": 1856,
                 "$last_seen": "2023-10-27T09:38:20.603Z"
+              },
+              {
+                "id": 101915,
+                "rent": 6563,
+                "area": 45,
+                "street": "åmmebergsgatan",
+                "street_number": "7",
+                "city": "bandhagen",
+                "zip": "12470",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 1870,
+                "$last_seen": "2023-11-01T11:38:50.464Z"
               }
             ],
             "olshammarsgatan": [
@@ -78721,6 +78763,20 @@
                 "$districtName": "vantör",
                 "last_accept": 1830,
                 "$last_seen": "2023-09-29T13:40:30.930Z"
+              },
+              {
+                "id": 102283,
+                "rent": 7254,
+                "area": 40,
+                "street": "bjursätragatan",
+                "street_number": "25e",
+                "city": "bandhagen",
+                "zip": "12462",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 1282,
+                "$last_seen": "2023-11-01T11:38:50.464Z"
               }
             ],
             "vintrosagatan": [
