@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-11-02T08:41:42.253Z",
+  "lastUpdatedAt": "2023-11-02T09:38:41.387Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -34825,6 +34825,20 @@
                 "$last_seen": "2023-10-24T07:39:04.178Z"
               },
               {
+                "id": 103096,
+                "rent": 11071,
+                "area": 80,
+                "street": "kobbegården",
+                "street_number": "26",
+                "city": "göteborg",
+                "zip": "43637",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 1169,
+                "$last_seen": "2023-11-02T08:41:42.253Z"
+              },
+              {
                 "id": 103097,
                 "rent": 11071,
                 "area": 80,
@@ -40009,6 +40023,20 @@
                 "$districtName": "nylöse",
                 "last_accept": 1615,
                 "$last_seen": "2023-10-11T14:45:27.426Z"
+              },
+              {
+                "id": 99920,
+                "rent": 9918,
+                "area": 53,
+                "street": "gamlestadsvägen",
+                "street_number": "10 d",
+                "city": "göteborg",
+                "zip": "41502",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "nylöse",
+                "last_accept": 1376,
+                "$last_seen": "2023-11-02T08:41:42.253Z"
               }
             ],
             "ryttaregatan": [
@@ -80238,6 +80266,22 @@
                 "last_accept": 1808,
                 "$last_seen": "2023-09-12T09:44:03.302Z"
               }
+            ],
+            "brommabågen": [
+              {
+                "id": 99185,
+                "rent": 4614,
+                "area": 24,
+                "street": "brommabågen",
+                "street_number": "4",
+                "city": "bromma",
+                "zip": "16876",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "bromma",
+                "last_accept": 1867,
+                "$last_seen": "2023-11-02T08:41:42.253Z"
+              }
             ]
           }
         },
@@ -80661,6 +80705,20 @@
                 "$districtName": "österhaninge",
                 "last_accept": 0,
                 "$last_seen": "2023-10-26T07:39:01.428Z"
+              },
+              {
+                "id": 102989,
+                "rent": 7795,
+                "area": 29,
+                "street": "vardövägen",
+                "street_number": "46",
+                "city": "stockholm",
+                "zip": "13657",
+                "municipality": "haninge",
+                "county": "stockholms län",
+                "$districtName": "österhaninge",
+                "last_accept": 606,
+                "$last_seen": "2023-11-02T08:41:42.253Z"
               }
             ]
           }
