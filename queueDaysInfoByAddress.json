@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-11-03T07:39:50.727Z",
+  "lastUpdatedAt": "2023-11-03T08:43:04.099Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -48875,6 +48875,20 @@
                 "$districtName": "örgryte",
                 "last_accept": 373,
                 "$last_seen": "2023-07-06T06:52:54.733Z"
+              },
+              {
+                "id": 100297,
+                "rent": 9784,
+                "area": 51,
+                "street": "separatorsgatan",
+                "street_number": "6",
+                "city": "göteborg",
+                "zip": "41278",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1590,
+                "$last_seen": "2023-11-03T07:39:50.727Z"
               }
             ],
             "påskbergsgatan": [
@@ -75425,6 +75439,20 @@
                 "$districtName": "limhamn",
                 "last_accept": 0,
                 "$last_seen": "2023-10-18T11:39:54.758Z"
+              },
+              {
+                "id": 100983,
+                "rent": 10800,
+                "area": 55,
+                "street": "blåsebergavägen",
+                "street_number": "26",
+                "city": "limhamn",
+                "zip": "21633",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "limhamn",
+                "last_accept": 0,
+                "$last_seen": "2023-11-03T07:39:50.727Z"
               },
               {
                 "id": 100993,
