@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-11-03T06:43:33.075Z",
+  "lastUpdatedAt": "2023-11-03T07:39:50.727Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -44575,6 +44575,22 @@
                 "$districtName": "göteborgs domkyrkodistrikt",
                 "last_accept": 1604,
                 "$last_seen": "2023-07-11T11:40:22.377Z"
+              }
+            ],
+            "barnhusgatan": [
+              {
+                "id": 103433,
+                "rent": 5281,
+                "area": 46,
+                "street": "barnhusgatan",
+                "street_number": "2",
+                "city": "göteborg",
+                "zip": "41103",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs domkyrkodistrikt",
+                "last_accept": 1760,
+                "$last_seen": "2023-11-03T06:43:33.075Z"
               }
             ]
           },
