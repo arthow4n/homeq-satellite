@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-11-03T10:44:35.881Z",
+  "lastUpdatedAt": "2023-11-03T11:39:51.987Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -39767,6 +39767,20 @@
                 "$districtName": "nylöse",
                 "last_accept": 75,
                 "$last_seen": "2023-10-13T10:44:57.702Z"
+              },
+              {
+                "id": 102320,
+                "rent": 9259,
+                "area": 54,
+                "street": "sysslomansgatan",
+                "street_number": "44",
+                "city": "göteborg",
+                "zip": "40422",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "nylöse",
+                "last_accept": 413,
+                "$last_seen": "2023-11-03T10:44:35.881Z"
               }
             ],
             "hinderbanan": [
