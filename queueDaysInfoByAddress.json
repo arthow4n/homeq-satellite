@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-11-03T08:43:04.099Z",
+  "lastUpdatedAt": "2023-11-03T09:39:28.320Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -1793,6 +1793,20 @@
                 "$districtName": "fässberg",
                 "last_accept": 1331,
                 "$last_seen": "2023-07-31T14:40:14.655Z"
+              },
+              {
+                "id": 101034,
+                "rent": 6984,
+                "area": 45,
+                "street": "ranunkelgatan",
+                "street_number": "7a",
+                "city": "mölndal",
+                "zip": "43132",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 1327,
+                "$last_seen": "2023-11-03T08:43:04.099Z"
               }
             ],
             "katrinebergsgatan": [
@@ -74107,6 +74121,20 @@
                 "$districtName": "hyllie",
                 "last_accept": 165,
                 "$last_seen": "2023-10-27T07:38:25.339Z"
+              },
+              {
+                "id": 102278,
+                "rent": 5229,
+                "area": 34,
+                "street": "hyllie vattenparksgata",
+                "street_number": "15g",
+                "city": "malmö",
+                "zip": "21531",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "hyllie",
+                "last_accept": 1104,
+                "$last_seen": "2023-11-03T08:43:04.099Z"
               }
             ],
             "svansjögatan": [
