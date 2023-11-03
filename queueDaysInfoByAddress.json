@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-11-03T09:39:28.320Z",
+  "lastUpdatedAt": "2023-11-03T10:44:35.881Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -1421,6 +1421,20 @@
                 "$districtName": "fässberg",
                 "last_accept": 1536,
                 "$last_seen": "2023-03-06T07:37:55.526Z"
+              },
+              {
+                "id": 102412,
+                "rent": 6051,
+                "area": 57,
+                "street": "oxdragargatan",
+                "street_number": "4 a",
+                "city": "mölndal",
+                "zip": "43143",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 1757,
+                "$last_seen": "2023-11-03T09:39:28.320Z"
               },
               {
                 "id": 103546,
@@ -76981,6 +76995,20 @@
                 "$districtName": "bunkeflo",
                 "last_accept": 0,
                 "$last_seen": "2023-10-23T09:39:28.167Z"
+              },
+              {
+                "id": 95843,
+                "rent": 9171,
+                "area": 59.7,
+                "street": "skomakarebyn",
+                "street_number": "5n",
+                "city": "bunkeflostrand",
+                "zip": "21841",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "bunkeflo",
+                "last_accept": 0,
+                "$last_seen": "2023-11-03T09:39:28.320Z"
               },
               {
                 "id": 96659,
