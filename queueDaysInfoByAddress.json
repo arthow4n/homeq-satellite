@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-11-06T09:40:54.423Z",
+  "lastUpdatedAt": "2023-11-06T10:46:36.067Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -18897,6 +18897,20 @@
                 "$districtName": "lundby",
                 "last_accept": 0,
                 "$last_seen": "2023-10-09T07:40:33.790Z"
+              },
+              {
+                "id": 100774,
+                "rent": 6457,
+                "area": 51,
+                "street": "hällskriftsgatan",
+                "street_number": "12 a",
+                "city": "göteborg",
+                "zip": "41741",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1621,
+                "$last_seen": "2023-11-06T09:40:54.423Z"
               }
             ],
             "fyrklöversgatan": [
@@ -21211,6 +21225,34 @@
                 "$districtName": "lundby",
                 "last_accept": 1604,
                 "$last_seen": "2023-10-17T09:40:26.817Z"
+              },
+              {
+                "id": 102834,
+                "rent": 7789,
+                "area": 72,
+                "street": "arvid lindmansgatan",
+                "street_number": "10 b",
+                "city": "göteborg",
+                "zip": "41726",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1712,
+                "$last_seen": "2023-11-06T09:40:54.423Z"
+              },
+              {
+                "id": 103458,
+                "rent": 8308,
+                "area": 53,
+                "street": "arvid lindmansgatan",
+                "street_number": "5e",
+                "city": "göteborg",
+                "zip": "41726",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1277,
+                "$last_seen": "2023-11-06T09:40:54.423Z"
               }
             ],
             "estlandsgatan": [
@@ -33177,6 +33219,20 @@
                 "$districtName": "askim",
                 "last_accept": 1075,
                 "$last_seen": "2023-10-24T09:39:18.570Z"
+              },
+              {
+                "id": 103061,
+                "rent": 9859,
+                "area": 66,
+                "street": "pilegården",
+                "street_number": "7f",
+                "city": "göteborg",
+                "zip": "43635",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 956,
+                "$last_seen": "2023-11-06T09:40:54.423Z"
               }
             ],
             "nergårdsvägen": [
@@ -35627,6 +35683,20 @@
                 "$districtName": "askim",
                 "last_accept": 419,
                 "$last_seen": "2023-10-10T07:40:44.464Z"
+              },
+              {
+                "id": 102844,
+                "rent": 7356,
+                "area": 28,
+                "street": "askims pilegårdsväg",
+                "street_number": "44",
+                "city": "göteborg",
+                "zip": "43635",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 129,
+                "$last_seen": "2023-11-06T09:40:54.423Z"
               }
             ]
           },
@@ -43563,6 +43633,20 @@
                 "$districtName": "göteborgs domkyrkodistrikt",
                 "last_accept": 1581,
                 "$last_seen": "2023-10-02T13:41:20.342Z"
+              },
+              {
+                "id": 102814,
+                "rent": 14436,
+                "area": 101,
+                "street": "stampgatan",
+                "street_number": "40",
+                "city": "göteborg",
+                "zip": "41101",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs domkyrkodistrikt",
+                "last_accept": 1751,
+                "$last_seen": "2023-11-06T09:40:54.423Z"
               }
             ],
             "friggagatan": [
