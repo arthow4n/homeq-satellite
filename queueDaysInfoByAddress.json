@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-11-06T11:39:58.412Z",
+  "lastUpdatedAt": "2023-11-06T13:00:09.795Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -18911,6 +18911,20 @@
                 "$districtName": "lundby",
                 "last_accept": 1621,
                 "$last_seen": "2023-11-06T09:40:54.423Z"
+              },
+              {
+                "id": 100800,
+                "rent": 6525,
+                "area": 54,
+                "street": "hällskriftsgatan",
+                "street_number": "2 c",
+                "city": "göteborg",
+                "zip": "41726",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1645,
+                "$last_seen": "2023-11-06T11:39:58.412Z"
               }
             ],
             "fyrklöversgatan": [
@@ -20691,6 +20705,20 @@
                 "$districtName": "lundby",
                 "last_accept": 719,
                 "$last_seen": "2023-10-30T16:45:47.120Z"
+              },
+              {
+                "id": 102910,
+                "rent": 8823,
+                "area": 83,
+                "street": "fyrklöversgatan",
+                "street_number": "106",
+                "city": "göteborg",
+                "zip": "41721",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1670,
+                "$last_seen": "2023-11-06T11:39:58.412Z"
               }
             ],
             "arvid lindmansgatan": [
@@ -24709,6 +24737,20 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1755,
                 "$last_seen": "2023-10-30T06:42:57.450Z"
+              },
+              {
+                "id": 103466,
+                "rent": 8424,
+                "area": 52,
+                "street": "torkelsgatan",
+                "street_number": "4a",
+                "city": "göteborg",
+                "zip": "41658",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1763,
+                "$last_seen": "2023-11-06T11:39:58.412Z"
               }
             ],
             "schéelegatan": [
@@ -54795,6 +54837,20 @@
                 "$districtName": "göteborgs vasa",
                 "last_accept": 1846,
                 "$last_seen": "2023-10-23T05:41:20.378Z"
+              },
+              {
+                "id": 103245,
+                "rent": 14919,
+                "area": 111,
+                "street": "kristinelundsgatan",
+                "street_number": "10",
+                "city": "göteborg",
+                "zip": "41134",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs vasa",
+                "last_accept": 1763,
+                "$last_seen": "2023-11-06T11:39:58.412Z"
               }
             ],
             "föreningsgatan": [
@@ -66599,6 +66655,20 @@
                 "$districtName": "tynnered",
                 "last_accept": 1266,
                 "$last_seen": "2023-10-13T09:40:57.277Z"
+              },
+              {
+                "id": 102220,
+                "rent": 9327,
+                "area": 77,
+                "street": "karneolgatan",
+                "street_number": "25",
+                "city": "västra frölunda",
+                "zip": "42651",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tynnered",
+                "last_accept": 1587,
+                "$last_seen": "2023-11-06T11:39:58.412Z"
               }
             ],
             "smaragdgatan": [
@@ -68357,6 +68427,20 @@
                 "$districtName": "västra frölunda",
                 "last_accept": 1126,
                 "$last_seen": "2023-10-18T13:41:44.729Z"
+              },
+              {
+                "id": 102741,
+                "rent": 11482,
+                "area": 80,
+                "street": "speldosegatan",
+                "street_number": "6",
+                "city": "västra frölunda",
+                "zip": "42151",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "västra frölunda",
+                "last_accept": 1152,
+                "$last_seen": "2023-11-06T11:39:58.412Z"
               }
             ],
             "tamburingatan": [
@@ -79651,6 +79735,20 @@
                 "$districtName": "hässelby",
                 "last_accept": 1476,
                 "$last_seen": "2023-09-27T13:41:32.069Z"
+              },
+              {
+                "id": 103344,
+                "rent": 7684,
+                "area": 63,
+                "street": "enspännargatan",
+                "street_number": "12",
+                "city": "hässelby",
+                "zip": "16557",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "hässelby",
+                "last_accept": 1566,
+                "$last_seen": "2023-11-06T11:39:58.412Z"
               },
               {
                 "id": 103345,
