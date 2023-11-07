@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-11-07T08:43:34.155Z",
+  "lastUpdatedAt": "2023-11-07T09:40:08.005Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -17627,6 +17627,22 @@
                 "$districtName": "brämaregården",
                 "last_accept": 1452,
                 "$last_seen": "2023-10-03T07:39:28.184Z"
+              }
+            ],
+            "gustaf dalensgatan": [
+              {
+                "id": 100814,
+                "rent": 9262,
+                "area": 54,
+                "street": "gustaf dalensgatan",
+                "street_number": "24",
+                "city": "göteborg",
+                "zip": "41724",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brämaregården",
+                "last_accept": 1500,
+                "$last_seen": "2023-11-07T08:43:34.155Z"
               }
             ]
           },
@@ -44171,6 +44187,20 @@
                 "$districtName": "göteborgs domkyrkodistrikt",
                 "last_accept": 1565,
                 "$last_seen": "2023-10-16T08:45:16.680Z"
+              },
+              {
+                "id": 102800,
+                "rent": 10890,
+                "area": 73,
+                "street": "folkungagatan",
+                "street_number": "8",
+                "city": "göteborg",
+                "zip": "41102",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs domkyrkodistrikt",
+                "last_accept": 1810,
+                "$last_seen": "2023-11-07T08:43:34.155Z"
               }
             ],
             "basargatan": [
@@ -69837,6 +69867,20 @@
                 "$districtName": "råda",
                 "last_accept": 999,
                 "$last_seen": "2023-10-10T11:40:50.386Z"
+              },
+              {
+                "id": 103952,
+                "rent": 8528,
+                "area": 54,
+                "street": "lennart kvarnströms plats",
+                "street_number": "9",
+                "city": "göteborg",
+                "zip": "43530",
+                "municipality": "härryda",
+                "county": "västra götalands län",
+                "$districtName": "råda",
+                "last_accept": 580,
+                "$last_seen": "2023-11-07T08:43:34.155Z"
               }
             ],
             "centralvägen": [
@@ -77447,6 +77491,20 @@
                 "$districtName": "bunkeflo",
                 "last_accept": 80,
                 "$last_seen": "2023-08-29T10:45:25.168Z"
+              },
+              {
+                "id": 95504,
+                "rent": 7984,
+                "area": 53.6,
+                "street": "skomakarebyn",
+                "street_number": "5p",
+                "city": "bunkeflostrand",
+                "zip": "21841",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "bunkeflo",
+                "last_accept": 0,
+                "$last_seen": "2023-11-07T08:43:34.155Z"
               },
               {
                 "id": 95768,
