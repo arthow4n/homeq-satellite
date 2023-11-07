@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-11-07T11:40:07.267Z",
+  "lastUpdatedAt": "2023-11-07T12:58:19.412Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -14757,6 +14757,20 @@
                 "$districtName": "högsbo",
                 "last_accept": 1485,
                 "$last_seen": "2023-09-12T07:43:51.016Z"
+              },
+              {
+                "id": 101137,
+                "rent": 10950,
+                "area": 67,
+                "street": "lilla tunnlandsgatan",
+                "street_number": "7",
+                "city": "göteborg",
+                "zip": "41477",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 1737,
+                "$last_seen": "2023-11-07T11:40:07.267Z"
               }
             ],
             "sjupundsgatan": [
@@ -38693,6 +38707,20 @@
                 "$districtName": "bergsjön",
                 "last_accept": 838,
                 "$last_seen": "2023-10-09T07:40:33.790Z"
+              },
+              {
+                "id": 101592,
+                "rent": 11745,
+                "area": 90,
+                "street": "zenitgatan",
+                "street_number": "4",
+                "city": "göteborg",
+                "zip": "41562",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bergsjön",
+                "last_accept": 0,
+                "$last_seen": "2023-11-07T11:40:07.267Z"
               },
               {
                 "id": 101593,
@@ -74459,6 +74487,20 @@
                 "$districtName": "hyllie",
                 "last_accept": 513,
                 "$last_seen": "2023-10-27T06:42:22.518Z"
+              },
+              {
+                "id": 103146,
+                "rent": 8131,
+                "area": 42,
+                "street": "sagas gränd",
+                "street_number": "14",
+                "city": "malmö",
+                "zip": "21536",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "hyllie",
+                "last_accept": 0,
+                "$last_seen": "2023-11-07T11:40:07.267Z"
               }
             ],
             "hyllie vattenparksgata": [
