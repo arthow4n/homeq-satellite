@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-11-08T14:43:33.035Z",
+  "lastUpdatedAt": "2023-11-08T15:41:10.378Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -35401,6 +35401,20 @@
                 "$districtName": "askim",
                 "last_accept": 0,
                 "$last_seen": "2023-10-23T14:42:38.077Z"
+              },
+              {
+                "id": 103249,
+                "rent": 13887,
+                "area": 76,
+                "street": "ugglegården",
+                "street_number": "38",
+                "city": "göteborg",
+                "zip": "43658",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 749,
+                "$last_seen": "2023-11-08T14:43:33.035Z"
               }
             ],
             "sisjövägen": [
@@ -44986,20 +45000,6 @@
               }
             ],
             "barnhusgatan": [
-              {
-                "id": 102936,
-                "rent": 6625,
-                "area": 64,
-                "street": "barnhusgatan",
-                "street_number": "4",
-                "city": "göteborg",
-                "zip": "41102",
-                "municipality": "göteborg",
-                "county": "västra götalands län",
-                "$districtName": "göteborgs domkyrkodistrikt",
-                "last_accept": 1944,
-                "$last_seen": "2023-11-03T11:39:51.987Z"
-              },
               {
                 "id": 103433,
                 "rent": 5281,
