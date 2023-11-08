@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-11-08T10:45:27.022Z",
+  "lastUpdatedAt": "2023-11-08T11:40:40.526Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -71737,6 +71737,20 @@
                 "$districtName": "möllevången",
                 "last_accept": 1597,
                 "$last_seen": "2023-06-28T11:42:15.053Z"
+              },
+              {
+                "id": 103332,
+                "rent": 9128,
+                "area": 82,
+                "street": "almbacksgatan",
+                "street_number": "11 b",
+                "city": "malmö",
+                "zip": "21154",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "möllevången",
+                "last_accept": 1644,
+                "$last_seen": "2023-11-08T10:45:27.022Z"
               }
             ],
             "uppsalagatan": [
