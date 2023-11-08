@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-11-08T11:40:40.526Z",
+  "lastUpdatedAt": "2023-11-08T12:58:59.548Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -5049,6 +5049,20 @@
                 "$districtName": "kållered",
                 "last_accept": 1104,
                 "$last_seen": "2023-10-24T06:43:40.179Z"
+              },
+              {
+                "id": 101890,
+                "rent": 8757,
+                "area": 76,
+                "street": "våmmedalsvägen",
+                "street_number": "50",
+                "city": "kållered",
+                "zip": "42831",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "kållered",
+                "last_accept": 1362,
+                "$last_seen": "2023-11-08T11:40:40.526Z"
               },
               {
                 "id": 101907,
@@ -72209,6 +72223,20 @@
                 "$districtName": "limhamn",
                 "last_accept": 0,
                 "$last_seen": "2023-10-25T06:44:24.223Z"
+              },
+              {
+                "id": 103021,
+                "rent": 7561,
+                "area": 32.4,
+                "street": "nätsnäcksgränd",
+                "street_number": "11",
+                "city": "malmö",
+                "zip": "21631",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "limhamn",
+                "last_accept": 0,
+                "$last_seen": "2023-11-08T11:40:40.526Z"
               }
             ],
             "dammsnäcksgränd": [
