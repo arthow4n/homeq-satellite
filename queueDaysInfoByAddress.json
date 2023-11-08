@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-11-08T06:44:38.924Z",
+  "lastUpdatedAt": "2023-11-08T07:40:10.940Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -33923,6 +33923,20 @@
                 "$districtName": "askim",
                 "last_accept": 1698,
                 "$last_seen": "2023-10-30T11:38:30.794Z"
+              },
+              {
+                "id": 103759,
+                "rent": 9792,
+                "area": 67,
+                "street": "nergårdsvägen",
+                "street_number": "33",
+                "city": "göteborg",
+                "zip": "43636",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 990,
+                "$last_seen": "2023-11-08T06:44:38.924Z"
               }
             ],
             "hyltegården": [
