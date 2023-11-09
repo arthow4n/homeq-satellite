@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-11-09T11:40:37.581Z",
+  "lastUpdatedAt": "2023-11-09T12:58:37.143Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -13333,6 +13333,20 @@
                 "$districtName": "högsbo",
                 "last_accept": 1566,
                 "$last_seen": "2023-10-20T09:39:37.887Z"
+              },
+              {
+                "id": 102836,
+                "rent": 7089,
+                "area": 62,
+                "street": "pennygången",
+                "street_number": "21",
+                "city": "göteborg",
+                "zip": "41482",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 1755,
+                "$last_seen": "2023-11-09T11:40:37.581Z"
               }
             ],
             "skäpplandsgatan": [
@@ -17681,6 +17695,20 @@
                 "$districtName": "brämaregården",
                 "last_accept": 1760,
                 "$last_seen": "2023-10-03T11:40:31.274Z"
+              },
+              {
+                "id": 102280,
+                "rent": 8418,
+                "area": 48.7,
+                "street": "karlavagnsgatan",
+                "street_number": "22",
+                "city": "göteborg",
+                "zip": "41753",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brämaregården",
+                "last_accept": 1766,
+                "$last_seen": "2023-11-09T11:40:37.581Z"
               }
             ],
             "björnsonsgatan": [
@@ -53893,6 +53921,20 @@
                 "$districtName": "göteborgs vasa",
                 "last_accept": 1717,
                 "$last_seen": "2023-09-21T11:40:49.806Z"
+              },
+              {
+                "id": 100468,
+                "rent": 23136,
+                "area": 206,
+                "street": "engelbrektsgatan",
+                "street_number": "24",
+                "city": "göteborg",
+                "zip": "41137",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs vasa",
+                "last_accept": 1340,
+                "$last_seen": "2023-11-09T11:40:37.581Z"
               }
             ],
             "erik dahlbergsgatan": [
@@ -73531,6 +73573,20 @@
                 "$districtName": "kirseberg",
                 "last_accept": 460,
                 "$last_seen": "2023-09-05T11:41:52.387Z"
+              },
+              {
+                "id": 103895,
+                "rent": 7352,
+                "area": 53,
+                "street": "rantzowsgatan",
+                "street_number": "12b",
+                "city": "malmö",
+                "zip": "21221",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "kirseberg",
+                "last_accept": 59,
+                "$last_seen": "2023-11-09T11:40:37.581Z"
               }
             ],
             "kirsebergsgatan": [
@@ -74108,6 +74164,22 @@
                 "last_accept": 718,
                 "$last_seen": "2023-10-02T06:44:08.544Z"
               }
+            ],
+            "södra långgatan": [
+              {
+                "id": 103121,
+                "rent": 10450,
+                "area": 65,
+                "street": "södra långgatan",
+                "street_number": "23",
+                "city": "malmö",
+                "zip": "21160",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "malmö sankt pauli",
+                "last_accept": 0,
+                "$last_seen": "2023-11-09T11:40:37.581Z"
+              }
             ]
           },
           "hyllie": {
@@ -74195,6 +74267,20 @@
                 "$districtName": "hyllie",
                 "last_accept": 379,
                 "$last_seen": "2023-09-26T09:40:25.263Z"
+              },
+              {
+                "id": 102912,
+                "rent": 8144,
+                "area": 51,
+                "street": "hålsjögatan",
+                "street_number": "3 a",
+                "city": "malmö",
+                "zip": "21766",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "hyllie",
+                "last_accept": 382,
+                "$last_seen": "2023-11-09T11:40:37.581Z"
               }
             ],
             "hyllie allé": [
@@ -78845,6 +78931,20 @@
                 "$districtName": "vantör",
                 "last_accept": 1698,
                 "$last_seen": "2023-08-23T11:42:41.675Z"
+              },
+              {
+                "id": 101948,
+                "rent": 9316,
+                "area": 76,
+                "street": "olshammarsgatan",
+                "street_number": "49",
+                "city": "bandhagen",
+                "zip": "12475",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 1864,
+                "$last_seen": "2023-11-09T11:40:37.581Z"
               }
             ],
             "glanshammarsgatan": [
@@ -79701,6 +79801,20 @@
                 "$districtName": "vantör",
                 "last_accept": 1344,
                 "$last_seen": "2023-09-18T08:46:21.711Z"
+              },
+              {
+                "id": 102454,
+                "rent": 11487,
+                "area": 95,
+                "street": "hagsätra torg",
+                "street_number": "21",
+                "city": "bandhagen",
+                "zip": "12473",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 1817,
+                "$last_seen": "2023-11-09T11:40:37.581Z"
               }
             ],
             "pålsbodagränd": [
