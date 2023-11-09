@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-11-09T06:49:03.142Z",
+  "lastUpdatedAt": "2023-11-09T07:40:58.293Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -54239,6 +54239,20 @@
                 "$districtName": "göteborgs vasa",
                 "last_accept": 1340,
                 "$last_seen": "2023-04-18T11:41:06.180Z"
+              },
+              {
+                "id": 102203,
+                "rent": 11356,
+                "area": 70,
+                "street": "sten sturegatan",
+                "street_number": "42",
+                "city": "göteborg",
+                "zip": "41252",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs vasa",
+                "last_accept": 1776,
+                "$last_seen": "2023-11-09T06:49:03.142Z"
               }
             ],
             "folke bernadottes gata": [
