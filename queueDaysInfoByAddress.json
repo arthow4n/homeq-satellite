@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-11-09T05:42:15.437Z",
+  "lastUpdatedAt": "2023-11-09T06:49:03.142Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -70233,20 +70233,6 @@
                 "$districtName": "råda",
                 "last_accept": 951,
                 "$last_seen": "2023-10-30T12:56:46.812Z"
-              },
-              {
-                "id": 101008,
-                "rent": 7861,
-                "area": 70,
-                "street": "centralvägen",
-                "street_number": "12",
-                "city": "göteborg",
-                "zip": "43530",
-                "municipality": "härryda",
-                "county": "västra götalands län",
-                "$districtName": "råda",
-                "last_accept": 1760,
-                "$last_seen": "2023-11-06T07:39:58.090Z"
               }
             ],
             "badhusgatan": [
