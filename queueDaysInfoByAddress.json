@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-11-09T10:45:12.597Z",
+  "lastUpdatedAt": "2023-11-09T11:40:37.581Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -70369,6 +70369,20 @@
                 "$districtName": "sofielund",
                 "last_accept": 577,
                 "$last_seen": "2023-05-15T13:01:49.544Z"
+              },
+              {
+                "id": 76674,
+                "rent": 3872,
+                "area": 25,
+                "street": "amiralsgatan",
+                "street_number": "70b",
+                "city": "malmö",
+                "zip": "21437",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "sofielund",
+                "last_accept": 316,
+                "$last_seen": "2023-11-09T10:45:12.597Z"
               }
             ],
             "osbygatan": [
@@ -71413,6 +71427,20 @@
                 "$districtName": "husie",
                 "last_accept": 351,
                 "$last_seen": "2023-09-15T09:42:50.185Z"
+              },
+              {
+                "id": 102987,
+                "rent": 9512,
+                "area": 66,
+                "street": "lönnebergagatan",
+                "street_number": "4",
+                "city": "malmö",
+                "zip": "21215",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "husie",
+                "last_accept": 0,
+                "$last_seen": "2023-11-09T10:45:12.597Z"
               }
             ]
           },
