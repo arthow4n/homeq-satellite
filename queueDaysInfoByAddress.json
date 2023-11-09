@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-11-09T07:40:58.293Z",
+  "lastUpdatedAt": "2023-11-09T08:43:48.383Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -7547,6 +7547,20 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1742,
                 "$last_seen": "2023-10-18T11:39:54.758Z"
+              },
+              {
+                "id": 102778,
+                "rent": 11338,
+                "area": 79,
+                "street": "norra krokslättsgatan",
+                "street_number": "2",
+                "city": "göteborg",
+                "zip": "41264",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1764,
+                "$last_seen": "2023-11-09T07:40:58.293Z"
               }
             ],
             "norgårdsgatan": [
@@ -17684,22 +17698,6 @@
                 "last_accept": 1452,
                 "$last_seen": "2023-10-03T07:39:28.184Z"
               }
-            ],
-            "gustaf dalensgatan": [
-              {
-                "id": 100814,
-                "rent": 9262,
-                "area": 54,
-                "street": "gustaf dalensgatan",
-                "street_number": "24",
-                "city": "göteborg",
-                "zip": "41724",
-                "municipality": "göteborg",
-                "county": "västra götalands län",
-                "$districtName": "brämaregården",
-                "last_accept": 1500,
-                "$last_seen": "2023-11-07T08:43:34.155Z"
-              }
             ]
           },
           "lundby": {
@@ -24595,6 +24593,20 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1757,
                 "$last_seen": "2023-10-31T11:38:49.538Z"
+              },
+              {
+                "id": 103846,
+                "rent": 11302,
+                "area": 79,
+                "street": "redbergsvägen",
+                "street_number": "38",
+                "city": "göteborg",
+                "zip": "41665",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1764,
+                "$last_seen": "2023-11-09T07:40:58.293Z"
               }
             ],
             "kungälvsgatan": [
@@ -38847,6 +38859,20 @@
                 "$districtName": "bergsjön",
                 "last_accept": 427,
                 "$last_seen": "2023-10-25T13:40:07.347Z"
+              },
+              {
+                "id": 101597,
+                "rent": 12830,
+                "area": 99,
+                "street": "zenitgatan",
+                "street_number": "28",
+                "city": "göteborg",
+                "zip": "41562",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bergsjön",
+                "last_accept": 544,
+                "$last_seen": "2023-11-09T07:40:58.293Z"
               }
             ],
             "galileisgata": [
@@ -66993,20 +67019,6 @@
                 "$districtName": "tynnered",
                 "last_accept": 1266,
                 "$last_seen": "2023-10-13T09:40:57.277Z"
-              },
-              {
-                "id": 102220,
-                "rent": 9327,
-                "area": 77,
-                "street": "karneolgatan",
-                "street_number": "25",
-                "city": "västra frölunda",
-                "zip": "42651",
-                "municipality": "göteborg",
-                "county": "västra götalands län",
-                "$districtName": "tynnered",
-                "last_accept": 1587,
-                "$last_seen": "2023-11-06T11:39:58.412Z"
               }
             ],
             "smaragdgatan": [
@@ -76271,6 +76283,20 @@
                 "$last_seen": "2023-10-18T11:39:54.758Z"
               },
               {
+                "id": 100983,
+                "rent": 10800,
+                "area": 55,
+                "street": "blåsebergavägen",
+                "street_number": "26",
+                "city": "limhamn",
+                "zip": "21633",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "limhamn",
+                "last_accept": 0,
+                "$last_seen": "2023-11-09T07:40:58.293Z"
+              },
+              {
                 "id": 100993,
                 "rent": 8192,
                 "area": 35,
@@ -76297,6 +76323,20 @@
                 "$districtName": "limhamn",
                 "last_accept": 0,
                 "$last_seen": "2023-10-27T06:42:22.518Z"
+              },
+              {
+                "id": 101809,
+                "rent": 8724,
+                "area": 45,
+                "street": "blåsebergavägen",
+                "street_number": "16",
+                "city": "limhamn",
+                "zip": "21633",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "limhamn",
+                "last_accept": 13,
+                "$last_seen": "2023-11-09T07:40:58.293Z"
               },
               {
                 "id": 101990,
