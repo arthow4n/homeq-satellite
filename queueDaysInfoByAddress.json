@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-11-10T11:40:09.130Z",
+  "lastUpdatedAt": "2023-11-10T12:58:14.626Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -24243,6 +24243,20 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1728,
                 "$last_seen": "2023-10-02T11:38:57.141Z"
+              },
+              {
+                "id": 102832,
+                "rent": 7937,
+                "area": 49,
+                "street": "runebergsgatan",
+                "street_number": "2",
+                "city": "göteborg",
+                "zip": "41658",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1742,
+                "$last_seen": "2023-11-10T11:40:09.130Z"
               }
             ],
             "redbergsvägen": [
@@ -52091,6 +52105,20 @@
                 "$districtName": "annedal",
                 "last_accept": 1752,
                 "$last_seen": "2023-11-09T15:40:28.876Z"
+              },
+              {
+                "id": 104269,
+                "rent": 5228,
+                "area": 36,
+                "street": "västergatan",
+                "street_number": "23",
+                "city": "göteborg",
+                "zip": "41313",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "annedal",
+                "last_accept": 1674,
+                "$last_seen": "2023-11-10T11:40:09.130Z"
               }
             ],
             "seminariegatan": [
@@ -54777,6 +54805,20 @@
                 "$districtName": "göteborgs vasa",
                 "last_accept": 1136,
                 "$last_seen": "2023-09-05T05:42:45.559Z"
+              },
+              {
+                "id": 102762,
+                "rent": 12903,
+                "area": 63,
+                "street": "teatergatan",
+                "street_number": "36",
+                "city": "göteborg",
+                "zip": "41135",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs vasa",
+                "last_accept": 1767,
+                "$last_seen": "2023-11-10T11:40:09.130Z"
               }
             ],
             "lorensbergsgatan": [
@@ -55313,6 +55355,20 @@
                 "$districtName": "göteborgs vasa",
                 "last_accept": 1701,
                 "$last_seen": "2023-09-05T06:45:51.171Z"
+              },
+              {
+                "id": 103598,
+                "rent": 13809,
+                "area": 92,
+                "street": "nedre fogelbergsgatan",
+                "street_number": "4b",
+                "city": "göteborg",
+                "zip": "41128",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs vasa",
+                "last_accept": 1767,
+                "$last_seen": "2023-11-10T11:40:09.130Z"
               }
             ],
             "kristinelundsgatan": [
@@ -80101,6 +80157,20 @@
                 "$districtName": "vantör",
                 "last_accept": 1495,
                 "$last_seen": "2023-10-26T07:39:01.428Z"
+              },
+              {
+                "id": 102470,
+                "rent": 10518,
+                "area": 89,
+                "street": "pålsbodagränd",
+                "street_number": "13",
+                "city": "bandhagen",
+                "zip": "12475",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 1354,
+                "$last_seen": "2023-11-10T11:40:09.130Z"
               }
             ],
             "bäverdammsgränd": [
