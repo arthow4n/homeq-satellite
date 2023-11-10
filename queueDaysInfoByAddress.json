@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-11-10T12:58:14.626Z",
+  "lastUpdatedAt": "2023-11-10T13:40:43.326Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -43675,6 +43675,20 @@
                 "$last_seen": "2023-10-18T12:59:15.264Z"
               },
               {
+                "id": 102745,
+                "rent": 7124,
+                "area": 34,
+                "street": "bangårdsgatan",
+                "street_number": "19",
+                "city": "göteborg",
+                "zip": "41112",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs domkyrkodistrikt",
+                "last_accept": 1254,
+                "$last_seen": "2023-11-10T12:58:14.626Z"
+              },
+              {
                 "id": 102760,
                 "rent": 10710,
                 "area": 65,
@@ -71677,6 +71691,22 @@
                 "$districtName": "malmö sankt petri",
                 "last_accept": 1491,
                 "$last_seen": "2023-10-23T05:41:20.378Z"
+              }
+            ],
+            "stora kvarng": [
+              {
+                "id": 103448,
+                "rent": 10560,
+                "area": 68,
+                "street": "stora kvarng",
+                "street_number": "24",
+                "city": "malmö",
+                "zip": "21129",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "malmö sankt petri",
+                "last_accept": 434,
+                "$last_seen": "2023-11-10T12:58:14.626Z"
               }
             ]
           },
