@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-11-13T07:39:39.236Z",
+  "lastUpdatedAt": "2023-11-13T08:43:49.868Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -30797,6 +30797,20 @@
                 "$districtName": "kortedala",
                 "last_accept": 1746,
                 "$last_seen": "2023-09-21T07:41:15.406Z"
+              },
+              {
+                "id": 103254,
+                "rent": 5407,
+                "area": 54,
+                "street": "januarigatan",
+                "street_number": "30",
+                "city": "göteborg",
+                "zip": "41546",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "kortedala",
+                "last_accept": 1401,
+                "$last_seen": "2023-11-13T07:39:39.236Z"
               }
             ],
             "solvarvsgatan": [
@@ -33557,6 +33571,20 @@
                 "$districtName": "askim",
                 "last_accept": 956,
                 "$last_seen": "2023-11-06T09:40:54.423Z"
+              },
+              {
+                "id": 103543,
+                "rent": 11452,
+                "area": 81,
+                "street": "pilegården",
+                "street_number": "1d",
+                "city": "göteborg",
+                "zip": "43635",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 1376,
+                "$last_seen": "2023-11-13T07:39:39.236Z"
               },
               {
                 "id": 104113,
@@ -71551,6 +71579,34 @@
                 "$districtName": "malmö sankt petri",
                 "last_accept": 496,
                 "$last_seen": "2023-10-26T10:42:11.278Z"
+              },
+              {
+                "id": 104359,
+                "rent": 7117,
+                "area": 35,
+                "street": "kalendegatan",
+                "street_number": "16",
+                "city": "malmö",
+                "zip": "21135",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "malmö sankt petri",
+                "last_accept": 0,
+                "$last_seen": "2023-11-13T07:39:39.236Z"
+              },
+              {
+                "id": 104361,
+                "rent": 6645,
+                "area": 30,
+                "street": "kalendegatan",
+                "street_number": "16",
+                "city": "malmö",
+                "zip": "21135",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "malmö sankt petri",
+                "last_accept": 56,
+                "$last_seen": "2023-11-13T07:39:39.236Z"
               }
             ],
             "dagvattengatan": [
