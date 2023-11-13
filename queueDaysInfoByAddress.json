@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-11-13T10:45:25.557Z",
+  "lastUpdatedAt": "2023-11-13T11:38:56.892Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -5105,6 +5105,20 @@
                 "$districtName": "kållered",
                 "last_accept": 1510,
                 "$last_seen": "2023-10-31T11:38:49.538Z"
+              },
+              {
+                "id": 103586,
+                "rent": 5631,
+                "area": 39,
+                "street": "våmmedalsvägen",
+                "street_number": "106",
+                "city": "kållered",
+                "zip": "42831",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "kållered",
+                "last_accept": 915,
+                "$last_seen": "2023-11-13T10:45:25.557Z"
               }
             ],
             "streteredsvägen": [
@@ -33655,6 +33669,20 @@
                 "$districtName": "askim",
                 "last_accept": 559,
                 "$last_seen": "2023-11-13T09:39:23.290Z"
+              },
+              {
+                "id": 104444,
+                "rent": 11110,
+                "area": 97,
+                "street": "pilegården",
+                "street_number": "4a",
+                "city": "göteborg",
+                "zip": "43636",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 1689,
+                "$last_seen": "2023-11-13T10:45:25.557Z"
               }
             ],
             "nergårdsvägen": [
@@ -41605,6 +41633,20 @@
                 "$districtName": "härlanda",
                 "last_accept": 1694,
                 "$last_seen": "2023-09-04T11:42:00.220Z"
+              },
+              {
+                "id": 103890,
+                "rent": 6950,
+                "area": 57,
+                "street": "solrosgatan",
+                "street_number": "12b",
+                "city": "göteborg",
+                "zip": "41651",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "härlanda",
+                "last_accept": 1770,
+                "$last_seen": "2023-11-13T10:45:25.557Z"
               }
             ],
             "utjordsgatan": [
