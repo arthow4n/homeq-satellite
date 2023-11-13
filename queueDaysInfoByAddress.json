@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-11-13T08:43:49.868Z",
+  "lastUpdatedAt": "2023-11-13T09:39:23.290Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -24963,6 +24963,20 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1763,
                 "$last_seen": "2023-11-06T11:39:58.412Z"
+              },
+              {
+                "id": 103850,
+                "rent": 11104,
+                "area": 77,
+                "street": "torkelsgatan",
+                "street_number": "6b",
+                "city": "göteborg",
+                "zip": "41658",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1769,
+                "$last_seen": "2023-11-13T08:43:49.868Z"
               }
             ],
             "schéelegatan": [
@@ -50239,6 +50253,20 @@
                 "$districtName": "västra frölunda",
                 "last_accept": 1633,
                 "$last_seen": "2023-09-21T11:40:49.806Z"
+              },
+              {
+                "id": 103603,
+                "rent": 8908,
+                "area": 53,
+                "street": "transistorgatan",
+                "street_number": "43",
+                "city": "göteborg",
+                "zip": "42135",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "västra frölunda",
+                "last_accept": 1521,
+                "$last_seen": "2023-11-13T08:43:49.868Z"
               }
             ],
             "blockflöjtsgatan": [
@@ -59293,6 +59321,20 @@
                 "$districtName": "masthugget",
                 "last_accept": 1424,
                 "$last_seen": "2023-07-13T10:45:18.019Z"
+              },
+              {
+                "id": 103401,
+                "rent": 11318,
+                "area": 83,
+                "street": "djurgårdsgatan",
+                "street_number": "32",
+                "city": "göteborg",
+                "zip": "41462",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "masthugget",
+                "last_accept": 1770,
+                "$last_seen": "2023-11-13T08:43:49.868Z"
               }
             ],
             "dahlströmsgatan": [
