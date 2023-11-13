@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-11-13T06:44:41.871Z",
+  "lastUpdatedAt": "2023-11-13T07:39:39.236Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -42195,6 +42195,20 @@
                 "$districtName": "härlanda",
                 "last_accept": 1612,
                 "$last_seen": "2023-10-30T13:39:24.566Z"
+              },
+              {
+                "id": 104708,
+                "rent": 10650,
+                "area": 88,
+                "street": "ahrenbergsgatan",
+                "street_number": "11c",
+                "city": "göteborg",
+                "zip": "41673",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "härlanda",
+                "last_accept": 1770,
+                "$last_seen": "2023-11-13T06:44:41.871Z"
               }
             ],
             "utåkersgatan": [
@@ -49915,6 +49929,20 @@
                 "$districtName": "västra frölunda",
                 "last_accept": 318,
                 "$last_seen": "2023-10-18T05:41:18.864Z"
+              },
+              {
+                "id": 103312,
+                "rent": 6757,
+                "area": 34.97,
+                "street": "cymbalgatan",
+                "street_number": "11",
+                "city": "göteborg",
+                "zip": "42151",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "västra frölunda",
+                "last_accept": 868,
+                "$last_seen": "2023-11-13T06:44:41.871Z"
               }
             ],
             "transistorgatan": [
