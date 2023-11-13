@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-11-13T14:41:38.041Z",
+  "lastUpdatedAt": "2023-11-13T15:39:13.799Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -725,6 +725,20 @@
                 "$districtName": "fässberg",
                 "last_accept": 1762,
                 "$last_seen": "2023-11-06T08:44:57.804Z"
+              },
+              {
+                "id": 103852,
+                "rent": 11871,
+                "area": 90,
+                "street": "berghemsgatan",
+                "street_number": "16",
+                "city": "mölndal",
+                "zip": "43137",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 1769,
+                "$last_seen": "2023-11-13T14:41:38.041Z"
               },
               {
                 "id": 103914,
@@ -5163,6 +5177,22 @@
                 "$districtName": "kållered",
                 "last_accept": 532,
                 "$last_seen": "2023-09-29T08:42:21.569Z"
+              }
+            ],
+            "hagabäcksleden": [
+              {
+                "id": 103590,
+                "rent": 6484,
+                "area": 40,
+                "street": "hagabäcksleden",
+                "street_number": "9",
+                "city": "kållered",
+                "zip": "42832",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "kållered",
+                "last_accept": 919,
+                "$last_seen": "2023-11-13T14:41:38.041Z"
               }
             ]
           }
@@ -36245,6 +36275,20 @@
                 "$districtName": "askim",
                 "last_accept": 419,
                 "$last_seen": "2023-10-10T07:40:44.464Z"
+              },
+              {
+                "id": 101920,
+                "rent": 12537,
+                "area": 71,
+                "street": "askims pilegårdsväg",
+                "street_number": "40",
+                "city": "göteborg",
+                "zip": "43635",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 695,
+                "$last_seen": "2023-11-13T14:41:38.041Z"
               },
               {
                 "id": 102844,
@@ -70201,6 +70245,20 @@
                 "$districtName": "älvsborg",
                 "last_accept": 1151,
                 "$last_seen": "2023-10-16T08:45:16.680Z"
+              },
+              {
+                "id": 103605,
+                "rent": 16467,
+                "area": 120,
+                "street": "tigerstigen",
+                "street_number": "23",
+                "city": "västra frölunda ",
+                "zip": "42672",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "älvsborg",
+                "last_accept": 1296,
+                "$last_seen": "2023-11-13T14:41:38.041Z"
               }
             ]
           }
@@ -81865,6 +81923,20 @@
                 "$districtName": "skärholmen",
                 "last_accept": 708,
                 "$last_seen": "2023-10-06T15:41:43.232Z"
+              },
+              {
+                "id": 97246,
+                "rent": 8225,
+                "area": 35,
+                "street": "vårbergsvägen",
+                "street_number": "79",
+                "city": "stockholm",
+                "zip": "12743",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "skärholmen",
+                "last_accept": 732,
+                "$last_seen": "2023-11-13T14:41:38.041Z"
               },
               {
                 "id": 100345,
