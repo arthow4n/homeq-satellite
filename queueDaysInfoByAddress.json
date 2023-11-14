@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-11-14T15:39:10.466Z",
+  "lastUpdatedAt": "2023-11-14T16:40:27.396Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -6761,6 +6761,20 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1280,
                 "$last_seen": "2023-10-26T12:56:12.527Z"
+              },
+              {
+                "id": 104089,
+                "rent": 8077,
+                "area": 40,
+                "street": "ebbe lieberathsgatan",
+                "street_number": "2a",
+                "city": "göteborg",
+                "zip": "41265",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1380,
+                "$last_seen": "2023-11-14T15:39:10.466Z"
               }
             ],
             "nordgårdsgatan": [
@@ -82895,6 +82909,20 @@
                 "$districtName": "kista",
                 "last_accept": 990,
                 "$last_seen": "2023-10-16T11:40:07.218Z"
+              },
+              {
+                "id": 100340,
+                "rent": 6236,
+                "area": 22,
+                "street": "almbygatan",
+                "street_number": "14",
+                "city": "spånga",
+                "zip": "16376",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "kista",
+                "last_accept": 773,
+                "$last_seen": "2023-11-14T15:39:10.466Z"
               },
               {
                 "id": 100363,
