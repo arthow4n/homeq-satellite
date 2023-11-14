@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-11-14T08:41:59.230Z",
+  "lastUpdatedAt": "2023-11-14T09:38:28.494Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -60991,6 +60991,20 @@
                 "$districtName": "biskopsgården",
                 "last_accept": 817,
                 "$last_seen": "2023-06-21T09:44:52.056Z"
+              },
+              {
+                "id": 103792,
+                "rent": 8844,
+                "area": 94,
+                "street": "solstrålegatan",
+                "street_number": "42",
+                "city": "göteborg",
+                "zip": "41843",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "biskopsgården",
+                "last_accept": 1519,
+                "$last_seen": "2023-11-14T08:41:59.230Z"
               }
             ],
             "långströmsgatan": [
@@ -75023,6 +75037,22 @@
                 "$districtName": "malmö sankt pauli",
                 "last_accept": 718,
                 "$last_seen": "2023-10-02T06:44:08.544Z"
+              }
+            ],
+            "fredrikbergsgatan": [
+              {
+                "id": 98982,
+                "rent": 8910,
+                "area": 48,
+                "street": "fredrikbergsgatan",
+                "street_number": "12",
+                "city": "malmö",
+                "zip": "21211",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "malmö sankt pauli",
+                "last_accept": 575,
+                "$last_seen": "2023-11-14T08:41:59.230Z"
               }
             ],
             "södra långgatan": [
