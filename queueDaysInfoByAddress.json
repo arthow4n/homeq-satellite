@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-11-14T13:39:33.704Z",
+  "lastUpdatedAt": "2023-11-14T14:41:19.694Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -42483,6 +42483,20 @@
                 "$districtName": "härlanda",
                 "last_accept": 1642,
                 "$last_seen": "2023-06-14T06:46:15.251Z"
+              },
+              {
+                "id": 103533,
+                "rent": 8349,
+                "area": 65,
+                "street": "hjalmar selandersgata",
+                "street_number": "4a",
+                "city": "göteborg",
+                "zip": "41674",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "härlanda",
+                "last_accept": 1771,
+                "$last_seen": "2023-11-14T13:39:33.704Z"
               }
             ],
             "l:a munkebäcksgatan": [
