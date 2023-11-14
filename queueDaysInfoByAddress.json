@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-11-14T09:38:28.494Z",
+  "lastUpdatedAt": "2023-11-14T10:43:48.011Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -10711,6 +10711,20 @@
                 "$districtName": "högsbo",
                 "last_accept": 791,
                 "$last_seen": "2023-10-18T11:39:54.758Z"
+              },
+              {
+                "id": 103589,
+                "rent": 13127,
+                "area": 75,
+                "street": "skillingmyntsgatan",
+                "street_number": "8",
+                "city": "göteborg",
+                "zip": "41484",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 358,
+                "$last_seen": "2023-11-14T09:38:28.494Z"
               }
             ],
             "synhållsgatan": [
@@ -33757,6 +33771,20 @@
                 "$last_seen": "2023-11-13T07:39:39.236Z"
               },
               {
+                "id": 103910,
+                "rent": 9523,
+                "area": 64,
+                "street": "pilegården",
+                "street_number": "3g",
+                "city": "göteborg",
+                "zip": "43635",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 753,
+                "$last_seen": "2023-11-14T09:38:28.494Z"
+              },
+              {
                 "id": 104113,
                 "rent": 9613,
                 "area": 81,
@@ -44903,6 +44931,20 @@
                 "$districtName": "göteborgs domkyrkodistrikt",
                 "last_accept": 1565,
                 "$last_seen": "2023-10-16T08:45:16.680Z"
+              },
+              {
+                "id": 102800,
+                "rent": 10890,
+                "area": 73,
+                "street": "folkungagatan",
+                "street_number": "8",
+                "city": "göteborg",
+                "zip": "41102",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs domkyrkodistrikt",
+                "last_accept": 1772,
+                "$last_seen": "2023-11-14T09:38:28.494Z"
               }
             ],
             "basargatan": [
@@ -63233,6 +63275,20 @@
                 "$districtName": "biskopsgården",
                 "last_accept": 1625,
                 "$last_seen": "2023-11-09T12:58:37.143Z"
+              },
+              {
+                "id": 104097,
+                "rent": 10892,
+                "area": 83,
+                "street": "långströmsgatan",
+                "street_number": "10b",
+                "city": "göteborg",
+                "zip": "41870",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "biskopsgården",
+                "last_accept": 1207,
+                "$last_seen": "2023-11-14T09:38:28.494Z"
               }
             ],
             "lufttrycksgatan": [
@@ -82769,6 +82825,20 @@
                 "$districtName": "kista",
                 "last_accept": 28,
                 "$last_seen": "2023-10-31T11:38:49.538Z"
+              },
+              {
+                "id": 103041,
+                "rent": 6236,
+                "area": 22,
+                "street": "almbygatan",
+                "street_number": "14",
+                "city": "spånga",
+                "zip": "16376",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "kista",
+                "last_accept": 513,
+                "$last_seen": "2023-11-14T09:38:28.494Z"
               }
             ]
           }
