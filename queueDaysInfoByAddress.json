@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-11-14T06:43:26.497Z",
+  "lastUpdatedAt": "2023-11-14T07:38:36.106Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -46591,6 +46591,20 @@
                 "$last_seen": "2023-09-13T13:46:06.461Z"
               },
               {
+                "id": 99856,
+                "rent": 8477,
+                "area": 50,
+                "street": "prästgårdsängen",
+                "street_number": "23",
+                "city": "göteborg",
+                "zip": "41271",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1771,
+                "$last_seen": "2023-11-14T06:43:26.497Z"
+              },
+              {
                 "id": 100096,
                 "rent": 8477,
                 "area": 50,
@@ -47377,20 +47391,6 @@
                 "$districtName": "örgryte",
                 "last_accept": 1495,
                 "$last_seen": "2023-11-10T18:43:23.695Z"
-              },
-              {
-                "id": 104404,
-                "rent": 13109,
-                "area": 77,
-                "street": "smörkärnegatan",
-                "street_number": "29",
-                "city": "göteborg",
-                "zip": "41278",
-                "municipality": "göteborg",
-                "county": "västra götalands län",
-                "$districtName": "örgryte",
-                "last_accept": 1373,
-                "$last_seen": "2023-11-10T13:40:43.326Z"
               }
             ],
             "tändsticksgatan": [
@@ -70933,20 +70933,6 @@
                 "$districtName": "råda",
                 "last_accept": 999,
                 "$last_seen": "2023-10-10T11:40:50.386Z"
-              },
-              {
-                "id": 103952,
-                "rent": 8528,
-                "area": 54,
-                "street": "lennart kvarnströms plats",
-                "street_number": "9",
-                "city": "göteborg",
-                "zip": "43530",
-                "municipality": "härryda",
-                "county": "västra götalands län",
-                "$districtName": "råda",
-                "last_accept": 580,
-                "$last_seen": "2023-11-07T08:43:34.155Z"
               }
             ],
             "centralvägen": [
