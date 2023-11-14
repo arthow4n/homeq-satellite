@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-11-14T11:38:14.675Z",
+  "lastUpdatedAt": "2023-11-14T12:56:17.249Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -30417,6 +30417,20 @@
                 "$districtName": "kortedala",
                 "last_accept": 1654,
                 "$last_seen": "2023-10-20T09:39:37.887Z"
+              },
+              {
+                "id": 103256,
+                "rent": 8051,
+                "area": 59,
+                "street": "allhelgonagatan",
+                "street_number": "10",
+                "city": "göteborg",
+                "zip": "41545",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "kortedala",
+                "last_accept": 980,
+                "$last_seen": "2023-11-14T11:38:14.675Z"
               }
             ],
             "julaftonsgatan": [
@@ -45632,6 +45646,20 @@
               }
             ],
             "barnhusgatan": [
+              {
+                "id": 102936,
+                "rent": 6625,
+                "area": 64,
+                "street": "barnhusgatan",
+                "street_number": "4",
+                "city": "göteborg",
+                "zip": "41102",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs domkyrkodistrikt",
+                "last_accept": 1934,
+                "$last_seen": "2023-11-14T11:38:14.675Z"
+              },
               {
                 "id": 103433,
                 "rent": 5281,
@@ -76607,6 +76635,20 @@
                 "$districtName": "malmö sankt johannes",
                 "last_accept": 1552,
                 "$last_seen": "2023-07-24T09:38:12.235Z"
+              },
+              {
+                "id": 99715,
+                "rent": 6518,
+                "area": 51,
+                "street": "södra skolgatan",
+                "street_number": "33",
+                "city": "malmö",
+                "zip": "21422",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "malmö sankt johannes",
+                "last_accept": 1456,
+                "$last_seen": "2023-11-14T11:38:14.675Z"
               },
               {
                 "id": 101988,
