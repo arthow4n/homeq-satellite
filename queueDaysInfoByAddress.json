@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-11-14T07:38:36.106Z",
+  "lastUpdatedAt": "2023-11-14T08:41:59.230Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -485,6 +485,20 @@
                 "$districtName": "fässberg",
                 "last_accept": 1737,
                 "$last_seen": "2023-10-12T06:45:54.842Z"
+              },
+              {
+                "id": 103327,
+                "rent": 6051,
+                "area": 57,
+                "street": "stenbrogatan",
+                "street_number": "1 c",
+                "city": "mölndal",
+                "zip": "43143",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 1770,
+                "$last_seen": "2023-11-14T07:38:36.106Z"
               }
             ],
             "berghemsgatan": [
@@ -18101,6 +18115,20 @@
                 "$districtName": "lundby",
                 "last_accept": 1691,
                 "$last_seen": "2023-11-07T09:40:08.005Z"
+              },
+              {
+                "id": 101943,
+                "rent": 5405,
+                "area": 32,
+                "street": "bautastensgatan",
+                "street_number": "9 b",
+                "city": "göteborg",
+                "zip": "41876",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1522,
+                "$last_seen": "2023-11-14T07:38:36.106Z"
               }
             ],
             "hjalmar brantingsgatan": [
@@ -44875,20 +44903,6 @@
                 "$districtName": "göteborgs domkyrkodistrikt",
                 "last_accept": 1565,
                 "$last_seen": "2023-10-16T08:45:16.680Z"
-              },
-              {
-                "id": 102800,
-                "rent": 10890,
-                "area": 73,
-                "street": "folkungagatan",
-                "street_number": "8",
-                "city": "göteborg",
-                "zip": "41102",
-                "municipality": "göteborg",
-                "county": "västra götalands län",
-                "$districtName": "göteborgs domkyrkodistrikt",
-                "last_accept": 1810,
-                "$last_seen": "2023-11-07T08:43:34.155Z"
               }
             ],
             "basargatan": [
@@ -81970,6 +81984,20 @@
               }
             ],
             "stångholmsbacken": [
+              {
+                "id": 101658,
+                "rent": 12059,
+                "area": 90,
+                "street": "stångholmsbacken",
+                "street_number": "14",
+                "city": "stockholm",
+                "zip": "12740",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "skärholmen",
+                "last_accept": 1589,
+                "$last_seen": "2023-11-14T07:38:36.106Z"
+              },
               {
                 "id": 101659,
                 "rent": 5689,
