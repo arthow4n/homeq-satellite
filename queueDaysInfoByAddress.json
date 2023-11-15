@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-11-15T11:38:11.939Z",
+  "lastUpdatedAt": "2023-11-15T12:57:46.425Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -8835,6 +8835,20 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1613,
                 "$last_seen": "2023-09-01T08:44:35.173Z"
+              },
+              {
+                "id": 104316,
+                "rent": 4850,
+                "area": 28,
+                "street": "kristinehöjdsgatan",
+                "street_number": "12 b",
+                "city": "göteborg",
+                "zip": "41282",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1752,
+                "$last_seen": "2023-11-15T11:38:11.939Z"
               }
             ],
             "richertsgatan": [
@@ -19023,6 +19037,20 @@
                 "$districtName": "lundby",
                 "last_accept": 1258,
                 "$last_seen": "2023-09-05T10:45:39.568Z"
+              },
+              {
+                "id": 103773,
+                "rent": 7639,
+                "area": 61,
+                "street": "wieselgrensplatsen",
+                "street_number": "31",
+                "city": "göteborg",
+                "zip": "41712",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1552,
+                "$last_seen": "2023-11-15T11:38:11.939Z"
               }
             ],
             "lundbygatan": [
@@ -42085,6 +42113,20 @@
                 "$districtName": "härlanda",
                 "last_accept": 1362,
                 "$last_seen": "2023-06-09T08:45:26.541Z"
+              },
+              {
+                "id": 103797,
+                "rent": 11455,
+                "area": 74,
+                "street": "utjordsgatan",
+                "street_number": "17",
+                "city": "göteborg",
+                "zip": "41656",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "härlanda",
+                "last_accept": 1666,
+                "$last_seen": "2023-11-15T11:38:11.939Z"
               }
             ],
             "lagmansgatan": [
@@ -81111,6 +81153,20 @@
                 "$districtName": "vantör",
                 "last_accept": 1847,
                 "$last_seen": "2023-10-16T09:39:57.834Z"
+              },
+              {
+                "id": 103768,
+                "rent": 10424,
+                "area": 78,
+                "street": "askersundsgatan",
+                "street_number": "12",
+                "city": "bandhagen",
+                "zip": "12467",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 1820,
+                "$last_seen": "2023-11-15T11:38:11.939Z"
               }
             ],
             "hagsätra torg": [
