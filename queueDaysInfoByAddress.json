@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-11-15T09:38:54.457Z",
+  "lastUpdatedAt": "2023-11-15T10:45:13.803Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -1375,6 +1375,20 @@
                 "$districtName": "fässberg",
                 "last_accept": 1383,
                 "$last_seen": "2023-10-30T14:41:34.163Z"
+              },
+              {
+                "id": 103893,
+                "rent": 10459,
+                "area": 70,
+                "street": "gustavsbergsgatan",
+                "street_number": "2",
+                "city": "mölndal",
+                "zip": "43137",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 1675,
+                "$last_seen": "2023-11-15T09:38:54.457Z"
               }
             ],
             "fredåsgatan": [
@@ -21171,6 +21185,20 @@
                 "$districtName": "lundby",
                 "last_accept": 251,
                 "$last_seen": "2023-11-14T12:56:17.249Z"
+              },
+              {
+                "id": 104466,
+                "rent": 12673,
+                "area": 76,
+                "street": "fyrklöversgatan",
+                "street_number": "23",
+                "city": "göteborg",
+                "zip": "41721",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 467,
+                "$last_seen": "2023-11-15T09:38:54.457Z"
               }
             ],
             "arvid lindmansgatan": [
@@ -45559,6 +45587,20 @@
                 "$districtName": "göteborgs domkyrkodistrikt",
                 "last_accept": 1769,
                 "$last_seen": "2023-09-25T05:41:55.057Z"
+              },
+              {
+                "id": 104021,
+                "rent": 4825,
+                "area": 41,
+                "street": "burggrevegatan",
+                "street_number": "23 b",
+                "city": "göteborg",
+                "zip": "41103",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs domkyrkodistrikt",
+                "last_accept": 1773,
+                "$last_seen": "2023-11-15T09:38:54.457Z"
               }
             ],
             "ranängsgatan": [
@@ -71397,6 +71439,20 @@
                 "$districtName": "råda",
                 "last_accept": 951,
                 "$last_seen": "2023-10-30T12:56:46.812Z"
+              },
+              {
+                "id": 101008,
+                "rent": 7861,
+                "area": 70,
+                "street": "centralvägen",
+                "street_number": "12",
+                "city": "göteborg",
+                "zip": "43530",
+                "municipality": "härryda",
+                "county": "västra götalands län",
+                "$districtName": "råda",
+                "last_accept": 1772,
+                "$last_seen": "2023-11-15T09:38:54.457Z"
               }
             ],
             "badhusgatan": [
