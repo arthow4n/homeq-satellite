@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-11-15T12:57:46.425Z",
+  "lastUpdatedAt": "2023-11-15T13:40:24.439Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -56575,6 +56575,20 @@
                 "$districtName": "göteborgs oscar fredrik",
                 "last_accept": 1745,
                 "$last_seen": "2023-11-09T14:42:45.274Z"
+              },
+              {
+                "id": 103658,
+                "rent": 11986,
+                "area": 81,
+                "street": "vegagatan",
+                "street_number": "46a",
+                "city": "göteborg",
+                "zip": "41311",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs oscar fredrik",
+                "last_accept": 1850,
+                "$last_seen": "2023-11-15T12:57:46.425Z"
               }
             ],
             "jungmansgatan": [
@@ -70127,6 +70141,20 @@
                 "$districtName": "västra frölunda",
                 "last_accept": 1497,
                 "$last_seen": "2023-10-11T07:41:06.269Z"
+              },
+              {
+                "id": 104445,
+                "rent": 11482,
+                "area": 80,
+                "street": "tamburingatan",
+                "street_number": "7",
+                "city": "västra frölunda",
+                "zip": "42151",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "västra frölunda",
+                "last_accept": 1066,
+                "$last_seen": "2023-11-15T12:57:46.425Z"
               }
             ],
             "marconigatan": [
