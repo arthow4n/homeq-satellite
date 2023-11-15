@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-11-15T08:42:14.985Z",
+  "lastUpdatedAt": "2023-11-15T09:38:54.457Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -6789,6 +6789,20 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1380,
                 "$last_seen": "2023-11-14T15:39:10.466Z"
+              },
+              {
+                "id": 104592,
+                "rent": 10324,
+                "area": 58,
+                "street": "ebbe lieberathsgatan",
+                "street_number": "20 e",
+                "city": "göteborg",
+                "zip": "41265",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1457,
+                "$last_seen": "2023-11-15T08:42:14.985Z"
               }
             ],
             "nordgårdsgatan": [
@@ -15125,6 +15139,20 @@
                 "$districtName": "högsbo",
                 "last_accept": 1052,
                 "$last_seen": "2023-09-11T14:46:23.622Z"
+              },
+              {
+                "id": 103587,
+                "rent": 7588,
+                "area": 35,
+                "street": "sjupundsgatan",
+                "street_number": "13",
+                "city": "göteborg",
+                "zip": "41484",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 968,
+                "$last_seen": "2023-11-15T08:42:14.985Z"
               }
             ],
             "handelsmyntet": [
@@ -82385,6 +82413,24 @@
                 "$districtName": "stockholms sankt göran",
                 "last_accept": 2341,
                 "$last_seen": "2023-08-18T07:43:20.837Z"
+              }
+            ]
+          },
+          "bromma": {
+            "holbergsgatan": [
+              {
+                "id": 105323,
+                "rent": 6045,
+                "area": 46,
+                "street": "holbergsgatan",
+                "street_number": "76",
+                "city": "stockholm",
+                "zip": "16849",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "bromma",
+                "last_accept": 1753,
+                "$last_seen": "2023-11-15T08:42:14.985Z"
               }
             ]
           }
