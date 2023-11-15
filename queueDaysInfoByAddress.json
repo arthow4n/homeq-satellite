@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-11-15T07:38:05.636Z",
+  "lastUpdatedAt": "2023-11-15T08:42:14.985Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -3481,6 +3481,20 @@
                 "$districtName": "fässberg",
                 "last_accept": 1358,
                 "$last_seen": "2023-10-02T09:39:40.891Z"
+              },
+              {
+                "id": 99145,
+                "rent": 10252,
+                "area": 57,
+                "street": "åby allé",
+                "street_number": "15",
+                "city": "göteborg",
+                "zip": "43145",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 1502,
+                "$last_seen": "2023-11-15T07:38:05.636Z"
               },
               {
                 "id": 99175,
@@ -55079,6 +55093,20 @@
                 "$districtName": "göteborgs vasa",
                 "last_accept": 1752,
                 "$last_seen": "2023-10-26T06:42:58.213Z"
+              },
+              {
+                "id": 103793,
+                "rent": 9791,
+                "area": 71,
+                "street": "kapellgatan",
+                "street_number": "6",
+                "city": "göteborg",
+                "zip": "41131",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs vasa",
+                "last_accept": 1771,
+                "$last_seen": "2023-11-15T07:38:05.636Z"
               }
             ],
             "sten sturegatan": [
@@ -65751,6 +65779,20 @@
                 "$districtName": "gunnared",
                 "last_accept": 870,
                 "$last_seen": "2023-08-15T06:46:17.364Z"
+              },
+              {
+                "id": 101247,
+                "rent": 5755,
+                "area": 39,
+                "street": "lagerbladsgatan",
+                "street_number": "2",
+                "city": "göteborg",
+                "zip": "42440",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "gunnared",
+                "last_accept": 818,
+                "$last_seen": "2023-11-15T07:38:05.636Z"
               }
             ],
             "gårdstensvägen": [
@@ -66145,6 +66187,20 @@
                 "$districtName": "gunnared",
                 "last_accept": 1164,
                 "$last_seen": "2023-11-08T09:40:34.648Z"
+              },
+              {
+                "id": 101235,
+                "rent": 9415,
+                "area": 74,
+                "street": "gårdstensvägen",
+                "street_number": "50",
+                "city": "göteborg",
+                "zip": "42440",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "gunnared",
+                "last_accept": 1018,
+                "$last_seen": "2023-11-15T07:38:05.636Z"
               }
             ]
           },
