@@ -31,7 +31,13 @@ const filterForFetchingQueuePointsInfo = (x) => {
     body: '{"shapes":[]}',
     method: "POST",
   })
-    .then((res) => res.json())
+    .then(async (res) => {
+      if (!res.ok) {
+        console.log("Failed to fetch the search result", res.status, await res.json());
+        throw new Error("Failed to fetch the search result");
+      }
+      return await res.json();
+    })
     .then(async ({ results }) => {
       let ptr = 0;
       const filtered = filterForFetchingQueuePointsInfo(results);
