@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-11-15T10:45:13.803Z",
+  "lastUpdatedAt": "2023-11-15T11:38:11.939Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -70651,6 +70651,20 @@
                 "$districtName": "älvsborg",
                 "last_accept": 1296,
                 "$last_seen": "2023-11-13T14:41:38.041Z"
+              },
+              {
+                "id": 103622,
+                "rent": 13954,
+                "area": 103,
+                "street": "tigerstigen",
+                "street_number": "5",
+                "city": "västra frölunda ",
+                "zip": "42672",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "älvsborg",
+                "last_accept": 1659,
+                "$last_seen": "2023-11-15T10:45:13.803Z"
               }
             ]
           }
@@ -77789,6 +77803,20 @@
                 "$districtName": "limhamn",
                 "last_accept": 40,
                 "$last_seen": "2023-10-30T12:56:46.812Z"
+              },
+              {
+                "id": 103901,
+                "rent": 10968,
+                "area": 68,
+                "street": "blåsebergavägen",
+                "street_number": "16",
+                "city": "limhamn",
+                "zip": "21633",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "limhamn",
+                "last_accept": 142,
+                "$last_seen": "2023-11-15T10:45:13.803Z"
               },
               {
                 "id": 104850,
