@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-11-16T14:37:19.680Z",
+  "lastUpdatedAt": "2023-11-16T15:34:06.908Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -21479,6 +21479,20 @@
                 "$districtName": "lundby",
                 "last_accept": 467,
                 "$last_seen": "2023-11-15T09:38:54.457Z"
+              },
+              {
+                "id": 104470,
+                "rent": 3731,
+                "area": 30,
+                "street": "fyrklöversgatan",
+                "street_number": "70",
+                "city": "göteborg",
+                "zip": "41721",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1592,
+                "$last_seen": "2023-11-16T14:37:19.680Z"
               }
             ],
             "arvid lindmansgatan": [
@@ -30385,6 +30399,20 @@
                 "$districtName": "björkekärr",
                 "last_accept": 1749,
                 "$last_seen": "2023-10-23T07:39:32.378Z"
+              },
+              {
+                "id": 103936,
+                "rent": 9516,
+                "area": 67,
+                "street": "stabbegatan",
+                "street_number": "107",
+                "city": "göteborg",
+                "zip": "41680",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "björkekärr",
+                "last_accept": 1768,
+                "$last_seen": "2023-11-16T14:37:19.680Z"
               }
             ]
           },
