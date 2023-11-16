@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-11-16T07:34:01.436Z",
+  "lastUpdatedAt": "2023-11-16T08:38:08.493Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -1389,6 +1389,34 @@
                 "$districtName": "fässberg",
                 "last_accept": 1675,
                 "$last_seen": "2023-11-15T09:38:54.457Z"
+              },
+              {
+                "id": 103954,
+                "rent": 9465,
+                "area": 65,
+                "street": "gustavsbergsgatan",
+                "street_number": "4",
+                "city": "mölndal",
+                "zip": "43137",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 1508,
+                "$last_seen": "2023-11-16T07:34:01.436Z"
+              },
+              {
+                "id": 104147,
+                "rent": 9481,
+                "area": 65,
+                "street": "gustavsbergsgatan",
+                "street_number": "6",
+                "city": "mölndal",
+                "zip": "43137",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 1360,
+                "$last_seen": "2023-11-16T07:34:01.436Z"
               }
             ],
             "fredåsgatan": [
@@ -74647,20 +74675,6 @@
                 "$districtName": "limhamn",
                 "last_accept": 0,
                 "$last_seen": "2023-10-20T13:40:30.740Z"
-              },
-              {
-                "id": 103529,
-                "rent": 8939,
-                "area": 43.5,
-                "street": "dammsnäcksgränd",
-                "street_number": "10",
-                "city": "malmö",
-                "zip": "21631",
-                "municipality": "malmö",
-                "county": "skåne län",
-                "$districtName": "limhamn",
-                "last_accept": 1,
-                "$last_seen": "2023-11-15T16:48:02.110Z"
               }
             ],
             "roddaregatan": [
