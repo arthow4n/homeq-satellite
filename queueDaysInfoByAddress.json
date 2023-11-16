@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-11-16T11:33:42.332Z",
+  "lastUpdatedAt": "2023-11-16T12:53:15.983Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -50979,6 +50979,34 @@
                 "$districtName": "örgryte",
                 "last_accept": 1590,
                 "$last_seen": "2023-11-03T07:39:50.727Z"
+              },
+              {
+                "id": 103947,
+                "rent": 7875,
+                "area": 34,
+                "street": "separatorsgatan",
+                "street_number": "16",
+                "city": "göteborg",
+                "zip": "41278",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1092,
+                "$last_seen": "2023-11-16T11:33:42.332Z"
+              },
+              {
+                "id": 103951,
+                "rent": 7665,
+                "area": 33,
+                "street": "separatorsgatan",
+                "street_number": "12",
+                "city": "göteborg",
+                "zip": "41278",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1092,
+                "$last_seen": "2023-11-16T11:33:42.332Z"
               }
             ],
             "påskbergsgatan": [
@@ -57277,6 +57305,20 @@
                 "$districtName": "göteborgs oscar fredrik",
                 "last_accept": 1850,
                 "$last_seen": "2023-11-15T12:57:46.425Z"
+              },
+              {
+                "id": 103884,
+                "rent": 13853,
+                "area": 102,
+                "street": "vegagatan",
+                "street_number": "34",
+                "city": "göteborg",
+                "zip": "41309",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs oscar fredrik",
+                "last_accept": 1773,
+                "$last_seen": "2023-11-16T11:33:42.332Z"
               }
             ],
             "jungmansgatan": [
@@ -72215,6 +72257,20 @@
                 "$districtName": "råda",
                 "last_accept": 999,
                 "$last_seen": "2023-10-10T11:40:50.386Z"
+              },
+              {
+                "id": 103952,
+                "rent": 8528,
+                "area": 54,
+                "street": "lennart kvarnströms plats",
+                "street_number": "9",
+                "city": "göteborg",
+                "zip": "43530",
+                "municipality": "härryda",
+                "county": "västra götalands län",
+                "$districtName": "råda",
+                "last_accept": 772,
+                "$last_seen": "2023-11-16T11:33:42.332Z"
               }
             ],
             "centralvägen": [
@@ -76949,6 +77005,20 @@
                 "$districtName": "hyllie",
                 "last_accept": 36,
                 "$last_seen": "2023-10-26T10:42:11.278Z"
+              },
+              {
+                "id": 103937,
+                "rent": 9072,
+                "area": 50,
+                "street": "tors gränd",
+                "street_number": "2",
+                "city": "malmö",
+                "zip": "21534",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "hyllie",
+                "last_accept": 54,
+                "$last_seen": "2023-11-16T11:33:42.332Z"
               }
             ],
             "allétorget": [
