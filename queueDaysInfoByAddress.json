@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-11-16T13:39:27.539Z",
+  "lastUpdatedAt": "2023-11-16T14:37:19.680Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -10157,6 +10157,20 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1757,
                 "$last_seen": "2023-10-31T08:41:41.572Z"
+              },
+              {
+                "id": 103970,
+                "rent": 8100,
+                "area": 59,
+                "street": "örnehufvudsgatan",
+                "street_number": "13",
+                "city": "göteborg",
+                "zip": "41259",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1785,
+                "$last_seen": "2023-11-16T13:39:27.539Z"
               }
             ],
             "viktor rydbergsgatan": [
@@ -45757,6 +45771,20 @@
                 "$districtName": "göteborgs domkyrkodistrikt",
                 "last_accept": 1772,
                 "$last_seen": "2023-11-14T09:38:28.494Z"
+              },
+              {
+                "id": 104686,
+                "rent": 8185,
+                "area": 48,
+                "street": "folkungagatan",
+                "street_number": "9 b",
+                "city": "göteborg",
+                "zip": "41102",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs domkyrkodistrikt",
+                "last_accept": 1772,
+                "$last_seen": "2023-11-16T13:39:27.539Z"
               }
             ],
             "basargatan": [
@@ -64397,6 +64425,20 @@
                 "$districtName": "biskopsgården",
                 "last_accept": 1207,
                 "$last_seen": "2023-11-14T09:38:28.494Z"
+              },
+              {
+                "id": 104148,
+                "rent": 10885,
+                "area": 83,
+                "street": "långströmsgatan",
+                "street_number": "44a",
+                "city": "göteborg",
+                "zip": "41870",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "biskopsgården",
+                "last_accept": 777,
+                "$last_seen": "2023-11-16T13:39:27.539Z"
               }
             ],
             "lufttrycksgatan": [
@@ -64683,6 +64725,34 @@
                 "$districtName": "biskopsgården",
                 "last_accept": 1007,
                 "$last_seen": "2023-03-24T15:39:50.169Z"
+              },
+              {
+                "id": 103973,
+                "rent": 8693,
+                "area": 74,
+                "street": "barometergatan",
+                "street_number": "2",
+                "city": "göteborg",
+                "zip": "41841",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "biskopsgården",
+                "last_accept": 1370,
+                "$last_seen": "2023-11-16T13:39:27.539Z"
+              },
+              {
+                "id": 103974,
+                "rent": 4938,
+                "area": 35,
+                "street": "barometergatan",
+                "street_number": "8",
+                "city": "göteborg",
+                "zip": "41841",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "biskopsgården",
+                "last_accept": 674,
+                "$last_seen": "2023-11-16T13:39:27.539Z"
               }
             ]
           },
