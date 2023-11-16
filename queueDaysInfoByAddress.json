@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-11-16T12:53:15.983Z",
+  "lastUpdatedAt": "2023-11-16T13:39:27.539Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -22041,6 +22041,20 @@
                 "$districtName": "lundby",
                 "last_accept": 1277,
                 "$last_seen": "2023-11-06T09:40:54.423Z"
+              },
+              {
+                "id": 104311,
+                "rent": 8197,
+                "area": 72,
+                "street": "arvid lindmansgatan",
+                "street_number": "10 a",
+                "city": "göteborg",
+                "zip": "41726",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1394,
+                "$last_seen": "2023-11-16T12:53:15.983Z"
               }
             ],
             "estlandsgatan": [
@@ -58231,6 +58245,20 @@
                 "$districtName": "göteborgs oscar fredrik",
                 "last_accept": 1638,
                 "$last_seen": "2023-07-04T13:50:06.812Z"
+              },
+              {
+                "id": 103950,
+                "rent": 11600,
+                "area": 74,
+                "street": "nordhemsgatan",
+                "street_number": "39",
+                "city": "göteborg",
+                "zip": "41306",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs oscar fredrik",
+                "last_accept": 1862,
+                "$last_seen": "2023-11-16T12:53:15.983Z"
               }
             ],
             "prinsgatan": [
@@ -75363,6 +75391,20 @@
                 "$districtName": "kirseberg",
                 "last_accept": 0,
                 "$last_seen": "2023-10-17T10:45:36.616Z"
+              },
+              {
+                "id": 103897,
+                "rent": 6439,
+                "area": 32.1,
+                "street": "lundavägen",
+                "street_number": "33",
+                "city": "malmö",
+                "zip": "21219",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "kirseberg",
+                "last_accept": 377,
+                "$last_seen": "2023-11-16T12:53:15.983Z"
               }
             ],
             "högamöllegatan": [
