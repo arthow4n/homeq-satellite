@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-11-17T10:38:42.792Z",
+  "lastUpdatedAt": "2023-11-17T11:33:34.790Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -34469,6 +34469,20 @@
                 "$districtName": "askim",
                 "last_accept": 1689,
                 "$last_seen": "2023-11-13T10:45:25.557Z"
+              },
+              {
+                "id": 104465,
+                "rent": 7954,
+                "area": 65,
+                "street": "pilegården",
+                "street_number": "6b",
+                "city": "göteborg",
+                "zip": "43635",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 1322,
+                "$last_seen": "2023-11-17T10:38:42.792Z"
               }
             ],
             "nergårdsvägen": [
@@ -70137,6 +70151,20 @@
                 "$districtName": "tynnered",
                 "last_accept": 0,
                 "$last_seen": "2023-10-16T08:45:16.680Z"
+              },
+              {
+                "id": 105060,
+                "rent": 10623,
+                "area": 81,
+                "street": "smyckegatan",
+                "street_number": "14",
+                "city": "västra frölunda",
+                "zip": "42650",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tynnered",
+                "last_accept": 1312,
+                "$last_seen": "2023-11-17T10:38:42.792Z"
               }
             ],
             "björkhöjdsgatan": [
