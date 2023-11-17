@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-11-17T12:52:37.069Z",
+  "lastUpdatedAt": "2023-11-17T13:35:32.908Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -73475,6 +73475,20 @@
                 "$districtName": "malmö sankt petri",
                 "last_accept": 906,
                 "$last_seen": "2023-10-17T14:43:29.657Z"
+              },
+              {
+                "id": 104221,
+                "rent": 15640,
+                "area": 109,
+                "street": "stora nygatan",
+                "street_number": "21",
+                "city": "malmö",
+                "zip": "21137",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "malmö sankt petri",
+                "last_accept": 675,
+                "$last_seen": "2023-11-17T12:52:37.069Z"
               }
             ],
             "västergatan": [
@@ -80267,6 +80281,20 @@
                 "$districtName": "limhamn",
                 "last_accept": 0,
                 "$last_seen": "2023-11-09T13:44:31.891Z"
+              },
+              {
+                "id": 104853,
+                "rent": 8784,
+                "area": 56,
+                "street": "glasbruksgatan",
+                "street_number": "8",
+                "city": "limhamn",
+                "zip": "21614",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "limhamn",
+                "last_accept": 104,
+                "$last_seen": "2023-11-17T12:52:37.069Z"
               }
             ]
           }
