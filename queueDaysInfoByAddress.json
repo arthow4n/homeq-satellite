@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-11-17T13:35:32.908Z",
+  "lastUpdatedAt": "2023-11-17T14:36:51.036Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -1933,6 +1933,20 @@
                 "$districtName": "fässberg",
                 "last_accept": 1327,
                 "$last_seen": "2023-11-03T08:43:04.099Z"
+              },
+              {
+                "id": 104152,
+                "rent": 9121,
+                "area": 66,
+                "street": "ranunkelgatan",
+                "street_number": "1c",
+                "city": "mölndal",
+                "zip": "43132",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 1527,
+                "$last_seen": "2023-11-17T13:35:32.908Z"
               }
             ],
             "katrinebergsgatan": [
@@ -41479,6 +41493,20 @@
                 "$districtName": "nylöse",
                 "last_accept": 83,
                 "$last_seen": "2023-11-15T16:48:02.110Z"
+              },
+              {
+                "id": 104081,
+                "rent": 10021,
+                "area": 70,
+                "street": "sysslomansgatan",
+                "street_number": "39",
+                "city": "göteborg",
+                "zip": "41574",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "nylöse",
+                "last_accept": 1455,
+                "$last_seen": "2023-11-17T13:35:32.908Z"
               }
             ],
             "hinderbanan": [
@@ -65225,6 +65253,20 @@
                 "$districtName": "tuve",
                 "last_accept": 438,
                 "$last_seen": "2023-08-30T10:44:58.883Z"
+              },
+              {
+                "id": 104088,
+                "rent": 12311,
+                "area": 77,
+                "street": "gunnestorpsvägen",
+                "street_number": "103",
+                "city": "göteborg",
+                "zip": "41747",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tuve",
+                "last_accept": 769,
+                "$last_seen": "2023-11-17T13:35:32.908Z"
               }
             ],
             "gubbe lars väg": [
@@ -70895,6 +70937,20 @@
                 "$districtName": "västra frölunda",
                 "last_accept": 945,
                 "$last_seen": "2023-10-10T06:46:05.545Z"
+              },
+              {
+                "id": 104137,
+                "rent": 9896,
+                "area": 77,
+                "street": "munspelsgatan",
+                "street_number": "8",
+                "city": "västra frölunda",
+                "zip": "42151",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "västra frölunda",
+                "last_accept": 1563,
+                "$last_seen": "2023-11-17T13:35:32.908Z"
               }
             ],
             "speldosegatan": [
@@ -75771,6 +75827,20 @@
                 "$districtName": "kirseberg",
                 "last_accept": 0,
                 "$last_seen": "2023-11-15T16:48:02.110Z"
+              },
+              {
+                "id": 104133,
+                "rent": 9830,
+                "area": 77,
+                "street": "högamöllegatan",
+                "street_number": "3 b",
+                "city": "malmö",
+                "zip": "21219",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "kirseberg",
+                "last_accept": 222,
+                "$last_seen": "2023-11-17T13:35:32.908Z"
               }
             ],
             "floragatan": [
@@ -85351,6 +85421,20 @@
                 "$districtName": "österhaninge",
                 "last_accept": 606,
                 "$last_seen": "2023-11-02T08:41:42.253Z"
+              },
+              {
+                "id": 105159,
+                "rent": 12681,
+                "area": 57.6,
+                "street": "vardövägen",
+                "street_number": "53",
+                "city": "stockholm",
+                "zip": "13657",
+                "municipality": "haninge",
+                "county": "stockholms län",
+                "$districtName": "österhaninge",
+                "last_accept": 388,
+                "$last_seen": "2023-11-17T13:35:32.908Z"
               }
             ]
           }
