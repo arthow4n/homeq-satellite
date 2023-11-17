@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-11-17T09:33:28.345Z",
+  "lastUpdatedAt": "2023-11-17T10:38:42.792Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -22083,6 +22083,20 @@
                 "$districtName": "lundby",
                 "last_accept": 1394,
                 "$last_seen": "2023-11-16T12:53:15.983Z"
+              },
+              {
+                "id": 104474,
+                "rent": 7775,
+                "area": 65,
+                "street": "arvid lindmansgatan",
+                "street_number": "5 b",
+                "city": "göteborg",
+                "zip": "41726",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1530,
+                "$last_seen": "2023-11-17T09:33:28.345Z"
               }
             ],
             "estlandsgatan": [
@@ -24645,6 +24659,20 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1010,
                 "$last_seen": "2023-10-19T10:44:00.484Z"
+              },
+              {
+                "id": 104605,
+                "rent": 8200,
+                "area": 66,
+                "street": "kobbarnas väg",
+                "street_number": "6",
+                "city": "göteborg",
+                "zip": "41647",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1772,
+                "$last_seen": "2023-11-17T09:33:28.345Z"
               }
             ],
             "s:t pauligatan": [
@@ -74297,6 +74325,20 @@
                 "$districtName": "möllevången",
                 "last_accept": 785,
                 "$last_seen": "2023-06-28T11:42:15.053Z"
+              },
+              {
+                "id": 103837,
+                "rent": 3918,
+                "area": 28,
+                "street": "södra förstadsgatan",
+                "street_number": "118",
+                "city": "malmö",
+                "zip": "21428",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "möllevången",
+                "last_accept": 1064,
+                "$last_seen": "2023-11-17T09:33:28.345Z"
               }
             ],
             "almbacksgatan": [
@@ -84723,6 +84765,22 @@
                 "$districtName": "bromma",
                 "last_accept": 1867,
                 "$last_seen": "2023-11-02T08:41:42.253Z"
+              }
+            ],
+            "holbergsgatan": [
+              {
+                "id": 105292,
+                "rent": 5190,
+                "area": 31,
+                "street": "holbergsgatan",
+                "street_number": "172",
+                "city": "bromma",
+                "zip": "16845",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "bromma",
+                "last_accept": 1772,
+                "$last_seen": "2023-11-17T09:33:28.345Z"
               }
             ]
           }
