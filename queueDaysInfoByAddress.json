@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-11-20T14:37:49.258Z",
+  "lastUpdatedAt": "2023-11-20T15:35:36.830Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -22509,6 +22509,20 @@
                 "$districtName": "lundby",
                 "last_accept": 1569,
                 "$last_seen": "2023-10-13T13:44:03.048Z"
+              },
+              {
+                "id": 104223,
+                "rent": 8918,
+                "area": 63,
+                "street": "norra säterigatan",
+                "street_number": "22",
+                "city": "göteborg",
+                "zip": "41876",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1223,
+                "$last_seen": "2023-11-20T14:37:49.258Z"
               }
             ],
             "biskopsgatan": [
@@ -85429,6 +85443,20 @@
                 "$districtName": "kista",
                 "last_accept": 513,
                 "$last_seen": "2023-11-14T09:38:28.494Z"
+              },
+              {
+                "id": 105602,
+                "rent": 6682,
+                "area": 26,
+                "street": "almbygatan",
+                "street_number": "14",
+                "city": "spånga",
+                "zip": "16376",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "kista",
+                "last_accept": 492,
+                "$last_seen": "2023-11-20T14:37:49.258Z"
               }
             ]
           }
