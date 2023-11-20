@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-11-20T18:38:45.740Z",
+  "lastUpdatedAt": "2023-11-20T19:33:36.147Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -75235,20 +75235,6 @@
                 "$districtName": "limhamn",
                 "last_accept": 0,
                 "$last_seen": "2023-11-15T16:48:02.110Z"
-              },
-              {
-                "id": 103556,
-                "rent": 7322,
-                "area": 32.6,
-                "street": "nätsnäcksgränd",
-                "street_number": "8",
-                "city": "malmö",
-                "zip": "21631",
-                "municipality": "malmö",
-                "county": "skåne län",
-                "$districtName": "limhamn",
-                "last_accept": 0,
-                "$last_seen": "2023-11-20T17:33:13.181Z"
               }
             ],
             "dammsnäcksgränd": [
