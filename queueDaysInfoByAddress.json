@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-11-20T12:54:08.181Z",
+  "lastUpdatedAt": "2023-11-20T13:36:55.366Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -1947,6 +1947,20 @@
                 "$districtName": "fässberg",
                 "last_accept": 1327,
                 "$last_seen": "2023-11-03T08:43:04.099Z"
+              },
+              {
+                "id": 104152,
+                "rent": 9121,
+                "area": 66,
+                "street": "ranunkelgatan",
+                "street_number": "1c",
+                "city": "mölndal",
+                "zip": "43132",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 1530,
+                "$last_seen": "2023-11-20T12:54:08.181Z"
               }
             ],
             "katrinebergsgatan": [
@@ -30255,6 +30269,20 @@
                 "$districtName": "björkekärr",
                 "last_accept": 1266,
                 "$last_seen": "2023-11-15T16:48:02.110Z"
+              },
+              {
+                "id": 104024,
+                "rent": 5787,
+                "area": 30,
+                "street": "smörslätten",
+                "street_number": "10",
+                "city": "göteborg",
+                "zip": "41677",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "björkekärr",
+                "last_accept": 1246,
+                "$last_seen": "2023-11-20T12:54:08.181Z"
               }
             ],
             "lådspikaregatan": [
@@ -55125,6 +55153,20 @@
                 "$districtName": "göteborgs vasa",
                 "last_accept": 1755,
                 "$last_seen": "2023-10-30T15:38:36.175Z"
+              },
+              {
+                "id": 104704,
+                "rent": 9790,
+                "area": 63,
+                "street": "mölndalsvägen",
+                "street_number": "7",
+                "city": "göteborg",
+                "zip": "41263",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs vasa",
+                "last_accept": 1691,
+                "$last_seen": "2023-11-20T12:54:08.181Z"
               }
             ],
             "götabergsgatan": [
