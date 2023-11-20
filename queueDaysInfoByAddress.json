@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-11-20T04:38:30.614Z",
+  "lastUpdatedAt": "2023-11-20T05:36:40.475Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -49961,34 +49961,6 @@
                 "$districtName": "örgryte",
                 "last_accept": 1789,
                 "$last_seen": "2023-10-30T14:41:34.163Z"
-              },
-              {
-                "id": 104007,
-                "rent": 13170,
-                "area": 102,
-                "street": "mejerigatan",
-                "street_number": "12",
-                "city": "göteborg",
-                "zip": "41276",
-                "municipality": "göteborg",
-                "county": "västra götalands län",
-                "$districtName": "örgryte",
-                "last_accept": 1674,
-                "$last_seen": "2023-11-19T22:35:31.911Z"
-              },
-              {
-                "id": 104009,
-                "rent": 8442,
-                "area": 60,
-                "street": "mejerigatan",
-                "street_number": "12",
-                "city": "göteborg",
-                "zip": "41276",
-                "municipality": "göteborg",
-                "county": "västra götalands län",
-                "$districtName": "örgryte",
-                "last_accept": 1748,
-                "$last_seen": "2023-11-19T22:35:31.911Z"
               }
             ],
             "filmjölksgatan": [
