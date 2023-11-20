@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-11-20T07:33:18.813Z",
+  "lastUpdatedAt": "2023-11-20T08:39:00.065Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -23772,6 +23772,22 @@
                 "last_accept": 533,
                 "$last_seen": "2023-09-26T10:44:49.896Z"
               }
+            ],
+            "östra kiellersgatan": [
+              {
+                "id": 104606,
+                "rent": 5650,
+                "area": 33,
+                "street": "östra kiellersgatan",
+                "street_number": "8b",
+                "city": "göteborg",
+                "zip": "41715",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1224,
+                "$last_seen": "2023-11-20T07:33:18.813Z"
+              }
             ]
           },
           "göteborgs sankt pauli": {
@@ -42383,6 +42399,20 @@
                 "$districtName": "härlanda",
                 "last_accept": 1651,
                 "$last_seen": "2023-10-17T10:45:36.616Z"
+              },
+              {
+                "id": 104814,
+                "rent": 11178,
+                "area": 109,
+                "street": "ättestigen",
+                "street_number": "4",
+                "city": "göteborg",
+                "zip": "41674",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "härlanda",
+                "last_accept": 1777,
+                "$last_seen": "2023-11-20T07:33:18.813Z"
               }
             ],
             "ahrenbergsgata": [
@@ -50017,6 +50047,20 @@
                 "$districtName": "örgryte",
                 "last_accept": 1659,
                 "$last_seen": "2023-11-20T06:39:46.027Z"
+              },
+              {
+                "id": 104083,
+                "rent": 12118,
+                "area": 92,
+                "street": "mejerigatan",
+                "street_number": "14",
+                "city": "göteborg",
+                "zip": "41276",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1720,
+                "$last_seen": "2023-11-20T07:33:18.813Z"
               }
             ],
             "filmjölksgatan": [
@@ -58349,6 +58393,20 @@
                 "$districtName": "göteborgs oscar fredrik",
                 "last_accept": 1744,
                 "$last_seen": "2023-10-18T11:39:54.758Z"
+              },
+              {
+                "id": 104022,
+                "rent": 10236,
+                "area": 62,
+                "street": "kryssdäcket",
+                "street_number": "1",
+                "city": "göteborg",
+                "zip": "41327",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs oscar fredrik",
+                "last_accept": 1774,
+                "$last_seen": "2023-11-20T07:33:18.813Z"
               }
             ],
             "övre djupedalsgatan": [
@@ -66727,6 +66785,20 @@
                 "$districtName": "tynnered",
                 "last_accept": 1552,
                 "$last_seen": "2023-09-19T07:41:36.343Z"
+              },
+              {
+                "id": 104671,
+                "rent": 9519,
+                "area": 77,
+                "street": "karneolgatan",
+                "street_number": "65",
+                "city": "göteborg",
+                "zip": "42651",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tynnered",
+                "last_accept": 1472,
+                "$last_seen": "2023-11-20T07:33:18.813Z"
               }
             ],
             "beryllgatan": [
