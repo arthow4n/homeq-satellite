@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-11-20T11:33:31.276Z",
+  "lastUpdatedAt": "2023-11-20T12:54:08.181Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -1947,20 +1947,6 @@
                 "$districtName": "fässberg",
                 "last_accept": 1327,
                 "$last_seen": "2023-11-03T08:43:04.099Z"
-              },
-              {
-                "id": 104152,
-                "rent": 9121,
-                "area": 66,
-                "street": "ranunkelgatan",
-                "street_number": "1c",
-                "city": "mölndal",
-                "zip": "43132",
-                "municipality": "mölndal",
-                "county": "västra götalands län",
-                "$districtName": "fässberg",
-                "last_accept": 1527,
-                "$last_seen": "2023-11-17T13:35:32.908Z"
               }
             ],
             "katrinebergsgatan": [
@@ -81563,6 +81549,20 @@
                 "$districtName": "bunkeflo",
                 "last_accept": 0,
                 "$last_seen": "2023-11-01T14:41:11.268Z"
+              },
+              {
+                "id": 104875,
+                "rent": 8959,
+                "area": 60.6,
+                "street": "smedmästarebyn",
+                "street_number": "1f",
+                "city": "bunkeflostrand",
+                "zip": "21841",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "bunkeflo",
+                "last_accept": 0,
+                "$last_seen": "2023-11-20T11:33:31.276Z"
               }
             ],
             "skräddarebyn": [
