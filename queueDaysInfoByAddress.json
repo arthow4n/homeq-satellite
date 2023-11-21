@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-11-20T23:33:46.477Z",
+  "lastUpdatedAt": "2023-11-21T01:44:36.413Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -10483,6 +10483,22 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1267,
                 "$last_seen": "2023-06-26T11:42:42.242Z"
+              }
+            ],
+            "glasmästaregatan": [
+              {
+                "id": 104235,
+                "rent": 9309,
+                "area": 75,
+                "street": "glasmästaregatan",
+                "street_number": "13b",
+                "city": "göteborg",
+                "zip": "42162",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1777,
+                "$last_seen": "2023-11-20T23:33:46.477Z"
               }
             ]
           },
@@ -75235,20 +75251,6 @@
                 "$districtName": "limhamn",
                 "last_accept": 0,
                 "$last_seen": "2023-11-15T16:48:02.110Z"
-              },
-              {
-                "id": 103556,
-                "rent": 7322,
-                "area": 32.6,
-                "street": "nätsnäcksgränd",
-                "street_number": "8",
-                "city": "malmö",
-                "zip": "21631",
-                "municipality": "malmö",
-                "county": "skåne län",
-                "$districtName": "limhamn",
-                "last_accept": 0,
-                "$last_seen": "2023-11-20T22:37:25.544Z"
               }
             ],
             "dammsnäcksgränd": [
