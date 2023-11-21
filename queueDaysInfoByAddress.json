@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-11-21T09:33:42.380Z",
+  "lastUpdatedAt": "2023-11-21T10:46:07.490Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -4637,6 +4637,20 @@
                 "$districtName": "örgryte",
                 "last_accept": 1219,
                 "$last_seen": "2023-11-10T07:40:04.625Z"
+              },
+              {
+                "id": 104188,
+                "rent": 7741,
+                "area": 35,
+                "street": "smörkärnegatan",
+                "street_number": "25",
+                "city": "göteborg",
+                "zip": "41278",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1262,
+                "$last_seen": "2023-11-21T09:33:42.380Z"
               }
             ]
           }
@@ -75293,20 +75307,6 @@
                 "$districtName": "limhamn",
                 "last_accept": 0,
                 "$last_seen": "2023-11-15T16:48:02.110Z"
-              },
-              {
-                "id": 103556,
-                "rent": 7322,
-                "area": 32.6,
-                "street": "nätsnäcksgränd",
-                "street_number": "8",
-                "city": "malmö",
-                "zip": "21631",
-                "municipality": "malmö",
-                "county": "skåne län",
-                "$districtName": "limhamn",
-                "last_accept": 0,
-                "$last_seen": "2023-11-21T08:38:21.767Z"
               }
             ],
             "dammsnäcksgränd": [
