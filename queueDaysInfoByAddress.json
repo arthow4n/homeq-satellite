@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-11-21T11:34:20.514Z",
+  "lastUpdatedAt": "2023-11-21T12:54:32.514Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -6915,6 +6915,20 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1457,
                 "$last_seen": "2023-11-15T08:42:14.985Z"
+              },
+              {
+                "id": 104595,
+                "rent": 6685,
+                "area": 30,
+                "street": "ebbe lieberathsgatan",
+                "street_number": "20 f",
+                "city": "göteborg",
+                "zip": "41265",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1338,
+                "$last_seen": "2023-11-21T11:34:20.514Z"
               }
             ],
             "nordgårdsgatan": [
