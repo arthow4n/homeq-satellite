@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-11-21T08:38:21.767Z",
+  "lastUpdatedAt": "2023-11-21T09:33:42.380Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -17059,6 +17059,20 @@
                 "$districtName": "brämaregården",
                 "last_accept": 1353,
                 "$last_seen": "2023-11-20T09:33:45.574Z"
+              },
+              {
+                "id": 104786,
+                "rent": 8740,
+                "area": 58,
+                "street": "wieselgrensplatsen",
+                "street_number": "1",
+                "city": "göteborg",
+                "zip": "41739",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brämaregården",
+                "last_accept": 1779,
+                "$last_seen": "2023-11-21T08:38:21.767Z"
               }
             ],
             "väderkvarnsgatan": [
@@ -73757,6 +73771,20 @@
                 "$districtName": "malmö sankt petri",
                 "last_accept": 1335,
                 "$last_seen": "2023-10-15T14:40:37.194Z"
+              },
+              {
+                "id": 105532,
+                "rent": 9982,
+                "area": 60,
+                "street": "gasverksgatan",
+                "street_number": "6",
+                "city": "malmö",
+                "zip": "21129",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "malmö sankt petri",
+                "last_accept": 124,
+                "$last_seen": "2023-11-21T08:38:21.767Z"
               }
             ],
             "stora nygatan": [
@@ -75265,6 +75293,20 @@
                 "$districtName": "limhamn",
                 "last_accept": 0,
                 "$last_seen": "2023-11-15T16:48:02.110Z"
+              },
+              {
+                "id": 103556,
+                "rent": 7322,
+                "area": 32.6,
+                "street": "nätsnäcksgränd",
+                "street_number": "8",
+                "city": "malmö",
+                "zip": "21631",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "limhamn",
+                "last_accept": 0,
+                "$last_seen": "2023-11-21T08:38:21.767Z"
               }
             ],
             "dammsnäcksgränd": [
@@ -77853,6 +77895,20 @@
                 "$districtName": "hyllie",
                 "last_accept": 190,
                 "$last_seen": "2023-11-15T16:48:02.110Z"
+              },
+              {
+                "id": 104006,
+                "rent": 9910,
+                "area": 55,
+                "street": "bures gata",
+                "street_number": "3a",
+                "city": "malmö",
+                "zip": "21533",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "hyllie",
+                "last_accept": 43,
+                "$last_seen": "2023-11-21T08:38:21.767Z"
               }
             ],
             "sagas gränd": [
