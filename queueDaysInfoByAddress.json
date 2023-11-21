@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-11-21T07:33:29.644Z",
+  "lastUpdatedAt": "2023-11-21T08:38:21.767Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -14319,6 +14319,20 @@
                 "$districtName": "högsbo",
                 "last_accept": 1752,
                 "$last_seen": "2023-11-01T09:38:27.953Z"
+              },
+              {
+                "id": 104212,
+                "rent": 8055,
+                "area": 65,
+                "street": "skäpplandsgatan",
+                "street_number": "4",
+                "city": "göteborg",
+                "zip": "41478",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 1485,
+                "$last_seen": "2023-11-21T07:33:29.644Z"
               }
             ],
             "marklandsgatan": [
@@ -56879,6 +56893,20 @@
                 "$districtName": "göteborgs vasa",
                 "last_accept": 1512,
                 "$last_seen": "2023-02-28T06:46:13.496Z"
+              },
+              {
+                "id": 105537,
+                "rent": 17236,
+                "area": 139,
+                "street": "burgårdsgatan",
+                "street_number": "13",
+                "city": "göteborg",
+                "zip": "41252",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs vasa",
+                "last_accept": 1778,
+                "$last_seen": "2023-11-21T07:33:29.644Z"
               }
             ],
             "skånegatan": [
@@ -75237,20 +75265,6 @@
                 "$districtName": "limhamn",
                 "last_accept": 0,
                 "$last_seen": "2023-11-15T16:48:02.110Z"
-              },
-              {
-                "id": 103556,
-                "rent": 7322,
-                "area": 32.6,
-                "street": "nätsnäcksgränd",
-                "street_number": "8",
-                "city": "malmö",
-                "zip": "21631",
-                "municipality": "malmö",
-                "county": "skåne län",
-                "$districtName": "limhamn",
-                "last_accept": 0,
-                "$last_seen": "2023-11-21T06:38:59.799Z"
               }
             ],
             "dammsnäcksgränd": [
@@ -78923,6 +78937,20 @@
                 "$districtName": "malmö sankt johannes",
                 "last_accept": 1110,
                 "$last_seen": "2023-10-13T10:44:57.702Z"
+              },
+              {
+                "id": 104815,
+                "rent": 7754,
+                "area": 64,
+                "street": "möllevångsgatan",
+                "street_number": "34",
+                "city": "malmö",
+                "zip": "21422",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "malmö sankt johannes",
+                "last_accept": 1392,
+                "$last_seen": "2023-11-21T07:33:29.644Z"
               }
             ]
           },
