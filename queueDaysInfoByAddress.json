@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-11-22T06:40:19.137Z",
+  "lastUpdatedAt": "2023-11-22T07:34:22.952Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -30627,6 +30627,22 @@
                 "$districtName": "björkekärr",
                 "last_accept": 1768,
                 "$last_seen": "2023-11-16T14:37:19.680Z"
+              }
+            ],
+            "stabbetorget": [
+              {
+                "id": 104228,
+                "rent": 8515,
+                "area": 99,
+                "street": "stabbetorget",
+                "street_number": "6",
+                "city": "göteborg",
+                "zip": "41680",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "björkekärr",
+                "last_accept": 1774,
+                "$last_seen": "2023-11-17T20:34:17.464Z"
               }
             ]
           },
@@ -85613,6 +85629,20 @@
                 "$districtName": "kista",
                 "last_accept": 513,
                 "$last_seen": "2023-11-14T09:38:28.494Z"
+              },
+              {
+                "id": 105597,
+                "rent": 6236,
+                "area": 22,
+                "street": "almbygatan",
+                "street_number": "14",
+                "city": "spånga",
+                "zip": "16376",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "kista",
+                "last_accept": 0,
+                "$last_seen": "2023-11-22T06:40:19.137Z"
               },
               {
                 "id": 105602,
