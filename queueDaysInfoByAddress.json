@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-11-22T07:34:22.952Z",
+  "lastUpdatedAt": "2023-11-22T08:39:08.641Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -27193,6 +27193,20 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1621,
                 "$last_seen": "2023-10-23T07:39:32.378Z"
+              },
+              {
+                "id": 105172,
+                "rent": 14018,
+                "area": 113,
+                "street": "mäster johansgatan",
+                "street_number": "8",
+                "city": "göteborg",
+                "zip": "41662",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1773,
+                "$last_seen": "2023-11-22T07:34:22.952Z"
               }
             ],
             "sankt pauligatan": [
@@ -74417,6 +74431,20 @@
                 "$districtName": "husie",
                 "last_accept": 0,
                 "$last_seen": "2023-11-09T10:45:12.597Z"
+              },
+              {
+                "id": 105326,
+                "rent": 9689,
+                "area": 67,
+                "street": "lönnebergagatan",
+                "street_number": "2",
+                "city": "malmö",
+                "zip": "21215",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "husie",
+                "last_accept": 0,
+                "$last_seen": "2023-11-22T07:34:22.952Z"
               }
             ]
           },
