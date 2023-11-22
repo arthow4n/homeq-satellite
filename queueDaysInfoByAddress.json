@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-11-22T08:39:08.641Z",
+  "lastUpdatedAt": "2023-11-22T09:34:59.660Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -6929,6 +6929,34 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1338,
                 "$last_seen": "2023-11-21T11:34:20.514Z"
+              },
+              {
+                "id": 104596,
+                "rent": 7250,
+                "area": 30,
+                "street": "ebbe lieberathsgatan",
+                "street_number": "20 f",
+                "city": "göteborg",
+                "zip": "41265",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1208,
+                "$last_seen": "2023-11-22T08:39:08.641Z"
+              },
+              {
+                "id": 104607,
+                "rent": 7250,
+                "area": 30,
+                "street": "ebbe lieberathsgatan",
+                "street_number": "22 d",
+                "city": "göteborg",
+                "zip": "41265",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1331,
+                "$last_seen": "2023-11-22T08:39:08.641Z"
               }
             ],
             "nordgårdsgatan": [
@@ -30641,22 +30669,6 @@
                 "$districtName": "björkekärr",
                 "last_accept": 1768,
                 "$last_seen": "2023-11-16T14:37:19.680Z"
-              }
-            ],
-            "stabbetorget": [
-              {
-                "id": 104228,
-                "rent": 8515,
-                "area": 99,
-                "street": "stabbetorget",
-                "street_number": "6",
-                "city": "göteborg",
-                "zip": "41680",
-                "municipality": "göteborg",
-                "county": "västra götalands län",
-                "$districtName": "björkekärr",
-                "last_accept": 1774,
-                "$last_seen": "2023-11-17T20:34:17.464Z"
               }
             ]
           },
@@ -72485,6 +72497,20 @@
                 "$districtName": "partille",
                 "last_accept": 1064,
                 "$last_seen": "2023-11-06T13:43:01.295Z"
+              },
+              {
+                "id": 105586,
+                "rent": 7750,
+                "area": 47,
+                "street": "stärteredsvägen",
+                "street_number": "29",
+                "city": "jonsered",
+                "zip": "43375",
+                "municipality": "partille",
+                "county": "västra götalands län",
+                "$districtName": "partille",
+                "last_accept": 673,
+                "$last_seen": "2023-11-22T08:39:08.641Z"
               }
             ],
             "länsmansvägen": [
