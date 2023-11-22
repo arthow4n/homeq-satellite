@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-11-22T10:42:15.628Z",
+  "lastUpdatedAt": "2023-11-22T11:34:25.986Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -6929,6 +6929,34 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1338,
                 "$last_seen": "2023-11-21T11:34:20.514Z"
+              },
+              {
+                "id": 104596,
+                "rent": 7250,
+                "area": 30,
+                "street": "ebbe lieberathsgatan",
+                "street_number": "20 f",
+                "city": "göteborg",
+                "zip": "41265",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1208,
+                "$last_seen": "2023-11-22T10:42:15.628Z"
+              },
+              {
+                "id": 104607,
+                "rent": 7250,
+                "area": 30,
+                "street": "ebbe lieberathsgatan",
+                "street_number": "22 d",
+                "city": "göteborg",
+                "zip": "41265",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1331,
+                "$last_seen": "2023-11-22T10:42:15.628Z"
               }
             ],
             "nordgårdsgatan": [
@@ -16411,6 +16439,20 @@
                 "$districtName": "brämaregården",
                 "last_accept": 1680,
                 "$last_seen": "2023-10-23T10:44:23.612Z"
+              },
+              {
+                "id": 105604,
+                "rent": 9678,
+                "area": 70,
+                "street": "lantmätaregatan",
+                "street_number": "12 c",
+                "city": "göteborg",
+                "zip": "41706",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brämaregården",
+                "last_accept": 1773,
+                "$last_seen": "2023-11-22T10:42:15.628Z"
               }
             ],
             "långängen": [
