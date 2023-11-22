@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-11-22T09:34:59.660Z",
+  "lastUpdatedAt": "2023-11-22T10:42:15.628Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -6929,34 +6929,6 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1338,
                 "$last_seen": "2023-11-21T11:34:20.514Z"
-              },
-              {
-                "id": 104596,
-                "rent": 7250,
-                "area": 30,
-                "street": "ebbe lieberathsgatan",
-                "street_number": "20 f",
-                "city": "göteborg",
-                "zip": "41265",
-                "municipality": "göteborg",
-                "county": "västra götalands län",
-                "$districtName": "johanneberg",
-                "last_accept": 1208,
-                "$last_seen": "2023-11-22T08:39:08.641Z"
-              },
-              {
-                "id": 104607,
-                "rent": 7250,
-                "area": 30,
-                "street": "ebbe lieberathsgatan",
-                "street_number": "22 d",
-                "city": "göteborg",
-                "zip": "41265",
-                "municipality": "göteborg",
-                "county": "västra götalands län",
-                "$districtName": "johanneberg",
-                "last_accept": 1331,
-                "$last_seen": "2023-11-22T08:39:08.641Z"
               }
             ],
             "nordgårdsgatan": [
@@ -30669,6 +30641,22 @@
                 "$districtName": "björkekärr",
                 "last_accept": 1768,
                 "$last_seen": "2023-11-16T14:37:19.680Z"
+              }
+            ],
+            "stabbetorget": [
+              {
+                "id": 104228,
+                "rent": 8515,
+                "area": 99,
+                "street": "stabbetorget",
+                "street_number": "6",
+                "city": "göteborg",
+                "zip": "41680",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "björkekärr",
+                "last_accept": 1774,
+                "$last_seen": "2023-11-17T20:34:17.464Z"
               }
             ]
           },
@@ -64919,6 +64907,20 @@
                 "$districtName": "biskopsgården",
                 "last_accept": 777,
                 "$last_seen": "2023-11-16T13:39:27.539Z"
+              },
+              {
+                "id": 105280,
+                "rent": 10885,
+                "area": 83,
+                "street": "långströmsgatan",
+                "street_number": "44a",
+                "city": "göteborg",
+                "zip": "41870",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "biskopsgården",
+                "last_accept": 865,
+                "$last_seen": "2023-11-22T09:34:59.660Z"
               }
             ],
             "lufttrycksgatan": [
