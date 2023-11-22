@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-11-21T23:35:06.985Z",
+  "lastUpdatedAt": "2023-11-22T01:44:56.194Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -6929,34 +6929,6 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1338,
                 "$last_seen": "2023-11-21T11:34:20.514Z"
-              },
-              {
-                "id": 104596,
-                "rent": 7250,
-                "area": 30,
-                "street": "ebbe lieberathsgatan",
-                "street_number": "20 f",
-                "city": "göteborg",
-                "zip": "41265",
-                "municipality": "göteborg",
-                "county": "västra götalands län",
-                "$districtName": "johanneberg",
-                "last_accept": 1207,
-                "$last_seen": "2023-11-21T21:34:33.580Z"
-              },
-              {
-                "id": 104607,
-                "rent": 7250,
-                "area": 30,
-                "street": "ebbe lieberathsgatan",
-                "street_number": "22 d",
-                "city": "göteborg",
-                "zip": "41265",
-                "municipality": "göteborg",
-                "county": "västra götalands län",
-                "$districtName": "johanneberg",
-                "last_accept": 1330,
-                "$last_seen": "2023-11-21T21:34:33.580Z"
               }
             ],
             "nordgårdsgatan": [
@@ -30655,6 +30627,22 @@
                 "$districtName": "björkekärr",
                 "last_accept": 1768,
                 "$last_seen": "2023-11-16T14:37:19.680Z"
+              }
+            ],
+            "stabbetorget": [
+              {
+                "id": 104228,
+                "rent": 8515,
+                "area": 99,
+                "street": "stabbetorget",
+                "street_number": "6",
+                "city": "göteborg",
+                "zip": "41680",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "björkekärr",
+                "last_accept": 1774,
+                "$last_seen": "2023-11-17T20:34:17.464Z"
               }
             ]
           },
