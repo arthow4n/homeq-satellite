@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-11-22T15:35:57.510Z",
+  "lastUpdatedAt": "2023-11-22T16:43:25.606Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -9117,6 +9117,20 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1751,
                 "$last_seen": "2023-10-25T08:44:36.541Z"
+              },
+              {
+                "id": 105348,
+                "rent": 10150,
+                "area": 61,
+                "street": "richertsgatan",
+                "street_number": "8",
+                "city": "göteborg",
+                "zip": "41260",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1779,
+                "$last_seen": "2023-11-22T15:35:57.510Z"
               }
             ],
             "kullegatan": [
@@ -9487,6 +9501,20 @@
                 "$last_seen": "2023-11-09T13:44:31.891Z"
               },
               {
+                "id": 104712,
+                "rent": 7168,
+                "area": 75,
+                "street": "övre besvärsgatan",
+                "street_number": "7",
+                "city": "göteborg",
+                "zip": "41129",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1780,
+                "$last_seen": "2023-11-22T15:35:57.510Z"
+              },
+              {
                 "id": 104717,
                 "rent": 6940,
                 "area": 58,
@@ -9513,6 +9541,20 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1879,
                 "$last_seen": "2023-11-16T09:33:55.854Z"
+              },
+              {
+                "id": 104723,
+                "rent": 7157,
+                "area": 58,
+                "street": "övre besvärsgatan",
+                "street_number": "1",
+                "city": "göteborg",
+                "zip": "41129",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1804,
+                "$last_seen": "2023-11-22T15:35:57.510Z"
               }
             ],
             "utlandagatan": [
@@ -30697,22 +30739,6 @@
                 "$districtName": "björkekärr",
                 "last_accept": 1768,
                 "$last_seen": "2023-11-16T14:37:19.680Z"
-              }
-            ],
-            "stabbetorget": [
-              {
-                "id": 104228,
-                "rent": 8515,
-                "area": 99,
-                "street": "stabbetorget",
-                "street_number": "6",
-                "city": "göteborg",
-                "zip": "41680",
-                "municipality": "göteborg",
-                "county": "västra götalands län",
-                "$districtName": "björkekärr",
-                "last_accept": 1774,
-                "$last_seen": "2023-11-17T20:34:17.464Z"
               }
             ]
           },
