@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-11-23T14:37:53.058Z",
+  "lastUpdatedAt": "2023-11-23T15:35:08.937Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -18474,6 +18474,22 @@
                 "last_accept": 1501,
                 "$last_seen": "2023-11-09T13:44:31.891Z"
               }
+            ],
+            "kabbeleksgatan": [
+              {
+                "id": 104434,
+                "rent": 4489,
+                "area": 20,
+                "street": "kabbeleksgatan",
+                "street_number": "4 a",
+                "city": "göteborg",
+                "zip": "41718",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brämaregården",
+                "last_accept": 365,
+                "$last_seen": "2023-11-23T14:37:53.058Z"
+              }
             ]
           },
           "lundby": {
@@ -30537,6 +30553,34 @@
                 "$districtName": "björkekärr",
                 "last_accept": 1246,
                 "$last_seen": "2023-11-20T12:54:08.181Z"
+              },
+              {
+                "id": 104857,
+                "rent": 11505,
+                "area": 87,
+                "street": "smörslätten",
+                "street_number": "14",
+                "city": "göteborg",
+                "zip": "41677",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "björkekärr",
+                "last_accept": 1772,
+                "$last_seen": "2023-11-23T14:37:53.058Z"
+              },
+              {
+                "id": 104867,
+                "rent": 6401,
+                "area": 38,
+                "street": "smörslätten",
+                "street_number": "8",
+                "city": "göteborg",
+                "zip": "41677",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "björkekärr",
+                "last_accept": 1344,
+                "$last_seen": "2023-11-23T14:37:53.058Z"
               }
             ],
             "lådspikaregatan": [
@@ -73571,6 +73615,22 @@
                 "$districtName": "sofielund",
                 "last_accept": 901,
                 "$last_seen": "2023-07-20T14:40:28.389Z"
+              }
+            ],
+            "amrialsgatan": [
+              {
+                "id": 104823,
+                "rent": 12090,
+                "area": 103,
+                "street": "amrialsgatan",
+                "street_number": "68",
+                "city": "malmö",
+                "zip": "21433",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "sofielund",
+                "last_accept": 344,
+                "$last_seen": "2023-11-23T14:37:53.058Z"
               }
             ]
           },
