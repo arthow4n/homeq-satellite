@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-11-23T09:34:46.202Z",
+  "lastUpdatedAt": "2023-11-23T10:40:08.509Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -30495,6 +30495,34 @@
                 "$districtName": "björkekärr",
                 "last_accept": 1246,
                 "$last_seen": "2023-11-20T12:54:08.181Z"
+              },
+              {
+                "id": 104857,
+                "rent": 11505,
+                "area": 87,
+                "street": "smörslätten",
+                "street_number": "14",
+                "city": "göteborg",
+                "zip": "41677",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "björkekärr",
+                "last_accept": 1772,
+                "$last_seen": "2023-11-23T09:34:46.202Z"
+              },
+              {
+                "id": 104867,
+                "rent": 6401,
+                "area": 38,
+                "street": "smörslätten",
+                "street_number": "8",
+                "city": "göteborg",
+                "zip": "41677",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "björkekärr",
+                "last_accept": 1344,
+                "$last_seen": "2023-11-23T09:34:46.202Z"
               }
             ],
             "lådspikaregatan": [
@@ -59897,6 +59925,20 @@
                 "$districtName": "masthugget",
                 "last_accept": 1641,
                 "$last_seen": "2023-11-15T16:48:02.110Z"
+              },
+              {
+                "id": 105773,
+                "rent": 9970,
+                "area": 63,
+                "street": "bangatan",
+                "street_number": "29",
+                "city": "göteborg",
+                "zip": "41464",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "masthugget",
+                "last_accept": 1778,
+                "$last_seen": "2023-11-23T09:34:46.202Z"
               }
             ],
             "amiralitetsgatan": [
@@ -83655,6 +83697,20 @@
                 "$districtName": "vantör",
                 "last_accept": 1820,
                 "$last_seen": "2023-11-15T11:38:11.939Z"
+              },
+              {
+                "id": 104869,
+                "rent": 9898,
+                "area": 78,
+                "street": "askersundsgatan",
+                "street_number": "2",
+                "city": "bandhagen",
+                "zip": "12467",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 1824,
+                "$last_seen": "2023-11-23T09:34:46.202Z"
               }
             ],
             "hagsätra torg": [
