@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-11-23T08:38:58.161Z",
+  "lastUpdatedAt": "2023-11-23T09:34:46.202Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -55253,6 +55253,20 @@
                 "$districtName": "göteborgs vasa",
                 "last_accept": 1779,
                 "$last_seen": "2023-11-22T11:34:25.986Z"
+              },
+              {
+                "id": 105483,
+                "rent": 11865,
+                "area": 78,
+                "street": "karl gustavsgatan",
+                "street_number": "45",
+                "city": "göteborg",
+                "zip": "41131",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs vasa",
+                "last_accept": 1782,
+                "$last_seen": "2023-11-23T08:38:58.161Z"
               }
             ],
             "mölndalsvägen": [
@@ -70717,6 +70731,34 @@
                 "$districtName": "tynnered",
                 "last_accept": 1312,
                 "$last_seen": "2023-11-17T10:38:42.792Z"
+              },
+              {
+                "id": 105501,
+                "rent": 9308,
+                "area": 81,
+                "street": "smyckegatan",
+                "street_number": "82",
+                "city": "västra frölunda",
+                "zip": "42651",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tynnered",
+                "last_accept": 1475,
+                "$last_seen": "2023-11-23T08:38:58.161Z"
+              },
+              {
+                "id": 105502,
+                "rent": 9308,
+                "area": 81,
+                "street": "smyckegatan",
+                "street_number": "31",
+                "city": "västra frölunda",
+                "zip": "42650",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tynnered",
+                "last_accept": 0,
+                "$last_seen": "2023-11-23T08:38:58.161Z"
               }
             ],
             "björkhöjdsgatan": [
