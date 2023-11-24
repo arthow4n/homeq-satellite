@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-11-24T11:35:11.251Z",
+  "lastUpdatedAt": "2023-11-24T12:53:04.467Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -71457,6 +71457,20 @@
                 "$districtName": "tynnered",
                 "last_accept": 1393,
                 "$last_seen": "2023-11-17T07:33:21.576Z"
+              },
+              {
+                "id": 105458,
+                "rent": 5206,
+                "area": 51,
+                "street": "lilla grevegårdsvägen",
+                "street_number": "25",
+                "city": "västra frölunda",
+                "zip": "42655",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tynnered",
+                "last_accept": 1203,
+                "$last_seen": "2023-11-24T11:35:11.251Z"
               }
             ],
             "björkhöjdgatan": [
