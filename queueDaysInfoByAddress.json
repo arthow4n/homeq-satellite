@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-11-24T07:35:21.886Z",
+  "lastUpdatedAt": "2023-11-24T08:38:57.533Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -4651,6 +4651,20 @@
                 "$districtName": "örgryte",
                 "last_accept": 1262,
                 "$last_seen": "2023-11-21T09:33:42.380Z"
+              },
+              {
+                "id": 105095,
+                "rent": 7741,
+                "area": 35,
+                "street": "smörkärnegatan",
+                "street_number": "29",
+                "city": "göteborg",
+                "zip": "41278",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1412,
+                "$last_seen": "2023-11-24T07:35:21.886Z"
               }
             ]
           }
@@ -18193,6 +18207,20 @@
                 "$districtName": "brämaregården",
                 "last_accept": 1318,
                 "$last_seen": "2023-02-15T13:46:27.559Z"
+              },
+              {
+                "id": 105311,
+                "rent": 8639,
+                "area": 53,
+                "street": "rudenschöldsgatan",
+                "street_number": "18b",
+                "city": "göteborg",
+                "zip": "41740",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brämaregården",
+                "last_accept": 1524,
+                "$last_seen": "2023-11-24T07:35:21.886Z"
               }
             ],
             "herkulesgatan": [
