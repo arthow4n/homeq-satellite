@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-11-24T12:53:04.467Z",
+  "lastUpdatedAt": "2023-11-24T13:36:25.812Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -299,6 +299,20 @@
                 "$districtName": "fässberg",
                 "last_accept": 1682,
                 "$last_seen": "2023-10-18T11:39:54.758Z"
+              },
+              {
+                "id": 105122,
+                "rent": 6989,
+                "area": 36.4,
+                "street": "toltorpsgatan",
+                "street_number": "125",
+                "city": "mölndal",
+                "zip": "43141",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 1417,
+                "$last_seen": "2023-11-24T12:53:04.467Z"
               }
             ],
             "bergmansgatan": [
@@ -84055,6 +84069,20 @@
                 "$districtName": "vantör",
                 "last_accept": 1354,
                 "$last_seen": "2023-11-10T11:40:09.130Z"
+              },
+              {
+                "id": 105589,
+                "rent": 9777,
+                "area": 76,
+                "street": "pålsbodagränd",
+                "street_number": "19",
+                "city": "bandhagen",
+                "zip": "12475",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 1763,
+                "$last_seen": "2023-11-24T12:53:04.467Z"
               }
             ],
             "bäverdammsgränd": [
