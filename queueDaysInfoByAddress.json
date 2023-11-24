@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-11-24T14:38:18.257Z",
+  "lastUpdatedAt": "2023-11-24T15:35:59.713Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -72197,6 +72197,20 @@
                 "$districtName": "västra frölunda",
                 "last_accept": 1247,
                 "$last_seen": "2023-10-31T15:39:08.612Z"
+              },
+              {
+                "id": 105387,
+                "rent": 3555,
+                "area": 33,
+                "street": "marconigatan",
+                "street_number": "33 a",
+                "city": "västra frölunda",
+                "zip": "42144",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "västra frölunda",
+                "last_accept": 1473,
+                "$last_seen": "2023-11-24T14:38:18.257Z"
               }
             ]
           },
@@ -86193,6 +86207,20 @@
                 "$districtName": "kista",
                 "last_accept": 513,
                 "$last_seen": "2023-11-14T09:38:28.494Z"
+              },
+              {
+                "id": 105595,
+                "rent": 7795,
+                "area": 30,
+                "street": "almbygatan",
+                "street_number": "14",
+                "city": "spånga",
+                "zip": "16376",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "kista",
+                "last_accept": 929,
+                "$last_seen": "2023-11-24T14:38:18.257Z"
               },
               {
                 "id": 105597,
