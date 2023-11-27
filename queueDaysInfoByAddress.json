@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-11-27T09:35:57.535Z",
+  "lastUpdatedAt": "2023-11-27T10:41:40.336Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -5315,6 +5315,20 @@
                 "$districtName": "kållered",
                 "last_accept": 915,
                 "$last_seen": "2023-11-13T10:45:25.557Z"
+              },
+              {
+                "id": 105495,
+                "rent": 7578,
+                "area": 76,
+                "street": "våmmedalsvägen",
+                "street_number": "106",
+                "city": "kållered",
+                "zip": "42831",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "kållered",
+                "last_accept": 1685,
+                "$last_seen": "2023-11-27T09:35:57.535Z"
               }
             ],
             "streteredsvägen": [
@@ -14459,6 +14473,20 @@
                 "$districtName": "högsbo",
                 "last_accept": 1485,
                 "$last_seen": "2023-11-21T07:33:29.644Z"
+              },
+              {
+                "id": 106420,
+                "rent": 6054,
+                "area": 42,
+                "street": "skäpplandsgatan",
+                "street_number": "1",
+                "city": "göteborg",
+                "zip": "41478",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 1469,
+                "$last_seen": "2023-11-27T09:35:57.535Z"
               }
             ],
             "marklandsgatan": [
@@ -47001,6 +47029,20 @@
                 "$districtName": "göteborgs domkyrkodistrikt",
                 "last_accept": 1772,
                 "$last_seen": "2023-11-15T16:48:02.110Z"
+              },
+              {
+                "id": 105322,
+                "rent": 6760,
+                "area": 30,
+                "street": "götabergsgatan",
+                "street_number": "6b",
+                "city": "göteborg",
+                "zip": "41134",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs domkyrkodistrikt",
+                "last_accept": 1886,
+                "$last_seen": "2023-11-27T09:35:57.535Z"
               }
             ],
             "ranängsgatan.": [
@@ -66203,6 +66245,20 @@
                 "$districtName": "tuve",
                 "last_accept": 541,
                 "$last_seen": "2023-09-21T07:41:15.406Z"
+              },
+              {
+                "id": 105522,
+                "rent": 8691,
+                "area": 45,
+                "street": "arves marias väg",
+                "street_number": "10",
+                "city": "göteborg",
+                "zip": "41747",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tuve",
+                "last_accept": 607,
+                "$last_seen": "2023-11-27T09:35:57.535Z"
               }
             ],
             "finlandsvägen": [
