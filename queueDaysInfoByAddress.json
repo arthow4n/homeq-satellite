@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-11-27T12:55:53.071Z",
+  "lastUpdatedAt": "2023-11-27T13:38:18.373Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -53399,6 +53399,20 @@
                 "$districtName": "annedal",
                 "last_accept": 1763,
                 "$last_seen": "2023-11-09T14:42:45.274Z"
+              },
+              {
+                "id": 106107,
+                "rent": 9100,
+                "area": 61,
+                "street": "övre husargatan",
+                "street_number": "14",
+                "city": "göteborg",
+                "zip": "41314",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "annedal",
+                "last_accept": 1775,
+                "$last_seen": "2023-11-27T12:55:53.071Z"
               }
             ],
             "carl grimbergsgatan": [
@@ -72139,6 +72153,20 @@
                 "$districtName": "västra frölunda",
                 "last_accept": 1066,
                 "$last_seen": "2023-11-15T12:57:46.425Z"
+              },
+              {
+                "id": 105943,
+                "rent": 11482,
+                "area": 80,
+                "street": "tamburingatan",
+                "street_number": "9",
+                "city": "västra frölunda",
+                "zip": "42151",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "västra frölunda",
+                "last_accept": 870,
+                "$last_seen": "2023-11-27T12:55:53.071Z"
               }
             ],
             "marconigatan": [
