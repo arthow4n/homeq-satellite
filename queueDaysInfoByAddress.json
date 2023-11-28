@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-11-28T09:36:04.921Z",
+  "lastUpdatedAt": "2023-11-28T10:42:40.077Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -86085,6 +86085,22 @@
                 "$districtName": "bromma",
                 "last_accept": 175,
                 "$last_seen": "2023-10-04T13:44:42.567Z"
+              }
+            ],
+            "björnsonsgatan": [
+              {
+                "id": 105935,
+                "rent": 10675,
+                "area": 56,
+                "street": "björnsonsgatan",
+                "street_number": "17",
+                "city": "stockholm ",
+                "zip": "16843",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "bromma",
+                "last_accept": 1738,
+                "$last_seen": "2023-11-28T09:36:04.921Z"
               }
             ]
           }
