@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-11-28T08:40:34.254Z",
+  "lastUpdatedAt": "2023-11-28T09:36:04.921Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -56609,6 +56609,20 @@
                 "$districtName": "göteborgs vasa",
                 "last_accept": 1340,
                 "$last_seen": "2023-11-09T11:40:37.581Z"
+              },
+              {
+                "id": 105394,
+                "rent": 9100,
+                "area": 51,
+                "street": "engelbrektsgatan",
+                "street_number": "34 ab",
+                "city": "göteborg",
+                "zip": "41137",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs vasa",
+                "last_accept": 1859,
+                "$last_seen": "2023-11-28T08:40:34.254Z"
               }
             ],
             "erik dahlbergsgatan": [
