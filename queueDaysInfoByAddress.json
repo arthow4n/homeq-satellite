@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-11-28T11:36:34.123Z",
+  "lastUpdatedAt": "2023-11-28T12:55:19.836Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -7013,6 +7013,20 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1331,
                 "$last_seen": "2023-11-22T10:42:15.628Z"
+              },
+              {
+                "id": 105557,
+                "rent": 13627,
+                "area": 79,
+                "street": "ebbe lieberathsgatan",
+                "street_number": "22 f",
+                "city": "göteborg",
+                "zip": "41265",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1779,
+                "$last_seen": "2023-11-28T11:36:34.123Z"
               }
             ],
             "nordgårdsgatan": [
@@ -8901,6 +8915,20 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1804,
                 "$last_seen": "2023-08-29T13:00:15.977Z"
+              },
+              {
+                "id": 105455,
+                "rent": 10185,
+                "area": 84,
+                "street": "södra viktoriagatan",
+                "street_number": "52",
+                "city": "göteborg",
+                "zip": "41130",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1562,
+                "$last_seen": "2023-11-28T11:36:34.123Z"
               }
             ],
             "framnäsgatan": [
@@ -49149,6 +49177,20 @@
                 "$districtName": "örgryte",
                 "last_accept": 1458,
                 "$last_seen": "2023-11-16T08:38:08.493Z"
+              },
+              {
+                "id": 105385,
+                "rent": 12696,
+                "area": 77,
+                "street": "smörkärnegatan",
+                "street_number": "29",
+                "city": "göteborg",
+                "zip": "41278",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1463,
+                "$last_seen": "2023-11-28T11:36:34.123Z"
               }
             ],
             "tändsticksgatan": [
@@ -60519,6 +60561,20 @@
                 "$districtName": "masthugget",
                 "last_accept": 1262,
                 "$last_seen": "2023-09-14T07:43:58.436Z"
+              },
+              {
+                "id": 105391,
+                "rent": 9648,
+                "area": 55,
+                "street": "amiralitetsgatan",
+                "street_number": "8",
+                "city": "göteborg",
+                "zip": "41462",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "masthugget",
+                "last_accept": 1776,
+                "$last_seen": "2023-11-28T11:36:34.123Z"
               }
             ],
             "kolumbusgatan": [
@@ -67647,6 +67703,20 @@
                 "$districtName": "tynnered",
                 "last_accept": 1472,
                 "$last_seen": "2023-11-20T07:33:18.813Z"
+              },
+              {
+                "id": 105454,
+                "rent": 6889,
+                "area": 66,
+                "street": "karneolgatan",
+                "street_number": "57",
+                "city": "göteborg",
+                "zip": "42651",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tynnered",
+                "last_accept": 1541,
+                "$last_seen": "2023-11-28T11:36:34.123Z"
               }
             ],
             "beryllgatan": [
@@ -69549,6 +69619,20 @@
                 "$districtName": "brunnsbo",
                 "last_accept": 1319,
                 "$last_seen": "2023-10-17T14:43:29.657Z"
+              },
+              {
+                "id": 105423,
+                "rent": 7271,
+                "area": 63,
+                "street": "prologgatan",
+                "street_number": "4",
+                "city": "hisings backa",
+                "zip": "42241",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brunnsbo",
+                "last_accept": 1347,
+                "$last_seen": "2023-11-28T11:36:34.123Z"
               }
             ],
             "sångspelsgatan": [
@@ -80723,20 +80807,6 @@
                 "$districtName": "limhamn",
                 "last_accept": 0,
                 "$last_seen": "2023-11-19T19:33:46.542Z"
-              },
-              {
-                "id": 105450,
-                "rent": 10549,
-                "area": 53,
-                "street": "blåsebergavägen",
-                "street_number": "30",
-                "city": "limhamn",
-                "zip": "21633",
-                "municipality": "malmö",
-                "county": "skåne län",
-                "$districtName": "limhamn",
-                "last_accept": 0,
-                "$last_seen": "2023-11-28T10:42:40.077Z"
               }
             ],
             "birger jarlsgatan": [
