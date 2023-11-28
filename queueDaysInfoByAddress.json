@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-11-28T12:55:19.836Z",
+  "lastUpdatedAt": "2023-11-28T13:38:04.446Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -14037,6 +14037,20 @@
                 "$districtName": "högsbo",
                 "last_accept": 1418,
                 "$last_seen": "2023-11-27T17:38:16.227Z"
+              },
+              {
+                "id": 106203,
+                "rent": 10758,
+                "area": 83,
+                "street": "pennygången",
+                "street_number": "104",
+                "city": "göteborg",
+                "zip": "41482",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 1356,
+                "$last_seen": "2023-11-28T12:55:19.836Z"
               },
               {
                 "id": 106208,
@@ -37161,6 +37175,20 @@
                 "$districtName": "askim",
                 "last_accept": 749,
                 "$last_seen": "2023-11-08T14:43:33.035Z"
+              },
+              {
+                "id": 105449,
+                "rent": 11296,
+                "area": 60,
+                "street": "ugglegården",
+                "street_number": "38",
+                "city": "göteborg",
+                "zip": "43658",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 119,
+                "$last_seen": "2023-11-28T12:55:19.836Z"
               }
             ],
             "sisjövägen": [
