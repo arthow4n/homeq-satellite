@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-11-28T15:38:11.490Z",
+  "lastUpdatedAt": "2023-11-28T16:44:54.486Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -78129,6 +78129,20 @@
                 "$districtName": "malmö sankt pauli",
                 "last_accept": 940,
                 "$last_seen": "2023-10-25T08:44:36.541Z"
+              },
+              {
+                "id": 105396,
+                "rent": 6816,
+                "area": 42,
+                "street": "drottninggatan",
+                "street_number": "4 a",
+                "city": "malmö",
+                "zip": "21211",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "malmö sankt pauli",
+                "last_accept": 608,
+                "$last_seen": "2023-11-28T15:38:11.490Z"
               }
             ],
             "garagegatan": [
