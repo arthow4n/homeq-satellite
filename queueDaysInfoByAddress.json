@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-11-29T09:36:16.655Z",
+  "lastUpdatedAt": "2023-11-29T10:42:21.830Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -3649,6 +3649,20 @@
                 "$districtName": "fässberg",
                 "last_accept": 1254,
                 "$last_seen": "2023-11-13T13:40:21.278Z"
+              },
+              {
+                "id": 105666,
+                "rent": 10010,
+                "area": 57,
+                "street": "åby allé",
+                "street_number": "63",
+                "city": "göteborg",
+                "zip": "43145",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 1560,
+                "$last_seen": "2023-11-29T09:36:16.655Z"
               }
             ],
             "åbyvägen": [
@@ -35121,6 +35135,20 @@
                 "$districtName": "askim",
                 "last_accept": 1003,
                 "$last_seen": "2023-11-21T12:54:32.514Z"
+              },
+              {
+                "id": 105261,
+                "rent": 9678,
+                "area": 65,
+                "street": "pilegården",
+                "street_number": "2c",
+                "city": "göteborg",
+                "zip": "43635",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 881,
+                "$last_seen": "2023-11-29T09:36:16.655Z"
               }
             ],
             "nergårdsvägen": [
@@ -54047,6 +54075,20 @@
                 "$districtName": "annedal",
                 "last_accept": 1786,
                 "$last_seen": "2023-11-29T08:40:58.214Z"
+              },
+              {
+                "id": 105940,
+                "rent": 7649,
+                "area": 49,
+                "street": "carl grimbergsgatan",
+                "street_number": "13",
+                "city": "göteborg",
+                "zip": "41313",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "annedal",
+                "last_accept": 1784,
+                "$last_seen": "2023-11-29T09:36:16.655Z"
               }
             ],
             "västergatan": [
@@ -82271,6 +82313,20 @@
                 "$districtName": "bunkeflo",
                 "last_accept": 0,
                 "$last_seen": "2023-10-28T11:38:24.921Z"
+              },
+              {
+                "id": 101279,
+                "rent": 14206,
+                "area": 110,
+                "street": "sadelmakarebyn",
+                "street_number": "1a",
+                "city": "bunkeflostrand",
+                "zip": "21840",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "bunkeflo",
+                "last_accept": 0,
+                "$last_seen": "2023-11-29T09:36:16.655Z"
               }
             ],
             "skomakarebyn": [
