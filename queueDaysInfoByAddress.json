@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-11-29T16:46:09.294Z",
+  "lastUpdatedAt": "2023-11-29T17:39:55.356Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -73877,20 +73877,6 @@
                 "$districtName": "råda",
                 "last_accept": 1327,
                 "$last_seen": "2023-09-07T07:43:23.617Z"
-              },
-              {
-                "id": 105518,
-                "rent": 9668,
-                "area": 74,
-                "street": "biblioteksgatan",
-                "street_number": "16 c",
-                "city": "göteborg",
-                "zip": "43530",
-                "municipality": "härryda",
-                "county": "västra götalands län",
-                "$districtName": "råda",
-                "last_accept": 1035,
-                "$last_seen": "2023-11-29T14:39:01.951Z"
               }
             ],
             "lennart kvarnströms plats": [
@@ -75361,6 +75347,20 @@
                 "$districtName": "malmö sankt petri",
                 "last_accept": 121,
                 "$last_seen": "2023-11-10T13:40:43.326Z"
+              },
+              {
+                "id": 105592,
+                "rent": 12297,
+                "area": 79,
+                "street": "stormgatan",
+                "street_number": "6",
+                "city": "malmö",
+                "zip": "21120",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "malmö sankt petri",
+                "last_accept": 584,
+                "$last_seen": "2023-11-29T16:46:09.294Z"
               }
             ],
             "fabriksgatan": [
