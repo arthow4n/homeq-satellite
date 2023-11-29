@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-11-29T12:56:18.243Z",
+  "lastUpdatedAt": "2023-11-29T13:38:43.088Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -1445,6 +1445,20 @@
                 "$districtName": "fässberg",
                 "last_accept": 1360,
                 "$last_seen": "2023-11-16T07:34:01.436Z"
+              },
+              {
+                "id": 106028,
+                "rent": 5908,
+                "area": 31,
+                "street": "gustavsbergsgatan",
+                "street_number": "6",
+                "city": "mölndal",
+                "zip": "43137",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 1415,
+                "$last_seen": "2023-11-29T12:56:18.243Z"
               }
             ],
             "fredåsgatan": [
@@ -69549,6 +69563,20 @@
                 "$districtName": "brunnsbo",
                 "last_accept": 1194,
                 "$last_seen": "2023-10-10T11:40:50.386Z"
+              },
+              {
+                "id": 105960,
+                "rent": 8637,
+                "area": 72,
+                "street": "klassikergatan",
+                "street_number": "17",
+                "city": "hisings backa",
+                "zip": "42241",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brunnsbo",
+                "last_accept": 1566,
+                "$last_seen": "2023-11-29T12:56:18.243Z"
               }
             ],
             "prologgatan": [
