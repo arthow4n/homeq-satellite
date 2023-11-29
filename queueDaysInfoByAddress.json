@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-11-29T22:40:05.545Z",
+  "lastUpdatedAt": "2023-11-29T23:36:37.069Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -63355,6 +63355,20 @@
                 "$districtName": "biskopsgården",
                 "last_accept": 1145,
                 "$last_seen": "2023-11-15T16:48:02.110Z"
+              },
+              {
+                "id": 105525,
+                "rent": 6405,
+                "area": 64,
+                "street": "temperaturgatan",
+                "street_number": "57",
+                "city": "göteborg",
+                "zip": "41841",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "biskopsgården",
+                "last_accept": 1287,
+                "$last_seen": "2023-11-29T22:40:05.545Z"
               }
             ],
             "solstrålegatan": [
@@ -86711,6 +86725,20 @@
                 "$districtName": "bromma",
                 "last_accept": 1808,
                 "$last_seen": "2023-09-12T09:44:03.302Z"
+              },
+              {
+                "id": 105516,
+                "rent": 7134,
+                "area": 56,
+                "street": "björnsonsgatan",
+                "street_number": "85",
+                "city": "bromma",
+                "zip": "16843",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "bromma",
+                "last_accept": 1885,
+                "$last_seen": "2023-11-29T22:40:05.545Z"
               }
             ],
             "brommabågen": [
