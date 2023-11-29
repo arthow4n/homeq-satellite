@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-11-29T14:39:01.951Z",
+  "lastUpdatedAt": "2023-11-29T15:38:16.023Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -33165,6 +33165,20 @@
                 "$districtName": "kortedala",
                 "last_accept": 1462,
                 "$last_seen": "2023-10-26T06:42:58.213Z"
+              },
+              {
+                "id": 104750,
+                "rent": 5203,
+                "area": 54,
+                "street": "aprilgatan",
+                "street_number": "30",
+                "city": "göteborg",
+                "zip": "41548",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "kortedala",
+                "last_accept": 1435,
+                "$last_seen": "2023-11-29T14:39:01.951Z"
               }
             ],
             "februarigatan": [
@@ -68581,6 +68595,20 @@
                 "$districtName": "gunnared",
                 "last_accept": 1150,
                 "$last_seen": "2023-11-15T16:48:02.110Z"
+              },
+              {
+                "id": 106691,
+                "rent": 5896,
+                "area": 35,
+                "street": "gårdstensvägen",
+                "street_number": "51",
+                "city": "göteborg",
+                "zip": "42440",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "gunnared",
+                "last_accept": 811,
+                "$last_seen": "2023-11-29T14:39:01.951Z"
               }
             ]
           },
@@ -73835,6 +73863,20 @@
                 "$districtName": "råda",
                 "last_accept": 1327,
                 "$last_seen": "2023-09-07T07:43:23.617Z"
+              },
+              {
+                "id": 105518,
+                "rent": 9668,
+                "area": 74,
+                "street": "biblioteksgatan",
+                "street_number": "16 c",
+                "city": "göteborg",
+                "zip": "43530",
+                "municipality": "härryda",
+                "county": "västra götalands län",
+                "$districtName": "råda",
+                "last_accept": 1035,
+                "$last_seen": "2023-11-29T14:39:01.951Z"
               }
             ],
             "lennart kvarnströms plats": [
@@ -84101,6 +84143,20 @@
                 "$districtName": "vantör",
                 "last_accept": 1332,
                 "$last_seen": "2023-10-19T13:45:15.429Z"
+              },
+              {
+                "id": 105910,
+                "rent": 9989,
+                "area": 81,
+                "street": "bäverbäcksgränd",
+                "street_number": "31",
+                "city": "bandhagen",
+                "zip": "12462",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 1834,
+                "$last_seen": "2023-11-29T14:39:01.951Z"
               }
             ],
             "kvarntorpsgränd": [
@@ -84487,6 +84543,20 @@
                 "$districtName": "vantör",
                 "last_accept": 2233,
                 "$last_seen": "2023-11-28T13:38:04.446Z"
+              },
+              {
+                "id": 105953,
+                "rent": 7594,
+                "area": 58,
+                "street": "stålbogavägen",
+                "street_number": "50",
+                "city": "bandhagen",
+                "zip": "12456",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 1291,
+                "$last_seen": "2023-11-29T14:39:01.951Z"
               }
             ],
             "askersundsgatan": [
@@ -84671,6 +84741,20 @@
                 "$districtName": "vantör",
                 "last_accept": 1642,
                 "$last_seen": "2023-11-23T13:40:51.369Z"
+              },
+              {
+                "id": 105954,
+                "rent": 8206,
+                "area": 58,
+                "street": "askersundsgatan",
+                "street_number": "20",
+                "city": "bandhagen",
+                "zip": "12467",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 1263,
+                "$last_seen": "2023-11-29T14:39:01.951Z"
               }
             ],
             "hagsätra torg": [
