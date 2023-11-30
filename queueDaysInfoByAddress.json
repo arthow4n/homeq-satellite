@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-11-30T14:40:16.434Z",
+  "lastUpdatedAt": "2023-11-30T15:36:36.010Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -22085,6 +22085,20 @@
                 "$districtName": "lundby",
                 "last_accept": 1592,
                 "$last_seen": "2023-11-16T14:37:19.680Z"
+              },
+              {
+                "id": 106442,
+                "rent": 12774,
+                "area": 76,
+                "street": "fyrklöversgatan",
+                "street_number": "19",
+                "city": "göteborg",
+                "zip": "41725",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 551,
+                "$last_seen": "2023-11-30T14:40:16.434Z"
               },
               {
                 "id": 106477,
@@ -51019,6 +51033,20 @@
                 "$districtName": "örgryte",
                 "last_accept": 1720,
                 "$last_seen": "2023-11-20T07:33:18.813Z"
+              },
+              {
+                "id": 105754,
+                "rent": 13168,
+                "area": 102,
+                "street": "mejerigatan",
+                "street_number": "18",
+                "city": "göteborg",
+                "zip": "41276",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1449,
+                "$last_seen": "2023-11-30T14:40:16.434Z"
               }
             ],
             "filmjölksgatan": [
@@ -76131,6 +76159,20 @@
                 "$districtName": "möllevången",
                 "last_accept": 1074,
                 "$last_seen": "2023-10-04T07:41:06.028Z"
+              },
+              {
+                "id": 105723,
+                "rent": 10758,
+                "area": 89,
+                "street": "sigtunagatan",
+                "street_number": "4 b",
+                "city": "malmö",
+                "zip": "21429",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "möllevången",
+                "last_accept": 48,
+                "$last_seen": "2023-11-30T14:40:16.434Z"
               }
             ],
             "södra förstadsgatan": [
