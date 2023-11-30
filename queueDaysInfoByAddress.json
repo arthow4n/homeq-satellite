@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-11-30T10:42:05.066Z",
+  "lastUpdatedAt": "2023-11-30T11:36:23.223Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -33235,6 +33235,20 @@
                 "$districtName": "kortedala",
                 "last_accept": 1435,
                 "$last_seen": "2023-11-29T14:39:01.951Z"
+              },
+              {
+                "id": 106192,
+                "rent": 5726,
+                "area": 54,
+                "street": "aprilgatan",
+                "street_number": "80",
+                "city": "göteborg",
+                "zip": "41546",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "kortedala",
+                "last_accept": 1338,
+                "$last_seen": "2023-11-30T10:42:05.066Z"
               }
             ],
             "februarigatan": [
@@ -55127,6 +55141,22 @@
                 "$districtName": "annedal",
                 "last_accept": 1711,
                 "$last_seen": "2023-09-15T05:44:16.741Z"
+              }
+            ],
+            "doktor allards gata": [
+              {
+                "id": 105685,
+                "rent": 9575,
+                "area": 63,
+                "street": "doktor allards gata",
+                "street_number": "68",
+                "city": "göteborg",
+                "zip": "41325",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "annedal",
+                "last_accept": 1785,
+                "$last_seen": "2023-11-30T10:42:05.066Z"
               }
             ]
           },
