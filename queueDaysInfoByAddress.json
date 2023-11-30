@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-11-30T17:39:30.110Z",
+  "lastUpdatedAt": "2023-11-30T18:41:01.460Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -3677,6 +3677,20 @@
                 "$districtName": "fässberg",
                 "last_accept": 1560,
                 "$last_seen": "2023-11-29T09:36:16.655Z"
+              },
+              {
+                "id": 105686,
+                "rent": 9449,
+                "area": 55,
+                "street": "åby allé",
+                "street_number": "55",
+                "city": "göteborg",
+                "zip": "43145",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 1224,
+                "$last_seen": "2023-11-30T17:39:30.110Z"
               }
             ],
             "åbyvägen": [
