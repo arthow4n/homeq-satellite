@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-11-30T08:40:26.929Z",
+  "lastUpdatedAt": "2023-11-30T09:36:30.307Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -9143,6 +9143,20 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1752,
                 "$last_seen": "2023-11-15T11:38:11.939Z"
+              },
+              {
+                "id": 106188,
+                "rent": 7428,
+                "area": 70,
+                "street": "kristinehöjdsgatan",
+                "street_number": "4",
+                "city": "göteborg",
+                "zip": "41282",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1787,
+                "$last_seen": "2023-11-30T08:40:26.929Z"
               }
             ],
             "richertsgatan": [
@@ -33857,6 +33871,20 @@
                 "$districtName": "kortedala",
                 "last_accept": 771,
                 "$last_seen": "2023-11-06T20:40:17.690Z"
+              },
+              {
+                "id": 105629,
+                "rent": 11885,
+                "area": 116,
+                "street": "nymånegatan",
+                "street_number": "15",
+                "city": "göteborg",
+                "zip": "41531",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "kortedala",
+                "last_accept": 1300,
+                "$last_seen": "2023-11-30T08:40:26.929Z"
               }
             ]
           },
@@ -73905,6 +73933,20 @@
                 "$districtName": "råda",
                 "last_accept": 1327,
                 "$last_seen": "2023-09-07T07:43:23.617Z"
+              },
+              {
+                "id": 105518,
+                "rent": 9668,
+                "area": 74,
+                "street": "biblioteksgatan",
+                "street_number": "16 c",
+                "city": "göteborg",
+                "zip": "43530",
+                "municipality": "härryda",
+                "county": "västra götalands län",
+                "$districtName": "råda",
+                "last_accept": 1041,
+                "$last_seen": "2023-11-30T08:40:26.929Z"
               }
             ],
             "lennart kvarnströms plats": [
@@ -84113,6 +84155,20 @@
                 "$districtName": "vantör",
                 "last_accept": 881,
                 "$last_seen": "2023-11-15T16:48:02.110Z"
+              },
+              {
+                "id": 106432,
+                "rent": 6442,
+                "area": 49,
+                "street": "glanshammarsgatan",
+                "street_number": "56",
+                "city": "bandhagen",
+                "zip": "12471",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 1639,
+                "$last_seen": "2023-11-30T08:40:26.929Z"
               }
             ],
             "bäverbäcksgränd": [
