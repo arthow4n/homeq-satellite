@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-11-30T11:36:23.223Z",
+  "lastUpdatedAt": "2023-11-30T12:55:17.763Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -4721,6 +4721,20 @@
                 "$districtName": "örgryte",
                 "last_accept": 1412,
                 "$last_seen": "2023-11-24T07:35:21.886Z"
+              },
+              {
+                "id": 105713,
+                "rent": 7741,
+                "area": 35,
+                "street": "smörkärnegatan",
+                "street_number": "29",
+                "city": "göteborg",
+                "zip": "41278",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1379,
+                "$last_seen": "2023-11-30T11:36:23.223Z"
               }
             ]
           }
@@ -35865,6 +35879,20 @@
                 "$districtName": "askim",
                 "last_accept": 990,
                 "$last_seen": "2023-11-08T06:44:38.924Z"
+              },
+              {
+                "id": 106588,
+                "rent": 7702,
+                "area": 63,
+                "street": "nergårdsvägen",
+                "street_number": "15",
+                "city": "göteborg",
+                "zip": "43636",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 1406,
+                "$last_seen": "2023-11-30T11:36:23.223Z"
               }
             ],
             "hyltegården": [
