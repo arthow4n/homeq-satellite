@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-12-01T14:39:44.849Z",
+  "lastUpdatedAt": "2023-12-01T15:37:16.456Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -87897,6 +87897,28 @@
                 "$districtName": "hammarby",
                 "last_accept": 0,
                 "$last_seen": "2023-11-27T07:35:23.927Z"
+              }
+            ]
+          }
+        }
+      },
+      "järfälla": {
+        "stockholm": {
+          "barkarby": {
+            "runstansvägen": [
+              {
+                "id": 106986,
+                "rent": 6450,
+                "area": 15,
+                "street": "runstansvägen",
+                "street_number": "5a",
+                "city": "stockholm",
+                "zip": "17561",
+                "municipality": "järfälla",
+                "county": "stockholms län",
+                "$districtName": "barkarby",
+                "last_accept": 0,
+                "$last_seen": "2023-12-01T14:39:44.849Z"
               }
             ]
           }
