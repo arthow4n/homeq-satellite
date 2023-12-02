@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-12-02T08:38:11.006Z",
+  "lastUpdatedAt": "2023-12-02T09:36:31.408Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -83749,20 +83749,6 @@
                 "$districtName": "bunkeflo",
                 "last_accept": 0,
                 "$last_seen": "2023-10-31T11:38:49.538Z"
-              },
-              {
-                "id": 104757,
-                "rent": 8955,
-                "area": 60.1,
-                "street": "skräddarebyn",
-                "street_number": "3a",
-                "city": "bunkeflostrand",
-                "zip": "21842",
-                "municipality": "malmö",
-                "county": "skåne län",
-                "$districtName": "bunkeflo",
-                "last_accept": 0,
-                "$last_seen": "2023-12-01T20:36:53.191Z"
               }
             ],
             "vagnmakarebyn": [
@@ -85291,6 +85277,20 @@
                 "$districtName": "vantör",
                 "last_accept": 1817,
                 "$last_seen": "2023-11-09T11:40:37.581Z"
+              },
+              {
+                "id": 106431,
+                "rent": 10260,
+                "area": 78,
+                "street": "hagsätra torg",
+                "street_number": "2",
+                "city": "bandhagen",
+                "zip": "12473",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 1651,
+                "$last_seen": "2023-12-02T08:38:11.006Z"
               }
             ],
             "pålsbodagränd": [
