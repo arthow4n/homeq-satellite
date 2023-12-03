@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-12-03T22:38:20.465Z",
+  "lastUpdatedAt": "2023-12-03T23:36:14.194Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -81511,6 +81511,20 @@
                 "$districtName": "limhamn",
                 "last_accept": 0,
                 "$last_seen": "2023-11-29T07:36:21.258Z"
+              },
+              {
+                "id": 106023,
+                "rent": 12844,
+                "area": 70,
+                "street": "blåsebergavägen",
+                "street_number": "32",
+                "city": "limhamn",
+                "zip": "21633",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "limhamn",
+                "last_accept": 0,
+                "$last_seen": "2023-12-03T22:38:20.465Z"
               }
             ],
             "birger jarlsgatan": [
