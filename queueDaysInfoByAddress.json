@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-12-04T07:36:12.249Z",
+  "lastUpdatedAt": "2023-12-04T08:41:02.487Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -78849,6 +78849,20 @@
                 "$districtName": "malmö sankt pauli",
                 "last_accept": 242,
                 "$last_seen": "2023-11-08T07:40:10.940Z"
+              },
+              {
+                "id": 106259,
+                "rent": 9906,
+                "area": 54.1,
+                "street": "garagegatan",
+                "street_number": "16a",
+                "city": "malmö",
+                "zip": "21251",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "malmö sankt pauli",
+                "last_accept": 618,
+                "$last_seen": "2023-12-04T07:36:12.249Z"
               }
             ],
             "lugna gatan": [
@@ -81525,6 +81539,20 @@
                 "$districtName": "limhamn",
                 "last_accept": 0,
                 "$last_seen": "2023-11-29T07:36:21.258Z"
+              },
+              {
+                "id": 106023,
+                "rent": 12844,
+                "area": 70,
+                "street": "blåsebergavägen",
+                "street_number": "32",
+                "city": "limhamn",
+                "zip": "21633",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "limhamn",
+                "last_accept": 0,
+                "$last_seen": "2023-12-04T07:36:12.249Z"
               }
             ],
             "birger jarlsgatan": [
