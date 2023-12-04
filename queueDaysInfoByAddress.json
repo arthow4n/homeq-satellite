@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-12-04T14:41:14.020Z",
+  "lastUpdatedAt": "2023-12-04T15:38:29.737Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -11485,6 +11485,20 @@
                 "$districtName": "högsbo",
                 "last_accept": 1707,
                 "$last_seen": "2023-09-27T07:40:28.530Z"
+              },
+              {
+                "id": 106033,
+                "rent": 9058,
+                "area": 81,
+                "street": "synhållsgatan",
+                "street_number": "16",
+                "city": "göteborg",
+                "zip": "42173",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 1644,
+                "$last_seen": "2023-12-04T14:41:14.020Z"
               }
             ],
             "nymilsgatan": [
@@ -88191,28 +88205,6 @@
                 "$districtName": "hammarby",
                 "last_accept": 0,
                 "$last_seen": "2023-11-27T07:35:23.927Z"
-              }
-            ]
-          }
-        }
-      },
-      "järfälla": {
-        "stockholm": {
-          "barkarby": {
-            "runstansvägen": [
-              {
-                "id": 106986,
-                "rent": 6450,
-                "area": 15,
-                "street": "runstansvägen",
-                "street_number": "5a",
-                "city": "stockholm",
-                "zip": "17561",
-                "municipality": "järfälla",
-                "county": "stockholms län",
-                "$districtName": "barkarby",
-                "last_accept": 0,
-                "$last_seen": "2023-12-01T14:39:44.849Z"
               }
             ]
           }
