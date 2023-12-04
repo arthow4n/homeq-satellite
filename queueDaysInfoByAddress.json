@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-12-04T09:36:58.517Z",
+  "lastUpdatedAt": "2023-12-04T10:43:11.365Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -32811,6 +32811,20 @@
                 "$districtName": "kortedala",
                 "last_accept": 1161,
                 "$last_seen": "2023-10-27T11:38:21.394Z"
+              },
+              {
+                "id": 106044,
+                "rent": 9029,
+                "area": 72,
+                "street": "solvarvsgatan",
+                "street_number": "14",
+                "city": "göteborg",
+                "zip": "41531",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "kortedala",
+                "last_accept": 1294,
+                "$last_seen": "2023-12-04T09:36:58.517Z"
               }
             ],
             "solståndsgatan": [
@@ -48781,6 +48795,20 @@
                 "$districtName": "örgryte",
                 "last_accept": 1624,
                 "$last_seen": "2023-11-27T06:41:13.901Z"
+              },
+              {
+                "id": 106823,
+                "rent": 8272,
+                "area": 50,
+                "street": "prästgårdsängen",
+                "street_number": "11",
+                "city": "göteborg",
+                "zip": "41271",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1788,
+                "$last_seen": "2023-12-04T09:36:58.517Z"
               }
             ],
             "karlfeldtsgatan": [
@@ -50089,6 +50117,20 @@
                 "$districtName": "örgryte",
                 "last_accept": 1178,
                 "$last_seen": "2023-11-10T07:40:04.625Z"
+              },
+              {
+                "id": 106086,
+                "rent": 11721,
+                "area": 64,
+                "street": "tändsticksgatan",
+                "street_number": "2",
+                "city": "göteborg",
+                "zip": "41263",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1039,
+                "$last_seen": "2023-12-04T09:36:58.517Z"
               }
             ],
             "gräddgatan": [
@@ -52657,6 +52699,20 @@
                 "$districtName": "västra frölunda",
                 "last_accept": 868,
                 "$last_seen": "2023-11-13T06:44:41.871Z"
+              },
+              {
+                "id": 105986,
+                "rent": 10991,
+                "area": 72,
+                "street": "cymbalgatan",
+                "street_number": "15",
+                "city": "göteborg",
+                "zip": "42151",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "västra frölunda",
+                "last_accept": 1189,
+                "$last_seen": "2023-12-04T09:36:58.517Z"
               }
             ],
             "transistorgatan": [
@@ -73607,6 +73663,20 @@
                 "$districtName": "älvsborg",
                 "last_accept": 1659,
                 "$last_seen": "2023-11-15T10:45:13.803Z"
+              },
+              {
+                "id": 106017,
+                "rent": 9991,
+                "area": 72,
+                "street": "tigerstigen",
+                "street_number": "5",
+                "city": "västra frölunda ",
+                "zip": "42672",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "älvsborg",
+                "last_accept": 870,
+                "$last_seen": "2023-12-04T09:36:58.517Z"
               }
             ]
           }
@@ -79983,6 +80053,20 @@
                 "$districtName": "hyllie",
                 "last_accept": 1104,
                 "$last_seen": "2023-11-03T08:43:04.099Z"
+              },
+              {
+                "id": 105803,
+                "rent": 9261,
+                "area": 54.6,
+                "street": "hyllie vattenparksgata",
+                "street_number": "39",
+                "city": "malmö",
+                "zip": "21536",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "hyllie",
+                "last_accept": 75,
+                "$last_seen": "2023-12-04T09:36:58.517Z"
               }
             ],
             "svansjögatan": [
@@ -85447,6 +85531,20 @@
                 "$districtName": "vantör",
                 "last_accept": 1763,
                 "$last_seen": "2023-11-24T12:53:04.467Z"
+              },
+              {
+                "id": 106052,
+                "rent": 10580,
+                "area": 89,
+                "street": "pålsbodagränd",
+                "street_number": "11",
+                "city": "bandhagen",
+                "zip": "12475",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 1842,
+                "$last_seen": "2023-12-04T09:36:58.517Z"
               }
             ],
             "bäverdammsgränd": [
