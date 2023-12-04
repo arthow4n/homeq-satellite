@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-12-04T08:41:02.487Z",
+  "lastUpdatedAt": "2023-12-04T09:36:58.517Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -76971,6 +76971,20 @@
                 "$districtName": "limhamn",
                 "last_accept": 0,
                 "$last_seen": "2023-11-27T08:41:02.248Z"
+              },
+              {
+                "id": 106742,
+                "rent": 10366,
+                "area": 63.3,
+                "street": "nätsnäcksgränd",
+                "street_number": "2",
+                "city": "malmö",
+                "zip": "21631",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "limhamn",
+                "last_accept": 0,
+                "$last_seen": "2023-12-04T08:41:02.487Z"
               }
             ],
             "dammsnäcksgränd": [
@@ -84679,6 +84693,20 @@
                 "$districtName": "vantör",
                 "last_accept": 1717,
                 "$last_seen": "2023-07-06T10:51:22.349Z"
+              },
+              {
+                "id": 106049,
+                "rent": 8255,
+                "area": 64,
+                "street": "kvarntorpsgränd",
+                "street_number": "3",
+                "city": "bandhagen",
+                "zip": "12473",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 1719,
+                "$last_seen": "2023-12-04T08:41:02.487Z"
               }
             ],
             "harpsundsvägen": [
