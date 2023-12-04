@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-12-04T11:35:58.992Z",
+  "lastUpdatedAt": "2023-12-04T12:55:19.807Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -49611,6 +49611,20 @@
                 "$districtName": "örgryte",
                 "last_accept": 1463,
                 "$last_seen": "2023-11-28T11:36:34.123Z"
+              },
+              {
+                "id": 106135,
+                "rent": 10115,
+                "area": 54,
+                "street": "smörkärnegatan",
+                "street_number": "25",
+                "city": "göteborg",
+                "zip": "41278",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1134,
+                "$last_seen": "2023-12-04T11:35:58.992Z"
               }
             ],
             "tändsticksgatan": [
@@ -68991,6 +69005,20 @@
                 "$last_seen": "2023-11-15T16:48:02.110Z"
               },
               {
+                "id": 106586,
+                "rent": 5345,
+                "area": 34,
+                "street": "gårdstensvägen",
+                "street_number": "59",
+                "city": "göteborg",
+                "zip": "42440",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "gunnared",
+                "last_accept": 993,
+                "$last_seen": "2023-12-04T11:35:58.992Z"
+              },
+              {
                 "id": 106691,
                 "rent": 5896,
                 "area": 35,
@@ -71043,6 +71071,20 @@
                 "$districtName": "tynnered",
                 "last_accept": 1577,
                 "$last_seen": "2023-12-01T11:36:15.464Z"
+              },
+              {
+                "id": 106034,
+                "rent": 4728,
+                "area": 38,
+                "street": "karneolgatan",
+                "street_number": "11",
+                "city": "västra frölunda",
+                "zip": "42651",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tynnered",
+                "last_accept": 1135,
+                "$last_seen": "2023-12-04T11:35:58.992Z"
               }
             ],
             "smaragdgatan": [
