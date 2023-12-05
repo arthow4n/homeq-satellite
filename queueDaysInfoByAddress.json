@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-12-05T11:36:37.870Z",
+  "lastUpdatedAt": "2023-12-05T12:55:25.763Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -8039,6 +8039,20 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1764,
                 "$last_seen": "2023-11-09T07:40:58.293Z"
+              },
+              {
+                "id": 106134,
+                "rent": 9543,
+                "area": 64,
+                "street": "norra krokslättsgatan",
+                "street_number": "6",
+                "city": "göteborg",
+                "zip": "41264",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1775,
+                "$last_seen": "2023-12-05T11:36:37.870Z"
               }
             ],
             "norgårdsgatan": [
@@ -58747,6 +58761,20 @@
                 "$districtName": "göteborgs vasa",
                 "last_accept": 1681,
                 "$last_seen": "2023-08-17T10:45:55.937Z"
+              },
+              {
+                "id": 106178,
+                "rent": 26385,
+                "area": 221,
+                "street": "föreningsgatan",
+                "street_number": "26",
+                "city": "göteborg",
+                "zip": "41127",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs vasa",
+                "last_accept": 1787,
+                "$last_seen": "2023-12-05T11:36:37.870Z"
               }
             ],
             "tegnérsgatan": [
@@ -79849,6 +79877,20 @@
                 "$districtName": "hyllie",
                 "last_accept": 12,
                 "$last_seen": "2023-12-05T07:36:37.219Z"
+              },
+              {
+                "id": 107153,
+                "rent": 9206,
+                "area": 50,
+                "street": "tors gränd",
+                "street_number": "2",
+                "city": "malmö",
+                "zip": "21534",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "hyllie",
+                "last_accept": 6,
+                "$last_seen": "2023-12-05T11:36:37.870Z"
               }
             ],
             "allétorget": [
@@ -87225,6 +87267,20 @@
                 "$districtName": "skärholmen",
                 "last_accept": 1709,
                 "$last_seen": "2023-09-12T11:43:37.854Z"
+              },
+              {
+                "id": 106429,
+                "rent": 9027,
+                "area": 65,
+                "street": "ålgrytevägen",
+                "street_number": "131",
+                "city": "stockholm",
+                "zip": "12731",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "skärholmen",
+                "last_accept": 1595,
+                "$last_seen": "2023-12-05T11:36:37.870Z"
               }
             ],
             "andholmsvägen": [
