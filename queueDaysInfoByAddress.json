@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-12-05T14:40:24.829Z",
+  "lastUpdatedAt": "2023-12-05T15:38:31.869Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -79193,6 +79193,20 @@
                 "$districtName": "malmö sankt pauli",
                 "last_accept": 300,
                 "$last_seen": "2023-11-15T16:48:02.110Z"
+              },
+              {
+                "id": 106486,
+                "rent": 12535,
+                "area": 98,
+                "street": "östra förstadsgatan",
+                "street_number": "3 a",
+                "city": "malmö",
+                "zip": "21131",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "malmö sankt pauli",
+                "last_accept": 1030,
+                "$last_seen": "2023-12-05T14:40:24.829Z"
               }
             ],
             "fredriksbergsgatan": [
@@ -85993,6 +86007,20 @@
                 "$last_seen": "2023-12-04T10:43:11.365Z"
               },
               {
+                "id": 106263,
+                "rent": 5190,
+                "area": 23,
+                "street": "hagsätra torg",
+                "street_number": "40",
+                "city": "bandhagen",
+                "zip": "12473",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 1283,
+                "$last_seen": "2023-12-05T14:40:24.829Z"
+              },
+              {
                 "id": 106431,
                 "rent": 10260,
                 "area": 78,
@@ -88653,6 +88681,20 @@
                 "$districtName": "hammarby",
                 "last_accept": 0,
                 "$last_seen": "2023-11-27T07:35:23.927Z"
+              },
+              {
+                "id": 106264,
+                "rent": 6875,
+                "area": 29,
+                "street": "dragonvägen",
+                "street_number": "7",
+                "city": "stockholm",
+                "zip": "19470",
+                "municipality": "upplands väsby",
+                "county": "stockholms län",
+                "$districtName": "hammarby",
+                "last_accept": 258,
+                "$last_seen": "2023-12-05T14:40:24.829Z"
               }
             ]
           }
