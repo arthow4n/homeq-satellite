@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-12-05T12:55:25.763Z",
+  "lastUpdatedAt": "2023-12-05T13:38:57.775Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -48429,6 +48429,20 @@
                 "$districtName": "örgryte",
                 "last_accept": 1035,
                 "$last_seen": "2023-12-01T09:36:15.359Z"
+              },
+              {
+                "id": 106090,
+                "rent": 10695,
+                "area": 70,
+                "street": "smörgatan",
+                "street_number": "100",
+                "city": "göteborg",
+                "zip": "41276",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1709,
+                "$last_seen": "2023-12-05T12:55:25.763Z"
               }
             ],
             "prästgårdsängen": [
@@ -50355,6 +50369,34 @@
                 "$districtName": "örgryte",
                 "last_accept": 1039,
                 "$last_seen": "2023-12-04T09:36:58.517Z"
+              },
+              {
+                "id": 106138,
+                "rent": 10569,
+                "area": 54,
+                "street": "tändsticksgatan",
+                "street_number": "2",
+                "city": "göteborg",
+                "zip": "41263",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1100,
+                "$last_seen": "2023-12-05T12:55:25.763Z"
+              },
+              {
+                "id": 106140,
+                "rent": 12043,
+                "area": 64,
+                "street": "tändsticksgatan",
+                "street_number": "2",
+                "city": "göteborg",
+                "zip": "41263",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 820,
+                "$last_seen": "2023-12-05T12:55:25.763Z"
               }
             ],
             "gräddgatan": [
