@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-12-05T07:36:37.219Z",
+  "lastUpdatedAt": "2023-12-05T08:41:04.006Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -46135,6 +46135,76 @@
                 "$last_seen": "2023-11-09T12:58:37.143Z"
               },
               {
+                "id": 106144,
+                "rent": 7036,
+                "area": 34,
+                "street": "bangårdsgatan",
+                "street_number": "15",
+                "city": "göteborg",
+                "zip": "41112",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs domkyrkodistrikt",
+                "last_accept": 1365,
+                "$last_seen": "2023-12-05T07:36:37.219Z"
+              },
+              {
+                "id": 106148,
+                "rent": 7124,
+                "area": 34,
+                "street": "bangårdsgatan",
+                "street_number": "15",
+                "city": "göteborg",
+                "zip": "41112",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs domkyrkodistrikt",
+                "last_accept": 1358,
+                "$last_seen": "2023-12-05T07:36:37.219Z"
+              },
+              {
+                "id": 106150,
+                "rent": 6949,
+                "area": 34,
+                "street": "bangårdsgatan",
+                "street_number": "17",
+                "city": "göteborg",
+                "zip": "41112",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs domkyrkodistrikt",
+                "last_accept": 1429,
+                "$last_seen": "2023-12-05T07:36:37.219Z"
+              },
+              {
+                "id": 106152,
+                "rent": 6774,
+                "area": 34,
+                "street": "bangårdsgatan",
+                "street_number": "15",
+                "city": "göteborg",
+                "zip": "41112",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs domkyrkodistrikt",
+                "last_accept": 1400,
+                "$last_seen": "2023-12-05T07:36:37.219Z"
+              },
+              {
+                "id": 106155,
+                "rent": 6686,
+                "area": 34,
+                "street": "bangårdsgatan",
+                "street_number": "15",
+                "city": "göteborg",
+                "zip": "41112",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs domkyrkodistrikt",
+                "last_accept": 1409,
+                "$last_seen": "2023-12-05T07:36:37.219Z"
+              },
+              {
                 "id": 106156,
                 "rent": 9668,
                 "area": 58,
@@ -46147,6 +46217,62 @@
                 "$districtName": "göteborgs domkyrkodistrikt",
                 "last_accept": 1511,
                 "$last_seen": "2023-12-05T06:42:18.851Z"
+              },
+              {
+                "id": 106158,
+                "rent": 10885,
+                "area": 65,
+                "street": "bangårdsgatan",
+                "street_number": "19",
+                "city": "göteborg",
+                "zip": "41112",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs domkyrkodistrikt",
+                "last_accept": 1656,
+                "$last_seen": "2023-12-05T07:36:37.219Z"
+              },
+              {
+                "id": 106159,
+                "rent": 6795,
+                "area": 34,
+                "street": "bangårdsgatan",
+                "street_number": "21",
+                "city": "göteborg",
+                "zip": "41112",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs domkyrkodistrikt",
+                "last_accept": 1532,
+                "$last_seen": "2023-12-05T07:36:37.219Z"
+              },
+              {
+                "id": 106160,
+                "rent": 10973,
+                "area": 65,
+                "street": "bangårdsgatan",
+                "street_number": "21",
+                "city": "göteborg",
+                "zip": "41112",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs domkyrkodistrikt",
+                "last_accept": 1656,
+                "$last_seen": "2023-12-05T07:36:37.219Z"
+              },
+              {
+                "id": 106161,
+                "rent": 7036,
+                "area": 34,
+                "street": "bangårdsgatan",
+                "street_number": "17",
+                "city": "göteborg",
+                "zip": "41112",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs domkyrkodistrikt",
+                "last_accept": 1424,
+                "$last_seen": "2023-12-05T07:36:37.219Z"
               }
             ],
             "burggreveplatsen": [
@@ -68651,6 +68777,20 @@
                 "$districtName": "gunnared",
                 "last_accept": 818,
                 "$last_seen": "2023-11-15T07:38:05.636Z"
+              },
+              {
+                "id": 106697,
+                "rent": 6737,
+                "area": 46,
+                "street": "lagerbladsgatan",
+                "street_number": "6",
+                "city": "göteborg",
+                "zip": "42440",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "gunnared",
+                "last_accept": 827,
+                "$last_seen": "2023-12-05T07:36:37.219Z"
               }
             ],
             "gårdstensvägen": [
@@ -69465,6 +69605,20 @@
                 "$districtName": "haga",
                 "last_accept": 1846,
                 "$last_seen": "2023-11-28T14:40:24.699Z"
+              },
+              {
+                "id": 107157,
+                "rent": 9175,
+                "area": 61,
+                "street": "nilssonsberg",
+                "street_number": "33",
+                "city": "göteborg ",
+                "zip": "41143",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "haga",
+                "last_accept": 1813,
+                "$last_seen": "2023-12-05T07:36:37.219Z"
               }
             ]
           },
@@ -79583,6 +79737,20 @@
                 "$districtName": "hyllie",
                 "last_accept": 54,
                 "$last_seen": "2023-11-16T11:33:42.332Z"
+              },
+              {
+                "id": 107148,
+                "rent": 11080,
+                "area": 69,
+                "street": "tors gränd",
+                "street_number": "14",
+                "city": "malmö",
+                "zip": "21534",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "hyllie",
+                "last_accept": 12,
+                "$last_seen": "2023-12-05T07:36:37.219Z"
               }
             ],
             "allétorget": [
