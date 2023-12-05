@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-12-05T13:38:57.775Z",
+  "lastUpdatedAt": "2023-12-05T14:40:24.829Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -7111,6 +7111,20 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1779,
                 "$last_seen": "2023-11-28T11:36:34.123Z"
+              },
+              {
+                "id": 106450,
+                "rent": 9102,
+                "area": 44,
+                "street": "ebbe lieberathsgatan",
+                "street_number": "22 e",
+                "city": "göteborg",
+                "zip": "41265",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1288,
+                "$last_seen": "2023-12-05T13:38:57.775Z"
               }
             ],
             "nordgårdsgatan": [
@@ -32895,6 +32909,20 @@
                 "$districtName": "kortedala",
                 "last_accept": 1294,
                 "$last_seen": "2023-12-04T09:36:58.517Z"
+              },
+              {
+                "id": 106414,
+                "rent": 9103,
+                "area": 73,
+                "street": "solvarvsgatan",
+                "street_number": "4",
+                "city": "göteborg",
+                "zip": "41531",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "kortedala",
+                "last_accept": 1295,
+                "$last_seen": "2023-12-05T13:38:57.775Z"
               }
             ],
             "solståndsgatan": [
@@ -75033,6 +75061,20 @@
                 "$districtName": "råda",
                 "last_accept": 1327,
                 "$last_seen": "2023-10-13T13:44:03.048Z"
+              },
+              {
+                "id": 106299,
+                "rent": 9902,
+                "area": 74,
+                "street": "badhusgatan",
+                "street_number": "16b",
+                "city": "göteborg",
+                "zip": "43530",
+                "municipality": "härryda",
+                "county": "västra götalands län",
+                "$districtName": "råda",
+                "last_accept": 1784,
+                "$last_seen": "2023-12-05T13:38:57.775Z"
               }
             ]
           }
