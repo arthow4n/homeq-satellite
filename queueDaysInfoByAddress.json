@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-12-06T13:38:33.158Z",
+  "lastUpdatedAt": "2023-12-06T14:40:02.320Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -81483,6 +81483,20 @@
                 "$districtName": "malmö sankt johannes",
                 "last_accept": 1392,
                 "$last_seen": "2023-11-21T07:33:29.644Z"
+              },
+              {
+                "id": 106759,
+                "rent": 6653,
+                "area": 53,
+                "street": "möllevångsgatan",
+                "street_number": "34",
+                "city": "malmö",
+                "zip": "21422",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "malmö sankt johannes",
+                "last_accept": 1204,
+                "$last_seen": "2023-12-06T13:38:33.158Z"
               }
             ]
           },
