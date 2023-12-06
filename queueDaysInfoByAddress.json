@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-12-06T09:36:04.101Z",
+  "lastUpdatedAt": "2023-12-06T10:41:41.565Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -77533,6 +77533,20 @@
                 "$last_seen": "2023-12-04T06:42:08.895Z"
               },
               {
+                "id": 106119,
+                "rent": 13115,
+                "area": 83,
+                "street": "nätsnäcksgränd",
+                "street_number": "9",
+                "city": "malmö",
+                "zip": "21631",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "limhamn",
+                "last_accept": 49,
+                "$last_seen": "2023-12-06T09:36:04.101Z"
+              },
+              {
                 "id": 106723,
                 "rent": 10366,
                 "area": 63.3,
@@ -77995,6 +78009,20 @@
                 "$districtName": "kirseberg",
                 "last_accept": 16,
                 "$last_seen": "2023-11-24T13:36:25.812Z"
+              },
+              {
+                "id": 106768,
+                "rent": 11541,
+                "area": 76,
+                "street": "segeparksgatan",
+                "street_number": "19",
+                "city": "malmö",
+                "zip": "21250",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "kirseberg",
+                "last_accept": 0,
+                "$last_seen": "2023-12-06T09:36:04.101Z"
               }
             ],
             "lundavägen": [
@@ -86489,6 +86517,20 @@
                 "$districtName": "vantör",
                 "last_accept": 1311,
                 "$last_seen": "2023-11-30T12:55:17.763Z"
+              },
+              {
+                "id": 106605,
+                "rent": 7908,
+                "area": 72,
+                "street": "bjursätragatan",
+                "street_number": "25a",
+                "city": "bandhagen",
+                "zip": "12462",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 1854,
+                "$last_seen": "2023-12-06T09:36:04.101Z"
               }
             ],
             "vintrosagatan": [
