@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-12-06T10:41:41.565Z",
+  "lastUpdatedAt": "2023-12-06T11:35:53.510Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -68209,6 +68209,20 @@
                 "$districtName": "göteborgs karl johan",
                 "last_accept": 1354,
                 "$last_seen": "2023-12-04T13:39:08.683Z"
+              },
+              {
+                "id": 107476,
+                "rent": 9124,
+                "area": 48,
+                "street": "kabelgatan",
+                "street_number": "25",
+                "city": "göteborg",
+                "zip": "41457",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs karl johan",
+                "last_accept": 996,
+                "$last_seen": "2023-12-06T10:41:41.565Z"
               }
             ],
             "kusttorget": [
@@ -86045,6 +86059,20 @@
                 "$districtName": "vantör",
                 "last_accept": 1263,
                 "$last_seen": "2023-11-29T14:39:01.951Z"
+              },
+              {
+                "id": 106651,
+                "rent": 9969,
+                "area": 78,
+                "street": "askersundsgatan",
+                "street_number": "6",
+                "city": "bandhagen",
+                "zip": "12467",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 1691,
+                "$last_seen": "2023-12-06T10:41:41.565Z"
               }
             ],
             "hagsätra torg": [
