@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-12-06T11:35:53.510Z",
+  "lastUpdatedAt": "2023-12-06T12:55:44.333Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -1831,6 +1831,20 @@
                 "$districtName": "fässberg",
                 "last_accept": 1527,
                 "$last_seen": "2023-11-17T14:36:51.036Z"
+              },
+              {
+                "id": 106511,
+                "rent": 10847,
+                "area": 82,
+                "street": "luktärtsgatan",
+                "street_number": "2",
+                "city": "mölndal",
+                "zip": "43132",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 1696,
+                "$last_seen": "2023-12-06T11:35:53.510Z"
               }
             ],
             "lammevallsgatan": [
@@ -78911,6 +78925,20 @@
                 "$districtName": "kirseberg",
                 "last_accept": 59,
                 "$last_seen": "2023-11-09T11:40:37.581Z"
+              },
+              {
+                "id": 107185,
+                "rent": 7573,
+                "area": 52,
+                "street": "rantzowsgatan",
+                "street_number": "12c",
+                "city": "malmö",
+                "zip": "21221",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "kirseberg",
+                "last_accept": 0,
+                "$last_seen": "2023-12-06T11:35:53.510Z"
               }
             ],
             "kirsebergsgatan": [
