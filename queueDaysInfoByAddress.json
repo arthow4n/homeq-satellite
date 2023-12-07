@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-12-07T13:42:45.460Z",
+  "lastUpdatedAt": "2023-12-07T14:40:51.001Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -19022,6 +19022,22 @@
                 "last_accept": 365,
                 "$last_seen": "2023-11-23T14:37:53.058Z"
               }
+            ],
+            "sehlstedtsgatan": [
+              {
+                "id": 106656,
+                "rent": 5808,
+                "area": 52,
+                "street": "sehlstedtsgatan",
+                "street_number": "7 a",
+                "city": "göteborg",
+                "zip": "41720",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brämaregården",
+                "last_accept": 1630,
+                "$last_seen": "2023-12-07T13:42:45.460Z"
+              }
             ]
           },
           "lundby": {
@@ -26339,6 +26355,20 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1778,
                 "$last_seen": "2023-11-21T12:54:32.514Z"
+              },
+              {
+                "id": 106652,
+                "rent": 9400,
+                "area": 65,
+                "street": "redbergsvägen",
+                "street_number": "5",
+                "city": "göteborg",
+                "zip": "41665",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1557,
+                "$last_seen": "2023-12-07T13:42:45.460Z"
               }
             ],
             "kungälvsgatan": [
@@ -51677,6 +51707,20 @@
                 "$districtName": "örgryte",
                 "last_accept": 1557,
                 "$last_seen": "2023-12-07T12:55:44.881Z"
+              },
+              {
+                "id": 107859,
+                "rent": 13170,
+                "area": 102,
+                "street": "mejerigatan",
+                "street_number": "12",
+                "city": "göteborg",
+                "zip": "41276",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1256,
+                "$last_seen": "2023-12-07T13:42:45.460Z"
               }
             ],
             "filmjölksgatan": [
@@ -81529,6 +81573,20 @@
                 "$districtName": "västra skrävlinge",
                 "last_accept": 15,
                 "$last_seen": "2023-11-06T06:45:28.381Z"
+              },
+              {
+                "id": 106498,
+                "rent": 9324,
+                "area": 89,
+                "street": "ramels väg",
+                "street_number": "35",
+                "city": "malmö",
+                "zip": "21368",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "västra skrävlinge",
+                "last_accept": 0,
+                "$last_seen": "2023-12-07T13:42:45.460Z"
               }
             ]
           },
