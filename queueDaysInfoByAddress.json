@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-12-07T10:42:50.474Z",
+  "lastUpdatedAt": "2023-12-07T11:36:26.034Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -5441,6 +5441,20 @@
                 "$districtName": "kållered",
                 "last_accept": 1020,
                 "$last_seen": "2023-12-04T12:55:19.807Z"
+              },
+              {
+                "id": 107675,
+                "rent": 7607,
+                "area": 63,
+                "street": "våmmedalsvägen",
+                "street_number": "134",
+                "city": "kållered",
+                "zip": "42831",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "kållered",
+                "last_accept": 906,
+                "$last_seen": "2023-12-07T10:42:50.474Z"
               }
             ],
             "streteredsvägen": [
@@ -69605,6 +69619,48 @@
                 "$districtName": "gunnared",
                 "last_accept": 811,
                 "$last_seen": "2023-11-29T14:39:01.951Z"
+              },
+              {
+                "id": 106694,
+                "rent": 8863,
+                "area": 69,
+                "street": "gårdstensvägen",
+                "street_number": "55",
+                "city": "göteborg",
+                "zip": "42440",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "gunnared",
+                "last_accept": 1042,
+                "$last_seen": "2023-12-07T10:42:50.474Z"
+              },
+              {
+                "id": 106695,
+                "rent": 5880,
+                "area": 35,
+                "street": "gårdstensvägen",
+                "street_number": "57",
+                "city": "göteborg",
+                "zip": "42440",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "gunnared",
+                "last_accept": 996,
+                "$last_seen": "2023-12-07T10:42:50.474Z"
+              },
+              {
+                "id": 106696,
+                "rent": 5880,
+                "area": 35,
+                "street": "gårdstensvägen",
+                "street_number": "57",
+                "city": "göteborg",
+                "zip": "42440",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "gunnared",
+                "last_accept": 1012,
+                "$last_seen": "2023-12-07T10:42:50.474Z"
               }
             ]
           },
