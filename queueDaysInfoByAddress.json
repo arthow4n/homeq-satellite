@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-12-07T15:37:59.411Z",
+  "lastUpdatedAt": "2023-12-07T16:46:02.199Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -42861,6 +42861,20 @@
                 "$districtName": "nylöse",
                 "last_accept": 0,
                 "$last_seen": "2023-12-07T14:40:51.001Z"
+              },
+              {
+                "id": 106661,
+                "rent": 9963,
+                "area": 64.8,
+                "street": "sysslomansgatan",
+                "street_number": "38",
+                "city": "göteborg",
+                "zip": "41574",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "nylöse",
+                "last_accept": 0,
+                "$last_seen": "2023-12-07T15:37:59.411Z"
               }
             ],
             "hinderbanan": [
@@ -43187,6 +43201,20 @@
                 "$districtName": "nylöse",
                 "last_accept": 1376,
                 "$last_seen": "2023-11-02T08:41:42.253Z"
+              },
+              {
+                "id": 106828,
+                "rent": 9756,
+                "area": 53,
+                "street": "gamlestadsvägen",
+                "street_number": "10 d",
+                "city": "göteborg",
+                "zip": "41502",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "nylöse",
+                "last_accept": 1360,
+                "$last_seen": "2023-12-07T15:37:59.411Z"
               }
             ],
             "ryttaregatan": [
@@ -53187,6 +53215,22 @@
                 "$districtName": "örgryte",
                 "last_accept": 647,
                 "$last_seen": "2023-12-05T09:36:24.516Z"
+              }
+            ],
+            "kallebäcksvägen": [
+              {
+                "id": 106686,
+                "rent": 14282,
+                "area": 121,
+                "street": "kallebäcksvägen",
+                "street_number": "19a",
+                "city": "göteborg",
+                "zip": "41275",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1585,
+                "$last_seen": "2023-12-07T15:37:59.411Z"
               }
             ]
           },
@@ -67311,6 +67355,20 @@
                 "$districtName": "tuve",
                 "last_accept": 871,
                 "$last_seen": "2023-09-07T07:43:23.617Z"
+              },
+              {
+                "id": 106650,
+                "rent": 11933,
+                "area": 73.1,
+                "street": "herman anderssons väg",
+                "street_number": "4",
+                "city": "göteborg",
+                "zip": "41747",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tuve",
+                "last_accept": 789,
+                "$last_seen": "2023-12-07T15:37:59.411Z"
               }
             ],
             "gunnestorpsvägen": [
@@ -82147,6 +82205,20 @@
                 "$districtName": "fosie",
                 "last_accept": 283,
                 "$last_seen": "2023-11-01T12:56:45.924Z"
+              },
+              {
+                "id": 106668,
+                "rent": 8478,
+                "area": 58,
+                "street": "docentgatan",
+                "street_number": "7 b",
+                "city": "malmö",
+                "zip": "21552",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "fosie",
+                "last_accept": 0,
+                "$last_seen": "2023-12-07T15:37:59.411Z"
               }
             ],
             "professorsgatan": [
