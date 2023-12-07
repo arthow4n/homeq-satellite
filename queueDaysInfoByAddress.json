@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-12-06T23:36:22.553Z",
+  "lastUpdatedAt": "2023-12-07T01:44:40.840Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -513,20 +513,6 @@
                 "$districtName": "fässberg",
                 "last_accept": 1770,
                 "$last_seen": "2023-11-14T07:38:36.106Z"
-              },
-              {
-                "id": 106592,
-                "rent": 6178,
-                "area": 59,
-                "street": "stenbrogatan",
-                "street_number": "3 a",
-                "city": "mölndal",
-                "zip": "43143",
-                "municipality": "mölndal",
-                "county": "västra götalands län",
-                "$districtName": "fässberg",
-                "last_accept": 1791,
-                "$last_seen": "2023-12-06T22:40:03.386Z"
               }
             ],
             "berghemsgatan": [
@@ -22857,20 +22843,6 @@
                 "$districtName": "lundby",
                 "last_accept": 1530,
                 "$last_seen": "2023-11-17T09:33:28.345Z"
-              },
-              {
-                "id": 106571,
-                "rent": 5513,
-                "area": 35,
-                "street": "arvid lindmansgatan",
-                "street_number": "4b",
-                "city": "göteborg",
-                "zip": "41741",
-                "municipality": "göteborg",
-                "county": "västra götalands län",
-                "$districtName": "lundby",
-                "last_accept": 1502,
-                "$last_seen": "2023-12-06T22:40:03.386Z"
               }
             ],
             "estlandsgatan": [
