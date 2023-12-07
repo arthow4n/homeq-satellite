@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-12-07T09:36:31.726Z",
+  "lastUpdatedAt": "2023-12-07T10:42:50.474Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -22913,6 +22913,20 @@
                 "$districtName": "lundby",
                 "last_accept": 1610,
                 "$last_seen": "2023-12-07T07:36:35.630Z"
+              },
+              {
+                "id": 106571,
+                "rent": 5513,
+                "area": 35,
+                "street": "arvid lindmansgatan",
+                "street_number": "4b",
+                "city": "göteborg",
+                "zip": "41741",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1503,
+                "$last_seen": "2023-12-07T09:36:31.726Z"
               }
             ],
             "estlandsgatan": [
@@ -26581,6 +26595,20 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1769,
                 "$last_seen": "2023-11-13T08:43:49.868Z"
+              },
+              {
+                "id": 107265,
+                "rent": 11013,
+                "area": 77,
+                "street": "torkelsgatan",
+                "street_number": "8",
+                "city": "göteborg",
+                "zip": "41658",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1794,
+                "$last_seen": "2023-12-07T09:36:31.726Z"
               }
             ],
             "schéelegatan": [
@@ -71673,6 +71701,20 @@
                 "$districtName": "tynnered",
                 "last_accept": 1248,
                 "$last_seen": "2023-12-05T08:41:04.006Z"
+              },
+              {
+                "id": 106521,
+                "rent": 10730,
+                "area": 96,
+                "street": "karneolgatan",
+                "street_number": "47",
+                "city": "västra frölunda",
+                "zip": "42651",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tynnered",
+                "last_accept": 1791,
+                "$last_seen": "2023-12-07T09:36:31.726Z"
               }
             ],
             "smaragdgatan": [
@@ -72615,6 +72657,20 @@
                 "$districtName": "tynnered",
                 "last_accept": 1203,
                 "$last_seen": "2023-12-05T09:36:24.516Z"
+              },
+              {
+                "id": 107083,
+                "rent": 7728,
+                "area": 68.98,
+                "street": "smyckegatan",
+                "street_number": "58",
+                "city": "västra frölunda",
+                "zip": "42650",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tynnered",
+                "last_accept": 1696,
+                "$last_seen": "2023-12-07T09:36:31.726Z"
               }
             ],
             "björkhöjdsgatan": [
