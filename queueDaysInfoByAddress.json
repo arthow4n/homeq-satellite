@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-12-07T12:55:44.881Z",
+  "lastUpdatedAt": "2023-12-07T13:42:45.460Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -5441,6 +5441,20 @@
                 "$districtName": "kållered",
                 "last_accept": 1020,
                 "$last_seen": "2023-12-04T12:55:19.807Z"
+              },
+              {
+                "id": 106688,
+                "rent": 9154,
+                "area": 81,
+                "street": "våmmedalsvägen",
+                "street_number": "48",
+                "city": "kållered",
+                "zip": "42832",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "kållered",
+                "last_accept": 1145,
+                "$last_seen": "2023-12-07T12:55:44.881Z"
               },
               {
                 "id": 107675,
@@ -51649,6 +51663,20 @@
                 "$districtName": "örgryte",
                 "last_accept": 1788,
                 "$last_seen": "2023-12-01T09:36:15.359Z"
+              },
+              {
+                "id": 107729,
+                "rent": 13170,
+                "area": 102,
+                "street": "mejerigatan",
+                "street_number": "12",
+                "city": "göteborg",
+                "zip": "41276",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1557,
+                "$last_seen": "2023-12-07T12:55:44.881Z"
               }
             ],
             "filmjölksgatan": [
@@ -70713,6 +70741,20 @@
                 "$districtName": "brunnsbo",
                 "last_accept": 1566,
                 "$last_seen": "2023-11-29T12:56:18.243Z"
+              },
+              {
+                "id": 106711,
+                "rent": 7885,
+                "area": 60,
+                "street": "klassikergatan",
+                "street_number": "15",
+                "city": "hisings backa",
+                "zip": "42241",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brunnsbo",
+                "last_accept": 1261,
+                "$last_seen": "2023-12-07T12:55:44.881Z"
               }
             ],
             "prologgatan": [
@@ -71167,6 +71209,20 @@
                 "$districtName": "brunnsbo",
                 "last_accept": 1378,
                 "$last_seen": "2023-11-28T13:38:04.446Z"
+              },
+              {
+                "id": 106709,
+                "rent": 4622,
+                "area": 38,
+                "street": "poesigatan",
+                "street_number": "4",
+                "city": "hisings backa",
+                "zip": "42241",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brunnsbo",
+                "last_accept": 1550,
+                "$last_seen": "2023-12-07T12:55:44.881Z"
               }
             ]
           }
