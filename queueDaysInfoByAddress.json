@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-12-07T14:40:51.001Z",
+  "lastUpdatedAt": "2023-12-07T15:37:59.411Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -20121,6 +20121,20 @@
                 "$districtName": "lundby",
                 "last_accept": 1588,
                 "$last_seen": "2023-12-01T10:42:08.547Z"
+              },
+              {
+                "id": 106665,
+                "rent": 9141,
+                "area": 75,
+                "street": "wieselgrensplatsen",
+                "street_number": "31",
+                "city": "göteborg",
+                "zip": "41712",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1610,
+                "$last_seen": "2023-12-07T14:40:51.001Z"
               }
             ],
             "lundbygatan": [
@@ -35711,6 +35725,20 @@
                 "$districtName": "askim",
                 "last_accept": 881,
                 "$last_seen": "2023-11-29T09:36:16.655Z"
+              },
+              {
+                "id": 106643,
+                "rent": 10229,
+                "area": 65,
+                "street": "pilegården",
+                "street_number": "7c",
+                "city": "göteborg",
+                "zip": "43635",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 636,
+                "$last_seen": "2023-12-07T14:40:51.001Z"
               }
             ],
             "nergårdsvägen": [
@@ -42819,6 +42847,20 @@
                 "$districtName": "nylöse",
                 "last_accept": 1019,
                 "$last_seen": "2023-11-30T13:42:16.916Z"
+              },
+              {
+                "id": 106660,
+                "rent": 10224,
+                "area": 61,
+                "street": "sysslomansgatan",
+                "street_number": "44",
+                "city": "göteborg",
+                "zip": "40422",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "nylöse",
+                "last_accept": 0,
+                "$last_seen": "2023-12-07T14:40:51.001Z"
               }
             ],
             "hinderbanan": [
@@ -79451,6 +79493,20 @@
                 "$districtName": "kirseberg",
                 "last_accept": 546,
                 "$last_seen": "2023-10-02T06:44:08.544Z"
+              },
+              {
+                "id": 107169,
+                "rent": 12521,
+                "area": 114,
+                "street": "solgatan",
+                "street_number": "20",
+                "city": "malmö",
+                "zip": "21220",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "kirseberg",
+                "last_accept": 307,
+                "$last_seen": "2023-12-07T14:40:51.001Z"
               }
             ]
           },
