@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-12-08T09:36:15.943Z",
+  "lastUpdatedAt": "2023-12-08T10:41:22.746Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -15937,6 +15937,20 @@
                 "$districtName": "högsbo",
                 "last_accept": 1301,
                 "$last_seen": "2023-12-05T08:41:04.006Z"
+              },
+              {
+                "id": 106707,
+                "rent": 9000,
+                "area": 54,
+                "street": "lilla tunnlandsgatan",
+                "street_number": "3",
+                "city": "göteborg",
+                "zip": "41477",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 1314,
+                "$last_seen": "2023-12-08T09:36:15.943Z"
               }
             ],
             "sjupundsgatan": [
