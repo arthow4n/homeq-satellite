@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-12-08T10:41:22.746Z",
+  "lastUpdatedAt": "2023-12-08T11:36:13.263Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -14373,6 +14373,20 @@
                 "$districtName": "högsbo",
                 "last_accept": 1109,
                 "$last_seen": "2023-11-27T15:36:59.726Z"
+              },
+              {
+                "id": 106992,
+                "rent": 6547,
+                "area": 43,
+                "street": "pennygången",
+                "street_number": "102",
+                "city": "göteborg",
+                "zip": "41482",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 1359,
+                "$last_seen": "2023-12-08T10:41:22.746Z"
               }
             ],
             "skäpplandsgatan": [
@@ -23397,6 +23411,20 @@
                 "$districtName": "lundby",
                 "last_accept": 1647,
                 "$last_seen": "2023-12-04T15:38:29.737Z"
+              },
+              {
+                "id": 106704,
+                "rent": 10019,
+                "area": 75,
+                "street": "norra säterigatan",
+                "street_number": "16",
+                "city": "göteborg",
+                "zip": "41876",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1757,
+                "$last_seen": "2023-12-08T10:41:22.746Z"
               }
             ],
             "biskopsgatan": [
@@ -31381,6 +31409,20 @@
                 "$districtName": "björkekärr",
                 "last_accept": 1344,
                 "$last_seen": "2023-11-23T14:37:53.058Z"
+              },
+              {
+                "id": 106804,
+                "rent": 6546,
+                "area": 38,
+                "street": "smörslätten",
+                "street_number": "8",
+                "city": "göteborg",
+                "zip": "41677",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "björkekärr",
+                "last_accept": 1123,
+                "$last_seen": "2023-12-08T10:41:22.746Z"
               }
             ],
             "lådspikaregatan": [
@@ -40395,6 +40437,20 @@
                 "$districtName": "bergsjön",
                 "last_accept": 0,
                 "$last_seen": "2023-11-15T16:48:02.110Z"
+              },
+              {
+                "id": 106978,
+                "rent": 11745,
+                "area": 90,
+                "street": "kosmosgatan",
+                "street_number": "3",
+                "city": "göteborg",
+                "zip": "41562",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bergsjön",
+                "last_accept": 0,
+                "$last_seen": "2023-12-08T10:41:22.746Z"
               },
               {
                 "id": 106983,
@@ -77595,6 +77651,20 @@
                 "$districtName": "möllevången",
                 "last_accept": 1644,
                 "$last_seen": "2023-11-08T10:45:27.022Z"
+              },
+              {
+                "id": 106748,
+                "rent": 3972,
+                "area": 28,
+                "street": "almbacksgatan",
+                "street_number": "11 c",
+                "city": "malmö",
+                "zip": "21154",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "möllevången",
+                "last_accept": 1129,
+                "$last_seen": "2023-12-08T10:41:22.746Z"
               }
             ],
             "uppsalagatan": [
