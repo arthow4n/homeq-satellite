@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-12-08T11:36:13.263Z",
+  "lastUpdatedAt": "2023-12-08T12:54:17.882Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -48907,6 +48907,20 @@
                 "$districtName": "örgryte",
                 "last_accept": 1709,
                 "$last_seen": "2023-12-05T12:55:25.763Z"
+              },
+              {
+                "id": 106812,
+                "rent": 14109,
+                "area": 85,
+                "street": "smörgatan",
+                "street_number": "1",
+                "city": "göteborg",
+                "zip": "41278",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1485,
+                "$last_seen": "2023-12-08T11:36:13.263Z"
               }
             ],
             "prästgårdsängen": [
@@ -81999,6 +82013,20 @@
                 "$districtName": "malmö sankt johannes",
                 "last_accept": 1366,
                 "$last_seen": "2023-10-26T05:40:15.117Z"
+              },
+              {
+                "id": 106762,
+                "rent": 5100,
+                "area": 17,
+                "street": "södra skolgatan",
+                "street_number": "33",
+                "city": "malmö",
+                "zip": "21422",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "malmö sankt johannes",
+                "last_accept": 0,
+                "$last_seen": "2023-12-08T11:36:13.263Z"
               }
             ],
             "södra förstadsgatan": [
