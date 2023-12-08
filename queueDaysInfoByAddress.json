@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-12-08T08:40:25.199Z",
+  "lastUpdatedAt": "2023-12-08T09:36:15.943Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -26411,6 +26411,20 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1557,
                 "$last_seen": "2023-12-07T13:42:45.460Z"
+              },
+              {
+                "id": 106699,
+                "rent": 9170,
+                "area": 63,
+                "street": "redbergsvägen",
+                "street_number": "28",
+                "city": "göteborg",
+                "zip": "41665",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1786,
+                "$last_seen": "2023-12-08T08:40:25.199Z"
               }
             ],
             "kungälvsgatan": [
@@ -42917,6 +42931,20 @@
                 "$districtName": "nylöse",
                 "last_accept": 0,
                 "$last_seen": "2023-12-07T14:40:51.001Z"
+              },
+              {
+                "id": 106661,
+                "rent": 9963,
+                "area": 64.8,
+                "street": "sysslomansgatan",
+                "street_number": "38",
+                "city": "göteborg",
+                "zip": "41574",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "nylöse",
+                "last_accept": 0,
+                "$last_seen": "2023-12-08T08:40:25.199Z"
               }
             ],
             "hinderbanan": [
@@ -67397,6 +67425,20 @@
                 "$districtName": "tuve",
                 "last_accept": 871,
                 "$last_seen": "2023-09-07T07:43:23.617Z"
+              },
+              {
+                "id": 106650,
+                "rent": 11933,
+                "area": 73.1,
+                "street": "herman anderssons väg",
+                "street_number": "4",
+                "city": "göteborg",
+                "zip": "41747",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tuve",
+                "last_accept": 790,
+                "$last_seen": "2023-12-08T08:40:25.199Z"
               }
             ],
             "gunnestorpsvägen": [
@@ -71779,6 +71821,20 @@
                 "$districtName": "askim",
                 "last_accept": 618,
                 "$last_seen": "2023-11-06T13:43:01.295Z"
+              },
+              {
+                "id": 106644,
+                "rent": 7938,
+                "area": 33,
+                "street": "sisjöbäckens väg",
+                "street_number": "22",
+                "city": "askim",
+                "zip": "43638",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 540,
+                "$last_seen": "2023-12-08T08:40:25.199Z"
               }
             ],
             "kobbegården": [
@@ -74265,6 +74321,20 @@
                 "$districtName": "västra frölunda",
                 "last_accept": 1473,
                 "$last_seen": "2023-11-24T14:38:18.257Z"
+              },
+              {
+                "id": 106701,
+                "rent": 10571,
+                "area": 88,
+                "street": "marconigatan",
+                "street_number": "33 a",
+                "city": "västra frölunda",
+                "zip": "42144",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "västra frölunda",
+                "last_accept": 1227,
+                "$last_seen": "2023-12-08T08:40:25.199Z"
               }
             ]
           },
