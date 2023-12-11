@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-12-11T07:36:43.938Z",
+  "lastUpdatedAt": "2023-12-11T08:41:50.657Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -22381,6 +22381,20 @@
                 "$districtName": "lundby",
                 "last_accept": 1747,
                 "$last_seen": "2023-11-29T13:38:43.088Z"
+              },
+              {
+                "id": 107647,
+                "rent": 10982,
+                "area": 83,
+                "street": "fyrklöversgatan",
+                "street_number": "84",
+                "city": "göteborg",
+                "zip": "41721",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1454,
+                "$last_seen": "2023-12-11T07:36:43.938Z"
               }
             ],
             "arvid lindmansgatan": [
@@ -36441,6 +36455,20 @@
                 "$districtName": "askim",
                 "last_accept": 1327,
                 "$last_seen": "2023-12-08T07:36:17.245Z"
+              },
+              {
+                "id": 107371,
+                "rent": 8729,
+                "area": 63,
+                "street": "nergårdsvägen",
+                "street_number": "19",
+                "city": "göteborg",
+                "zip": "43635",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 1200,
+                "$last_seen": "2023-12-11T07:36:43.938Z"
               }
             ],
             "hyltegården": [
