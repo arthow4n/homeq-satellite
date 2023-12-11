@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-12-11T14:41:32.982Z",
+  "lastUpdatedAt": "2023-12-11T15:37:12.104Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -23069,6 +23069,20 @@
                 "$districtName": "lundby",
                 "last_accept": 1571,
                 "$last_seen": "2023-12-08T07:36:17.245Z"
+              },
+              {
+                "id": 107348,
+                "rent": 8218,
+                "area": 66,
+                "street": "arvid lindmansgatan",
+                "street_number": "7 b",
+                "city": "göteborg",
+                "zip": "41726",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1756,
+                "$last_seen": "2023-12-11T14:41:32.982Z"
               }
             ],
             "estlandsgatan": [
@@ -70141,6 +70155,34 @@
                 "$districtName": "gunnared",
                 "last_accept": 1012,
                 "$last_seen": "2023-12-07T10:42:50.474Z"
+              },
+              {
+                "id": 107679,
+                "rent": 6658,
+                "area": 45,
+                "street": "gårdstensvägen",
+                "street_number": "51",
+                "city": "göteborg",
+                "zip": "42440",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "gunnared",
+                "last_accept": 1106,
+                "$last_seen": "2023-12-11T14:41:32.982Z"
+              },
+              {
+                "id": 107680,
+                "rent": 4632,
+                "area": 25,
+                "street": "gårdstensvägen",
+                "street_number": "57",
+                "city": "göteborg",
+                "zip": "42440",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "gunnared",
+                "last_accept": 640,
+                "$last_seen": "2023-12-11T14:41:32.982Z"
               }
             ]
           },
