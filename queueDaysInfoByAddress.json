@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-12-11T06:42:25.968Z",
+  "lastUpdatedAt": "2023-12-11T07:36:43.938Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -70131,6 +70131,24 @@
                 "$districtName": "haga",
                 "last_accept": 1768,
                 "$last_seen": "2023-10-11T13:00:01.100Z"
+              }
+            ]
+          },
+          "bäckebol": {
+            "skogsdrottningen": [
+              {
+                "id": 107861,
+                "rent": 7406,
+                "area": 30,
+                "street": "skogsdrottningen",
+                "street_number": "2",
+                "city": "göteborg",
+                "zip": "42255",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bäckebol",
+                "last_accept": 0,
+                "$last_seen": "2023-12-11T06:42:25.968Z"
               }
             ]
           }
