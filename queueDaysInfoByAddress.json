@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-12-11T12:56:40.940Z",
+  "lastUpdatedAt": "2023-12-11T13:39:54.581Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -527,6 +527,20 @@
                 "$districtName": "fässberg",
                 "last_accept": 1792,
                 "$last_seen": "2023-12-07T06:41:42.656Z"
+              },
+              {
+                "id": 107347,
+                "rent": 6178,
+                "area": 59,
+                "street": "stenbrogatan",
+                "street_number": "1 c",
+                "city": "mölndal",
+                "zip": "43143",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 1796,
+                "$last_seen": "2023-12-11T12:56:40.940Z"
               }
             ],
             "berghemsgatan": [
@@ -43071,6 +43085,20 @@
                 "$districtName": "nylöse",
                 "last_accept": 0,
                 "$last_seen": "2023-12-08T08:40:25.199Z"
+              },
+              {
+                "id": 106771,
+                "rent": 8060,
+                "area": 54,
+                "street": "sysslomansgatan",
+                "street_number": "39",
+                "city": "göteborg",
+                "zip": "41574",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "nylöse",
+                "last_accept": 595,
+                "$last_seen": "2023-12-11T12:56:40.940Z"
               }
             ],
             "hinderbanan": [
@@ -80637,6 +80665,20 @@
                 "$districtName": "hyllie",
                 "last_accept": 148,
                 "$last_seen": "2023-11-15T16:48:02.110Z"
+              },
+              {
+                "id": 107309,
+                "rent": 6069,
+                "area": 32,
+                "street": "hålsjögatan",
+                "street_number": "43",
+                "city": "malmö",
+                "zip": "21766",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "hyllie",
+                "last_accept": 121,
+                "$last_seen": "2023-12-11T12:56:40.940Z"
               }
             ],
             "hyllie allé": [
