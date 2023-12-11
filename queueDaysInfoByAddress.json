@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-12-11T09:37:37.716Z",
+  "lastUpdatedAt": "2023-12-11T10:44:10.815Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -35865,6 +35865,20 @@
                 "$districtName": "askim",
                 "last_accept": 636,
                 "$last_seen": "2023-12-07T14:40:51.001Z"
+              },
+              {
+                "id": 107641,
+                "rent": 9415,
+                "area": 81,
+                "street": "pilegården",
+                "street_number": "1d",
+                "city": "göteborg",
+                "zip": "43636",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 1336,
+                "$last_seen": "2023-12-11T09:37:37.716Z"
               }
             ],
             "nergårdsvägen": [
@@ -43687,6 +43701,20 @@
                 "$districtName": "nylöse",
                 "last_accept": 1555,
                 "$last_seen": "2023-09-06T09:43:04.793Z"
+              },
+              {
+                "id": 107302,
+                "rent": 7200,
+                "area": 48,
+                "street": "björnekärrsgatan",
+                "street_number": "5d",
+                "city": "göteborg",
+                "zip": "41504",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "nylöse",
+                "last_accept": 1612,
+                "$last_seen": "2023-12-11T09:37:37.716Z"
               }
             ],
             "batterigatan": [
@@ -82203,6 +82231,20 @@
                 "$districtName": "malmö sankt johannes",
                 "last_accept": 986,
                 "$last_seen": "2023-10-25T14:41:32.450Z"
+              },
+              {
+                "id": 106757,
+                "rent": 5473,
+                "area": 47,
+                "street": "smedjegatan",
+                "street_number": "5 b",
+                "city": "malmö",
+                "zip": "21421",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "malmö sankt johannes",
+                "last_accept": 1312,
+                "$last_seen": "2023-12-11T09:37:37.716Z"
               }
             ],
             "möllevångsgatan": [
@@ -89407,6 +89449,26 @@
                 "$districtName": "farsta",
                 "last_accept": 1679,
                 "$last_seen": "2023-11-15T16:48:02.110Z"
+              }
+            ]
+          }
+        },
+        "bagarmossen": {
+          "skarpnäck": {
+            "lagavägen": [
+              {
+                "id": 106803,
+                "rent": 9736,
+                "area": 65,
+                "street": "lagavägen",
+                "street_number": "29",
+                "city": "bagarmossen",
+                "zip": "12843",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "skarpnäck",
+                "last_accept": 1872,
+                "$last_seen": "2023-12-11T09:37:37.716Z"
               }
             ]
           }
