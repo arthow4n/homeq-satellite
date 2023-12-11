@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-12-11T21:36:45.215Z",
+  "lastUpdatedAt": "2023-12-11T22:40:48.027Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -79379,20 +79379,6 @@
                 "$districtName": "kirseberg",
                 "last_accept": 222,
                 "$last_seen": "2023-11-17T13:35:32.908Z"
-              },
-              {
-                "id": 107107,
-                "rent": 8411,
-                "area": 63,
-                "street": "högamöllegatan",
-                "street_number": "9 b",
-                "city": "malmö",
-                "zip": "21219",
-                "municipality": "malmö",
-                "county": "skåne län",
-                "$districtName": "kirseberg",
-                "last_accept": 91,
-                "$last_seen": "2023-12-11T15:37:12.104Z"
               }
             ],
             "floragatan": [
