@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-12-12T10:42:38.128Z",
+  "lastUpdatedAt": "2023-12-12T11:36:19.504Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -71735,6 +71735,20 @@
                 "$districtName": "brunnsbo",
                 "last_accept": 1530,
                 "$last_seen": "2023-11-14T17:38:17.526Z"
+              },
+              {
+                "id": 107854,
+                "rent": 9854,
+                "area": 73,
+                "street": "sångspelsgatan",
+                "street_number": "3",
+                "city": "hisings backa",
+                "zip": "42241",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brunnsbo",
+                "last_accept": 1261,
+                "$last_seen": "2023-12-12T10:42:38.128Z"
               }
             ],
             "poesigatan": [
@@ -87819,6 +87833,20 @@
                 "$districtName": "vantör",
                 "last_accept": 976,
                 "$last_seen": "2023-12-01T09:36:15.359Z"
+              },
+              {
+                "id": 107024,
+                "rent": 9366,
+                "area": 68,
+                "street": "skyllbergsgatan",
+                "street_number": "16",
+                "city": "bandhagen",
+                "zip": "12471",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 1525,
+                "$last_seen": "2023-12-12T10:42:38.128Z"
               }
             ],
             "porlabacken": [
