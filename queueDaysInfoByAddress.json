@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-12-12T14:39:58.831Z",
+  "lastUpdatedAt": "2023-12-12T15:37:41.588Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -37905,6 +37905,20 @@
                 "$districtName": "askim",
                 "last_accept": 1125,
                 "$last_seen": "2023-11-27T13:38:18.373Z"
+              },
+              {
+                "id": 107158,
+                "rent": 10346,
+                "area": 80,
+                "street": "kobbegården",
+                "street_number": "16",
+                "city": "göteborg",
+                "zip": "43637",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 1313,
+                "$last_seen": "2023-12-12T14:39:58.831Z"
               }
             ],
             "ugglegården": [
@@ -81573,6 +81587,20 @@
                 "$districtName": "hyllie",
                 "last_accept": 0,
                 "$last_seen": "2023-11-27T08:41:02.248Z"
+              },
+              {
+                "id": 106741,
+                "rent": 9651,
+                "area": 49.9,
+                "street": "bures gata",
+                "street_number": "3a",
+                "city": "malmö",
+                "zip": "21533",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "hyllie",
+                "last_accept": 50,
+                "$last_seen": "2023-12-12T14:39:58.831Z"
               }
             ],
             "sagas gränd": [
