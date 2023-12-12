@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-12-12T13:38:10.227Z",
+  "lastUpdatedAt": "2023-12-12T14:39:58.831Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -45278,6 +45278,22 @@
                 "last_accept": 1672,
                 "$last_seen": "2023-08-21T06:47:01.526Z"
               }
+            ],
+            "havsörnsgatan": [
+              {
+                "id": 107116,
+                "rent": 6240,
+                "area": 49,
+                "street": "havsörnsgatan",
+                "street_number": "1c",
+                "city": "göteborg",
+                "zip": "41655",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "härlanda",
+                "last_accept": 1836,
+                "$last_seen": "2023-12-12T13:38:10.227Z"
+              }
             ]
           },
           "göteborgs domkyrkodistrikt": {
@@ -53609,6 +53625,20 @@
                 "$districtName": "örgryte",
                 "last_accept": 647,
                 "$last_seen": "2023-12-05T09:36:24.516Z"
+              },
+              {
+                "id": 108017,
+                "rent": 13487,
+                "area": 71,
+                "street": "kallebäcks torggata",
+                "street_number": "30",
+                "city": "göteborg",
+                "zip": "41278",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 615,
+                "$last_seen": "2023-12-12T13:38:10.227Z"
               }
             ],
             "kallebäcksvägen": [
@@ -75241,6 +75271,20 @@
                 "$districtName": "älvsborg",
                 "last_accept": 870,
                 "$last_seen": "2023-12-04T09:36:58.517Z"
+              },
+              {
+                "id": 107623,
+                "rent": 12955,
+                "area": 77,
+                "street": "tigerstigen",
+                "street_number": "13",
+                "city": "västra frölunda ",
+                "zip": "42672",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "älvsborg",
+                "last_accept": 954,
+                "$last_seen": "2023-12-12T13:38:10.227Z"
               }
             ]
           }
@@ -76257,6 +76301,20 @@
                 "$districtName": "sofielund",
                 "last_accept": 762,
                 "$last_seen": "2023-11-23T13:40:51.369Z"
+              },
+              {
+                "id": 107111,
+                "rent": 5841,
+                "area": 44,
+                "street": "amiralsgatan",
+                "street_number": "70a",
+                "city": "malmö",
+                "zip": "21433",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "sofielund",
+                "last_accept": 48,
+                "$last_seen": "2023-12-12T13:38:10.227Z"
               }
             ],
             "osbygatan": [
@@ -79607,6 +79665,20 @@
                 "$districtName": "kirseberg",
                 "last_accept": 0,
                 "$last_seen": "2023-05-25T11:41:52.292Z"
+              },
+              {
+                "id": 107165,
+                "rent": 11149,
+                "area": 93,
+                "street": "floragatan",
+                "street_number": "19",
+                "city": "malmö",
+                "zip": "21221",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "kirseberg",
+                "last_accept": 547,
+                "$last_seen": "2023-12-12T13:38:10.227Z"
               }
             ],
             "sperlingsgatan": [
