@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-12-12T08:41:31.159Z",
+  "lastUpdatedAt": "2023-12-12T09:36:31.688Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -4791,6 +4791,20 @@
                 "$districtName": "örgryte",
                 "last_accept": 1379,
                 "$last_seen": "2023-11-30T11:36:23.223Z"
+              },
+              {
+                "id": 107222,
+                "rent": 8051,
+                "area": 35,
+                "street": "smörkärnegatan",
+                "street_number": "25",
+                "city": "göteborg",
+                "zip": "41278",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1229,
+                "$last_seen": "2023-12-12T08:41:31.159Z"
               }
             ]
           }
@@ -19079,6 +19093,22 @@
                 "$districtName": "brämaregården",
                 "last_accept": 1630,
                 "$last_seen": "2023-12-07T13:42:45.460Z"
+              }
+            ],
+            "lindholmsallén": [
+              {
+                "id": 107049,
+                "rent": 11624,
+                "area": 80.5,
+                "street": "lindholmsallén",
+                "street_number": "43",
+                "city": "göteborg",
+                "zip": "41753",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brämaregården",
+                "last_accept": 1800,
+                "$last_seen": "2023-12-12T08:41:31.159Z"
               }
             ]
           },
@@ -81657,6 +81687,20 @@
                 "$districtName": "hyllie",
                 "last_accept": 75,
                 "$last_seen": "2023-12-04T09:36:58.517Z"
+              },
+              {
+                "id": 107047,
+                "rent": 5536,
+                "area": 35,
+                "street": "hyllie vattenparksgata",
+                "street_number": "15l",
+                "city": "malmö",
+                "zip": "21531",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "hyllie",
+                "last_accept": 1180,
+                "$last_seen": "2023-12-12T08:41:31.159Z"
               }
             ],
             "svansjögatan": [
