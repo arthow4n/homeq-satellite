@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-12-12T11:36:19.504Z",
+  "lastUpdatedAt": "2023-12-12T12:55:41.951Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -14415,6 +14415,48 @@
                 "$districtName": "högsbo",
                 "last_accept": 1359,
                 "$last_seen": "2023-12-08T10:41:22.746Z"
+              },
+              {
+                "id": 107046,
+                "rent": 8886,
+                "area": 63,
+                "street": "pennygången",
+                "street_number": "64",
+                "city": "göteborg",
+                "zip": "41482",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 1448,
+                "$last_seen": "2023-12-12T11:36:19.504Z"
+              },
+              {
+                "id": 107063,
+                "rent": 8807,
+                "area": 62,
+                "street": "pennygången",
+                "street_number": "4",
+                "city": "göteborg",
+                "zip": "41482",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 1520,
+                "$last_seen": "2023-12-12T11:36:19.504Z"
+              },
+              {
+                "id": 107096,
+                "rent": 8809,
+                "area": 62,
+                "street": "pennygången",
+                "street_number": "12",
+                "city": "göteborg",
+                "zip": "41482",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 1330,
+                "$last_seen": "2023-12-12T11:36:19.504Z"
               }
             ],
             "skäpplandsgatan": [
@@ -83397,6 +83439,20 @@
                 "$districtName": "limhamn",
                 "last_accept": 0,
                 "$last_seen": "2023-12-04T07:36:12.249Z"
+              },
+              {
+                "id": 107188,
+                "rent": 13819,
+                "area": 95,
+                "street": "blåsebergavägen",
+                "street_number": "8",
+                "city": "limhamn",
+                "zip": "21633",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "limhamn",
+                "last_accept": 0,
+                "$last_seen": "2023-12-12T11:36:19.504Z"
               }
             ],
             "birger jarlsgatan": [
@@ -87331,6 +87387,20 @@
                 "$districtName": "vantör",
                 "last_accept": 1651,
                 "$last_seen": "2023-12-02T08:38:11.006Z"
+              },
+              {
+                "id": 107028,
+                "rent": 10075,
+                "area": 60,
+                "street": "hagsätra torg",
+                "street_number": "40",
+                "city": "bandhagen",
+                "zip": "12473",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 1045,
+                "$last_seen": "2023-12-12T11:36:19.504Z"
               }
             ],
             "pålsbodagränd": [
