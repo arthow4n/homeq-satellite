@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-12-11T23:36:50.063Z",
+  "lastUpdatedAt": "2023-12-12T01:45:23.075Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -19079,6 +19079,22 @@
                 "$districtName": "brämaregården",
                 "last_accept": 1630,
                 "$last_seen": "2023-12-07T13:42:45.460Z"
+              }
+            ],
+            "lindholmsallén": [
+              {
+                "id": 107049,
+                "rent": 11624,
+                "area": 80.5,
+                "street": "lindholmsallén",
+                "street_number": "43",
+                "city": "göteborg",
+                "zip": "41753",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brämaregården",
+                "last_accept": 1799,
+                "$last_seen": "2023-12-11T23:36:50.063Z"
               }
             ]
           },
@@ -56351,6 +56367,20 @@
                 "$districtName": "annedal",
                 "last_accept": 1785,
                 "$last_seen": "2023-11-30T10:42:05.066Z"
+              },
+              {
+                "id": 107045,
+                "rent": 9060,
+                "area": 52,
+                "street": "doktor allards gata",
+                "street_number": "62",
+                "city": "göteborg",
+                "zip": "41325",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "annedal",
+                "last_accept": 1797,
+                "$last_seen": "2023-12-11T23:36:50.063Z"
               }
             ]
           },
@@ -79379,20 +79409,6 @@
                 "$districtName": "kirseberg",
                 "last_accept": 222,
                 "$last_seen": "2023-11-17T13:35:32.908Z"
-              },
-              {
-                "id": 107107,
-                "rent": 8411,
-                "area": 63,
-                "street": "högamöllegatan",
-                "street_number": "9 b",
-                "city": "malmö",
-                "zip": "21219",
-                "municipality": "malmö",
-                "county": "skåne län",
-                "$districtName": "kirseberg",
-                "last_accept": 91,
-                "$last_seen": "2023-12-11T22:40:48.027Z"
               }
             ],
             "floragatan": [
@@ -81643,20 +81659,6 @@
                 "$districtName": "hyllie",
                 "last_accept": 75,
                 "$last_seen": "2023-12-04T09:36:58.517Z"
-              },
-              {
-                "id": 107047,
-                "rent": 5536,
-                "area": 35,
-                "street": "hyllie vattenparksgata",
-                "street_number": "15l",
-                "city": "malmö",
-                "zip": "21531",
-                "municipality": "malmö",
-                "county": "skåne län",
-                "$districtName": "hyllie",
-                "last_accept": 1179,
-                "$last_seen": "2023-12-11T15:37:12.104Z"
               }
             ],
             "svansjögatan": [
