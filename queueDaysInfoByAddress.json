@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-12-12T07:36:30.456Z",
+  "lastUpdatedAt": "2023-12-12T08:41:31.159Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -19079,22 +19079,6 @@
                 "$districtName": "brämaregården",
                 "last_accept": 1630,
                 "$last_seen": "2023-12-07T13:42:45.460Z"
-              }
-            ],
-            "lindholmsallén": [
-              {
-                "id": 107049,
-                "rent": 11624,
-                "area": 80.5,
-                "street": "lindholmsallén",
-                "street_number": "43",
-                "city": "göteborg",
-                "zip": "41753",
-                "municipality": "göteborg",
-                "county": "västra götalands län",
-                "$districtName": "brämaregården",
-                "last_accept": 1800,
-                "$last_seen": "2023-12-12T06:42:13.307Z"
               }
             ]
           },
@@ -52523,6 +52507,20 @@
                 "$districtName": "örgryte",
                 "last_accept": 1185,
                 "$last_seen": "2023-11-23T12:53:56.644Z"
+              },
+              {
+                "id": 107187,
+                "rent": 9682,
+                "area": 54,
+                "street": "filmjölksgatan",
+                "street_number": "5",
+                "city": "göteborg",
+                "zip": "41278",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1076,
+                "$last_seen": "2023-12-12T07:36:30.456Z"
               }
             ],
             "jättegrytsgatan": [
