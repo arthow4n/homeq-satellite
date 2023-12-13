@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-12-13T09:36:21.612Z",
+  "lastUpdatedAt": "2023-12-13T10:41:42.793Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -9947,6 +9947,20 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1787,
                 "$last_seen": "2023-11-30T12:55:17.763Z"
+              },
+              {
+                "id": 107830,
+                "rent": 8673,
+                "area": 73,
+                "street": "övre besvärsgatan",
+                "street_number": "7",
+                "city": "göteborg",
+                "zip": "41129",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1826,
+                "$last_seen": "2023-12-13T09:36:21.612Z"
               }
             ],
             "utlandagatan": [
@@ -24689,6 +24703,20 @@
                 "$districtName": "lundby",
                 "last_accept": 0,
                 "$last_seen": "2023-08-24T13:00:11.174Z"
+              },
+              {
+                "id": 107584,
+                "rent": 5705,
+                "area": 35,
+                "street": "pilegårdsgatan",
+                "street_number": "22 c",
+                "city": "göteborg",
+                "zip": "41877",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1368,
+                "$last_seen": "2023-12-13T09:36:21.612Z"
               }
             ],
             "korstörnegatan": [
@@ -27247,6 +27275,20 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1787,
                 "$last_seen": "2023-11-30T09:36:30.307Z"
+              },
+              {
+                "id": 107667,
+                "rent": 10610,
+                "area": 71,
+                "street": "karlagatan",
+                "street_number": "4 a",
+                "city": "göteborg",
+                "zip": "41661",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1796,
+                "$last_seen": "2023-12-13T09:36:21.612Z"
               }
             ],
             "pärlstickaregatan": [
@@ -27869,6 +27911,20 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1698,
                 "$last_seen": "2023-08-28T12:59:52.713Z"
+              },
+              {
+                "id": 107290,
+                "rent": 8744,
+                "area": 46,
+                "street": "platågatan",
+                "street_number": "3b",
+                "city": "göteborg",
+                "zip": "41659",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1798,
+                "$last_seen": "2023-12-13T09:36:21.612Z"
               }
             ],
             "mäster johansgatan": [
@@ -79521,6 +79577,20 @@
                 "$districtName": "kirseberg",
                 "last_accept": 377,
                 "$last_seen": "2023-11-16T12:53:15.983Z"
+              },
+              {
+                "id": 107575,
+                "rent": 5682,
+                "area": 34,
+                "street": "lundavägen",
+                "street_number": "55a",
+                "city": "malmö",
+                "zip": "21224",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "kirseberg",
+                "last_accept": 0,
+                "$last_seen": "2023-12-13T09:36:21.612Z"
               }
             ],
             "högamöllegatan": [
