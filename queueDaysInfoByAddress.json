@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-12-13T11:36:04.026Z",
+  "lastUpdatedAt": "2023-12-13T12:55:21.571Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -34645,20 +34645,6 @@
                 "$districtName": "kortedala",
                 "last_accept": 1300,
                 "$last_seen": "2023-11-30T08:40:26.929Z"
-              },
-              {
-                "id": 107139,
-                "rent": 8810,
-                "area": 69,
-                "street": "nymånegatan",
-                "street_number": "51",
-                "city": "göteborg",
-                "zip": "41531",
-                "municipality": "göteborg",
-                "county": "västra götalands län",
-                "$districtName": "kortedala",
-                "last_accept": 1612,
-                "$last_seen": "2023-12-13T10:41:42.793Z"
               }
             ]
           },
@@ -58383,6 +58369,20 @@
                 "$districtName": "göteborgs vasa",
                 "last_accept": 1859,
                 "$last_seen": "2023-11-28T08:40:34.254Z"
+              },
+              {
+                "id": 107429,
+                "rent": 9900,
+                "area": 60,
+                "street": "engelbrektsgatan",
+                "street_number": "63",
+                "city": "göteborg",
+                "zip": "41252",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs vasa",
+                "last_accept": 1846,
+                "$last_seen": "2023-12-13T11:36:04.026Z"
               }
             ],
             "erik dahlbergsgatan": [
@@ -79109,20 +79109,6 @@
                 "$districtName": "kirseberg",
                 "last_accept": 34,
                 "$last_seen": "2023-10-03T07:39:28.184Z"
-              },
-              {
-                "id": 107176,
-                "rent": 10649,
-                "area": 70.2,
-                "street": "vattenverksvägen",
-                "street_number": "2",
-                "city": "malmö",
-                "zip": "21221",
-                "municipality": "malmö",
-                "county": "skåne län",
-                "$districtName": "kirseberg",
-                "last_accept": 19,
-                "$last_seen": "2023-12-13T10:41:42.793Z"
               }
             ],
             "rosendalsv": [
@@ -79605,20 +79591,6 @@
                 "$districtName": "kirseberg",
                 "last_accept": 377,
                 "$last_seen": "2023-11-16T12:53:15.983Z"
-              },
-              {
-                "id": 107181,
-                "rent": 11193,
-                "area": 74.4,
-                "street": "lundavägen",
-                "street_number": "35",
-                "city": "malmö",
-                "zip": "21219",
-                "municipality": "malmö",
-                "county": "skåne län",
-                "$districtName": "kirseberg",
-                "last_accept": 0,
-                "$last_seen": "2023-12-13T10:41:42.793Z"
               },
               {
                 "id": 107575,
@@ -84285,20 +84257,6 @@
                 "$districtName": "limhamn",
                 "last_accept": 0,
                 "$last_seen": "2023-12-06T07:35:48.053Z"
-              },
-              {
-                "id": 107186,
-                "rent": 13597,
-                "area": 84,
-                "street": "högatan",
-                "street_number": "12",
-                "city": "limhamn",
-                "zip": "21633",
-                "municipality": "malmö",
-                "county": "skåne län",
-                "$districtName": "limhamn",
-                "last_accept": 0,
-                "$last_seen": "2023-12-13T07:36:15.837Z"
               }
             ],
             "höbalsgatan": [
@@ -86645,6 +86603,20 @@
                 "$districtName": "vantör",
                 "last_accept": 1766,
                 "$last_seen": "2023-12-12T12:55:41.951Z"
+              },
+              {
+                "id": 107593,
+                "rent": 7238,
+                "area": 62,
+                "street": "olshammarsgatan",
+                "street_number": "42",
+                "city": "bandhagen",
+                "zip": "12475",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 1878,
+                "$last_seen": "2023-12-13T11:36:04.026Z"
               }
             ],
             "glanshammarsgatan": [
