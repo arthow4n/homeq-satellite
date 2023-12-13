@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-12-13T22:38:20.469Z",
+  "lastUpdatedAt": "2023-12-13T23:35:43.671Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -31663,6 +31663,20 @@
                 "$districtName": "björkekärr",
                 "last_accept": 1123,
                 "$last_seen": "2023-12-08T10:41:22.746Z"
+              },
+              {
+                "id": 107296,
+                "rent": 6318,
+                "area": 37,
+                "street": "smörslätten",
+                "street_number": "12",
+                "city": "göteborg",
+                "zip": "41677",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "björkekärr",
+                "last_accept": 1327,
+                "$last_seen": "2023-12-13T22:38:20.469Z"
               }
             ],
             "lådspikaregatan": [
