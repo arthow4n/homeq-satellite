@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-12-14T07:35:54.594Z",
+  "lastUpdatedAt": "2023-12-14T08:40:20.900Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -31663,6 +31663,20 @@
                 "$districtName": "björkekärr",
                 "last_accept": 1123,
                 "$last_seen": "2023-12-08T10:41:22.746Z"
+              },
+              {
+                "id": 107296,
+                "rent": 6318,
+                "area": 37,
+                "street": "smörslätten",
+                "street_number": "12",
+                "city": "göteborg",
+                "zip": "41677",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "björkekärr",
+                "last_accept": 1328,
+                "$last_seen": "2023-12-14T07:35:54.594Z"
               }
             ],
             "lådspikaregatan": [
@@ -56297,6 +56311,34 @@
                 "$districtName": "annedal",
                 "last_accept": 1674,
                 "$last_seen": "2023-11-10T11:40:09.130Z"
+              },
+              {
+                "id": 107663,
+                "rent": 9100,
+                "area": 60,
+                "street": "västergatan",
+                "street_number": "21",
+                "city": "göteborg",
+                "zip": "41313",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "annedal",
+                "last_accept": 1800,
+                "$last_seen": "2023-12-14T07:35:54.594Z"
+              },
+              {
+                "id": 107691,
+                "rent": 5763,
+                "area": 36,
+                "street": "västergatan",
+                "street_number": "27",
+                "city": "göteborg",
+                "zip": "41313",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "annedal",
+                "last_accept": 1734,
+                "$last_seen": "2023-12-14T07:35:54.594Z"
               }
             ],
             "seminariegatan": [
@@ -81555,6 +81597,20 @@
                 "$districtName": "hyllie",
                 "last_accept": 6,
                 "$last_seen": "2023-12-05T11:36:37.870Z"
+              },
+              {
+                "id": 108569,
+                "rent": 11763,
+                "area": 69,
+                "street": "tors gränd",
+                "street_number": "16",
+                "city": "malmö",
+                "zip": "21534",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "hyllie",
+                "last_accept": 0,
+                "$last_seen": "2023-12-14T07:35:54.594Z"
               }
             ],
             "allétorget": [
