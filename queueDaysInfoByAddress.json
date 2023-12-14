@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-12-14T14:39:04.899Z",
+  "lastUpdatedAt": "2023-12-14T15:36:38.130Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -40873,6 +40873,20 @@
                 "$districtName": "bergsjön",
                 "last_accept": 0,
                 "$last_seen": "2023-12-08T07:36:17.245Z"
+              },
+              {
+                "id": 108080,
+                "rent": 10778,
+                "area": 77,
+                "street": "kosmosgatan",
+                "street_number": "5",
+                "city": "göteborg",
+                "zip": "41562",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bergsjön",
+                "last_accept": 0,
+                "$last_seen": "2023-12-14T14:39:04.899Z"
               }
             ],
             "atmosfärgatan": [
@@ -42039,6 +42053,20 @@
                 "$districtName": "bergsjön",
                 "last_accept": 0,
                 "$last_seen": "2023-11-15T16:48:02.110Z"
+              },
+              {
+                "id": 108132,
+                "rent": 9580,
+                "area": 69,
+                "street": "zenitgatan",
+                "street_number": "20",
+                "city": "göteborg",
+                "zip": "41562",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bergsjön",
+                "last_accept": 0,
+                "$last_seen": "2023-12-14T14:39:04.899Z"
               }
             ],
             "galileisgata": [
