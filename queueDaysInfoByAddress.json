@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-12-14T08:40:20.900Z",
+  "lastUpdatedAt": "2023-12-14T09:35:30.579Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -57507,6 +57507,20 @@
                 "$districtName": "göteborgs vasa",
                 "last_accept": 1781,
                 "$last_seen": "2023-11-23T13:40:51.369Z"
+              },
+              {
+                "id": 107693,
+                "rent": 7386,
+                "area": 37,
+                "street": "karl gustavsgatan",
+                "street_number": "59",
+                "city": "göteborg",
+                "zip": "41131",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs vasa",
+                "last_accept": 1800,
+                "$last_seen": "2023-12-14T08:40:20.900Z"
               }
             ],
             "mölndalsvägen": [
@@ -80407,6 +80421,20 @@
                 "$districtName": "kirseberg",
                 "last_accept": 0,
                 "$last_seen": "2023-12-06T11:35:53.510Z"
+              },
+              {
+                "id": 107649,
+                "rent": 5941,
+                "area": 38,
+                "street": "rantzowsgatan",
+                "street_number": "12c",
+                "city": "malmö",
+                "zip": "21221",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "kirseberg",
+                "last_accept": 0,
+                "$last_seen": "2023-12-14T08:40:20.900Z"
               }
             ],
             "kirsebergsgatan": [
