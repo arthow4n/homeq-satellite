@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-12-14T09:35:30.579Z",
+  "lastUpdatedAt": "2023-12-14T10:41:29.053Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -68485,6 +68485,20 @@
                 "$districtName": "tuve",
                 "last_accept": 607,
                 "$last_seen": "2023-11-27T09:35:57.535Z"
+              },
+              {
+                "id": 107342,
+                "rent": 12122,
+                "area": 74,
+                "street": "arves marias väg",
+                "street_number": "8",
+                "city": "göteborg",
+                "zip": "41747",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tuve",
+                "last_accept": 715,
+                "$last_seen": "2023-12-14T09:35:30.579Z"
               }
             ],
             "finlandsvägen": [
@@ -73789,6 +73803,20 @@
                 "$districtName": "tynnered",
                 "last_accept": 1483,
                 "$last_seen": "2023-12-13T07:36:15.837Z"
+              },
+              {
+                "id": 107942,
+                "rent": 9720,
+                "area": 75,
+                "street": "smyckegatan",
+                "street_number": "79",
+                "city": "västra frölunda",
+                "zip": "42651",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tynnered",
+                "last_accept": 445,
+                "$last_seen": "2023-12-14T09:35:30.579Z"
               }
             ],
             "björkhöjdsgatan": [
@@ -90693,6 +90721,20 @@
                 "$districtName": "österhaninge",
                 "last_accept": 388,
                 "$last_seen": "2023-11-30T06:41:35.241Z"
+              },
+              {
+                "id": 107295,
+                "rent": 8536,
+                "area": 34.7,
+                "street": "vardövägen",
+                "street_number": "46",
+                "city": "stockholm",
+                "zip": "13657",
+                "municipality": "haninge",
+                "county": "stockholms län",
+                "$districtName": "österhaninge",
+                "last_accept": 36,
+                "$last_seen": "2023-12-14T09:35:30.579Z"
               }
             ]
           }
