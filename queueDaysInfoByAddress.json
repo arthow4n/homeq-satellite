@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-12-15T06:40:27.987Z",
+  "lastUpdatedAt": "2023-12-15T07:35:26.333Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -19339,6 +19339,20 @@
                 "$districtName": "lundby",
                 "last_accept": 1661,
                 "$last_seen": "2023-10-26T07:39:01.428Z"
+              },
+              {
+                "id": 107892,
+                "rent": 5843,
+                "area": 36,
+                "street": "ö keillersgatan",
+                "street_number": "1 d",
+                "city": "göteborg",
+                "zip": "41715",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1304,
+                "$last_seen": "2023-12-15T06:40:27.987Z"
               }
             ],
             "bautastensgatan": [
