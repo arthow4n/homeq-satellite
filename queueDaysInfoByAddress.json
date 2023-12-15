@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-12-15T08:39:54.265Z",
+  "lastUpdatedAt": "2023-12-15T09:35:06.322Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -11011,6 +11011,20 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1626,
                 "$last_seen": "2023-06-22T07:44:39.744Z"
+              },
+              {
+                "id": 107739,
+                "rent": 10589,
+                "area": 71,
+                "street": "helmutsrogatan",
+                "street_number": "7 b",
+                "city": "göteborg",
+                "zip": "41264",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1816,
+                "$last_seen": "2023-12-15T08:39:54.265Z"
               }
             ],
             "thorburnsgatan": [
@@ -82557,6 +82571,20 @@
                 "$districtName": "hyllie",
                 "last_accept": 1180,
                 "$last_seen": "2023-12-12T08:41:31.159Z"
+              },
+              {
+                "id": 107244,
+                "rent": 10950,
+                "area": 67.5,
+                "street": "hyllie vattenparksgata",
+                "street_number": "37",
+                "city": "malmö",
+                "zip": "21536",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "hyllie",
+                "last_accept": 220,
+                "$last_seen": "2023-12-15T08:39:54.265Z"
               }
             ],
             "svansjögatan": [
