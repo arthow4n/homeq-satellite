@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-12-18T08:40:26.332Z",
+  "lastUpdatedAt": "2023-12-18T09:35:08.896Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -1815,6 +1815,20 @@
                 "$districtName": "fässberg",
                 "last_accept": 1545,
                 "$last_seen": "2023-11-13T15:39:13.799Z"
+              },
+              {
+                "id": 107703,
+                "rent": 6600,
+                "area": 52,
+                "street": "örngatan",
+                "street_number": "1f",
+                "city": "mölndal",
+                "zip": "43168",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 1594,
+                "$last_seen": "2023-12-18T08:40:26.332Z"
               }
             ],
             "luktärtsgatan": [
@@ -14583,6 +14597,20 @@
                 "$districtName": "högsbo",
                 "last_accept": 1330,
                 "$last_seen": "2023-12-12T11:36:19.504Z"
+              },
+              {
+                "id": 108049,
+                "rent": 6547,
+                "area": 43,
+                "street": "pennygången",
+                "street_number": "59",
+                "city": "göteborg",
+                "zip": "41482",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 1020,
+                "$last_seen": "2023-12-18T08:40:26.332Z"
               }
             ],
             "skäpplandsgatan": [
@@ -69659,6 +69687,20 @@
                 "$districtName": "göteborgs karl johan",
                 "last_accept": 996,
                 "$last_seen": "2023-12-06T10:41:41.565Z"
+              },
+              {
+                "id": 108089,
+                "rent": 9331,
+                "area": 50,
+                "street": "kabelgatan",
+                "street_number": "19",
+                "city": "göteborg",
+                "zip": "41457",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs karl johan",
+                "last_accept": 1366,
+                "$last_seen": "2023-12-18T08:40:26.332Z"
               }
             ],
             "kusttorget": [
