@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-12-18T07:34:59.094Z",
+  "lastUpdatedAt": "2023-12-18T08:40:26.332Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -5553,6 +5553,20 @@
                 "$districtName": "kållered",
                 "last_accept": 1145,
                 "$last_seen": "2023-12-07T12:55:44.881Z"
+              },
+              {
+                "id": 107624,
+                "rent": 8990,
+                "area": 76,
+                "street": "våmmedalsvägen",
+                "street_number": "104",
+                "city": "kållered",
+                "zip": "42831",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "kållered",
+                "last_accept": 1299,
+                "$last_seen": "2023-12-18T07:34:59.094Z"
               },
               {
                 "id": 107675,
@@ -19991,6 +20005,20 @@
                 "$districtName": "lundby",
                 "last_accept": 1659,
                 "$last_seen": "2023-10-17T14:43:29.657Z"
+              },
+              {
+                "id": 107965,
+                "rent": 8916,
+                "area": 62,
+                "street": "södra säterigatan",
+                "street_number": "11",
+                "city": "göteborg",
+                "zip": "41876",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1524,
+                "$last_seen": "2023-12-18T07:34:59.094Z"
               }
             ],
             "trollhasselgatan": [
@@ -53511,20 +53539,6 @@
                 "$districtName": "örgryte",
                 "last_accept": 1360,
                 "$last_seen": "2023-10-23T10:44:23.612Z"
-              },
-              {
-                "id": 108013,
-                "rent": 13376,
-                "area": 69,
-                "street": "skummjölksgatan",
-                "street_number": "9",
-                "city": "göteborg",
-                "zip": "41278",
-                "municipality": "göteborg",
-                "county": "västra götalands län",
-                "$districtName": "örgryte",
-                "last_accept": 407,
-                "$last_seen": "2023-12-15T10:41:10.257Z"
               }
             ],
             "separatorsgatan": [
@@ -54087,20 +54101,6 @@
                 "$districtName": "örgryte",
                 "last_accept": 647,
                 "$last_seen": "2023-12-05T09:36:24.516Z"
-              },
-              {
-                "id": 108017,
-                "rent": 13487,
-                "area": 71,
-                "street": "kallebäcks torggata",
-                "street_number": "30",
-                "city": "göteborg",
-                "zip": "41278",
-                "municipality": "göteborg",
-                "county": "västra götalands län",
-                "$districtName": "örgryte",
-                "last_accept": 615,
-                "$last_seen": "2023-12-12T13:38:10.227Z"
               }
             ],
             "kallebäcksvägen": [
@@ -75321,6 +75321,20 @@
                 "$districtName": "västra frölunda",
                 "last_accept": 870,
                 "$last_seen": "2023-11-27T12:55:53.071Z"
+              },
+              {
+                "id": 108081,
+                "rent": 11482,
+                "area": 80,
+                "street": "tamburingatan",
+                "street_number": "7",
+                "city": "västra frölunda",
+                "zip": "42151",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "västra frölunda",
+                "last_accept": 787,
+                "$last_seen": "2023-12-18T07:34:59.094Z"
               }
             ],
             "marconigatan": [
