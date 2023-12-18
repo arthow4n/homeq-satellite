@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-12-18T15:36:25.479Z",
+  "lastUpdatedAt": "2023-12-18T16:42:56.324Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -52721,6 +52721,20 @@
                 "$last_seen": "2023-12-07T12:55:44.881Z"
               },
               {
+                "id": 107765,
+                "rent": 13170,
+                "area": 102,
+                "street": "mejerigatan",
+                "street_number": "12",
+                "city": "göteborg",
+                "zip": "41276",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1664,
+                "$last_seen": "2023-12-18T15:36:25.479Z"
+              },
+              {
                 "id": 107859,
                 "rent": 13170,
                 "area": 102,
@@ -52747,6 +52761,20 @@
                 "$districtName": "örgryte",
                 "last_accept": 1608,
                 "$last_seen": "2023-12-18T12:54:16.617Z"
+              },
+              {
+                "id": 108608,
+                "rent": 8442,
+                "area": 60,
+                "street": "mejerigatan",
+                "street_number": "12",
+                "city": "göteborg",
+                "zip": "41276",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1732,
+                "$last_seen": "2023-12-18T15:36:25.479Z"
               }
             ],
             "filmjölksgatan": [
@@ -65507,20 +65535,6 @@
                 "$districtName": "biskopsgården",
                 "last_accept": 1287,
                 "$last_seen": "2023-11-29T22:40:05.545Z"
-              },
-              {
-                "id": 107480,
-                "rent": 7458,
-                "area": 75,
-                "street": "temperaturgatan",
-                "street_number": "77",
-                "city": "göteborg",
-                "zip": "41841",
-                "municipality": "göteborg",
-                "county": "västra götalands län",
-                "$districtName": "biskopsgården",
-                "last_accept": 1119,
-                "$last_seen": "2023-12-18T14:38:44.255Z"
               }
             ],
             "solstrålegatan": [
