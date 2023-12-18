@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-12-18T05:38:15.263Z",
+  "lastUpdatedAt": "2023-12-18T06:41:01.523Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -18689,6 +18689,20 @@
                 "$districtName": "brämaregården",
                 "last_accept": 1617,
                 "$last_seen": "2023-12-15T07:35:26.333Z"
+              },
+              {
+                "id": 108012,
+                "rent": 6462,
+                "area": 70,
+                "street": "jägaregatan",
+                "street_number": "9 c",
+                "city": "göteborg",
+                "zip": "41702",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brämaregården",
+                "last_accept": 1796,
+                "$last_seen": "2023-12-18T05:38:15.263Z"
               }
             ],
             "ögontröstgatan": [
@@ -53877,6 +53891,20 @@
                 "$districtName": "örgryte",
                 "last_accept": 1162,
                 "$last_seen": "2023-12-12T15:37:41.588Z"
+              },
+              {
+                "id": 107774,
+                "rent": 7665,
+                "area": 35,
+                "street": "separatorsgatan",
+                "street_number": "12",
+                "city": "göteborg",
+                "zip": "41278",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 978,
+                "$last_seen": "2023-12-18T05:38:15.263Z"
               }
             ],
             "påskbergsgatan": [
