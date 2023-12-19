@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-12-19T10:39:48.972Z",
+  "lastUpdatedAt": "2023-12-19T11:34:09.066Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -29897,6 +29897,20 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1724,
                 "$last_seen": "2023-12-13T15:37:18.513Z"
+              },
+              {
+                "id": 108865,
+                "rent": 11900,
+                "area": 80,
+                "street": "danska vägen",
+                "street_number": "88",
+                "city": "göteborg",
+                "zip": "41659",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1776,
+                "$last_seen": "2023-12-19T10:39:48.972Z"
               }
             ],
             "vävskedsgatan": [
@@ -82197,6 +82211,20 @@
                 "$districtName": "hyllie",
                 "last_accept": 22,
                 "$last_seen": "2023-11-15T16:48:02.110Z"
+              },
+              {
+                "id": 108688,
+                "rent": 12222,
+                "area": 72,
+                "street": "hyllie allé",
+                "street_number": "26b",
+                "city": "malmö",
+                "zip": "21535",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "hyllie",
+                "last_accept": 193,
+                "$last_seen": "2023-12-19T10:39:48.972Z"
               }
             ],
             "tors gränd": [
