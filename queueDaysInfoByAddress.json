@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-12-19T14:36:51.502Z",
+  "lastUpdatedAt": "2023-12-19T15:34:24.316Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -65745,6 +65745,20 @@
                 "$districtName": "biskopsgården",
                 "last_accept": 1287,
                 "$last_seen": "2023-11-29T22:40:05.545Z"
+              },
+              {
+                "id": 107480,
+                "rent": 7458,
+                "area": 75,
+                "street": "temperaturgatan",
+                "street_number": "77",
+                "city": "göteborg",
+                "zip": "41841",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "biskopsgården",
+                "last_accept": 1156,
+                "$last_seen": "2023-12-19T14:36:51.502Z"
               }
             ],
             "solstrålegatan": [
@@ -70473,6 +70487,20 @@
                 "$districtName": "tynnered",
                 "last_accept": 1541,
                 "$last_seen": "2023-11-28T11:36:34.123Z"
+              },
+              {
+                "id": 108275,
+                "rent": 10209,
+                "area": 120,
+                "street": "karneolgatan",
+                "street_number": "63",
+                "city": "göteborg",
+                "zip": "42651",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tynnered",
+                "last_accept": 1539,
+                "$last_seen": "2023-12-19T14:36:51.502Z"
               }
             ],
             "beryllgatan": [
@@ -72061,20 +72089,6 @@
                 "$districtName": "bergum",
                 "last_accept": 331,
                 "$last_seen": "2023-08-23T13:43:07.342Z"
-              },
-              {
-                "id": 108436,
-                "rent": 16900,
-                "area": 118,
-                "street": "östra björredsvägen",
-                "street_number": "24a",
-                "city": "göteborg ",
-                "zip": "42471",
-                "municipality": "göteborg",
-                "county": "västra götalands län",
-                "$districtName": "bergum",
-                "last_accept": 0,
-                "$last_seen": "2023-12-17T12:50:57.067Z"
               }
             ]
           }
