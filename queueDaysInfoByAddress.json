@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-12-19T12:52:04.306Z",
+  "lastUpdatedAt": "2023-12-19T13:35:14.600Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -7363,6 +7363,20 @@
                 "$districtName": "johanneberg",
                 "last_accept": 525,
                 "$last_seen": "2023-12-14T12:54:51.588Z"
+              },
+              {
+                "id": 107912,
+                "rent": 13024,
+                "area": 75,
+                "street": "ebbe lieberathsgatan",
+                "street_number": "2 a",
+                "city": "göteborg",
+                "zip": "41285",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1802,
+                "$last_seen": "2023-12-19T12:52:04.306Z"
               }
             ],
             "nordgårdsgatan": [
@@ -75557,6 +75571,20 @@
                 "$districtName": "västra frölunda",
                 "last_accept": 1152,
                 "$last_seen": "2023-11-06T11:39:58.412Z"
+              },
+              {
+                "id": 108074,
+                "rent": 11482,
+                "area": 80,
+                "street": "speldosegatan",
+                "street_number": "8",
+                "city": "västra frölunda",
+                "zip": "42151",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "västra frölunda",
+                "last_accept": 1037,
+                "$last_seen": "2023-12-19T12:52:04.306Z"
               }
             ],
             "tamburingatan": [
@@ -76649,6 +76677,20 @@
                 "$districtName": "partille",
                 "last_accept": 1484,
                 "$last_seen": "2023-11-29T11:36:40.995Z"
+              },
+              {
+                "id": 108430,
+                "rent": 8457,
+                "area": 57,
+                "street": "stärteredsvägen",
+                "street_number": "25",
+                "city": "jonsered",
+                "zip": "43375",
+                "municipality": "partille",
+                "county": "västra götalands län",
+                "$districtName": "partille",
+                "last_accept": 762,
+                "$last_seen": "2023-12-19T12:52:04.306Z"
               }
             ],
             "länsmansvägen": [
