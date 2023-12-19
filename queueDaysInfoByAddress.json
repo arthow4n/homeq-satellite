@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-12-19T13:35:14.600Z",
+  "lastUpdatedAt": "2023-12-19T14:36:51.502Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -41251,6 +41251,34 @@
                 "$districtName": "bergsjön",
                 "last_accept": 42,
                 "$last_seen": "2023-12-19T11:34:09.066Z"
+              },
+              {
+                "id": 108369,
+                "rent": 7661,
+                "area": 46,
+                "street": "kosmosgatan",
+                "street_number": "1",
+                "city": "göteborg",
+                "zip": "41562",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bergsjön",
+                "last_accept": 558,
+                "$last_seen": "2023-12-19T13:35:14.600Z"
+              },
+              {
+                "id": 108377,
+                "rent": 7562,
+                "area": 46,
+                "street": "kosmosgatan",
+                "street_number": "12",
+                "city": "göteborg",
+                "zip": "41562",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bergsjön",
+                "last_accept": 0,
+                "$last_seen": "2023-12-19T13:35:14.600Z"
               }
             ],
             "atmosfärgatan": [
@@ -42023,6 +42051,20 @@
                 "$districtName": "bergsjön",
                 "last_accept": 0,
                 "$last_seen": "2023-12-14T15:36:38.130Z"
+              },
+              {
+                "id": 108378,
+                "rent": 9245,
+                "area": 65,
+                "street": "atmosfärgatan",
+                "street_number": "9",
+                "city": "göteborg",
+                "zip": "41561",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bergsjön",
+                "last_accept": 0,
+                "$last_seen": "2023-12-19T13:35:14.600Z"
               }
             ],
             "zenitgatan": [
@@ -65703,20 +65745,6 @@
                 "$districtName": "biskopsgården",
                 "last_accept": 1287,
                 "$last_seen": "2023-11-29T22:40:05.545Z"
-              },
-              {
-                "id": 107480,
-                "rent": 7458,
-                "area": 75,
-                "street": "temperaturgatan",
-                "street_number": "77",
-                "city": "göteborg",
-                "zip": "41841",
-                "municipality": "göteborg",
-                "county": "västra götalands län",
-                "$districtName": "biskopsgården",
-                "last_accept": 1156,
-                "$last_seen": "2023-12-19T11:34:09.066Z"
               }
             ],
             "solstrålegatan": [
