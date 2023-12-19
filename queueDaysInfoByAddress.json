@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-12-19T07:34:19.916Z",
+  "lastUpdatedAt": "2023-12-19T08:38:32.389Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -54297,6 +54297,20 @@
                 "$districtName": "örgryte",
                 "last_accept": 647,
                 "$last_seen": "2023-12-05T09:36:24.516Z"
+              },
+              {
+                "id": 108017,
+                "rent": 13487,
+                "area": 71,
+                "street": "kallebäcks torggata",
+                "street_number": "30",
+                "city": "göteborg",
+                "zip": "41278",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 559,
+                "$last_seen": "2023-12-19T07:34:19.916Z"
               }
             ],
             "kallebäcksvägen": [
