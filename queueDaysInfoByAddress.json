@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-12-19T06:39:09.992Z",
+  "lastUpdatedAt": "2023-12-19T07:34:19.916Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -32795,6 +32795,20 @@
                 "$districtName": "kortedala",
                 "last_accept": 1772,
                 "$last_seen": "2023-11-17T08:37:32.401Z"
+              },
+              {
+                "id": 107902,
+                "rent": 9810,
+                "area": 71,
+                "street": "allhelgonagatan",
+                "street_number": "8",
+                "city": "göteborg",
+                "zip": "41545",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "kortedala",
+                "last_accept": 948,
+                "$last_seen": "2023-12-19T06:39:09.992Z"
               }
             ],
             "julaftonsgatan": [
@@ -65563,20 +65577,6 @@
                 "$districtName": "biskopsgården",
                 "last_accept": 1287,
                 "$last_seen": "2023-11-29T22:40:05.545Z"
-              },
-              {
-                "id": 107480,
-                "rent": 7458,
-                "area": 75,
-                "street": "temperaturgatan",
-                "street_number": "77",
-                "city": "göteborg",
-                "zip": "41841",
-                "municipality": "göteborg",
-                "county": "västra götalands län",
-                "$districtName": "biskopsgården",
-                "last_accept": 1119,
-                "$last_seen": "2023-12-18T22:37:19.042Z"
               }
             ],
             "solstrålegatan": [
@@ -83703,20 +83703,6 @@
                 "$districtName": "malmö sankt johannes",
                 "last_accept": 637,
                 "$last_seen": "2023-09-25T05:41:55.057Z"
-              },
-              {
-                "id": 107430,
-                "rent": 13475,
-                "area": 95,
-                "street": "södra förstadsgatan",
-                "street_number": "68",
-                "city": "malmö",
-                "zip": "21420",
-                "municipality": "malmö",
-                "county": "skåne län",
-                "$districtName": "malmö sankt johannes",
-                "last_accept": 1269,
-                "$last_seen": "2023-12-18T22:37:19.042Z"
               }
             ],
             "smedjegatan": [
