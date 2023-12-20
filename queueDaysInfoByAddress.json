@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-12-20T12:44:41.520Z",
+  "lastUpdatedAt": "2023-12-20T13:33:38.222Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -22873,6 +22873,20 @@
                 "$districtName": "lundby",
                 "last_accept": 369,
                 "$last_seen": "2023-12-18T09:35:08.896Z"
+              },
+              {
+                "id": 108329,
+                "rent": 8745,
+                "area": 43,
+                "street": "fyrklöversgatan",
+                "street_number": "17",
+                "city": "göteborg",
+                "zip": "41725",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 6,
+                "$last_seen": "2023-12-20T12:44:41.520Z"
               }
             ],
             "arvid lindmansgatan": [
@@ -28189,6 +28203,20 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1473,
                 "$last_seen": "2023-09-21T14:43:51.411Z"
+              },
+              {
+                "id": 108371,
+                "rent": 9783,
+                "area": 61,
+                "street": "st pauligatan",
+                "street_number": "22",
+                "city": "göteborg",
+                "zip": "41660",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1801,
+                "$last_seen": "2023-12-20T12:44:41.520Z"
               }
             ],
             "platågatan": [
@@ -28331,6 +28359,20 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1798,
                 "$last_seen": "2023-12-13T09:36:21.612Z"
+              },
+              {
+                "id": 108253,
+                "rent": 10210,
+                "area": 64,
+                "street": "platågatan",
+                "street_number": "4a",
+                "city": "göteborg",
+                "zip": "41659",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1807,
+                "$last_seen": "2023-12-20T12:44:41.520Z"
               }
             ],
             "mäster johansgatan": [
@@ -61515,6 +61557,20 @@
                 "$districtName": "göteborgs oscar fredrik",
                 "last_accept": 1786,
                 "$last_seen": "2023-11-29T11:36:40.995Z"
+              },
+              {
+                "id": 107686,
+                "rent": 11902,
+                "area": 71,
+                "street": "jungmansgatan",
+                "street_number": "31a",
+                "city": "göteborg",
+                "zip": "41315",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs oscar fredrik",
+                "last_accept": 1873,
+                "$last_seen": "2023-12-20T12:44:41.520Z"
               }
             ],
             "gubbe lars väg": [
