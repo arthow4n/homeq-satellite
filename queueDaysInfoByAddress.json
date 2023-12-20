@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-12-20T11:33:39.133Z",
+  "lastUpdatedAt": "2023-12-20T12:44:41.520Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -20301,6 +20301,20 @@
                 "$districtName": "lundby",
                 "last_accept": 1658,
                 "$last_seen": "2023-10-27T13:38:25.062Z"
+              },
+              {
+                "id": 108217,
+                "rent": 10860,
+                "area": 63.6,
+                "street": "trollhasselgatan",
+                "street_number": "24",
+                "city": "göteborg",
+                "zip": "41711",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1248,
+                "$last_seen": "2023-12-20T11:33:39.133Z"
               }
             ],
             "karl staaffsgatan": [
@@ -28317,20 +28331,6 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1798,
                 "$last_seen": "2023-12-13T09:36:21.612Z"
-              },
-              {
-                "id": 108253,
-                "rent": 10210,
-                "area": 64,
-                "street": "platågatan",
-                "street_number": "4a",
-                "city": "göteborg",
-                "zip": "41659",
-                "municipality": "göteborg",
-                "county": "västra götalands län",
-                "$districtName": "göteborgs sankt pauli",
-                "last_accept": 1807,
-                "$last_seen": "2023-12-20T10:33:58.116Z"
               }
             ],
             "mäster johansgatan": [
@@ -34851,6 +34851,20 @@
                 "$districtName": "kortedala",
                 "last_accept": 1254,
                 "$last_seen": "2023-10-31T12:56:14.473Z"
+              },
+              {
+                "id": 107894,
+                "rent": 5794,
+                "area": 50,
+                "street": "februarigatan",
+                "street_number": "1",
+                "city": "göteborg",
+                "zip": "41546",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "kortedala",
+                "last_accept": 988,
+                "$last_seen": "2023-12-20T11:33:39.133Z"
               }
             ],
             "kalendervägen": [
@@ -42065,20 +42079,6 @@
                 "$districtName": "bergsjön",
                 "last_accept": 0,
                 "$last_seen": "2023-12-14T13:41:36.344Z"
-              },
-              {
-                "id": 108190,
-                "rent": 9245,
-                "area": 65,
-                "street": "atmosfärgatan",
-                "street_number": "31",
-                "city": "göteborg",
-                "zip": "41561",
-                "municipality": "göteborg",
-                "county": "västra götalands län",
-                "$districtName": "bergsjön",
-                "last_accept": 0,
-                "$last_seen": "2023-12-19T11:34:09.066Z"
               },
               {
                 "id": 108198,
@@ -53931,6 +53931,20 @@
                 "$districtName": "örgryte",
                 "last_accept": 1360,
                 "$last_seen": "2023-10-23T10:44:23.612Z"
+              },
+              {
+                "id": 108013,
+                "rent": 13376,
+                "area": 69,
+                "street": "skummjölksgatan",
+                "street_number": "9",
+                "city": "göteborg",
+                "zip": "41278",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 623,
+                "$last_seen": "2023-12-20T11:33:39.133Z"
               }
             ],
             "separatorsgatan": [
@@ -54401,6 +54415,20 @@
                 "$districtName": "örgryte",
                 "last_accept": 1672,
                 "$last_seen": "2023-06-12T08:46:14.225Z"
+              },
+              {
+                "id": 107875,
+                "rent": 8300,
+                "area": 58,
+                "street": "birkagatan",
+                "street_number": "39a",
+                "city": "göteborg",
+                "zip": "41656",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1789,
+                "$last_seen": "2023-12-20T11:33:39.133Z"
               }
             ],
             "s:t pauligatan": [
