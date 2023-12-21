@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-12-21T13:38:23.681Z",
+  "lastUpdatedAt": "2023-12-21T14:36:03.077Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -4267,6 +4267,20 @@
                 "$districtName": "fässberg",
                 "last_accept": 1153,
                 "$last_seen": "2023-09-19T06:46:05.168Z"
+              },
+              {
+                "id": 108417,
+                "rent": 7476,
+                "area": 38,
+                "street": "åbyvägen",
+                "street_number": "4 b",
+                "city": "göteborg",
+                "zip": "43162",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 1373,
+                "$last_seen": "2023-12-21T13:38:23.681Z"
               }
             ],
             "krokslätts parkgata": [
@@ -16457,6 +16471,20 @@
                 "$districtName": "högsbo",
                 "last_accept": 968,
                 "$last_seen": "2023-11-15T08:42:14.985Z"
+              },
+              {
+                "id": 108079,
+                "rent": 13027,
+                "area": 70,
+                "street": "sjupundsgatan",
+                "street_number": "17",
+                "city": "göteborg",
+                "zip": "41484",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 958,
+                "$last_seen": "2023-12-21T13:38:23.681Z"
               }
             ],
             "handelsmyntet": [
@@ -29091,6 +29119,20 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1618,
                 "$last_seen": "2023-06-14T05:44:24.196Z"
+              },
+              {
+                "id": 104225,
+                "rent": 9376,
+                "area": 78,
+                "street": "sankt pauligatan",
+                "street_number": "32 b",
+                "city": "göteborg",
+                "zip": "41660",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1394,
+                "$last_seen": "2023-12-21T13:38:23.681Z"
               }
             ],
             "liedstrandsgatan": [
@@ -72343,6 +72385,20 @@
                 "$districtName": "kortedala",
                 "last_accept": 825,
                 "$last_seen": "2023-12-08T07:36:17.245Z"
+              },
+              {
+                "id": 107823,
+                "rent": 6000,
+                "area": 34,
+                "street": "januarigatan",
+                "street_number": "14",
+                "city": "göteborg ",
+                "zip": "41546",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "kortedala",
+                "last_accept": 550,
+                "$last_seen": "2023-12-21T13:38:23.681Z"
               }
             ]
           },
