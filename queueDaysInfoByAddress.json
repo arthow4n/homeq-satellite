@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-12-21T12:51:04.230Z",
+  "lastUpdatedAt": "2023-12-21T13:38:23.681Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -20085,6 +20085,20 @@
                 "$districtName": "lundby",
                 "last_accept": 1097,
                 "$last_seen": "2023-11-15T16:48:02.110Z"
+              },
+              {
+                "id": 108754,
+                "rent": 7611,
+                "area": 33,
+                "street": "hjalmar brantingsgatan",
+                "street_number": "104",
+                "city": "göteborg",
+                "zip": "41711",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 874,
+                "$last_seen": "2023-12-21T12:51:04.230Z"
               }
             ],
             "rosenapelgatan": [
@@ -87709,6 +87723,20 @@
                 "$districtName": "bunkeflo",
                 "last_accept": 0,
                 "$last_seen": "2023-10-31T11:38:49.538Z"
+              },
+              {
+                "id": 102712,
+                "rent": 10422,
+                "area": 68.6,
+                "street": "skräddarebyn",
+                "street_number": "5a",
+                "city": "bunkeflostrand",
+                "zip": "21842",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "bunkeflo",
+                "last_accept": 0,
+                "$last_seen": "2023-12-21T12:51:04.230Z"
               },
               {
                 "id": 104757,
