@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-12-21T11:33:11.827Z",
+  "lastUpdatedAt": "2023-12-21T12:51:04.230Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -5637,6 +5637,20 @@
                 "$districtName": "kållered",
                 "last_accept": 906,
                 "$last_seen": "2023-12-07T10:42:50.474Z"
+              },
+              {
+                "id": 108138,
+                "rent": 9471,
+                "area": 81,
+                "street": "våmmedalsvägen",
+                "street_number": "48",
+                "city": "kållered",
+                "zip": "42831",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "kållered",
+                "last_accept": 1200,
+                "$last_seen": "2023-12-21T11:33:11.827Z"
               }
             ],
             "streteredsvägen": [
@@ -10171,6 +10185,20 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1826,
                 "$last_seen": "2023-12-13T09:36:21.612Z"
+              },
+              {
+                "id": 107835,
+                "rent": 8726,
+                "area": 73,
+                "street": "övre besvärsgatan",
+                "street_number": "7",
+                "city": "göteborg",
+                "zip": "41129",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1866,
+                "$last_seen": "2023-12-21T11:33:11.827Z"
               }
             ],
             "utlandagatan": [
@@ -17207,6 +17235,20 @@
                 "$districtName": "brämaregården",
                 "last_accept": 919,
                 "$last_seen": "2023-10-10T08:44:30.313Z"
+              },
+              {
+                "id": 107644,
+                "rent": 10007,
+                "area": 54,
+                "street": "gustaf dalénsgatan",
+                "street_number": "12",
+                "city": "göteborg",
+                "zip": "41722",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brämaregården",
+                "last_accept": 1163,
+                "$last_seen": "2023-12-21T11:33:11.827Z"
               }
             ],
             "lantmätaregatan": [
@@ -24715,6 +24757,20 @@
                 "$districtName": "lundby",
                 "last_accept": 1521,
                 "$last_seen": "2023-10-12T13:46:59.641Z"
+              },
+              {
+                "id": 108410,
+                "rent": 6712,
+                "area": 40,
+                "street": "danagatan",
+                "street_number": "10",
+                "city": "göteborg",
+                "zip": "41876",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1144,
+                "$last_seen": "2023-12-21T11:33:11.827Z"
               }
             ],
             "trekantsgatan": [
@@ -87653,20 +87709,6 @@
                 "$districtName": "bunkeflo",
                 "last_accept": 0,
                 "$last_seen": "2023-10-31T11:38:49.538Z"
-              },
-              {
-                "id": 102712,
-                "rent": 10422,
-                "area": 68.6,
-                "street": "skräddarebyn",
-                "street_number": "5a",
-                "city": "bunkeflostrand",
-                "zip": "21842",
-                "municipality": "malmö",
-                "county": "skåne län",
-                "$districtName": "bunkeflo",
-                "last_accept": 0,
-                "$last_seen": "2023-12-21T07:33:16.816Z"
               },
               {
                 "id": 104757,
