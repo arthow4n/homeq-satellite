@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-12-21T15:33:34.459Z",
+  "lastUpdatedAt": "2023-12-21T16:41:42.360Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -27197,6 +27197,20 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1786,
                 "$last_seen": "2023-12-08T08:40:25.199Z"
+              },
+              {
+                "id": 108022,
+                "rent": 10472,
+                "area": 74,
+                "street": "redbergsvägen",
+                "street_number": "11 a",
+                "city": "göteborg",
+                "zip": "41665",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1806,
+                "$last_seen": "2023-12-21T15:33:34.459Z"
               }
             ],
             "kungälvsgatan": [
