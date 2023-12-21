@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-12-21T09:33:11.320Z",
+  "lastUpdatedAt": "2023-12-21T10:38:16.985Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -5711,6 +5711,20 @@
                 "$districtName": "kållered",
                 "last_accept": 875,
                 "$last_seen": "2023-11-29T15:38:16.023Z"
+              },
+              {
+                "id": 108130,
+                "rent": 5492,
+                "area": 31,
+                "street": "hagabäcksleden",
+                "street_number": "9",
+                "city": "kållered",
+                "zip": "42832",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "kållered",
+                "last_accept": 970,
+                "$last_seen": "2023-12-21T09:33:11.320Z"
               }
             ]
           }
@@ -89093,6 +89107,20 @@
                 "$districtName": "vantör",
                 "last_accept": 1839,
                 "$last_seen": "2023-12-14T15:36:38.130Z"
+              },
+              {
+                "id": 107853,
+                "rent": 7554,
+                "area": 57,
+                "street": "stålbogavägen",
+                "street_number": "52",
+                "city": "bandhagen",
+                "zip": "12456",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 1910,
+                "$last_seen": "2023-12-21T09:33:11.320Z"
               }
             ],
             "askersundsgatan": [
