@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-12-22T07:33:21.174Z",
+  "lastUpdatedAt": "2023-12-22T08:36:46.900Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -10357,6 +10357,34 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1641,
                 "$last_seen": "2023-07-07T10:48:02.477Z"
+              },
+              {
+                "id": 108795,
+                "rent": 11334,
+                "area": 60,
+                "street": "pontus wiknersgatan",
+                "street_number": "8",
+                "city": "göteborg",
+                "zip": "41257",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1810,
+                "$last_seen": "2023-12-22T07:33:21.174Z"
+              },
+              {
+                "id": 108797,
+                "rent": 9790,
+                "area": 89,
+                "street": "pontus wiknersgatan",
+                "street_number": "1 a",
+                "city": "göteborg",
+                "zip": "41132",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1875,
+                "$last_seen": "2023-12-22T07:33:21.174Z"
               }
             ],
             "sylvestergatan": [
@@ -39605,6 +39633,20 @@
                 "$districtName": "askim",
                 "last_accept": 456,
                 "$last_seen": "2023-11-13T09:39:23.290Z"
+              },
+              {
+                "id": 108813,
+                "rent": 13186,
+                "area": 75,
+                "street": "askims pilegårdsväg",
+                "street_number": "46",
+                "city": "göteborg",
+                "zip": "43635",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 508,
+                "$last_seen": "2023-12-22T07:33:21.174Z"
               }
             ]
           },
@@ -92037,20 +92079,6 @@
                 "$districtName": "kista",
                 "last_accept": 0,
                 "$last_seen": "2023-11-21T06:38:59.799Z"
-              },
-              {
-                "id": 107957,
-                "rent": 6459,
-                "area": 24,
-                "street": "almbygatan",
-                "street_number": "14",
-                "city": "spånga",
-                "zip": "16376",
-                "municipality": "stockholm",
-                "county": "stockholms län",
-                "$districtName": "kista",
-                "last_accept": 833,
-                "$last_seen": "2023-12-21T10:38:16.985Z"
               }
             ]
           }
