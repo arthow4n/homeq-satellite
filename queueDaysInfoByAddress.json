@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-12-22T12:50:15.350Z",
+  "lastUpdatedAt": "2023-12-22T13:33:34.094Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -41701,6 +41701,34 @@
                 "$last_seen": "2023-12-14T14:39:04.899Z"
               },
               {
+                "id": 108112,
+                "rent": 13331,
+                "area": 105,
+                "street": "kosmosgatan",
+                "street_number": "11",
+                "city": "göteborg",
+                "zip": "41562",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bergsjön",
+                "last_accept": 0,
+                "$last_seen": "2023-12-22T12:50:15.350Z"
+              },
+              {
+                "id": 108187,
+                "rent": 8494,
+                "area": 56,
+                "street": "kosmosgatan",
+                "street_number": "10",
+                "city": "göteborg",
+                "zip": "41562",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bergsjön",
+                "last_accept": 0,
+                "$last_seen": "2023-12-22T12:50:15.350Z"
+              },
+              {
                 "id": 108369,
                 "rent": 7661,
                 "area": 46,
@@ -53461,6 +53489,20 @@
                 "$districtName": "örgryte",
                 "last_accept": 1504,
                 "$last_seen": "2023-12-20T13:33:38.222Z"
+              },
+              {
+                "id": 108449,
+                "rent": 13170,
+                "area": 102,
+                "street": "mejerigatan",
+                "street_number": "12",
+                "city": "göteborg",
+                "zip": "41276",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1707,
+                "$last_seen": "2023-12-22T12:50:15.350Z"
               },
               {
                 "id": 108605,
