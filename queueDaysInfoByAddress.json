@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-12-21T23:33:50.679Z",
+  "lastUpdatedAt": "2023-12-22T01:39:18.410Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -29147,6 +29147,20 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1618,
                 "$last_seen": "2023-06-14T05:44:24.196Z"
+              },
+              {
+                "id": 104225,
+                "rent": 9376,
+                "area": 78,
+                "street": "sankt pauligatan",
+                "street_number": "32 b",
+                "city": "göteborg",
+                "zip": "41660",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1394,
+                "$last_seen": "2023-12-21T23:33:50.679Z"
               }
             ],
             "liedstrandsgatan": [
@@ -87313,20 +87327,6 @@
                 "$districtName": "bunkeflo",
                 "last_accept": 0,
                 "$last_seen": "2023-10-10T11:40:50.386Z"
-              },
-              {
-                "id": 102864,
-                "rent": 8265,
-                "area": 58.6,
-                "street": "skomakarebyn",
-                "street_number": "4f",
-                "city": "bunkeflostrand",
-                "zip": "21841",
-                "municipality": "malmö",
-                "county": "skåne län",
-                "$districtName": "bunkeflo",
-                "last_accept": 0,
-                "$last_seen": "2023-12-21T07:33:16.816Z"
               }
             ],
             "smedmästarebyn": [
