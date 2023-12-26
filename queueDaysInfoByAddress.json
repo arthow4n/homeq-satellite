@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-12-26T22:35:20.975Z",
+  "lastUpdatedAt": "2023-12-26T23:34:41.258Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -9231,6 +9231,20 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1663,
                 "$last_seen": "2023-08-03T10:41:40.130Z"
+              },
+              {
+                "id": 107630,
+                "rent": 8129,
+                "area": 58,
+                "street": "mölndalsvägen",
+                "street_number": "47",
+                "city": "göteborg",
+                "zip": "41263",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1800,
+                "$last_seen": "2023-12-26T22:35:20.975Z"
               },
               {
                 "id": 108539,
@@ -63807,6 +63821,20 @@
                 "$districtName": "masthugget",
                 "last_accept": 1776,
                 "$last_seen": "2023-11-28T11:36:34.123Z"
+              },
+              {
+                "id": 107627,
+                "rent": 8011,
+                "area": 44,
+                "street": "amiralitetsgatan",
+                "street_number": "8",
+                "city": "göteborg",
+                "zip": "41462",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "masthugget",
+                "last_accept": 1801,
+                "$last_seen": "2023-12-26T22:35:20.975Z"
               }
             ],
             "kolumbusgatan": [
