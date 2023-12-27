@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-12-27T09:33:15.951Z",
+  "lastUpdatedAt": "2023-12-27T10:37:55.324Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -37015,6 +37015,34 @@
                 "$districtName": "askim",
                 "last_accept": 1336,
                 "$last_seen": "2023-12-11T09:37:37.716Z"
+              },
+              {
+                "id": 108933,
+                "rent": 9893,
+                "area": 66,
+                "street": "pilegården",
+                "street_number": "9 e",
+                "city": "göteborg",
+                "zip": "43635",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 1095,
+                "$last_seen": "2023-12-27T09:33:15.951Z"
+              },
+              {
+                "id": 108936,
+                "rent": 11782,
+                "area": 82,
+                "street": "pilegården",
+                "street_number": "10b",
+                "city": "göteborg",
+                "zip": "43635",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 1212,
+                "$last_seen": "2023-12-27T09:33:15.951Z"
               }
             ],
             "nergårdsvägen": [
