@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-12-27T10:37:55.324Z",
+  "lastUpdatedAt": "2023-12-27T11:33:27.255Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -42555,6 +42555,20 @@
                 "$districtName": "bergsjön",
                 "last_accept": 0,
                 "$last_seen": "2023-12-14T13:41:36.344Z"
+              },
+              {
+                "id": 108190,
+                "rent": 9245,
+                "area": 65,
+                "street": "atmosfärgatan",
+                "street_number": "31",
+                "city": "göteborg",
+                "zip": "41561",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bergsjön",
+                "last_accept": 13,
+                "$last_seen": "2023-12-27T10:37:55.324Z"
               },
               {
                 "id": 108198,
