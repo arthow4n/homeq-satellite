@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-12-28T06:38:03.986Z",
+  "lastUpdatedAt": "2023-12-28T07:33:43.355Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -43541,20 +43541,6 @@
                 "$districtName": "bergsjön",
                 "last_accept": 994,
                 "$last_seen": "2023-12-27T14:35:02.506Z"
-              },
-              {
-                "id": 108224,
-                "rent": 5715,
-                "area": 39,
-                "street": "universumsgatan",
-                "street_number": "26",
-                "city": "göteborg",
-                "zip": "41562",
-                "municipality": "göteborg",
-                "county": "västra götalands län",
-                "$districtName": "bergsjön",
-                "last_accept": 834,
-                "$last_seen": "2023-12-22T10:38:23.329Z"
               }
             ]
           },
@@ -51111,6 +51097,20 @@
                 "$districtName": "örgryte",
                 "last_accept": 1788,
                 "$last_seen": "2023-12-04T09:36:58.517Z"
+              },
+              {
+                "id": 108444,
+                "rent": 15922,
+                "area": 118,
+                "street": "prästgårdsängen",
+                "street_number": "13",
+                "city": "göteborg",
+                "zip": "41271",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1758,
+                "$last_seen": "2023-12-28T06:38:03.986Z"
               }
             ],
             "karlfeldtsgatan": [
