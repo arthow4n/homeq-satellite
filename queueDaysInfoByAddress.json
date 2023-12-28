@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-12-28T14:35:31.443Z",
+  "lastUpdatedAt": "2023-12-28T15:33:42.735Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -92919,6 +92919,20 @@
                 "$districtName": "österhaninge",
                 "last_accept": 153,
                 "$last_seen": "2023-12-18T09:35:08.896Z"
+              },
+              {
+                "id": 108723,
+                "rent": 17982,
+                "area": 89,
+                "street": "vardövägen",
+                "street_number": "49",
+                "city": "stockholm",
+                "zip": "13657",
+                "municipality": "haninge",
+                "county": "stockholms län",
+                "$districtName": "österhaninge",
+                "last_accept": 14,
+                "$last_seen": "2023-12-28T14:35:31.443Z"
               }
             ]
           }
