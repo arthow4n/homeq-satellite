@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-12-28T12:50:18.898Z",
+  "lastUpdatedAt": "2023-12-28T13:37:51.096Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -41797,20 +41797,6 @@
                 "$districtName": "bergsjön",
                 "last_accept": 0,
                 "$last_seen": "2023-12-14T14:39:04.899Z"
-              },
-              {
-                "id": 108112,
-                "rent": 13331,
-                "area": 105,
-                "street": "kosmosgatan",
-                "street_number": "11",
-                "city": "göteborg",
-                "zip": "41562",
-                "municipality": "göteborg",
-                "county": "västra götalands län",
-                "$districtName": "bergsjön",
-                "last_accept": 0,
-                "$last_seen": "2023-12-22T12:50:15.350Z"
               },
               {
                 "id": 108187,
@@ -86893,6 +86879,20 @@
                 "$districtName": "limhamn",
                 "last_accept": 189,
                 "$last_seen": "2023-12-05T09:36:24.516Z"
+              },
+              {
+                "id": 109063,
+                "rent": 6652,
+                "area": 54,
+                "street": "hyllie kyrkoväg",
+                "street_number": "57b",
+                "city": "limhamn",
+                "zip": "21616",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "limhamn",
+                "last_accept": 588,
+                "$last_seen": "2023-12-28T12:50:18.898Z"
               }
             ],
             "storabackegatan": [
