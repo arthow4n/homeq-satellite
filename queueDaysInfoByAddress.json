@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-12-29T13:33:51.008Z",
+  "lastUpdatedAt": "2023-12-29T14:35:34.118Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -78189,6 +78189,20 @@
                 "$districtName": "råda",
                 "last_accept": 1041,
                 "$last_seen": "2023-11-30T08:40:26.929Z"
+              },
+              {
+                "id": 109387,
+                "rent": 7650,
+                "area": 53,
+                "street": "biblioteksgatan",
+                "street_number": "13",
+                "city": "göteborg",
+                "zip": "43530",
+                "municipality": "härryda",
+                "county": "västra götalands län",
+                "$districtName": "råda",
+                "last_accept": 1740,
+                "$last_seen": "2023-12-29T13:33:51.008Z"
               }
             ],
             "lennart kvarnströms plats": [
