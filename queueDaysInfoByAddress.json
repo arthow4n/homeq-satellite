@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2023-12-29T06:38:39.946Z",
+  "lastUpdatedAt": "2023-12-29T07:33:36.363Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -79645,6 +79645,20 @@
                 "$districtName": "malmö sankt petri",
                 "last_accept": 584,
                 "$last_seen": "2023-11-29T21:36:45.987Z"
+              },
+              {
+                "id": 107674,
+                "rent": 8100,
+                "area": 45,
+                "street": "stormgatan",
+                "street_number": "6",
+                "city": "malmö",
+                "zip": "21120",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "malmö sankt petri",
+                "last_accept": 232,
+                "$last_seen": "2023-12-29T06:38:39.946Z"
               }
             ],
             "fabriksgatan": [
@@ -91211,6 +91225,22 @@
                 "$districtName": "hägersten",
                 "last_accept": 2263,
                 "$last_seen": "2023-11-06T06:45:28.381Z"
+              }
+            ],
+            "fågelsångsvägen": [
+              {
+                "id": 107770,
+                "rent": 5417,
+                "area": 35,
+                "street": "fågelsångsvägen",
+                "street_number": "17",
+                "city": "stockholm",
+                "zip": "11768",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "hägersten",
+                "last_accept": 2430,
+                "$last_seen": "2023-12-29T06:38:39.946Z"
               }
             ]
           },
