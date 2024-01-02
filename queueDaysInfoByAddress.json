@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-01-02T06:38:00.791Z",
+  "lastUpdatedAt": "2024-01-02T07:33:52.856Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -10427,20 +10427,6 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1641,
                 "$last_seen": "2023-07-07T10:48:02.477Z"
-              },
-              {
-                "id": 108795,
-                "rent": 11334,
-                "area": 60,
-                "street": "pontus wiknersgatan",
-                "street_number": "8",
-                "city": "göteborg",
-                "zip": "41257",
-                "municipality": "göteborg",
-                "county": "västra götalands län",
-                "$districtName": "johanneberg",
-                "last_accept": 1810,
-                "$last_seen": "2023-12-22T07:33:21.174Z"
               },
               {
                 "id": 108797,
