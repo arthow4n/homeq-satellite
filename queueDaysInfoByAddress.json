@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-01-02T11:34:00.747Z",
+  "lastUpdatedAt": "2024-01-02T12:51:30.910Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -31107,6 +31107,20 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1614,
                 "$last_seen": "2023-11-15T16:48:02.110Z"
+              },
+              {
+                "id": 108025,
+                "rent": 7160,
+                "area": 38,
+                "street": "hebegatan",
+                "street_number": "4a",
+                "city": "göteborg",
+                "zip": "41659",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1772,
+                "$last_seen": "2024-01-02T11:34:00.747Z"
               }
             ],
             "l:a redbergsgatan": [
@@ -43855,6 +43869,20 @@
                 "$districtName": "nylöse",
                 "last_accept": 1479,
                 "$last_seen": "2023-01-30T11:36:18.237Z"
+              },
+              {
+                "id": 107914,
+                "rent": 7337,
+                "area": 40,
+                "street": "hornsgatan",
+                "street_number": "5a",
+                "city": "göteborg",
+                "zip": "41514",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "nylöse",
+                "last_accept": 1502,
+                "$last_seen": "2024-01-02T11:34:00.747Z"
               }
             ],
             "sysslomansgatan": [
@@ -46617,6 +46645,20 @@
                 "$districtName": "härlanda",
                 "last_accept": 1606,
                 "$last_seen": "2023-06-07T10:45:59.323Z"
+              },
+              {
+                "id": 108029,
+                "rent": 8498,
+                "area": 75,
+                "street": "fräntorpsgatan",
+                "street_number": "2a",
+                "city": "göteborg",
+                "zip": "41676",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "härlanda",
+                "last_accept": 1841,
+                "$last_seen": "2024-01-02T11:34:00.747Z"
               }
             ],
             "ahrenbergsgatan": [
@@ -60777,6 +60819,20 @@
                 "$districtName": "göteborgs vasa",
                 "last_accept": 1767,
                 "$last_seen": "2023-11-10T11:40:09.130Z"
+              },
+              {
+                "id": 109040,
+                "rent": 24712,
+                "area": 137,
+                "street": "teatergatan",
+                "street_number": "36",
+                "city": "göteborg",
+                "zip": "41135",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs vasa",
+                "last_accept": 1812,
+                "$last_seen": "2024-01-02T11:34:00.747Z"
               }
             ],
             "lorensbergsgatan": [
@@ -92795,20 +92851,6 @@
                 "$districtName": "kista",
                 "last_accept": 898,
                 "$last_seen": "2023-12-27T13:33:46.569Z"
-              },
-              {
-                "id": 108590,
-                "rent": 6236,
-                "area": 22,
-                "street": "almbygatan",
-                "street_number": "14",
-                "city": "spånga",
-                "zip": "16376",
-                "municipality": "stockholm",
-                "county": "stockholms län",
-                "$districtName": "kista",
-                "last_accept": 398,
-                "$last_seen": "2023-12-28T10:37:45.368Z"
               }
             ]
           }
