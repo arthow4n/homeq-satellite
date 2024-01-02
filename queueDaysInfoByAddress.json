@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-01-02T14:36:48.892Z",
+  "lastUpdatedAt": "2024-01-02T15:34:20.545Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -73167,6 +73167,20 @@
                 "$districtName": "bergum",
                 "last_accept": 331,
                 "$last_seen": "2023-08-23T13:43:07.342Z"
+              },
+              {
+                "id": 108436,
+                "rent": 16900,
+                "area": 118,
+                "street": "östra björredsvägen",
+                "street_number": "24a",
+                "city": "göteborg ",
+                "zip": "42471",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bergum",
+                "last_accept": 11,
+                "$last_seen": "2024-01-02T14:36:48.892Z"
               }
             ]
           }
