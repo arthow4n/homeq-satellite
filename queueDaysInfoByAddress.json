@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-01-03T12:52:28.777Z",
+  "lastUpdatedAt": "2024-01-03T13:35:29.901Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -341,6 +341,20 @@
                 "$districtName": "fässberg",
                 "last_accept": 1539,
                 "$last_seen": "2023-12-14T13:41:36.344Z"
+              },
+              {
+                "id": 108280,
+                "rent": 10637,
+                "area": 73,
+                "street": "toltorpsgatan",
+                "street_number": "131",
+                "city": "mölndal",
+                "zip": "43141",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 1777,
+                "$last_seen": "2024-01-03T12:52:28.777Z"
               },
               {
                 "id": 108543,
@@ -21373,6 +21387,20 @@
                 "$districtName": "lundby",
                 "last_accept": 1645,
                 "$last_seen": "2023-11-06T11:39:58.412Z"
+              },
+              {
+                "id": 108315,
+                "rent": 6865,
+                "area": 54,
+                "street": "hällskriftsgatan",
+                "street_number": "5",
+                "city": "göteborg",
+                "zip": "41726",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1604,
+                "$last_seen": "2024-01-03T12:52:28.777Z"
               },
               {
                 "id": 108318,
@@ -74713,6 +74741,20 @@
                 "$districtName": "askim",
                 "last_accept": 283,
                 "$last_seen": "2023-12-21T07:33:16.816Z"
+              },
+              {
+                "id": 108327,
+                "rent": 7522,
+                "area": 33,
+                "street": "sisjöbäckens väg",
+                "street_number": "24",
+                "city": "askim",
+                "zip": "43638",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 330,
+                "$last_seen": "2024-01-03T12:52:28.777Z"
               }
             ],
             "kobbegården": [
@@ -93495,6 +93537,20 @@
                 "$districtName": "österhaninge",
                 "last_accept": 153,
                 "$last_seen": "2023-12-18T09:35:08.896Z"
+              },
+              {
+                "id": 108277,
+                "rent": 7614,
+                "area": 27.6,
+                "street": "vardövägen",
+                "street_number": "49",
+                "city": "stockholm",
+                "zip": "13657",
+                "municipality": "haninge",
+                "county": "stockholms län",
+                "$districtName": "österhaninge",
+                "last_accept": 422,
+                "$last_seen": "2024-01-03T12:52:28.777Z"
               },
               {
                 "id": 108723,
