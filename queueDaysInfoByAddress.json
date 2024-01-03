@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-01-03T14:37:47.886Z",
+  "lastUpdatedAt": "2024-01-03T15:35:06.870Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -66330,6 +66330,22 @@
                 "last_accept": 1591,
                 "$last_seen": "2023-03-23T13:44:37.031Z"
               }
+            ],
+            "barlastgatan": [
+              {
+                "id": 108312,
+                "rent": 8335,
+                "area": 53,
+                "street": "barlastgatan",
+                "street_number": "2",
+                "city": "göteborg",
+                "zip": "41463",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "masthugget",
+                "last_accept": 1820,
+                "$last_seen": "2024-01-03T14:37:47.886Z"
+              }
             ]
           },
           "biskopsgården": {
@@ -93229,6 +93245,20 @@
                 "$districtName": "kista",
                 "last_accept": 898,
                 "$last_seen": "2023-12-27T13:33:46.569Z"
+              },
+              {
+                "id": 108590,
+                "rent": 6236,
+                "area": 22,
+                "street": "almbygatan",
+                "street_number": "14",
+                "city": "spånga",
+                "zip": "16376",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "kista",
+                "last_accept": 315,
+                "$last_seen": "2024-01-03T14:37:47.886Z"
               }
             ]
           }
