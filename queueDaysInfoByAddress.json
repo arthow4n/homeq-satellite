@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-01-03T10:39:33.582Z",
+  "lastUpdatedAt": "2024-01-03T11:34:31.758Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -11917,6 +11917,20 @@
                 "$districtName": "högsbo",
                 "last_accept": 370,
                 "$last_seen": "2023-12-19T09:34:08.992Z"
+              },
+              {
+                "id": 108122,
+                "rent": 12018,
+                "area": 71,
+                "street": "skillingmyntsgatan",
+                "street_number": "4",
+                "city": "göteborg",
+                "zip": "41484",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 1022,
+                "$last_seen": "2024-01-03T10:39:33.582Z"
               }
             ],
             "synhållsgatan": [
@@ -12985,6 +12999,20 @@
                 "$districtName": "högsbo",
                 "last_accept": 526,
                 "$last_seen": "2024-01-03T08:37:52.036Z"
+              },
+              {
+                "id": 107978,
+                "rent": 9580,
+                "area": 54.1,
+                "street": "nymilsgatan",
+                "street_number": "45",
+                "city": "göteborg",
+                "zip": "42170",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 721,
+                "$last_seen": "2024-01-03T10:39:33.582Z"
               }
             ],
             "pennygången": [
@@ -85251,6 +85279,20 @@
                 "$districtName": "västra skrävlinge",
                 "last_accept": 0,
                 "$last_seen": "2023-12-07T13:42:45.460Z"
+              },
+              {
+                "id": 108133,
+                "rent": 10415,
+                "area": 100,
+                "street": "ramels väg",
+                "street_number": "43",
+                "city": "malmö",
+                "zip": "21368",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "västra skrävlinge",
+                "last_accept": 40,
+                "$last_seen": "2024-01-03T10:39:33.582Z"
               }
             ]
           },
