@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-01-03T08:37:52.036Z",
+  "lastUpdatedAt": "2024-01-03T09:34:23.651Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -3873,6 +3873,20 @@
                 "$districtName": "fässberg",
                 "last_accept": 1507,
                 "$last_seen": "2023-12-28T15:33:42.735Z"
+              },
+              {
+                "id": 108051,
+                "rent": 6750,
+                "area": 30,
+                "street": "åby allé",
+                "street_number": "73",
+                "city": "göteborg",
+                "zip": "43145",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 1401,
+                "$last_seen": "2024-01-03T08:37:52.036Z"
               }
             ],
             "åbyvägen": [
@@ -12957,6 +12971,20 @@
                 "$districtName": "högsbo",
                 "last_accept": 905,
                 "$last_seen": "2023-12-07T06:41:42.656Z"
+              },
+              {
+                "id": 107943,
+                "rent": 10190,
+                "area": 58.6,
+                "street": "nymilsgatan",
+                "street_number": "45",
+                "city": "göteborg",
+                "zip": "42170",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 526,
+                "$last_seen": "2024-01-03T08:37:52.036Z"
               }
             ],
             "pennygången": [
@@ -25121,6 +25149,20 @@
                 "$districtName": "lundby",
                 "last_accept": 1144,
                 "$last_seen": "2023-12-21T11:33:11.827Z"
+              },
+              {
+                "id": 109259,
+                "rent": 8893,
+                "area": 62,
+                "street": "danagatan",
+                "street_number": "12",
+                "city": "göteborg",
+                "zip": "41876",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1685,
+                "$last_seen": "2024-01-03T08:37:52.036Z"
               }
             ],
             "trekantsgatan": [
