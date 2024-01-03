@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-01-03T09:34:23.651Z",
+  "lastUpdatedAt": "2024-01-03T10:39:33.582Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -32685,6 +32685,20 @@
                 "$districtName": "björkekärr",
                 "last_accept": 1135,
                 "$last_seen": "2023-12-20T09:34:04.612Z"
+              },
+              {
+                "id": 108083,
+                "rent": 3424,
+                "area": 22,
+                "street": "smörslätten",
+                "street_number": "6",
+                "city": "göteborg",
+                "zip": "41677",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "björkekärr",
+                "last_accept": 0,
+                "$last_seen": "2023-12-08T15:37:21.052Z"
               }
             ],
             "lådspikaregatan": [
@@ -39433,6 +39447,20 @@
                 "$districtName": "askim",
                 "last_accept": 119,
                 "$last_seen": "2023-11-28T12:55:19.836Z"
+              },
+              {
+                "id": 107963,
+                "rent": 11919,
+                "area": 60,
+                "street": "ugglegården",
+                "street_number": "36",
+                "city": "göteborg",
+                "zip": "43658",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 631,
+                "$last_seen": "2024-01-03T09:34:23.651Z"
               }
             ],
             "sisjövägen": [
@@ -42851,6 +42879,20 @@
                 "$last_seen": "2023-12-14T15:36:38.130Z"
               },
               {
+                "id": 108216,
+                "rent": 11162,
+                "area": 83,
+                "street": "atmosfärgatan",
+                "street_number": "27",
+                "city": "göteborg",
+                "zip": "41561",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bergsjön",
+                "last_accept": 0,
+                "$last_seen": "2024-01-03T09:34:23.651Z"
+              },
+              {
                 "id": 108378,
                 "rent": 9245,
                 "area": 65,
@@ -43313,6 +43355,20 @@
                 "$districtName": "bergsjön",
                 "last_accept": 0,
                 "$last_seen": "2023-12-14T14:39:04.899Z"
+              },
+              {
+                "id": 108220,
+                "rent": 9580,
+                "area": 69,
+                "street": "zenitgatan",
+                "street_number": "16",
+                "city": "göteborg",
+                "zip": "41562",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bergsjön",
+                "last_accept": 0,
+                "$last_seen": "2024-01-03T09:34:23.651Z"
               }
             ],
             "galileisgata": [
@@ -91941,6 +91997,20 @@
                 "$districtName": "skärholmen",
                 "last_accept": 589,
                 "$last_seen": "2023-11-15T16:48:02.110Z"
+              },
+              {
+                "id": 108140,
+                "rent": 8551,
+                "area": 35,
+                "street": "vårbergsvägen",
+                "street_number": "77",
+                "city": "stockholm",
+                "zip": "12743",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "skärholmen",
+                "last_accept": 499,
+                "$last_seen": "2024-01-03T09:34:23.651Z"
               }
             ],
             "ålgrytevägen": [
