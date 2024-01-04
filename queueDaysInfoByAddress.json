@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-01-04T06:39:46.668Z",
+  "lastUpdatedAt": "2024-01-04T07:34:37.148Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -54037,6 +54037,20 @@
                 "$last_seen": "2023-12-20T13:33:38.222Z"
               },
               {
+                "id": 108419,
+                "rent": 13170,
+                "area": 102,
+                "street": "mejerigatan",
+                "street_number": "12",
+                "city": "göteborg",
+                "zip": "41276",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1764,
+                "$last_seen": "2024-01-04T06:39:46.668Z"
+              },
+              {
                 "id": 108449,
                 "rent": 13170,
                 "area": 102,
@@ -54091,6 +54105,34 @@
                 "$districtName": "örgryte",
                 "last_accept": 1644,
                 "$last_seen": "2023-12-20T13:33:38.222Z"
+              },
+              {
+                "id": 109798,
+                "rent": 10679,
+                "area": 76,
+                "street": "mejerigatan",
+                "street_number": "14",
+                "city": "göteborg",
+                "zip": "41276",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1470,
+                "$last_seen": "2024-01-04T06:39:46.668Z"
+              },
+              {
+                "id": 109868,
+                "rent": 10679,
+                "area": 76,
+                "street": "mejerigatan",
+                "street_number": "14",
+                "city": "göteborg",
+                "zip": "41276",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1395,
+                "$last_seen": "2024-01-04T06:39:46.668Z"
               }
             ],
             "filmjölksgatan": [
