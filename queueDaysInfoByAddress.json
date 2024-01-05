@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-01-05T09:35:43.922Z",
+  "lastUpdatedAt": "2024-01-05T10:40:34.934Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -41221,6 +41221,20 @@
                 "$districtName": "bergsjön",
                 "last_accept": 1019,
                 "$last_seen": "2024-01-03T13:35:29.901Z"
+              },
+              {
+                "id": 108779,
+                "rent": 3595,
+                "area": 33,
+                "street": "galileis gata",
+                "street_number": "2",
+                "city": "göteborg",
+                "zip": "41554",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bergsjön",
+                "last_accept": 1282,
+                "$last_seen": "2024-01-05T09:35:43.922Z"
               }
             ],
             "kosmosgatan": [
@@ -64365,6 +64379,20 @@
                 "$districtName": "masthugget",
                 "last_accept": 1783,
                 "$last_seen": "2023-11-27T14:39:26.391Z"
+              },
+              {
+                "id": 108721,
+                "rent": 4574,
+                "area": 29,
+                "street": "bangatan",
+                "street_number": "24 e",
+                "city": "göteborg",
+                "zip": "41463",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "masthugget",
+                "last_accept": 1823,
+                "$last_seen": "2024-01-05T09:35:43.922Z"
               }
             ],
             "amiralitetsgatan": [
@@ -77379,6 +77407,20 @@
                 "$districtName": "västra frölunda",
                 "last_accept": 1075,
                 "$last_seen": "2023-12-28T08:37:12.912Z"
+              },
+              {
+                "id": 109639,
+                "rent": 11220,
+                "area": 77,
+                "street": "speldosegatan",
+                "street_number": "2",
+                "city": "västra frölunda",
+                "zip": "42151",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "västra frölunda",
+                "last_accept": 909,
+                "$last_seen": "2024-01-05T09:35:43.922Z"
               }
             ],
             "tamburingatan": [
@@ -80303,6 +80345,20 @@
                 "$districtName": "malmö sankt petri",
                 "last_accept": 868,
                 "$last_seen": "2023-08-06T13:40:33.865Z"
+              },
+              {
+                "id": 109268,
+                "rent": 9081,
+                "area": 48,
+                "street": "maribogatan",
+                "street_number": "3",
+                "city": "malmö",
+                "zip": "21741",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "malmö sankt petri",
+                "last_accept": 1061,
+                "$last_seen": "2024-01-05T09:35:43.922Z"
               }
             ],
             "stormgatan": [
@@ -87733,6 +87789,20 @@
                 "$districtName": "limhamn",
                 "last_accept": 638,
                 "$last_seen": "2023-12-06T07:35:48.053Z"
+              },
+              {
+                "id": 108775,
+                "rent": 5637,
+                "area": 35.5,
+                "street": "tegnergatan",
+                "street_number": "23 b",
+                "city": "limhamn",
+                "zip": "21612",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "limhamn",
+                "last_accept": 298,
+                "$last_seen": "2024-01-05T09:35:43.922Z"
               }
             ],
             "hyllie kyrkoväg": [
