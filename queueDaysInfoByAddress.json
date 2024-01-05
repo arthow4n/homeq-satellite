@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-01-05T12:53:33.778Z",
+  "lastUpdatedAt": "2024-01-05T13:36:37.653Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -13083,6 +13083,34 @@
                 "$districtName": "högsbo",
                 "last_accept": 721,
                 "$last_seen": "2024-01-03T10:39:33.582Z"
+              },
+              {
+                "id": 108743,
+                "rent": 8990,
+                "area": 47.7,
+                "street": "nymilsgatan",
+                "street_number": "45",
+                "city": "göteborg",
+                "zip": "42170",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 890,
+                "$last_seen": "2024-01-05T12:53:33.778Z"
+              },
+              {
+                "id": 108744,
+                "rent": 11676,
+                "area": 66.7,
+                "street": "nymilsgatan",
+                "street_number": "43",
+                "city": "göteborg",
+                "zip": "42170",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 1181,
+                "$last_seen": "2024-01-05T12:53:33.778Z"
               }
             ],
             "pennygången": [
@@ -24135,6 +24163,20 @@
                 "$districtName": "lundby",
                 "last_accept": 1756,
                 "$last_seen": "2023-12-11T14:41:32.982Z"
+              },
+              {
+                "id": 108801,
+                "rent": 6820,
+                "area": 54,
+                "street": "arvid lindmansgatan",
+                "street_number": "26 b",
+                "city": "göteborg",
+                "zip": "41726",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1539,
+                "$last_seen": "2024-01-05T12:53:33.778Z"
               },
               {
                 "id": 109300,
