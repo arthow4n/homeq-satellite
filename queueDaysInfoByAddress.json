@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-01-05T10:40:34.934Z",
+  "lastUpdatedAt": "2024-01-05T11:35:36.916Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -3901,6 +3901,20 @@
                 "$districtName": "fässberg",
                 "last_accept": 1401,
                 "$last_seen": "2024-01-03T08:37:52.036Z"
+              },
+              {
+                "id": 108712,
+                "rent": 9598,
+                "area": 40,
+                "street": "åby allé",
+                "street_number": "71",
+                "city": "göteborg",
+                "zip": "43145",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 1164,
+                "$last_seen": "2024-01-05T10:40:34.934Z"
               }
             ],
             "åbyvägen": [
@@ -54287,6 +54301,20 @@
                 "$districtName": "örgryte",
                 "last_accept": 1395,
                 "$last_seen": "2024-01-04T06:39:46.668Z"
+              },
+              {
+                "id": 110154,
+                "rent": 10679,
+                "area": 76,
+                "street": "mejerigatan",
+                "street_number": "14",
+                "city": "göteborg",
+                "zip": "41276",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1516,
+                "$last_seen": "2024-01-05T10:40:34.934Z"
               }
             ],
             "filmjölksgatan": [
