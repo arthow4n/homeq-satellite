@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-01-09T09:36:10.253Z",
+  "lastUpdatedAt": "2024-01-09T10:42:09.946Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -10567,6 +10567,20 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1875,
                 "$last_seen": "2023-12-22T07:33:21.174Z"
+              },
+              {
+                "id": 109596,
+                "rent": 14905,
+                "area": 105,
+                "street": "pontus wiknersgatan",
+                "street_number": "1",
+                "city": "göteborg",
+                "zip": "41132",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1827,
+                "$last_seen": "2024-01-09T09:36:10.253Z"
               }
             ],
             "sylvestergatan": [
@@ -51291,6 +51305,20 @@
                 "$districtName": "örgryte",
                 "last_accept": 1619,
                 "$last_seen": "2023-12-13T07:36:15.837Z"
+              },
+              {
+                "id": 109024,
+                "rent": 6220,
+                "area": 39,
+                "street": "smörgatan",
+                "street_number": "7",
+                "city": "göteborg",
+                "zip": "41276",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1506,
+                "$last_seen": "2024-01-09T09:36:10.253Z"
               }
             ],
             "prästgårdsängen": [
