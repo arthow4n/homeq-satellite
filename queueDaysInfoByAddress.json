@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-01-09T12:56:26.821Z",
+  "lastUpdatedAt": "2024-01-09T13:45:41.647Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -10437,6 +10437,20 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1866,
                 "$last_seen": "2023-12-21T11:33:11.827Z"
+              },
+              {
+                "id": 110548,
+                "rent": 4803,
+                "area": 34,
+                "street": "övre besvärsgatan",
+                "street_number": "4",
+                "city": "göteborg",
+                "zip": "41129",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 0,
+                "$last_seen": "2024-01-09T12:56:26.821Z"
               }
             ],
             "utlandagatan": [
@@ -94489,6 +94503,20 @@
                 "$districtName": "hammarby",
                 "last_accept": 30,
                 "$last_seen": "2023-12-06T08:40:20.415Z"
+              },
+              {
+                "id": 110297,
+                "rent": 8332,
+                "area": 33,
+                "street": "dragonvägen",
+                "street_number": "17b",
+                "city": "stockholm",
+                "zip": "19470",
+                "municipality": "upplands väsby",
+                "county": "stockholms län",
+                "$districtName": "hammarby",
+                "last_accept": 315,
+                "$last_seen": "2024-01-09T12:56:26.821Z"
               }
             ]
           }
