@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-01-10T09:36:27.890Z",
+  "lastUpdatedAt": "2024-01-10T10:41:58.760Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -21611,6 +21611,20 @@
                 "$districtName": "lundby",
                 "last_accept": 1541,
                 "$last_seen": "2023-12-21T07:33:16.816Z"
+              },
+              {
+                "id": 109581,
+                "rent": 6917,
+                "area": 54,
+                "street": "hällskriftsgatan",
+                "street_number": "2 b",
+                "city": "göteborg",
+                "zip": "41726",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1663,
+                "$last_seen": "2024-01-10T09:36:27.890Z"
               }
             ],
             "fyrklöversgatan": [
@@ -72763,6 +72777,20 @@
                 "$districtName": "gunnared",
                 "last_accept": 827,
                 "$last_seen": "2023-12-05T07:36:37.219Z"
+              },
+              {
+                "id": 109328,
+                "rent": 7408,
+                "area": 54,
+                "street": "lagerbladsgatan",
+                "street_number": "2",
+                "city": "göteborg",
+                "zip": "42440",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "gunnared",
+                "last_accept": 1202,
+                "$last_seen": "2024-01-10T09:36:27.890Z"
               }
             ],
             "gårdstensvägen": [
@@ -76829,6 +76857,20 @@
                 "$districtName": "tynnered",
                 "last_accept": 1494,
                 "$last_seen": "2024-01-10T08:40:43.363Z"
+              },
+              {
+                "id": 110222,
+                "rent": 9356,
+                "area": 81,
+                "street": "smyckegatan",
+                "street_number": "38",
+                "city": "västra frölunda",
+                "zip": "42650",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tynnered",
+                "last_accept": 1501,
+                "$last_seen": "2024-01-10T09:36:27.890Z"
               },
               {
                 "id": 110226,
@@ -85057,6 +85099,20 @@
                 "$districtName": "hyllie",
                 "last_accept": 0,
                 "$last_seen": "2023-12-14T07:35:54.594Z"
+              },
+              {
+                "id": 109307,
+                "rent": 9296,
+                "area": 50,
+                "street": "tors gränd",
+                "street_number": "2",
+                "city": "malmö",
+                "zip": "21534",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "hyllie",
+                "last_accept": 255,
+                "$last_seen": "2024-01-10T09:36:27.890Z"
               }
             ],
             "allétorget": [
@@ -86275,6 +86331,20 @@
                 "$districtName": "västra skrävlinge",
                 "last_accept": 30,
                 "$last_seen": "2024-01-03T11:34:31.758Z"
+              },
+              {
+                "id": 109378,
+                "rent": 6058,
+                "area": 51,
+                "street": "ramels väg",
+                "street_number": "33",
+                "city": "malmö",
+                "zip": "21368",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "västra skrävlinge",
+                "last_accept": 195,
+                "$last_seen": "2024-01-10T09:36:27.890Z"
               }
             ]
           },
