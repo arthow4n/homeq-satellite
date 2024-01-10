@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-01-10T06:41:55.729Z",
+  "lastUpdatedAt": "2024-01-10T07:36:22.115Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -88445,6 +88445,20 @@
                 "$districtName": "limhamn",
                 "last_accept": 104,
                 "$last_seen": "2023-11-17T12:52:37.069Z"
+              },
+              {
+                "id": 109792,
+                "rent": 6411,
+                "area": 55,
+                "street": "glasbruksgatan",
+                "street_number": "4b",
+                "city": "limhamn",
+                "zip": "21614",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "limhamn",
+                "last_accept": 644,
+                "$last_seen": "2024-01-10T06:41:55.729Z"
               }
             ]
           }
