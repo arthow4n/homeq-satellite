@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-01-10T13:38:43.858Z",
+  "lastUpdatedAt": "2024-01-10T14:40:13.069Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -16933,6 +16933,20 @@
                 "$districtName": "högsbo",
                 "last_accept": 958,
                 "$last_seen": "2023-12-21T13:38:23.681Z"
+              },
+              {
+                "id": 109388,
+                "rent": 7563,
+                "area": 35,
+                "street": "sjupundsgatan",
+                "street_number": "21",
+                "city": "göteborg",
+                "zip": "41481",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 1088,
+                "$last_seen": "2024-01-10T13:38:43.858Z"
               }
             ],
             "handelsmyntet": [
