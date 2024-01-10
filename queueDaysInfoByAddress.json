@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-01-10T08:40:43.363Z",
+  "lastUpdatedAt": "2024-01-10T09:36:27.890Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -55977,6 +55977,20 @@
                 "$districtName": "örgryte",
                 "last_accept": 978,
                 "$last_seen": "2023-12-18T05:38:15.263Z"
+              },
+              {
+                "id": 109240,
+                "rent": 7875,
+                "area": 35,
+                "street": "separatorsgatan",
+                "street_number": "10",
+                "city": "göteborg",
+                "zip": "41278",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1565,
+                "$last_seen": "2024-01-10T08:40:43.363Z"
               }
             ],
             "påskbergsgatan": [
@@ -76801,6 +76815,20 @@
                 "$districtName": "tynnered",
                 "last_accept": 1777,
                 "$last_seen": "2024-01-09T10:42:09.946Z"
+              },
+              {
+                "id": 109928,
+                "rent": 9390,
+                "area": 81,
+                "street": "smyckegatan",
+                "street_number": "52",
+                "city": "västra frölunda",
+                "zip": "42650",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tynnered",
+                "last_accept": 1494,
+                "$last_seen": "2024-01-10T08:40:43.363Z"
               },
               {
                 "id": 110226,
