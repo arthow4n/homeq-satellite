@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-01-11T11:36:47.723Z",
+  "lastUpdatedAt": "2024-01-11T12:56:02.683Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -81283,6 +81283,20 @@
                 "$districtName": "malmö sankt petri",
                 "last_accept": 1729,
                 "$last_seen": "2024-01-08T07:36:01.481Z"
+              },
+              {
+                "id": 109396,
+                "rent": 16886,
+                "area": 118,
+                "street": "v rönneholmsvägen",
+                "street_number": "37 a",
+                "city": "malmö",
+                "zip": "21741",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "malmö sankt petri",
+                "last_accept": 489,
+                "$last_seen": "2024-01-11T11:36:47.723Z"
               }
             ],
             "stora kvarng": [
