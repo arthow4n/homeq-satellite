@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-01-11T07:36:59.122Z",
+  "lastUpdatedAt": "2024-01-11T08:41:24.704Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -11277,6 +11277,20 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1777,
                 "$last_seen": "2023-11-20T08:39:00.065Z"
+              },
+              {
+                "id": 109283,
+                "rent": 10173,
+                "area": 65,
+                "street": "örnehufvudsgatan",
+                "street_number": "7",
+                "city": "göteborg",
+                "zip": "41259",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1881,
+                "$last_seen": "2024-01-11T07:36:59.122Z"
               }
             ],
             "viktor rydbergsgatan": [
@@ -17739,6 +17753,20 @@
                 "$districtName": "brämaregården",
                 "last_accept": 1163,
                 "$last_seen": "2023-12-21T11:33:11.827Z"
+              },
+              {
+                "id": 109271,
+                "rent": 8293,
+                "area": 44,
+                "street": "gustaf dalénsgatan",
+                "street_number": "7 e",
+                "city": "göteborg",
+                "zip": "41723",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brämaregården",
+                "last_accept": 1605,
+                "$last_seen": "2024-01-11T07:36:59.122Z"
               }
             ],
             "lantmätaregatan": [
@@ -36043,6 +36071,20 @@
                 "$districtName": "kortedala",
                 "last_accept": 1542,
                 "$last_seen": "2023-07-11T09:41:55.789Z"
+              },
+              {
+                "id": 109289,
+                "rent": 5633,
+                "area": 39,
+                "street": "kalendervägen",
+                "street_number": "117d",
+                "city": "göteborg",
+                "zip": "41538",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "kortedala",
+                "last_accept": 930,
+                "$last_seen": "2024-01-11T07:36:59.122Z"
               }
             ],
             "nymånegatan": [
@@ -47534,6 +47576,22 @@
                 "last_accept": 1836,
                 "$last_seen": "2023-12-12T13:38:10.227Z"
               }
+            ],
+            "kärralundsgatan": [
+              {
+                "id": 109340,
+                "rent": 7075,
+                "area": 56,
+                "street": "kärralundsgatan",
+                "street_number": "63b",
+                "city": "göteborg",
+                "zip": "41656",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "härlanda",
+                "last_accept": 1829,
+                "$last_seen": "2024-01-11T07:36:59.122Z"
+              }
             ]
           },
           "göteborgs domkyrkodistrikt": {
@@ -50631,6 +50689,20 @@
                 "$districtName": "göteborgs domkyrkodistrikt",
                 "last_accept": 1603,
                 "$last_seen": "2023-05-30T09:40:37.261Z"
+              },
+              {
+                "id": 109321,
+                "rent": 14300,
+                "area": 87,
+                "street": "kungsportsavenyn",
+                "street_number": "1",
+                "city": "göteborg",
+                "zip": "41136",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs domkyrkodistrikt",
+                "last_accept": 1829,
+                "$last_seen": "2024-01-11T07:36:59.122Z"
               }
             ],
             "götabergsgatan": [
@@ -81619,6 +81691,20 @@
                 "$districtName": "möllevången",
                 "last_accept": 48,
                 "$last_seen": "2023-11-30T14:40:16.434Z"
+              },
+              {
+                "id": 109376,
+                "rent": 6207,
+                "area": 50,
+                "street": "sigtunagatan",
+                "street_number": "6",
+                "city": "malmö",
+                "zip": "21429",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "möllevången",
+                "last_accept": 1162,
+                "$last_seen": "2024-01-11T07:36:59.122Z"
               }
             ],
             "södra förstadsgatan": [
