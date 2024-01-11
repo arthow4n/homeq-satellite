@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-01-11T15:37:48.126Z",
+  "lastUpdatedAt": "2024-01-11T16:44:42.882Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -5749,6 +5749,34 @@
                 "$districtName": "kållered",
                 "last_accept": 1200,
                 "$last_seen": "2023-12-21T11:33:11.827Z"
+              },
+              {
+                "id": 108945,
+                "rent": 7251,
+                "area": 63,
+                "street": "våmmedalsvägen",
+                "street_number": "132",
+                "city": "kållered",
+                "zip": "42831",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "kållered",
+                "last_accept": 1417,
+                "$last_seen": "2024-01-11T15:37:48.126Z"
+              },
+              {
+                "id": 108953,
+                "rent": 7818,
+                "area": 63,
+                "street": "våmmedalsvägen",
+                "street_number": "112",
+                "city": "kållered",
+                "zip": "42831",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "kållered",
+                "last_accept": 1225,
+                "$last_seen": "2024-01-11T15:37:48.126Z"
               }
             ],
             "streteredsvägen": [
@@ -60141,6 +60169,20 @@
                 "$districtName": "göteborgs vasa",
                 "last_accept": 1800,
                 "$last_seen": "2023-12-14T08:40:20.900Z"
+              },
+              {
+                "id": 110194,
+                "rent": 6207,
+                "area": 30,
+                "street": "karl gustavsgatan",
+                "street_number": "42",
+                "city": "göteborg",
+                "zip": "41131",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs vasa",
+                "last_accept": 1698,
+                "$last_seen": "2024-01-11T15:37:48.126Z"
               }
             ],
             "mölndalsvägen": [
