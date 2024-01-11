@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-01-11T12:56:02.683Z",
+  "lastUpdatedAt": "2024-01-11T13:38:52.380Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -73691,6 +73691,20 @@
                 "$districtName": "göteborgs karl johan",
                 "last_accept": 1724,
                 "$last_seen": "2023-08-03T07:38:04.786Z"
+              },
+              {
+                "id": 110121,
+                "rent": 7886,
+                "area": 63,
+                "street": "karl johansgatan",
+                "street_number": "64",
+                "city": "göteborg ",
+                "zip": "41455",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs karl johan",
+                "last_accept": 1829,
+                "$last_seen": "2024-01-11T12:56:02.683Z"
               }
             ]
           },
