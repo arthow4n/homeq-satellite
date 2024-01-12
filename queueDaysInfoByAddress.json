@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-01-12T14:39:56.105Z",
+  "lastUpdatedAt": "2024-01-12T15:36:50.201Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -597,6 +597,20 @@
                 "$districtName": "fässberg",
                 "last_accept": 1796,
                 "$last_seen": "2023-12-11T12:56:40.940Z"
+              },
+              {
+                "id": 109583,
+                "rent": 4911,
+                "area": 44,
+                "street": "stenbrogatan",
+                "street_number": "1 b",
+                "city": "mölndal",
+                "zip": "43143",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 1827,
+                "$last_seen": "2024-01-12T14:39:56.105Z"
               }
             ],
             "berghemsgatan": [
@@ -80891,6 +80905,20 @@
                 "$districtName": "malmö sankt petri",
                 "last_accept": 548,
                 "$last_seen": "2023-11-15T16:48:02.110Z"
+              },
+              {
+                "id": 109550,
+                "rent": 11256,
+                "area": 58,
+                "street": "lilla varvsgatan",
+                "street_number": "24",
+                "city": "malmö",
+                "zip": "21175",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "malmö sankt petri",
+                "last_accept": 724,
+                "$last_seen": "2024-01-12T14:39:56.105Z"
               }
             ],
             "stora trädgårdsgatan": [
