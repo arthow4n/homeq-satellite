@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-01-12T11:36:21.910Z",
+  "lastUpdatedAt": "2024-01-12T12:54:26.415Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -20243,6 +20243,20 @@
                 "$districtName": "brämaregården",
                 "last_accept": 1800,
                 "$last_seen": "2023-12-12T08:41:31.159Z"
+              },
+              {
+                "id": 109558,
+                "rent": 9018,
+                "area": 56,
+                "street": "lindholmsallén",
+                "street_number": "47",
+                "city": "göteborg",
+                "zip": "41753",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brämaregården",
+                "last_accept": 1830,
+                "$last_seen": "2024-01-12T11:36:21.910Z"
               }
             ]
           },
@@ -33287,6 +33301,20 @@
                 "$districtName": "björkekärr",
                 "last_accept": 1056,
                 "$last_seen": "2024-01-08T11:35:52.269Z"
+              },
+              {
+                "id": 109599,
+                "rent": 5328,
+                "area": 22,
+                "street": "smörslätten",
+                "street_number": "6",
+                "city": "göteborg",
+                "zip": "41677",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "björkekärr",
+                "last_accept": 901,
+                "$last_seen": "2024-01-12T11:36:21.910Z"
               }
             ],
             "lådspikaregatan": [
@@ -37939,6 +37967,20 @@
                 "$districtName": "askim",
                 "last_accept": 1016,
                 "$last_seen": "2024-01-08T07:36:01.481Z"
+              },
+              {
+                "id": 109395,
+                "rent": 9628,
+                "area": 65,
+                "street": "pilegården",
+                "street_number": "1c",
+                "city": "göteborg",
+                "zip": "43635",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 998,
+                "$last_seen": "2024-01-12T11:36:21.910Z"
               }
             ],
             "nergårdsvägen": [
@@ -49459,6 +49501,20 @@
                 "$districtName": "göteborgs domkyrkodistrikt",
                 "last_accept": 1424,
                 "$last_seen": "2023-12-05T07:36:37.219Z"
+              },
+              {
+                "id": 110469,
+                "rent": 6774,
+                "area": 34,
+                "street": "bangårdsgatan",
+                "street_number": "15",
+                "city": "göteborg",
+                "zip": "41112",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs domkyrkodistrikt",
+                "last_accept": 1436,
+                "$last_seen": "2024-01-12T11:36:21.910Z"
               }
             ],
             "burggreveplatsen": [
@@ -75297,6 +75353,20 @@
                 "$districtName": "brunnsbo",
                 "last_accept": 1261,
                 "$last_seen": "2023-12-12T10:42:38.128Z"
+              },
+              {
+                "id": 109341,
+                "rent": 8463,
+                "area": 60,
+                "street": "sångspelsgatan",
+                "street_number": "2",
+                "city": "hisings backa",
+                "zip": "42241",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brunnsbo",
+                "last_accept": 1419,
+                "$last_seen": "2024-01-12T11:36:21.910Z"
               },
               {
                 "id": 109570,
