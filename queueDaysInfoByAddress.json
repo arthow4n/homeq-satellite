@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-01-12T09:36:36.862Z",
+  "lastUpdatedAt": "2024-01-12T10:42:10.615Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -11571,6 +11571,20 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1816,
                 "$last_seen": "2023-12-15T08:39:54.265Z"
+              },
+              {
+                "id": 109727,
+                "rent": 6637,
+                "area": 36,
+                "street": "helmutsrogatan",
+                "street_number": "7 b",
+                "city": "göteborg",
+                "zip": "41264",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1698,
+                "$last_seen": "2024-01-12T09:36:36.862Z"
               }
             ],
             "thorburnsgatan": [
@@ -15325,6 +15339,34 @@
                 "$districtName": "högsbo",
                 "last_accept": 1076,
                 "$last_seen": "2023-12-29T07:33:36.363Z"
+              },
+              {
+                "id": 110342,
+                "rent": 10766,
+                "area": 83,
+                "street": "pennygången",
+                "street_number": "44",
+                "city": "göteborg",
+                "zip": "41482",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 1450,
+                "$last_seen": "2024-01-12T09:36:36.862Z"
+              },
+              {
+                "id": 110351,
+                "rent": 10758,
+                "area": 83,
+                "street": "pennygången",
+                "street_number": "98",
+                "city": "göteborg",
+                "zip": "41482",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 1396,
+                "$last_seen": "2024-01-12T09:36:36.862Z"
               }
             ],
             "skäpplandsgatan": [
@@ -86201,6 +86243,20 @@
                 "$districtName": "hyllie",
                 "last_accept": 15,
                 "$last_seen": "2024-01-08T13:38:12.033Z"
+              },
+              {
+                "id": 109184,
+                "rent": 9140,
+                "area": 52.9,
+                "street": "hyllie vattenparksgata",
+                "street_number": "37",
+                "city": "malmö",
+                "zip": "21536",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "hyllie",
+                "last_accept": 165,
+                "$last_seen": "2024-01-12T09:36:36.862Z"
               }
             ],
             "svansjögatan": [
@@ -92237,6 +92293,20 @@
                 "$districtName": "vantör",
                 "last_accept": 1808,
                 "$last_seen": "2024-01-12T08:41:16.555Z"
+              },
+              {
+                "id": 109482,
+                "rent": 10639,
+                "area": 78,
+                "street": "hagsätra torg",
+                "street_number": "10",
+                "city": "bandhagen",
+                "zip": "12473",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 1808,
+                "$last_seen": "2024-01-12T09:36:36.862Z"
               }
             ],
             "pålsbodagränd": [
