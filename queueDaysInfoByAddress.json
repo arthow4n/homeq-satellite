@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-01-12T10:42:10.615Z",
+  "lastUpdatedAt": "2024-01-12T11:36:21.910Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -86288,6 +86288,22 @@
                 "last_accept": 181,
                 "$last_seen": "2023-10-10T08:44:30.313Z"
               }
+            ],
+            "dagvattengatan": [
+              {
+                "id": 108882,
+                "rent": 7967,
+                "area": 44.5,
+                "street": "dagvattengatan",
+                "street_number": "18",
+                "city": "malmö",
+                "zip": "21531",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "hyllie",
+                "last_accept": 296,
+                "$last_seen": "2024-01-12T10:42:10.615Z"
+              }
             ]
           },
           "västra skrävlinge": {
@@ -88037,6 +88053,20 @@
                 "$districtName": "limhamn",
                 "last_accept": 0,
                 "$last_seen": "2024-01-11T13:38:52.380Z"
+              },
+              {
+                "id": 109994,
+                "rent": 11402,
+                "area": 68,
+                "street": "blåsebergavägen",
+                "street_number": "12",
+                "city": "limhamn",
+                "zip": "21633",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "limhamn",
+                "last_accept": 347,
+                "$last_seen": "2024-01-12T10:42:10.615Z"
               }
             ],
             "birger jarlsgatan": [
