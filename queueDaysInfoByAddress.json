@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-01-15T17:38:40.193Z",
+  "lastUpdatedAt": "2024-01-15T18:40:15.347Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -12437,6 +12437,20 @@
                 "$districtName": "högsbo",
                 "last_accept": 1644,
                 "$last_seen": "2023-12-04T14:41:14.020Z"
+              },
+              {
+                "id": 110355,
+                "rent": 10000,
+                "area": 76,
+                "street": "synhållsgatan",
+                "street_number": "13",
+                "city": "göteborg",
+                "zip": "42173",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 1656,
+                "$last_seen": "2024-01-15T17:38:40.193Z"
               }
             ],
             "nymilsgatan": [
@@ -30267,6 +30281,20 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1394,
                 "$last_seen": "2023-12-21T23:33:50.679Z"
+              },
+              {
+                "id": 110346,
+                "rent": 9400,
+                "area": 78,
+                "street": "sankt pauligatan",
+                "street_number": "32 b",
+                "city": "göteborg",
+                "zip": "41660",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1833,
+                "$last_seen": "2024-01-15T17:38:40.193Z"
               }
             ],
             "liedstrandsgatan": [
