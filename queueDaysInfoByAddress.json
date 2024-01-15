@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-01-14T23:36:33.537Z",
+  "lastUpdatedAt": "2024-01-15T01:48:46.211Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -26275,6 +26275,20 @@
                 "$districtName": "lundby",
                 "last_accept": 904,
                 "$last_seen": "2023-06-25T11:43:44.492Z"
+              },
+              {
+                "id": 109734,
+                "rent": 16000,
+                "area": 100,
+                "street": "gamla lundbygatan",
+                "street_number": "17",
+                "city": "göteborg",
+                "zip": "41875",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1694,
+                "$last_seen": "2024-01-14T23:36:33.537Z"
               }
             ],
             "östra keillersgatan": [
@@ -26865,6 +26879,20 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1768,
                 "$last_seen": "2023-11-15T16:48:02.110Z"
+              },
+              {
+                "id": 109667,
+                "rent": 7707,
+                "area": 33,
+                "street": "ulfsparregatan",
+                "street_number": "18",
+                "city": "göteborg",
+                "zip": "41657",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1546,
+                "$last_seen": "2024-01-14T23:36:33.537Z"
               }
             ],
             "kobbarnas väg": [
@@ -28121,20 +28149,6 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1806,
                 "$last_seen": "2023-12-21T15:33:34.459Z"
-              },
-              {
-                "id": 109608,
-                "rent": 11136,
-                "area": 79,
-                "street": "redbergsvägen",
-                "street_number": "38",
-                "city": "göteborg",
-                "zip": "41665",
-                "municipality": "göteborg",
-                "county": "västra götalands län",
-                "$districtName": "göteborgs sankt pauli",
-                "last_accept": 1832,
-                "$last_seen": "2024-01-14T22:39:31.249Z"
               }
             ],
             "kungälvsgatan": [
