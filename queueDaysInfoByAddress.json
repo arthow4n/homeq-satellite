@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-01-15T14:40:38.635Z",
+  "lastUpdatedAt": "2024-01-15T15:37:31.003Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -70807,6 +70807,20 @@
                 "$districtName": "biskopsgården",
                 "last_accept": 1547,
                 "$last_seen": "2024-01-12T08:41:16.555Z"
+              },
+              {
+                "id": 110306,
+                "rent": 10909,
+                "area": 83,
+                "street": "långströmsgatan",
+                "street_number": "30c",
+                "city": "göteborg",
+                "zip": "41870",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "biskopsgården",
+                "last_accept": 983,
+                "$last_seen": "2024-01-15T14:40:38.635Z"
               }
             ],
             "lufttrycksgatan": [
@@ -78627,6 +78641,20 @@
                 "$districtName": "västra frölunda",
                 "last_accept": 909,
                 "$last_seen": "2024-01-05T09:35:43.922Z"
+              },
+              {
+                "id": 110483,
+                "rent": 11482,
+                "area": 80,
+                "street": "speldosegatan",
+                "street_number": "4",
+                "city": "västra frölunda",
+                "zip": "42151",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "västra frölunda",
+                "last_accept": 819,
+                "$last_seen": "2024-01-15T14:40:38.635Z"
               }
             ],
             "tamburingatan": [
@@ -90993,6 +91021,22 @@
                 "$districtName": "bunkeflo",
                 "last_accept": 650,
                 "$last_seen": "2023-12-31T07:33:42.395Z"
+              }
+            ],
+            "blågransgatan": [
+              {
+                "id": 109882,
+                "rent": 9826,
+                "area": 84,
+                "street": "blågransgatan",
+                "street_number": "9",
+                "city": "bunkeflostrand",
+                "zip": "21837",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "bunkeflo",
+                "last_accept": 938,
+                "$last_seen": "2024-01-15T14:40:38.635Z"
               }
             ]
           }
