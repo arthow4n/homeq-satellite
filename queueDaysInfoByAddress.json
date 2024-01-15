@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-01-15T20:36:23.229Z",
+  "lastUpdatedAt": "2024-01-15T21:36:05.404Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -91077,6 +91077,22 @@
                 "$districtName": "bunkeflo",
                 "last_accept": 650,
                 "$last_seen": "2023-12-31T07:33:42.395Z"
+              }
+            ],
+            "blågransgatan": [
+              {
+                "id": 109882,
+                "rent": 9826,
+                "area": 84,
+                "street": "blågransgatan",
+                "street_number": "9",
+                "city": "bunkeflostrand",
+                "zip": "21837",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "bunkeflo",
+                "last_accept": 938,
+                "$last_seen": "2024-01-15T20:36:23.229Z"
               }
             ]
           }
