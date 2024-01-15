@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-01-15T12:56:37.968Z",
+  "lastUpdatedAt": "2024-01-15T13:39:17.841Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -59423,6 +59423,20 @@
                 "$districtName": "annedal",
                 "last_accept": 1729,
                 "$last_seen": "2023-10-03T06:44:01.349Z"
+              },
+              {
+                "id": 110172,
+                "rent": 8698,
+                "area": 64,
+                "street": "seminariegatan",
+                "street_number": "4",
+                "city": "göteborg",
+                "zip": "41313",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "annedal",
+                "last_accept": 1832,
+                "$last_seen": "2024-01-15T12:56:37.968Z"
               }
             ],
             "guldhedstorget": [
@@ -85545,6 +85559,20 @@
                 "$districtName": "hyllie",
                 "last_accept": 121,
                 "$last_seen": "2023-12-11T12:56:40.940Z"
+              },
+              {
+                "id": 109883,
+                "rent": 10930,
+                "area": 76,
+                "street": "hålsjögatan",
+                "street_number": "3 b",
+                "city": "malmö",
+                "zip": "21766",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "hyllie",
+                "last_accept": 256,
+                "$last_seen": "2024-01-15T12:56:37.968Z"
               }
             ],
             "hyllie allé": [
