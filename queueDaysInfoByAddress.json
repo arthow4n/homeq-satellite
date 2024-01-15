@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-01-15T10:43:49.723Z",
+  "lastUpdatedAt": "2024-01-15T11:36:16.975Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -47779,6 +47779,20 @@
                 "$districtName": "härlanda",
                 "last_accept": 1841,
                 "$last_seen": "2024-01-02T11:34:00.747Z"
+              },
+              {
+                "id": 109863,
+                "rent": 8498,
+                "area": 75,
+                "street": "fräntorpsgatan",
+                "street_number": "2a",
+                "city": "göteborg",
+                "zip": "41676",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "härlanda",
+                "last_accept": 1820,
+                "$last_seen": "2024-01-15T10:43:49.723Z"
               }
             ],
             "ahrenbergsgatan": [
