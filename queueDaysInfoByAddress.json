@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-01-16T22:39:39.652Z",
+  "lastUpdatedAt": "2024-01-16T23:35:53.651Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -49879,6 +49879,20 @@
                 "$districtName": "göteborgs domkyrkodistrikt",
                 "last_accept": 1424,
                 "$last_seen": "2023-12-05T07:36:37.219Z"
+              },
+              {
+                "id": 109956,
+                "rent": 9898,
+                "area": 55,
+                "street": "bangårdsgatan",
+                "street_number": "15",
+                "city": "göteborg",
+                "zip": "41112",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs domkyrkodistrikt",
+                "last_accept": 1612,
+                "$last_seen": "2024-01-16T22:39:39.652Z"
               },
               {
                 "id": 110469,
