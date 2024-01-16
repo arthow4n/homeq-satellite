@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-01-16T12:55:09.442Z",
+  "lastUpdatedAt": "2024-01-16T13:37:54.511Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -10563,6 +10563,20 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1866,
                 "$last_seen": "2023-12-21T11:33:11.827Z"
+              },
+              {
+                "id": 110319,
+                "rent": 12797,
+                "area": 118,
+                "street": "övre besvärsgatan",
+                "street_number": "7",
+                "city": "göteborg",
+                "zip": "41129",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1835,
+                "$last_seen": "2024-01-16T12:55:09.442Z"
               },
               {
                 "id": 110548,
@@ -40271,6 +40285,20 @@
                 "$districtName": "askim",
                 "last_accept": 1219,
                 "$last_seen": "2024-01-08T10:42:27.755Z"
+              },
+              {
+                "id": 110496,
+                "rent": 5876,
+                "area": 33,
+                "street": "kobbegården",
+                "street_number": "63",
+                "city": "göteborg",
+                "zip": "43637",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 1024,
+                "$last_seen": "2024-01-16T12:55:09.442Z"
               }
             ],
             "ugglegården": [
@@ -77783,6 +77811,20 @@
                 "$districtName": "tynnered",
                 "last_accept": 1066,
                 "$last_seen": "2024-01-10T07:36:22.115Z"
+              },
+              {
+                "id": 110227,
+                "rent": 8531,
+                "area": 69,
+                "street": "smyckegatan",
+                "street_number": "25",
+                "city": "västra frölunda",
+                "zip": "42650",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tynnered",
+                "last_accept": 0,
+                "$last_seen": "2024-01-16T12:55:09.442Z"
               }
             ],
             "björkhöjdsgatan": [
