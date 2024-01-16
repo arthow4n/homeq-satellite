@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-01-16T10:42:16.912Z",
+  "lastUpdatedAt": "2024-01-16T11:36:07.944Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -26399,6 +26399,34 @@
                 "$districtName": "lundby",
                 "last_accept": 1179,
                 "$last_seen": "2023-12-14T11:36:00.968Z"
+              },
+              {
+                "id": 109187,
+                "rent": 8151,
+                "area": 35.6,
+                "street": "korstörnegatan",
+                "street_number": "4",
+                "city": "göteborg",
+                "zip": "41715",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 996,
+                "$last_seen": "2024-01-16T10:42:16.912Z"
+              },
+              {
+                "id": 109875,
+                "rent": 11495,
+                "area": 60.2,
+                "street": "korstörnegatan",
+                "street_number": "4",
+                "city": "göteborg",
+                "zip": "41715",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1182,
+                "$last_seen": "2024-01-16T10:42:16.912Z"
               }
             ],
             "gamla lundbygatan": [
@@ -79901,6 +79929,20 @@
                 "$districtName": "partille",
                 "last_accept": 762,
                 "$last_seen": "2023-12-19T12:52:04.306Z"
+              },
+              {
+                "id": 110392,
+                "rent": 8457,
+                "area": 57,
+                "street": "stärteredsvägen",
+                "street_number": "29",
+                "city": "jonsered",
+                "zip": "43375",
+                "municipality": "partille",
+                "county": "västra götalands län",
+                "$districtName": "partille",
+                "last_accept": 1208,
+                "$last_seen": "2024-01-16T10:42:16.912Z"
               }
             ],
             "länsmansvägen": [
@@ -93559,6 +93601,20 @@
                 "$districtName": "vantör",
                 "last_accept": 1762,
                 "$last_seen": "2023-07-06T08:50:35.868Z"
+              },
+              {
+                "id": 110149,
+                "rent": 6738,
+                "area": 57,
+                "street": "trollesundsvägen",
+                "street_number": "74",
+                "city": "bandhagen",
+                "zip": "12457",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 2282,
+                "$last_seen": "2024-01-16T10:42:16.912Z"
               }
             ]
           }
