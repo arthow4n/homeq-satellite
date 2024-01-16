@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-01-15T23:36:15.455Z",
+  "lastUpdatedAt": "2024-01-16T01:45:33.257Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -89308,20 +89308,6 @@
                 "county": "skåne län",
                 "$districtName": "limhamn",
                 "last_accept": 0,
-                "$last_seen": "2024-01-15T22:39:32.364Z"
-              },
-              {
-                "id": 109870,
-                "rent": 5008,
-                "area": 33,
-                "street": "grönalundsgatan",
-                "street_number": "1 a",
-                "city": "limhamn",
-                "zip": "21616",
-                "municipality": "malmö",
-                "county": "skåne län",
-                "$districtName": "limhamn",
-                "last_accept": 381,
                 "$last_seen": "2024-01-15T22:39:32.364Z"
               }
             ],
