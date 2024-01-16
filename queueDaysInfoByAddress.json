@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-01-16T14:39:32.201Z",
+  "lastUpdatedAt": "2024-01-16T15:36:52.688Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -40285,6 +40285,20 @@
                 "$districtName": "askim",
                 "last_accept": 1219,
                 "$last_seen": "2024-01-08T10:42:27.755Z"
+              },
+              {
+                "id": 110366,
+                "rent": 8776,
+                "area": 63,
+                "street": "kobbegården",
+                "street_number": "61",
+                "city": "göteborg",
+                "zip": "43637",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 1412,
+                "$last_seen": "2024-01-16T14:39:32.201Z"
               },
               {
                 "id": 110496,
@@ -90975,6 +90989,20 @@
                 "$districtName": "bunkeflo",
                 "last_accept": 0,
                 "$last_seen": "2023-11-20T11:33:31.276Z"
+              },
+              {
+                "id": 108472,
+                "rent": 8802,
+                "area": 60.7,
+                "street": "smedmästarebyn",
+                "street_number": "2j",
+                "city": "bunkeflostrand",
+                "zip": "21841",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "bunkeflo",
+                "last_accept": 0,
+                "$last_seen": "2024-01-16T14:39:32.201Z"
               }
             ],
             "skräddarebyn": [
@@ -94553,6 +94581,20 @@
                 "$districtName": "skärholmen",
                 "last_accept": 499,
                 "$last_seen": "2024-01-03T09:34:23.651Z"
+              },
+              {
+                "id": 110018,
+                "rent": 8551,
+                "area": 35,
+                "street": "vårbergsvägen",
+                "street_number": "79",
+                "city": "stockholm",
+                "zip": "12743",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "skärholmen",
+                "last_accept": 512,
+                "$last_seen": "2024-01-16T14:39:32.201Z"
               },
               {
                 "id": 110020,
