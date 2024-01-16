@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-01-16T09:36:16.963Z",
+  "lastUpdatedAt": "2024-01-16T10:42:16.912Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -46057,6 +46057,20 @@
                 "$districtName": "nylöse",
                 "last_accept": 1066,
                 "$last_seen": "2023-10-16T13:43:16.181Z"
+              },
+              {
+                "id": 109212,
+                "rent": 13154,
+                "area": 81.6,
+                "street": "hinderbanan",
+                "street_number": "32",
+                "city": "göteborg",
+                "zip": "41523",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "nylöse",
+                "last_accept": 960,
+                "$last_seen": "2024-01-16T09:36:16.963Z"
               }
             ],
             "gamlestadsvägen": [
@@ -53441,6 +53455,20 @@
                 "$districtName": "örgryte",
                 "last_accept": 1134,
                 "$last_seen": "2023-12-04T11:35:58.992Z"
+              },
+              {
+                "id": 109877,
+                "rent": 13006,
+                "area": 76,
+                "street": "smörkärnegatan",
+                "street_number": "21",
+                "city": "göteborg",
+                "zip": "41278",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1448,
+                "$last_seen": "2024-01-16T09:36:16.963Z"
               }
             ],
             "tändsticksgatan": [
