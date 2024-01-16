@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-01-16T06:41:44.694Z",
+  "lastUpdatedAt": "2024-01-16T07:36:09.088Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -5805,6 +5805,20 @@
                 "$districtName": "kållered",
                 "last_accept": 1225,
                 "$last_seen": "2024-01-11T15:37:48.126Z"
+              },
+              {
+                "id": 110463,
+                "rent": 6920,
+                "area": 63,
+                "street": "våmmedalsvägen",
+                "street_number": "132",
+                "city": "kållered",
+                "zip": "42831",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "kållered",
+                "last_accept": 1458,
+                "$last_seen": "2024-01-16T06:41:44.694Z"
               }
             ],
             "streteredsvägen": [
@@ -83231,6 +83245,20 @@
                 "$districtName": "limhamn",
                 "last_accept": 0,
                 "$last_seen": "2024-01-12T15:36:50.201Z"
+              },
+              {
+                "id": 109762,
+                "rent": 13309,
+                "area": 83,
+                "street": "nätsnäcksgränd",
+                "street_number": "9",
+                "city": "malmö",
+                "zip": "21631",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "limhamn",
+                "last_accept": 356,
+                "$last_seen": "2024-01-16T06:41:44.694Z"
               }
             ],
             "dammsnäcksgränd": [
@@ -89295,20 +89323,6 @@
                 "$districtName": "limhamn",
                 "last_accept": 140,
                 "$last_seen": "2023-11-22T14:39:20.978Z"
-              },
-              {
-                "id": 109860,
-                "rent": 9444,
-                "area": 72,
-                "street": "grönalundsgatan",
-                "street_number": "1 a",
-                "city": "limhamn",
-                "zip": "21616",
-                "municipality": "malmö",
-                "county": "skåne län",
-                "$districtName": "limhamn",
-                "last_accept": 0,
-                "$last_seen": "2024-01-15T22:39:32.364Z"
               }
             ],
             "västra bernadottesgatan": [
