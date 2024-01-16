@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-01-16T13:37:54.511Z",
+  "lastUpdatedAt": "2024-01-16T14:39:32.201Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -62501,6 +62501,20 @@
                 "$districtName": "göteborgs vasa",
                 "last_accept": 1812,
                 "$last_seen": "2024-01-02T11:34:00.747Z"
+              },
+              {
+                "id": 110153,
+                "rent": 9294,
+                "area": 41,
+                "street": "teatergatan",
+                "street_number": "32",
+                "city": "göteborg",
+                "zip": "41135",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs vasa",
+                "last_accept": 1820,
+                "$last_seen": "2024-01-16T13:37:54.511Z"
               }
             ],
             "lorensbergsgatan": [
