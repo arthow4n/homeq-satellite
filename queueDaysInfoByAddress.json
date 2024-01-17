@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-01-17T14:38:27.380Z",
+  "lastUpdatedAt": "2024-01-17T15:36:16.128Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -46167,6 +46167,20 @@
                 "$districtName": "nylöse",
                 "last_accept": 0,
                 "$last_seen": "2023-12-14T13:41:36.344Z"
+              },
+              {
+                "id": 110380,
+                "rent": 9549,
+                "area": 54,
+                "street": "sysslomansgatan",
+                "street_number": "44",
+                "city": "göteborg",
+                "zip": "40422",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "nylöse",
+                "last_accept": 306,
+                "$last_seen": "2024-01-17T14:38:27.380Z"
               }
             ],
             "hinderbanan": [
@@ -47887,6 +47901,20 @@
                 "$districtName": "härlanda",
                 "last_accept": 1654,
                 "$last_seen": "2023-11-15T16:48:02.110Z"
+              },
+              {
+                "id": 110305,
+                "rent": 5516,
+                "area": 47,
+                "street": "qvidingsgatan",
+                "street_number": "4 b",
+                "city": "göteborg",
+                "zip": "41651",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "härlanda",
+                "last_accept": 1832,
+                "$last_seen": "2024-01-17T14:38:27.380Z"
               }
             ],
             "stobeégatan": [
@@ -48141,6 +48169,20 @@
                 "$districtName": "härlanda",
                 "last_accept": 1660,
                 "$last_seen": "2023-09-22T07:40:28.691Z"
+              },
+              {
+                "id": 110391,
+                "rent": 4833,
+                "area": 39,
+                "street": "stobeegatan",
+                "street_number": "8 c",
+                "city": "göteborg",
+                "zip": "41653",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "härlanda",
+                "last_accept": 1751,
+                "$last_seen": "2024-01-17T14:38:27.380Z"
               }
             ],
             "fräntorpsgatan": [
@@ -57842,20 +57884,6 @@
                 "county": "västra götalands län",
                 "$districtName": "västra frölunda",
                 "last_accept": 555,
-                "$last_seen": "2024-01-17T13:37:19.181Z"
-              },
-              {
-                "id": 110230,
-                "rent": 7369,
-                "area": 29.1,
-                "street": "altplatsen",
-                "street_number": "3",
-                "city": "göteborg",
-                "zip": "42141",
-                "municipality": "göteborg",
-                "county": "västra götalands län",
-                "$districtName": "västra frölunda",
-                "last_accept": 202,
                 "$last_seen": "2024-01-17T13:37:19.181Z"
               }
             ]
@@ -90833,6 +90861,20 @@
                 "$districtName": "bunkeflo",
                 "last_accept": 0,
                 "$last_seen": "2023-12-12T23:36:08.919Z"
+              },
+              {
+                "id": 110180,
+                "rent": 9782,
+                "area": 70,
+                "street": "sadelmakarebyn",
+                "street_number": "8c",
+                "city": "bunkeflostrand",
+                "zip": "21840",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "bunkeflo",
+                "last_accept": 0,
+                "$last_seen": "2024-01-17T14:38:27.380Z"
               }
             ],
             "skomakarebyn": [
