@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-01-17T10:42:07.122Z",
+  "lastUpdatedAt": "2024-01-17T11:35:42.647Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -26255,6 +26255,20 @@
                 "$districtName": "lundby",
                 "last_accept": 1581,
                 "$last_seen": "2023-09-01T10:45:23.492Z"
+              },
+              {
+                "id": 110110,
+                "rent": 7797,
+                "area": 66,
+                "street": "västanvindsgatan",
+                "street_number": "2a",
+                "city": "göteborg",
+                "zip": "41717",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1708,
+                "$last_seen": "2024-01-17T10:42:07.122Z"
               }
             ],
             "pilegårdsgatan": [
@@ -68661,6 +68675,20 @@
                 "$districtName": "biskopsgården",
                 "last_accept": 1156,
                 "$last_seen": "2023-12-19T14:36:51.502Z"
+              },
+              {
+                "id": 110116,
+                "rent": 7960,
+                "area": 64,
+                "street": "temperaturgatan",
+                "street_number": "59",
+                "city": "göteborg",
+                "zip": "41841",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "biskopsgården",
+                "last_accept": 554,
+                "$last_seen": "2024-01-17T10:42:07.122Z"
               }
             ],
             "solstrålegatan": [
