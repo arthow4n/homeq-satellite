@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-01-17T13:37:19.181Z",
+  "lastUpdatedAt": "2024-01-17T14:38:27.380Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -8683,6 +8683,20 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1775,
                 "$last_seen": "2023-12-05T11:36:37.870Z"
+              },
+              {
+                "id": 109986,
+                "rent": 15900,
+                "area": 120,
+                "street": "norra krokslättsgatan",
+                "street_number": "10",
+                "city": "göteborg",
+                "zip": "41264",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1814,
+                "$last_seen": "2024-01-17T13:37:19.181Z"
               }
             ],
             "norgårdsgatan": [
@@ -10591,6 +10605,20 @@
                 "$districtName": "johanneberg",
                 "last_accept": 0,
                 "$last_seen": "2024-01-09T12:56:26.821Z"
+              },
+              {
+                "id": 110698,
+                "rent": 7582,
+                "area": 61,
+                "street": "övre besvärsgatan",
+                "street_number": "6",
+                "city": "göteborg",
+                "zip": "41129",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1141,
+                "$last_seen": "2024-01-17T13:37:19.181Z"
               }
             ],
             "utlandagatan": [
@@ -17155,6 +17183,20 @@
                 "$districtName": "högsbo",
                 "last_accept": 1314,
                 "$last_seen": "2023-12-08T09:36:15.943Z"
+              },
+              {
+                "id": 109946,
+                "rent": 11100,
+                "area": 67,
+                "street": "lilla tunnlandsgatan",
+                "street_number": "7",
+                "city": "göteborg",
+                "zip": "41477",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 1729,
+                "$last_seen": "2024-01-17T13:37:19.181Z"
               }
             ],
             "sjupundsgatan": [
@@ -57786,6 +57828,36 @@
                 "last_accept": 1009,
                 "$last_seen": "2023-06-19T11:44:24.858Z"
               }
+            ],
+            "altplatsen": [
+              {
+                "id": 110224,
+                "rent": 7369,
+                "area": 29.1,
+                "street": "altplatsen",
+                "street_number": "3",
+                "city": "göteborg",
+                "zip": "42141",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "västra frölunda",
+                "last_accept": 555,
+                "$last_seen": "2024-01-17T13:37:19.181Z"
+              },
+              {
+                "id": 110230,
+                "rent": 7369,
+                "area": 29.1,
+                "street": "altplatsen",
+                "street_number": "3",
+                "city": "göteborg",
+                "zip": "42141",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "västra frölunda",
+                "last_accept": 202,
+                "$last_seen": "2024-01-17T13:37:19.181Z"
+              }
             ]
           },
           "annedal": {
@@ -75025,6 +75097,20 @@
                 "$districtName": "haga",
                 "last_accept": 1813,
                 "$last_seen": "2023-12-05T07:36:37.219Z"
+              },
+              {
+                "id": 110644,
+                "rent": 8973,
+                "area": 75,
+                "street": "nilssonsberg",
+                "street_number": "30",
+                "city": "göteborg ",
+                "zip": "41143",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "haga",
+                "last_accept": 1927,
+                "$last_seen": "2024-01-17T13:37:19.181Z"
               }
             ]
           },
@@ -80535,6 +80621,20 @@
                 "$districtName": "partille",
                 "last_accept": 1588,
                 "$last_seen": "2023-04-18T05:43:13.269Z"
+              },
+              {
+                "id": 110871,
+                "rent": 4592,
+                "area": 48,
+                "street": "kyrkogatan",
+                "street_number": "8 a",
+                "city": "jonsered",
+                "zip": "43375",
+                "municipality": "partille",
+                "county": "västra götalands län",
+                "$districtName": "partille",
+                "last_accept": 1453,
+                "$last_seen": "2024-01-17T13:37:19.181Z"
               }
             ],
             "björkelundsvägen": [
