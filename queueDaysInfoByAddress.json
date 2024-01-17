@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-01-17T11:35:42.647Z",
+  "lastUpdatedAt": "2024-01-17T12:55:00.036Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -10635,6 +10635,20 @@
                 "$districtName": "johanneberg",
                 "last_accept": 316,
                 "$last_seen": "2023-07-02T11:41:46.885Z"
+              },
+              {
+                "id": 110197,
+                "rent": 7522,
+                "area": 42,
+                "street": "utlandagatan",
+                "street_number": "31",
+                "city": "göteborg",
+                "zip": "41261",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1808,
+                "$last_seen": "2024-01-17T11:35:42.647Z"
               }
             ],
             "pontus wiknersgatan": [
@@ -30619,6 +30633,48 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1767,
                 "$last_seen": "2023-11-10T10:44:34.033Z"
+              },
+              {
+                "id": 109990,
+                "rent": 7994,
+                "area": 49,
+                "street": "liedstrandsgatan",
+                "street_number": "8",
+                "city": "göteborg",
+                "zip": "41658",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1731,
+                "$last_seen": "2024-01-17T11:35:42.647Z"
+              },
+              {
+                "id": 109993,
+                "rent": 7667,
+                "area": 49,
+                "street": "liedstrandsgatan",
+                "street_number": "2",
+                "city": "göteborg",
+                "zip": "41658",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1832,
+                "$last_seen": "2024-01-17T11:35:42.647Z"
+              },
+              {
+                "id": 110009,
+                "rent": 10031,
+                "area": 64,
+                "street": "liedstrandsgatan",
+                "street_number": "6",
+                "city": "göteborg",
+                "zip": "41658",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1831,
+                "$last_seen": "2024-01-17T11:35:42.647Z"
               }
             ],
             "övre olskroksgatan": [
@@ -50641,6 +50697,20 @@
                 "$districtName": "göteborgs domkyrkodistrikt",
                 "last_accept": 1311,
                 "$last_seen": "2023-09-27T09:40:19.378Z"
+              },
+              {
+                "id": 110119,
+                "rent": 7030,
+                "area": 39,
+                "street": "friggagatan",
+                "street_number": "9a",
+                "city": "göteborg",
+                "zip": "41101",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs domkyrkodistrikt",
+                "last_accept": 1693,
+                "$last_seen": "2024-01-17T11:35:42.647Z"
               }
             ],
             "sten sturegatan": [
@@ -62443,6 +62513,20 @@
                 "$districtName": "göteborgs vasa",
                 "last_accept": 1504,
                 "$last_seen": "2023-02-20T11:36:49.526Z"
+              },
+              {
+                "id": 110592,
+                "rent": 12578,
+                "area": 92,
+                "street": "kungsportsavenyn",
+                "street_number": "43",
+                "city": "göteborg",
+                "zip": "41136",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs vasa",
+                "last_accept": 1832,
+                "$last_seen": "2024-01-17T11:35:42.647Z"
               }
             ],
             "teatergatan": [
@@ -62813,6 +62897,20 @@
                 "$districtName": "göteborgs vasa",
                 "last_accept": 1611,
                 "$last_seen": "2023-06-07T14:44:35.139Z"
+              },
+              {
+                "id": 109966,
+                "rent": 9300,
+                "area": 61,
+                "street": "arkivgatan",
+                "street_number": "12",
+                "city": "göteborg",
+                "zip": "41134",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs vasa",
+                "last_accept": 1835,
+                "$last_seen": "2024-01-17T11:35:42.647Z"
               }
             ],
             "kungsportsavenyen": [
@@ -71843,6 +71941,34 @@
                 "$districtName": "tuve",
                 "last_accept": 790,
                 "$last_seen": "2023-12-08T08:40:25.199Z"
+              },
+              {
+                "id": 109943,
+                "rent": 11556,
+                "area": 73,
+                "street": "herman anderssons väg",
+                "street_number": "2",
+                "city": "göteborg",
+                "zip": "41747",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tuve",
+                "last_accept": 831,
+                "$last_seen": "2024-01-17T11:35:42.647Z"
+              },
+              {
+                "id": 109947,
+                "rent": 8775,
+                "area": 49.5,
+                "street": "herman anderssons väg",
+                "street_number": "2",
+                "city": "göteborg",
+                "zip": "41747",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tuve",
+                "last_accept": 439,
+                "$last_seen": "2024-01-17T11:35:42.647Z"
               }
             ],
             "gunnestorpsvägen": [
@@ -72099,6 +72225,20 @@
                 "$districtName": "tuve",
                 "last_accept": 554,
                 "$last_seen": "2023-09-27T07:40:28.530Z"
+              },
+              {
+                "id": 110114,
+                "rent": 9440,
+                "area": 55,
+                "street": "gubbe lars väg",
+                "street_number": "1",
+                "city": "göteborg",
+                "zip": "41747",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tuve",
+                "last_accept": 899,
+                "$last_seen": "2024-01-17T11:35:42.647Z"
               }
             ],
             "arves marias väg": [
@@ -72397,6 +72537,20 @@
                 "$districtName": "tuve",
                 "last_accept": 595,
                 "$last_seen": "2023-11-15T16:48:02.110Z"
+              },
+              {
+                "id": 110107,
+                "rent": 10235,
+                "area": 63,
+                "street": "finlandsvägen",
+                "street_number": "51",
+                "city": "göteborg",
+                "zip": "41747",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tuve",
+                "last_accept": 427,
+                "$last_seen": "2024-01-17T11:35:42.647Z"
               }
             ],
             "fruktträdsgatan": [
@@ -82023,6 +82177,20 @@
                 "$districtName": "malmö sankt petri",
                 "last_accept": 757,
                 "$last_seen": "2024-01-15T07:36:36.006Z"
+              },
+              {
+                "id": 111005,
+                "rent": 10241,
+                "area": 63,
+                "street": "kalendegatan",
+                "street_number": "16",
+                "city": "malmö",
+                "zip": "21135",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "malmö sankt petri",
+                "last_accept": 677,
+                "$last_seen": "2024-01-17T11:35:42.647Z"
               }
             ],
             "dagvattengatan": [
@@ -84453,6 +84621,20 @@
                 "$districtName": "kirseberg",
                 "last_accept": 0,
                 "$last_seen": "2023-12-13T09:36:21.612Z"
+              },
+              {
+                "id": 110196,
+                "rent": 8887,
+                "area": 55,
+                "street": "lundavägen",
+                "street_number": "33",
+                "city": "malmö",
+                "zip": "21219",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "kirseberg",
+                "last_accept": 71,
+                "$last_seen": "2024-01-17T11:35:42.647Z"
               },
               {
                 "id": 110654,
