@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-01-17T07:35:30.685Z",
+  "lastUpdatedAt": "2024-01-17T08:40:54.203Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -78977,20 +78977,6 @@
                 "$districtName": "västra frölunda",
                 "last_accept": 909,
                 "$last_seen": "2024-01-05T09:35:43.922Z"
-              },
-              {
-                "id": 110483,
-                "rent": 11482,
-                "area": 80,
-                "street": "speldosegatan",
-                "street_number": "4",
-                "city": "västra frölunda",
-                "zip": "42151",
-                "municipality": "göteborg",
-                "county": "västra götalands län",
-                "$districtName": "västra frölunda",
-                "last_accept": 819,
-                "$last_seen": "2024-01-15T14:40:38.635Z"
               }
             ],
             "tamburingatan": [
@@ -84341,6 +84327,20 @@
                 "$districtName": "kirseberg",
                 "last_accept": 0,
                 "$last_seen": "2023-12-13T09:36:21.612Z"
+              },
+              {
+                "id": 110654,
+                "rent": 7256,
+                "area": 52,
+                "street": "lundavägen",
+                "street_number": "55c",
+                "city": "malmö",
+                "zip": "21224",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "kirseberg",
+                "last_accept": 11,
+                "$last_seen": "2024-01-17T07:35:30.685Z"
               }
             ],
             "högamöllegatan": [
