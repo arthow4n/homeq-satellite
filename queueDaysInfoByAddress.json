@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-01-17T12:55:00.036Z",
+  "lastUpdatedAt": "2024-01-17T13:37:19.181Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -62769,6 +62769,20 @@
                 "$last_seen": "2024-01-02T11:34:00.747Z"
               },
               {
+                "id": 109997,
+                "rent": 18042,
+                "area": 91,
+                "street": "teatergatan",
+                "street_number": "36",
+                "city": "göteborg",
+                "zip": "41135",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs vasa",
+                "last_accept": 1832,
+                "$last_seen": "2024-01-17T12:55:00.036Z"
+              },
+              {
                 "id": 110153,
                 "rent": 9294,
                 "area": 41,
@@ -94365,6 +94379,20 @@
                 "$districtName": "hässelby",
                 "last_accept": 1829,
                 "$last_seen": "2023-11-06T07:39:58.090Z"
+              },
+              {
+                "id": 110795,
+                "rent": 4563,
+                "area": 26,
+                "street": "enspännargatan",
+                "street_number": "14",
+                "city": "hässelby",
+                "zip": "16557",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "hässelby",
+                "last_accept": 1108,
+                "$last_seen": "2024-01-17T12:55:00.036Z"
               }
             ]
           }
