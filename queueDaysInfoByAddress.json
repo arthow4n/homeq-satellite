@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-01-17T09:36:12.113Z",
+  "lastUpdatedAt": "2024-01-17T10:42:07.122Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -16041,6 +16041,34 @@
                 "$districtName": "högsbo",
                 "last_accept": 1469,
                 "$last_seen": "2023-11-27T09:35:57.535Z"
+              },
+              {
+                "id": 109987,
+                "rent": 8140,
+                "area": 56,
+                "street": "skäpplandsgatan",
+                "street_number": "21",
+                "city": "göteborg",
+                "zip": "41478",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 1656,
+                "$last_seen": "2024-01-17T09:36:12.113Z"
+              },
+              {
+                "id": 109995,
+                "rent": 8350,
+                "area": 56,
+                "street": "skäpplandsgatan",
+                "street_number": "25",
+                "city": "göteborg",
+                "zip": "41478",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 1589,
+                "$last_seen": "2024-01-17T09:36:12.113Z"
               }
             ],
             "marklandsgatan": [
@@ -38289,6 +38317,20 @@
                 "$districtName": "askim",
                 "last_accept": 998,
                 "$last_seen": "2024-01-12T11:36:21.910Z"
+              },
+              {
+                "id": 110807,
+                "rent": 13535,
+                "area": 97,
+                "street": "pilegården",
+                "street_number": "6 d",
+                "city": "göteborg",
+                "zip": "43635",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 1336,
+                "$last_seen": "2024-01-17T09:36:12.113Z"
               }
             ],
             "nergårdsvägen": [
@@ -54185,6 +54227,34 @@
                 "$districtName": "örgryte",
                 "last_accept": 820,
                 "$last_seen": "2023-12-05T12:55:25.763Z"
+              },
+              {
+                "id": 110025,
+                "rent": 11537,
+                "area": 54,
+                "street": "tändsticksgatan",
+                "street_number": "2",
+                "city": "göteborg",
+                "zip": "41263",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 931,
+                "$last_seen": "2024-01-17T09:36:12.113Z"
+              },
+              {
+                "id": 110101,
+                "rent": 10890,
+                "area": 54,
+                "street": "tändsticksgatan",
+                "street_number": "2",
+                "city": "göteborg",
+                "zip": "41263",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1505,
+                "$last_seen": "2024-01-17T09:36:12.113Z"
               }
             ],
             "gräddgatan": [
@@ -60869,6 +60939,20 @@
                 "$districtName": "göteborgs vasa",
                 "last_accept": 1698,
                 "$last_seen": "2024-01-11T15:37:48.126Z"
+              },
+              {
+                "id": 110304,
+                "rent": 6960,
+                "area": 38,
+                "street": "karl gustavsgatan",
+                "street_number": "42",
+                "city": "göteborg",
+                "zip": "41131",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs vasa",
+                "last_accept": 1829,
+                "$last_seen": "2024-01-17T09:36:12.113Z"
               }
             ],
             "mölndalsvägen": [
