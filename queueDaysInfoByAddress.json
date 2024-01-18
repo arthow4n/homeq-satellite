@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-01-18T07:35:20.430Z",
+  "lastUpdatedAt": "2024-01-18T08:39:46.708Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -35277,6 +35277,20 @@
                 "$districtName": "kortedala",
                 "last_accept": 1420,
                 "$last_seen": "2024-01-11T13:38:52.380Z"
+              },
+              {
+                "id": 110219,
+                "rent": 6258,
+                "area": 62.5,
+                "street": "januarigatan",
+                "street_number": "19",
+                "city": "göteborg",
+                "zip": "41515",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "kortedala",
+                "last_accept": 1269,
+                "$last_seen": "2024-01-18T07:35:20.430Z"
               }
             ],
             "solvarvsgatan": [
@@ -57870,22 +57884,6 @@
                 "last_accept": 1009,
                 "$last_seen": "2023-06-19T11:44:24.858Z"
               }
-            ],
-            "altplatsen": [
-              {
-                "id": 110224,
-                "rent": 7369,
-                "area": 29.1,
-                "street": "altplatsen",
-                "street_number": "3",
-                "city": "göteborg",
-                "zip": "42141",
-                "municipality": "göteborg",
-                "county": "västra götalands län",
-                "$districtName": "västra frölunda",
-                "last_accept": 555,
-                "$last_seen": "2024-01-17T13:37:19.181Z"
-              }
             ]
           },
           "annedal": {
@@ -79385,6 +79383,20 @@
                 "$districtName": "västra frölunda",
                 "last_accept": 909,
                 "$last_seen": "2024-01-05T09:35:43.922Z"
+              },
+              {
+                "id": 110483,
+                "rent": 11482,
+                "area": 80,
+                "street": "speldosegatan",
+                "street_number": "4",
+                "city": "västra frölunda",
+                "zip": "42151",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "västra frölunda",
+                "last_accept": 822,
+                "$last_seen": "2024-01-18T07:35:20.430Z"
               }
             ],
             "tamburingatan": [
@@ -90861,20 +90873,6 @@
                 "$districtName": "bunkeflo",
                 "last_accept": 0,
                 "$last_seen": "2023-12-12T23:36:08.919Z"
-              },
-              {
-                "id": 110180,
-                "rent": 9782,
-                "area": 70,
-                "street": "sadelmakarebyn",
-                "street_number": "8c",
-                "city": "bunkeflostrand",
-                "zip": "21840",
-                "municipality": "malmö",
-                "county": "skåne län",
-                "$districtName": "bunkeflo",
-                "last_accept": 0,
-                "$last_seen": "2024-01-17T14:38:27.380Z"
               }
             ],
             "skomakarebyn": [
@@ -93757,6 +93755,20 @@
                 "$districtName": "vantör",
                 "last_accept": 1842,
                 "$last_seen": "2023-12-04T09:36:58.517Z"
+              },
+              {
+                "id": 110189,
+                "rent": 9555,
+                "area": 89,
+                "street": "pålsbodagränd",
+                "street_number": "11",
+                "city": "bandhagen",
+                "zip": "12475",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 1878,
+                "$last_seen": "2024-01-18T07:35:20.430Z"
               }
             ],
             "bäverdammsgränd": [
@@ -96681,6 +96693,20 @@
                 "$districtName": "hammarby",
                 "last_accept": 315,
                 "$last_seen": "2024-01-09T12:56:26.821Z"
+              },
+              {
+                "id": 110443,
+                "rent": 12097,
+                "area": 68,
+                "street": "dragonvägen",
+                "street_number": "11",
+                "city": "stockholm",
+                "zip": "19470",
+                "municipality": "upplands väsby",
+                "county": "stockholms län",
+                "$districtName": "hammarby",
+                "last_accept": 911,
+                "$last_seen": "2024-01-18T07:35:20.430Z"
               }
             ]
           }
