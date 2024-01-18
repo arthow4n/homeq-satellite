@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-01-18T13:37:42.324Z",
+  "lastUpdatedAt": "2024-01-18T14:38:55.722Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -32047,6 +32047,20 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1752,
                 "$last_seen": "2023-10-27T07:38:25.339Z"
+              },
+              {
+                "id": 110200,
+                "rent": 13125,
+                "area": 95,
+                "street": "norra gubberogatan",
+                "street_number": "28",
+                "city": "göteborg",
+                "zip": "41663",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1796,
+                "$last_seen": "2024-01-18T13:37:42.324Z"
               }
             ],
             "räntmästaregatan": [
@@ -53931,6 +53945,20 @@
                 "$districtName": "örgryte",
                 "last_accept": 1448,
                 "$last_seen": "2024-01-16T09:36:16.963Z"
+              },
+              {
+                "id": 110228,
+                "rent": 12799,
+                "area": 76,
+                "street": "smörkärnegatan",
+                "street_number": "21",
+                "city": "göteborg",
+                "zip": "41278",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1424,
+                "$last_seen": "2024-01-18T13:37:42.324Z"
               }
             ],
             "tändsticksgatan": [
@@ -82795,6 +82823,20 @@
                 "$districtName": "malmö sankt petri",
                 "last_accept": 671,
                 "$last_seen": "2023-09-07T09:43:04.520Z"
+              },
+              {
+                "id": 110195,
+                "rent": 10412,
+                "area": 64,
+                "street": "rörsjögatan",
+                "street_number": "9",
+                "city": "malmö",
+                "zip": "21137",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "malmö sankt petri",
+                "last_accept": 761,
+                "$last_seen": "2024-01-18T13:37:42.324Z"
               }
             ],
             "v rönneholmsvägen": [
