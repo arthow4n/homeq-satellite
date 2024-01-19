@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-01-19T07:35:17.623Z",
+  "lastUpdatedAt": "2024-01-19T08:40:02.292Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -22087,6 +22087,20 @@
                 "$districtName": "lundby",
                 "last_accept": 1663,
                 "$last_seen": "2024-01-10T09:36:27.890Z"
+              },
+              {
+                "id": 110674,
+                "rent": 6359,
+                "area": 51,
+                "street": "hällskriftsgatan",
+                "street_number": "8 c",
+                "city": "göteborg",
+                "zip": "41726",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1577,
+                "$last_seen": "2024-01-19T07:35:17.623Z"
               }
             ],
             "fyrklöversgatan": [
@@ -28541,6 +28555,20 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1833,
                 "$last_seen": "2024-01-15T07:36:36.006Z"
+              },
+              {
+                "id": 110559,
+                "rent": 7130,
+                "area": 46,
+                "street": "redbergsvägen",
+                "street_number": "5",
+                "city": "göteborg",
+                "zip": "41665",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1816,
+                "$last_seen": "2024-01-19T07:35:17.623Z"
               }
             ],
             "kungälvsgatan": [
@@ -72975,6 +73003,20 @@
                 "$districtName": "tuve",
                 "last_accept": 1402,
                 "$last_seen": "2023-12-07T08:40:59.229Z"
+              },
+              {
+                "id": 110495,
+                "rent": 10958,
+                "area": 65,
+                "street": "fruktträdsgatan",
+                "street_number": "3",
+                "city": "göteborg",
+                "zip": "41749",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tuve",
+                "last_accept": 1614,
+                "$last_seen": "2024-01-19T07:35:17.623Z"
               }
             ]
           },
@@ -79553,20 +79595,6 @@
                 "$districtName": "västra frölunda",
                 "last_accept": 909,
                 "$last_seen": "2024-01-05T09:35:43.922Z"
-              },
-              {
-                "id": 110483,
-                "rent": 11482,
-                "area": 80,
-                "street": "speldosegatan",
-                "street_number": "4",
-                "city": "västra frölunda",
-                "zip": "42151",
-                "municipality": "göteborg",
-                "county": "västra götalands län",
-                "$districtName": "västra frölunda",
-                "last_accept": 822,
-                "$last_seen": "2024-01-18T07:35:20.430Z"
               }
             ],
             "tamburingatan": [
