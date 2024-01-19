@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-01-19T13:37:03.418Z",
+  "lastUpdatedAt": "2024-01-19T14:38:49.686Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -59083,6 +59083,20 @@
                 "$districtName": "annedal",
                 "last_accept": 1809,
                 "$last_seen": "2023-12-22T11:33:31.656Z"
+              },
+              {
+                "id": 111018,
+                "rent": 12612,
+                "area": 72,
+                "street": "övre husargatan",
+                "street_number": "30",
+                "city": "göteborg",
+                "zip": "41314",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "annedal",
+                "last_accept": 1837,
+                "$last_seen": "2024-01-19T13:37:03.418Z"
               }
             ],
             "carl grimbergsgatan": [
@@ -64739,6 +64753,20 @@
                 "$districtName": "göteborgs oscar fredrik",
                 "last_accept": 1873,
                 "$last_seen": "2023-12-20T12:44:41.520Z"
+              },
+              {
+                "id": 110800,
+                "rent": 10229,
+                "area": 59,
+                "street": "jungmansgatan",
+                "street_number": "33a",
+                "city": "göteborg",
+                "zip": "41315",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs oscar fredrik",
+                "last_accept": 1836,
+                "$last_seen": "2024-01-19T13:37:03.418Z"
               }
             ],
             "gubbe lars väg": [
@@ -76827,6 +76855,20 @@
                 "$districtName": "brunnsbo",
                 "last_accept": 1078,
                 "$last_seen": "2024-01-18T12:54:20.940Z"
+              },
+              {
+                "id": 111012,
+                "rent": 8600,
+                "area": 60,
+                "street": "poesigatan",
+                "street_number": "6",
+                "city": "hisings backa",
+                "zip": "42241",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brunnsbo",
+                "last_accept": 1061,
+                "$last_seen": "2024-01-19T13:37:03.418Z"
               }
             ]
           }
