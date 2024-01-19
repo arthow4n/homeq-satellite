@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-01-19T15:35:24.417Z",
+  "lastUpdatedAt": "2024-01-19T16:44:13.989Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -51929,6 +51929,20 @@
                 "$districtName": "göteborgs domkyrkodistrikt",
                 "last_accept": 0,
                 "$last_seen": "2023-06-21T11:45:54.903Z"
+              },
+              {
+                "id": 110398,
+                "rent": 14111,
+                "area": 100,
+                "street": "vasagatan",
+                "street_number": "34c",
+                "city": "göteborg",
+                "zip": "41124",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs domkyrkodistrikt",
+                "last_accept": 1877,
+                "$last_seen": "2024-01-19T15:35:24.417Z"
               }
             ],
             "galileisgata": [
