@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-01-19T12:54:14.093Z",
+  "lastUpdatedAt": "2024-01-19T13:37:03.418Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -55915,6 +55915,20 @@
                 "$last_seen": "2024-01-05T10:40:34.934Z"
               },
               {
+                "id": 110525,
+                "rent": 10670,
+                "area": 76,
+                "street": "mejerigatan",
+                "street_number": "12",
+                "city": "göteborg",
+                "zip": "41276",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1534,
+                "$last_seen": "2024-01-19T12:54:14.093Z"
+              },
+              {
                 "id": 110783,
                 "rent": 10679,
                 "area": 76,
@@ -79721,6 +79735,20 @@
                 "$districtName": "västra frölunda",
                 "last_accept": 909,
                 "$last_seen": "2024-01-05T09:35:43.922Z"
+              },
+              {
+                "id": 110483,
+                "rent": 11482,
+                "area": 80,
+                "street": "speldosegatan",
+                "street_number": "4",
+                "city": "västra frölunda",
+                "zip": "42151",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "västra frölunda",
+                "last_accept": 823,
+                "$last_seen": "2024-01-19T12:54:14.093Z"
               }
             ],
             "tamburingatan": [
@@ -94941,6 +94969,20 @@
                 "$districtName": "hässelby",
                 "last_accept": 1108,
                 "$last_seen": "2024-01-17T12:55:00.036Z"
+              },
+              {
+                "id": 110809,
+                "rent": 5866,
+                "area": 33,
+                "street": "enspännargatan",
+                "street_number": "14 a",
+                "city": "hässelby",
+                "zip": "16557",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "hässelby",
+                "last_accept": 1157,
+                "$last_seen": "2024-01-19T12:54:14.093Z"
               }
             ]
           }
@@ -95079,6 +95121,20 @@
                 "$districtName": "hässelby",
                 "last_accept": 1102,
                 "$last_seen": "2023-09-25T13:42:38.050Z"
+              },
+              {
+                "id": 110660,
+                "rent": 8684,
+                "area": 58.8,
+                "street": "persikogatan",
+                "street_number": "4",
+                "city": "stockholm",
+                "zip": "16563",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "hässelby",
+                "last_accept": 1250,
+                "$last_seen": "2024-01-19T12:54:14.093Z"
               }
             ]
           },
@@ -96141,6 +96197,20 @@
                 "$districtName": "skarpnäck",
                 "last_accept": 1844,
                 "$last_seen": "2023-09-21T15:41:06.922Z"
+              },
+              {
+                "id": 110480,
+                "rent": 9772,
+                "area": 76,
+                "street": "tätorpsvägen",
+                "street_number": "21 b",
+                "city": "skarpnäck",
+                "zip": "12831",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "skarpnäck",
+                "last_accept": 1881,
+                "$last_seen": "2024-01-19T12:54:14.093Z"
               }
             ]
           }
