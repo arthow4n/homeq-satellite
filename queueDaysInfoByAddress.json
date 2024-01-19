@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-01-19T11:35:34.768Z",
+  "lastUpdatedAt": "2024-01-19T12:54:14.093Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -921,6 +921,20 @@
                 "$districtName": "fässberg",
                 "last_accept": 1792,
                 "$last_seen": "2023-12-18T16:42:56.324Z"
+              },
+              {
+                "id": 110785,
+                "rent": 12586,
+                "area": 96,
+                "street": "berghemsgatan",
+                "street_number": "24",
+                "city": "mölndal",
+                "zip": "43137",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 1834,
+                "$last_seen": "2024-01-19T11:35:34.768Z"
               }
             ],
             "brogatan": [
@@ -41467,6 +41481,20 @@
                 "$districtName": "askim",
                 "last_accept": 185,
                 "$last_seen": "2024-01-04T09:34:49.990Z"
+              },
+              {
+                "id": 110610,
+                "rent": 10360,
+                "area": 53,
+                "street": "askims pilegårdsväg",
+                "street_number": "42",
+                "city": "göteborg",
+                "zip": "43635",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 466,
+                "$last_seen": "2024-01-19T11:35:34.768Z"
               }
             ]
           },
@@ -59477,6 +59505,20 @@
                 "$districtName": "annedal",
                 "last_accept": 1784,
                 "$last_seen": "2023-11-29T09:36:16.655Z"
+              },
+              {
+                "id": 110990,
+                "rent": 7561,
+                "area": 49,
+                "street": "carl grimbergsgatan",
+                "street_number": "13",
+                "city": "göteborg",
+                "zip": "41313",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "annedal",
+                "last_accept": 1837,
+                "$last_seen": "2024-01-19T11:35:34.768Z"
               }
             ],
             "västergatan": [
@@ -61333,6 +61375,20 @@
                 "$districtName": "göteborgs vasa",
                 "last_accept": 1829,
                 "$last_seen": "2024-01-17T09:36:12.113Z"
+              },
+              {
+                "id": 110791,
+                "rent": 12419,
+                "area": 78,
+                "street": "karl gustavsgatan",
+                "street_number": "61",
+                "city": "göteborg",
+                "zip": "41131",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs vasa",
+                "last_accept": 1837,
+                "$last_seen": "2024-01-19T11:35:34.768Z"
               }
             ],
             "mölndalsvägen": [
@@ -71919,6 +71975,20 @@
                 "$districtName": "biskopsgården",
                 "last_accept": 469,
                 "$last_seen": "2023-09-26T08:44:29.660Z"
+              },
+              {
+                "id": 110389,
+                "rent": 7133,
+                "area": 65,
+                "street": "lågtrycksgatan",
+                "street_number": "8",
+                "city": "göteborg",
+                "zip": "41841",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "biskopsgården",
+                "last_accept": 799,
+                "$last_seen": "2024-01-19T11:35:34.768Z"
               }
             ],
             "barometergatan": [
@@ -90117,6 +90187,20 @@
                 "$districtName": "limhamn",
                 "last_accept": 232,
                 "$last_seen": "2024-01-11T13:38:52.380Z"
+              },
+              {
+                "id": 110984,
+                "rent": 12322,
+                "area": 73,
+                "street": "högatan",
+                "street_number": "10 d",
+                "city": "limhamn",
+                "zip": "21633",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "limhamn",
+                "last_accept": 79,
+                "$last_seen": "2024-01-19T11:35:34.768Z"
               }
             ],
             "höbalsgatan": [
