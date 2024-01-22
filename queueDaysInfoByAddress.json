@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-01-22T09:37:02.057Z",
+  "lastUpdatedAt": "2024-01-22T10:42:50.956Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -20533,6 +20533,20 @@
                 "$districtName": "brämaregården",
                 "last_accept": 1551,
                 "$last_seen": "2023-12-13T12:55:21.571Z"
+              },
+              {
+                "id": 110383,
+                "rent": 7323,
+                "area": 35,
+                "street": "kabbeleksgatan",
+                "street_number": "4 c",
+                "city": "göteborg",
+                "zip": "41718",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brämaregården",
+                "last_accept": 247,
+                "$last_seen": "2024-01-22T09:37:02.057Z"
               }
             ],
             "sehlstedtsgatan": [
@@ -79107,6 +79121,20 @@
                 "$districtName": "tynnered",
                 "last_accept": 1685,
                 "$last_seen": "2023-12-18T11:34:36.940Z"
+              },
+              {
+                "id": 110995,
+                "rent": 8453,
+                "area": 88,
+                "street": "briljantgatan",
+                "street_number": "8",
+                "city": "västra frölunda",
+                "zip": "42149",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tynnered",
+                "last_accept": 1659,
+                "$last_seen": "2024-01-22T09:37:02.057Z"
               }
             ],
             "safirgatan": [
@@ -85465,6 +85493,20 @@
                 "$districtName": "kirseberg",
                 "last_accept": 113,
                 "$last_seen": "2024-01-10T12:55:37.894Z"
+              },
+              {
+                "id": 111036,
+                "rent": 9125,
+                "area": 78,
+                "street": "högamöllegatan",
+                "street_number": "9 b",
+                "city": "malmö",
+                "zip": "21219",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "kirseberg",
+                "last_accept": 486,
+                "$last_seen": "2024-01-22T09:37:02.057Z"
               }
             ],
             "floragatan": [
