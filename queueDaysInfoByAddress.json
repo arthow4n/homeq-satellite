@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-01-22T10:42:50.956Z",
+  "lastUpdatedAt": "2024-01-22T11:35:07.392Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -77641,6 +77641,20 @@
                 "$districtName": "tynnered",
                 "last_accept": 1791,
                 "$last_seen": "2023-12-07T09:36:31.726Z"
+              },
+              {
+                "id": 110929,
+                "rent": 7400,
+                "area": 66,
+                "street": "karneolgatan",
+                "street_number": "3",
+                "city": "västra frölunda",
+                "zip": "42651",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tynnered",
+                "last_accept": 1259,
+                "$last_seen": "2024-01-22T10:42:50.956Z"
               }
             ],
             "smaragdgatan": [
