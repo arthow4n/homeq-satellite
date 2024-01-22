@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-01-22T15:37:22.720Z",
+  "lastUpdatedAt": "2024-01-22T16:43:40.325Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -383,6 +383,20 @@
                 "$districtName": "fässberg",
                 "last_accept": 1364,
                 "$last_seen": "2024-01-16T11:36:07.944Z"
+              },
+              {
+                "id": 109872,
+                "rent": 8880,
+                "area": 57.4,
+                "street": "toltorpsgatan",
+                "street_number": "127",
+                "city": "mölndal",
+                "zip": "43141",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 1715,
+                "$last_seen": "2024-01-22T15:37:22.720Z"
               }
             ],
             "bergmansgatan": [
@@ -47017,6 +47031,20 @@
                 "$districtName": "nylöse",
                 "last_accept": 1527,
                 "$last_seen": "2023-09-18T11:41:41.870Z"
+              },
+              {
+                "id": 110373,
+                "rent": 8666,
+                "area": 53,
+                "street": "skaragatan",
+                "street_number": "10b",
+                "city": "göteborg",
+                "zip": "41516",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "nylöse",
+                "last_accept": 1699,
+                "$last_seen": "2024-01-22T15:37:22.720Z"
               }
             ],
             "lars kaggsgatan": [
