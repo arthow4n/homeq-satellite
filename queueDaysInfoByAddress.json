@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-01-22T13:38:49.941Z",
+  "lastUpdatedAt": "2024-01-22T14:40:17.466Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -1613,6 +1613,20 @@
                 "$districtName": "fässberg",
                 "last_accept": 1415,
                 "$last_seen": "2023-11-29T12:56:18.243Z"
+              },
+              {
+                "id": 111311,
+                "rent": 9558,
+                "area": 65,
+                "street": "gustavsbergsgatan",
+                "street_number": "4",
+                "city": "mölndal",
+                "zip": "43137",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 1335,
+                "$last_seen": "2024-01-22T13:38:49.941Z"
               }
             ],
             "fredåsgatan": [
@@ -46419,6 +46433,20 @@
                 "$districtName": "nylöse",
                 "last_accept": 476,
                 "$last_seen": "2024-01-22T11:35:07.392Z"
+              },
+              {
+                "id": 110388,
+                "rent": 9786,
+                "area": 64.8,
+                "street": "sysslomansgatan",
+                "street_number": "38",
+                "city": "göteborg",
+                "zip": "41574",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "nylöse",
+                "last_accept": 255,
+                "$last_seen": "2024-01-22T13:38:49.941Z"
               }
             ],
             "hinderbanan": [
@@ -68589,6 +68617,22 @@
                 "$districtName": "masthugget",
                 "last_accept": 1820,
                 "$last_seen": "2024-01-03T14:37:47.886Z"
+              }
+            ],
+            "kjellmansgatan": [
+              {
+                "id": 110870,
+                "rent": 12200,
+                "area": 97,
+                "street": "kjellmansgatan",
+                "street_number": "22",
+                "city": "göteborg",
+                "zip": "41463",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "masthugget",
+                "last_accept": 1840,
+                "$last_seen": "2024-01-22T13:38:49.941Z"
               }
             ]
           },
