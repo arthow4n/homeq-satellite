@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-01-22T07:35:16.512Z",
+  "lastUpdatedAt": "2024-01-22T08:41:56.086Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -5919,6 +5919,20 @@
                 "$districtName": "kållered",
                 "last_accept": 219,
                 "$last_seen": "2024-01-09T13:45:41.647Z"
+              },
+              {
+                "id": 110467,
+                "rent": 9750,
+                "area": 55,
+                "street": "streteredsvägen",
+                "street_number": "16a",
+                "city": "kållered",
+                "zip": "42831",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "kållered",
+                "last_accept": 646,
+                "$last_seen": "2024-01-22T07:35:16.512Z"
               }
             ],
             "hagabäcksleden": [
@@ -46377,20 +46391,6 @@
                 "$districtName": "nylöse",
                 "last_accept": 306,
                 "$last_seen": "2024-01-17T14:38:27.380Z"
-              },
-              {
-                "id": 110384,
-                "rent": 12925,
-                "area": 84,
-                "street": "sysslomansgatan",
-                "street_number": "41",
-                "city": "göteborg",
-                "zip": "40422",
-                "municipality": "göteborg",
-                "county": "västra götalands län",
-                "$districtName": "nylöse",
-                "last_accept": 475,
-                "$last_seen": "2024-01-21T22:38:35.108Z"
               }
             ],
             "hinderbanan": [
@@ -97261,20 +97261,6 @@
                 "$districtName": "hammarby",
                 "last_accept": 30,
                 "$last_seen": "2023-12-06T08:40:20.415Z"
-              },
-              {
-                "id": 110289,
-                "rent": 6875,
-                "area": 29,
-                "street": "dragonvägen",
-                "street_number": "7",
-                "city": "stockholm",
-                "zip": "19470",
-                "municipality": "upplands väsby",
-                "county": "stockholms län",
-                "$districtName": "hammarby",
-                "last_accept": 900,
-                "$last_seen": "2024-01-21T22:38:35.108Z"
               },
               {
                 "id": 110297,
