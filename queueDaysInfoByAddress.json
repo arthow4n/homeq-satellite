@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-01-22T11:35:07.392Z",
+  "lastUpdatedAt": "2024-01-22T12:55:48.403Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -46405,6 +46405,20 @@
                 "$districtName": "nylöse",
                 "last_accept": 306,
                 "$last_seen": "2024-01-17T14:38:27.380Z"
+              },
+              {
+                "id": 110384,
+                "rent": 12925,
+                "area": 84,
+                "street": "sysslomansgatan",
+                "street_number": "41",
+                "city": "göteborg",
+                "zip": "40422",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "nylöse",
+                "last_accept": 476,
+                "$last_seen": "2024-01-22T11:35:07.392Z"
               }
             ],
             "hinderbanan": [
@@ -51319,6 +51333,20 @@
                 "$districtName": "göteborgs domkyrkodistrikt",
                 "last_accept": 1838,
                 "$last_seen": "2023-10-24T08:42:58.527Z"
+              },
+              {
+                "id": 110813,
+                "rent": 8579,
+                "area": 60,
+                "street": "basargatan",
+                "street_number": "6 b",
+                "city": "göteborg",
+                "zip": "41117",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs domkyrkodistrikt",
+                "last_accept": 1947,
+                "$last_seen": "2024-01-22T11:35:07.392Z"
               }
             ],
             "odinsgatan": [
@@ -53241,6 +53269,20 @@
                 "$districtName": "örgryte",
                 "last_accept": 1758,
                 "$last_seen": "2023-12-28T06:38:03.986Z"
+              },
+              {
+                "id": 110730,
+                "rent": 13204,
+                "area": 96,
+                "street": "prästgårdsängen",
+                "street_number": "12",
+                "city": "göteborg",
+                "zip": "41271",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1838,
+                "$last_seen": "2024-01-22T11:35:07.392Z"
               }
             ],
             "karlfeldtsgatan": [
@@ -97345,6 +97387,20 @@
                 "$districtName": "hammarby",
                 "last_accept": 30,
                 "$last_seen": "2023-12-06T08:40:20.415Z"
+              },
+              {
+                "id": 110289,
+                "rent": 6875,
+                "area": 29,
+                "street": "dragonvägen",
+                "street_number": "7",
+                "city": "stockholm",
+                "zip": "19470",
+                "municipality": "upplands väsby",
+                "county": "stockholms län",
+                "$districtName": "hammarby",
+                "last_accept": 901,
+                "$last_seen": "2024-01-22T11:35:07.392Z"
               },
               {
                 "id": 110297,
