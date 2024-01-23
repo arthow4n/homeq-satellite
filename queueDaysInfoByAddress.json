@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-01-23T12:54:50.762Z",
+  "lastUpdatedAt": "2024-01-23T13:37:24.232Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -12463,6 +12463,20 @@
                 "$districtName": "högsbo",
                 "last_accept": 800,
                 "$last_seen": "2024-01-23T11:34:56.021Z"
+              },
+              {
+                "id": 111167,
+                "rent": 9941,
+                "area": 47,
+                "street": "skillingmyntsgatan",
+                "street_number": "8",
+                "city": "göteborg",
+                "zip": "41484",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 887,
+                "$last_seen": "2024-01-23T12:54:50.762Z"
               }
             ],
             "synhållsgatan": [
