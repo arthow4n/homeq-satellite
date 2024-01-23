@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-01-23T07:35:16.050Z",
+  "lastUpdatedAt": "2024-01-23T08:40:28.909Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -45675,6 +45675,20 @@
                 "$districtName": "nylöse",
                 "last_accept": 1502,
                 "$last_seen": "2024-01-02T11:34:00.747Z"
+              },
+              {
+                "id": 110485,
+                "rent": 12542,
+                "area": 91,
+                "street": "hornsgatan",
+                "street_number": "9a",
+                "city": "göteborg",
+                "zip": "41514",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "nylöse",
+                "last_accept": 1793,
+                "$last_seen": "2024-01-23T07:35:16.050Z"
               }
             ],
             "sysslomansgatan": [
@@ -55351,6 +55365,20 @@
                 "$districtName": "örgryte",
                 "last_accept": 1723,
                 "$last_seen": "2023-09-27T07:40:28.530Z"
+              },
+              {
+                "id": 111023,
+                "rent": 10601,
+                "area": 83,
+                "street": "anders zornsgatan",
+                "street_number": "25a",
+                "city": "göteborg",
+                "zip": "41272",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1841,
+                "$last_seen": "2024-01-23T07:35:16.050Z"
               }
             ],
             "mejerigatan": [
@@ -75481,6 +75509,20 @@
                 "$districtName": "bäckebol",
                 "last_accept": 0,
                 "$last_seen": "2023-12-11T06:42:25.968Z"
+              },
+              {
+                "id": 110582,
+                "rent": 7156,
+                "area": 29,
+                "street": "skogsdrottningen",
+                "street_number": "4",
+                "city": "göteborg",
+                "zip": "42255",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bäckebol",
+                "last_accept": 737,
+                "$last_seen": "2024-01-23T07:35:16.050Z"
               }
             ]
           }
@@ -95369,6 +95411,20 @@
                 "$districtName": "skärholmen",
                 "last_accept": 1717,
                 "$last_seen": "2023-07-25T09:37:59.838Z"
+              },
+              {
+                "id": 110955,
+                "rent": 8846,
+                "area": 95,
+                "street": "fjärdholmsgränd",
+                "street_number": "11b",
+                "city": "vårberg ",
+                "zip": "12744",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "skärholmen",
+                "last_accept": 1868,
+                "$last_seen": "2024-01-23T07:35:16.050Z"
               }
             ]
           }
@@ -97577,6 +97633,20 @@
                 "$districtName": "hammarby",
                 "last_accept": 315,
                 "$last_seen": "2024-01-09T12:56:26.821Z"
+              },
+              {
+                "id": 110436,
+                "rent": 11017,
+                "area": 62,
+                "street": "dragonvägen",
+                "street_number": "7",
+                "city": "stockholm",
+                "zip": "19470",
+                "municipality": "upplands väsby",
+                "county": "stockholms län",
+                "$districtName": "hammarby",
+                "last_accept": 378,
+                "$last_seen": "2024-01-23T07:35:16.050Z"
               },
               {
                 "id": 110443,
