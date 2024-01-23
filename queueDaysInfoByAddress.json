@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-01-23T09:35:22.597Z",
+  "lastUpdatedAt": "2024-01-23T10:41:41.046Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -17437,6 +17437,20 @@
                 "$districtName": "högsbo",
                 "last_accept": 1088,
                 "$last_seen": "2024-01-10T13:38:43.858Z"
+              },
+              {
+                "id": 111160,
+                "rent": 7667,
+                "area": 35,
+                "street": "sjupundsgatan",
+                "street_number": "21",
+                "city": "göteborg",
+                "zip": "41481",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 638,
+                "$last_seen": "2024-01-23T09:35:22.597Z"
               }
             ],
             "handelsmyntet": [
@@ -27903,6 +27917,20 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1772,
                 "$last_seen": "2023-11-17T09:33:28.345Z"
+              },
+              {
+                "id": 110700,
+                "rent": 11394,
+                "area": 67,
+                "street": "kobbarnas väg",
+                "street_number": "17",
+                "city": "göteborg",
+                "zip": "41647",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1839,
+                "$last_seen": "2024-01-23T09:35:22.597Z"
               }
             ],
             "s:t pauligatan": [
@@ -31801,6 +31829,20 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1776,
                 "$last_seen": "2023-12-19T10:39:48.972Z"
+              },
+              {
+                "id": 111019,
+                "rent": 12944,
+                "area": 91,
+                "street": "danska vägen",
+                "street_number": "84d",
+                "city": "göteborg",
+                "zip": "41659",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1841,
+                "$last_seen": "2024-01-23T09:35:22.597Z"
               }
             ],
             "vävskedsgatan": [
@@ -72057,6 +72099,20 @@
                 "$districtName": "biskopsgården",
                 "last_accept": 983,
                 "$last_seen": "2024-01-15T14:40:38.635Z"
+              },
+              {
+                "id": 110543,
+                "rent": 6530,
+                "area": 41,
+                "street": "långströmsgatan",
+                "street_number": "24b",
+                "city": "göteborg",
+                "zip": "41870",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "biskopsgården",
+                "last_accept": 1079,
+                "$last_seen": "2024-01-23T09:35:22.597Z"
               }
             ],
             "lufttrycksgatan": [
@@ -91135,6 +91191,20 @@
                 "$districtName": "limhamn",
                 "last_accept": 697,
                 "$last_seen": "2023-11-07T07:40:16.234Z"
+              },
+              {
+                "id": 111481,
+                "rent": 10318,
+                "area": 85,
+                "street": "östra ansgarigatan",
+                "street_number": "96",
+                "city": "limhamn",
+                "zip": "21613",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "limhamn",
+                "last_accept": 646,
+                "$last_seen": "2024-01-23T09:35:22.597Z"
               }
             ],
             "högerudsgatan": [
@@ -91211,6 +91281,22 @@
                 "$districtName": "limhamn",
                 "last_accept": 644,
                 "$last_seen": "2024-01-10T06:41:55.729Z"
+              }
+            ],
+            "östra ansgariegatan": [
+              {
+                "id": 111506,
+                "rent": 6817,
+                "area": 55,
+                "street": "östra ansgariegatan",
+                "street_number": "98",
+                "city": "limhamn",
+                "zip": "21613",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "limhamn",
+                "last_accept": 156,
+                "$last_seen": "2024-01-23T09:35:22.597Z"
               }
             ]
           }
