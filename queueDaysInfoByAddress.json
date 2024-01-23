@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-01-23T06:41:27.779Z",
+  "lastUpdatedAt": "2024-01-23T07:35:16.050Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -59295,6 +59295,20 @@
                 "$last_seen": "2023-12-22T11:33:31.656Z"
               },
               {
+                "id": 110799,
+                "rent": 9300,
+                "area": 61,
+                "street": "övre husargatan",
+                "street_number": "24",
+                "city": "göteborg",
+                "zip": "41314",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "annedal",
+                "last_accept": 1839,
+                "$last_seen": "2024-01-23T06:41:27.779Z"
+              },
+              {
                 "id": 111018,
                 "rent": 12612,
                 "area": 72,
@@ -97127,6 +97141,26 @@
                 "$districtName": "sundbyberg",
                 "last_accept": 1865,
                 "$last_seen": "2024-01-18T08:39:46.708Z"
+              }
+            ]
+          }
+        },
+        "spånga ": {
+          "spånga": {
+            "nybykroken": [
+              {
+                "id": 112169,
+                "rent": 8940,
+                "area": 65.4,
+                "street": "nybykroken",
+                "street_number": "33",
+                "city": "spånga ",
+                "zip": "16370",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "spånga",
+                "last_accept": 1448,
+                "$last_seen": "2024-01-23T06:41:27.779Z"
               }
             ]
           }
