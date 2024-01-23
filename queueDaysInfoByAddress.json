@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-01-23T11:34:56.021Z",
+  "lastUpdatedAt": "2024-01-23T12:54:50.762Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -12449,6 +12449,20 @@
                 "$districtName": "högsbo",
                 "last_accept": 1133,
                 "$last_seen": "2024-01-11T09:36:31.005Z"
+              },
+              {
+                "id": 111154,
+                "rent": 10567,
+                "area": 53,
+                "street": "skillingmyntsgatan",
+                "street_number": "6",
+                "city": "göteborg",
+                "zip": "41484",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 800,
+                "$last_seen": "2024-01-23T11:34:56.021Z"
               }
             ],
             "synhållsgatan": [
@@ -66821,6 +66835,20 @@
                 "$districtName": "masthugget",
                 "last_accept": 1801,
                 "$last_seen": "2023-12-26T22:35:20.975Z"
+              },
+              {
+                "id": 111010,
+                "rent": 8286,
+                "area": 44,
+                "street": "amiralitetsgatan",
+                "street_number": "8",
+                "city": "göteborg",
+                "zip": "41462",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "masthugget",
+                "last_accept": 1780,
+                "$last_seen": "2024-01-23T11:34:56.021Z"
               }
             ],
             "kolumbusgatan": [
