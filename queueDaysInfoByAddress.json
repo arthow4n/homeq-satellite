@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-01-24T14:40:00.357Z",
+  "lastUpdatedAt": "2024-01-24T15:37:28.955Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -8499,6 +8499,34 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1477,
                 "$last_seen": "2023-12-20T14:33:16.353Z"
+              },
+              {
+                "id": 110766,
+                "rent": 9894,
+                "area": 55,
+                "street": "nordgårdsgatan",
+                "street_number": "6",
+                "city": "göteborg",
+                "zip": "41285",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1512,
+                "$last_seen": "2024-01-24T14:40:00.357Z"
+              },
+              {
+                "id": 111205,
+                "rent": 9995,
+                "area": 55,
+                "street": "nordgårdsgatan",
+                "street_number": "6",
+                "city": "göteborg",
+                "zip": "41265",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1476,
+                "$last_seen": "2024-01-24T14:40:00.357Z"
               }
             ],
             "norra krokslättsgatan": [
@@ -10745,6 +10773,20 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1836,
                 "$last_seen": "2024-01-18T08:39:46.708Z"
+              },
+              {
+                "id": 110679,
+                "rent": 4632,
+                "area": 34,
+                "street": "övre besvärsgatan",
+                "street_number": "2",
+                "city": "göteborg",
+                "zip": "41129",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1842,
+                "$last_seen": "2024-01-24T14:40:00.357Z"
               },
               {
                 "id": 110698,
@@ -93015,6 +93057,20 @@
                 "$districtName": "bunkeflo",
                 "last_accept": 0,
                 "$last_seen": "2023-10-04T11:40:37.345Z"
+              },
+              {
+                "id": 103985,
+                "rent": 9264,
+                "area": 65,
+                "street": "vagnmakarebyn",
+                "street_number": "7j",
+                "city": "bunkeflostrand",
+                "zip": "21840",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "bunkeflo",
+                "last_accept": 0,
+                "$last_seen": "2024-01-24T14:40:00.357Z"
               },
               {
                 "id": 106247,
