@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-01-24T08:40:08.917Z",
+  "lastUpdatedAt": "2024-01-24T09:35:10.320Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -8925,6 +8925,20 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1832,
                 "$last_seen": "2024-01-15T09:37:25.282Z"
+              },
+              {
+                "id": 110662,
+                "rent": 10754,
+                "area": 94,
+                "street": "vidblicksgatan",
+                "street_number": "4",
+                "city": "göteborg",
+                "zip": "41257",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 2010,
+                "$last_seen": "2024-01-24T08:40:08.917Z"
               }
             ],
             "fribergsgatan": [
