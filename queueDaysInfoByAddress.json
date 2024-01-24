@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-01-24T10:41:29.340Z",
+  "lastUpdatedAt": "2024-01-24T11:34:37.650Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -68749,6 +68749,20 @@
                 "$districtName": "masthugget",
                 "last_accept": 1513,
                 "$last_seen": "2023-07-05T06:52:22.054Z"
+              },
+              {
+                "id": 110591,
+                "rent": 4531,
+                "area": 39,
+                "street": "ekedalsgatan",
+                "street_number": "45 c",
+                "city": "göteborg",
+                "zip": "41468",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "masthugget",
+                "last_accept": 1541,
+                "$last_seen": "2024-01-24T10:41:29.340Z"
               }
             ],
             "godhemsgatan": [
@@ -95783,6 +95797,34 @@
                 "$districtName": "hässelby",
                 "last_accept": 1102,
                 "$last_seen": "2023-09-25T13:42:38.050Z"
+              },
+              {
+                "id": 110600,
+                "rent": 7611,
+                "area": 57,
+                "street": "persikogatan",
+                "street_number": "74",
+                "city": "stockholm",
+                "zip": "16563",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "hässelby",
+                "last_accept": 1534,
+                "$last_seen": "2024-01-24T10:41:29.340Z"
+              },
+              {
+                "id": 110602,
+                "rent": 10727,
+                "area": 87,
+                "street": "persikogatan",
+                "street_number": "74",
+                "city": "stockholm",
+                "zip": "16563",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "hässelby",
+                "last_accept": 1805,
+                "$last_seen": "2024-01-24T10:41:29.340Z"
               },
               {
                 "id": 110660,
