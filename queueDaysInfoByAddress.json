@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-01-24T13:37:47.051Z",
+  "lastUpdatedAt": "2024-01-24T14:40:00.357Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -34127,6 +34127,20 @@
                 "$districtName": "björkekärr",
                 "last_accept": 904,
                 "$last_seen": "2024-01-15T09:37:25.282Z"
+              },
+              {
+                "id": 110764,
+                "rent": 8685,
+                "area": 61,
+                "street": "smörslätten",
+                "street_number": "2",
+                "city": "göteborg",
+                "zip": "41677",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "björkekärr",
+                "last_accept": 1785,
+                "$last_seen": "2024-01-24T13:37:47.051Z"
               }
             ],
             "lådspikaregatan": [
@@ -36613,6 +36627,20 @@
                 "$districtName": "kortedala",
                 "last_accept": 1265,
                 "$last_seen": "2024-01-03T15:35:06.870Z"
+              },
+              {
+                "id": 110760,
+                "rent": 5053,
+                "area": 51.5,
+                "street": "aprilgatan",
+                "street_number": "70",
+                "city": "göteborg",
+                "zip": "41546",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "kortedala",
+                "last_accept": 1324,
+                "$last_seen": "2024-01-24T13:37:47.051Z"
               }
             ],
             "februarigatan": [
@@ -42803,6 +42831,20 @@
                 "$districtName": "bergsjön",
                 "last_accept": 1282,
                 "$last_seen": "2024-01-05T09:35:43.922Z"
+              },
+              {
+                "id": 110696,
+                "rent": 5640,
+                "area": 62,
+                "street": "galileis gata",
+                "street_number": "4",
+                "city": "göteborg",
+                "zip": "41554",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bergsjön",
+                "last_accept": 1362,
+                "$last_seen": "2024-01-24T13:37:47.051Z"
               },
               {
                 "id": 110755,
@@ -53577,6 +53619,20 @@
                 "$districtName": "örgryte",
                 "last_accept": 1838,
                 "$last_seen": "2024-01-22T11:35:07.392Z"
+              },
+              {
+                "id": 110732,
+                "rent": 13292,
+                "area": 96,
+                "street": "prästgårdsängen",
+                "street_number": "15",
+                "city": "göteborg",
+                "zip": "41271",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1841,
+                "$last_seen": "2024-01-24T13:37:47.051Z"
               }
             ],
             "karlfeldtsgatan": [
@@ -65571,20 +65627,6 @@
                 "$districtName": "göteborgs oscar fredrik",
                 "last_accept": 1809,
                 "$last_seen": "2023-12-22T13:33:34.094Z"
-              },
-              {
-                "id": 112190,
-                "rent": 9137,
-                "area": 87,
-                "street": "kryssdäcket",
-                "street_number": "4",
-                "city": "göteborg",
-                "zip": "41327",
-                "municipality": "göteborg",
-                "county": "västra götalands län",
-                "$districtName": "göteborgs oscar fredrik",
-                "last_accept": 1887,
-                "$last_seen": "2024-01-23T13:37:24.232Z"
               }
             ],
             "övre djupedalsgatan": [
@@ -84303,6 +84345,34 @@
                 "$districtName": "möllevången",
                 "last_accept": 1129,
                 "$last_seen": "2023-12-08T10:41:22.746Z"
+              },
+              {
+                "id": 111276,
+                "rent": 3972,
+                "area": 28,
+                "street": "almbacksgatan",
+                "street_number": "11 c",
+                "city": "malmö",
+                "zip": "21154",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "möllevången",
+                "last_accept": 1025,
+                "$last_seen": "2024-01-24T13:37:47.051Z"
+              },
+              {
+                "id": 111279,
+                "rent": 3972,
+                "area": 28,
+                "street": "almbacksgatan",
+                "street_number": "11 c",
+                "city": "malmö",
+                "zip": "21154",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "möllevången",
+                "last_accept": 1324,
+                "$last_seen": "2024-01-24T13:37:47.051Z"
               }
             ],
             "uppsalagatan": [
