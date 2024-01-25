@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-01-25T15:37:22.519Z",
+  "lastUpdatedAt": "2024-01-25T16:46:02.584Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -2083,6 +2083,20 @@
                 "$districtName": "fässberg",
                 "last_accept": 1696,
                 "$last_seen": "2023-12-06T11:35:53.510Z"
+              },
+              {
+                "id": 110789,
+                "rent": 9225,
+                "area": 65,
+                "street": "luktärtsgatan",
+                "street_number": "8a",
+                "city": "mölndal",
+                "zip": "43132",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 1597,
+                "$last_seen": "2024-01-25T15:37:22.519Z"
               }
             ],
             "lammevallsgatan": [
