@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-01-25T22:36:45.681Z",
+  "lastUpdatedAt": "2024-01-25T23:35:15.677Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -9139,6 +9139,20 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1655,
                 "$last_seen": "2023-07-21T09:37:43.193Z"
+              },
+              {
+                "id": 110858,
+                "rent": 8500,
+                "area": 67,
+                "street": "gibraltargatan",
+                "street_number": "48",
+                "city": "göteborg",
+                "zip": "41258",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 680,
+                "$last_seen": "2024-01-25T22:36:45.681Z"
               }
             ],
             "liljeforsgatan": [
