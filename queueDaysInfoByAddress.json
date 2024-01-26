@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-01-26T11:34:51.147Z",
+  "lastUpdatedAt": "2024-01-26T12:50:30.175Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -65893,6 +65893,20 @@
                 "$districtName": "göteborgs oscar fredrik",
                 "last_accept": 1900,
                 "$last_seen": "2024-01-26T09:35:04.621Z"
+              },
+              {
+                "id": 112650,
+                "rent": 7056,
+                "area": 62,
+                "street": "kryssdäcket",
+                "street_number": "2",
+                "city": "göteborg",
+                "zip": "41327",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs oscar fredrik",
+                "last_accept": 1871,
+                "$last_seen": "2024-01-26T11:34:51.147Z"
               }
             ],
             "övre djupedalsgatan": [
