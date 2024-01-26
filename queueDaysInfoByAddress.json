@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-01-26T09:35:04.621Z",
+  "lastUpdatedAt": "2024-01-26T10:40:06.166Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -29003,6 +29003,20 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1816,
                 "$last_seen": "2024-01-19T07:35:17.623Z"
+              },
+              {
+                "id": 111017,
+                "rent": 11019,
+                "area": 79,
+                "street": "redbergsvägen",
+                "street_number": "22",
+                "city": "göteborg",
+                "zip": "41665",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1843,
+                "$last_seen": "2024-01-26T09:35:04.621Z"
               }
             ],
             "kungälvsgatan": [
@@ -65851,6 +65865,20 @@
                 "$districtName": "göteborgs oscar fredrik",
                 "last_accept": 1809,
                 "$last_seen": "2023-12-22T13:33:34.094Z"
+              },
+              {
+                "id": 112190,
+                "rent": 9137,
+                "area": 87,
+                "street": "kryssdäcket",
+                "street_number": "4",
+                "city": "göteborg",
+                "zip": "41327",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs oscar fredrik",
+                "last_accept": 1900,
+                "$last_seen": "2024-01-26T09:35:04.621Z"
               }
             ],
             "övre djupedalsgatan": [
