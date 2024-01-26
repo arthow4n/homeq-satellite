@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-01-26T13:35:01.639Z",
+  "lastUpdatedAt": "2024-01-26T14:36:47.317Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -44151,6 +44151,34 @@
                 "$last_seen": "2023-12-19T13:35:14.600Z"
               },
               {
+                "id": 111029,
+                "rent": 16370,
+                "area": 123,
+                "street": "kosmosgatan",
+                "street_number": "6b",
+                "city": "göteborg",
+                "zip": "41562",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bergsjön",
+                "last_accept": 0,
+                "$last_seen": "2024-01-26T13:35:01.639Z"
+              },
+              {
+                "id": 111051,
+                "rent": 8494,
+                "area": 56,
+                "street": "kosmosgatan",
+                "street_number": "4",
+                "city": "göteborg",
+                "zip": "41562",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bergsjön",
+                "last_accept": 496,
+                "$last_seen": "2024-01-26T13:35:01.639Z"
+              },
+              {
                 "id": 111172,
                 "rent": 11745,
                 "area": 90,
@@ -45441,6 +45469,20 @@
                 "$districtName": "bergsjön",
                 "last_accept": 0,
                 "$last_seen": "2024-01-03T09:34:23.651Z"
+              },
+              {
+                "id": 111043,
+                "rent": 12830,
+                "area": 99,
+                "street": "zenitgatan",
+                "street_number": "32",
+                "city": "göteborg",
+                "zip": "41562",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bergsjön",
+                "last_accept": 0,
+                "$last_seen": "2024-01-26T13:35:01.639Z"
               }
             ],
             "galileisgata": [
