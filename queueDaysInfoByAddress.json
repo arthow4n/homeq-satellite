@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-01-26T08:37:21.102Z",
+  "lastUpdatedAt": "2024-01-26T09:35:04.621Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -15913,6 +15913,20 @@
                 "$districtName": "högsbo",
                 "last_accept": 1396,
                 "$last_seen": "2024-01-12T09:36:36.862Z"
+              },
+              {
+                "id": 113013,
+                "rent": 6570,
+                "area": 43,
+                "street": "pennygången",
+                "street_number": "27",
+                "city": "göteborg",
+                "zip": "41482",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 0,
+                "$last_seen": "2024-01-26T08:37:21.102Z"
               }
             ],
             "skäpplandsgatan": [
@@ -97915,6 +97929,20 @@
                 "$districtName": "farsta",
                 "last_accept": 1679,
                 "$last_seen": "2023-11-15T16:48:02.110Z"
+              },
+              {
+                "id": 111413,
+                "rent": 11465,
+                "area": 63,
+                "street": "thorsten levenstams väg",
+                "street_number": "4 d",
+                "city": "sköndal",
+                "zip": "12864",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "farsta",
+                "last_accept": 1320,
+                "$last_seen": "2024-01-26T08:37:21.102Z"
               },
               {
                 "id": 111414,
