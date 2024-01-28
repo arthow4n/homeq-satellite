@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-01-28T22:36:20.265Z",
+  "lastUpdatedAt": "2024-01-28T23:35:13.816Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -45019,6 +45019,34 @@
                 "$districtName": "bergsjön",
                 "last_accept": 1067,
                 "$last_seen": "2023-12-22T09:33:32.424Z"
+              },
+              {
+                "id": 111044,
+                "rent": 9245,
+                "area": 65,
+                "street": "atmosfärgatan",
+                "street_number": "13",
+                "city": "göteborg",
+                "zip": "41561",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bergsjön",
+                "last_accept": 0,
+                "$last_seen": "2024-01-28T22:36:20.265Z"
+              },
+              {
+                "id": 111046,
+                "rent": 9245,
+                "area": 65,
+                "street": "atmosfärgatan",
+                "street_number": "19",
+                "city": "göteborg",
+                "zip": "41561",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bergsjön",
+                "last_accept": 63,
+                "$last_seen": "2024-01-28T22:36:20.265Z"
               }
             ],
             "zenitgatan": [
@@ -89615,6 +89643,20 @@
                 "$districtName": "västra skrävlinge",
                 "last_accept": 195,
                 "$last_seen": "2024-01-10T09:36:27.890Z"
+              },
+              {
+                "id": 110945,
+                "rent": 9307,
+                "area": 90,
+                "street": "ramels väg",
+                "street_number": "33",
+                "city": "malmö",
+                "zip": "21368",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "västra skrävlinge",
+                "last_accept": 0,
+                "$last_seen": "2024-01-28T22:36:20.265Z"
               }
             ]
           },
