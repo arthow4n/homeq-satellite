@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-01-29T14:36:40.077Z",
+  "lastUpdatedAt": "2024-01-29T15:34:57.023Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -18551,6 +18551,20 @@
                 "$districtName": "brämaregården",
                 "last_accept": 1015,
                 "$last_seen": "2024-01-29T13:35:19.962Z"
+              },
+              {
+                "id": 111555,
+                "rent": 8293,
+                "area": 44,
+                "street": "gustaf dalénsgatan",
+                "street_number": "7 b",
+                "city": "göteborg",
+                "zip": "41723",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brämaregården",
+                "last_accept": 932,
+                "$last_seen": "2024-01-29T14:36:40.077Z"
               }
             ],
             "lantmätaregatan": [
@@ -26407,6 +26421,20 @@
                 "$districtName": "lundby",
                 "last_accept": 1611,
                 "$last_seen": "2024-01-29T12:50:14.794Z"
+              },
+              {
+                "id": 111576,
+                "rent": 6586,
+                "area": 41,
+                "street": "enekullegatan",
+                "street_number": "2 a",
+                "city": "göteborg",
+                "zip": "41875",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1622,
+                "$last_seen": "2024-01-29T14:36:40.077Z"
               }
             ],
             "danagatan": [
@@ -61117,6 +61145,20 @@
                 "$districtName": "annedal",
                 "last_accept": 1734,
                 "$last_seen": "2023-12-14T07:35:54.594Z"
+              },
+              {
+                "id": 113042,
+                "rent": 7369,
+                "area": 45,
+                "street": "västergatan",
+                "street_number": "11",
+                "city": "göteborg",
+                "zip": "41313",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "annedal",
+                "last_accept": 1618,
+                "$last_seen": "2024-01-29T14:36:40.077Z"
               }
             ],
             "seminariegatan": [
@@ -65761,6 +65803,20 @@
                 "$districtName": "göteborgs oscar fredrik",
                 "last_accept": 1836,
                 "$last_seen": "2024-01-19T13:37:03.418Z"
+              },
+              {
+                "id": 112347,
+                "rent": 10415,
+                "area": 63,
+                "street": "jungmansgatan",
+                "street_number": "31e",
+                "city": "göteborg",
+                "zip": "41315",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs oscar fredrik",
+                "last_accept": 1847,
+                "$last_seen": "2024-01-29T14:36:40.077Z"
               }
             ],
             "gubbe lars väg": [
@@ -66249,6 +66305,20 @@
                 "$districtName": "göteborgs oscar fredrik",
                 "last_accept": 1665,
                 "$last_seen": "2023-09-05T13:00:01.703Z"
+              },
+              {
+                "id": 112348,
+                "rent": 5530,
+                "area": 29,
+                "street": "nordostpassagen",
+                "street_number": "43",
+                "city": "göteborg",
+                "zip": "41311",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs oscar fredrik",
+                "last_accept": 1742,
+                "$last_seen": "2024-01-29T14:36:40.077Z"
               }
             ],
             "nordhemsgatan": [
