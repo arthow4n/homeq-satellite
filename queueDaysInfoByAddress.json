@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-01-29T08:37:42.855Z",
+  "lastUpdatedAt": "2024-01-29T09:35:07.809Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -39817,6 +39817,20 @@
                 "$districtName": "askim",
                 "last_accept": 875,
                 "$last_seen": "2024-01-08T07:36:01.481Z"
+              },
+              {
+                "id": 113044,
+                "rent": 10043,
+                "area": 67,
+                "street": "nergårdsvägen",
+                "street_number": "27",
+                "city": "göteborg",
+                "zip": "43636",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 495,
+                "$last_seen": "2024-01-29T08:37:42.855Z"
               }
             ],
             "hyltegården": [
@@ -40507,6 +40521,20 @@
                 "$districtName": "askim",
                 "last_accept": 599,
                 "$last_seen": "2024-01-17T06:41:12.886Z"
+              },
+              {
+                "id": 112212,
+                "rent": 14462,
+                "area": 79,
+                "street": "kobbeslätten",
+                "street_number": "8",
+                "city": "göteborg",
+                "zip": "43637",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 754,
+                "$last_seen": "2024-01-29T08:37:42.855Z"
               }
             ],
             "kobbegården": [
@@ -44163,6 +44191,20 @@
                 "$districtName": "bergsjön",
                 "last_accept": 0,
                 "$last_seen": "2023-12-19T13:35:14.600Z"
+              },
+              {
+                "id": 111029,
+                "rent": 16370,
+                "area": 123,
+                "street": "kosmosgatan",
+                "street_number": "6b",
+                "city": "göteborg",
+                "zip": "41562",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bergsjön",
+                "last_accept": 0,
+                "$last_seen": "2024-01-29T08:37:42.855Z"
               },
               {
                 "id": 111172,
@@ -96473,6 +96515,20 @@
                 "$districtName": "hässelby",
                 "last_accept": 1250,
                 "$last_seen": "2024-01-19T12:54:14.093Z"
+              },
+              {
+                "id": 112253,
+                "rent": 8272,
+                "area": 59.4,
+                "street": "persikogatan",
+                "street_number": "12",
+                "city": "stockholm",
+                "zip": "16563",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "hässelby",
+                "last_accept": 1076,
+                "$last_seen": "2024-01-29T08:37:42.855Z"
               }
             ]
           },
