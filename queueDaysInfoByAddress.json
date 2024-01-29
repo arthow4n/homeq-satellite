@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-01-29T12:50:14.794Z",
+  "lastUpdatedAt": "2024-01-29T13:35:19.962Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -11287,6 +11287,20 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1544,
                 "$last_seen": "2023-02-15T07:36:29.304Z"
+              },
+              {
+                "id": 110950,
+                "rent": 14000,
+                "area": 101,
+                "street": "kjellbergsgatan",
+                "street_number": "4",
+                "city": "göteborg",
+                "zip": "41132",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1847,
+                "$last_seen": "2024-01-29T12:50:14.794Z"
               }
             ],
             "fridkullagatan": [
@@ -20299,6 +20313,20 @@
                 "$districtName": "brämaregården",
                 "last_accept": 1676,
                 "$last_seen": "2023-12-22T10:38:23.329Z"
+              },
+              {
+                "id": 112224,
+                "rent": 6305,
+                "area": 41,
+                "street": "jägaregatan",
+                "street_number": "9 c",
+                "city": "göteborg",
+                "zip": "41702",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brämaregården",
+                "last_accept": 1528,
+                "$last_seen": "2024-01-29T12:50:14.794Z"
               }
             ],
             "ögontröstgatan": [
@@ -26351,6 +26379,20 @@
                 "$districtName": "lundby",
                 "last_accept": 1367,
                 "$last_seen": "2023-03-02T08:46:34.259Z"
+              },
+              {
+                "id": 111511,
+                "rent": 6130,
+                "area": 49,
+                "street": "enekullegatan",
+                "street_number": "2 c",
+                "city": "göteborg",
+                "zip": "41875",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1611,
+                "$last_seen": "2024-01-29T12:50:14.794Z"
               }
             ],
             "danagatan": [
@@ -46103,6 +46145,20 @@
                 "$districtName": "bergsjön",
                 "last_accept": 776,
                 "$last_seen": "2023-12-28T09:33:26.517Z"
+              },
+              {
+                "id": 111048,
+                "rent": 7470,
+                "area": 55,
+                "street": "universumsgatan",
+                "street_number": "26",
+                "city": "göteborg",
+                "zip": "41562",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bergsjön",
+                "last_accept": 1416,
+                "$last_seen": "2024-01-29T12:50:14.794Z"
               }
             ]
           },
