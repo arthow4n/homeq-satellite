@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-01-29T09:35:07.809Z",
+  "lastUpdatedAt": "2024-01-29T10:38:46.245Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -18693,6 +18693,20 @@
                 "$districtName": "brämaregården",
                 "last_accept": 1391,
                 "$last_seen": "2023-12-22T08:36:46.900Z"
+              },
+              {
+                "id": 111492,
+                "rent": 8250,
+                "area": 65,
+                "street": "lantmätaregatan",
+                "street_number": "4",
+                "city": "göteborg",
+                "zip": "41739",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brämaregården",
+                "last_accept": 1510,
+                "$last_seen": "2024-01-29T09:35:07.809Z"
               }
             ],
             "långängen": [
@@ -39819,6 +39833,20 @@
                 "$last_seen": "2024-01-08T07:36:01.481Z"
               },
               {
+                "id": 112231,
+                "rent": 6242,
+                "area": 34,
+                "street": "nergårdsvägen",
+                "street_number": "41",
+                "city": "göteborg",
+                "zip": "43636",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 1011,
+                "$last_seen": "2024-01-29T09:35:07.809Z"
+              },
+              {
                 "id": 113044,
                 "rent": 10043,
                 "area": 67,
@@ -43153,6 +43181,20 @@
                 "$districtName": "bergsjön",
                 "last_accept": 578,
                 "$last_seen": "2024-01-24T07:34:53.362Z"
+              },
+              {
+                "id": 112574,
+                "rent": 3657,
+                "area": 34,
+                "street": "galileis gata",
+                "street_number": "14",
+                "city": "göteborg",
+                "zip": "41554",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bergsjön",
+                "last_accept": 973,
+                "$last_seen": "2024-01-29T09:35:07.809Z"
               }
             ],
             "kosmosgatan": [
@@ -45497,6 +45539,20 @@
                 "$districtName": "bergsjön",
                 "last_accept": 0,
                 "$last_seen": "2024-01-03T09:34:23.651Z"
+              },
+              {
+                "id": 111043,
+                "rent": 12830,
+                "area": 99,
+                "street": "zenitgatan",
+                "street_number": "32",
+                "city": "göteborg",
+                "zip": "41562",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bergsjön",
+                "last_accept": 137,
+                "$last_seen": "2024-01-29T09:35:07.809Z"
               }
             ],
             "galileisgata": [
@@ -86281,6 +86337,20 @@
                 "$districtName": "kirseberg",
                 "last_accept": 11,
                 "$last_seen": "2024-01-17T07:35:30.685Z"
+              },
+              {
+                "id": 111632,
+                "rent": 7170,
+                "area": 62,
+                "street": "lundavägen",
+                "street_number": "53a",
+                "city": "malmö",
+                "zip": "21224",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "kirseberg",
+                "last_accept": 895,
+                "$last_seen": "2024-01-29T09:35:07.809Z"
               }
             ],
             "högamöllegatan": [
@@ -89661,6 +89731,20 @@
                 "$districtName": "västra skrävlinge",
                 "last_accept": 195,
                 "$last_seen": "2024-01-10T09:36:27.890Z"
+              },
+              {
+                "id": 110945,
+                "rent": 9307,
+                "area": 90,
+                "street": "ramels väg",
+                "street_number": "33",
+                "city": "malmö",
+                "zip": "21368",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "västra skrävlinge",
+                "last_accept": 0,
+                "$last_seen": "2024-01-29T09:35:07.809Z"
               }
             ]
           },
