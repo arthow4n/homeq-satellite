@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-01-29T07:35:40.797Z",
+  "lastUpdatedAt": "2024-01-29T08:37:42.855Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -39157,6 +39157,20 @@
                 "$districtName": "askim",
                 "last_accept": 1459,
                 "$last_seen": "2024-01-25T10:42:05.064Z"
+              },
+              {
+                "id": 111386,
+                "rent": 5535,
+                "area": 32,
+                "street": "pilegården",
+                "street_number": "2b",
+                "city": "göteborg",
+                "zip": "43635",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 1303,
+                "$last_seen": "2024-01-29T07:35:40.797Z"
               }
             ],
             "nergårdsvägen": [
@@ -44149,20 +44163,6 @@
                 "$districtName": "bergsjön",
                 "last_accept": 0,
                 "$last_seen": "2023-12-19T13:35:14.600Z"
-              },
-              {
-                "id": 111029,
-                "rent": 16370,
-                "area": 123,
-                "street": "kosmosgatan",
-                "street_number": "6b",
-                "city": "göteborg",
-                "zip": "41562",
-                "municipality": "göteborg",
-                "county": "västra götalands län",
-                "$districtName": "bergsjön",
-                "last_accept": 0,
-                "$last_seen": "2024-01-26T13:35:01.639Z"
               },
               {
                 "id": 111172,
@@ -81629,6 +81629,24 @@
                 "$last_seen": "2023-11-15T16:48:02.110Z"
               }
             ]
+          },
+          "torslanda": {
+            "torslanda torg": [
+              {
+                "id": 112699,
+                "rent": 7925,
+                "area": 62,
+                "street": "torslanda torg",
+                "street_number": "4",
+                "city": "torslanda",
+                "zip": "42332",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "torslanda",
+                "last_accept": 0,
+                "$last_seen": "2024-01-23T13:37:24.232Z"
+              }
+            ]
           }
         }
       },
@@ -86719,6 +86737,20 @@
                 "$districtName": "kirseberg",
                 "last_accept": 0,
                 "$last_seen": "2024-01-11T06:42:22.137Z"
+              },
+              {
+                "id": 112659,
+                "rent": 11084,
+                "area": 82,
+                "street": "gerlachsgatan",
+                "street_number": "4",
+                "city": "malmö",
+                "zip": "21219",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "kirseberg",
+                "last_accept": 66,
+                "$last_seen": "2024-01-29T07:35:40.797Z"
               }
             ],
             "dalhemsgtan": [
