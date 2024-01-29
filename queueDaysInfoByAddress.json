@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-01-29T15:34:57.023Z",
+  "lastUpdatedAt": "2024-01-29T16:40:50.701Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -59117,6 +59117,20 @@
                 "$districtName": "västra frölunda",
                 "last_accept": 732,
                 "$last_seen": "2024-01-18T09:36:02.723Z"
+              },
+              {
+                "id": 111148,
+                "rent": 7934,
+                "area": 34.4,
+                "street": "altplatsen",
+                "street_number": "3",
+                "city": "göteborg",
+                "zip": "42141",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "västra frölunda",
+                "last_accept": 715,
+                "$last_seen": "2024-01-29T15:34:57.023Z"
               }
             ]
           },
