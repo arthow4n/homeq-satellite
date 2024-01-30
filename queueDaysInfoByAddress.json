@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-01-30T11:34:51.757Z",
+  "lastUpdatedAt": "2024-01-30T12:49:20.342Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -4041,6 +4041,20 @@
                 "$districtName": "fässberg",
                 "last_accept": 1747,
                 "$last_seen": "2024-01-25T14:39:39.257Z"
+              },
+              {
+                "id": 111478,
+                "rent": 9692,
+                "area": 56,
+                "street": "åby allé",
+                "street_number": "13",
+                "city": "göteborg",
+                "zip": "43145",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 1545,
+                "$last_seen": "2024-01-30T11:34:51.757Z"
               }
             ],
             "åbyvägen": [
@@ -7909,6 +7923,48 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1190,
                 "$last_seen": "2024-01-25T11:35:44.517Z"
+              },
+              {
+                "id": 111634,
+                "rent": 10747,
+                "area": 58,
+                "street": "ebbe lieberathsgatan",
+                "street_number": "22 e",
+                "city": "göteborg",
+                "zip": "41265",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1174,
+                "$last_seen": "2024-01-30T11:34:51.757Z"
+              },
+              {
+                "id": 111636,
+                "rent": 9153,
+                "area": 44,
+                "street": "ebbe lieberathsgatan",
+                "street_number": "20 c",
+                "city": "göteborg",
+                "zip": "41265",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1224,
+                "$last_seen": "2024-01-30T11:34:51.757Z"
+              },
+              {
+                "id": 111639,
+                "rent": 8947,
+                "area": 43,
+                "street": "ebbe lieberathsgatan",
+                "street_number": "20 d",
+                "city": "göteborg",
+                "zip": "41265",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1602,
+                "$last_seen": "2024-01-30T11:34:51.757Z"
               }
             ],
             "nordgårdsgatan": [
@@ -18621,6 +18677,20 @@
                 "$districtName": "brämaregården",
                 "last_accept": 932,
                 "$last_seen": "2024-01-29T14:36:40.077Z"
+              },
+              {
+                "id": 111583,
+                "rent": 8293,
+                "area": 44,
+                "street": "gustaf dalénsgatan",
+                "street_number": "7 e",
+                "city": "göteborg",
+                "zip": "41723",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brämaregården",
+                "last_accept": 1016,
+                "$last_seen": "2024-01-30T11:34:51.757Z"
               },
               {
                 "id": 111588,
@@ -48833,6 +48903,20 @@
                 "$districtName": "härlanda",
                 "last_accept": 1727,
                 "$last_seen": "2023-10-02T04:42:44.296Z"
+              },
+              {
+                "id": 113762,
+                "rent": 9443,
+                "area": 69,
+                "street": "lagmansgatan",
+                "street_number": "2",
+                "city": "göteborg",
+                "zip": "41653",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "härlanda",
+                "last_accept": 909,
+                "$last_seen": "2024-01-30T11:34:51.757Z"
               }
             ],
             "sanatoriegatan": [
