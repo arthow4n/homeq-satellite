@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-01-30T12:49:20.342Z",
+  "lastUpdatedAt": "2024-01-30T13:34:38.953Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -18691,6 +18691,48 @@
                 "$districtName": "brämaregården",
                 "last_accept": 1016,
                 "$last_seen": "2024-01-30T11:34:51.757Z"
+              },
+              {
+                "id": 111585,
+                "rent": 8293,
+                "area": 44,
+                "street": "gustaf dalénsgatan",
+                "street_number": "7 e",
+                "city": "göteborg",
+                "zip": "41723",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brämaregården",
+                "last_accept": 1029,
+                "$last_seen": "2024-01-30T12:49:20.342Z"
+              },
+              {
+                "id": 111586,
+                "rent": 8293,
+                "area": 44,
+                "street": "gustaf dalénsgatan",
+                "street_number": "7 e",
+                "city": "göteborg",
+                "zip": "41723",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brämaregården",
+                "last_accept": 943,
+                "$last_seen": "2024-01-30T12:49:20.342Z"
+              },
+              {
+                "id": 111587,
+                "rent": 8293,
+                "area": 44,
+                "street": "gustaf dalénsgatan",
+                "street_number": "7 e",
+                "city": "göteborg",
+                "zip": "41723",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brämaregården",
+                "last_accept": 1029,
+                "$last_seen": "2024-01-30T12:49:20.342Z"
               },
               {
                 "id": 111588,
@@ -68365,6 +68407,20 @@
                 "$districtName": "masthugget",
                 "last_accept": 1621,
                 "$last_seen": "2024-01-24T15:37:28.955Z"
+              },
+              {
+                "id": 111516,
+                "rent": 8079,
+                "area": 39,
+                "street": "stenklevsgatan",
+                "street_number": "7 b",
+                "city": "göteborg",
+                "zip": "41465",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "masthugget",
+                "last_accept": 1627,
+                "$last_seen": "2024-01-30T12:49:20.342Z"
               }
             ],
             "djurgårdsgatan": [
@@ -86025,6 +86081,20 @@
                 "$districtName": "limhamn",
                 "last_accept": 356,
                 "$last_seen": "2024-01-16T06:41:44.694Z"
+              },
+              {
+                "id": 111174,
+                "rent": 7572,
+                "area": 32.6,
+                "street": "nätsnäcksgränd",
+                "street_number": "8",
+                "city": "malmö",
+                "zip": "21631",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "limhamn",
+                "last_accept": 0,
+                "$last_seen": "2024-01-30T12:49:20.342Z"
               }
             ],
             "dammsnäcksgränd": [
@@ -87081,20 +87151,6 @@
                 "$districtName": "kirseberg",
                 "last_accept": 486,
                 "$last_seen": "2024-01-22T09:37:02.057Z"
-              },
-              {
-                "id": 111517,
-                "rent": 8522,
-                "area": 64,
-                "street": "högamöllegatan",
-                "street_number": "3 a",
-                "city": "malmö",
-                "zip": "21219",
-                "municipality": "malmö",
-                "county": "skåne län",
-                "$districtName": "kirseberg",
-                "last_accept": 260,
-                "$last_seen": "2024-01-30T10:39:39.581Z"
               }
             ],
             "floragatan": [
