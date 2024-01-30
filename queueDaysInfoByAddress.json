@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-01-30T10:39:39.581Z",
+  "lastUpdatedAt": "2024-01-30T11:34:51.757Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -61313,6 +61313,20 @@
                 "$districtName": "annedal",
                 "last_accept": 1618,
                 "$last_seen": "2024-01-29T14:36:40.077Z"
+              },
+              {
+                "id": 113043,
+                "rent": 7415,
+                "area": 45,
+                "street": "västergatan",
+                "street_number": "11",
+                "city": "göteborg",
+                "zip": "41313",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "annedal",
+                "last_accept": 1657,
+                "$last_seen": "2024-01-30T10:39:39.581Z"
               }
             ],
             "seminariegatan": [
@@ -65451,6 +65465,20 @@
                 "$districtName": "göteborgs oscar fredrik",
                 "last_accept": 1840,
                 "$last_seen": "2024-01-29T13:35:19.962Z"
+              },
+              {
+                "id": 112346,
+                "rent": 13921,
+                "area": 96,
+                "street": "vegagatan",
+                "street_number": "30",
+                "city": "göteborg",
+                "zip": "41309",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs oscar fredrik",
+                "last_accept": 1910,
+                "$last_seen": "2024-01-30T10:39:39.581Z"
               }
             ],
             "jungmansgatan": [
@@ -86969,6 +86997,20 @@
                 "$districtName": "kirseberg",
                 "last_accept": 486,
                 "$last_seen": "2024-01-22T09:37:02.057Z"
+              },
+              {
+                "id": 111517,
+                "rent": 8522,
+                "area": 64,
+                "street": "högamöllegatan",
+                "street_number": "3 a",
+                "city": "malmö",
+                "zip": "21219",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "kirseberg",
+                "last_accept": 260,
+                "$last_seen": "2024-01-30T10:39:39.581Z"
               }
             ],
             "floragatan": [
@@ -91421,6 +91463,20 @@
                 "$districtName": "limhamn",
                 "last_accept": 0,
                 "$last_seen": "2024-01-26T14:36:47.317Z"
+              },
+              {
+                "id": 111445,
+                "rent": 13244,
+                "area": 73,
+                "street": "blåsebergavägen",
+                "street_number": "28",
+                "city": "limhamn",
+                "zip": "21633",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "limhamn",
+                "last_accept": 0,
+                "$last_seen": "2024-01-30T10:39:39.581Z"
               },
               {
                 "id": 111507,
