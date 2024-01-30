@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-01-30T07:35:17.160Z",
+  "lastUpdatedAt": "2024-01-30T08:37:24.725Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -18551,6 +18551,20 @@
                 "$districtName": "brämaregården",
                 "last_accept": 1015,
                 "$last_seen": "2024-01-29T13:35:19.962Z"
+              },
+              {
+                "id": 111535,
+                "rent": 8293,
+                "area": 44,
+                "street": "gustaf dalénsgatan",
+                "street_number": "7 b",
+                "city": "göteborg",
+                "zip": "41723",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brämaregården",
+                "last_accept": 1184,
+                "$last_seen": "2024-01-30T07:35:17.160Z"
               },
               {
                 "id": 111555,
