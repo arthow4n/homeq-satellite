@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-01-30T22:36:11.596Z",
+  "lastUpdatedAt": "2024-01-30T23:35:14.657Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -11893,6 +11893,20 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1881,
                 "$last_seen": "2024-01-11T07:36:59.122Z"
+              },
+              {
+                "id": 111397,
+                "rent": 10376,
+                "area": 65,
+                "street": "örnehufvudsgatan",
+                "street_number": "7",
+                "city": "göteborg",
+                "zip": "41259",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1904,
+                "$last_seen": "2024-01-30T22:36:11.596Z"
               }
             ],
             "viktor rydbergsgatan": [
@@ -98425,6 +98439,20 @@
                 "$districtName": "hägersten",
                 "last_accept": 2205,
                 "$last_seen": "2023-08-18T07:43:20.837Z"
+              },
+              {
+                "id": 111435,
+                "rent": 9753,
+                "area": 81,
+                "street": "erikslundsgatan",
+                "street_number": "7",
+                "city": "hägersten",
+                "zip": "12632",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "hägersten",
+                "last_accept": 2390,
+                "$last_seen": "2024-01-30T22:36:11.596Z"
               }
             ]
           }
