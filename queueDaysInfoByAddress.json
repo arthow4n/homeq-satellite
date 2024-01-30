@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-01-30T13:34:38.953Z",
+  "lastUpdatedAt": "2024-01-30T14:36:35.423Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -18663,20 +18663,6 @@
                 "$districtName": "brämaregården",
                 "last_accept": 1127,
                 "$last_seen": "2024-01-30T08:37:24.725Z"
-              },
-              {
-                "id": 111555,
-                "rent": 8293,
-                "area": 44,
-                "street": "gustaf dalénsgatan",
-                "street_number": "7 b",
-                "city": "göteborg",
-                "zip": "41723",
-                "municipality": "göteborg",
-                "county": "västra götalands län",
-                "$districtName": "brämaregården",
-                "last_accept": 932,
-                "$last_seen": "2024-01-29T14:36:40.077Z"
               },
               {
                 "id": 111583,
@@ -39479,6 +39465,20 @@
                 "$districtName": "askim",
                 "last_accept": 1303,
                 "$last_seen": "2024-01-29T07:35:40.797Z"
+              },
+              {
+                "id": 112228,
+                "rent": 11729,
+                "area": 81,
+                "street": "pilegården",
+                "street_number": "7d",
+                "city": "göteborg",
+                "zip": "43635",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 1421,
+                "$last_seen": "2024-01-30T13:34:38.953Z"
               }
             ],
             "nergårdsvägen": [
@@ -53771,6 +53771,20 @@
                 "$districtName": "örgryte",
                 "last_accept": 1654,
                 "$last_seen": "2024-01-30T09:35:14.491Z"
+              },
+              {
+                "id": 112227,
+                "rent": 10100,
+                "area": 71,
+                "street": "smörgatan",
+                "street_number": "5",
+                "city": "göteborg",
+                "zip": "41276",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1770,
+                "$last_seen": "2024-01-30T13:34:38.953Z"
               }
             ],
             "prästgårdsängen": [
