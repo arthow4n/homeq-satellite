@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-01-30T15:34:35.681Z",
+  "lastUpdatedAt": "2024-01-30T16:40:43.248Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -1669,6 +1669,20 @@
                 "$districtName": "fässberg",
                 "last_accept": 1335,
                 "$last_seen": "2024-01-22T13:38:49.941Z"
+              },
+              {
+                "id": 112296,
+                "rent": 9480,
+                "area": 65,
+                "street": "gustavsbergsgatan",
+                "street_number": "4",
+                "city": "mölndal",
+                "zip": "43137",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 1485,
+                "$last_seen": "2024-01-30T15:34:35.681Z"
               }
             ],
             "fredåsgatan": [
