@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-01-30T14:36:35.423Z",
+  "lastUpdatedAt": "2024-01-30T15:34:35.681Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -7965,6 +7965,20 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1602,
                 "$last_seen": "2024-01-30T11:34:51.757Z"
+              },
+              {
+                "id": 113204,
+                "rent": 6968,
+                "area": 30,
+                "street": "ebbe lieberathsgatan",
+                "street_number": "22 d",
+                "city": "göteborg",
+                "zip": "41265",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1300,
+                "$last_seen": "2024-01-30T14:36:35.423Z"
               }
             ],
             "nordgårdsgatan": [
@@ -80309,6 +80323,20 @@
                 "$last_seen": "2024-01-23T08:40:28.909Z"
               },
               {
+                "id": 111350,
+                "rent": 5616,
+                "area": 41,
+                "street": "smyckegatan",
+                "street_number": "56",
+                "city": "västra frölunda",
+                "zip": "42650",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tynnered",
+                "last_accept": 1265,
+                "$last_seen": "2024-01-30T14:36:35.423Z"
+              },
+              {
                 "id": 112673,
                 "rent": 9800,
                 "area": 76,
@@ -81785,6 +81813,20 @@
                 "$districtName": "västra frölunda",
                 "last_accept": 1466,
                 "$last_seen": "2024-01-12T08:41:16.555Z"
+              },
+              {
+                "id": 112277,
+                "rent": 8305,
+                "area": 67,
+                "street": "marconigatan",
+                "street_number": "33 b",
+                "city": "västra frölunda",
+                "zip": "42144",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "västra frölunda",
+                "last_accept": 1193,
+                "$last_seen": "2024-01-30T14:36:35.423Z"
               }
             ]
           },
@@ -89753,6 +89795,20 @@
                 "$last_seen": "2024-01-12T09:36:36.862Z"
               },
               {
+                "id": 111123,
+                "rent": 11402,
+                "area": 72.4,
+                "street": "hyllie vattenparksgata",
+                "street_number": "37",
+                "city": "malmö",
+                "zip": "21536",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "hyllie",
+                "last_accept": 198,
+                "$last_seen": "2024-01-30T14:36:35.423Z"
+              },
+              {
                 "id": 111124,
                 "rent": 9140,
                 "area": 52.9,
@@ -94281,6 +94337,20 @@
                 "$last_seen": "2023-10-04T11:40:37.345Z"
               },
               {
+                "id": 103985,
+                "rent": 9264,
+                "area": 65,
+                "street": "vagnmakarebyn",
+                "street_number": "7j",
+                "city": "bunkeflostrand",
+                "zip": "21840",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "bunkeflo",
+                "last_accept": 0,
+                "$last_seen": "2024-01-30T14:36:35.423Z"
+              },
+              {
                 "id": 106247,
                 "rent": 10043,
                 "area": 70,
@@ -96257,6 +96327,20 @@
                 "$districtName": "vantör",
                 "last_accept": 1878,
                 "$last_seen": "2024-01-18T07:35:20.430Z"
+              },
+              {
+                "id": 111627,
+                "rent": 8519,
+                "area": 76,
+                "street": "pålsbodagränd",
+                "street_number": "11",
+                "city": "bandhagen",
+                "zip": "12475",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 1970,
+                "$last_seen": "2024-01-30T14:36:35.423Z"
               }
             ],
             "bäverdammsgränd": [
