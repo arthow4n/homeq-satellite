@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-01-31T10:38:19.764Z",
+  "lastUpdatedAt": "2024-01-31T11:34:41.101Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -37299,6 +37299,20 @@
                 "$districtName": "kortedala",
                 "last_accept": 1324,
                 "$last_seen": "2024-01-24T13:37:47.051Z"
+              },
+              {
+                "id": 111666,
+                "rent": 5278,
+                "area": 54,
+                "street": "aprilgatan",
+                "street_number": "78",
+                "city": "göteborg",
+                "zip": "41546",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "kortedala",
+                "last_accept": 1282,
+                "$last_seen": "2024-01-31T10:38:19.764Z"
               }
             ],
             "februarigatan": [
@@ -60553,6 +60567,20 @@
                 "$districtName": "annedal",
                 "last_accept": 1837,
                 "$last_seen": "2024-01-19T13:37:03.418Z"
+              },
+              {
+                "id": 113033,
+                "rent": 9319,
+                "area": 63,
+                "street": "övre husargatan",
+                "street_number": "16",
+                "city": "göteborg",
+                "zip": "41314",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "annedal",
+                "last_accept": 1849,
+                "$last_seen": "2024-01-31T10:38:19.764Z"
               }
             ],
             "carl grimbergsgatan": [
@@ -75479,6 +75507,20 @@
                 "$districtName": "göteborgs karl johan",
                 "last_accept": 1228,
                 "$last_seen": "2023-04-17T04:47:17.678Z"
+              },
+              {
+                "id": 111504,
+                "rent": 7403,
+                "area": 55,
+                "street": "kusttorget",
+                "street_number": "6a",
+                "city": "göteborg",
+                "zip": "41455",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs karl johan",
+                "last_accept": 1090,
+                "$last_seen": "2024-01-31T10:38:19.764Z"
               }
             ],
             "stortoppsgatan": [
