@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-01-31T13:34:57.120Z",
+  "lastUpdatedAt": "2024-01-31T14:36:48.103Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -1683,6 +1683,20 @@
                 "$districtName": "fässberg",
                 "last_accept": 1485,
                 "$last_seen": "2024-01-30T15:34:35.681Z"
+              },
+              {
+                "id": 113161,
+                "rent": 10228,
+                "area": 70,
+                "street": "gustavsbergsgatan",
+                "street_number": "4",
+                "city": "mölndal",
+                "zip": "43137",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 1811,
+                "$last_seen": "2024-01-31T13:34:57.120Z"
               }
             ],
             "fredåsgatan": [
@@ -56413,6 +56427,20 @@
                 "$districtName": "örgryte",
                 "last_accept": 1001,
                 "$last_seen": "2024-01-31T08:35:57.992Z"
+              },
+              {
+                "id": 111653,
+                "rent": 12639,
+                "area": 70,
+                "street": "gräddgatan",
+                "street_number": "5",
+                "city": "göteborg",
+                "zip": "41276",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1437,
+                "$last_seen": "2024-01-31T13:34:57.120Z"
               }
             ],
             "anders zornsgatan": [
