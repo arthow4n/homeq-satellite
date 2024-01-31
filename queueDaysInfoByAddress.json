@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-01-31T06:37:41.685Z",
+  "lastUpdatedAt": "2024-01-31T07:34:29.449Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -26843,6 +26843,20 @@
                 "$districtName": "lundby",
                 "last_accept": 1444,
                 "$last_seen": "2024-01-09T07:36:18.505Z"
+              },
+              {
+                "id": 111538,
+                "rent": 9438,
+                "area": 68,
+                "street": "danagatan",
+                "street_number": "12",
+                "city": "göteborg",
+                "zip": "41876",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1268,
+                "$last_seen": "2024-01-31T06:37:41.685Z"
               }
             ],
             "trekantsgatan": [
@@ -39535,6 +39549,20 @@
                 "$districtName": "askim",
                 "last_accept": 1421,
                 "$last_seen": "2024-01-30T13:34:38.953Z"
+              },
+              {
+                "id": 112994,
+                "rent": 6683,
+                "area": 58,
+                "street": "pilegården",
+                "street_number": "1e",
+                "city": "göteborg",
+                "zip": "43635",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 1624,
+                "$last_seen": "2024-01-31T06:37:41.685Z"
               }
             ],
             "nergårdsvägen": [
@@ -63791,6 +63819,20 @@
                 "$districtName": "göteborgs vasa",
                 "last_accept": 1846,
                 "$last_seen": "2023-12-13T11:36:04.026Z"
+              },
+              {
+                "id": 111392,
+                "rent": 12083,
+                "area": 75,
+                "street": "engelbrektsgatan",
+                "street_number": "34 b",
+                "city": "göteborg",
+                "zip": "41137",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs vasa",
+                "last_accept": 1849,
+                "$last_seen": "2024-01-31T06:37:41.685Z"
               }
             ],
             "erik dahlbergsgatan": [
@@ -88519,20 +88561,6 @@
                 "$districtName": "malmö sankt pauli",
                 "last_accept": 618,
                 "$last_seen": "2023-12-04T07:36:12.249Z"
-              },
-              {
-                "id": 111389,
-                "rent": 13020,
-                "area": 79.8,
-                "street": "garagegatan",
-                "street_number": "16a",
-                "city": "malmö",
-                "zip": "21251",
-                "municipality": "malmö",
-                "county": "skåne län",
-                "$districtName": "malmö sankt pauli",
-                "last_accept": 109,
-                "$last_seen": "2024-01-30T06:38:42.171Z"
               }
             ],
             "lugna gatan": [
