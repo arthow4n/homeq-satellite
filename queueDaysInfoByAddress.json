@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-01-31T16:37:24.146Z",
+  "lastUpdatedAt": "2024-01-31T17:34:59.700Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -82877,20 +82877,6 @@
                 "$districtName": "partille",
                 "last_accept": 1208,
                 "$last_seen": "2024-01-16T10:42:16.912Z"
-              },
-              {
-                "id": 111622,
-                "rent": 8457,
-                "area": 57,
-                "street": "stärteredsvägen",
-                "street_number": "29",
-                "city": "jonsered",
-                "zip": "43375",
-                "municipality": "partille",
-                "county": "västra götalands län",
-                "$districtName": "partille",
-                "last_accept": 1521,
-                "$last_seen": "2024-01-31T14:36:48.103Z"
               }
             ],
             "länsmansvägen": [
@@ -95119,20 +95105,6 @@
                 "$districtName": "vantör",
                 "last_accept": 1945,
                 "$last_seen": "2024-01-22T08:41:56.086Z"
-              },
-              {
-                "id": 111629,
-                "rent": 6814,
-                "area": 41,
-                "street": "olshammarsgatan",
-                "street_number": "36",
-                "city": "bandhagen",
-                "zip": "12475",
-                "municipality": "stockholm",
-                "county": "stockholms län",
-                "$districtName": "vantör",
-                "last_accept": 1549,
-                "$last_seen": "2024-01-31T14:36:48.103Z"
               }
             ],
             "glanshammarsgatan": [
