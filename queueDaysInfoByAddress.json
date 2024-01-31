@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-01-31T22:37:17.656Z",
+  "lastUpdatedAt": "2024-01-31T23:35:04.914Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -87233,6 +87233,20 @@
                 "$districtName": "kirseberg",
                 "last_accept": 11,
                 "$last_seen": "2024-01-17T07:35:30.685Z"
+              },
+              {
+                "id": 111632,
+                "rent": 7170,
+                "area": 62,
+                "street": "lundavägen",
+                "street_number": "53a",
+                "city": "malmö",
+                "zip": "21224",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "kirseberg",
+                "last_accept": 897,
+                "$last_seen": "2024-01-31T22:37:17.656Z"
               }
             ],
             "högamöllegatan": [
@@ -95119,6 +95133,20 @@
                 "$districtName": "vantör",
                 "last_accept": 1945,
                 "$last_seen": "2024-01-22T08:41:56.086Z"
+              },
+              {
+                "id": 111629,
+                "rent": 6814,
+                "area": 41,
+                "street": "olshammarsgatan",
+                "street_number": "36",
+                "city": "bandhagen",
+                "zip": "12475",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 1549,
+                "$last_seen": "2024-01-31T22:37:17.656Z"
               }
             ],
             "glanshammarsgatan": [
