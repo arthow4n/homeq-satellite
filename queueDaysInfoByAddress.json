@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-02-01T14:37:11.491Z",
+  "lastUpdatedAt": "2024-02-01T15:35:49.446Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -11053,6 +11053,20 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1141,
                 "$last_seen": "2024-01-17T13:37:19.181Z"
+              },
+              {
+                "id": 112248,
+                "rent": 7509,
+                "area": 58,
+                "street": "övre besvärsgatan",
+                "street_number": "6",
+                "city": "göteborg",
+                "zip": "41129",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 2807,
+                "$last_seen": "2024-02-01T14:37:11.491Z"
               }
             ],
             "utlandagatan": [
@@ -16081,6 +16095,20 @@
                 "$districtName": "högsbo",
                 "last_accept": 0,
                 "$last_seen": "2024-01-26T08:37:21.102Z"
+              },
+              {
+                "id": 113017,
+                "rent": 8847,
+                "area": 62,
+                "street": "pennygången",
+                "street_number": "28",
+                "city": "göteborg",
+                "zip": "41482",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 1445,
+                "$last_seen": "2024-02-01T14:37:11.491Z"
               },
               {
                 "id": 113032,
@@ -24903,6 +24931,20 @@
                 "$districtName": "lundby",
                 "last_accept": 890,
                 "$last_seen": "2024-01-22T14:40:17.466Z"
+              },
+              {
+                "id": 113025,
+                "rent": 7160,
+                "area": 43,
+                "street": "fyrklöversgatan",
+                "street_number": "100",
+                "city": "göteborg",
+                "zip": "41721",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 755,
+                "$last_seen": "2024-02-01T14:37:11.491Z"
               }
             ],
             "arvid lindmansgatan": [
@@ -97761,6 +97803,20 @@
                 "$districtName": "hässelby",
                 "last_accept": 1076,
                 "$last_seen": "2024-01-29T08:37:42.855Z"
+              },
+              {
+                "id": 114009,
+                "rent": 8275,
+                "area": 58,
+                "street": "persikogatan",
+                "street_number": "4",
+                "city": "stockholm",
+                "zip": "16563",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "hässelby",
+                "last_accept": 972,
+                "$last_seen": "2024-02-01T14:37:11.491Z"
               }
             ]
           },
