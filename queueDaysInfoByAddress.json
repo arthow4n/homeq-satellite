@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-02-01T10:39:22.417Z",
+  "lastUpdatedAt": "2024-02-01T11:34:53.680Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -90129,6 +90129,20 @@
                 "$districtName": "hyllie",
                 "last_accept": 392,
                 "$last_seen": "2024-01-25T07:35:14.544Z"
+              },
+              {
+                "id": 111565,
+                "rent": 10756,
+                "area": 70.4,
+                "street": "hyllie vattenparksgata",
+                "street_number": "37",
+                "city": "malmö",
+                "zip": "21536",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "hyllie",
+                "last_accept": 540,
+                "$last_seen": "2024-02-01T10:39:22.417Z"
               }
             ],
             "svansjögatan": [
