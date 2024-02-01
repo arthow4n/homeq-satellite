@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-02-01T06:38:43.868Z",
+  "lastUpdatedAt": "2024-02-01T07:35:05.624Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -37327,6 +37327,20 @@
                 "$districtName": "kortedala",
                 "last_accept": 1282,
                 "$last_seen": "2024-01-31T10:38:19.764Z"
+              },
+              {
+                "id": 112678,
+                "rent": 5045,
+                "area": 51.5,
+                "street": "aprilgatan",
+                "street_number": "18",
+                "city": "göteborg",
+                "zip": "41546",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "kortedala",
+                "last_accept": 1306,
+                "$last_seen": "2024-02-01T06:38:43.868Z"
               }
             ],
             "februarigatan": [
@@ -95485,20 +95499,6 @@
                 "$districtName": "vantör",
                 "last_accept": 1936,
                 "$last_seen": "2024-01-18T09:36:02.723Z"
-              },
-              {
-                "id": 111620,
-                "rent": 7571,
-                "area": 55,
-                "street": "glanshammarsgatan",
-                "street_number": "67",
-                "city": "bandhagen",
-                "zip": "12471",
-                "municipality": "stockholm",
-                "county": "stockholms län",
-                "$districtName": "vantör",
-                "last_accept": 1806,
-                "$last_seen": "2024-01-31T23:35:04.914Z"
               },
               {
                 "id": 111631,
