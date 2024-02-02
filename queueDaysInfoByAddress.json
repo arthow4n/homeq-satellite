@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-02-02T09:35:22.139Z",
+  "lastUpdatedAt": "2024-02-02T10:39:00.622Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -37401,6 +37401,20 @@
                 "$last_seen": "2024-01-24T13:37:47.051Z"
               },
               {
+                "id": 110762,
+                "rent": 5272,
+                "area": 54,
+                "street": "aprilgatan",
+                "street_number": "40",
+                "city": "göteborg",
+                "zip": "41548",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "kortedala",
+                "last_accept": 1333,
+                "$last_seen": "2024-02-02T09:35:22.139Z"
+              },
+              {
                 "id": 111666,
                 "rent": 5278,
                 "area": 54,
@@ -57553,6 +57567,20 @@
                 "$districtName": "örgryte",
                 "last_accept": 1536,
                 "$last_seen": "2024-01-25T11:35:44.517Z"
+              },
+              {
+                "id": 113015,
+                "rent": 7585,
+                "area": 76,
+                "street": "mejerigatan",
+                "street_number": "6",
+                "city": "göteborg",
+                "zip": "41276",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1850,
+                "$last_seen": "2024-02-02T09:35:22.139Z"
               },
               {
                 "id": 113185,
@@ -79259,6 +79287,20 @@
                 "$districtName": "askim",
                 "last_accept": 330,
                 "$last_seen": "2024-01-03T12:52:28.777Z"
+              },
+              {
+                "id": 112387,
+                "rent": 12048,
+                "area": 68,
+                "street": "sisjöbäckens väg",
+                "street_number": "4",
+                "city": "askim",
+                "zip": "43638",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 519,
+                "$last_seen": "2024-02-02T09:35:22.139Z"
               }
             ],
             "kobbegården": [
@@ -96577,6 +96619,20 @@
                 "$districtName": "vantör",
                 "last_accept": 1843,
                 "$last_seen": "2024-01-25T13:37:47.961Z"
+              },
+              {
+                "id": 112586,
+                "rent": 10903,
+                "area": 67,
+                "street": "askersundsgatan",
+                "street_number": "4",
+                "city": "bandhagen",
+                "zip": "12467",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 1004,
+                "$last_seen": "2024-02-02T09:35:22.139Z"
               }
             ],
             "hagsätra torg": [
