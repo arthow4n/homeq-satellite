@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-02-02T12:49:34.428Z",
+  "lastUpdatedAt": "2024-02-02T13:35:11.443Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -17785,6 +17785,20 @@
                 "$districtName": "högsbo",
                 "last_accept": 1370,
                 "$last_seen": "2024-02-02T11:35:43.408Z"
+              },
+              {
+                "id": 112670,
+                "rent": 9160,
+                "area": 54,
+                "street": "lilla tunnlandsgatan",
+                "street_number": "7",
+                "city": "göteborg",
+                "zip": "41477",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 1283,
+                "$last_seen": "2024-02-02T12:49:34.428Z"
               }
             ],
             "sjupundsgatan": [
@@ -21919,6 +21933,20 @@
                 "$districtName": "lundby",
                 "last_accept": 0,
                 "$last_seen": "2024-01-30T19:34:37.488Z"
+              },
+              {
+                "id": 112653,
+                "rent": 9738,
+                "area": 54,
+                "street": "hjalmar brantingsgatan",
+                "street_number": "104",
+                "city": "göteborg",
+                "zip": "41711",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1155,
+                "$last_seen": "2024-02-02T12:49:34.428Z"
               }
             ],
             "rosenapelgatan": [
@@ -35793,6 +35821,20 @@
                 "$districtName": "kortedala",
                 "last_accept": 1191,
                 "$last_seen": "2024-01-19T08:40:02.292Z"
+              },
+              {
+                "id": 112677,
+                "rent": 8431,
+                "area": 59,
+                "street": "allhelgonagatan",
+                "street_number": "6",
+                "city": "göteborg",
+                "zip": "41545",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "kortedala",
+                "last_accept": 749,
+                "$last_seen": "2024-02-02T12:49:34.428Z"
               }
             ],
             "julaftonsgatan": [
@@ -54165,6 +54207,20 @@
                 "$districtName": "örgryte",
                 "last_accept": 1770,
                 "$last_seen": "2024-01-30T13:34:38.953Z"
+              },
+              {
+                "id": 112666,
+                "rent": 9793,
+                "area": 58,
+                "street": "smörgatan",
+                "street_number": "100",
+                "city": "göteborg",
+                "zip": "41276",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1033,
+                "$last_seen": "2024-02-02T12:49:34.428Z"
               }
             ],
             "prästgårdsängen": [
@@ -77827,6 +77883,20 @@
                 "$districtName": "kortedala",
                 "last_accept": 550,
                 "$last_seen": "2023-12-21T13:38:23.681Z"
+              },
+              {
+                "id": 112675,
+                "rent": 8310,
+                "area": 58,
+                "street": "januarigatan",
+                "street_number": "18",
+                "city": "göteborg ",
+                "zip": "41546",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "kortedala",
+                "last_accept": 744,
+                "$last_seen": "2024-02-02T12:49:34.428Z"
               }
             ]
           },
@@ -84639,6 +84709,20 @@
                 "$districtName": "malmö sankt petri",
                 "last_accept": 724,
                 "$last_seen": "2024-01-12T14:39:56.105Z"
+              },
+              {
+                "id": 112374,
+                "rent": 10170,
+                "area": 58,
+                "street": "lilla varvsgatan",
+                "street_number": "24",
+                "city": "malmö",
+                "zip": "21175",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "malmö sankt petri",
+                "last_accept": 299,
+                "$last_seen": "2024-02-02T12:49:34.428Z"
               }
             ],
             "stora trädgårdsgatan": [
