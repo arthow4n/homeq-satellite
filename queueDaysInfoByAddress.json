@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-02-02T06:38:04.773Z",
+  "lastUpdatedAt": "2024-02-02T07:35:34.135Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -98045,6 +98045,20 @@
                 "$districtName": "vantör",
                 "last_accept": 1475,
                 "$last_seen": "2023-08-21T08:46:06.957Z"
+              },
+              {
+                "id": 112291,
+                "rent": 9714,
+                "area": 70.7,
+                "street": "olshammarsgatan",
+                "street_number": "19",
+                "city": "stockholm",
+                "zip": "12475",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 1851,
+                "$last_seen": "2024-02-02T06:38:04.773Z"
               }
             ]
           },
