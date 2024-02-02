@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-02-02T14:36:19.111Z",
+  "lastUpdatedAt": "2024-02-02T15:35:15.626Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -79483,6 +79483,20 @@
                 "$districtName": "askim",
                 "last_accept": 519,
                 "$last_seen": "2024-02-02T09:35:22.139Z"
+              },
+              {
+                "id": 112890,
+                "rent": 7522,
+                "area": 33,
+                "street": "sisjöbäckens väg",
+                "street_number": "24",
+                "city": "askim",
+                "zip": "43638",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 454,
+                "$last_seen": "2024-02-02T14:36:19.111Z"
               }
             ],
             "kobbegården": [
