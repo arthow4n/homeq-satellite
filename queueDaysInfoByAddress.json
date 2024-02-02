@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-02-02T08:37:39.740Z",
+  "lastUpdatedAt": "2024-02-02T09:35:22.139Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -33396,6 +33396,22 @@
                 "last_accept": 1752,
                 "$last_seen": "2023-10-26T05:40:15.117Z"
               }
+            ],
+            "räntmästeragatan": [
+              {
+                "id": 112667,
+                "rent": 9443,
+                "area": 63,
+                "street": "räntmästeragatan",
+                "street_number": "5b",
+                "city": "göteborg",
+                "zip": "41658",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1850,
+                "$last_seen": "2024-02-02T08:37:39.740Z"
+              }
             ]
           },
           "björkekärr": {
@@ -43797,6 +43813,20 @@
                 "$districtName": "bergsjön",
                 "last_accept": 973,
                 "$last_seen": "2024-01-29T09:35:07.809Z"
+              },
+              {
+                "id": 113780,
+                "rent": 3503,
+                "area": 33,
+                "street": "galileis gata",
+                "street_number": "1",
+                "city": "göteborg",
+                "zip": "41554",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bergsjön",
+                "last_accept": 722,
+                "$last_seen": "2024-02-02T08:37:39.740Z"
               }
             ],
             "kosmosgatan": [
