@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-02-02T10:39:00.622Z",
+  "lastUpdatedAt": "2024-02-02T11:35:43.408Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -39749,6 +39749,34 @@
                 "$last_seen": "2024-01-30T13:34:38.953Z"
               },
               {
+                "id": 112383,
+                "rent": 14839,
+                "area": 108,
+                "street": "pilegården",
+                "street_number": "10a",
+                "city": "göteborg",
+                "zip": "43635",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 1577,
+                "$last_seen": "2024-02-02T10:39:00.622Z"
+              },
+              {
+                "id": 112674,
+                "rent": 10936,
+                "area": 76,
+                "street": "pilegården",
+                "street_number": "6 b",
+                "city": "göteborg",
+                "zip": "43635",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 1473,
+                "$last_seen": "2024-02-02T10:39:00.622Z"
+              },
+              {
                 "id": 112994,
                 "rent": 6683,
                 "area": 58,
@@ -63325,6 +63353,20 @@
                 "$districtName": "göteborgs vasa",
                 "last_accept": 1691,
                 "$last_seen": "2023-11-20T12:54:08.181Z"
+              },
+              {
+                "id": 112748,
+                "rent": 11781,
+                "area": 80,
+                "street": "mölndalsvägen",
+                "street_number": "1",
+                "city": "göteborg",
+                "zip": "41263",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs vasa",
+                "last_accept": 1851,
+                "$last_seen": "2024-02-02T10:39:00.622Z"
               }
             ],
             "götabergsgatan": [
@@ -80757,6 +80799,20 @@
                 "$districtName": "tynnered",
                 "last_accept": 1265,
                 "$last_seen": "2024-01-30T14:36:35.423Z"
+              },
+              {
+                "id": 112425,
+                "rent": 7728,
+                "area": 69,
+                "street": "smyckegatan",
+                "street_number": "24",
+                "city": "västra frölunda",
+                "zip": "42650",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tynnered",
+                "last_accept": 22,
+                "$last_seen": "2024-02-02T10:39:00.622Z"
               },
               {
                 "id": 112673,
