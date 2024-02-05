@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-02-05T11:35:24.279Z",
+  "lastUpdatedAt": "2024-02-05T12:51:15.402Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -11081,6 +11081,20 @@
                 "$districtName": "johanneberg",
                 "last_accept": 2807,
                 "$last_seen": "2024-02-01T14:37:11.491Z"
+              },
+              {
+                "id": 112730,
+                "rent": 5913,
+                "area": 49,
+                "street": "övre besvärsgatan",
+                "street_number": "13",
+                "city": "göteborg",
+                "zip": "41129",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1887,
+                "$last_seen": "2024-02-05T11:35:24.279Z"
               }
             ],
             "utlandagatan": [
@@ -53185,6 +53199,20 @@
                 "$districtName": "göteborgs domkyrkodistrikt",
                 "last_accept": 1868,
                 "$last_seen": "2023-12-20T09:34:04.612Z"
+              },
+              {
+                "id": 113307,
+                "rent": 7580,
+                "area": 75,
+                "street": "odinsgatan",
+                "street_number": "24 c",
+                "city": "göteborg",
+                "zip": "41103",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs domkyrkodistrikt",
+                "last_accept": 1936,
+                "$last_seen": "2024-02-05T11:35:24.279Z"
               }
             ],
             "haga kyrkogata": [
@@ -68939,6 +68967,34 @@
                 "$districtName": "masthugget",
                 "last_accept": 1600,
                 "$last_seen": "2023-10-16T10:45:18.444Z"
+              },
+              {
+                "id": 113658,
+                "rent": 9733,
+                "area": 55,
+                "street": "kolumbusgatan",
+                "street_number": "3",
+                "city": "göteborg",
+                "zip": "41465",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "masthugget",
+                "last_accept": 1748,
+                "$last_seen": "2024-02-05T11:35:24.279Z"
+              },
+              {
+                "id": 113662,
+                "rent": 10415,
+                "area": 55,
+                "street": "kolumbusgatan",
+                "street_number": "5",
+                "city": "göteborg",
+                "zip": "41465",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "masthugget",
+                "last_accept": 1668,
+                "$last_seen": "2024-02-05T11:35:24.279Z"
               }
             ],
             "stenklevsgatan": [
