@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-02-05T14:36:42.635Z",
+  "lastUpdatedAt": "2024-02-05T15:35:04.091Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -4533,6 +4533,20 @@
                 "$districtName": "fässberg",
                 "last_accept": 1102,
                 "$last_seen": "2024-01-05T08:39:36.305Z"
+              },
+              {
+                "id": 113651,
+                "rent": 8156,
+                "area": 38,
+                "street": "åbyvägen",
+                "street_number": "4 d",
+                "city": "göteborg",
+                "zip": "43162",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 862,
+                "$last_seen": "2024-02-05T14:36:42.635Z"
               }
             ],
             "krokslätts parkgata": [
@@ -35039,6 +35053,20 @@
                 "$districtName": "björkekärr",
                 "last_accept": 1785,
                 "$last_seen": "2024-01-24T13:37:47.051Z"
+              },
+              {
+                "id": 113029,
+                "rent": 5674,
+                "area": 30,
+                "street": "smörslätten",
+                "street_number": "16",
+                "city": "göteborg",
+                "zip": "41677",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "björkekärr",
+                "last_accept": 1018,
+                "$last_seen": "2024-02-05T14:36:42.635Z"
               }
             ],
             "lådspikaregatan": [
@@ -74061,6 +74089,20 @@
                 "$districtName": "biskopsgården",
                 "last_accept": 1079,
                 "$last_seen": "2024-01-23T09:35:22.597Z"
+              },
+              {
+                "id": 113045,
+                "rent": 10892,
+                "area": 83,
+                "street": "långströmsgatan",
+                "street_number": "52c",
+                "city": "göteborg",
+                "zip": "41870",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "biskopsgården",
+                "last_accept": 1254,
+                "$last_seen": "2024-02-05T14:36:42.635Z"
               }
             ],
             "lufttrycksgatan": [
@@ -94359,6 +94401,20 @@
                 "$districtName": "bunkeflo",
                 "last_accept": 0,
                 "$last_seen": "2024-01-18T08:39:46.708Z"
+              },
+              {
+                "id": 112679,
+                "rent": 9289,
+                "area": 69.7,
+                "street": "sadelmakarebyn",
+                "street_number": "6l",
+                "city": "bunkeflostrand",
+                "zip": "21840",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "bunkeflo",
+                "last_accept": 152,
+                "$last_seen": "2024-02-05T14:36:42.635Z"
               }
             ],
             "skomakarebyn": [
