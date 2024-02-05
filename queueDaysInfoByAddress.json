@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-02-05T12:51:15.402Z",
+  "lastUpdatedAt": "2024-02-05T13:35:08.694Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -18929,6 +18929,20 @@
                 "$districtName": "brämaregården",
                 "last_accept": 1267,
                 "$last_seen": "2024-01-30T08:37:24.725Z"
+              },
+              {
+                "id": 112864,
+                "rent": 8293,
+                "area": 44,
+                "street": "gustaf dalénsgatan",
+                "street_number": "7 b",
+                "city": "göteborg",
+                "zip": "41723",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brämaregården",
+                "last_accept": 1471,
+                "$last_seen": "2024-02-05T12:51:15.402Z"
               }
             ],
             "lantmätaregatan": [
@@ -40605,6 +40619,20 @@
                 "$last_seen": "2024-01-29T09:35:07.809Z"
               },
               {
+                "id": 112732,
+                "rent": 4934,
+                "area": 34,
+                "street": "nergårdsvägen",
+                "street_number": "27",
+                "city": "göteborg",
+                "zip": "43636",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 1310,
+                "$last_seen": "2024-02-05T12:51:15.402Z"
+              },
+              {
                 "id": 112893,
                 "rent": 5710,
                 "area": 34,
@@ -40645,6 +40673,20 @@
                 "$districtName": "askim",
                 "last_accept": 495,
                 "$last_seen": "2024-01-29T08:37:42.855Z"
+              },
+              {
+                "id": 113676,
+                "rent": 5366,
+                "area": 28,
+                "street": "nergårdsvägen",
+                "street_number": "7",
+                "city": "göteborg",
+                "zip": "43636",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 947,
+                "$last_seen": "2024-02-05T12:51:15.402Z"
               }
             ],
             "hyltegården": [
