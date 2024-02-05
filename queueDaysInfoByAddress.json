@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-02-05T09:35:43.202Z",
+  "lastUpdatedAt": "2024-02-05T10:40:37.381Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -26755,6 +26755,20 @@
                 "$districtName": "lundby",
                 "last_accept": 1442,
                 "$last_seen": "2024-01-15T09:37:25.282Z"
+              },
+              {
+                "id": 112953,
+                "rent": 6500,
+                "area": 66,
+                "street": "hullgatan",
+                "street_number": "4a",
+                "city": "göteborg",
+                "zip": "41877",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1854,
+                "$last_seen": "2024-02-05T09:35:43.202Z"
               }
             ],
             "enekullegatan": [
@@ -75331,6 +75345,20 @@
                 "$districtName": "tuve",
                 "last_accept": 1614,
                 "$last_seen": "2024-01-19T07:35:17.623Z"
+              },
+              {
+                "id": 114007,
+                "rent": 11524,
+                "area": 71,
+                "street": "fruktträdsgatan",
+                "street_number": "1",
+                "city": "göteborg",
+                "zip": "41749",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tuve",
+                "last_accept": 1587,
+                "$last_seen": "2024-02-05T09:35:43.202Z"
               }
             ]
           },
@@ -77397,6 +77425,20 @@
                 "$districtName": "haga",
                 "last_accept": 1768,
                 "$last_seen": "2023-10-11T13:00:01.100Z"
+              },
+              {
+                "id": 113171,
+                "rent": 8152,
+                "area": 61,
+                "street": "nilssonsberg",
+                "street_number": "34",
+                "city": "göteborg",
+                "zip": "41143",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "haga",
+                "last_accept": 1940,
+                "$last_seen": "2024-02-05T09:35:43.202Z"
               }
             ]
           },
@@ -81921,6 +81963,20 @@
                 "$districtName": "västra frölunda",
                 "last_accept": 1010,
                 "$last_seen": "2024-01-08T09:35:55.569Z"
+              },
+              {
+                "id": 113166,
+                "rent": 11482,
+                "area": 80,
+                "street": "munspelsgatan",
+                "street_number": "8",
+                "city": "västra frölunda",
+                "zip": "42151",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "västra frölunda",
+                "last_accept": 1524,
+                "$last_seen": "2024-02-05T09:35:43.202Z"
               }
             ],
             "speldosegatan": [
@@ -83530,6 +83586,22 @@
                 "last_accept": 1485,
                 "$last_seen": "2023-09-29T09:39:58.265Z"
               }
+            ],
+            "vävarevägen": [
+              {
+                "id": 113240,
+                "rent": 8940,
+                "area": 106,
+                "street": "vävarevägen",
+                "street_number": "4 d",
+                "city": "jonsered",
+                "zip": "43375",
+                "municipality": "partille",
+                "county": "västra götalands län",
+                "$districtName": "partille",
+                "last_accept": 1854,
+                "$last_seen": "2024-02-05T09:35:43.202Z"
+              }
             ]
           }
         }
@@ -84849,6 +84921,20 @@
                 "$districtName": "malmö sankt petri",
                 "last_accept": 299,
                 "$last_seen": "2024-02-02T12:49:34.428Z"
+              },
+              {
+                "id": 113144,
+                "rent": 10362,
+                "area": 58,
+                "street": "lilla varvsgatan",
+                "street_number": "24",
+                "city": "malmö",
+                "zip": "21175",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "malmö sankt petri",
+                "last_accept": 669,
+                "$last_seen": "2024-02-05T09:35:43.202Z"
               }
             ],
             "stora trädgårdsgatan": [
@@ -89659,6 +89745,20 @@
                 "$districtName": "hyllie",
                 "last_accept": 193,
                 "$last_seen": "2023-12-19T10:39:48.972Z"
+              },
+              {
+                "id": 113613,
+                "rent": 8517,
+                "area": 45,
+                "street": "hyllie allé",
+                "street_number": "26b",
+                "city": "malmö",
+                "zip": "21535",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "hyllie",
+                "last_accept": 7,
+                "$last_seen": "2024-02-05T09:35:43.202Z"
               }
             ],
             "tors gränd": [
@@ -90621,6 +90721,20 @@
                 "$districtName": "hyllie",
                 "last_accept": 540,
                 "$last_seen": "2024-02-01T10:39:22.417Z"
+              },
+              {
+                "id": 113395,
+                "rent": 10950,
+                "area": 67.5,
+                "street": "hyllie vattenparksgata",
+                "street_number": "39",
+                "city": "malmö",
+                "zip": "21536",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "hyllie",
+                "last_accept": 431,
+                "$last_seen": "2024-02-05T09:35:43.202Z"
               }
             ],
             "svansjögatan": [
