@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-02-05T17:35:09.882Z",
+  "lastUpdatedAt": "2024-02-05T18:38:57.885Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -16151,6 +16151,20 @@
                 "$districtName": "högsbo",
                 "last_accept": 1445,
                 "$last_seen": "2024-02-01T14:37:11.491Z"
+              },
+              {
+                "id": 113022,
+                "rent": 8418,
+                "area": 62,
+                "street": "pennygången",
+                "street_number": "27",
+                "city": "göteborg",
+                "zip": "41482",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 1323,
+                "$last_seen": "2024-02-05T17:35:09.882Z"
               },
               {
                 "id": 113032,
