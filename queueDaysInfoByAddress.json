@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-02-05T13:35:08.694Z",
+  "lastUpdatedAt": "2024-02-05T14:36:42.635Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -100169,6 +100169,20 @@
                 "$districtName": "skarpnäck",
                 "last_accept": 1872,
                 "$last_seen": "2023-12-11T09:37:37.716Z"
+              },
+              {
+                "id": 112882,
+                "rent": 8381,
+                "area": 54,
+                "street": "lagavägen",
+                "street_number": "25",
+                "city": "bagarmossen",
+                "zip": "12843",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "skarpnäck",
+                "last_accept": 1931,
+                "$last_seen": "2024-02-05T13:35:08.694Z"
               }
             ]
           }
