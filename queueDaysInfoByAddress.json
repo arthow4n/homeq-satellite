@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-02-05T07:35:25.573Z",
+  "lastUpdatedAt": "2024-02-05T08:38:26.493Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -22119,6 +22119,20 @@
                 "$districtName": "lundby",
                 "last_accept": 1524,
                 "$last_seen": "2023-12-18T07:34:59.094Z"
+              },
+              {
+                "id": 113202,
+                "rent": 8917,
+                "area": 62,
+                "street": "södra säterigatan",
+                "street_number": "13",
+                "city": "göteborg",
+                "zip": "41876",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1386,
+                "$last_seen": "2024-02-05T07:35:25.573Z"
               }
             ],
             "trollhasselgatan": [
@@ -30793,6 +30807,34 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1801,
                 "$last_seen": "2023-12-20T12:44:41.520Z"
+              },
+              {
+                "id": 113402,
+                "rent": 13629,
+                "area": 106,
+                "street": "st pauligatan",
+                "street_number": "3",
+                "city": "göteborg",
+                "zip": "41660",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1854,
+                "$last_seen": "2024-02-05T07:35:25.573Z"
+              },
+              {
+                "id": 113403,
+                "rent": 13872,
+                "area": 100,
+                "street": "st pauligatan",
+                "street_number": "10",
+                "city": "göteborg",
+                "zip": "41660",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1854,
+                "$last_seen": "2024-02-05T07:35:25.573Z"
               }
             ],
             "platågatan": [
@@ -79511,6 +79553,20 @@
                 "$districtName": "askim",
                 "last_accept": 457,
                 "$last_seen": "2024-02-05T06:39:24.485Z"
+              },
+              {
+                "id": 113726,
+                "rent": 10852,
+                "area": 54,
+                "street": "sisjöbäckens väg",
+                "street_number": "24",
+                "city": "askim",
+                "zip": "43638",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 8,
+                "$last_seen": "2024-02-05T07:35:25.573Z"
               }
             ],
             "kobbegården": [
