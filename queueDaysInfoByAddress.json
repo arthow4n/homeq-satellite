@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-02-06T08:37:40.744Z",
+  "lastUpdatedAt": "2024-02-06T09:35:01.950Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -56525,20 +56525,6 @@
                 "$districtName": "örgryte",
                 "last_accept": 1505,
                 "$last_seen": "2024-01-17T09:36:12.113Z"
-              },
-              {
-                "id": 112995,
-                "rent": 10566,
-                "area": 54,
-                "street": "tändsticksgatan",
-                "street_number": "2",
-                "city": "göteborg",
-                "zip": "41263",
-                "municipality": "göteborg",
-                "county": "västra götalands län",
-                "$districtName": "örgryte",
-                "last_accept": 1292,
-                "$last_seen": "2024-02-06T07:35:38.887Z"
               }
             ],
             "gräddgatan": [
@@ -61607,6 +61593,34 @@
                 "$districtName": "annedal",
                 "last_accept": 1837,
                 "$last_seen": "2024-01-19T11:35:34.768Z"
+              },
+              {
+                "id": 113174,
+                "rent": 9063,
+                "area": 62,
+                "street": "carl grimbergsgatan",
+                "street_number": "23",
+                "city": "göteborg",
+                "zip": "41313",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "annedal",
+                "last_accept": 1855,
+                "$last_seen": "2024-02-06T08:37:40.744Z"
+              },
+              {
+                "id": 113668,
+                "rent": 9594,
+                "area": 54,
+                "street": "carl grimbergsgatan",
+                "street_number": "19",
+                "city": "göteborg",
+                "zip": "41313",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "annedal",
+                "last_accept": 1851,
+                "$last_seen": "2024-02-06T08:37:40.744Z"
               }
             ],
             "västergatan": [
@@ -79025,6 +79039,20 @@
                 "$districtName": "brunnsbo",
                 "last_accept": 1218,
                 "$last_seen": "2024-01-15T16:46:13.874Z"
+              },
+              {
+                "id": 113591,
+                "rent": 6377,
+                "area": 40,
+                "street": "prologgatan",
+                "street_number": "2",
+                "city": "hisings backa",
+                "zip": "42241",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brunnsbo",
+                "last_accept": 1036,
+                "$last_seen": "2024-02-06T08:37:40.744Z"
               }
             ],
             "sångspelsgatan": [
