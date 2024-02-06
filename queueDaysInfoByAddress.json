@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-02-06T12:50:12.045Z",
+  "lastUpdatedAt": "2024-02-06T13:34:33.150Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -52149,6 +52149,20 @@
                 "$districtName": "göteborgs domkyrkodistrikt",
                 "last_accept": 1554,
                 "$last_seen": "2024-02-06T10:39:42.843Z"
+              },
+              {
+                "id": 113004,
+                "rent": 6949,
+                "area": 34,
+                "street": "bangårdsgatan",
+                "street_number": "15",
+                "city": "göteborg",
+                "zip": "41112",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs domkyrkodistrikt",
+                "last_accept": 1607,
+                "$last_seen": "2024-02-06T12:50:12.045Z"
               }
             ],
             "burggreveplatsen": [
@@ -59621,6 +59635,20 @@
                 "$districtName": "örgryte",
                 "last_accept": 559,
                 "$last_seen": "2023-12-19T07:34:19.916Z"
+              },
+              {
+                "id": 114014,
+                "rent": 13487,
+                "area": 71,
+                "street": "kallebäcks torggata",
+                "street_number": "16",
+                "city": "göteborg",
+                "zip": "41278",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1448,
+                "$last_seen": "2024-02-06T12:50:12.045Z"
               }
             ],
             "kallebäcksvägen": [
@@ -86633,6 +86661,20 @@
                 "$districtName": "möllevången",
                 "last_accept": 942,
                 "$last_seen": "2024-01-03T11:34:31.758Z"
+              },
+              {
+                "id": 112947,
+                "rent": 4521,
+                "area": 41,
+                "street": "södra förstadsgatan",
+                "street_number": "118",
+                "city": "malmö",
+                "zip": "21428",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "möllevången",
+                "last_accept": 1471,
+                "$last_seen": "2024-02-06T12:50:12.045Z"
               }
             ],
             "almbacksgatan": [
