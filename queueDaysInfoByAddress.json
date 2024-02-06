@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-02-06T13:34:33.150Z",
+  "lastUpdatedAt": "2024-02-06T14:36:02.604Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -21311,6 +21311,34 @@
                 "$districtName": "brämaregården",
                 "last_accept": 1770,
                 "$last_seen": "2023-11-15T16:48:02.110Z"
+              },
+              {
+                "id": 113238,
+                "rent": 13616,
+                "area": 49,
+                "street": "karlavagnsgatan",
+                "street_number": "1",
+                "city": "göteborg",
+                "zip": "41755",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brämaregården",
+                "last_accept": 719,
+                "$last_seen": "2024-02-06T13:34:33.150Z"
+              },
+              {
+                "id": 113239,
+                "rent": 12417,
+                "area": 51,
+                "street": "karlavagnsgatan",
+                "street_number": "1",
+                "city": "göteborg",
+                "zip": "41755",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brämaregården",
+                "last_accept": 959,
+                "$last_seen": "2024-02-06T13:34:33.150Z"
               }
             ],
             "björnsonsgatan": [
@@ -61733,6 +61761,20 @@
                 "$districtName": "annedal",
                 "last_accept": 1837,
                 "$last_seen": "2024-01-19T11:35:34.768Z"
+              },
+              {
+                "id": 113165,
+                "rent": 9669,
+                "area": 62,
+                "street": "carl grimbergsgatan",
+                "street_number": "23",
+                "city": "göteborg",
+                "zip": "41313",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "annedal",
+                "last_accept": 1769,
+                "$last_seen": "2024-02-06T13:34:33.150Z"
               },
               {
                 "id": 113174,
