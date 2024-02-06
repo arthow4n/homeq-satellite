@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-02-06T09:35:01.950Z",
+  "lastUpdatedAt": "2024-02-06T10:39:42.843Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -56525,6 +56525,76 @@
                 "$districtName": "örgryte",
                 "last_accept": 1505,
                 "$last_seen": "2024-01-17T09:36:12.113Z"
+              },
+              {
+                "id": 112986,
+                "rent": 9568,
+                "area": 52,
+                "street": "tändsticksgatan",
+                "street_number": "2",
+                "city": "göteborg",
+                "zip": "41263",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1371,
+                "$last_seen": "2024-02-06T09:35:01.950Z"
+              },
+              {
+                "id": 112989,
+                "rent": 11614,
+                "area": 64,
+                "street": "tändsticksgatan",
+                "street_number": "2",
+                "city": "göteborg",
+                "zip": "41263",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 883,
+                "$last_seen": "2024-02-06T09:35:01.950Z"
+              },
+              {
+                "id": 112990,
+                "rent": 12364,
+                "area": 64,
+                "street": "tändsticksgatan",
+                "street_number": "2",
+                "city": "göteborg",
+                "zip": "41263",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 844,
+                "$last_seen": "2024-02-06T09:35:01.950Z"
+              },
+              {
+                "id": 112992,
+                "rent": 12004,
+                "area": 64,
+                "street": "tändsticksgatan",
+                "street_number": "2",
+                "city": "göteborg",
+                "zip": "41263",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 929,
+                "$last_seen": "2024-02-06T09:35:01.950Z"
+              },
+              {
+                "id": 112995,
+                "rent": 10566,
+                "area": 54,
+                "street": "tändsticksgatan",
+                "street_number": "2",
+                "city": "göteborg",
+                "zip": "41263",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1292,
+                "$last_seen": "2024-02-06T09:35:01.950Z"
               }
             ],
             "gräddgatan": [
@@ -81843,6 +81913,20 @@
                 "$districtName": "tynnered",
                 "last_accept": 1416,
                 "$last_seen": "2024-01-03T11:34:31.758Z"
+              },
+              {
+                "id": 112959,
+                "rent": 7847,
+                "area": 86,
+                "street": "safirgatan",
+                "street_number": "10",
+                "city": "västra frölunda",
+                "zip": "42148",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tynnered",
+                "last_accept": 1844,
+                "$last_seen": "2024-02-06T09:35:01.950Z"
               }
             ],
             "lilla grevegårdsvägen": [
@@ -100041,6 +100125,20 @@
                 "$districtName": "spånga",
                 "last_accept": 1560,
                 "$last_seen": "2023-10-17T07:39:58.236Z"
+              },
+              {
+                "id": 114303,
+                "rent": 7580,
+                "area": 81.3,
+                "street": "nybykroken",
+                "street_number": "21",
+                "city": "spånga",
+                "zip": "16370",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "spånga",
+                "last_accept": 1910,
+                "$last_seen": "2024-02-06T09:35:01.950Z"
               }
             ]
           },
@@ -100405,6 +100503,20 @@
                 "$districtName": "spånga",
                 "last_accept": 1448,
                 "$last_seen": "2024-01-23T06:41:27.779Z"
+              },
+              {
+                "id": 114378,
+                "rent": 5540,
+                "area": 31,
+                "street": "nybykroken",
+                "street_number": "35",
+                "city": "spånga ",
+                "zip": "16370",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "spånga",
+                "last_accept": 836,
+                "$last_seen": "2024-02-06T09:35:01.950Z"
               }
             ]
           }
