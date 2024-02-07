@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-02-07T11:34:43.562Z",
+  "lastUpdatedAt": "2024-02-07T12:49:35.954Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -71845,6 +71845,20 @@
                 "$districtName": "biskopsgården",
                 "last_accept": 597,
                 "$last_seen": "2024-01-22T08:41:56.086Z"
+              },
+              {
+                "id": 113213,
+                "rent": 5228,
+                "area": 32,
+                "street": "temperaturgatan",
+                "street_number": "5",
+                "city": "göteborg",
+                "zip": "41841",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "biskopsgården",
+                "last_accept": 810,
+                "$last_seen": "2024-02-07T11:34:43.562Z"
               }
             ],
             "solstrålegatan": [
@@ -86251,6 +86265,20 @@
                 "$districtName": "malmö sankt petri",
                 "last_accept": 489,
                 "$last_seen": "2024-01-11T11:36:47.723Z"
+              },
+              {
+                "id": 113834,
+                "rent": 16573,
+                "area": 114.5,
+                "street": "v rönneholmsvägen",
+                "street_number": "37 a",
+                "city": "malmö",
+                "zip": "21741",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "malmö sankt petri",
+                "last_accept": 427,
+                "$last_seen": "2024-02-07T11:34:43.562Z"
               }
             ],
             "stora kvarng": [
