@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-02-07T12:49:35.954Z",
+  "lastUpdatedAt": "2024-02-07T13:34:36.781Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -59613,6 +59613,20 @@
                 "$districtName": "örgryte",
                 "last_accept": 1789,
                 "$last_seen": "2023-12-20T11:33:39.133Z"
+              },
+              {
+                "id": 113179,
+                "rent": 7100,
+                "area": 49,
+                "street": "birkagatan",
+                "street_number": "59 a",
+                "city": "göteborg",
+                "zip": "41656",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1755,
+                "$last_seen": "2024-02-07T12:49:35.954Z"
               }
             ],
             "s:t pauligatan": [
