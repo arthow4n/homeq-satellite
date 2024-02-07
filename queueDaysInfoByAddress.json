@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-02-07T15:34:49.707Z",
+  "lastUpdatedAt": "2024-02-07T16:40:29.481Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -31005,6 +31005,20 @@
                 "$last_seen": "2023-12-20T12:44:41.520Z"
               },
               {
+                "id": 113391,
+                "rent": 7372,
+                "area": 45,
+                "street": "st pauligatan",
+                "street_number": "28",
+                "city": "göteborg",
+                "zip": "41660",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1856,
+                "$last_seen": "2024-02-07T15:34:49.707Z"
+              },
+              {
                 "id": 113402,
                 "rent": 13629,
                 "area": 106,
@@ -31187,6 +31201,20 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1807,
                 "$last_seen": "2023-12-20T12:44:41.520Z"
+              },
+              {
+                "id": 113394,
+                "rent": 5850,
+                "area": 23,
+                "street": "platågatan",
+                "street_number": "4b",
+                "city": "göteborg",
+                "zip": "41659",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1537,
+                "$last_seen": "2024-02-07T15:34:49.707Z"
               }
             ],
             "mäster johansgatan": [
@@ -86337,6 +86365,22 @@
                 "$districtName": "malmö sankt petri",
                 "last_accept": 434,
                 "$last_seen": "2023-11-10T12:58:14.626Z"
+              }
+            ],
+            "grönegatan": [
+              {
+                "id": 113294,
+                "rent": 5163,
+                "area": 28,
+                "street": "grönegatan",
+                "street_number": "34",
+                "city": "malmö",
+                "zip": "21127",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "malmö sankt petri",
+                "last_accept": 916,
+                "$last_seen": "2024-02-07T15:34:49.707Z"
               }
             ]
           },
