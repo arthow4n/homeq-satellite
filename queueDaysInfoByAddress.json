@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-02-07T13:34:36.781Z",
+  "lastUpdatedAt": "2024-02-07T14:35:53.216Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -48841,6 +48841,20 @@
                 "$districtName": "nylöse",
                 "last_accept": 1282,
                 "$last_seen": "2023-06-22T11:44:02.177Z"
+              },
+              {
+                "id": 113304,
+                "rent": 8475,
+                "area": 50,
+                "street": "lars kaggsgatan",
+                "street_number": "33d",
+                "city": "göteborg",
+                "zip": "41516",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "nylöse",
+                "last_accept": 1657,
+                "$last_seen": "2024-02-07T13:34:36.781Z"
               }
             ],
             "björnekärrsgatan": [
@@ -94053,6 +94067,20 @@
                 "$districtName": "limhamn",
                 "last_accept": 382,
                 "$last_seen": "2024-01-16T07:36:09.088Z"
+              },
+              {
+                "id": 113932,
+                "rent": 9444,
+                "area": 72,
+                "street": "grönalundsgatan",
+                "street_number": "1 a",
+                "city": "limhamn",
+                "zip": "21616",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "limhamn",
+                "last_accept": 14,
+                "$last_seen": "2024-02-07T12:49:35.954Z"
               }
             ],
             "västra bernadottesgatan": [
