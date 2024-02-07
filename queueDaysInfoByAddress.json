@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-02-07T06:36:54.418Z",
+  "lastUpdatedAt": "2024-02-07T07:34:22.323Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -98649,6 +98649,20 @@
                 "$districtName": "hässelby",
                 "last_accept": 1157,
                 "$last_seen": "2024-01-19T12:54:14.093Z"
+              },
+              {
+                "id": 114276,
+                "rent": 9288,
+                "area": 70,
+                "street": "enspännargatan",
+                "street_number": "14",
+                "city": "hässelby",
+                "zip": "16557",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "hässelby",
+                "last_accept": 1781,
+                "$last_seen": "2024-02-07T06:36:54.418Z"
               }
             ]
           }
