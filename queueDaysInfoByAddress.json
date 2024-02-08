@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-02-08T11:34:51.515Z",
+  "lastUpdatedAt": "2024-02-08T12:49:13.144Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -49859,6 +49859,20 @@
                 "$districtName": "härlanda",
                 "last_accept": 1827,
                 "$last_seen": "2023-10-02T05:40:43.403Z"
+              },
+              {
+                "id": 114420,
+                "rent": 5437,
+                "area": 45,
+                "street": "sanatoriegatan",
+                "street_number": "20 a",
+                "city": "göteborg",
+                "zip": "41653",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "härlanda",
+                "last_accept": 1853,
+                "$last_seen": "2024-02-08T11:34:51.515Z"
               }
             ],
             "intagsgatan": [
@@ -75107,6 +75121,20 @@
                 "$districtName": "styrsö",
                 "last_accept": 0,
                 "$last_seen": "2023-01-23T07:38:40.180Z"
+              },
+              {
+                "id": 113601,
+                "rent": 11510,
+                "area": 74,
+                "street": "arves marias väg",
+                "street_number": "8",
+                "city": "göteborg",
+                "zip": "41747",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "styrsö",
+                "last_accept": 757,
+                "$last_seen": "2024-02-08T11:34:51.515Z"
               }
             ]
           },
@@ -75761,6 +75789,20 @@
                 "$districtName": "tuve",
                 "last_accept": 715,
                 "$last_seen": "2023-12-14T09:35:30.579Z"
+              },
+              {
+                "id": 113603,
+                "rent": 8685,
+                "area": 45,
+                "street": "arves marias väg",
+                "street_number": "10",
+                "city": "göteborg",
+                "zip": "41747",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tuve",
+                "last_accept": 693,
+                "$last_seen": "2024-02-08T11:34:51.515Z"
               }
             ],
             "finlandsvägen": [
