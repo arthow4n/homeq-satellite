@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-02-08T14:35:28.971Z",
+  "lastUpdatedAt": "2024-02-08T15:34:39.960Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -40223,6 +40223,20 @@
                 "$districtName": "askim",
                 "last_accept": 1390,
                 "$last_seen": "2024-02-08T09:34:42.700Z"
+              },
+              {
+                "id": 114004,
+                "rent": 13337,
+                "area": 99,
+                "street": "pilegården",
+                "street_number": "4c",
+                "city": "göteborg",
+                "zip": "43635",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 1670,
+                "$last_seen": "2024-02-08T14:35:28.971Z"
               }
             ],
             "nergårdsvägen": [
@@ -80409,6 +80423,20 @@
                 "$last_seen": "2024-02-05T15:35:04.091Z"
               },
               {
+                "id": 113677,
+                "rent": 10414,
+                "area": 51,
+                "street": "sisjöbäckens väg",
+                "street_number": "22",
+                "city": "askim",
+                "zip": "43638",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 11,
+                "$last_seen": "2024-02-08T14:35:28.971Z"
+              },
+              {
                 "id": 113726,
                 "rent": 10852,
                 "area": 54,
@@ -101473,6 +101501,20 @@
                 "$districtName": "österhaninge",
                 "last_accept": 393,
                 "$last_seen": "2024-02-01T13:35:18.777Z"
+              },
+              {
+                "id": 113758,
+                "rent": 13291,
+                "area": 62,
+                "street": "vardövägen",
+                "street_number": "44",
+                "city": "stockholm",
+                "zip": "13657",
+                "municipality": "haninge",
+                "county": "stockholms län",
+                "$districtName": "österhaninge",
+                "last_accept": 2,
+                "$last_seen": "2024-02-08T14:35:28.971Z"
               }
             ]
           }
