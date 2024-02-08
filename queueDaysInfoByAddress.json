@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-02-08T07:34:45.459Z",
+  "lastUpdatedAt": "2024-02-08T08:36:19.799Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -32991,6 +32991,20 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1840,
                 "$last_seen": "2024-01-24T11:34:37.650Z"
+              },
+              {
+                "id": 113397,
+                "rent": 7052,
+                "area": 39,
+                "street": "danska vägen",
+                "street_number": "73d",
+                "city": "göteborg",
+                "zip": "41659",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1627,
+                "$last_seen": "2024-02-08T07:34:45.459Z"
               }
             ],
             "vävskedsgatan": [
@@ -71985,6 +71999,34 @@
                 "$districtName": "biskopsgården",
                 "last_accept": 810,
                 "$last_seen": "2024-02-07T11:34:43.562Z"
+              },
+              {
+                "id": 113369,
+                "rent": 6927,
+                "area": 48,
+                "street": "temperaturgatan",
+                "street_number": "11",
+                "city": "göteborg",
+                "zip": "41841",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "biskopsgården",
+                "last_accept": 416,
+                "$last_seen": "2024-02-08T07:34:45.459Z"
+              },
+              {
+                "id": 113374,
+                "rent": 7522,
+                "area": 75,
+                "street": "temperaturgatan",
+                "street_number": "77",
+                "city": "göteborg",
+                "zip": "41841",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "biskopsgården",
+                "last_accept": 1471,
+                "$last_seen": "2024-02-08T07:34:45.459Z"
               }
             ],
             "solstrålegatan": [
