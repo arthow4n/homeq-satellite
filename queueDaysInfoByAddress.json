@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-02-09T11:34:31.402Z",
+  "lastUpdatedAt": "2024-02-09T12:48:32.855Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -49913,6 +49913,20 @@
                 "$districtName": "härlanda",
                 "last_accept": 909,
                 "$last_seen": "2024-01-30T11:34:51.757Z"
+              },
+              {
+                "id": 113771,
+                "rent": 9443,
+                "area": 69,
+                "street": "lagmansgatan",
+                "street_number": "2",
+                "city": "göteborg",
+                "zip": "41653",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "härlanda",
+                "last_accept": 1914,
+                "$last_seen": "2024-02-09T11:34:31.402Z"
               }
             ],
             "sanatoriegatan": [
@@ -75673,6 +75687,20 @@
                 "$districtName": "tuve",
                 "last_accept": 312,
                 "$last_seen": "2024-01-19T08:40:02.292Z"
+              },
+              {
+                "id": 113741,
+                "rent": 6829,
+                "area": 28.5,
+                "street": "gunnestorpsvägen",
+                "street_number": "133",
+                "city": "göteborg",
+                "zip": "41747",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tuve",
+                "last_accept": 483,
+                "$last_seen": "2024-02-09T11:34:31.402Z"
               }
             ],
             "gubbe lars väg": [
