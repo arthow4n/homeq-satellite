@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-02-09T07:34:20.145Z",
+  "lastUpdatedAt": "2024-02-09T08:35:36.377Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -69047,6 +69047,20 @@
                 "$districtName": "masthugget",
                 "last_accept": 1634,
                 "$last_seen": "2024-02-06T10:39:42.843Z"
+              },
+              {
+                "id": 113769,
+                "rent": 8213,
+                "area": 83,
+                "street": "bangatan",
+                "street_number": "36",
+                "city": "göteborg",
+                "zip": "41747",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "masthugget",
+                "last_accept": 1843,
+                "$last_seen": "2024-02-01T10:39:22.417Z"
               },
               {
                 "id": 113917,
