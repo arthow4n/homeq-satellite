@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-02-10T09:34:41.294Z",
+  "lastUpdatedAt": "2024-02-10T10:36:51.585Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -88383,20 +88383,6 @@
                 "$districtName": "kirseberg",
                 "last_accept": 0,
                 "$last_seen": "2024-01-11T08:41:24.704Z"
-              },
-              {
-                "id": 114084,
-                "rent": 9995,
-                "area": 89,
-                "street": "rosendalsv",
-                "street_number": "5",
-                "city": "malmö",
-                "zip": "21219",
-                "municipality": "malmö",
-                "county": "skåne län",
-                "$districtName": "kirseberg",
-                "last_accept": 508,
-                "$last_seen": "2024-02-09T14:35:21.862Z"
               }
             ],
             "segeparksgatan": [
