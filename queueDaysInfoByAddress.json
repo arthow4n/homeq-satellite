@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-02-09T23:34:35.093Z",
+  "lastUpdatedAt": "2024-02-10T01:33:08.649Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -11193,20 +11193,6 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1887,
                 "$last_seen": "2024-02-05T11:35:24.279Z"
-              },
-              {
-                "id": 113722,
-                "rent": 4803,
-                "area": 34,
-                "street": "övre besvärsgatan",
-                "street_number": "4",
-                "city": "göteborg",
-                "zip": "41129",
-                "municipality": "göteborg",
-                "county": "västra götalands län",
-                "$districtName": "johanneberg",
-                "last_accept": 1817,
-                "$last_seen": "2024-02-09T21:34:38.649Z"
               }
             ],
             "utlandagatan": [
@@ -21465,6 +21451,20 @@
                 "$districtName": "brämaregården",
                 "last_accept": 1003,
                 "$last_seen": "2024-02-07T07:34:22.323Z"
+              },
+              {
+                "id": 113730,
+                "rent": 8247,
+                "area": 46.7,
+                "street": "karlavagnsgatan",
+                "street_number": "22",
+                "city": "göteborg",
+                "zip": "41753",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brämaregården",
+                "last_accept": 1859,
+                "$last_seen": "2024-02-09T23:34:35.093Z"
               }
             ],
             "björnsonsgatan": [
@@ -75701,20 +75701,6 @@
                 "$districtName": "tuve",
                 "last_accept": 312,
                 "$last_seen": "2024-01-19T08:40:02.292Z"
-              },
-              {
-                "id": 113741,
-                "rent": 6829,
-                "area": 28.5,
-                "street": "gunnestorpsvägen",
-                "street_number": "133",
-                "city": "göteborg",
-                "zip": "41747",
-                "municipality": "göteborg",
-                "county": "västra götalands län",
-                "$districtName": "tuve",
-                "last_accept": 483,
-                "$last_seen": "2024-02-09T11:34:31.402Z"
               }
             ],
             "gubbe lars väg": [
