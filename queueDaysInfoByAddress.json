@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-02-12T13:33:59.471Z",
+  "lastUpdatedAt": "2024-02-12T14:35:16.649Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -6099,6 +6099,20 @@
                 "$districtName": "kållered",
                 "last_accept": 745,
                 "$last_seen": "2024-02-08T10:37:43.991Z"
+              },
+              {
+                "id": 113246,
+                "rent": 8746,
+                "area": 76,
+                "street": "våmmedalsvägen",
+                "street_number": "38",
+                "city": "kållered",
+                "zip": "42831",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "kållered",
+                "last_accept": 1500,
+                "$last_seen": "2024-02-12T13:33:59.471Z"
               }
             ],
             "streteredsvägen": [
@@ -10673,6 +10687,20 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1976,
                 "$last_seen": "2023-11-01T14:41:11.268Z"
+              },
+              {
+                "id": 114293,
+                "rent": 8500,
+                "area": 68,
+                "street": "kullegatan",
+                "street_number": "14 a",
+                "city": "göteborg",
+                "zip": "41262",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1917,
+                "$last_seen": "2024-02-12T13:33:59.471Z"
               }
             ],
             "övre besvärsgatan": [
@@ -32567,6 +32595,20 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1795,
                 "$last_seen": "2023-12-29T11:34:01.553Z"
+              },
+              {
+                "id": 113763,
+                "rent": 5869,
+                "area": 32,
+                "street": "övre olskroksgatan",
+                "street_number": "10",
+                "city": "göteborg",
+                "zip": "41667",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1490,
+                "$last_seen": "2024-02-12T13:33:59.471Z"
               }
             ],
             "vävstolsgatan": [
@@ -89527,20 +89569,6 @@
                 "$last_seen": "2024-01-31T08:35:57.992Z"
               },
               {
-                "id": 114145,
-                "rent": 9488,
-                "area": 72,
-                "street": "högamöllegatan",
-                "street_number": "3 a",
-                "city": "malmö",
-                "zip": "21219",
-                "municipality": "malmö",
-                "county": "skåne län",
-                "$districtName": "kirseberg",
-                "last_accept": 3,
-                "$last_seen": "2024-02-12T07:34:44.472Z"
-              },
-              {
                 "id": 114146,
                 "rent": 8380,
                 "area": 60,
@@ -98585,6 +98613,20 @@
                 "$districtName": "vantör",
                 "last_accept": 1004,
                 "$last_seen": "2024-02-02T09:35:22.139Z"
+              },
+              {
+                "id": 113908,
+                "rent": 10310,
+                "area": 78,
+                "street": "askersundsgatan",
+                "street_number": "4",
+                "city": "bandhagen",
+                "zip": "12467",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 1889,
+                "$last_seen": "2024-02-12T13:33:59.471Z"
               }
             ],
             "hagsätra torg": [
@@ -100465,6 +100507,34 @@
                 "$districtName": "skärholmen",
                 "last_accept": 394,
                 "$last_seen": "2024-02-01T12:50:27.502Z"
+              },
+              {
+                "id": 114328,
+                "rent": 8551,
+                "area": 35,
+                "street": "vårbergsvägen",
+                "street_number": "79",
+                "city": "stockholm",
+                "zip": "12743",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "skärholmen",
+                "last_accept": 41,
+                "$last_seen": "2024-02-12T13:33:59.471Z"
+              },
+              {
+                "id": 114333,
+                "rent": 6613,
+                "area": 24,
+                "street": "vårbergsvägen",
+                "street_number": "79",
+                "city": "stockholm",
+                "zip": "12743",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "skärholmen",
+                "last_accept": 489,
+                "$last_seen": "2024-02-12T13:33:59.471Z"
               }
             ],
             "ålgrytevägen": [
