@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-02-12T08:37:04.644Z",
+  "lastUpdatedAt": "2024-02-12T09:34:33.763Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -11207,6 +11207,20 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1887,
                 "$last_seen": "2024-02-05T11:35:24.279Z"
+              },
+              {
+                "id": 113722,
+                "rent": 4803,
+                "area": 34,
+                "street": "övre besvärsgatan",
+                "street_number": "4",
+                "city": "göteborg",
+                "zip": "41129",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1823,
+                "$last_seen": "2024-02-12T08:37:04.644Z"
               }
             ],
             "utlandagatan": [
@@ -36257,6 +36271,20 @@
                 "$last_seen": "2024-02-02T12:49:34.428Z"
               },
               {
+                "id": 113976,
+                "rent": 7255,
+                "area": 71,
+                "street": "allhelgonagatan",
+                "street_number": "10",
+                "city": "göteborg",
+                "zip": "41545",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "kortedala",
+                "last_accept": 1702,
+                "$last_seen": "2024-02-12T08:37:04.644Z"
+              },
+              {
                 "id": 113982,
                 "rent": 6167,
                 "area": 59,
@@ -50739,6 +50767,20 @@
                 "$districtName": "härlanda",
                 "last_accept": 1672,
                 "$last_seen": "2023-08-21T06:47:01.526Z"
+              },
+              {
+                "id": 114437,
+                "rent": 8100,
+                "area": 57,
+                "street": "utåkersgatan",
+                "street_number": "10a",
+                "city": "göteborg",
+                "zip": "41651",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "härlanda",
+                "last_accept": 1859,
+                "$last_seen": "2024-02-12T08:37:04.644Z"
               }
             ],
             "havsörnsgatan": [
@@ -83083,6 +83125,20 @@
                 "$districtName": "västra frölunda",
                 "last_accept": 1524,
                 "$last_seen": "2024-02-05T09:35:43.202Z"
+              },
+              {
+                "id": 114147,
+                "rent": 11482,
+                "area": 80,
+                "street": "munspelsgatan",
+                "street_number": "10",
+                "city": "västra frölunda",
+                "zip": "42151",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "västra frölunda",
+                "last_accept": 1259,
+                "$last_seen": "2024-02-12T08:37:04.644Z"
               }
             ],
             "speldosegatan": [
@@ -99671,6 +99727,20 @@
                 "$districtName": "hässelby",
                 "last_accept": 972,
                 "$last_seen": "2024-02-01T14:37:11.491Z"
+              },
+              {
+                "id": 114157,
+                "rent": 5715,
+                "area": 32.6,
+                "street": "persikogatan",
+                "street_number": "4",
+                "city": "stockholm",
+                "zip": "16563",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "hässelby",
+                "last_accept": 944,
+                "$last_seen": "2024-02-12T08:37:04.644Z"
               }
             ]
           },
