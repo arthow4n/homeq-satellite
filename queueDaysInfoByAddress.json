@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-02-12T09:34:33.763Z",
+  "lastUpdatedAt": "2024-02-12T10:39:48.613Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -29107,6 +29107,20 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1823,
                 "$last_seen": "2024-01-26T10:40:06.166Z"
+              },
+              {
+                "id": 114239,
+                "rent": 8170,
+                "area": 66,
+                "street": "kobbarnas väg",
+                "street_number": "14",
+                "city": "göteborg",
+                "zip": "41647",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1924,
+                "$last_seen": "2024-02-12T09:34:33.763Z"
               }
             ],
             "s:t pauligatan": [
@@ -75799,6 +75813,20 @@
                 "$districtName": "tuve",
                 "last_accept": 312,
                 "$last_seen": "2024-01-19T08:40:02.292Z"
+              },
+              {
+                "id": 113741,
+                "rent": 6829,
+                "area": 28.5,
+                "street": "gunnestorpsvägen",
+                "street_number": "133",
+                "city": "göteborg",
+                "zip": "41747",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tuve",
+                "last_accept": 493,
+                "$last_seen": "2024-02-12T09:34:33.763Z"
               }
             ],
             "gubbe lars väg": [
@@ -99115,6 +99143,20 @@
                 "$districtName": "vantör",
                 "last_accept": 1525,
                 "$last_seen": "2023-12-12T10:42:38.128Z"
+              },
+              {
+                "id": 114286,
+                "rent": 9121,
+                "area": 68,
+                "street": "skyllbergsgatan",
+                "street_number": "16",
+                "city": "bandhagen",
+                "zip": "12471",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 1839,
+                "$last_seen": "2024-02-12T09:34:33.763Z"
               }
             ],
             "porlabacken": [
@@ -99741,6 +99783,20 @@
                 "$districtName": "hässelby",
                 "last_accept": 944,
                 "$last_seen": "2024-02-12T08:37:04.644Z"
+              },
+              {
+                "id": 114160,
+                "rent": 8060,
+                "area": 57.9,
+                "street": "persikogatan",
+                "street_number": "4",
+                "city": "stockholm",
+                "zip": "16563",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "hässelby",
+                "last_accept": 1142,
+                "$last_seen": "2024-02-12T09:34:33.763Z"
               }
             ]
           },
