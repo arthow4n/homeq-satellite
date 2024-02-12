@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-02-12T14:35:16.649Z",
+  "lastUpdatedAt": "2024-02-12T15:33:41.774Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -80091,6 +80091,34 @@
                 "$districtName": "brunnsbo",
                 "last_accept": 1036,
                 "$last_seen": "2024-02-06T08:37:40.744Z"
+              },
+              {
+                "id": 114001,
+                "rent": 5666,
+                "area": 31,
+                "street": "prologgatan",
+                "street_number": "12",
+                "city": "hisings backa",
+                "zip": "42241",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brunnsbo",
+                "last_accept": 1037,
+                "$last_seen": "2024-02-12T14:35:16.649Z"
+              },
+              {
+                "id": 114252,
+                "rent": 7271,
+                "area": 63,
+                "street": "prologgatan",
+                "street_number": "6",
+                "city": "hisings backa",
+                "zip": "42241",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brunnsbo",
+                "last_accept": 1519,
+                "$last_seen": "2024-02-12T14:35:16.649Z"
               }
             ],
             "sångspelsgatan": [
@@ -92267,6 +92295,20 @@
                 "$districtName": "hyllie",
                 "last_accept": 181,
                 "$last_seen": "2023-10-10T08:44:30.313Z"
+              },
+              {
+                "id": 114164,
+                "rent": 6465,
+                "area": 35,
+                "street": "svansjögatan",
+                "street_number": "53",
+                "city": "malmö",
+                "zip": "21766",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "hyllie",
+                "last_accept": 417,
+                "$last_seen": "2024-02-12T14:35:16.649Z"
               }
             ],
             "dagvattengatan": [
@@ -102217,6 +102259,20 @@
                 "$districtName": "österhaninge",
                 "last_accept": 2,
                 "$last_seen": "2024-02-08T14:35:28.971Z"
+              },
+              {
+                "id": 113907,
+                "rent": 7705,
+                "area": 28.3,
+                "street": "vardövägen",
+                "street_number": "49",
+                "city": "stockholm",
+                "zip": "13657",
+                "municipality": "haninge",
+                "county": "stockholms län",
+                "$districtName": "österhaninge",
+                "last_accept": 371,
+                "$last_seen": "2024-02-12T14:35:16.649Z"
               }
             ]
           }
