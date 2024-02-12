@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-02-12T06:38:01.556Z",
+  "lastUpdatedAt": "2024-02-12T07:34:44.472Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -14133,6 +14133,20 @@
                 "$districtName": "högsbo",
                 "last_accept": 93,
                 "$last_seen": "2024-02-08T15:34:39.960Z"
+              },
+              {
+                "id": 113567,
+                "rent": 9604,
+                "area": 54.1,
+                "street": "nymilsgatan",
+                "street_number": "45",
+                "city": "göteborg",
+                "zip": "42170",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 810,
+                "$last_seen": "2024-02-12T06:38:01.556Z"
               },
               {
                 "id": 113888,
@@ -80617,6 +80631,20 @@
                 "$districtName": "askim",
                 "last_accept": 3,
                 "$last_seen": "2024-02-09T08:35:36.377Z"
+              },
+              {
+                "id": 114130,
+                "rent": 7522,
+                "area": 33,
+                "street": "sisjöbäckens väg",
+                "street_number": "4",
+                "city": "askim",
+                "zip": "43638",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 7,
+                "$last_seen": "2024-02-12T06:38:01.556Z"
               }
             ],
             "kobbegården": [
