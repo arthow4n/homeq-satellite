@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-02-13T10:37:38.076Z",
+  "lastUpdatedAt": "2024-02-13T11:33:55.789Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -8161,6 +8161,20 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1528,
                 "$last_seen": "2024-02-13T09:34:28.489Z"
+              },
+              {
+                "id": 113962,
+                "rent": 10902,
+                "area": 58,
+                "street": "ebbe lieberathsgatan",
+                "street_number": "22 d",
+                "city": "göteborg",
+                "zip": "41265",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1528,
+                "$last_seen": "2024-02-13T10:37:38.076Z"
               }
             ],
             "nordgårdsgatan": [
@@ -25435,6 +25449,20 @@
                 "$districtName": "lundby",
                 "last_accept": 1843,
                 "$last_seen": "2024-02-13T09:34:28.489Z"
+              },
+              {
+                "id": 113905,
+                "rent": 12555,
+                "area": 69,
+                "street": "fyrklöversgatan",
+                "street_number": "23",
+                "city": "göteborg",
+                "zip": "41721",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 600,
+                "$last_seen": "2024-02-13T10:37:38.076Z"
               }
             ],
             "arvid lindmansgatan": [
@@ -95403,6 +95431,20 @@
                 "$districtName": "limhamn",
                 "last_accept": 646,
                 "$last_seen": "2024-01-23T09:35:22.597Z"
+              },
+              {
+                "id": 113987,
+                "rent": 6786,
+                "area": 55,
+                "street": "östra ansgarigatan",
+                "street_number": "98",
+                "city": "limhamn",
+                "zip": "21613",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "limhamn",
+                "last_accept": 868,
+                "$last_seen": "2024-02-13T10:37:38.076Z"
               }
             ],
             "högerudsgatan": [
