@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-02-13T12:48:30.153Z",
+  "lastUpdatedAt": "2024-02-13T13:34:07.273Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -87321,6 +87321,22 @@
                 "$districtName": "malmö sankt petri",
                 "last_accept": 916,
                 "$last_seen": "2024-02-07T15:34:49.707Z"
+              }
+            ],
+            "mäster johansgatan": [
+              {
+                "id": 113978,
+                "rent": 11983,
+                "area": 64.5,
+                "street": "mäster johansgatan",
+                "street_number": "4 d",
+                "city": "malmö",
+                "zip": "21121",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "malmö sankt petri",
+                "last_accept": 512,
+                "$last_seen": "2024-02-13T12:48:30.153Z"
               }
             ]
           },
