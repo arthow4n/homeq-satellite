@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-02-13T09:34:28.489Z",
+  "lastUpdatedAt": "2024-02-13T10:37:38.076Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -8133,6 +8133,34 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1276,
                 "$last_seen": "2024-02-08T06:39:13.229Z"
+              },
+              {
+                "id": 113957,
+                "rent": 10901,
+                "area": 58,
+                "street": "ebbe lieberathsgatan",
+                "street_number": "22 f",
+                "city": "göteborg",
+                "zip": "41265",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1485,
+                "$last_seen": "2024-02-13T09:34:28.489Z"
+              },
+              {
+                "id": 113959,
+                "rent": 10541,
+                "area": 58,
+                "street": "ebbe lieberathsgatan",
+                "street_number": "22 d",
+                "city": "göteborg",
+                "zip": "41265",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1528,
+                "$last_seen": "2024-02-13T09:34:28.489Z"
               }
             ],
             "nordgårdsgatan": [
@@ -25393,6 +25421,20 @@
                 "$districtName": "lundby",
                 "last_accept": 755,
                 "$last_seen": "2024-02-01T14:37:11.491Z"
+              },
+              {
+                "id": 113903,
+                "rent": 8792,
+                "area": 83,
+                "street": "fyrklöversgatan",
+                "street_number": "114",
+                "city": "göteborg",
+                "zip": "41721",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1843,
+                "$last_seen": "2024-02-13T09:34:28.489Z"
               }
             ],
             "arvid lindmansgatan": [
@@ -64377,6 +64419,20 @@
                 "$last_seen": "2024-01-19T11:35:34.768Z"
               },
               {
+                "id": 113236,
+                "rent": 10237,
+                "area": 65,
+                "street": "karl gustavsgatan",
+                "street_number": "43",
+                "city": "göteborg",
+                "zip": "41131",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs vasa",
+                "last_accept": 1814,
+                "$last_seen": "2024-02-13T09:34:28.489Z"
+              },
+              {
                 "id": 113295,
                 "rent": 9048,
                 "area": 50,
@@ -88539,6 +88595,20 @@
                 "$districtName": "limhamn",
                 "last_accept": 2,
                 "$last_seen": "2024-02-07T07:34:22.323Z"
+              },
+              {
+                "id": 113865,
+                "rent": 11784,
+                "area": 69.9,
+                "street": "nätsnäcksgränd",
+                "street_number": "4",
+                "city": "malmö",
+                "zip": "21631",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "limhamn",
+                "last_accept": 305,
+                "$last_seen": "2024-02-13T09:34:28.489Z"
               }
             ],
             "dammsnäcksgränd": [
