@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-02-12T23:34:09.497Z",
+  "lastUpdatedAt": "2024-02-13T01:35:59.904Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -38155,20 +38155,6 @@
                 "$districtName": "kortedala",
                 "last_accept": 1306,
                 "$last_seen": "2024-02-01T06:38:43.868Z"
-              },
-              {
-                "id": 113986,
-                "rent": 5386,
-                "area": 51.5,
-                "street": "aprilgatan",
-                "street_number": "66",
-                "city": "göteborg",
-                "zip": "41548",
-                "municipality": "göteborg",
-                "county": "västra götalands län",
-                "$districtName": "kortedala",
-                "last_accept": 1308,
-                "$last_seen": "2024-02-12T15:33:41.774Z"
               }
             ],
             "februarigatan": [
@@ -102315,20 +102301,6 @@
                 "$districtName": "österhaninge",
                 "last_accept": 2,
                 "$last_seen": "2024-02-08T14:35:28.971Z"
-              },
-              {
-                "id": 113907,
-                "rent": 7705,
-                "area": 28.3,
-                "street": "vardövägen",
-                "street_number": "49",
-                "city": "stockholm",
-                "zip": "13657",
-                "municipality": "haninge",
-                "county": "stockholms län",
-                "$districtName": "österhaninge",
-                "last_accept": 371,
-                "$last_seen": "2024-02-12T14:35:16.649Z"
               }
             ]
           }
