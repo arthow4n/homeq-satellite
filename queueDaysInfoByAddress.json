@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-02-13T13:34:07.273Z",
+  "lastUpdatedAt": "2024-02-13T14:35:34.645Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -1725,6 +1725,20 @@
                 "$districtName": "fässberg",
                 "last_accept": 1811,
                 "$last_seen": "2024-01-31T13:34:57.120Z"
+              },
+              {
+                "id": 114370,
+                "rent": 9523,
+                "area": 65,
+                "street": "gustavsbergsgatan",
+                "street_number": "8",
+                "city": "mölndal",
+                "zip": "43137",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 1451,
+                "$last_seen": "2024-02-13T13:34:07.273Z"
               }
             ],
             "fredåsgatan": [
@@ -18107,6 +18121,20 @@
                 "$districtName": "högsbo",
                 "last_accept": 1240,
                 "$last_seen": "2024-02-12T11:34:09.947Z"
+              },
+              {
+                "id": 113975,
+                "rent": 11100,
+                "area": 67,
+                "street": "lilla tunnlandsgatan",
+                "street_number": "5",
+                "city": "göteborg",
+                "zip": "41477",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 1810,
+                "$last_seen": "2024-02-13T13:34:07.273Z"
               }
             ],
             "sjupundsgatan": [
@@ -63449,6 +63477,20 @@
                 "$districtName": "annedal",
                 "last_accept": 1680,
                 "$last_seen": "2023-08-16T08:45:57.925Z"
+              },
+              {
+                "id": 113914,
+                "rent": 7108,
+                "area": 49,
+                "street": "guldhedstorget",
+                "street_number": "1 a",
+                "city": "göteborg",
+                "zip": "41321",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "annedal",
+                "last_accept": 1862,
+                "$last_seen": "2024-02-13T13:34:07.273Z"
               }
             ],
             "sveagatan": [
