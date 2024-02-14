@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-02-14T08:36:55.414Z",
+  "lastUpdatedAt": "2024-02-14T09:34:18.074Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -25505,6 +25505,20 @@
                 "$districtName": "lundby",
                 "last_accept": 600,
                 "$last_seen": "2024-02-13T10:37:38.076Z"
+              },
+              {
+                "id": 114151,
+                "rent": 3717,
+                "area": 30,
+                "street": "fyrklöversgatan",
+                "street_number": "24",
+                "city": "göteborg",
+                "zip": "41721",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1690,
+                "$last_seen": "2024-02-14T08:36:55.414Z"
               }
             ],
             "arvid lindmansgatan": [
@@ -67443,6 +67457,20 @@
                 "$districtName": "göteborgs oscar fredrik",
                 "last_accept": 1800,
                 "$last_seen": "2024-02-12T07:34:44.472Z"
+              },
+              {
+                "id": 114951,
+                "rent": 11945,
+                "area": 82,
+                "street": "vegagatan",
+                "street_number": "38",
+                "city": "göteborg",
+                "zip": "41309",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs oscar fredrik",
+                "last_accept": 1919,
+                "$last_seen": "2024-02-14T08:36:55.414Z"
               }
             ],
             "jungmansgatan": [
@@ -69637,6 +69665,20 @@
                 "$districtName": "masthugget",
                 "last_accept": 1919,
                 "$last_seen": "2024-02-05T06:39:24.485Z"
+              },
+              {
+                "id": 115174,
+                "rent": 10944,
+                "area": 81,
+                "street": "bangatan",
+                "street_number": "37",
+                "city": "göteborg",
+                "zip": "41463",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "masthugget",
+                "last_accept": 1863,
+                "$last_seen": "2024-02-14T08:36:55.414Z"
               }
             ],
             "amiralitetsgatan": [
