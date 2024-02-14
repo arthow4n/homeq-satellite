@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-02-14T11:34:23.277Z",
+  "lastUpdatedAt": "2024-02-14T12:49:36.129Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -10357,6 +10357,20 @@
                 "$districtName": "johanneberg",
                 "last_accept": 3495,
                 "$last_seen": "2024-02-02T11:35:43.408Z"
+              },
+              {
+                "id": 115546,
+                "rent": 4832,
+                "area": 37,
+                "street": "södra viktoriagatan",
+                "street_number": "35",
+                "city": "göteborg",
+                "zip": "41130",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1707,
+                "$last_seen": "2024-02-14T11:34:23.277Z"
               }
             ],
             "framnäsgatan": [
@@ -40671,6 +40685,62 @@
                 "$districtName": "askim",
                 "last_accept": 1670,
                 "$last_seen": "2024-02-08T14:35:28.971Z"
+              },
+              {
+                "id": 114105,
+                "rent": 9523,
+                "area": 64,
+                "street": "pilegården",
+                "street_number": "3g",
+                "city": "göteborg",
+                "zip": "43635",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 798,
+                "$last_seen": "2024-02-14T11:34:23.277Z"
+              },
+              {
+                "id": 114107,
+                "rent": 5812,
+                "area": 41,
+                "street": "pilegården",
+                "street_number": "3g",
+                "city": "göteborg",
+                "zip": "43635",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 1259,
+                "$last_seen": "2024-02-14T11:34:23.277Z"
+              },
+              {
+                "id": 114123,
+                "rent": 10857,
+                "area": 81,
+                "street": "pilegården",
+                "street_number": "7 g",
+                "city": "göteborg",
+                "zip": "43635",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 1436,
+                "$last_seen": "2024-02-14T11:34:23.277Z"
+              },
+              {
+                "id": 114133,
+                "rent": 9700,
+                "area": 67,
+                "street": "pilegården",
+                "street_number": "7b",
+                "city": "göteborg",
+                "zip": "43635",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 566,
+                "$last_seen": "2024-02-14T11:34:23.277Z"
               }
             ],
             "nergårdsvägen": [
@@ -43709,6 +43779,20 @@
                 "$districtName": "askim",
                 "last_accept": 1252,
                 "$last_seen": "2024-02-12T11:34:09.947Z"
+              },
+              {
+                "id": 114127,
+                "rent": 15384,
+                "area": 91,
+                "street": "askims pilegårdsväg",
+                "street_number": "40",
+                "city": "göteborg",
+                "zip": "43635",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 1318,
+                "$last_seen": "2024-02-14T11:34:23.277Z"
               }
             ]
           },
@@ -89101,6 +89185,20 @@
                 "$districtName": "kirseberg",
                 "last_accept": 0,
                 "$last_seen": "2024-01-11T08:41:24.704Z"
+              },
+              {
+                "id": 114084,
+                "rent": 9995,
+                "area": 89,
+                "street": "rosendalsv",
+                "street_number": "5",
+                "city": "malmö",
+                "zip": "21219",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "kirseberg",
+                "last_accept": 513,
+                "$last_seen": "2024-02-14T11:34:23.277Z"
               }
             ],
             "segeparksgatan": [
@@ -93831,6 +93929,20 @@
                 "$districtName": "fosie",
                 "last_accept": 585,
                 "$last_seen": "2023-09-21T05:42:27.933Z"
+              },
+              {
+                "id": 114152,
+                "rent": 9436,
+                "area": 62,
+                "street": "professorsgatan",
+                "street_number": "11 a",
+                "city": "malmö",
+                "zip": "21553",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "fosie",
+                "last_accept": 226,
+                "$last_seen": "2024-02-14T11:34:23.277Z"
               }
             ],
             "koralgatan": [
@@ -94525,6 +94637,20 @@
                 "$districtName": "limhamn",
                 "last_accept": 7,
                 "$last_seen": "2024-02-14T09:34:18.074Z"
+              },
+              {
+                "id": 114380,
+                "rent": 7105,
+                "area": 36,
+                "street": "blåsebergavägen",
+                "street_number": "8",
+                "city": "limhamn",
+                "zip": "21633",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "limhamn",
+                "last_accept": 34,
+                "$last_seen": "2024-02-14T11:34:23.277Z"
               }
             ],
             "birger jarlsgatan": [
