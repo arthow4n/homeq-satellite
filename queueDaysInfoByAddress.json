@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-02-14T10:38:30.199Z",
+  "lastUpdatedAt": "2024-02-14T11:34:23.277Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -83645,6 +83645,20 @@
                 "$districtName": "västra frölunda",
                 "last_accept": 1259,
                 "$last_seen": "2024-02-12T08:37:04.644Z"
+              },
+              {
+                "id": 114150,
+                "rent": 11482,
+                "area": 80,
+                "street": "munspelsgatan",
+                "street_number": "10",
+                "city": "västra frölunda",
+                "zip": "42151",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "västra frölunda",
+                "last_accept": 1533,
+                "$last_seen": "2024-02-14T10:38:30.199Z"
               }
             ],
             "speldosegatan": [
