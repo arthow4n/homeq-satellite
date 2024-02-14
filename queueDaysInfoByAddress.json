@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-02-14T12:49:36.129Z",
+  "lastUpdatedAt": "2024-02-14T13:34:10.937Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -43779,20 +43779,6 @@
                 "$districtName": "askim",
                 "last_accept": 1252,
                 "$last_seen": "2024-02-12T11:34:09.947Z"
-              },
-              {
-                "id": 114127,
-                "rent": 15384,
-                "area": 91,
-                "street": "askims pilegårdsväg",
-                "street_number": "40",
-                "city": "göteborg",
-                "zip": "43635",
-                "municipality": "göteborg",
-                "county": "västra götalands län",
-                "$districtName": "askim",
-                "last_accept": 1318,
-                "$last_seen": "2024-02-14T11:34:23.277Z"
               }
             ]
           },
@@ -62687,6 +62673,20 @@
                 "$districtName": "annedal",
                 "last_accept": 1851,
                 "$last_seen": "2024-02-06T08:37:40.744Z"
+              },
+              {
+                "id": 114532,
+                "rent": 10093,
+                "area": 62,
+                "street": "carl grimbergsgatan",
+                "street_number": "19",
+                "city": "göteborg",
+                "zip": "41313",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "annedal",
+                "last_accept": 1859,
+                "$last_seen": "2024-02-14T12:49:36.129Z"
               }
             ],
             "västergatan": [
