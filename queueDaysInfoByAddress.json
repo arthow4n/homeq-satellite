@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-02-14T09:34:18.074Z",
+  "lastUpdatedAt": "2024-02-14T10:38:30.199Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -86013,6 +86013,20 @@
                 "$districtName": "sofielund",
                 "last_accept": 901,
                 "$last_seen": "2023-07-20T14:40:28.389Z"
+              },
+              {
+                "id": 114095,
+                "rent": 9507,
+                "area": 73,
+                "street": "spånehusvägen",
+                "street_number": "93 a",
+                "city": "malmö",
+                "zip": "21439",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "sofielund",
+                "last_accept": 702,
+                "$last_seen": "2024-02-14T09:34:18.074Z"
               }
             ],
             "amrialsgatan": [
@@ -94483,6 +94497,20 @@
                 "$districtName": "limhamn",
                 "last_accept": 20,
                 "$last_seen": "2024-01-31T12:50:11.727Z"
+              },
+              {
+                "id": 114098,
+                "rent": 9558,
+                "area": 44,
+                "street": "blåsebergavägen",
+                "street_number": "28",
+                "city": "limhamn",
+                "zip": "21633",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "limhamn",
+                "last_accept": 7,
+                "$last_seen": "2024-02-14T09:34:18.074Z"
               }
             ],
             "birger jarlsgatan": [
