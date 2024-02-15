@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-02-15T13:34:05.526Z",
+  "lastUpdatedAt": "2024-02-15T14:35:40.980Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -67653,6 +67653,20 @@
                 "$districtName": "göteborgs oscar fredrik",
                 "last_accept": 1800,
                 "$last_seen": "2024-02-12T07:34:44.472Z"
+              },
+              {
+                "id": 114780,
+                "rent": 12296,
+                "area": 81,
+                "street": "vegagatan",
+                "street_number": "40",
+                "city": "göteborg",
+                "zip": "41311",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs oscar fredrik",
+                "last_accept": 1864,
+                "$last_seen": "2024-02-15T13:34:05.526Z"
               },
               {
                 "id": 114951,
