@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-02-15T03:35:10.767Z",
+  "lastUpdatedAt": "2024-02-15T04:37:00.826Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -35697,6 +35697,20 @@
                 "$districtName": "björkekärr",
                 "last_accept": 1018,
                 "$last_seen": "2024-02-05T14:36:42.635Z"
+              },
+              {
+                "id": 114320,
+                "rent": 6401,
+                "area": 38,
+                "street": "smörslätten",
+                "street_number": "8",
+                "city": "göteborg",
+                "zip": "41677",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "björkekärr",
+                "last_accept": 1380,
+                "$last_seen": "2024-02-15T03:35:10.767Z"
               }
             ],
             "lådspikaregatan": [
@@ -95299,6 +95313,20 @@
                 "$districtName": "limhamn",
                 "last_accept": 79,
                 "$last_seen": "2024-01-19T11:35:34.768Z"
+              },
+              {
+                "id": 114382,
+                "rent": 7600,
+                "area": 34,
+                "street": "högatan",
+                "street_number": "8 a",
+                "city": "limhamn",
+                "zip": "21633",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "limhamn",
+                "last_accept": 8,
+                "$last_seen": "2024-02-15T03:35:10.767Z"
               }
             ],
             "höbalsgatan": [
