@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-02-15T08:36:30.726Z",
+  "lastUpdatedAt": "2024-02-15T09:35:08.516Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -89047,6 +89047,20 @@
                 "$last_seen": "2024-02-07T07:34:22.323Z"
               },
               {
+                "id": 113703,
+                "rent": 8990,
+                "area": 43.5,
+                "street": "nätsnäcksgränd",
+                "street_number": "11",
+                "city": "malmö",
+                "zip": "21631",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "limhamn",
+                "last_accept": 21,
+                "$last_seen": "2024-02-15T08:36:30.726Z"
+              },
+              {
                 "id": 113865,
                 "rent": 11784,
                 "area": 69.9,
@@ -90631,6 +90645,20 @@
                 "$districtName": "kirseberg",
                 "last_accept": 196,
                 "$last_seen": "2023-12-22T14:35:24.349Z"
+              },
+              {
+                "id": 114601,
+                "rent": 5042,
+                "area": 36,
+                "street": "dalhemsgatan",
+                "street_number": "4a",
+                "city": "malmö",
+                "zip": "21224",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "kirseberg",
+                "last_accept": 1044,
+                "$last_seen": "2024-02-15T08:36:30.726Z"
               }
             ],
             "lundav": [
@@ -95397,6 +95425,20 @@
                 "$districtName": "limhamn",
                 "last_accept": 79,
                 "$last_seen": "2024-01-19T11:35:34.768Z"
+              },
+              {
+                "id": 114382,
+                "rent": 7600,
+                "area": 34,
+                "street": "högatan",
+                "street_number": "8 a",
+                "city": "limhamn",
+                "zip": "21633",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "limhamn",
+                "last_accept": 7,
+                "$last_seen": "2024-02-15T08:36:30.726Z"
               }
             ],
             "höbalsgatan": [
@@ -102431,6 +102473,20 @@
                 "$districtName": "kista",
                 "last_accept": 315,
                 "$last_seen": "2024-01-03T14:37:47.886Z"
+              },
+              {
+                "id": 115734,
+                "rent": 7795,
+                "area": 30,
+                "street": "almbygatan",
+                "street_number": "14",
+                "city": "spånga",
+                "zip": "16376",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "kista",
+                "last_accept": 897,
+                "$last_seen": "2024-02-15T08:36:30.726Z"
               }
             ]
           }
