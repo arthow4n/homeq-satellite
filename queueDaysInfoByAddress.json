@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-02-15T14:35:40.980Z",
+  "lastUpdatedAt": "2024-02-15T15:34:22.727Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -78415,6 +78415,20 @@
                 "$districtName": "gunnared",
                 "last_accept": 1202,
                 "$last_seen": "2024-01-10T09:36:27.890Z"
+              },
+              {
+                "id": 114429,
+                "rent": 7344,
+                "area": 53,
+                "street": "lagerbladsgatan",
+                "street_number": "2",
+                "city": "göteborg",
+                "zip": "42440",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "gunnared",
+                "last_accept": 1297,
+                "$last_seen": "2024-02-15T14:35:40.980Z"
               }
             ],
             "gårdstensvägen": [
@@ -83397,6 +83411,20 @@
                 "$districtName": "tynnered",
                 "last_accept": 1659,
                 "$last_seen": "2024-01-22T09:37:02.057Z"
+              },
+              {
+                "id": 115645,
+                "rent": 12327,
+                "area": 107,
+                "street": "briljantgatan",
+                "street_number": "5",
+                "city": "västra frölunda",
+                "zip": "42149",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tynnered",
+                "last_accept": 1121,
+                "$last_seen": "2024-02-15T14:35:40.980Z"
               }
             ],
             "safirgatan": [
@@ -84913,6 +84941,20 @@
                 "$districtName": "älvsborg",
                 "last_accept": 1800,
                 "$last_seen": "2024-01-25T09:35:21.933Z"
+              },
+              {
+                "id": 114326,
+                "rent": 12655,
+                "area": 97.2,
+                "street": "stengetsgatan",
+                "street_number": "2",
+                "city": "västra frölunda ",
+                "zip": "42672",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "älvsborg",
+                "last_accept": 1856,
+                "$last_seen": "2024-02-15T14:35:40.980Z"
               }
             ],
             "tigerstigen": [
