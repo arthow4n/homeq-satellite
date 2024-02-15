@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-02-15T07:34:11.233Z",
+  "lastUpdatedAt": "2024-02-15T08:36:30.726Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -40797,6 +40797,20 @@
                 "$districtName": "askim",
                 "last_accept": 566,
                 "$last_seen": "2024-02-14T11:34:23.277Z"
+              },
+              {
+                "id": 115133,
+                "rent": 9482,
+                "area": 81,
+                "street": "pilegården",
+                "street_number": "9 k",
+                "city": "göteborg",
+                "zip": "43635",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 1684,
+                "$last_seen": "2024-02-15T07:34:11.233Z"
               }
             ],
             "nergårdsvägen": [
@@ -77885,6 +77899,20 @@
                 "$districtName": "älvsborg",
                 "last_accept": 1561,
                 "$last_seen": "2023-04-18T11:41:06.180Z"
+              },
+              {
+                "id": 114759,
+                "rent": 10605,
+                "area": 79,
+                "street": "stjärnbåtsgatan",
+                "street_number": "3",
+                "city": "göteborg",
+                "zip": "42671",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "älvsborg",
+                "last_accept": 2649,
+                "$last_seen": "2024-02-15T07:34:11.233Z"
               }
             ],
             "finnjollegatan": [
@@ -78963,6 +78991,48 @@
                 "$districtName": "gunnared",
                 "last_accept": 986,
                 "$last_seen": "2024-01-23T08:40:28.909Z"
+              },
+              {
+                "id": 114423,
+                "rent": 5896,
+                "area": 35,
+                "street": "gårdstensvägen",
+                "street_number": "61",
+                "city": "göteborg",
+                "zip": "42440",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "gunnared",
+                "last_accept": 1157,
+                "$last_seen": "2024-02-15T07:34:11.233Z"
+              },
+              {
+                "id": 114426,
+                "rent": 5896,
+                "area": 35,
+                "street": "gårdstensvägen",
+                "street_number": "55",
+                "city": "göteborg",
+                "zip": "42440",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "gunnared",
+                "last_accept": 1215,
+                "$last_seen": "2024-02-15T07:34:11.233Z"
+              },
+              {
+                "id": 114427,
+                "rent": 9123,
+                "area": 72,
+                "street": "gårdstensvägen",
+                "street_number": "51",
+                "city": "göteborg",
+                "zip": "42440",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "gunnared",
+                "last_accept": 1218,
+                "$last_seen": "2024-02-15T07:34:11.233Z"
               }
             ]
           },
@@ -82003,6 +82073,20 @@
                 "$districtName": "tynnered",
                 "last_accept": 0,
                 "$last_seen": "2024-01-19T10:41:41.280Z"
+              },
+              {
+                "id": 114606,
+                "rent": 8843,
+                "area": 107,
+                "street": "smaragdgatan",
+                "street_number": "21",
+                "city": "västra frölunda",
+                "zip": "42149",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tynnered",
+                "last_accept": 1861,
+                "$last_seen": "2024-02-15T07:34:11.233Z"
               }
             ],
             "smyckegatan": [
@@ -95313,20 +95397,6 @@
                 "$districtName": "limhamn",
                 "last_accept": 79,
                 "$last_seen": "2024-01-19T11:35:34.768Z"
-              },
-              {
-                "id": 114382,
-                "rent": 7600,
-                "area": 34,
-                "street": "högatan",
-                "street_number": "8 a",
-                "city": "limhamn",
-                "zip": "21633",
-                "municipality": "malmö",
-                "county": "skåne län",
-                "$districtName": "limhamn",
-                "last_accept": 8,
-                "$last_seen": "2024-02-15T03:35:10.767Z"
               }
             ],
             "höbalsgatan": [
