@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-02-14T23:34:17.226Z",
+  "lastUpdatedAt": "2024-02-15T01:36:20.566Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -88949,20 +88949,6 @@
                 "$last_seen": "2024-02-07T07:34:22.323Z"
               },
               {
-                "id": 113703,
-                "rent": 8990,
-                "area": 43.5,
-                "street": "nätsnäcksgränd",
-                "street_number": "11",
-                "city": "malmö",
-                "zip": "21631",
-                "municipality": "malmö",
-                "county": "skåne län",
-                "$districtName": "limhamn",
-                "last_accept": 11,
-                "$last_seen": "2024-02-14T17:34:35.116Z"
-              },
-              {
                 "id": 113865,
                 "rent": 11784,
                 "area": 69.9,
@@ -95313,20 +95299,6 @@
                 "$districtName": "limhamn",
                 "last_accept": 79,
                 "$last_seen": "2024-01-19T11:35:34.768Z"
-              },
-              {
-                "id": 114382,
-                "rent": 7600,
-                "area": 34,
-                "street": "högatan",
-                "street_number": "8 a",
-                "city": "limhamn",
-                "zip": "21633",
-                "municipality": "malmö",
-                "county": "skåne län",
-                "$districtName": "limhamn",
-                "last_accept": 6,
-                "$last_seen": "2024-02-14T17:34:35.116Z"
               }
             ],
             "höbalsgatan": [
@@ -101181,20 +101153,6 @@
                 "$districtName": "skärholmen",
                 "last_accept": 489,
                 "$last_seen": "2024-02-12T13:33:59.471Z"
-              },
-              {
-                "id": 114335,
-                "rent": 8551,
-                "area": 35,
-                "street": "vårbergsvägen",
-                "street_number": "79",
-                "city": "stockholm",
-                "zip": "12743",
-                "municipality": "stockholm",
-                "county": "stockholms län",
-                "$districtName": "skärholmen",
-                "last_accept": 95,
-                "$last_seen": "2024-02-14T20:34:13.640Z"
               }
             ],
             "ålgrytevägen": [
