@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-02-15T11:34:12.723Z",
+  "lastUpdatedAt": "2024-02-15T12:48:47.626Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -90569,6 +90569,20 @@
                 "$districtName": "kirseberg",
                 "last_accept": 66,
                 "$last_seen": "2024-01-29T07:35:40.797Z"
+              },
+              {
+                "id": 114379,
+                "rent": 9297,
+                "area": 66,
+                "street": "gerlachsgatan",
+                "street_number": "4",
+                "city": "malmö",
+                "zip": "21219",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "kirseberg",
+                "last_accept": 3,
+                "$last_seen": "2024-02-15T11:34:12.723Z"
               }
             ],
             "dalhemsgtan": [
@@ -95453,6 +95467,20 @@
                 "$districtName": "limhamn",
                 "last_accept": 79,
                 "$last_seen": "2024-01-19T11:35:34.768Z"
+              },
+              {
+                "id": 114381,
+                "rent": 12327,
+                "area": 73,
+                "street": "högatan",
+                "street_number": "8 f",
+                "city": "limhamn",
+                "zip": "21633",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "limhamn",
+                "last_accept": 130,
+                "$last_seen": "2024-02-15T11:34:12.723Z"
               },
               {
                 "id": 114382,
