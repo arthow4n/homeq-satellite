@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-02-16T18:37:28.433Z",
+  "lastUpdatedAt": "2024-02-16T19:34:45.021Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -84705,6 +84705,22 @@
                 "$districtName": "högsbo",
                 "last_accept": 1711,
                 "$last_seen": "2023-10-23T11:38:53.451Z"
+              }
+            ],
+            "distansgatan": [
+              {
+                "id": 114291,
+                "rent": 11410,
+                "area": 94,
+                "street": "distansgatan",
+                "street_number": "1",
+                "city": "västra frölunda",
+                "zip": "42174",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 1789,
+                "$last_seen": "2024-02-16T18:37:28.433Z"
               }
             ]
           }
