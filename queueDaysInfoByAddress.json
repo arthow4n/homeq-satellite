@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-02-16T09:34:33.361Z",
+  "lastUpdatedAt": "2024-02-16T10:39:08.305Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -67117,6 +67117,20 @@
                 "$districtName": "göteborgs vasa",
                 "last_accept": 1767,
                 "$last_seen": "2023-11-10T11:40:09.130Z"
+              },
+              {
+                "id": 114256,
+                "rent": 13809,
+                "area": 92,
+                "street": "nedre fogelbergsgatan",
+                "street_number": "4b",
+                "city": "göteborg",
+                "zip": "41128",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs vasa",
+                "last_accept": 1868,
+                "$last_seen": "2024-02-16T09:34:33.361Z"
               }
             ],
             "kristinelundsgatan": [
@@ -97351,6 +97365,20 @@
                 "$districtName": "bunkeflo",
                 "last_accept": 84,
                 "$last_seen": "2024-01-29T11:35:05.829Z"
+              },
+              {
+                "id": 114033,
+                "rent": 8262,
+                "area": 60.6,
+                "street": "smedmästarebyn",
+                "street_number": "2g",
+                "city": "bunkeflostrand",
+                "zip": "21841",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "bunkeflo",
+                "last_accept": 25,
+                "$last_seen": "2024-02-16T09:34:33.361Z"
               }
             ],
             "skräddarebyn": [
