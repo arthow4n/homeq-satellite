@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-02-19T08:37:31.630Z",
+  "lastUpdatedAt": "2024-02-19T09:34:26.593Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -36633,6 +36633,20 @@
                 "$districtName": "kortedala",
                 "last_accept": 1486,
                 "$last_seen": "2024-02-08T09:34:42.700Z"
+              },
+              {
+                "id": 114536,
+                "rent": 9288,
+                "area": 70,
+                "street": "allhelgonagatan",
+                "street_number": "10",
+                "city": "göteborg",
+                "zip": "41545",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "kortedala",
+                "last_accept": 1087,
+                "$last_seen": "2024-02-19T08:37:31.630Z"
               }
             ],
             "julaftonsgatan": [
@@ -77809,6 +77823,20 @@
                 "$districtName": "göteborgs karl johan",
                 "last_accept": 774,
                 "$last_seen": "2024-02-12T11:34:09.947Z"
+              },
+              {
+                "id": 116088,
+                "rent": 13062,
+                "area": 75,
+                "street": "stortoppsgatan",
+                "street_number": "8",
+                "city": "göteborg",
+                "zip": "41457",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs karl johan",
+                "last_accept": 395,
+                "$last_seen": "2024-02-19T08:37:31.630Z"
               }
             ],
             "asperögatan": [
