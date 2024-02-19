@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-02-19T07:34:46.819Z",
+  "lastUpdatedAt": "2024-02-19T08:37:31.630Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -25561,6 +25561,20 @@
                 "$districtName": "lundby",
                 "last_accept": 1690,
                 "$last_seen": "2024-02-14T08:36:55.414Z"
+              },
+              {
+                "id": 114844,
+                "rent": 8837,
+                "area": 43,
+                "street": "fyrklöversgatan",
+                "street_number": "25",
+                "city": "göteborg",
+                "zip": "41721",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 200,
+                "$last_seen": "2024-02-19T07:34:46.819Z"
               }
             ],
             "arvid lindmansgatan": [
@@ -83083,6 +83097,20 @@
                 "$districtName": "tynnered",
                 "last_accept": 596,
                 "$last_seen": "2024-02-12T16:40:13.873Z"
+              },
+              {
+                "id": 115425,
+                "rent": 9230,
+                "area": 69,
+                "street": "smyckegatan",
+                "street_number": "37",
+                "city": "västra frölunda",
+                "zip": "42650",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tynnered",
+                "last_accept": 1099,
+                "$last_seen": "2024-02-19T07:34:46.819Z"
               }
             ],
             "björkhöjdsgatan": [
@@ -96149,6 +96177,20 @@
                 "$districtName": "limhamn",
                 "last_accept": 868,
                 "$last_seen": "2024-02-13T10:37:38.076Z"
+              },
+              {
+                "id": 115062,
+                "rent": 8939,
+                "area": 85,
+                "street": "östra ansgarigatan",
+                "street_number": "98",
+                "city": "limhamn",
+                "zip": "21613",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "limhamn",
+                "last_accept": 1139,
+                "$last_seen": "2024-02-19T07:34:46.819Z"
               }
             ],
             "högerudsgatan": [
