@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-02-19T11:34:20.754Z",
+  "lastUpdatedAt": "2024-02-19T12:50:20.058Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -34219,6 +34219,20 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1292,
                 "$last_seen": "2023-08-16T11:44:08.060Z"
+              },
+              {
+                "id": 114463,
+                "rent": 10451,
+                "area": 59,
+                "street": "slätten",
+                "street_number": "2",
+                "city": "göteborg",
+                "zip": "41253",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1078,
+                "$last_seen": "2024-02-19T11:34:20.754Z"
               }
             ],
             "rantmästaregatan": [
@@ -37379,6 +37393,34 @@
                 "$districtName": "kortedala",
                 "last_accept": 1270,
                 "$last_seen": "2024-02-02T11:35:43.408Z"
+              },
+              {
+                "id": 114534,
+                "rent": 5117,
+                "area": 51.5,
+                "street": "januarigatan",
+                "street_number": "42",
+                "city": "göteborg",
+                "zip": "41546",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "kortedala",
+                "last_accept": 1419,
+                "$last_seen": "2024-02-19T11:34:20.754Z"
+              },
+              {
+                "id": 114535,
+                "rent": 6607,
+                "area": 51.5,
+                "street": "januarigatan",
+                "street_number": "9",
+                "city": "göteborg",
+                "zip": "41515",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "kortedala",
+                "last_accept": 1204,
+                "$last_seen": "2024-02-19T11:34:20.754Z"
               }
             ],
             "solvarvsgatan": [
@@ -38843,6 +38885,20 @@
                 "$districtName": "kortedala",
                 "last_accept": 1314,
                 "$last_seen": "2023-12-20T14:33:16.353Z"
+              },
+              {
+                "id": 114537,
+                "rent": 3116,
+                "area": 30.5,
+                "street": "februarigatan",
+                "street_number": "22",
+                "city": "göteborg",
+                "zip": "41546",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "kortedala",
+                "last_accept": 1348,
+                "$last_seen": "2024-02-19T11:34:20.754Z"
               }
             ],
             "kalendervägen": [
@@ -73079,6 +73135,20 @@
                 "$districtName": "biskopsgården",
                 "last_accept": 590,
                 "$last_seen": "2024-02-19T09:34:26.593Z"
+              },
+              {
+                "id": 114470,
+                "rent": 8055,
+                "area": 63,
+                "street": "temperaturgatan",
+                "street_number": "79",
+                "city": "göteborg",
+                "zip": "41841",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "biskopsgården",
+                "last_accept": 552,
+                "$last_seen": "2024-02-19T11:34:20.754Z"
               }
             ],
             "solstrålegatan": [
