@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-02-19T10:38:25.608Z",
+  "lastUpdatedAt": "2024-02-19T11:34:20.754Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -26347,6 +26347,20 @@
                 "$districtName": "lundby",
                 "last_accept": 1816,
                 "$last_seen": "2024-01-30T08:37:24.725Z"
+              },
+              {
+                "id": 114779,
+                "rent": 7300,
+                "area": 54,
+                "street": "arvid lindmansgatan",
+                "street_number": "24c",
+                "city": "göteborg",
+                "zip": "41726",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1533,
+                "$last_seen": "2024-02-19T10:38:25.608Z"
               }
             ],
             "estlandsgatan": [
@@ -32311,6 +32325,20 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1833,
                 "$last_seen": "2024-01-15T17:38:40.193Z"
+              },
+              {
+                "id": 115422,
+                "rent": 9400,
+                "area": 78,
+                "street": "sankt pauligatan",
+                "street_number": "32 b",
+                "city": "göteborg",
+                "zip": "41660",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1868,
+                "$last_seen": "2024-02-19T10:38:25.608Z"
               }
             ],
             "liedstrandsgatan": [
