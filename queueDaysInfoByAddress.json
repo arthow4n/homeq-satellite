@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-02-20T11:34:37.257Z",
+  "lastUpdatedAt": "2024-02-20T12:48:31.329Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -31563,6 +31563,20 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1854,
                 "$last_seen": "2024-02-05T07:35:25.573Z"
+              },
+              {
+                "id": 115216,
+                "rent": 9548,
+                "area": 61,
+                "street": "st pauligatan",
+                "street_number": "22",
+                "city": "göteborg",
+                "zip": "41660",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1785,
+                "$last_seen": "2024-02-20T11:34:37.257Z"
               }
             ],
             "platågatan": [
@@ -33551,6 +33565,20 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1627,
                 "$last_seen": "2024-02-08T07:34:45.459Z"
+              },
+              {
+                "id": 115215,
+                "rent": 11791,
+                "area": 80,
+                "street": "danska vägen",
+                "street_number": "84b",
+                "city": "göteborg",
+                "zip": "41659",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1871,
+                "$last_seen": "2024-02-20T11:34:37.257Z"
               }
             ],
             "vävskedsgatan": [
