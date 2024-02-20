@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-02-20T22:36:37.568Z",
+  "lastUpdatedAt": "2024-02-20T23:34:31.204Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -12315,6 +12315,20 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1833,
                 "$last_seen": "2024-01-15T13:39:17.841Z"
+              },
+              {
+                "id": 114838,
+                "rent": 7000,
+                "area": 36,
+                "street": "viktor rydbergsgatan",
+                "street_number": "30",
+                "city": "göteborg",
+                "zip": "41257",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1869,
+                "$last_seen": "2024-02-20T22:36:37.568Z"
               }
             ],
             "meijerbergsgatan": [
@@ -59797,6 +59811,20 @@
                 "$districtName": "örgryte",
                 "last_accept": 1076,
                 "$last_seen": "2023-12-12T07:36:30.456Z"
+              },
+              {
+                "id": 114933,
+                "rent": 11470,
+                "area": 61,
+                "street": "filmjölksgatan",
+                "street_number": "6",
+                "city": "göteborg",
+                "zip": "41278",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1716,
+                "$last_seen": "2024-02-20T22:36:37.568Z"
               }
             ],
             "jättegrytsgatan": [
