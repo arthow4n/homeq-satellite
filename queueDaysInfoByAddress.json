@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-02-20T16:39:50.455Z",
+  "lastUpdatedAt": "2024-02-20T17:34:53.140Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -57225,20 +57225,6 @@
                 "$districtName": "örgryte",
                 "last_accept": 1424,
                 "$last_seen": "2024-01-18T13:37:42.324Z"
-              },
-              {
-                "id": 114841,
-                "rent": 10322,
-                "area": 54,
-                "street": "smörkärnegatan",
-                "street_number": "25",
-                "city": "göteborg",
-                "zip": "41278",
-                "municipality": "göteborg",
-                "county": "västra götalands län",
-                "$districtName": "örgryte",
-                "last_accept": 1680,
-                "$last_seen": "2024-02-20T15:34:45.370Z"
               }
             ],
             "tändsticksgatan": [
