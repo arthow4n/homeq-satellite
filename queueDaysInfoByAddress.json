@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-02-20T19:34:38.728Z",
+  "lastUpdatedAt": "2024-02-20T20:34:23.749Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -77959,6 +77959,20 @@
                 "$districtName": "göteborgs karl johan",
                 "last_accept": 1331,
                 "$last_seen": "2024-02-12T11:34:09.947Z"
+              },
+              {
+                "id": 114866,
+                "rent": 9228,
+                "area": 44,
+                "street": "kabelgatan",
+                "street_number": "19",
+                "city": "göteborg",
+                "zip": "41457",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs karl johan",
+                "last_accept": 1800,
+                "$last_seen": "2024-02-20T19:34:38.728Z"
               }
             ],
             "kusttorget": [
