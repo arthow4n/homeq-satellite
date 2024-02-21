@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-02-21T14:35:50.236Z",
+  "lastUpdatedAt": "2024-02-21T15:34:27.455Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -65215,6 +65215,20 @@
                 "$districtName": "göteborgs vasa",
                 "last_accept": 1850,
                 "$last_seen": "2024-02-02T13:35:11.443Z"
+              },
+              {
+                "id": 115040,
+                "rent": 4848,
+                "area": 20,
+                "street": "karl gustavsgatan",
+                "street_number": "37",
+                "city": "göteborg",
+                "zip": "41131",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs vasa",
+                "last_accept": 1551,
+                "$last_seen": "2024-02-21T14:35:50.236Z"
               }
             ],
             "mölndalsvägen": [
@@ -99473,6 +99487,20 @@
                 "$districtName": "vantör",
                 "last_accept": 1855,
                 "$last_seen": "2024-02-01T11:34:53.680Z"
+              },
+              {
+                "id": 115297,
+                "rent": 8989,
+                "area": 76,
+                "street": "glanshammarsgatan",
+                "street_number": "50",
+                "city": "bandhagen",
+                "zip": "12471",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 1963,
+                "$last_seen": "2024-02-21T14:35:50.236Z"
               }
             ],
             "bäverbäcksgränd": [
