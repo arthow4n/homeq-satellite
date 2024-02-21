@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-02-21T07:34:18.233Z",
+  "lastUpdatedAt": "2024-02-21T08:37:49.592Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -14415,6 +14415,20 @@
                 "$last_seen": "2024-02-19T22:36:58.477Z"
               },
               {
+                "id": 114793,
+                "rent": 9583,
+                "area": 53.9,
+                "street": "nymilsgatan",
+                "street_number": "43",
+                "city": "göteborg",
+                "zip": "42170",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 1106,
+                "$last_seen": "2024-02-21T07:34:18.233Z"
+              },
+              {
                 "id": 114794,
                 "rent": 9286,
                 "area": 48.8,
@@ -14427,6 +14441,20 @@
                 "$districtName": "högsbo",
                 "last_accept": 910,
                 "$last_seen": "2024-02-21T06:37:26.107Z"
+              },
+              {
+                "id": 114798,
+                "rent": 12953,
+                "area": 78,
+                "street": "nymilsgatan",
+                "street_number": "43",
+                "city": "göteborg",
+                "zip": "42170",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 856,
+                "$last_seen": "2024-02-21T07:34:18.233Z"
               }
             ],
             "pennygången": [
@@ -63767,6 +63795,20 @@
                 "$districtName": "annedal",
                 "last_accept": 1657,
                 "$last_seen": "2024-01-30T10:39:39.581Z"
+              },
+              {
+                "id": 115745,
+                "rent": 9343,
+                "area": 62,
+                "street": "västergatan",
+                "street_number": "29",
+                "city": "göteborg",
+                "zip": "41313",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "annedal",
+                "last_accept": 1869,
+                "$last_seen": "2024-02-21T07:34:18.233Z"
               }
             ],
             "seminariegatan": [
@@ -76851,6 +76893,20 @@
                 "$districtName": "tuve",
                 "last_accept": 493,
                 "$last_seen": "2024-02-12T09:34:33.763Z"
+              },
+              {
+                "id": 114815,
+                "rent": 7588,
+                "area": 35,
+                "street": "gunnestorpsvägen",
+                "street_number": "133",
+                "city": "göteborg",
+                "zip": "41747",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tuve",
+                "last_accept": 594,
+                "$last_seen": "2024-02-21T07:34:18.233Z"
               }
             ],
             "gubbe lars väg": [
