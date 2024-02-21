@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-02-21T10:38:27.355Z",
+  "lastUpdatedAt": "2024-02-21T11:34:10.958Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -41877,6 +41877,20 @@
                 "$districtName": "askim",
                 "last_accept": 947,
                 "$last_seen": "2024-02-05T12:51:15.402Z"
+              },
+              {
+                "id": 114833,
+                "rent": 4812,
+                "area": 28,
+                "street": "nergårdsvägen",
+                "street_number": "15",
+                "city": "göteborg",
+                "zip": "43635",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 1060,
+                "$last_seen": "2024-02-21T10:38:27.355Z"
               }
             ],
             "hyltegården": [
@@ -86781,6 +86795,20 @@
                 "$districtName": "råda",
                 "last_accept": 1772,
                 "$last_seen": "2023-11-15T09:38:54.457Z"
+              },
+              {
+                "id": 114819,
+                "rent": 8787,
+                "area": 55,
+                "street": "centralvägen",
+                "street_number": "8 b",
+                "city": "göteborg",
+                "zip": "43530",
+                "municipality": "härryda",
+                "county": "västra götalands län",
+                "$districtName": "råda",
+                "last_accept": 1457,
+                "$last_seen": "2024-02-21T10:38:27.355Z"
               }
             ],
             "badhusgatan": [
