@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-02-21T11:34:10.958Z",
+  "lastUpdatedAt": "2024-02-21T12:49:46.040Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -10399,6 +10399,20 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1707,
                 "$last_seen": "2024-02-14T11:34:23.277Z"
+              },
+              {
+                "id": 115686,
+                "rent": 8549,
+                "area": 72,
+                "street": "södra viktoriagatan",
+                "street_number": "35",
+                "city": "göteborg",
+                "zip": "41130",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1943,
+                "$last_seen": "2024-02-21T11:34:10.958Z"
               }
             ],
             "framnäsgatan": [
@@ -14413,6 +14427,20 @@
                 "$districtName": "högsbo",
                 "last_accept": 822,
                 "$last_seen": "2024-02-19T22:36:58.477Z"
+              },
+              {
+                "id": 114790,
+                "rent": 7100,
+                "area": 35,
+                "street": "nymilsgatan",
+                "street_number": "37",
+                "city": "göteborg",
+                "zip": "42170",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 766,
+                "$last_seen": "2024-02-21T11:34:10.958Z"
               },
               {
                 "id": 114793,
