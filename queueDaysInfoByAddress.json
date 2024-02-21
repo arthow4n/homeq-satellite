@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-02-21T06:37:26.107Z",
+  "lastUpdatedAt": "2024-02-21T07:34:18.233Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -8205,6 +8205,20 @@
                 "$last_seen": "2024-02-14T13:34:10.937Z"
               },
               {
+                "id": 114767,
+                "rent": 8947,
+                "area": 44,
+                "street": "ebbe lieberathsgatan",
+                "street_number": "20 b",
+                "city": "göteborg",
+                "zip": "41265",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1648,
+                "$last_seen": "2024-02-21T06:37:26.107Z"
+              },
+              {
                 "id": 114987,
                 "rent": 7250,
                 "area": 30,
@@ -11363,6 +11377,20 @@
                 "$last_seen": "2024-02-12T08:37:04.644Z"
               },
               {
+                "id": 114784,
+                "rent": 9030,
+                "area": 77,
+                "street": "övre besvärsgatan",
+                "street_number": "11",
+                "city": "göteborg",
+                "zip": "41129",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1936,
+                "$last_seen": "2024-02-21T06:37:26.107Z"
+              },
+              {
                 "id": 114859,
                 "rent": 4807,
                 "area": 34,
@@ -14385,6 +14413,20 @@
                 "$districtName": "högsbo",
                 "last_accept": 822,
                 "$last_seen": "2024-02-19T22:36:58.477Z"
+              },
+              {
+                "id": 114794,
+                "rent": 9286,
+                "area": 48.8,
+                "street": "nymilsgatan",
+                "street_number": "41",
+                "city": "göteborg",
+                "zip": "42170",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 910,
+                "$last_seen": "2024-02-21T06:37:26.107Z"
               }
             ],
             "pennygången": [
