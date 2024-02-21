@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-02-21T09:34:37.829Z",
+  "lastUpdatedAt": "2024-02-21T10:38:27.355Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -29049,6 +29049,20 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1547,
                 "$last_seen": "2024-01-15T07:36:36.006Z"
+              },
+              {
+                "id": 114935,
+                "rent": 7512,
+                "area": 38,
+                "street": "ulfsparregatan",
+                "street_number": "14",
+                "city": "göteborg",
+                "zip": "41657",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1556,
+                "$last_seen": "2024-02-21T09:34:37.829Z"
               }
             ],
             "kobbarnas väg": [
@@ -100955,6 +100969,20 @@
                 "$districtName": "vantör",
                 "last_accept": 1839,
                 "$last_seen": "2024-02-12T09:34:33.763Z"
+              },
+              {
+                "id": 115301,
+                "rent": 9121,
+                "area": 68,
+                "street": "skyllbergsgatan",
+                "street_number": "20",
+                "city": "bandhagen",
+                "zip": "12471",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 1794,
+                "$last_seen": "2024-02-21T09:34:37.829Z"
               }
             ],
             "porlabacken": [
