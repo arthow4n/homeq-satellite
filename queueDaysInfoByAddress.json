@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-02-21T12:49:46.040Z",
+  "lastUpdatedAt": "2024-02-21T13:34:29.755Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -85657,6 +85657,20 @@
                 "$districtName": "älvsborg",
                 "last_accept": 1856,
                 "$last_seen": "2024-02-15T14:35:40.980Z"
+              },
+              {
+                "id": 115412,
+                "rent": 10528,
+                "area": 66.4,
+                "street": "stengetsgatan",
+                "street_number": "24",
+                "city": "västra frölunda ",
+                "zip": "42672",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "älvsborg",
+                "last_accept": 1686,
+                "$last_seen": "2024-02-21T12:49:46.040Z"
               }
             ],
             "tigerstigen": [
