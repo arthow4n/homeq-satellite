@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-02-22T16:40:37.978Z",
+  "lastUpdatedAt": "2024-02-22T17:35:41.867Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -76263,6 +76263,20 @@
                 "$districtName": "biskopsgården",
                 "last_accept": 1239,
                 "$last_seen": "2024-02-19T09:34:26.593Z"
+              },
+              {
+                "id": 115206,
+                "rent": 8993,
+                "area": 63,
+                "street": "långströmsgatan",
+                "street_number": "28a",
+                "city": "göteborg",
+                "zip": "41870",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "biskopsgården",
+                "last_accept": 1354,
+                "$last_seen": "2024-02-22T16:40:37.978Z"
               }
             ],
             "lufttrycksgatan": [
