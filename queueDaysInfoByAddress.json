@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-02-22T06:37:50.440Z",
+  "lastUpdatedAt": "2024-02-22T07:34:21.482Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -61110,6 +61110,22 @@
                 "last_accept": 1585,
                 "$last_seen": "2023-12-07T15:37:59.411Z"
               }
+            ],
+            "lillatorpsgatan": [
+              {
+                "id": 115658,
+                "rent": 7609,
+                "area": 56,
+                "street": "lillatorpsgatan",
+                "street_number": "15",
+                "city": "göteborg",
+                "zip": "41615",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1882,
+                "$last_seen": "2024-02-22T06:37:50.440Z"
+              }
             ]
           },
           "västra frölunda": {
@@ -69145,6 +69161,20 @@
                 "$districtName": "göteborgs oscar fredrik",
                 "last_accept": 1839,
                 "$last_seen": "2024-02-21T13:34:29.755Z"
+              },
+              {
+                "id": 115097,
+                "rent": 6939,
+                "area": 32,
+                "street": "kryssdäcket",
+                "street_number": "2",
+                "city": "göteborg",
+                "zip": "41327",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs oscar fredrik",
+                "last_accept": 1810,
+                "$last_seen": "2024-02-22T06:37:50.440Z"
               }
             ],
             "övre djupedalsgatan": [
@@ -98783,6 +98813,20 @@
                 "$districtName": "vantör",
                 "last_accept": 1466,
                 "$last_seen": "2023-12-12T12:55:41.951Z"
+              },
+              {
+                "id": 115381,
+                "rent": 11635,
+                "area": 94,
+                "street": "åmmebergsgatan",
+                "street_number": "22",
+                "city": "bandhagen",
+                "zip": "12470",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 1936,
+                "$last_seen": "2024-02-22T06:37:50.440Z"
               }
             ],
             "olshammarsgatan": [
