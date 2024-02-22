@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-02-22T09:35:03.699Z",
+  "lastUpdatedAt": "2024-02-22T10:37:31.152Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -4167,6 +4167,20 @@
                 "$districtName": "fässberg",
                 "last_accept": 1554,
                 "$last_seen": "2024-02-07T09:34:39.955Z"
+              },
+              {
+                "id": 115021,
+                "rent": 10467,
+                "area": 57,
+                "street": "åby allé",
+                "street_number": "67",
+                "city": "göteborg",
+                "zip": "43145",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 1569,
+                "$last_seen": "2024-02-22T09:35:03.699Z"
               }
             ],
             "åbyvägen": [
@@ -82203,6 +82217,20 @@
                 "$districtName": "askim",
                 "last_accept": 7,
                 "$last_seen": "2024-02-12T06:38:01.556Z"
+              },
+              {
+                "id": 115135,
+                "rent": 7938,
+                "area": 33,
+                "street": "sisjöbäckens väg",
+                "street_number": "22",
+                "city": "askim",
+                "zip": "43638",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 455,
+                "$last_seen": "2024-02-22T09:35:03.699Z"
               }
             ],
             "kobbegården": [
@@ -102975,6 +103003,20 @@
                 "$districtName": "hägersten",
                 "last_accept": 2390,
                 "$last_seen": "2024-01-30T22:36:11.596Z"
+              },
+              {
+                "id": 115075,
+                "rent": 3309,
+                "area": 22,
+                "street": "erikslundsgatan",
+                "street_number": "4",
+                "city": "hägersten",
+                "zip": "12632",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "hägersten",
+                "last_accept": 2120,
+                "$last_seen": "2024-02-22T09:35:03.699Z"
               }
             ]
           }
