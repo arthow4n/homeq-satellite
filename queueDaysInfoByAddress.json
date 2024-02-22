@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-02-21T23:34:38.131Z",
+  "lastUpdatedAt": "2024-02-22T01:35:21.755Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -4167,20 +4167,6 @@
                 "$districtName": "fässberg",
                 "last_accept": 1554,
                 "$last_seen": "2024-02-07T09:34:39.955Z"
-              },
-              {
-                "id": 115021,
-                "rent": 10467,
-                "area": 57,
-                "street": "åby allé",
-                "street_number": "67",
-                "city": "göteborg",
-                "zip": "43145",
-                "municipality": "mölndal",
-                "county": "västra götalands län",
-                "$districtName": "fässberg",
-                "last_accept": 1568,
-                "$last_seen": "2024-02-21T13:34:29.755Z"
               }
             ],
             "åbyvägen": [
@@ -69158,20 +69144,6 @@
                 "county": "västra götalands län",
                 "$districtName": "göteborgs oscar fredrik",
                 "last_accept": 1839,
-                "$last_seen": "2024-02-21T13:34:29.755Z"
-              },
-              {
-                "id": 115097,
-                "rent": 6939,
-                "area": 32,
-                "street": "kryssdäcket",
-                "street_number": "2",
-                "city": "göteborg",
-                "zip": "41327",
-                "municipality": "göteborg",
-                "county": "västra götalands län",
-                "$districtName": "göteborgs oscar fredrik",
-                "last_accept": 1809,
                 "$last_seen": "2024-02-21T13:34:29.755Z"
               }
             ],
