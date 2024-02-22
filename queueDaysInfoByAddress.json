@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-02-22T14:38:46.814Z",
+  "lastUpdatedAt": "2024-02-22T15:35:17.044Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -11473,6 +11473,20 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1831,
                 "$last_seen": "2024-02-20T21:34:38.137Z"
+              },
+              {
+                "id": 115551,
+                "rent": 6886,
+                "area": 58,
+                "street": "övre besvärsgatan",
+                "street_number": "3",
+                "city": "göteborg",
+                "zip": "41130",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1905,
+                "$last_seen": "2024-02-22T14:38:46.814Z"
               }
             ],
             "utlandagatan": [
