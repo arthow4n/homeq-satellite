@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-02-22T07:34:21.482Z",
+  "lastUpdatedAt": "2024-02-22T08:37:44.661Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -9445,6 +9445,20 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1595,
                 "$last_seen": "2023-07-24T09:38:12.235Z"
+              },
+              {
+                "id": 115180,
+                "rent": 5102,
+                "area": 33,
+                "street": "fribergsgatan",
+                "street_number": "2",
+                "city": "göteborg",
+                "zip": "41260",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 2046,
+                "$last_seen": "2024-02-22T07:34:21.482Z"
               }
             ],
             "gibraltargatan": [
