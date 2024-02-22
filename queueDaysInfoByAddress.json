@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-02-22T10:37:31.152Z",
+  "lastUpdatedAt": "2024-02-22T11:34:29.259Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -5309,6 +5309,20 @@
                 "$districtName": "örgryte",
                 "last_accept": 1576,
                 "$last_seen": "2024-01-15T08:42:12.390Z"
+              },
+              {
+                "id": 115086,
+                "rent": 13006,
+                "area": 76,
+                "street": "smörkärnegatan",
+                "street_number": "25",
+                "city": "göteborg",
+                "zip": "41278",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1724,
+                "$last_seen": "2024-02-22T10:37:31.152Z"
               }
             ]
           }
@@ -6141,6 +6155,20 @@
                 "$districtName": "kållered",
                 "last_accept": 1500,
                 "$last_seen": "2024-02-12T13:33:59.471Z"
+              },
+              {
+                "id": 115039,
+                "rent": 9002,
+                "area": 81,
+                "street": "våmmedalsvägen",
+                "street_number": "136",
+                "city": "kållered",
+                "zip": "42831",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "kållered",
+                "last_accept": 1510,
+                "$last_seen": "2024-02-22T10:37:31.152Z"
               }
             ],
             "streteredsvägen": [
@@ -63923,6 +63951,20 @@
                 "$districtName": "annedal",
                 "last_accept": 1657,
                 "$last_seen": "2024-01-30T10:39:39.581Z"
+              },
+              {
+                "id": 115589,
+                "rent": 5961,
+                "area": 36,
+                "street": "västergatan",
+                "street_number": "19",
+                "city": "göteborg",
+                "zip": "41313",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "annedal",
+                "last_accept": 1740,
+                "$last_seen": "2024-02-22T10:37:31.152Z"
               },
               {
                 "id": 115745,
