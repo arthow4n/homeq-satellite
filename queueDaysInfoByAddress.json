@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-02-23T07:35:16.395Z",
+  "lastUpdatedAt": "2024-02-23T08:38:07.310Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -76305,6 +76305,20 @@
                 "$districtName": "biskopsgården",
                 "last_accept": 1354,
                 "$last_seen": "2024-02-22T16:40:37.978Z"
+              },
+              {
+                "id": 115209,
+                "rent": 5423,
+                "area": 20,
+                "street": "långströmsgatan",
+                "street_number": "2b",
+                "city": "göteborg",
+                "zip": "41870",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "biskopsgården",
+                "last_accept": 815,
+                "$last_seen": "2024-02-23T07:35:16.395Z"
               }
             ],
             "lufttrycksgatan": [
@@ -88631,6 +88645,20 @@
                 "$districtName": "malmö sankt petri",
                 "last_accept": 567,
                 "$last_seen": "2023-12-20T13:33:38.222Z"
+              },
+              {
+                "id": 115820,
+                "rent": 11052,
+                "area": 75,
+                "street": "stora kvarngatan",
+                "street_number": "10",
+                "city": "malmö",
+                "zip": "21129",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "malmö sankt petri",
+                "last_accept": 854,
+                "$last_seen": "2024-02-23T07:35:16.395Z"
               }
             ],
             "jakob nilsgatan": [
