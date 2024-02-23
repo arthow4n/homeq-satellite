@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-02-23T05:36:51.786Z",
+  "lastUpdatedAt": "2024-02-23T06:38:44.715Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -68847,6 +68847,20 @@
                 "$districtName": "göteborgs oscar fredrik",
                 "last_accept": 1861,
                 "$last_seen": "2024-02-12T07:34:44.472Z"
+              },
+              {
+                "id": 115596,
+                "rent": 7512,
+                "area": 43,
+                "street": "jungmansgatan",
+                "street_number": "33a",
+                "city": "göteborg",
+                "zip": "41315",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs oscar fredrik",
+                "last_accept": 1811,
+                "$last_seen": "2024-02-23T05:36:51.786Z"
               }
             ],
             "gubbe lars väg": [
