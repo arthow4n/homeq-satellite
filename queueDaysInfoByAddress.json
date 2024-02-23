@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-02-23T11:35:38.192Z",
+  "lastUpdatedAt": "2024-02-23T12:49:39.142Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -1219,6 +1219,20 @@
                 "$districtName": "fässberg",
                 "last_accept": 1276,
                 "$last_seen": "2024-02-07T09:34:39.955Z"
+              },
+              {
+                "id": 115179,
+                "rent": 11105,
+                "area": 80,
+                "street": "marielundsgatan",
+                "street_number": "1",
+                "city": "mölndal",
+                "zip": "43167",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 1487,
+                "$last_seen": "2024-02-23T11:35:38.192Z"
               }
             ],
             "gustavsbergsgatan": [
@@ -5323,6 +5337,20 @@
                 "$districtName": "örgryte",
                 "last_accept": 1724,
                 "$last_seen": "2024-02-22T10:37:31.152Z"
+              },
+              {
+                "id": 115169,
+                "rent": 8051,
+                "area": 35,
+                "street": "smörkärnegatan",
+                "street_number": "25",
+                "city": "göteborg",
+                "zip": "41278",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1502,
+                "$last_seen": "2024-02-23T11:35:38.192Z"
               }
             ]
           }
@@ -19573,6 +19601,20 @@
                 "$districtName": "brämaregården",
                 "last_accept": 1471,
                 "$last_seen": "2024-02-05T12:51:15.402Z"
+              },
+              {
+                "id": 115166,
+                "rent": 10186,
+                "area": 55,
+                "street": "gustaf dalénsgatan",
+                "street_number": "6",
+                "city": "göteborg",
+                "zip": "41722",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brämaregården",
+                "last_accept": 1635,
+                "$last_seen": "2024-02-23T11:35:38.192Z"
               }
             ],
             "lantmätaregatan": [
