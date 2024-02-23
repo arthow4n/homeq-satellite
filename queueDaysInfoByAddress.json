@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-02-23T22:36:40.299Z",
+  "lastUpdatedAt": "2024-02-23T23:35:28.711Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -64555,6 +64555,34 @@
                 "$districtName": "annedal",
                 "last_accept": 1802,
                 "$last_seen": "2023-12-15T23:35:04.975Z"
+              },
+              {
+                "id": 115240,
+                "rent": 9770,
+                "area": 62.3,
+                "street": "doktor allards gata",
+                "street_number": "62",
+                "city": "göteborg",
+                "zip": "41325",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "annedal",
+                "last_accept": 1868,
+                "$last_seen": "2024-02-23T22:36:40.299Z"
+              },
+              {
+                "id": 115242,
+                "rent": 9356,
+                "area": 56.5,
+                "street": "doktor allards gata",
+                "street_number": "70",
+                "city": "göteborg",
+                "zip": "41325",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "annedal",
+                "last_accept": 1869,
+                "$last_seen": "2024-02-23T22:36:40.299Z"
               }
             ]
           },
