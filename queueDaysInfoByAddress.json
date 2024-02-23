@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-02-22T23:37:51.590Z",
+  "lastUpdatedAt": "2024-02-23T01:35:23.693Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -36075,34 +36075,6 @@
                 "$districtName": "björkekärr",
                 "last_accept": 1380,
                 "$last_seen": "2024-02-15T03:35:10.767Z"
-              },
-              {
-                "id": 115128,
-                "rent": 5328,
-                "area": 22,
-                "street": "smörslätten",
-                "street_number": "6",
-                "city": "göteborg",
-                "zip": "41677",
-                "municipality": "göteborg",
-                "county": "västra götalands län",
-                "$districtName": "björkekärr",
-                "last_accept": 883,
-                "$last_seen": "2024-02-22T17:35:41.867Z"
-              },
-              {
-                "id": 115154,
-                "rent": 6697,
-                "area": 38,
-                "street": "smörslätten",
-                "street_number": "8",
-                "city": "göteborg",
-                "zip": "41677",
-                "municipality": "göteborg",
-                "county": "västra götalands län",
-                "$districtName": "björkekärr",
-                "last_accept": 1401,
-                "$last_seen": "2024-02-22T22:36:36.716Z"
               }
             ],
             "lådspikaregatan": [
@@ -76291,20 +76263,6 @@
                 "$districtName": "biskopsgården",
                 "last_accept": 1354,
                 "$last_seen": "2024-02-22T16:40:37.978Z"
-              },
-              {
-                "id": 115209,
-                "rent": 5423,
-                "area": 20,
-                "street": "långströmsgatan",
-                "street_number": "2b",
-                "city": "göteborg",
-                "zip": "41870",
-                "municipality": "göteborg",
-                "county": "västra götalands län",
-                "$districtName": "biskopsgården",
-                "last_accept": 814,
-                "$last_seen": "2024-02-22T18:38:38.466Z"
               }
             ],
             "lufttrycksgatan": [
