@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-02-25T22:37:14.092Z",
+  "lastUpdatedAt": "2024-02-25T23:35:25.656Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -22745,6 +22745,20 @@
                 "$districtName": "lundby",
                 "last_accept": 918,
                 "$last_seen": "2024-02-23T09:35:41.440Z"
+              },
+              {
+                "id": 115409,
+                "rent": 7509,
+                "area": 34,
+                "street": "hjalmar brantingsgatan",
+                "street_number": "104",
+                "city": "göteborg",
+                "zip": "41711",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 902,
+                "$last_seen": "2024-02-25T22:37:14.092Z"
               }
             ],
             "rosenapelgatan": [
@@ -47513,6 +47527,20 @@
                 "$districtName": "bergsjön",
                 "last_accept": 64,
                 "$last_seen": "2024-01-29T11:35:05.829Z"
+              },
+              {
+                "id": 115417,
+                "rent": 11017,
+                "area": 83,
+                "street": "atmosfärgatan",
+                "street_number": "29",
+                "city": "göteborg",
+                "zip": "41561",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bergsjön",
+                "last_accept": 328,
+                "$last_seen": "2024-02-25T22:37:14.092Z"
               }
             ],
             "zenitgatan": [
@@ -61965,6 +61993,20 @@
                 "$districtName": "västra frölunda",
                 "last_accept": 715,
                 "$last_seen": "2024-01-29T15:34:57.023Z"
+              },
+              {
+                "id": 115384,
+                "rent": 7710,
+                "area": 32.3,
+                "street": "altplatsen",
+                "street_number": "3",
+                "city": "göteborg",
+                "zip": "42141",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "västra frölunda",
+                "last_accept": 621,
+                "$last_seen": "2024-02-25T22:37:14.092Z"
               }
             ]
           },
@@ -99473,6 +99515,20 @@
                 "$districtName": "vantör",
                 "last_accept": 1549,
                 "$last_seen": "2024-01-31T22:37:17.656Z"
+              },
+              {
+                "id": 115382,
+                "rent": 6476,
+                "area": 41,
+                "street": "olshammarsgatan",
+                "street_number": "40",
+                "city": "bandhagen",
+                "zip": "12475",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 1684,
+                "$last_seen": "2024-02-25T22:37:14.092Z"
               }
             ],
             "glanshammarsgatan": [
@@ -100521,6 +100577,20 @@
                 "$districtName": "vantör",
                 "last_accept": 2281,
                 "$last_seen": "2024-01-15T15:37:31.003Z"
+              },
+              {
+                "id": 115371,
+                "rent": 8061,
+                "area": 59,
+                "street": "stålbogavägen",
+                "street_number": "16",
+                "city": "bandhagen",
+                "zip": "12456",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 1969,
+                "$last_seen": "2024-02-25T22:37:14.092Z"
               }
             ],
             "askersundsgatan": [
