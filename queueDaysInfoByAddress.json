@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-02-26T12:51:07.149Z",
+  "lastUpdatedAt": "2024-02-26T13:35:52.115Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -13543,6 +13543,20 @@
                 "$districtName": "högsbo",
                 "last_accept": 1656,
                 "$last_seen": "2024-01-15T17:38:40.193Z"
+              },
+              {
+                "id": 115426,
+                "rent": 10500,
+                "area": 76,
+                "street": "synhållsgatan",
+                "street_number": "11",
+                "city": "göteborg",
+                "zip": "42173",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 1729,
+                "$last_seen": "2024-02-26T12:51:07.149Z"
               }
             ],
             "nymilsgatan": [
@@ -14595,6 +14609,20 @@
                 "$districtName": "högsbo",
                 "last_accept": 856,
                 "$last_seen": "2024-02-21T07:34:18.233Z"
+              },
+              {
+                "id": 115269,
+                "rent": 9028,
+                "area": 42,
+                "street": "nymilsgatan",
+                "street_number": "39",
+                "city": "göteborg",
+                "zip": "42170",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 6,
+                "$last_seen": "2024-02-26T12:51:07.149Z"
               }
             ],
             "pennygången": [
@@ -53859,6 +53887,20 @@
                 "$districtName": "göteborgs domkyrkodistrikt",
                 "last_accept": 1423,
                 "$last_seen": "2022-12-01T09:40:15.284Z"
+              },
+              {
+                "id": 115353,
+                "rent": 11407,
+                "area": 112,
+                "street": "burggreveplatsen",
+                "street_number": "5",
+                "city": "göteborg",
+                "zip": "41103",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs domkyrkodistrikt",
+                "last_accept": 1960,
+                "$last_seen": "2024-02-26T12:51:07.149Z"
               }
             ],
             "stampgatan": [
