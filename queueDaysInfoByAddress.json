@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-02-26T15:35:50.557Z",
+  "lastUpdatedAt": "2024-02-26T16:41:36.328Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -36271,6 +36271,20 @@
                 "$districtName": "björkekärr",
                 "last_accept": 1458,
                 "$last_seen": "2024-02-23T04:36:27.515Z"
+              },
+              {
+                "id": 115521,
+                "rent": 8840,
+                "area": 61,
+                "street": "smörslätten",
+                "street_number": "4",
+                "city": "göteborg",
+                "zip": "41677",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "björkekärr",
+                "last_accept": 1650,
+                "$last_seen": "2024-02-26T15:35:50.557Z"
               }
             ],
             "lådspikaregatan": [
@@ -84247,6 +84261,20 @@
                 "$districtName": "tynnered",
                 "last_accept": 1099,
                 "$last_seen": "2024-02-19T07:34:46.819Z"
+              },
+              {
+                "id": 115858,
+                "rent": 9975,
+                "area": 69,
+                "street": "smyckegatan",
+                "street_number": "40",
+                "city": "västra frölunda",
+                "zip": "42651",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tynnered",
+                "last_accept": 820,
+                "$last_seen": "2024-02-26T15:35:50.557Z"
               }
             ],
             "björkhöjdsgatan": [
@@ -96955,6 +96983,20 @@
                 "$districtName": "limhamn",
                 "last_accept": 7,
                 "$last_seen": "2024-02-15T08:36:30.726Z"
+              },
+              {
+                "id": 115573,
+                "rent": 13616,
+                "area": 83,
+                "street": "högatan",
+                "street_number": "10 b",
+                "city": "limhamn",
+                "zip": "21633",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "limhamn",
+                "last_accept": 416,
+                "$last_seen": "2024-02-26T15:35:50.557Z"
               }
             ],
             "höbalsgatan": [
@@ -97213,6 +97255,20 @@
                 "$districtName": "limhamn",
                 "last_accept": 14,
                 "$last_seen": "2024-02-07T12:49:35.954Z"
+              },
+              {
+                "id": 116286,
+                "rent": 4913,
+                "area": 33,
+                "street": "grönalundsgatan",
+                "street_number": "1a",
+                "city": "limhamn",
+                "zip": "21616",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "limhamn",
+                "last_accept": 3,
+                "$last_seen": "2024-02-26T15:35:50.557Z"
               }
             ],
             "västra bernadottesgatan": [
