@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-02-26T07:35:35.581Z",
+  "lastUpdatedAt": "2024-02-26T08:40:20.232Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -22745,20 +22745,6 @@
                 "$districtName": "lundby",
                 "last_accept": 918,
                 "$last_seen": "2024-02-23T09:35:41.440Z"
-              },
-              {
-                "id": 115409,
-                "rent": 7509,
-                "area": 34,
-                "street": "hjalmar brantingsgatan",
-                "street_number": "104",
-                "city": "göteborg",
-                "zip": "41711",
-                "municipality": "göteborg",
-                "county": "västra götalands län",
-                "$districtName": "lundby",
-                "last_accept": 902,
-                "$last_seen": "2024-02-25T22:37:14.092Z"
               }
             ],
             "rosenapelgatan": [
@@ -93567,6 +93553,20 @@
                 "$districtName": "hyllie",
                 "last_accept": 289,
                 "$last_seen": "2023-10-26T10:42:11.278Z"
+              },
+              {
+                "id": 115924,
+                "rent": 6913,
+                "area": 32,
+                "street": "allétorget",
+                "street_number": "9",
+                "city": "malmö",
+                "zip": "21534",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "hyllie",
+                "last_accept": 777,
+                "$last_seen": "2024-02-26T07:35:35.581Z"
               }
             ],
             "bures gata": [
@@ -99515,20 +99515,6 @@
                 "$districtName": "vantör",
                 "last_accept": 1549,
                 "$last_seen": "2024-01-31T22:37:17.656Z"
-              },
-              {
-                "id": 115382,
-                "rent": 6476,
-                "area": 41,
-                "street": "olshammarsgatan",
-                "street_number": "40",
-                "city": "bandhagen",
-                "zip": "12475",
-                "municipality": "stockholm",
-                "county": "stockholms län",
-                "$districtName": "vantör",
-                "last_accept": 1684,
-                "$last_seen": "2024-02-25T22:37:14.092Z"
               }
             ],
             "glanshammarsgatan": [
@@ -100577,20 +100563,6 @@
                 "$districtName": "vantör",
                 "last_accept": 2281,
                 "$last_seen": "2024-01-15T15:37:31.003Z"
-              },
-              {
-                "id": 115371,
-                "rent": 8061,
-                "area": 59,
-                "street": "stålbogavägen",
-                "street_number": "16",
-                "city": "bandhagen",
-                "zip": "12456",
-                "municipality": "stockholm",
-                "county": "stockholms län",
-                "$districtName": "vantör",
-                "last_accept": 1969,
-                "$last_seen": "2024-02-25T22:37:14.092Z"
               }
             ],
             "askersundsgatan": [
@@ -104695,6 +104667,34 @@
                 "$districtName": "hammarby",
                 "last_accept": 162,
                 "$last_seen": "2024-01-23T08:40:28.909Z"
+              },
+              {
+                "id": 115298,
+                "rent": 7893,
+                "area": 34,
+                "street": "dragonvägen",
+                "street_number": "21a",
+                "city": "stockholm",
+                "zip": "19470",
+                "municipality": "upplands väsby",
+                "county": "stockholms län",
+                "$districtName": "hammarby",
+                "last_accept": 173,
+                "$last_seen": "2024-02-26T07:35:35.581Z"
+              },
+              {
+                "id": 115309,
+                "rent": 8560,
+                "area": 34,
+                "street": "dragonvägen",
+                "street_number": "23b",
+                "city": "stockholm",
+                "zip": "19470",
+                "municipality": "upplands väsby",
+                "county": "stockholms län",
+                "$districtName": "hammarby",
+                "last_accept": 524,
+                "$last_seen": "2024-02-26T07:35:35.581Z"
               }
             ]
           }
