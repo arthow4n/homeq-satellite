@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-02-27T11:36:16.593Z",
+  "lastUpdatedAt": "2024-02-27T12:50:24.500Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -16865,6 +16865,20 @@
                 "$districtName": "högsbo",
                 "last_accept": 1645,
                 "$last_seen": "2024-02-27T09:36:14.062Z"
+              },
+              {
+                "id": 116267,
+                "rent": 8403,
+                "area": 62,
+                "street": "pennygången",
+                "street_number": "16",
+                "city": "göteborg",
+                "zip": "41482",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 1121,
+                "$last_seen": "2024-02-27T11:36:16.593Z"
               }
             ],
             "skäpplandsgatan": [
@@ -76825,6 +76839,20 @@
                 "$districtName": "biskopsgården",
                 "last_accept": 815,
                 "$last_seen": "2024-02-23T07:35:16.395Z"
+              },
+              {
+                "id": 115725,
+                "rent": 10457,
+                "area": 84,
+                "street": "långströmsgatan",
+                "street_number": "21b",
+                "city": "göteborg",
+                "zip": "41870",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "biskopsgården",
+                "last_accept": 1871,
+                "$last_seen": "2024-02-27T11:36:16.593Z"
               }
             ],
             "lufttrycksgatan": [
@@ -86667,6 +86695,26 @@
                 "$districtName": "torslanda",
                 "last_accept": 0,
                 "$last_seen": "2024-01-23T13:37:24.232Z"
+              }
+            ]
+          }
+        },
+        "göteborg kortedala ": {
+          "kortedala": {
+            "första majgatan": [
+              {
+                "id": 116565,
+                "rent": 9634,
+                "area": 103,
+                "street": "första majgatan",
+                "street_number": "11",
+                "city": "göteborg kortedala ",
+                "zip": "41543",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "kortedala",
+                "last_accept": 1833,
+                "$last_seen": "2024-02-27T11:36:16.593Z"
               }
             ]
           }
