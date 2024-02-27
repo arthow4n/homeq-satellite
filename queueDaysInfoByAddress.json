@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-02-27T14:36:57.286Z",
+  "lastUpdatedAt": "2024-02-27T15:35:35.243Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -5421,6 +5421,34 @@
                 "$districtName": "örgryte",
                 "last_accept": 1502,
                 "$last_seen": "2024-02-23T11:35:38.192Z"
+              },
+              {
+                "id": 115759,
+                "rent": 10115,
+                "area": 54,
+                "street": "smörkärnegatan",
+                "street_number": "25",
+                "city": "göteborg",
+                "zip": "41278",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1487,
+                "$last_seen": "2024-02-27T14:36:57.286Z"
+              },
+              {
+                "id": 115823,
+                "rent": 7535,
+                "area": 35,
+                "street": "smörkärnegatan",
+                "street_number": "25",
+                "city": "göteborg",
+                "zip": "41278",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1339,
+                "$last_seen": "2024-02-27T14:36:57.286Z"
               }
             ]
           }
@@ -13415,6 +13443,20 @@
                 "$districtName": "högsbo",
                 "last_accept": 1163,
                 "$last_seen": "2024-02-12T11:34:09.947Z"
+              },
+              {
+                "id": 115835,
+                "rent": 10359,
+                "area": 53,
+                "street": "skillingmyntsgatan",
+                "street_number": "6",
+                "city": "göteborg",
+                "zip": "41484",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 383,
+                "$last_seen": "2024-02-27T14:36:57.286Z"
               }
             ],
             "synhållsgatan": [
@@ -69411,6 +69453,20 @@
                 "$districtName": "göteborgs oscar fredrik",
                 "last_accept": 1811,
                 "$last_seen": "2024-02-23T05:36:51.786Z"
+              },
+              {
+                "id": 116463,
+                "rent": 10229,
+                "area": 58,
+                "street": "jungmansgatan",
+                "street_number": "31c",
+                "city": "göteborg",
+                "zip": "41315",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs oscar fredrik",
+                "last_accept": 1920,
+                "$last_seen": "2024-02-27T14:36:57.286Z"
               }
             ],
             "gubbe lars väg": [
