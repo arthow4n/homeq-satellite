@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-02-27T12:50:24.500Z",
+  "lastUpdatedAt": "2024-02-27T13:35:28.007Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -4251,6 +4251,20 @@
                 "$districtName": "fässberg",
                 "last_accept": 1569,
                 "$last_seen": "2024-02-22T09:35:03.699Z"
+              },
+              {
+                "id": 115716,
+                "rent": 11088,
+                "area": 68,
+                "street": "åby allé",
+                "street_number": "21",
+                "city": "göteborg",
+                "zip": "43145",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 1687,
+                "$last_seen": "2024-02-27T12:50:24.500Z"
               }
             ],
             "åbyvägen": [
@@ -17427,6 +17441,20 @@
                 "$districtName": "högsbo",
                 "last_accept": 1589,
                 "$last_seen": "2024-01-17T09:36:12.113Z"
+              },
+              {
+                "id": 115672,
+                "rent": 9200,
+                "area": 73,
+                "street": "skäpplandsgatan",
+                "street_number": "4",
+                "city": "göteborg",
+                "zip": "41478",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 1851,
+                "$last_seen": "2024-02-27T12:50:24.500Z"
               }
             ],
             "marklandsgatan": [
@@ -41595,6 +41623,20 @@
                 "$districtName": "askim",
                 "last_accept": 1684,
                 "$last_seen": "2024-02-15T07:34:11.233Z"
+              },
+              {
+                "id": 115698,
+                "rent": 11818,
+                "area": 82,
+                "street": "pilegården",
+                "street_number": "9g",
+                "city": "göteborg",
+                "zip": "43635",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 987,
+                "$last_seen": "2024-02-27T12:50:24.500Z"
               }
             ],
             "nergårdsvägen": [
@@ -52213,6 +52255,22 @@
                 "$districtName": "härlanda",
                 "last_accept": 1829,
                 "$last_seen": "2024-01-11T07:36:59.122Z"
+              }
+            ],
+            "olbersgatan": [
+              {
+                "id": 115668,
+                "rent": 8662,
+                "area": 76,
+                "street": "olbersgatan",
+                "street_number": "4b",
+                "city": "göteborg",
+                "zip": "41655",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "härlanda",
+                "last_accept": 1965,
+                "$last_seen": "2024-02-27T12:50:24.500Z"
               }
             ]
           },
@@ -80423,6 +80481,20 @@
                 "$districtName": "gunnared",
                 "last_accept": 1218,
                 "$last_seen": "2024-02-15T07:34:11.233Z"
+              },
+              {
+                "id": 116991,
+                "rent": 5896,
+                "area": 35,
+                "street": "gårdstensvägen",
+                "street_number": "51",
+                "city": "göteborg",
+                "zip": "42440",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "gunnared",
+                "last_accept": 896,
+                "$last_seen": "2024-02-27T12:50:24.500Z"
               }
             ]
           },
@@ -85183,6 +85255,20 @@
                 "$districtName": "tynnered",
                 "last_accept": 1229,
                 "$last_seen": "2024-02-19T22:36:58.477Z"
+              },
+              {
+                "id": 115721,
+                "rent": 9849,
+                "area": 74,
+                "street": "lilla grevegårdsvägen",
+                "street_number": "35",
+                "city": "västra frölunda",
+                "zip": "42655",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tynnered",
+                "last_accept": 1178,
+                "$last_seen": "2024-02-27T12:50:24.500Z"
               }
             ],
             "björkhöjdgatan": [
@@ -85921,6 +86007,20 @@
                 "$districtName": "västra frölunda",
                 "last_accept": 802,
                 "$last_seen": "2023-12-29T11:34:01.553Z"
+              },
+              {
+                "id": 116175,
+                "rent": 11482,
+                "area": 80,
+                "street": "tamburingatan",
+                "street_number": "9",
+                "city": "västra frölunda",
+                "zip": "42151",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "västra frölunda",
+                "last_accept": 889,
+                "$last_seen": "2024-02-27T12:50:24.500Z"
               }
             ],
             "marconigatan": [
@@ -91341,6 +91441,20 @@
                 "$districtName": "kirseberg",
                 "last_accept": 64,
                 "$last_seen": "2024-01-30T20:34:43.982Z"
+              },
+              {
+                "id": 115359,
+                "rent": 11716,
+                "area": 72,
+                "street": "segeparksgatan",
+                "street_number": "19",
+                "city": "malmö",
+                "zip": "21250",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "kirseberg",
+                "last_accept": 473,
+                "$last_seen": "2024-02-27T12:50:24.500Z"
               }
             ],
             "lundavägen": [
@@ -95339,6 +95453,20 @@
                 "$districtName": "västra skrävlinge",
                 "last_accept": 0,
                 "$last_seen": "2024-02-26T11:36:03.425Z"
+              },
+              {
+                "id": 115651,
+                "rent": 6506,
+                "area": 51,
+                "street": "ramels väg",
+                "street_number": "33",
+                "city": "malmö",
+                "zip": "21368",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "västra skrävlinge",
+                "last_accept": 536,
+                "$last_seen": "2024-02-27T12:50:24.500Z"
               }
             ]
           },
