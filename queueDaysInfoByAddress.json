@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-02-27T09:36:14.062Z",
+  "lastUpdatedAt": "2024-02-27T10:40:22.539Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -979,6 +979,20 @@
                 "$last_seen": "2024-01-19T11:35:34.768Z"
               },
               {
+                "id": 115653,
+                "rent": 6946,
+                "area": 44,
+                "street": "berghemsgatan",
+                "street_number": "26",
+                "city": "mölndal",
+                "zip": "43137",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 1734,
+                "$last_seen": "2024-02-27T09:36:14.062Z"
+              },
+              {
                 "id": 115729,
                 "rent": 10527,
                 "area": 81,
@@ -1767,6 +1781,20 @@
                 "$districtName": "fässberg",
                 "last_accept": 1451,
                 "$last_seen": "2024-02-13T13:34:07.273Z"
+              },
+              {
+                "id": 115563,
+                "rent": 10459,
+                "area": 70,
+                "street": "gustavsbergsgatan",
+                "street_number": "2",
+                "city": "mölndal",
+                "zip": "43137",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 1811,
+                "$last_seen": "2024-02-27T09:36:14.062Z"
               }
             ],
             "fredåsgatan": [
@@ -1839,6 +1867,20 @@
                 "$districtName": "fässberg",
                 "last_accept": 1418,
                 "$last_seen": "2023-12-21T14:36:03.077Z"
+              },
+              {
+                "id": 115731,
+                "rent": 10055,
+                "area": 70,
+                "street": "fredåsgatan",
+                "street_number": "28",
+                "city": "mölndal",
+                "zip": "43137",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 1518,
+                "$last_seen": "2024-02-27T09:36:14.062Z"
               }
             ],
             "oxdragargatan": [
@@ -11543,6 +11585,20 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1905,
                 "$last_seen": "2024-02-22T14:38:46.814Z"
+              },
+              {
+                "id": 115605,
+                "rent": 7553,
+                "area": 61,
+                "street": "övre besvärsgatan",
+                "street_number": "8",
+                "city": "göteborg",
+                "zip": "41129",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 2798,
+                "$last_seen": "2024-02-27T09:36:14.062Z"
               }
             ],
             "utlandagatan": [
@@ -16795,6 +16851,20 @@
                 "$districtName": "högsbo",
                 "last_accept": 801,
                 "$last_seen": "2024-02-09T08:35:36.377Z"
+              },
+              {
+                "id": 116239,
+                "rent": 8817,
+                "area": 63,
+                "street": "pennygången",
+                "street_number": "64",
+                "city": "göteborg",
+                "zip": "41482",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 1645,
+                "$last_seen": "2024-02-27T09:36:14.062Z"
               }
             ],
             "skäpplandsgatan": [
@@ -20657,6 +20727,20 @@
                 "$districtName": "brämaregården",
                 "last_accept": 1826,
                 "$last_seen": "2023-12-01T06:42:08.592Z"
+              },
+              {
+                "id": 115607,
+                "rent": 9905,
+                "area": 76,
+                "street": "wieselgrensplatsen",
+                "street_number": "13",
+                "city": "göteborg",
+                "zip": "41739",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brämaregården",
+                "last_accept": 1876,
+                "$last_seen": "2024-02-27T09:36:14.062Z"
               }
             ],
             "väderkvarnsgatan": [
@@ -42959,6 +43043,20 @@
                 "$districtName": "askim",
                 "last_accept": 754,
                 "$last_seen": "2024-01-29T08:37:42.855Z"
+              },
+              {
+                "id": 115570,
+                "rent": 10415,
+                "area": 54,
+                "street": "kobbeslätten",
+                "street_number": "4",
+                "city": "göteborg",
+                "zip": "43637",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 26,
+                "$last_seen": "2024-02-27T09:36:14.062Z"
               }
             ],
             "kobbegården": [
@@ -70943,6 +71041,20 @@
                 "$districtName": "masthugget",
                 "last_accept": 1863,
                 "$last_seen": "2024-02-14T08:36:55.414Z"
+              },
+              {
+                "id": 115714,
+                "rent": 6335,
+                "area": 38,
+                "street": "bangatan",
+                "street_number": "27",
+                "city": "göteborg",
+                "zip": "41464",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "masthugget",
+                "last_accept": 1594,
+                "$last_seen": "2024-02-27T09:36:14.062Z"
               }
             ],
             "amiralitetsgatan": [
@@ -74049,6 +74161,20 @@
                 "$districtName": "biskopsgården",
                 "last_accept": 552,
                 "$last_seen": "2024-02-19T11:34:20.754Z"
+              },
+              {
+                "id": 115514,
+                "rent": 6631,
+                "area": 51,
+                "street": "temperaturgatan",
+                "street_number": "51",
+                "city": "göteborg",
+                "zip": "41841",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "biskopsgården",
+                "last_accept": 682,
+                "$last_seen": "2024-02-27T09:36:14.062Z"
               }
             ],
             "solstrålegatan": [
@@ -87679,6 +87805,20 @@
                 "$districtName": "sofielund",
                 "last_accept": 48,
                 "$last_seen": "2023-12-12T13:38:10.227Z"
+              },
+              {
+                "id": 115512,
+                "rent": 6485,
+                "area": 64,
+                "street": "amiralsgatan",
+                "street_number": "70b",
+                "city": "malmö",
+                "zip": "21437",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "sofielund",
+                "last_accept": 1030,
+                "$last_seen": "2024-02-27T09:36:14.062Z"
               }
             ],
             "osbygatan": [
@@ -99207,6 +99347,20 @@
                 "$districtName": "bunkeflo",
                 "last_accept": 394,
                 "$last_seen": "2024-02-16T23:34:38.797Z"
+              },
+              {
+                "id": 114652,
+                "rent": 10486,
+                "area": 68.6,
+                "street": "skräddarebyn",
+                "street_number": "5a",
+                "city": "bunkeflostrand",
+                "zip": "21842",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "bunkeflo",
+                "last_accept": 5,
+                "$last_seen": "2024-02-27T09:36:14.062Z"
               },
               {
                 "id": 115459,
