@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-02-27T07:36:22.452Z",
+  "lastUpdatedAt": "2024-02-27T08:38:23.289Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -977,6 +977,20 @@
                 "$districtName": "fässberg",
                 "last_accept": 1834,
                 "$last_seen": "2024-01-19T11:35:34.768Z"
+              },
+              {
+                "id": 115729,
+                "rent": 10527,
+                "area": 81,
+                "street": "berghemsgatan",
+                "street_number": "14",
+                "city": "mölndal",
+                "zip": "43137",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 1874,
+                "$last_seen": "2024-02-27T07:36:22.452Z"
               }
             ],
             "brogatan": [
@@ -55564,6 +55578,22 @@
                 "last_accept": 1635,
                 "$last_seen": "2024-02-12T11:34:09.947Z"
               }
+            ],
+            "storgatan": [
+              {
+                "id": 115597,
+                "rent": 8411,
+                "area": 56,
+                "street": "storgatan",
+                "street_number": "51",
+                "city": "göteborg",
+                "zip": "41138",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs domkyrkodistrikt",
+                "last_accept": 1952,
+                "$last_seen": "2024-02-27T07:36:22.452Z"
+              }
             ]
           },
           "örgryte": {
@@ -96983,6 +97013,20 @@
                 "$districtName": "limhamn",
                 "last_accept": 7,
                 "$last_seen": "2024-02-15T08:36:30.726Z"
+              },
+              {
+                "id": 115573,
+                "rent": 13616,
+                "area": 83,
+                "street": "högatan",
+                "street_number": "10 b",
+                "city": "limhamn",
+                "zip": "21633",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "limhamn",
+                "last_accept": 417,
+                "$last_seen": "2024-02-27T07:36:22.452Z"
               }
             ],
             "höbalsgatan": [
