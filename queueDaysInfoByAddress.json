@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-02-28T10:39:48.237Z",
+  "lastUpdatedAt": "2024-02-28T11:34:41.591Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -92369,6 +92369,20 @@
                 "$districtName": "kirseberg",
                 "last_accept": 9,
                 "$last_seen": "2024-02-27T10:40:22.539Z"
+              },
+              {
+                "id": 115884,
+                "rent": 7826,
+                "area": 60,
+                "street": "högamöllegatan",
+                "street_number": "3 c",
+                "city": "malmö",
+                "zip": "21219",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "kirseberg",
+                "last_accept": 239,
+                "$last_seen": "2024-02-28T10:39:48.237Z"
               }
             ],
             "floragatan": [
@@ -93991,6 +94005,20 @@
                 "$districtName": "hyllie",
                 "last_accept": 256,
                 "$last_seen": "2024-01-15T12:56:37.968Z"
+              },
+              {
+                "id": 115793,
+                "rent": 7816,
+                "area": 51,
+                "street": "hålsjögatan",
+                "street_number": "15",
+                "city": "malmö",
+                "zip": "21766",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "hyllie",
+                "last_accept": 51,
+                "$last_seen": "2024-02-28T10:39:48.237Z"
               }
             ],
             "hyllie allé": [
