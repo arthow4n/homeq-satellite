@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-02-28T09:35:23.236Z",
+  "lastUpdatedAt": "2024-02-28T10:39:48.237Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -9641,6 +9641,20 @@
                 "$districtName": "johanneberg",
                 "last_accept": 2046,
                 "$last_seen": "2024-02-22T07:34:21.482Z"
+              },
+              {
+                "id": 115795,
+                "rent": 7679,
+                "area": 65,
+                "street": "fribergsgatan",
+                "street_number": "4",
+                "city": "göteborg",
+                "zip": "41260",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 2834,
+                "$last_seen": "2024-02-28T09:35:23.236Z"
               }
             ],
             "gibraltargatan": [
@@ -16907,6 +16921,20 @@
                 "$districtName": "högsbo",
                 "last_accept": 801,
                 "$last_seen": "2024-02-09T08:35:36.377Z"
+              },
+              {
+                "id": 116229,
+                "rent": 10758,
+                "area": 83,
+                "street": "pennygången",
+                "street_number": "31",
+                "city": "göteborg",
+                "zip": "41482",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 1738,
+                "$last_seen": "2024-02-28T09:35:23.236Z"
               },
               {
                 "id": 116239,
@@ -39967,6 +39995,20 @@
                 "$districtName": "kortedala",
                 "last_accept": 1612,
                 "$last_seen": "2023-12-13T15:37:18.513Z"
+              },
+              {
+                "id": 115769,
+                "rent": 6276,
+                "area": 47,
+                "street": "nymånegatan",
+                "street_number": "37",
+                "city": "göteborg",
+                "zip": "41531",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "kortedala",
+                "last_accept": 889,
+                "$last_seen": "2024-02-28T09:35:23.236Z"
               }
             ]
           },
@@ -50389,6 +50431,20 @@
                 "$districtName": "nylöse",
                 "last_accept": 1217,
                 "$last_seen": "2022-10-25T09:04:50.261Z"
+              },
+              {
+                "id": 116348,
+                "rent": 8651,
+                "area": 52,
+                "street": "ryttaregatan",
+                "street_number": "9c",
+                "city": "göteborg",
+                "zip": "41517",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "nylöse",
+                "last_accept": 1556,
+                "$last_seen": "2024-02-28T09:35:23.236Z"
               }
             ],
             "artillerigatan": [
@@ -55059,6 +55115,34 @@
                 "$districtName": "göteborgs domkyrkodistrikt",
                 "last_accept": 1911,
                 "$last_seen": "2024-02-06T07:35:38.887Z"
+              },
+              {
+                "id": 115845,
+                "rent": 9989,
+                "area": 63,
+                "street": "folkungagatan",
+                "street_number": "10",
+                "city": "göteborg",
+                "zip": "41102",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs domkyrkodistrikt",
+                "last_accept": 1836,
+                "$last_seen": "2024-02-28T09:35:23.236Z"
+              },
+              {
+                "id": 115846,
+                "rent": 10869,
+                "area": 71,
+                "street": "folkungagatan",
+                "street_number": "12",
+                "city": "göteborg",
+                "zip": "41102",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs domkyrkodistrikt",
+                "last_accept": 1877,
+                "$last_seen": "2024-02-28T09:35:23.236Z"
               }
             ],
             "basargatan": [
@@ -64811,6 +64895,20 @@
                 "$districtName": "annedal",
                 "last_accept": 1832,
                 "$last_seen": "2024-01-15T12:56:37.968Z"
+              },
+              {
+                "id": 115847,
+                "rent": 8758,
+                "area": 64,
+                "street": "seminariegatan",
+                "street_number": "4",
+                "city": "göteborg",
+                "zip": "41313",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "annedal",
+                "last_accept": 1881,
+                "$last_seen": "2024-02-28T09:35:23.236Z"
               }
             ],
             "guldhedstorget": [
@@ -83449,6 +83547,34 @@
                 "$districtName": "tynnered",
                 "last_accept": 1461,
                 "$last_seen": "2024-02-26T10:40:10.739Z"
+              },
+              {
+                "id": 115766,
+                "rent": 9466,
+                "area": 77,
+                "street": "karneolgatan",
+                "street_number": "21",
+                "city": "västra frölunda",
+                "zip": "42651",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tynnered",
+                "last_accept": 1698,
+                "$last_seen": "2024-02-28T09:35:23.236Z"
+              },
+              {
+                "id": 115768,
+                "rent": 8180,
+                "area": 66,
+                "street": "karneolgatan",
+                "street_number": "43",
+                "city": "västra frölunda",
+                "zip": "42651",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tynnered",
+                "last_accept": 1346,
+                "$last_seen": "2024-02-28T09:35:23.236Z"
               }
             ],
             "smaragdgatan": [
