@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-02-28T07:36:00.744Z",
+  "lastUpdatedAt": "2024-02-28T08:38:28.314Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -5421,6 +5421,34 @@
                 "$districtName": "örgryte",
                 "last_accept": 1502,
                 "$last_seen": "2024-02-23T11:35:38.192Z"
+              },
+              {
+                "id": 115759,
+                "rent": 10115,
+                "area": 54,
+                "street": "smörkärnegatan",
+                "street_number": "25",
+                "city": "göteborg",
+                "zip": "41278",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1488,
+                "$last_seen": "2024-02-28T07:36:00.744Z"
+              },
+              {
+                "id": 115823,
+                "rent": 7535,
+                "area": 35,
+                "street": "smörkärnegatan",
+                "street_number": "25",
+                "city": "göteborg",
+                "zip": "41278",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1346,
+                "$last_seen": "2024-02-28T07:36:00.744Z"
               }
             ]
           }
@@ -13415,6 +13443,20 @@
                 "$districtName": "högsbo",
                 "last_accept": 1163,
                 "$last_seen": "2024-02-12T11:34:09.947Z"
+              },
+              {
+                "id": 115835,
+                "rent": 10359,
+                "area": 53,
+                "street": "skillingmyntsgatan",
+                "street_number": "6",
+                "city": "göteborg",
+                "zip": "41484",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 398,
+                "$last_seen": "2024-02-28T07:36:00.744Z"
               }
             ],
             "synhållsgatan": [
@@ -16893,6 +16935,20 @@
                 "$districtName": "högsbo",
                 "last_accept": 1121,
                 "$last_seen": "2024-02-27T11:36:16.593Z"
+              },
+              {
+                "id": 116308,
+                "rent": 6538,
+                "area": 43,
+                "street": "pennygången",
+                "street_number": "21",
+                "city": "göteborg",
+                "zip": "41482",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 1055,
+                "$last_seen": "2024-02-28T07:36:00.744Z"
               }
             ],
             "skäpplandsgatan": [
@@ -19797,6 +19853,20 @@
                 "$districtName": "brämaregården",
                 "last_accept": 1449,
                 "$last_seen": "2024-02-27T08:38:23.289Z"
+              },
+              {
+                "id": 115829,
+                "rent": 9531,
+                "area": 54,
+                "street": "gustaf dalénsgatan",
+                "street_number": "7 b",
+                "city": "göteborg",
+                "zip": "41723",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brämaregården",
+                "last_accept": 1523,
+                "$last_seen": "2024-02-28T07:36:00.744Z"
               }
             ],
             "lantmätaregatan": [
@@ -34667,6 +34737,20 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1570,
                 "$last_seen": "2023-10-10T07:40:44.464Z"
+              },
+              {
+                "id": 116206,
+                "rent": 7566,
+                "area": 47,
+                "street": "räntmästaregatan",
+                "street_number": "3",
+                "city": "göteborg",
+                "zip": "41658",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1769,
+                "$last_seen": "2024-02-28T07:36:00.744Z"
               }
             ],
             "svangatan": [
@@ -96055,6 +96139,20 @@
                 "$districtName": "fosie",
                 "last_accept": 0,
                 "$last_seen": "2023-12-07T15:37:59.411Z"
+              },
+              {
+                "id": 115757,
+                "rent": 9039,
+                "area": 58,
+                "street": "docentgatan",
+                "street_number": "7a",
+                "city": "malmö",
+                "zip": "21552",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "fosie",
+                "last_accept": 0,
+                "$last_seen": "2024-02-28T07:36:00.744Z"
               }
             ],
             "professorsgatan": [
@@ -104813,6 +104911,20 @@
                 "$districtName": "kista",
                 "last_accept": 1023,
                 "$last_seen": "2024-02-26T14:38:37.220Z"
+              },
+              {
+                "id": 116914,
+                "rent": 6236,
+                "area": 22,
+                "street": "almbygatan",
+                "street_number": "14",
+                "city": "spånga",
+                "zip": "16376",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "kista",
+                "last_accept": 144,
+                "$last_seen": "2024-02-28T07:36:00.744Z"
               },
               {
                 "id": 116920,
