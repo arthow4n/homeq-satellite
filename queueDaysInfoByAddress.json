@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-02-28T17:37:23.563Z",
+  "lastUpdatedAt": "2024-02-28T18:37:49.318Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -77149,20 +77149,6 @@
                 "$districtName": "biskopsgården",
                 "last_accept": 1871,
                 "$last_seen": "2024-02-27T11:36:16.593Z"
-              },
-              {
-                "id": 116146,
-                "rent": 10702,
-                "area": 83,
-                "street": "långströmsgatan",
-                "street_number": "44b",
-                "city": "göteborg",
-                "zip": "41870",
-                "municipality": "göteborg",
-                "county": "västra götalands län",
-                "$districtName": "biskopsgården",
-                "last_accept": 1708,
-                "$last_seen": "2024-02-28T15:35:30.180Z"
               }
             ],
             "lufttrycksgatan": [
@@ -86315,6 +86301,20 @@
                 "$districtName": "västra frölunda",
                 "last_accept": 802,
                 "$last_seen": "2023-12-29T11:34:01.553Z"
+              },
+              {
+                "id": 116175,
+                "rent": 11482,
+                "area": 80,
+                "street": "tamburingatan",
+                "street_number": "9",
+                "city": "västra frölunda",
+                "zip": "42151",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "västra frölunda",
+                "last_accept": 890,
+                "$last_seen": "2024-02-28T17:37:23.563Z"
               }
             ],
             "marconigatan": [
