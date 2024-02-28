@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-02-28T08:38:28.314Z",
+  "lastUpdatedAt": "2024-02-28T09:35:23.236Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -56551,6 +56551,20 @@
                 "$districtName": "örgryte",
                 "last_accept": 1487,
                 "$last_seen": "2024-02-27T08:38:23.289Z"
+              },
+              {
+                "id": 115777,
+                "rent": 9643,
+                "area": 52,
+                "street": "smörgatan",
+                "street_number": "1",
+                "city": "göteborg",
+                "zip": "41278",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1343,
+                "$last_seen": "2024-02-28T08:38:28.314Z"
               }
             ],
             "prästgårdsängen": [
@@ -61531,6 +61545,20 @@
                 "$districtName": "örgryte",
                 "last_accept": 1464,
                 "$last_seen": "2024-01-17T08:40:54.203Z"
+              },
+              {
+                "id": 115756,
+                "rent": 7875,
+                "area": 33,
+                "street": "separatorsgatan",
+                "street_number": "12",
+                "city": "göteborg",
+                "zip": "41278",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1369,
+                "$last_seen": "2024-02-28T08:38:28.314Z"
               }
             ],
             "påskbergsgatan": [
@@ -69481,6 +69509,20 @@
                 "$districtName": "göteborgs oscar fredrik",
                 "last_accept": 1811,
                 "$last_seen": "2024-02-23T05:36:51.786Z"
+              },
+              {
+                "id": 115772,
+                "rent": 12200,
+                "area": 66,
+                "street": "jungmansgatan",
+                "street_number": "33a",
+                "city": "göteborg",
+                "zip": "41315",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs oscar fredrik",
+                "last_accept": 1878,
+                "$last_seen": "2024-02-28T08:38:28.314Z"
               },
               {
                 "id": 116463,
@@ -78705,6 +78747,20 @@
                 "$districtName": "göteborgs karl johan",
                 "last_accept": 1761,
                 "$last_seen": "2023-10-31T09:38:38.677Z"
+              },
+              {
+                "id": 116180,
+                "rent": 8800,
+                "area": 50,
+                "street": "seglaregatan",
+                "street_number": "29 c",
+                "city": "göteborg",
+                "zip": "41457",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs karl johan",
+                "last_accept": 1731,
+                "$last_seen": "2024-02-28T08:38:28.314Z"
               }
             ],
             "kabelgatan": [
@@ -82509,6 +82565,20 @@
                 "$districtName": "brunnsbo",
                 "last_accept": 1061,
                 "$last_seen": "2024-01-19T13:37:03.418Z"
+              },
+              {
+                "id": 115807,
+                "rent": 9117,
+                "area": 73,
+                "street": "poesigatan",
+                "street_number": "6",
+                "city": "hisings backa",
+                "zip": "42241",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brunnsbo",
+                "last_accept": 1591,
+                "$last_seen": "2024-02-28T08:38:28.314Z"
               }
             ]
           }
