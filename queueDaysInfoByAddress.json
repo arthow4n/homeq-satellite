@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-02-28T11:34:41.591Z",
+  "lastUpdatedAt": "2024-02-28T12:49:42.847Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -91159,6 +91159,20 @@
                 "$districtName": "limhamn",
                 "last_accept": 305,
                 "$last_seen": "2024-02-13T09:34:28.489Z"
+              },
+              {
+                "id": 115616,
+                "rent": 8879,
+                "area": 43.5,
+                "street": "nätsnäcksgränd",
+                "street_number": "4",
+                "city": "malmö",
+                "zip": "21631",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "limhamn",
+                "last_accept": 301,
+                "$last_seen": "2024-02-28T11:34:41.591Z"
               }
             ],
             "dammsnäcksgränd": [
@@ -104865,6 +104879,20 @@
                 "$districtName": "spånga",
                 "last_accept": 1910,
                 "$last_seen": "2024-02-06T09:35:01.950Z"
+              },
+              {
+                "id": 116895,
+                "rent": 9826,
+                "area": 81.3,
+                "street": "nybykroken",
+                "street_number": "1",
+                "city": "spånga",
+                "zip": "16370",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "spånga",
+                "last_accept": 1776,
+                "$last_seen": "2024-02-28T11:34:41.591Z"
               }
             ]
           },
