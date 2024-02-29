@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-02-29T14:38:56.485Z",
+  "lastUpdatedAt": "2024-02-29T15:34:34.691Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -39345,6 +39345,20 @@
                 "$districtName": "kortedala",
                 "last_accept": 1364,
                 "$last_seen": "2024-02-27T08:38:23.289Z"
+              },
+              {
+                "id": 116327,
+                "rent": 5452,
+                "area": 54,
+                "street": "aprilgatan",
+                "street_number": "34",
+                "city": "göteborg",
+                "zip": "41548",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "kortedala",
+                "last_accept": 1285,
+                "$last_seen": "2024-02-29T14:38:56.485Z"
               }
             ],
             "februarigatan": [
@@ -92963,6 +92977,20 @@
                 "$districtName": "kirseberg",
                 "last_accept": 3,
                 "$last_seen": "2024-02-15T11:34:12.723Z"
+              },
+              {
+                "id": 116341,
+                "rent": 9297,
+                "area": 66,
+                "street": "gerlachsgatan",
+                "street_number": "4",
+                "city": "malmö",
+                "zip": "21219",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "kirseberg",
+                "last_accept": 258,
+                "$last_seen": "2024-02-29T14:38:56.485Z"
               }
             ],
             "dalhemsgtan": [
