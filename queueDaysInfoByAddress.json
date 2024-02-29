@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-02-29T22:37:53.190Z",
+  "lastUpdatedAt": "2024-02-29T23:34:39.200Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -41875,6 +41875,20 @@
                 "$districtName": "askim",
                 "last_accept": 987,
                 "$last_seen": "2024-02-27T12:50:24.500Z"
+              },
+              {
+                "id": 116288,
+                "rent": 9662,
+                "area": 65,
+                "street": "pilegården",
+                "street_number": "4c",
+                "city": "göteborg",
+                "zip": "43635",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 805,
+                "$last_seen": "2024-02-29T22:37:53.190Z"
               }
             ],
             "nergårdsvägen": [
@@ -42619,6 +42633,34 @@
                 "$districtName": "askim",
                 "last_accept": 1060,
                 "$last_seen": "2024-02-21T10:38:27.355Z"
+              },
+              {
+                "id": 116266,
+                "rent": 10854,
+                "area": 75,
+                "street": "nergårdsvägen",
+                "street_number": "55",
+                "city": "göteborg",
+                "zip": "43636",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 989,
+                "$last_seen": "2024-02-29T22:37:53.190Z"
+              },
+              {
+                "id": 116310,
+                "rent": 11264,
+                "area": 75,
+                "street": "nergårdsvägen",
+                "street_number": "61",
+                "city": "göteborg",
+                "zip": "43636",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 925,
+                "$last_seen": "2024-02-29T22:37:53.190Z"
               }
             ],
             "hyltegården": [
@@ -106001,6 +106043,34 @@
                 "$districtName": "österhaninge",
                 "last_accept": 474,
                 "$last_seen": "2024-02-13T06:38:07.869Z"
+              },
+              {
+                "id": 116400,
+                "rent": 12681,
+                "area": 57.6,
+                "street": "vardövägen",
+                "street_number": "53",
+                "city": "stockholm",
+                "zip": "13657",
+                "municipality": "haninge",
+                "county": "stockholms län",
+                "$districtName": "österhaninge",
+                "last_accept": 709,
+                "$last_seen": "2024-02-29T22:37:53.190Z"
+              },
+              {
+                "id": 116403,
+                "rent": 13291,
+                "area": 62,
+                "street": "vardövägen",
+                "street_number": "44",
+                "city": "stockholm",
+                "zip": "13657",
+                "municipality": "haninge",
+                "county": "stockholms län",
+                "$districtName": "österhaninge",
+                "last_accept": 264,
+                "$last_seen": "2024-02-29T22:37:53.190Z"
               }
             ]
           }
