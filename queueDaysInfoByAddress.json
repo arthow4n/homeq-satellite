@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-02-29T10:41:02.932Z",
+  "lastUpdatedAt": "2024-02-29T11:44:55.196Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -17553,6 +17553,20 @@
                 "$districtName": "högsbo",
                 "last_accept": 1851,
                 "$last_seen": "2024-02-27T12:50:24.500Z"
+              },
+              {
+                "id": 116226,
+                "rent": 9220,
+                "area": 69,
+                "street": "skäpplandsgatan",
+                "street_number": "1",
+                "city": "göteborg",
+                "zip": "41478",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 1876,
+                "$last_seen": "2024-02-29T10:41:02.932Z"
               },
               {
                 "id": 116255,
@@ -106009,6 +106023,20 @@
                 "$districtName": "hammarby",
                 "last_accept": 524,
                 "$last_seen": "2024-02-26T07:35:35.581Z"
+              },
+              {
+                "id": 116205,
+                "rent": 6875,
+                "area": 29,
+                "street": "dragonvägen",
+                "street_number": "11",
+                "city": "stockholm",
+                "zip": "19470",
+                "municipality": "upplands väsby",
+                "county": "stockholms län",
+                "$districtName": "hammarby",
+                "last_accept": 191,
+                "$last_seen": "2024-02-29T10:41:02.932Z"
               }
             ]
           }
