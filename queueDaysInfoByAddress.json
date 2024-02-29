@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-02-29T13:34:40.801Z",
+  "lastUpdatedAt": "2024-02-29T14:38:56.485Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -40093,6 +40093,20 @@
                 "$districtName": "kortedala",
                 "last_accept": 889,
                 "$last_seen": "2024-02-28T09:35:23.236Z"
+              },
+              {
+                "id": 116242,
+                "rent": 8142,
+                "area": 71,
+                "street": "nymånegatan",
+                "street_number": "19",
+                "city": "göteborg",
+                "zip": "41531",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "kortedala",
+                "last_accept": 1602,
+                "$last_seen": "2024-02-29T13:34:40.801Z"
               }
             ]
           },
@@ -59531,6 +59545,20 @@
                 "$districtName": "örgryte",
                 "last_accept": 1841,
                 "$last_seen": "2024-01-23T07:35:16.050Z"
+              },
+              {
+                "id": 116892,
+                "rent": 5664,
+                "area": 47,
+                "street": "anders zornsgatan",
+                "street_number": "25d",
+                "city": "göteborg",
+                "zip": "41272",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1794,
+                "$last_seen": "2024-02-29T13:34:40.801Z"
               }
             ],
             "mejerigatan": [
