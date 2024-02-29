@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-02-29T09:35:16.037Z",
+  "lastUpdatedAt": "2024-02-29T10:41:02.932Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -17553,6 +17553,20 @@
                 "$districtName": "högsbo",
                 "last_accept": 1851,
                 "$last_seen": "2024-02-27T12:50:24.500Z"
+              },
+              {
+                "id": 116255,
+                "rent": 6708,
+                "area": 42,
+                "street": "skäpplandsgatan",
+                "street_number": "23",
+                "city": "göteborg",
+                "zip": "41478",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 1422,
+                "$last_seen": "2024-02-29T09:35:16.037Z"
               }
             ],
             "marklandsgatan": [
@@ -54887,6 +54901,20 @@
                 "$districtName": "göteborgs domkyrkodistrikt",
                 "last_accept": 1693,
                 "$last_seen": "2024-01-17T11:35:42.647Z"
+              },
+              {
+                "id": 116831,
+                "rent": 7012,
+                "area": 40,
+                "street": "friggagatan",
+                "street_number": "27",
+                "city": "göteborg",
+                "zip": "41664",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs domkyrkodistrikt",
+                "last_accept": 1687,
+                "$last_seen": "2024-02-29T09:35:16.037Z"
               }
             ],
             "sten sturegatan": [
@@ -55675,6 +55703,20 @@
                 "$districtName": "göteborgs domkyrkodistrikt",
                 "last_accept": 0,
                 "$last_seen": "2023-02-27T08:47:32.946Z"
+              },
+              {
+                "id": 116826,
+                "rent": 8925,
+                "area": 58,
+                "street": "ranängsgatan",
+                "street_number": "4",
+                "city": "göteborg",
+                "zip": "41664",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs domkyrkodistrikt",
+                "last_accept": 1845,
+                "$last_seen": "2024-02-29T09:35:16.037Z"
               }
             ],
             "kungsportsavenyn": [
@@ -61775,6 +61817,20 @@
                 "$districtName": "örgryte",
                 "last_accept": 1755,
                 "$last_seen": "2024-02-07T12:49:35.954Z"
+              },
+              {
+                "id": 116185,
+                "rent": 8700,
+                "area": 58,
+                "street": "birkagatan",
+                "street_number": "39b",
+                "city": "göteborg",
+                "zip": "41656",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1877,
+                "$last_seen": "2024-02-29T09:35:16.037Z"
               }
             ],
             "s:t pauligatan": [
