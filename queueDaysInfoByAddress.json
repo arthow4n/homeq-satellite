@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-03-01T12:50:11.688Z",
+  "lastUpdatedAt": "2024-03-01T13:34:56.570Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -89177,6 +89177,20 @@
                 "$districtName": "malmö sankt petri",
                 "last_accept": 508,
                 "$last_seen": "2024-01-30T09:35:14.491Z"
+              },
+              {
+                "id": 116528,
+                "rent": 14198,
+                "area": 98,
+                "street": "gustav adolfs torg",
+                "street_number": "45",
+                "city": "malmö",
+                "zip": "21139",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "malmö sankt petri",
+                "last_accept": 1207,
+                "$last_seen": "2024-03-01T12:50:11.688Z"
               }
             ],
             "lilla varvsgatan": [
