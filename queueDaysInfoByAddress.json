@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-03-01T11:35:14.198Z",
+  "lastUpdatedAt": "2024-03-01T12:50:11.688Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -85231,6 +85231,20 @@
                 "$districtName": "tynnered",
                 "last_accept": 820,
                 "$last_seen": "2024-02-26T15:35:50.557Z"
+              },
+              {
+                "id": 116524,
+                "rent": 9567,
+                "area": 81,
+                "street": "smyckegatan",
+                "street_number": "63",
+                "city": "västra frölunda",
+                "zip": "42651",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tynnered",
+                "last_accept": 1461,
+                "$last_seen": "2024-03-01T11:35:14.198Z"
               }
             ],
             "björkhöjdsgatan": [
@@ -94893,6 +94907,20 @@
                 "$districtName": "hyllie",
                 "last_accept": 777,
                 "$last_seen": "2024-02-26T07:35:35.581Z"
+              },
+              {
+                "id": 116887,
+                "rent": 7048,
+                "area": 32,
+                "street": "allétorget",
+                "street_number": "9",
+                "city": "malmö",
+                "zip": "21534",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "hyllie",
+                "last_accept": 54,
+                "$last_seen": "2024-03-01T11:35:14.198Z"
               }
             ],
             "bures gata": [
