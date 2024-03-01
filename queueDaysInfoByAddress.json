@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-03-01T10:39:00.176Z",
+  "lastUpdatedAt": "2024-03-01T11:35:14.198Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -4279,6 +4279,20 @@
                 "$districtName": "fässberg",
                 "last_accept": 1687,
                 "$last_seen": "2024-02-27T12:50:24.500Z"
+              },
+              {
+                "id": 116575,
+                "rent": 10174,
+                "area": 56,
+                "street": "åby allé",
+                "street_number": "67",
+                "city": "göteborg",
+                "zip": "43145",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 1146,
+                "$last_seen": "2024-03-01T10:39:00.176Z"
               }
             ],
             "åbyvägen": [
@@ -82123,6 +82137,20 @@
                 "$districtName": "brunnsbo",
                 "last_accept": 1394,
                 "$last_seen": "2024-02-09T08:35:36.377Z"
+              },
+              {
+                "id": 116553,
+                "rent": 8729,
+                "area": 62,
+                "street": "folkvisegatan",
+                "street_number": "20",
+                "city": "hisings backa",
+                "zip": "42241",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brunnsbo",
+                "last_accept": 1273,
+                "$last_seen": "2024-03-01T10:39:00.176Z"
               }
             ],
             "klassikergatan": [
@@ -101859,6 +101887,20 @@
                 "$districtName": "vantör",
                 "last_accept": 1645,
                 "$last_seen": "2023-12-18T10:41:35.991Z"
+              },
+              {
+                "id": 116570,
+                "rent": 12034,
+                "area": 94,
+                "street": "kilsmogatan",
+                "street_number": "10",
+                "city": "bandhagen",
+                "zip": "12470",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 1912,
+                "$last_seen": "2024-03-01T10:39:00.176Z"
               }
             ],
             "stålbogavägen": [
