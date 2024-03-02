@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-03-02T16:38:29.371Z",
+  "lastUpdatedAt": "2024-03-02T17:34:37.845Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -29073,6 +29073,20 @@
                 "$districtName": "lundby",
                 "last_accept": 1182,
                 "$last_seen": "2024-01-16T10:42:16.912Z"
+              },
+              {
+                "id": 116586,
+                "rent": 9527,
+                "area": 49.6,
+                "street": "korstörnegatan",
+                "street_number": "4",
+                "city": "göteborg",
+                "zip": "41715",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1374,
+                "$last_seen": "2024-03-02T16:38:29.371Z"
               }
             ],
             "gamla lundbygatan": [
@@ -81909,6 +81923,20 @@
                 "$districtName": "kortedala",
                 "last_accept": 744,
                 "$last_seen": "2024-02-02T12:49:34.428Z"
+              },
+              {
+                "id": 116578,
+                "rent": 11108,
+                "area": 83,
+                "street": "januarigatan",
+                "street_number": "18",
+                "city": "göteborg ",
+                "zip": "41546",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "kortedala",
+                "last_accept": 1111,
+                "$last_seen": "2024-03-02T16:38:29.371Z"
               }
             ]
           },
