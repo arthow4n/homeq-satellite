@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-03-02T10:35:44.099Z",
+  "lastUpdatedAt": "2024-03-02T11:35:03.146Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -50341,20 +50341,6 @@
                 "$districtName": "nylöse",
                 "last_accept": 546,
                 "$last_seen": "2024-02-14T13:34:10.937Z"
-              },
-              {
-                "id": 116523,
-                "rent": 9062,
-                "area": 64.8,
-                "street": "sysslomansgatan",
-                "street_number": "40",
-                "city": "göteborg",
-                "zip": "41574",
-                "municipality": "göteborg",
-                "county": "västra götalands län",
-                "$districtName": "nylöse",
-                "last_accept": 705,
-                "$last_seen": "2024-03-01T14:35:49.204Z"
               }
             ],
             "hinderbanan": [
@@ -74919,20 +74905,6 @@
                 "$districtName": "biskopsgården",
                 "last_accept": 682,
                 "$last_seen": "2024-02-27T09:36:14.062Z"
-              },
-              {
-                "id": 116512,
-                "rent": 8335,
-                "area": 62,
-                "street": "temperaturgatan",
-                "street_number": "67",
-                "city": "göteborg",
-                "zip": "41841",
-                "municipality": "göteborg",
-                "county": "västra götalands län",
-                "$districtName": "biskopsgården",
-                "last_accept": 119,
-                "$last_seen": "2024-03-01T14:35:49.204Z"
               }
             ],
             "solstrålegatan": [
