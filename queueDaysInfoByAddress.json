@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-03-03T10:40:07.199Z",
+  "lastUpdatedAt": "2024-03-03T11:34:41.862Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -105821,20 +105821,6 @@
                 "$districtName": "kista",
                 "last_accept": 897,
                 "$last_seen": "2024-02-15T08:36:30.726Z"
-              },
-              {
-                "id": 116912,
-                "rent": 7795,
-                "area": 30,
-                "street": "almbygatan",
-                "street_number": "14",
-                "city": "spånga",
-                "zip": "16376",
-                "municipality": "stockholm",
-                "county": "stockholms län",
-                "$districtName": "kista",
-                "last_accept": 1023,
-                "$last_seen": "2024-02-26T14:38:37.220Z"
               },
               {
                 "id": 116914,
