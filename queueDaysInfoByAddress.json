@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-03-04T13:35:24.027Z",
+  "lastUpdatedAt": "2024-03-04T14:34:55.163Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -63443,6 +63443,20 @@
                 "$districtName": "annedal",
                 "last_accept": 1783,
                 "$last_seen": "2023-10-17T06:45:15.971Z"
+              },
+              {
+                "id": 116896,
+                "rent": 14006,
+                "area": 103,
+                "street": "risåsgatan",
+                "street_number": "12 a",
+                "city": "göteborg",
+                "zip": "41307",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "annedal",
+                "last_accept": 1882,
+                "$last_seen": "2024-03-04T13:35:24.027Z"
               }
             ],
             "skanstorget": [
@@ -98855,6 +98869,20 @@
                 "$districtName": "limhamn",
                 "last_accept": 417,
                 "$last_seen": "2024-02-27T07:36:22.452Z"
+              },
+              {
+                "id": 116886,
+                "rent": 8600,
+                "area": 44,
+                "street": "högatan",
+                "street_number": "8 d",
+                "city": "limhamn",
+                "zip": "21633",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "limhamn",
+                "last_accept": 11,
+                "$last_seen": "2024-03-04T13:35:24.027Z"
               }
             ],
             "höbalsgatan": [
@@ -101399,6 +101427,20 @@
                 "$districtName": "vantör",
                 "last_accept": 1936,
                 "$last_seen": "2024-02-22T06:37:50.440Z"
+              },
+              {
+                "id": 116874,
+                "rent": 8180,
+                "area": 59,
+                "street": "åmmebergsgatan",
+                "street_number": "11",
+                "city": "bandhagen",
+                "zip": "12470",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 1848,
+                "$last_seen": "2024-03-04T13:35:24.027Z"
               }
             ],
             "olshammarsgatan": [
@@ -103109,6 +103151,20 @@
                 "$districtName": "vantör",
                 "last_accept": 1889,
                 "$last_seen": "2024-02-12T13:33:59.471Z"
+              },
+              {
+                "id": 116844,
+                "rent": 9471,
+                "area": 78,
+                "street": "askersundsgatan",
+                "street_number": "2",
+                "city": "bandhagen",
+                "zip": "12467",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 1836,
+                "$last_seen": "2024-03-04T13:35:24.027Z"
               }
             ],
             "hagsätra torg": [
@@ -106429,6 +106485,20 @@
                 "$districtName": "farsta",
                 "last_accept": 1319,
                 "$last_seen": "2024-01-25T13:37:47.961Z"
+              },
+              {
+                "id": 116846,
+                "rent": 10192,
+                "area": 51,
+                "street": "thorsten levenstams väg",
+                "street_number": "4 b",
+                "city": "sköndal",
+                "zip": "12864",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "farsta",
+                "last_accept": 1463,
+                "$last_seen": "2024-03-04T13:35:24.027Z"
               }
             ]
           }
