@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-03-04T12:52:32.460Z",
+  "lastUpdatedAt": "2024-03-04T13:35:24.027Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -54783,6 +54783,20 @@
                 "$districtName": "göteborgs domkyrkodistrikt",
                 "last_accept": 1284,
                 "$last_seen": "2024-03-04T09:13:29.566Z"
+              },
+              {
+                "id": 116857,
+                "rent": 9285,
+                "area": 55,
+                "street": "bangårdsgatan",
+                "street_number": "17",
+                "city": "göteborg",
+                "zip": "41112",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs domkyrkodistrikt",
+                "last_accept": 1627,
+                "$last_seen": "2024-03-04T12:52:32.460Z"
               }
             ],
             "burggreveplatsen": [
