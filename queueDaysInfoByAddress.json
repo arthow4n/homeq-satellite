@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-03-04T12:10:26.379Z",
+  "lastUpdatedAt": "2024-03-04T12:52:32.460Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -10095,6 +10095,20 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1638,
                 "$last_seen": "2024-01-29T11:35:05.829Z"
+              },
+              {
+                "id": 116715,
+                "rent": 9995,
+                "area": 54,
+                "street": "fredriksdalsgatan",
+                "street_number": "4b",
+                "city": "göteborg",
+                "zip": "41285",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1681,
+                "$last_seen": "2024-03-04T12:10:26.379Z"
               }
             ],
             "drivhusgatan": [
@@ -103751,6 +103765,20 @@
                 "$districtName": "vantör",
                 "last_accept": 870,
                 "$last_seen": "2023-09-18T08:46:21.711Z"
+              },
+              {
+                "id": 116872,
+                "rent": 5396,
+                "area": 31,
+                "street": "vintrosagatan",
+                "street_number": "22",
+                "city": "bandhagen",
+                "zip": "12473",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 1427,
+                "$last_seen": "2024-03-04T12:10:26.379Z"
               }
             ],
             "skyllbergsgatan": [
