@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-03-04T11:20:23.223Z",
+  "lastUpdatedAt": "2024-03-04T12:10:26.379Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -59445,6 +59445,62 @@
                 "$last_seen": "2024-02-06T09:35:01.950Z"
               },
               {
+                "id": 116781,
+                "rent": 12325,
+                "area": 64,
+                "street": "tändsticksgatan",
+                "street_number": "2",
+                "city": "göteborg",
+                "zip": "41263",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 746,
+                "$last_seen": "2024-03-04T11:20:23.223Z"
+              },
+              {
+                "id": 116783,
+                "rent": 10462,
+                "area": 54,
+                "street": "tändsticksgatan",
+                "street_number": "2",
+                "city": "göteborg",
+                "zip": "41263",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1237,
+                "$last_seen": "2024-03-04T11:20:23.223Z"
+              },
+              {
+                "id": 116785,
+                "rent": 14426,
+                "area": 76,
+                "street": "tändsticksgatan",
+                "street_number": "2",
+                "city": "göteborg",
+                "zip": "41263",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1342,
+                "$last_seen": "2024-03-04T11:20:23.223Z"
+              },
+              {
+                "id": 116786,
+                "rent": 12127,
+                "area": 65,
+                "street": "tändsticksgatan",
+                "street_number": "2",
+                "city": "göteborg",
+                "zip": "41263",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 696,
+                "$last_seen": "2024-03-04T11:20:23.223Z"
+              },
+              {
                 "id": 116797,
                 "rent": 12364,
                 "area": 64,
@@ -59457,6 +59513,20 @@
                 "$districtName": "örgryte",
                 "last_accept": 715,
                 "$last_seen": "2024-03-04T09:13:29.566Z"
+              },
+              {
+                "id": 116799,
+                "rent": 12043,
+                "area": 64,
+                "street": "tändsticksgatan",
+                "street_number": "2",
+                "city": "göteborg",
+                "zip": "41263",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 715,
+                "$last_seen": "2024-03-04T11:20:23.223Z"
               }
             ],
             "gräddgatan": [
