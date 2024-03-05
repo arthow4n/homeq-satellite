@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-03-05T08:36:17.724Z",
+  "lastUpdatedAt": "2024-03-05T09:33:20.464Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -48479,6 +48479,62 @@
                 "$districtName": "bergsjön",
                 "last_accept": 328,
                 "$last_seen": "2024-02-25T22:37:14.092Z"
+              },
+              {
+                "id": 117123,
+                "rent": 9245,
+                "area": 65,
+                "street": "atmosfärgatan",
+                "street_number": "35",
+                "city": "göteborg",
+                "zip": "41561",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bergsjön",
+                "last_accept": 86,
+                "$last_seen": "2024-03-05T08:36:17.724Z"
+              },
+              {
+                "id": 117131,
+                "rent": 11162,
+                "area": 83,
+                "street": "atmosfärgatan",
+                "street_number": "45",
+                "city": "göteborg",
+                "zip": "41561",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bergsjön",
+                "last_accept": 349,
+                "$last_seen": "2024-03-05T08:36:17.724Z"
+              },
+              {
+                "id": 117134,
+                "rent": 11162,
+                "area": 83,
+                "street": "atmosfärgatan",
+                "street_number": "17",
+                "city": "göteborg",
+                "zip": "41561",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bergsjön",
+                "last_accept": 1819,
+                "$last_seen": "2024-03-05T08:36:17.724Z"
+              },
+              {
+                "id": 117136,
+                "rent": 9121,
+                "area": 65,
+                "street": "atmosfärgatan",
+                "street_number": "11",
+                "city": "göteborg",
+                "zip": "41561",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bergsjön",
+                "last_accept": 329,
+                "$last_seen": "2024-03-05T08:36:17.724Z"
               }
             ],
             "zenitgatan": [
@@ -95351,6 +95407,20 @@
                 "$districtName": "hyllie",
                 "last_accept": 7,
                 "$last_seen": "2024-02-05T09:35:43.202Z"
+              },
+              {
+                "id": 117129,
+                "rent": 8582,
+                "area": 43,
+                "street": "hyllie allé",
+                "street_number": "26b",
+                "city": "malmö",
+                "zip": "21535",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "hyllie",
+                "last_accept": 8,
+                "$last_seen": "2024-03-05T08:36:17.724Z"
               }
             ],
             "tors gränd": [
