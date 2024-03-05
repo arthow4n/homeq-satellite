@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-03-05T17:36:30.359Z",
+  "lastUpdatedAt": "2024-03-05T18:35:21.061Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -28479,6 +28479,20 @@
                 "$districtName": "lundby",
                 "last_accept": 1622,
                 "$last_seen": "2024-01-29T14:36:40.077Z"
+              },
+              {
+                "id": 117052,
+                "rent": 5932,
+                "area": 55,
+                "street": "enekullegatan",
+                "street_number": "5 d",
+                "city": "göteborg",
+                "zip": "41875",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1577,
+                "$last_seen": "2024-03-05T17:36:30.359Z"
               }
             ],
             "danagatan": [
