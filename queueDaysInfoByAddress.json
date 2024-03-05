@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-03-05T12:49:33.011Z",
+  "lastUpdatedAt": "2024-03-05T13:33:23.808Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -20373,6 +20373,20 @@
                 "$districtName": "brämaregården",
                 "last_accept": 1684,
                 "$last_seen": "2024-02-23T13:35:24.253Z"
+              },
+              {
+                "id": 116996,
+                "rent": 8027,
+                "area": 57,
+                "street": "lantmätaregatan",
+                "street_number": "12 a",
+                "city": "göteborg",
+                "zip": "41706",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brämaregården",
+                "last_accept": 1766,
+                "$last_seen": "2024-03-05T12:49:33.011Z"
               }
             ],
             "långängen": [
@@ -88297,6 +88311,34 @@
                 "$districtName": "älvsborg",
                 "last_accept": 954,
                 "$last_seen": "2023-12-12T13:38:10.227Z"
+              },
+              {
+                "id": 116950,
+                "rent": 11574,
+                "area": 77,
+                "street": "tigerstigen",
+                "street_number": "9",
+                "city": "västra frölunda ",
+                "zip": "42672",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "älvsborg",
+                "last_accept": 1747,
+                "$last_seen": "2024-03-05T12:49:33.011Z"
+              },
+              {
+                "id": 116989,
+                "rent": 7036,
+                "area": 55,
+                "street": "tigerstigen",
+                "street_number": "11",
+                "city": "västra frölunda ",
+                "zip": "42672",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "älvsborg",
+                "last_accept": 1031,
+                "$last_seen": "2024-03-05T12:49:33.011Z"
               }
             ]
           }
@@ -88705,6 +88747,20 @@
                 "$districtName": "partille",
                 "last_accept": 1512,
                 "$last_seen": "2024-03-05T10:38:47.161Z"
+              },
+              {
+                "id": 117075,
+                "rent": 8484,
+                "area": 57,
+                "street": "stärteredsvägen",
+                "street_number": "29",
+                "city": "jonsered",
+                "zip": "43375",
+                "municipality": "partille",
+                "county": "västra götalands län",
+                "$districtName": "partille",
+                "last_accept": 736,
+                "$last_seen": "2024-03-05T12:49:33.011Z"
               }
             ],
             "länsmansvägen": [
@@ -88791,6 +88847,20 @@
                 "$districtName": "partille",
                 "last_accept": 1421,
                 "$last_seen": "2023-11-08T12:58:59.548Z"
+              },
+              {
+                "id": 116967,
+                "rent": 5854,
+                "area": 58,
+                "street": "länsmansvägen",
+                "street_number": "6 a",
+                "city": "jonsered",
+                "zip": "43375",
+                "municipality": "partille",
+                "county": "västra götalands län",
+                "$districtName": "partille",
+                "last_accept": 1306,
+                "$last_seen": "2024-03-05T12:49:33.011Z"
               }
             ],
             "kyrkogatan": [
