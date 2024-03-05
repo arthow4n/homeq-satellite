@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-03-05T07:33:54.214Z",
+  "lastUpdatedAt": "2024-03-05T08:36:17.724Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -6421,6 +6421,20 @@
                 "$districtName": "kållered",
                 "last_accept": 1382,
                 "$last_seen": "2024-02-23T14:36:39.677Z"
+              },
+              {
+                "id": 116888,
+                "rent": 8939,
+                "area": 76,
+                "street": "våmmedalsvägen",
+                "street_number": "138",
+                "city": "kållered",
+                "zip": "42831",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "kållered",
+                "last_accept": 1234,
+                "$last_seen": "2024-03-05T07:33:54.214Z"
               }
             ],
             "streteredsvägen": [
@@ -42983,6 +42997,20 @@
                 "$districtName": "askim",
                 "last_accept": 925,
                 "$last_seen": "2024-02-29T22:37:53.190Z"
+              },
+              {
+                "id": 116983,
+                "rent": 4166,
+                "area": 28,
+                "street": "nergårdsvägen",
+                "street_number": "17",
+                "city": "göteborg",
+                "zip": "43636",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 1271,
+                "$last_seen": "2024-03-05T07:33:54.214Z"
               }
             ],
             "hyltegården": [
@@ -80997,6 +81025,20 @@
                 "$districtName": "gunnared",
                 "last_accept": 1297,
                 "$last_seen": "2024-02-15T14:35:40.980Z"
+              },
+              {
+                "id": 117485,
+                "rent": 9058,
+                "area": 71,
+                "street": "lagerbladsgatan",
+                "street_number": "2",
+                "city": "göteborg",
+                "zip": "42440",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "gunnared",
+                "last_accept": 1129,
+                "$last_seen": "2024-03-05T07:33:54.214Z"
               }
             ],
             "gårdstensvägen": [
@@ -86913,6 +86955,20 @@
                 "$districtName": "västra frölunda",
                 "last_accept": 1533,
                 "$last_seen": "2024-02-14T10:38:30.199Z"
+              },
+              {
+                "id": 117247,
+                "rent": 11220,
+                "area": 77,
+                "street": "munspelsgatan",
+                "street_number": "10",
+                "city": "västra frölunda",
+                "zip": "42151",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "västra frölunda",
+                "last_accept": 922,
+                "$last_seen": "2024-03-05T07:33:54.214Z"
               }
             ],
             "speldosegatan": [
@@ -95861,6 +95917,20 @@
                 "$districtName": "hyllie",
                 "last_accept": 50,
                 "$last_seen": "2023-12-12T14:39:58.831Z"
+              },
+              {
+                "id": 116434,
+                "rent": 9966,
+                "area": 55,
+                "street": "bures gata",
+                "street_number": "1 a",
+                "city": "malmö",
+                "zip": "21533",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "hyllie",
+                "last_accept": 310,
+                "$last_seen": "2024-03-05T07:33:54.214Z"
               }
             ],
             "sagas gränd": [
@@ -106465,6 +106535,20 @@
                 "$districtName": "kista",
                 "last_accept": 897,
                 "$last_seen": "2024-02-15T08:36:30.726Z"
+              },
+              {
+                "id": 116912,
+                "rent": 7795,
+                "area": 30,
+                "street": "almbygatan",
+                "street_number": "14",
+                "city": "spånga",
+                "zip": "16376",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "kista",
+                "last_accept": 1058,
+                "$last_seen": "2024-03-05T07:33:54.214Z"
               },
               {
                 "id": 116913,
