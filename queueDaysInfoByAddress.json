@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-03-06T13:33:16.683Z",
+  "lastUpdatedAt": "2024-03-06T14:34:20.229Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -43869,6 +43869,20 @@
                 "$districtName": "askim",
                 "last_accept": 26,
                 "$last_seen": "2024-02-27T09:36:14.062Z"
+              },
+              {
+                "id": 117691,
+                "rent": 10850,
+                "area": 54,
+                "street": "kobbeslätten",
+                "street_number": "4",
+                "city": "göteborg",
+                "zip": "43637",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 355,
+                "$last_seen": "2024-03-06T13:33:16.683Z"
               }
             ],
             "kobbegården": [
@@ -58317,6 +58331,34 @@
                 "$districtName": "örgryte",
                 "last_accept": 1879,
                 "$last_seen": "2024-03-06T09:32:54.916Z"
+              },
+              {
+                "id": 117177,
+                "rent": 13382,
+                "area": 96,
+                "street": "prästgårdsängen",
+                "street_number": "5",
+                "city": "göteborg",
+                "zip": "41271",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1836,
+                "$last_seen": "2024-03-06T13:33:16.683Z"
+              },
+              {
+                "id": 117841,
+                "rent": 14204,
+                "area": 140,
+                "street": "prästgårdsängen",
+                "street_number": "16",
+                "city": "göteborg",
+                "zip": "41271",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1771,
+                "$last_seen": "2024-03-06T13:33:16.683Z"
               }
             ],
             "karlfeldtsgatan": [
