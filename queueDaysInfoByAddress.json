@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-03-06T12:48:57.161Z",
+  "lastUpdatedAt": "2024-03-06T13:33:16.683Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -52049,6 +52049,20 @@
                 "$districtName": "härlanda",
                 "last_accept": 1822,
                 "$last_seen": "2024-01-04T09:34:49.990Z"
+              },
+              {
+                "id": 117094,
+                "rent": 5400,
+                "area": 36,
+                "street": "björcksgatan",
+                "street_number": "45b",
+                "city": "göteborg",
+                "zip": "41652",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "härlanda",
+                "last_accept": 1649,
+                "$last_seen": "2024-03-06T12:48:57.161Z"
               }
             ],
             "solrosgatan": [
@@ -87983,6 +87997,20 @@
                 "$districtName": "västra frölunda",
                 "last_accept": 1193,
                 "$last_seen": "2024-01-30T14:36:35.423Z"
+              },
+              {
+                "id": 117015,
+                "rent": 5442,
+                "area": 33,
+                "street": "marconigatan",
+                "street_number": "33 a",
+                "city": "västra frölunda",
+                "zip": "42144",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "västra frölunda",
+                "last_accept": 1258,
+                "$last_seen": "2024-03-06T12:48:57.161Z"
               }
             ]
           },
