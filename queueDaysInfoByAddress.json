@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-03-06T11:32:58.548Z",
+  "lastUpdatedAt": "2024-03-06T12:48:57.161Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -29459,6 +29459,20 @@
                 "$districtName": "lundby",
                 "last_accept": 1229,
                 "$last_seen": "2024-02-12T11:34:09.947Z"
+              },
+              {
+                "id": 117104,
+                "rent": 12417,
+                "area": 64.5,
+                "street": "rödlönnsgången",
+                "street_number": "4",
+                "city": "göteborg",
+                "zip": "41711",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1397,
+                "$last_seen": "2024-03-06T11:32:58.548Z"
               }
             ],
             "arvid lindemansgatan": [
@@ -75675,6 +75689,20 @@
                 "$districtName": "biskopsgården",
                 "last_accept": 395,
                 "$last_seen": "2024-03-03T20:34:45.492Z"
+              },
+              {
+                "id": 117100,
+                "rent": 8139,
+                "area": 64,
+                "street": "temperaturgatan",
+                "street_number": "1",
+                "city": "göteborg",
+                "zip": "41841",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "biskopsgården",
+                "last_accept": 338,
+                "$last_seen": "2024-03-06T11:32:58.548Z"
               }
             ],
             "solstrålegatan": [
@@ -91717,6 +91745,20 @@
                 "$districtName": "möllevången",
                 "last_accept": 1122,
                 "$last_seen": "2023-09-18T13:42:12.192Z"
+              },
+              {
+                "id": 117109,
+                "rent": 9242,
+                "area": 87,
+                "street": "upplandsgatan",
+                "street_number": "5 b",
+                "city": "malmö",
+                "zip": "21429",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "möllevången",
+                "last_accept": 1202,
+                "$last_seen": "2024-03-06T11:32:58.548Z"
               }
             ],
             "sigtunagatan": [
