@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-03-06T15:33:03.825Z",
+  "lastUpdatedAt": "2024-03-06T16:38:55.595Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -96151,6 +96151,20 @@
                 "$districtName": "hyllie",
                 "last_accept": 255,
                 "$last_seen": "2024-01-10T09:36:27.890Z"
+              },
+              {
+                "id": 117243,
+                "rent": 11763,
+                "area": 69,
+                "street": "tors gränd",
+                "street_number": "10",
+                "city": "malmö",
+                "zip": "21534",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "hyllie",
+                "last_accept": 178,
+                "$last_seen": "2024-03-06T15:33:03.825Z"
               }
             ],
             "allétorget": [
@@ -107765,6 +107779,20 @@
                 "$districtName": "österhaninge",
                 "last_accept": 8,
                 "$last_seen": "2024-03-06T14:34:20.229Z"
+              },
+              {
+                "id": 118223,
+                "rent": 7549,
+                "area": 27,
+                "street": "vardövägen",
+                "street_number": "49",
+                "city": "stockholm",
+                "zip": "13657",
+                "municipality": "haninge",
+                "county": "stockholms län",
+                "$districtName": "österhaninge",
+                "last_accept": 8,
+                "$last_seen": "2024-03-06T15:33:03.825Z"
               }
             ]
           }
