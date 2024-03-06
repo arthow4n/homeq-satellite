@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-03-06T07:33:06.817Z",
+  "lastUpdatedAt": "2024-03-06T08:37:36.880Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -13667,6 +13667,20 @@
                 "$districtName": "högsbo",
                 "last_accept": 398,
                 "$last_seen": "2024-02-28T07:36:00.744Z"
+              },
+              {
+                "id": 117144,
+                "rent": 7116,
+                "area": 35,
+                "street": "skillingmyntsgatan",
+                "street_number": "8",
+                "city": "göteborg",
+                "zip": "41484",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 933,
+                "$last_seen": "2024-03-06T07:33:06.817Z"
               }
             ],
             "synhållsgatan": [
@@ -58233,6 +58247,20 @@
                 "$districtName": "örgryte",
                 "last_accept": 1841,
                 "$last_seen": "2024-01-24T13:37:47.051Z"
+              },
+              {
+                "id": 117076,
+                "rent": 13119,
+                "area": 96,
+                "street": "prästgårdsängen",
+                "street_number": "14",
+                "city": "göteborg",
+                "zip": "41271",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1879,
+                "$last_seen": "2024-03-06T07:33:06.817Z"
               }
             ],
             "karlfeldtsgatan": [
@@ -78969,6 +78997,20 @@
                 "$districtName": "tuve",
                 "last_accept": 561,
                 "$last_seen": "2024-02-19T09:34:26.593Z"
+              },
+              {
+                "id": 117098,
+                "rent": 11839,
+                "area": 74,
+                "street": "herman anderssons väg",
+                "street_number": "2",
+                "city": "göteborg",
+                "zip": "41747",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tuve",
+                "last_accept": 1038,
+                "$last_seen": "2024-03-06T07:33:06.817Z"
               }
             ],
             "gunnestorpsvägen": [
