@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-03-07T12:48:50.089Z",
+  "lastUpdatedAt": "2024-03-07T13:33:40.893Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -92389,6 +92389,34 @@
                 "$districtName": "limhamn",
                 "last_accept": 838,
                 "$last_seen": "2023-10-04T08:45:01.447Z"
+              },
+              {
+                "id": 117220,
+                "rent": 9009,
+                "area": 72,
+                "street": "järnvägsgatan",
+                "street_number": "49",
+                "city": "malmö",
+                "zip": "21614",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "limhamn",
+                "last_accept": 82,
+                "$last_seen": "2024-03-07T12:48:50.089Z"
+              },
+              {
+                "id": 117240,
+                "rent": 8327,
+                "area": 68,
+                "street": "järnvägsgatan",
+                "street_number": "49",
+                "city": "malmö",
+                "zip": "21614",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "limhamn",
+                "last_accept": 1287,
+                "$last_seen": "2024-03-07T12:48:50.089Z"
               }
             ],
             "nätsnäcksgränd": [
@@ -96193,6 +96221,20 @@
                 "$districtName": "hyllie",
                 "last_accept": 255,
                 "$last_seen": "2024-01-10T09:36:27.890Z"
+              },
+              {
+                "id": 117243,
+                "rent": 11763,
+                "area": 69,
+                "street": "tors gränd",
+                "street_number": "10",
+                "city": "malmö",
+                "zip": "21534",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "hyllie",
+                "last_accept": 412,
+                "$last_seen": "2024-03-07T12:48:50.089Z"
               }
             ],
             "allétorget": [
