@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-03-07T13:33:40.893Z",
+  "lastUpdatedAt": "2024-03-07T14:35:27.266Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -39835,6 +39835,20 @@
                 "$districtName": "kortedala",
                 "last_accept": 1285,
                 "$last_seen": "2024-02-29T14:38:56.485Z"
+              },
+              {
+                "id": 117242,
+                "rent": 5622,
+                "area": 54,
+                "street": "aprilgatan",
+                "street_number": "76",
+                "city": "göteborg",
+                "zip": "41546",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "kortedala",
+                "last_accept": 1381,
+                "$last_seen": "2024-03-07T13:33:40.893Z"
               }
             ],
             "februarigatan": [
@@ -84713,6 +84727,20 @@
                 "$districtName": "askim",
                 "last_accept": 229,
                 "$last_seen": "2024-03-01T05:36:11.121Z"
+              },
+              {
+                "id": 117193,
+                "rent": 9790,
+                "area": 51,
+                "street": "sisjöbäckens väg",
+                "street_number": "22",
+                "city": "askim",
+                "zip": "43638",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 249,
+                "$last_seen": "2024-03-07T13:33:40.893Z"
               }
             ],
             "kobbegården": [
