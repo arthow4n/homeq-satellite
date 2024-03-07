@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-03-07T07:33:17.467Z",
+  "lastUpdatedAt": "2024-03-07T08:33:38.557Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -5561,6 +5561,20 @@
                 "$districtName": "örgryte",
                 "last_accept": 1458,
                 "$last_seen": "2024-02-29T08:36:37.346Z"
+              },
+              {
+                "id": 117332,
+                "rent": 7948,
+                "area": 35,
+                "street": "smörkärnegatan",
+                "street_number": "29",
+                "city": "göteborg",
+                "zip": "41278",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1369,
+                "$last_seen": "2024-03-07T07:33:17.467Z"
               },
               {
                 "id": 118093,
