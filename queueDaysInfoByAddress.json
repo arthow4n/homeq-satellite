@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-03-06T23:33:03.918Z",
+  "lastUpdatedAt": "2024-03-07T01:15:18.971Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -37041,20 +37041,6 @@
                 "$districtName": "björkekärr",
                 "last_accept": 86,
                 "$last_seen": "2024-02-21T14:35:50.236Z"
-              },
-              {
-                "id": 117312,
-                "rent": 5237,
-                "area": 22,
-                "street": "smörslätten",
-                "street_number": "8",
-                "city": "göteborg",
-                "zip": "41677",
-                "municipality": "göteborg",
-                "county": "västra götalands län",
-                "$districtName": "björkekärr",
-                "last_accept": 777,
-                "$last_seen": "2024-03-06T19:32:55.880Z"
               }
             ],
             "lådspikaregatan": [
@@ -58345,20 +58331,6 @@
                 "$districtName": "örgryte",
                 "last_accept": 1879,
                 "$last_seen": "2024-03-06T09:32:54.916Z"
-              },
-              {
-                "id": 117177,
-                "rent": 13382,
-                "area": 96,
-                "street": "prästgårdsängen",
-                "street_number": "5",
-                "city": "göteborg",
-                "zip": "41271",
-                "municipality": "göteborg",
-                "county": "västra götalands län",
-                "$districtName": "örgryte",
-                "last_accept": 1836,
-                "$last_seen": "2024-03-06T13:33:16.683Z"
               },
               {
                 "id": 117841,
@@ -96165,20 +96137,6 @@
                 "$districtName": "hyllie",
                 "last_accept": 255,
                 "$last_seen": "2024-01-10T09:36:27.890Z"
-              },
-              {
-                "id": 117243,
-                "rent": 11763,
-                "area": 69,
-                "street": "tors gränd",
-                "street_number": "10",
-                "city": "malmö",
-                "zip": "21534",
-                "municipality": "malmö",
-                "county": "skåne län",
-                "$districtName": "hyllie",
-                "last_accept": 178,
-                "$last_seen": "2024-03-06T15:33:03.825Z"
               }
             ],
             "allétorget": [
@@ -101791,6 +101749,20 @@
                 "$districtName": "bunkeflo",
                 "last_accept": 4,
                 "$last_seen": "2024-02-26T23:36:17.077Z"
+              },
+              {
+                "id": 116925,
+                "rent": 10084,
+                "area": 68.6,
+                "street": "skräddarebyn",
+                "street_number": "5b",
+                "city": "bunkeflostrand",
+                "zip": "21842",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "bunkeflo",
+                "last_accept": 5,
+                "$last_seen": "2024-03-06T23:33:03.918Z"
               }
             ],
             "vagnmakarebyn": [
