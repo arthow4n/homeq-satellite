@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-03-08T09:33:53.984Z",
+  "lastUpdatedAt": "2024-03-08T10:40:11.827Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -411,6 +411,20 @@
                 "$districtName": "fässberg",
                 "last_accept": 1847,
                 "$last_seen": "2024-03-01T13:34:56.570Z"
+              },
+              {
+                "id": 117190,
+                "rent": 7461,
+                "area": 44.6,
+                "street": "toltorpsgatan",
+                "street_number": "127",
+                "city": "mölndal",
+                "zip": "43141",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 1512,
+                "$last_seen": "2024-03-08T09:33:53.984Z"
               }
             ],
             "bergmansgatan": [
@@ -11033,6 +11047,34 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1787,
                 "$last_seen": "2023-11-30T08:40:26.929Z"
+              },
+              {
+                "id": 117184,
+                "rent": 6700,
+                "area": 40,
+                "street": "kristinehöjdsgatan",
+                "street_number": "12",
+                "city": "göteborg",
+                "zip": "41282",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1771,
+                "$last_seen": "2024-03-08T09:33:53.984Z"
+              },
+              {
+                "id": 117236,
+                "rent": 6700,
+                "area": 40,
+                "street": "kristinehöjdsgatan",
+                "street_number": "12b",
+                "city": "göteborg",
+                "zip": "41282",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1886,
+                "$last_seen": "2024-03-08T09:33:53.984Z"
               }
             ],
             "richertsgatan": [
@@ -69855,6 +69897,20 @@
                 "$districtName": "göteborgs vasa",
                 "last_accept": 1868,
                 "$last_seen": "2024-02-16T09:34:33.361Z"
+              },
+              {
+                "id": 117809,
+                "rent": 17500,
+                "area": 125,
+                "street": "nedre fogelbergsgatan",
+                "street_number": "6b",
+                "city": "göteborg",
+                "zip": "41128",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs vasa",
+                "last_accept": 1886,
+                "$last_seen": "2024-03-08T09:33:53.984Z"
               }
             ],
             "kristinelundsgatan": [
@@ -75009,6 +75065,20 @@
                 "$districtName": "masthugget",
                 "last_accept": 1557,
                 "$last_seen": "2023-04-14T10:45:24.291Z"
+              },
+              {
+                "id": 117187,
+                "rent": 9590,
+                "area": 79,
+                "street": "gamla varvsgatan",
+                "street_number": "5",
+                "city": "göteborg",
+                "zip": "41459",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "masthugget",
+                "last_accept": 1886,
+                "$last_seen": "2024-03-08T09:33:53.984Z"
               }
             ],
             "karl johansgatan": [
@@ -93284,6 +93354,22 @@
                 "last_accept": 168,
                 "$last_seen": "2024-02-12T11:34:09.947Z"
               }
+            ],
+            "prinsgatan": [
+              {
+                "id": 117210,
+                "rent": 10305,
+                "area": 86.4,
+                "street": "prinsgatan",
+                "street_number": "5",
+                "city": "malmö",
+                "zip": "21616",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "limhamn",
+                "last_accept": 493,
+                "$last_seen": "2024-03-08T09:33:53.984Z"
+              }
             ]
           },
           "kirseberg": {
@@ -100483,6 +100569,22 @@
                 "$districtName": "limhamn",
                 "last_accept": 156,
                 "$last_seen": "2024-01-23T09:35:22.597Z"
+              }
+            ],
+            "tegnérgatan": [
+              {
+                "id": 117237,
+                "rent": 4313,
+                "area": 32,
+                "street": "tegnérgatan",
+                "street_number": "35",
+                "city": "limhamn",
+                "zip": "21614",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "limhamn",
+                "last_accept": 83,
+                "$last_seen": "2024-03-08T09:33:53.984Z"
               }
             ]
           }
