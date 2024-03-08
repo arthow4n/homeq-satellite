@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-03-08T10:40:11.827Z",
+  "lastUpdatedAt": "2024-03-08T11:33:44.174Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -69897,6 +69897,20 @@
                 "$districtName": "göteborgs vasa",
                 "last_accept": 1868,
                 "$last_seen": "2024-02-16T09:34:33.361Z"
+              },
+              {
+                "id": 117790,
+                "rent": 13809,
+                "area": 92,
+                "street": "nedre fogelbergsgatan",
+                "street_number": "4b",
+                "city": "göteborg",
+                "zip": "41128",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs vasa",
+                "last_accept": 1886,
+                "$last_seen": "2024-03-08T10:40:11.827Z"
               },
               {
                 "id": 117809,
