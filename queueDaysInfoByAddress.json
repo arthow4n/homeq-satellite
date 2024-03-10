@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-03-09T23:34:00.302Z",
+  "lastUpdatedAt": "2024-03-10T01:40:00.328Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -22725,6 +22725,20 @@
                 "$districtName": "brämaregården",
                 "last_accept": 1859,
                 "$last_seen": "2024-02-09T23:34:35.093Z"
+              },
+              {
+                "id": 117440,
+                "rent": 8358,
+                "area": 46.7,
+                "street": "karlavagnsgatan",
+                "street_number": "22",
+                "city": "göteborg",
+                "zip": "41753",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brämaregården",
+                "last_accept": 1878,
+                "$last_seen": "2024-03-09T23:34:00.302Z"
               }
             ],
             "björnsonsgatan": [
@@ -22861,20 +22875,6 @@
                 "$districtName": "brämaregården",
                 "last_accept": 1830,
                 "$last_seen": "2024-01-12T11:36:21.910Z"
-              },
-              {
-                "id": 117441,
-                "rent": 8992,
-                "area": 56.8,
-                "street": "lindholmsallén",
-                "street_number": "43",
-                "city": "göteborg",
-                "zip": "41753",
-                "municipality": "göteborg",
-                "county": "västra götalands län",
-                "$districtName": "brämaregården",
-                "last_accept": 1885,
-                "$last_seen": "2024-03-08T23:34:01.457Z"
               }
             ]
           },
