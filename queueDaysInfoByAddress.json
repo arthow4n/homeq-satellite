@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-03-11T18:37:00.134Z",
+  "lastUpdatedAt": "2024-03-11T19:34:11.324Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -95257,6 +95257,20 @@
                 "$districtName": "kirseberg",
                 "last_accept": 621,
                 "$last_seen": "2023-07-31T09:37:33.891Z"
+              },
+              {
+                "id": 117860,
+                "rent": 7361,
+                "area": 52,
+                "street": "lundav",
+                "street_number": "55c",
+                "city": "malmö",
+                "zip": "21224",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "kirseberg",
+                "last_accept": 7,
+                "$last_seen": "2024-03-11T18:37:00.134Z"
               }
             ],
             "rantzowsgatan": [
