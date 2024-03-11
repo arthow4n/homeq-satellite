@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-03-11T07:33:54.672Z",
+  "lastUpdatedAt": "2024-03-11T08:36:49.699Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -44069,20 +44069,6 @@
                 "$last_seen": "2024-02-27T09:36:14.062Z"
               },
               {
-                "id": 117427,
-                "rent": 10850,
-                "area": 54,
-                "street": "kobbeslätten",
-                "street_number": "4",
-                "city": "göteborg",
-                "zip": "43637",
-                "municipality": "göteborg",
-                "county": "västra götalands län",
-                "$districtName": "askim",
-                "last_accept": 395,
-                "$last_seen": "2024-03-11T02:38:51.921Z"
-              },
-              {
                 "id": 117691,
                 "rent": 10850,
                 "area": 54,
@@ -67561,6 +67547,20 @@
                 "$districtName": "göteborgs vasa",
                 "last_accept": 1551,
                 "$last_seen": "2024-02-21T14:35:50.236Z"
+              },
+              {
+                "id": 117816,
+                "rent": 8900,
+                "area": 50,
+                "street": "karl gustavsgatan",
+                "street_number": "57",
+                "city": "göteborg",
+                "zip": "41131",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs vasa",
+                "last_accept": 1716,
+                "$last_seen": "2024-03-11T07:33:54.672Z"
               }
             ],
             "mölndalsvägen": [
@@ -91377,6 +91377,20 @@
                 "$districtName": "malmö sankt petri",
                 "last_accept": 313,
                 "$last_seen": "2024-03-05T13:33:23.808Z"
+              },
+              {
+                "id": 118453,
+                "rent": 6849,
+                "area": 30,
+                "street": "kalendegatan",
+                "street_number": "16",
+                "city": "malmö",
+                "zip": "21135",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "malmö sankt petri",
+                "last_accept": 11,
+                "$last_seen": "2024-03-11T07:33:54.672Z"
               }
             ],
             "dagvattengatan": [
@@ -96321,6 +96335,20 @@
                 "$districtName": "hyllie",
                 "last_accept": 8,
                 "$last_seen": "2024-03-05T08:36:17.724Z"
+              },
+              {
+                "id": 118454,
+                "rent": 12515,
+                "area": 71,
+                "street": "hyllie allé",
+                "street_number": "28b",
+                "city": "malmö",
+                "zip": "21535",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "hyllie",
+                "last_accept": 14,
+                "$last_seen": "2024-03-11T07:33:54.672Z"
               }
             ],
             "tors gränd": [
@@ -96575,6 +96603,20 @@
                 "$districtName": "hyllie",
                 "last_accept": 412,
                 "$last_seen": "2024-03-07T12:48:50.089Z"
+              },
+              {
+                "id": 117454,
+                "rent": 9999,
+                "area": 60,
+                "street": "tors gränd",
+                "street_number": "16",
+                "city": "malmö",
+                "zip": "21534",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "hyllie",
+                "last_accept": 252,
+                "$last_seen": "2024-03-11T07:33:54.672Z"
               }
             ],
             "allétorget": [
