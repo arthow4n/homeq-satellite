@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-03-11T15:34:08.662Z",
+  "lastUpdatedAt": "2024-03-11T16:38:47.305Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -44123,6 +44123,20 @@
                 "$districtName": "askim",
                 "last_accept": 355,
                 "$last_seen": "2024-03-06T13:33:16.683Z"
+              },
+              {
+                "id": 117864,
+                "rent": 13505,
+                "area": 74,
+                "street": "kobbeslätten",
+                "street_number": "8",
+                "city": "göteborg",
+                "zip": "43637",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 551,
+                "$last_seen": "2024-03-11T15:34:08.662Z"
               }
             ],
             "kobbegården": [
@@ -87255,6 +87269,20 @@
                 "$districtName": "tynnered",
                 "last_accept": 1544,
                 "$last_seen": "2024-02-29T06:38:47.842Z"
+              },
+              {
+                "id": 117651,
+                "rent": 12417,
+                "area": 107,
+                "street": "briljantgatan",
+                "street_number": "5",
+                "city": "västra frölunda",
+                "zip": "42149",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tynnered",
+                "last_accept": 1555,
+                "$last_seen": "2024-03-11T15:34:08.662Z"
               }
             ],
             "safirgatan": [
