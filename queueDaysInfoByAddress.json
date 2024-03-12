@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-03-12T08:36:08.323Z",
+  "lastUpdatedAt": "2024-03-12T09:36:22.521Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -44111,6 +44111,20 @@
                 "$last_seen": "2024-02-27T09:36:14.062Z"
               },
               {
+                "id": 117427,
+                "rent": 10850,
+                "area": 54,
+                "street": "kobbeslätten",
+                "street_number": "4",
+                "city": "göteborg",
+                "zip": "43637",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 416,
+                "$last_seen": "2024-03-12T08:36:08.323Z"
+              },
+              {
                 "id": 117691,
                 "rent": 10850,
                 "area": 54,
@@ -56965,6 +56979,34 @@
                 "$districtName": "göteborgs domkyrkodistrikt",
                 "last_accept": 1492,
                 "$last_seen": "2024-02-29T11:44:55.196Z"
+              },
+              {
+                "id": 117822,
+                "rent": 8146,
+                "area": 45,
+                "street": "ranängsgatan",
+                "street_number": "4",
+                "city": "göteborg",
+                "zip": "41664",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs domkyrkodistrikt",
+                "last_accept": 1357,
+                "$last_seen": "2024-03-12T08:36:08.323Z"
+              },
+              {
+                "id": 117828,
+                "rent": 11213,
+                "area": 72,
+                "street": "ranängsgatan",
+                "street_number": "4",
+                "city": "göteborg",
+                "zip": "41664",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs domkyrkodistrikt",
+                "last_accept": 1753,
+                "$last_seen": "2024-03-12T08:36:08.323Z"
               }
             ],
             "kungsportsavenyn": [
@@ -87979,6 +88021,20 @@
                 "$districtName": "västra frölunda",
                 "last_accept": 841,
                 "$last_seen": "2024-03-12T07:34:20.757Z"
+              },
+              {
+                "id": 118552,
+                "rent": 11482,
+                "area": 80,
+                "street": "munspelsgatan",
+                "street_number": "16",
+                "city": "västra frölunda",
+                "zip": "42151",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "västra frölunda",
+                "last_accept": 876,
+                "$last_seen": "2024-03-12T08:36:08.323Z"
               }
             ],
             "speldosegatan": [
