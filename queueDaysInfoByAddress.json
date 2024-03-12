@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-03-12T09:36:22.521Z",
+  "lastUpdatedAt": "2024-03-12T10:37:15.061Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -38949,6 +38949,20 @@
                 "$districtName": "kortedala",
                 "last_accept": 1425,
                 "$last_seen": "2024-03-04T14:34:55.163Z"
+              },
+              {
+                "id": 117474,
+                "rent": 5047,
+                "area": 51.5,
+                "street": "januarigatan",
+                "street_number": "35",
+                "city": "göteborg",
+                "zip": "41546",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "kortedala",
+                "last_accept": 1370,
+                "$last_seen": "2024-03-12T09:36:22.521Z"
               }
             ],
             "solvarvsgatan": [
@@ -60707,6 +60721,20 @@
                 "$districtName": "örgryte",
                 "last_accept": 1485,
                 "$last_seen": "2024-02-01T09:35:00.285Z"
+              },
+              {
+                "id": 117421,
+                "rent": 9646,
+                "area": 52,
+                "street": "gräddgatan",
+                "street_number": "5",
+                "city": "göteborg",
+                "zip": "41276",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1288,
+                "$last_seen": "2024-03-12T09:36:22.521Z"
               }
             ],
             "anders zornsgatan": [
