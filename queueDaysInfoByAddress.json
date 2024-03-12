@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-03-12T12:49:46.732Z",
+  "lastUpdatedAt": "2024-03-12T13:34:23.346Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -92904,6 +92904,22 @@
                 "last_accept": 1413,
                 "$last_seen": "2024-01-03T11:34:31.758Z"
               }
+            ],
+            "kristiantadsgatan": [
+              {
+                "id": 117659,
+                "rent": 5397,
+                "area": 50,
+                "street": "kristiantadsgatan",
+                "street_number": "41 c",
+                "city": "malmö",
+                "zip": "21435",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "möllevången",
+                "last_accept": 1403,
+                "$last_seen": "2024-03-12T12:49:46.732Z"
+              }
             ]
           },
           "limhamn": {
@@ -99849,6 +99865,20 @@
                 "$districtName": "limhamn",
                 "last_accept": 294,
                 "$last_seen": "2024-02-16T11:34:25.802Z"
+              },
+              {
+                "id": 117613,
+                "rent": 13244,
+                "area": 73,
+                "street": "blåsebergavägen",
+                "street_number": "32",
+                "city": "limhamn",
+                "zip": "21633",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "limhamn",
+                "last_accept": 4,
+                "$last_seen": "2024-03-12T12:49:46.732Z"
               }
             ],
             "birger jarlsgatan": [
