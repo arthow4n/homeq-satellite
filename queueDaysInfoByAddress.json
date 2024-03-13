@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-03-13T06:38:11.906Z",
+  "lastUpdatedAt": "2024-03-13T07:34:47.592Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -30875,6 +30875,20 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1967,
                 "$last_seen": "2024-03-04T08:11:50.708Z"
+              },
+              {
+                "id": 117881,
+                "rent": 3904,
+                "area": 36,
+                "street": "sparvgatan",
+                "street_number": "5 a",
+                "city": "göteborg",
+                "zip": "41667",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1856,
+                "$last_seen": "2024-03-13T06:38:11.906Z"
               }
             ],
             "runebergsgatan": [
