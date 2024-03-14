@@ -13,25 +13,24 @@ searchResults.forEach((r) => {
   delete lastRecordByIdMapping[r.id];
 });
 
-const normalisedValuesForGrouping = Object.values(lastRecordByIdMapping).map(
-  (r) => {
+const normalisedValuesForGrouping = Object.values(lastRecordByIdMapping)
+  .filter((r) => r.$object_ad)
+  .map((r) => {
     // Can add common misspelling fix here later
     return {
       id: r.id,
       rent: r.rent,
       area: r.area,
-      street: (r.address.street || "").toLocaleLowerCase("sv"),
-      street_number: (r.address.street_number || "").toLocaleLowerCase("sv"),
-      city: (r.address.city || "").toLocaleLowerCase("sv"),
-      zip: (r.address.zip || "").toLocaleLowerCase("sv"),
-      municipality: (r.address.municipality || "").toLocaleLowerCase("sv"),
-      county: (r.address.county || "").toLocaleLowerCase("sv"),
+      street: (r.$object_ad.street || "").toLocaleLowerCase("sv"),
+      street_number: (r.$object_ad.street_number || "").toLocaleLowerCase("sv"),
+      city: (r.$object_ad.city || "").toLocaleLowerCase("sv"),
+      municipality: (r.$object_ad.municipality || "").toLocaleLowerCase("sv"),
+      county: (r.$object_ad.county || "").toLocaleLowerCase("sv"),
       $districtName: (r.$districtName || "").toLocaleLowerCase("sv"),
       last_accept: r.$object_ad.last_accept,
       $last_seen: r.$last_seen,
     };
-  }
-);
+  });
 
 const queueDaysInfoByAddress = {};
 normalisedValuesForGrouping.forEach((r) => {

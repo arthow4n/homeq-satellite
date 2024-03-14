@@ -107,8 +107,8 @@
 
       const openSearchResult = (r) => {
         openExternalLink(`https://www.homeq.se/lagenhet/${r.id}`);
-        if (r.floor_plan) {
-          window.open(r.floor_plan, "_blank", "noopener,noreferrer");
+        if (r.$object_ad?.plan_image) {
+          window.open(r.$object_ad?.plan_image, "_blank", "noopener,noreferrer");
         }
       };
 
@@ -152,23 +152,26 @@
         return d; // returns the distance in meter
       };
       const validAmenityOptions = new Set([
-        "balcony",
-        "dishwasher",
-        "bathtub",
-        "washer",
-        "drier",
-        "garage",
-        "patio",
-        "elevator",
-        "kitchen_fan",
-        "parking",
-        "pets",
-        "handicap_friendly",
-        "heat",
-        "water",
-        "electricity",
-        "tv",
-        "internet",
+        "is_renovated",
+        "heat_included",
+        "water_included",
+        "electricity_included",
+        "tv_included",
+        "internet_included",
+        "has_washing_machine",
+        "is_prepared_for_washing_machine",
+        "is_prioritizing_company_customers",
+        "has_dishwasher",
+        "is_prepared_for_dishwasher",
+        "has_drier",
+        "has_bathtub",
+        "has_shower",
+        "has_kitchen_fan",
+        "has_patio",
+        "has_balcony",
+        "has_elevator",
+        "has_parking",
+        "has_garage",
       ]);
       const parseAmenities = (input) => {
         return input
@@ -220,19 +223,13 @@
         .then(
           async ([
             postalCodeCityNameMapping,
-            { lastUpdatedAt, searchResults: unsortedSearchResults },
+            { lastUpdatedAt, searchResults },
             { queueDaysInfoByAddress },
           ]) => {
             const getStreetNameNumberZipFromResult = (r) => {
-              const cityName =
-                postalCodeCityNameMapping[
-                  r.address.zip?.replace(/[^0-9]/g, "")
-                ] || r.address.municipality;
-              return `${r.address.street} ${r.address.street_number}, ${r.address.zip} ${cityName}`;
+              const cityName = r.municipality;
+              return `${r.title}, ${cityName}`;
             };
-            const searchResults = unsortedSearchResults.sort((a, b) => {
-              return b.publish_date.localeCompare(a.publish_date, "sv");
-            });
 
             window.searchResults = searchResults;
             const lastUpdatedAtDate = new Date(lastUpdatedAt);
@@ -273,10 +270,7 @@
             };
 
             const renderDistrictName = (r) => {
-              const addressCityName =
-                postalCodeCityNameMapping[
-                  r.address.zip?.replace(/[^0-9]/g, "")
-                ] ?? r.address.municipality;
+              const addressCityName = r.municipality;
               return r.$districtName && addressCityName !== r.$districtName
                 ? `${
                     r.$districtName.startsWith(addressCityName + "s ")
@@ -355,18 +349,24 @@
                 Array.isArray(r.rent) ? Math.min(...r.rent) : r.rent;
 
               const getHistoricalQueueDayRecordSource = (r) => {
+                if (!r.$object_ad) {
+                  return {
+                    district: [],
+                    street: [],
+                  };
+                }
+
                 // Refer to "normalisedValuesForGrouping"
                 const { county, municipality, city, $districtName, street } = {
-                  street: (r.address.street || "").toLocaleLowerCase("sv"),
+                  street: (r.$object_ad.street || "").toLocaleLowerCase("sv"),
                   street_number: (
-                    r.address.street_number || ""
+                    r.$object_ad.street_number || ""
                   ).toLocaleLowerCase("sv"),
-                  city: (r.address.city || "").toLocaleLowerCase("sv"),
-                  zip: (r.address.zip || "").toLocaleLowerCase("sv"),
+                  city: (r.$object_ad.city || "").toLocaleLowerCase("sv"),
                   municipality: (
-                    r.address.municipality || ""
+                    r.$object_ad.municipality || ""
                   ).toLocaleLowerCase("sv"),
-                  county: (r.address.county || "").toLocaleLowerCase("sv"),
+                  county: (r.$object_ad.county || "").toLocaleLowerCase("sv"),
                   $districtName: (r.$districtName || "").toLocaleLowerCase(
                     "sv"
                   ),
@@ -465,17 +465,10 @@
                   return (
                     !cities.length ||
                     cities.includes(
-                      (r.address.city ?? "").trim().toLocaleLowerCase("sv")
+                      (r.city ?? "").trim().toLocaleLowerCase("sv")
                     ) ||
                     cities.includes(
-                      (r.address.municipality ?? "")
-                        .trim()
-                        .toLocaleLowerCase("sv")
-                    ) ||
-                    cities.includes(
-                      postalCodeCityNameMapping[
-                        r.address.zip?.replace(/[^0-9]/g, "")
-                      ]?.toLocaleLowerCase("sv")
+                      (r.municipality ?? "").trim().toLocaleLowerCase("sv")
                     )
                   );
                 })
@@ -493,7 +486,7 @@
                 )
                 .filter((r) => {
                   return requiredAmenities.every((amenity) => {
-                    const v = r.amenities[amenity];
+                    const v = r.$object_ad?.[amenity];
                     const hasAmenity = Array.isArray(v) ? v.some((x) => x) : v;
                     return hasAmenity;
                   });
@@ -535,13 +528,10 @@
                     name: "Address",
                     width: "320px",
                     formatter: (r) => {
-                      const addressCityName =
-                        postalCodeCityNameMapping[
-                          r.address.zip?.replace(/[^0-9]/g, "")
-                        ] ?? r.address.municipality;
+                      const addressCityName = r.city;
                       return gridjs.h("span", {}, [
                         link(
-                          `${r.address.street} ${r.address.street_number}, ${addressCityName}`,
+                          `${r.title}, ${addressCityName}`,
                           r.type === "project"
                             ? `https://www.homeq.se/projekt/${r.id}`
                             : `https://www.homeq.se/lagenhet/${r.id}`
@@ -552,11 +542,11 @@
                         link(
                           "Map",
                           `https://www.google.com/maps/place/${encodeURIComponent(
-                            `${r.address.street} ${r.address.street_number}, ${r.address.zip}`
+                            `${r.title}, ${r.city}`
                           )}/`
                         ),
-                        r.floor_plan ? ", " : "",
-                        r.floor_plan ? link("Plan", r.floor_plan) : "",
+                        r.$object_ad?.plan_image ? ", " : "",
+                        r.$object_ad?.plan_image ? link("Plan", r.$object_ad?.plan_image) : "",
                         ")",
                         Array.isArray(r.rent) ? ` (x${r.rent.length})` : "",
                         typeof queueDaysRecordMappingForCustomFiltered[r.id]
@@ -613,8 +603,7 @@
                           )},${encodeURIComponent(
                             baseCoord.lng
                           )}&destination=${encodeURIComponent(
-                            // Use zip code for destination for better navigation result
-                            `${r.address.street} ${r.address.street_number}, ${r.address.zip}`
+                            `${r.location.lat},${r.location.lng}`
                           )}`
                         );
                       };
@@ -680,7 +669,7 @@
                   {
                     name: "Fl.",
                     width: "100px",
-                    formatter: (cell) => `${cell} F`,
+                    formatter: (cell) => `${cell >= 0 ? cell : "?"} F`,
                   },
                   {
                     name: "ROK",
@@ -753,16 +742,16 @@
                     r,
                     r,
                     r,
-                    Array.isArray(r.floor) ? Math.min(...r.floor) : r.floor,
+                    r.$object_ad?.floor,
                     Array.isArray(r.rooms) ? Math.min(...r.rooms) : r.rooms,
                     getArea(r),
                     r,
                     getQueueDaysFromResult(r),
                     r,
-                    Array.isArray(r.access_date)
-                      ? r.access_date.sort()[0]
-                      : r.access_date,
-                    r.publish_date,
+                    Array.isArray(r.date_access)
+                      ? r.date_access.sort()[0]
+                      : r.date_access,
+                    r.$object_ad?.date_publish,
                   ];
                 }),
               };
