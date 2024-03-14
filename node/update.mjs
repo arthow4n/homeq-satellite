@@ -9,6 +9,9 @@ const filterForFetchingQueuePointsInfo = (x) => {
     "partille",
     "stockholm",
     "malmö",
+    "uppsala",
+    "lund",
+    "linköping",
   ];
 
   return x
@@ -28,22 +31,19 @@ const fetchHomeqSearchResults = async () => {
   while (true) {
     page += 1;
 
-    const json = await fetch(
-      "https://search.homeq.se/api/v3/search",
-      {
-        headers: {
-          accept: "application/json",
-          "content-type": "application/json",
-        },
-        referrer: "https://search.homeq.se/",
-        body: JSON.stringify({
-          sorting: "publish_date.desc",
-          amount: 10000,
-          page,
-        }),
-        method: "POST",
-      }
-    ).then(async (res) => {
+    const json = await fetch("https://search.homeq.se/api/v3/search", {
+      headers: {
+        accept: "application/json",
+        "content-type": "application/json",
+      },
+      referrer: "https://search.homeq.se/",
+      body: JSON.stringify({
+        sorting: "publish_date.desc",
+        amount: 10000,
+        page,
+      }),
+      method: "POST",
+    }).then(async (res) => {
       if (!res.ok) {
         console.log(
           "Failed to fetch the search result",
@@ -77,83 +77,85 @@ const fetchHomeqSearchResults = async () => {
 
 // Main
 {
-  const searchResults = await fetchHomeqSearchResults().then(async ({ results }) => {
-    let ptr = 0;
-    const filtered = filterForFetchingQueuePointsInfo(results);
+  const searchResults = await fetchHomeqSearchResults().then(
+    async ({ results }) => {
+      let ptr = 0;
+      const filtered = filterForFetchingQueuePointsInfo(results);
 
-    for (const r of filtered) {
-      ptr++;
-      console.log(
-        `${new Date().toISOString()} - Fetching object info for filtered objects...: ${ptr}/${
-          filtered.length
-        } (object id: ${r.id})`
-      );
+      for (const r of filtered) {
+        ptr++;
+        console.log(
+          `${new Date().toISOString()} - Fetching object info for filtered objects...: ${ptr}/${
+            filtered.length
+          } (object id: ${r.id})`
+        );
 
-      const maxTries = 5;
-      for (let tries = 1; tries <= maxTries; tries++) {
-        await new Promise((resolve) => setTimeout(resolve, 2400));
-        const url = `https://www.homeq.se/api/v1/object/${r.id}`;
-        try {
-          const controller = new AbortController();
-          const timeout = setTimeout(() => {
-            controller.abort();
-          }, 5000);
+        const maxTries = 5;
+        for (let tries = 1; tries <= maxTries; tries++) {
+          await new Promise((resolve) => setTimeout(resolve, 2400));
+          const url = `https://www.homeq.se/api/v1/object/${r.id}`;
+          try {
+            const controller = new AbortController();
+            const timeout = setTimeout(() => {
+              controller.abort();
+            }, 5000);
 
-          const res = await fetch(url, {
-            headers: {
-              accept: "application/json",
-              "content-type": "application/json",
-            },
-            referrer: "https://www.homeq.se/",
-            method: "GET",
-            signal: controller.signal,
-          });
+            const res = await fetch(url, {
+              headers: {
+                accept: "application/json",
+                "content-type": "application/json",
+              },
+              referrer: "https://www.homeq.se/",
+              method: "GET",
+              signal: controller.signal,
+            });
 
-          if (!res.ok) {
+            if (!res.ok) {
+              console.log(
+                `${new Date().toISOString()} - HTTP error when getting object_ad (object id: ${
+                  r.id
+                }, url: ${url}, status: ${res.status} ${
+                  res.statusText
+                }, response body is logged in the next line)`
+              );
+              console.log(
+                `${new Date().toISOString()} - HTTP error when getting object_ad (object id: ${
+                  r.id
+                }, body: ${await res.text()})`
+              );
+              continue;
+            }
+
+            const { object_ad } = await res.json();
+            clearTimeout(timeout);
+
+            if (object_ad) {
+              r.$object_ad = object_ad;
+              console.log(
+                `${new Date().toISOString()} - Got queue information from object_ad (object id: ${
+                  r.id
+                }, last_accept: ${r.$object_ad.last_accept})`
+              );
+            } else {
+              console.log(
+                `${new Date().toISOString()} - Couldn't get object_ad (object id: ${
+                  r.id
+                })`
+              );
+            }
+
+            break;
+          } catch (e) {
             console.log(
-              `${new Date().toISOString()} - HTTP error when getting object_ad (object id: ${
-                r.id
-              }, url: ${url}, status: ${res.status} ${
-                res.statusText
-              }, response body is logged in the next line)`
+              `${new Date().toISOString()} - Got exception when trying to fetch ${url}, exception: ${e}, retries ${tries}/${maxTries}`
             );
-            console.log(
-              `${new Date().toISOString()} - HTTP error when getting object_ad (object id: ${
-                r.id
-              }, body: ${await res.text()})`
-            );
-            continue;
           }
-
-          const { object_ad } = await res.json();
-          clearTimeout(timeout);
-
-          if (object_ad) {
-            r.$object_ad = object_ad;
-            console.log(
-              `${new Date().toISOString()} - Got queue information from object_ad (object id: ${
-                r.id
-              }, last_accept: ${r.$object_ad.last_accept})`
-            );
-          } else {
-            console.log(
-              `${new Date().toISOString()} - Couldn't get object_ad (object id: ${
-                r.id
-              })`
-            );
-          }
-
-          break;
-        } catch (e) {
-          console.log(
-            `${new Date().toISOString()} - Got exception when trying to fetch ${url}, exception: ${e}, retries ${tries}/${maxTries}`
-          );
         }
       }
-    }
 
-    return results;
-  });
+      return results;
+    }
+  );
 
   const lastUpdatedAt = new Date().toISOString();
 
