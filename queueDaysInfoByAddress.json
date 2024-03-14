@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-03-14T08:36:59.351Z",
+  "lastUpdatedAt": "2024-03-14T09:34:53.410Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -42647,6 +42647,48 @@
                 "$districtName": "askim",
                 "last_accept": 805,
                 "$last_seen": "2024-02-29T22:37:53.190Z"
+              },
+              {
+                "id": 118315,
+                "rent": 5536,
+                "area": 32,
+                "street": "pilegården",
+                "street_number": "3a",
+                "city": "göteborg",
+                "zip": "43635",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 1056,
+                "$last_seen": "2024-03-14T08:36:59.351Z"
+              },
+              {
+                "id": 118371,
+                "rent": 8201,
+                "area": 66,
+                "street": "pilegården",
+                "street_number": "8 d",
+                "city": "göteborg",
+                "zip": "43635",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 1143,
+                "$last_seen": "2024-03-14T08:36:59.351Z"
+              },
+              {
+                "id": 118515,
+                "rent": 9714,
+                "area": 66,
+                "street": "pilegården",
+                "street_number": "1f",
+                "city": "göteborg",
+                "zip": "43635",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 709,
+                "$last_seen": "2024-03-14T08:36:59.351Z"
               }
             ],
             "nergårdsvägen": [
@@ -44925,6 +44967,20 @@
                 "$last_seen": "2024-02-01T15:35:49.446Z"
               },
               {
+                "id": 118433,
+                "rent": 11144,
+                "area": 80,
+                "street": "kobbegården",
+                "street_number": "14",
+                "city": "göteborg",
+                "zip": "43637",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 1107,
+                "$last_seen": "2024-03-14T08:36:59.351Z"
+              },
+              {
                 "id": 118501,
                 "rent": 5876,
                 "area": 33,
@@ -46039,6 +46095,20 @@
                 "$districtName": "bergsjön",
                 "last_accept": 1253,
                 "$last_seen": "2023-12-06T14:40:02.320Z"
+              },
+              {
+                "id": 117827,
+                "rent": 7064,
+                "area": 62,
+                "street": "keplers gata",
+                "street_number": "50",
+                "city": "göteborg",
+                "zip": "41555",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bergsjön",
+                "last_accept": 1480,
+                "$last_seen": "2024-03-14T08:36:59.351Z"
               }
             ],
             "galileis gata": [
@@ -57065,6 +57135,20 @@
                 "$last_seen": "2024-03-12T08:36:08.323Z"
               },
               {
+                "id": 117824,
+                "rent": 8076,
+                "area": 45,
+                "street": "ranängsgatan",
+                "street_number": "4",
+                "city": "göteborg",
+                "zip": "41664",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs domkyrkodistrikt",
+                "last_accept": 1474,
+                "$last_seen": "2024-03-14T08:36:59.351Z"
+              },
+              {
                 "id": 117828,
                 "rent": 11213,
                 "area": 72,
@@ -58767,6 +58851,20 @@
                 "$districtName": "örgryte",
                 "last_accept": 1804,
                 "$last_seen": "2024-03-11T09:34:00.125Z"
+              },
+              {
+                "id": 118655,
+                "rent": 13384,
+                "area": 96,
+                "street": "prästgårdsängen",
+                "street_number": "4",
+                "city": "göteborg",
+                "zip": "41271",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1737,
+                "$last_seen": "2024-03-14T08:36:59.351Z"
               }
             ],
             "karlfeldtsgatan": [
@@ -63255,6 +63353,20 @@
                 "$districtName": "örgryte",
                 "last_accept": 1367,
                 "$last_seen": "2024-03-04T08:11:50.708Z"
+              },
+              {
+                "id": 117845,
+                "rent": 9784,
+                "area": 51,
+                "street": "separatorsgatan",
+                "street_number": "6",
+                "city": "göteborg",
+                "zip": "41278",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1672,
+                "$last_seen": "2024-03-14T08:36:59.351Z"
               },
               {
                 "id": 118213,
@@ -83821,6 +83933,20 @@
                 "$last_seen": "2024-03-01T10:39:00.176Z"
               },
               {
+                "id": 118502,
+                "rent": 8682,
+                "area": 63,
+                "street": "folkvisegatan",
+                "street_number": "16",
+                "city": "hisings backa",
+                "zip": "42241",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brunnsbo",
+                "last_accept": 1173,
+                "$last_seen": "2024-03-14T08:36:59.351Z"
+              },
+              {
                 "id": 118673,
                 "rent": 8682,
                 "area": 63,
@@ -84369,6 +84495,20 @@
                 "$districtName": "brunnsbo",
                 "last_accept": 1519,
                 "$last_seen": "2024-02-12T14:35:16.649Z"
+              },
+              {
+                "id": 118496,
+                "rent": 8843,
+                "area": 65,
+                "street": "prologgatan",
+                "street_number": "12",
+                "city": "hisings backa",
+                "zip": "42241",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brunnsbo",
+                "last_accept": 1246,
+                "$last_seen": "2024-03-14T08:36:59.351Z"
               }
             ],
             "sångspelsgatan": [
@@ -85331,6 +85471,34 @@
                 "$districtName": "askim",
                 "last_accept": 4,
                 "$last_seen": "2024-03-11T09:34:00.125Z"
+              },
+              {
+                "id": 117829,
+                "rent": 7522,
+                "area": 33,
+                "street": "sisjöbäckens väg",
+                "street_number": "4",
+                "city": "askim",
+                "zip": "43638",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 3,
+                "$last_seen": "2024-03-14T08:36:59.351Z"
+              },
+              {
+                "id": 117832,
+                "rent": 10748,
+                "area": 54,
+                "street": "sisjöbäckens väg",
+                "street_number": "24",
+                "city": "askim",
+                "zip": "43638",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 2,
+                "$last_seen": "2024-03-14T08:36:59.351Z"
               }
             ],
             "kobbegården": [
@@ -89165,6 +89333,20 @@
                 "$districtName": "älvsborg",
                 "last_accept": 1686,
                 "$last_seen": "2024-02-21T12:49:46.040Z"
+              },
+              {
+                "id": 118500,
+                "rent": 9421,
+                "area": 60.6,
+                "street": "stengetsgatan",
+                "street_number": "24",
+                "city": "västra frölunda ",
+                "zip": "42672",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "älvsborg",
+                "last_accept": 1065,
+                "$last_seen": "2024-03-14T08:36:59.351Z"
               }
             ],
             "tigerstigen": [
@@ -95321,6 +95503,20 @@
                 "$districtName": "kirseberg",
                 "last_accept": 258,
                 "$last_seen": "2024-02-29T14:38:56.485Z"
+              },
+              {
+                "id": 118758,
+                "rent": 9297,
+                "area": 66,
+                "street": "gerlachsgatan",
+                "street_number": "4",
+                "city": "malmö",
+                "zip": "21219",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "kirseberg",
+                "last_accept": 10,
+                "$last_seen": "2024-03-14T08:36:59.351Z"
               }
             ],
             "dalhemsgtan": [
