@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-03-14T02:37:59.733Z",
+  "lastUpdatedAt": "2024-03-14T03:34:50.265Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -46039,6 +46039,20 @@
                 "$districtName": "bergsjön",
                 "last_accept": 1253,
                 "$last_seen": "2023-12-06T14:40:02.320Z"
+              },
+              {
+                "id": 117827,
+                "rent": 7064,
+                "area": 62,
+                "street": "keplers gata",
+                "street_number": "50",
+                "city": "göteborg",
+                "zip": "41555",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bergsjön",
+                "last_accept": 1480,
+                "$last_seen": "2024-03-14T02:37:59.733Z"
               }
             ],
             "galileis gata": [
@@ -99935,6 +99949,20 @@
                 "$districtName": "limhamn",
                 "last_accept": 4,
                 "$last_seen": "2024-03-12T12:49:46.732Z"
+              },
+              {
+                "id": 117921,
+                "rent": 5884,
+                "area": 24,
+                "street": "blåsebergavägen",
+                "street_number": "12",
+                "city": "limhamn",
+                "zip": "21633",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "limhamn",
+                "last_accept": 19,
+                "$last_seen": "2024-03-14T02:37:59.733Z"
               }
             ],
             "birger jarlsgatan": [
@@ -107883,6 +107911,22 @@
                 "$districtName": "spånga",
                 "last_accept": 1776,
                 "$last_seen": "2024-02-28T11:34:41.591Z"
+              }
+            ],
+            "skogängsvägen": [
+              {
+                "id": 117886,
+                "rent": 18649,
+                "area": 90,
+                "street": "skogängsvägen",
+                "street_number": "47 a",
+                "city": "spånga",
+                "zip": "16348",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "spånga",
+                "last_accept": 23,
+                "$last_seen": "2024-03-14T02:37:59.733Z"
               }
             ]
           },
