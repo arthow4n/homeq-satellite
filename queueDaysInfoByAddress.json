@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-03-14T11:34:36.552Z",
+  "lastUpdatedAt": "2024-03-14T12:50:35.945Z",
   "queueDaysInfoByAddress": {
     "västra götalands län": {
       "mölndal": {
@@ -26779,20 +26779,6 @@
                 "$districtName": "lundby",
                 "last_accept": 822,
                 "$last_seen": "2024-03-08T06:36:51.380Z"
-              },
-              {
-                "id": 117617,
-                "rent": 8837,
-                "area": 43,
-                "street": "fyrklöversgatan",
-                "street_number": "25",
-                "city": "göteborg",
-                "zip": "41721",
-                "municipality": "göteborg",
-                "county": "västra götalands län",
-                "$districtName": "lundby",
-                "last_accept": 372,
-                "$last_seen": "2024-03-14T10:38:43.468Z"
               }
             ],
             "arvid lindmansgatan": [
@@ -63409,6 +63395,20 @@
                 "$districtName": "örgryte",
                 "last_accept": 1367,
                 "$last_seen": "2024-03-04T08:11:50.708Z"
+              },
+              {
+                "id": 117845,
+                "rent": 9784,
+                "area": 51,
+                "street": "separatorsgatan",
+                "street_number": "6",
+                "city": "göteborg",
+                "zip": "41278",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1672,
+                "$last_seen": "2024-03-14T11:34:36.552Z"
               },
               {
                 "id": 118213,
