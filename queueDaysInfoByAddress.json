@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-03-15T05:48:36.977Z",
+  "lastUpdatedAt": "2024-03-15T06:49:41.274Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -97633,6 +97633,19 @@
                 "$districtName": "vantör",
                 "last_accept": 1007,
                 "$last_seen": "2023-12-20T14:33:16.353Z"
+              },
+              {
+                "id": 118110,
+                "rent": 11155,
+                "area": 93,
+                "street": "bäverdammsgränd",
+                "street_number": "59",
+                "city": "bandhagen",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 2006,
+                "$last_seen": "2024-03-15T05:48:36.977Z"
               }
             ],
             "skebokvarnsvägen": [
