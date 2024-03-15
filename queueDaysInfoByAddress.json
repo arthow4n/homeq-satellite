@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-03-15T06:49:41.274Z",
+  "lastUpdatedAt": "2024-03-15T07:44:47.087Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -49828,6 +49828,19 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1869,
                 "$last_seen": "2024-02-20T22:36:37.568Z"
+              },
+              {
+                "id": 118251,
+                "rent": 7647,
+                "area": 35,
+                "street": "viktor rydbergsgatan",
+                "street_number": "29",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1769,
+                "$last_seen": "2024-03-15T06:49:41.274Z"
               }
             ],
             "örnehufvudsgatan": [
@@ -55053,19 +55066,6 @@
                 "$districtName": "björkekärr",
                 "last_accept": 1785,
                 "$last_seen": "2024-01-24T13:37:47.051Z"
-              },
-              {
-                "id": 113029,
-                "rent": 5674,
-                "area": 30,
-                "street": "smörslätten",
-                "street_number": "16",
-                "city": "göteborg",
-                "municipality": "göteborg",
-                "county": "västra götalands län",
-                "$districtName": "björkekärr",
-                "last_accept": 1018,
-                "$last_seen": "2024-02-05T14:36:42.635Z"
               },
               {
                 "id": 114320,
@@ -90050,6 +90050,19 @@
                 "$last_seen": "2024-02-05T09:35:43.202Z"
               },
               {
+                "id": 117129,
+                "rent": 8582,
+                "area": 43,
+                "street": "hyllie allé",
+                "street_number": "26b",
+                "city": "malmö",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "hyllie",
+                "last_accept": 25,
+                "$last_seen": "2024-03-15T06:49:41.274Z"
+              },
+              {
                 "id": 118454,
                 "rent": 12515,
                 "area": 71,
@@ -90061,6 +90074,19 @@
                 "$districtName": "hyllie",
                 "last_accept": 14,
                 "$last_seen": "2024-03-11T07:33:54.672Z"
+              },
+              {
+                "id": 119107,
+                "rent": 13239,
+                "area": 78,
+                "street": "hyllie allé",
+                "street_number": "28a",
+                "city": "malmö",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "hyllie",
+                "last_accept": 10,
+                "$last_seen": "2024-03-15T06:49:41.274Z"
               }
             ],
             "tors gränd": [
