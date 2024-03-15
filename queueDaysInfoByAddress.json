@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-03-15T08:50:43.835Z",
+  "lastUpdatedAt": "2024-03-15T09:44:42.897Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -61088,6 +61088,19 @@
                 "$last_seen": "2024-02-12T11:34:09.947Z"
               },
               {
+                "id": 115837,
+                "rent": 12018,
+                "area": 71,
+                "street": "skillingmyntsgatan",
+                "street_number": "4",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 1195,
+                "$last_seen": "2024-03-15T08:50:43.835Z"
+              },
+              {
                 "id": 117321,
                 "rent": 12871,
                 "area": 74,
@@ -89748,6 +89761,19 @@
                 "$districtName": "malmö sankt pauli",
                 "last_accept": 1200,
                 "$last_seen": "2023-10-13T08:45:17.989Z"
+              },
+              {
+                "id": 118618,
+                "rent": 12706,
+                "area": 88,
+                "street": "ehrensvärdsgatan",
+                "street_number": "20",
+                "city": "malmö",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "malmö sankt pauli",
+                "last_accept": 224,
+                "$last_seen": "2024-03-15T08:50:43.835Z"
               }
             ],
             "linjeettgatan": [
