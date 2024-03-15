@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-03-15T11:44:32.430Z",
+  "lastUpdatedAt": "2024-03-15T13:00:54.621Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -34940,6 +34940,19 @@
                 "$districtName": "nylöse",
                 "last_accept": 707,
                 "$last_seen": "2024-03-03T19:34:45.961Z"
+              },
+              {
+                "id": 118071,
+                "rent": 9670,
+                "area": 64.8,
+                "street": "sysslomansgatan",
+                "street_number": "37",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "nylöse",
+                "last_accept": 308,
+                "$last_seen": "2024-03-15T11:44:32.430Z"
               }
             ],
             "hinderbanan": [
@@ -55131,19 +55144,6 @@
                 "$districtName": "björkekärr",
                 "last_accept": 1650,
                 "$last_seen": "2024-02-26T15:35:50.557Z"
-              },
-              {
-                "id": 116492,
-                "rent": 3424,
-                "area": 22,
-                "street": "smörslätten",
-                "street_number": "6",
-                "city": "göteborg",
-                "municipality": "göteborg",
-                "county": "västra götalands län",
-                "$districtName": "björkekärr",
-                "last_accept": 86,
-                "$last_seen": "2024-02-21T14:35:50.236Z"
               },
               {
                 "id": 117312,
@@ -95745,6 +95745,25 @@
               }
             ]
           }
+        },
+        "lund": {
+          "torn": {
+            "vitstorksvägen": [
+              {
+                "id": 118422,
+                "rent": 14159,
+                "area": 99,
+                "street": "vitstorksvägen",
+                "street_number": "5",
+                "city": "lund",
+                "municipality": "lund",
+                "county": "skåne län",
+                "$districtName": "torn",
+                "last_accept": 7,
+                "$last_seen": "2024-03-15T11:44:32.430Z"
+              }
+            ]
+          }
         }
       }
     },
@@ -95999,6 +96018,19 @@
                 "$districtName": "vantör",
                 "last_accept": 1549,
                 "$last_seen": "2024-01-31T22:37:17.656Z"
+              },
+              {
+                "id": 115382,
+                "rent": 6476,
+                "area": 41,
+                "street": "olshammarsgatan",
+                "street_number": "40",
+                "city": "bandhagen",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 1807,
+                "$last_seen": "2024-03-15T11:44:32.430Z"
               },
               {
                 "id": 116517,
@@ -101280,6 +101312,23 @@
                 "$districtName": "slaka",
                 "last_accept": 926,
                 "$last_seen": "2024-03-15T10:48:44.637Z"
+              }
+            ]
+          },
+          "landeryd": {
+            "ekholmsvägen": [
+              {
+                "id": 117765,
+                "rent": 7863,
+                "area": 77.5,
+                "street": "ekholmsvägen",
+                "street_number": "98",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "landeryd",
+                "last_accept": 236,
+                "$last_seen": "2024-03-15T11:44:32.430Z"
               }
             ]
           },
