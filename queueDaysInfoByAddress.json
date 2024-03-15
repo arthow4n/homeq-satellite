@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-03-15T09:44:42.897Z",
+  "lastUpdatedAt": "2024-03-15T10:48:44.637Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -60748,6 +60748,19 @@
                 "$last_seen": "2024-03-04T08:11:50.708Z"
               },
               {
+                "id": 117458,
+                "rent": 10758,
+                "area": 83,
+                "street": "pennygången",
+                "street_number": "4",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 1734,
+                "$last_seen": "2024-03-15T09:44:42.897Z"
+              },
+              {
                 "id": 117670,
                 "rent": 8793,
                 "area": 62,
@@ -72503,6 +72516,19 @@
                 "$districtName": "göteborgs karl johan",
                 "last_accept": 1800,
                 "$last_seen": "2024-02-20T21:34:38.137Z"
+              },
+              {
+                "id": 117463,
+                "rent": 9124,
+                "area": 47,
+                "street": "kabelgatan",
+                "street_number": "19",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs karl johan",
+                "last_accept": 1393,
+                "$last_seen": "2024-03-15T09:44:42.897Z"
               },
               {
                 "id": 117710,
@@ -99234,6 +99260,19 @@
                 "$districtName": "skärholmen",
                 "last_accept": 372,
                 "$last_seen": "2024-03-15T07:44:47.087Z"
+              },
+              {
+                "id": 119349,
+                "rent": 8551,
+                "area": 35,
+                "street": "vårbergsvägen",
+                "street_number": "79",
+                "city": "stockholm",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "skärholmen",
+                "last_accept": 40,
+                "$last_seen": "2024-03-15T09:44:42.897Z"
               }
             ],
             "ålgrytevägen": [
@@ -101140,6 +101179,19 @@
                 "$districtName": "hammarby",
                 "last_accept": 191,
                 "$last_seen": "2024-02-29T10:41:02.932Z"
+              },
+              {
+                "id": 119361,
+                "rent": 8332,
+                "area": 33,
+                "street": "dragonvägen",
+                "street_number": "23b",
+                "city": "stockholm",
+                "municipality": "upplands väsby",
+                "county": "stockholms län",
+                "$districtName": "hammarby",
+                "last_accept": 219,
+                "$last_seen": "2024-03-15T09:44:42.897Z"
               }
             ]
           }
