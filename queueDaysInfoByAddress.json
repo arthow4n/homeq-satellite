@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-03-15T14:47:01.352Z",
+  "lastUpdatedAt": "2024-03-15T15:44:20.109Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -45983,19 +45983,6 @@
                 "$districtName": "bergsjön",
                 "last_accept": 528,
                 "$last_seen": "2024-02-19T09:34:26.593Z"
-              },
-              {
-                "id": 117105,
-                "rent": 8494,
-                "area": 56,
-                "street": "kosmosgatan",
-                "street_number": "5",
-                "city": "göteborg",
-                "municipality": "göteborg",
-                "county": "västra götalands län",
-                "$districtName": "bergsjön",
-                "last_accept": 659,
-                "$last_seen": "2024-03-15T13:00:54.621Z"
               }
             ],
             "atmosfärgatan": [
@@ -101190,6 +101177,19 @@
                 "$districtName": "österhaninge",
                 "last_accept": 8,
                 "$last_seen": "2024-03-06T15:33:03.825Z"
+              },
+              {
+                "id": 118224,
+                "rent": 11057,
+                "area": 45.1,
+                "street": "vardövägen",
+                "street_number": "53",
+                "city": "stockholm",
+                "municipality": "haninge",
+                "county": "stockholms län",
+                "$districtName": "österhaninge",
+                "last_accept": 143,
+                "$last_seen": "2024-03-15T14:47:01.352Z"
               },
               {
                 "id": 118226,
