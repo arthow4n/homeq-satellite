@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-03-15T13:44:52.946Z",
+  "lastUpdatedAt": "2024-03-15T14:47:01.352Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -78551,6 +78551,19 @@
                 "$districtName": "västra frölunda",
                 "last_accept": 1258,
                 "$last_seen": "2024-03-06T12:48:57.161Z"
+              },
+              {
+                "id": 118551,
+                "rent": 5552,
+                "area": 34,
+                "street": "marconigatan",
+                "street_number": "33 a",
+                "city": "västra frölunda",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "västra frölunda",
+                "last_accept": 1195,
+                "$last_seen": "2024-03-15T13:44:52.946Z"
               }
             ]
           },
@@ -81196,6 +81209,19 @@
                 "$districtName": "örgryte",
                 "last_accept": 1020,
                 "$last_seen": "2024-03-05T09:33:20.464Z"
+              },
+              {
+                "id": 118305,
+                "rent": 8051,
+                "area": 35,
+                "street": "smörkärnegatan",
+                "street_number": "29",
+                "city": "göteborg",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1362,
+                "$last_seen": "2024-03-15T13:44:52.946Z"
               }
             ]
           }
@@ -100662,6 +100688,19 @@
                 "$districtName": "farsta",
                 "last_accept": 1319,
                 "$last_seen": "2024-01-25T13:37:47.961Z"
+              },
+              {
+                "id": 116846,
+                "rent": 10497,
+                "area": 51,
+                "street": "thorsten levenstams väg",
+                "street_number": "4 b",
+                "city": "sköndal",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "farsta",
+                "last_accept": 1712,
+                "$last_seen": "2024-03-15T13:44:52.946Z"
               }
             ]
           }
