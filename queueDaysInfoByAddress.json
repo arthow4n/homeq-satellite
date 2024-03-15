@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-03-15T10:48:44.637Z",
+  "lastUpdatedAt": "2024-03-15T11:44:32.430Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -67358,6 +67358,19 @@
                 "$last_seen": "2024-03-04T11:20:23.223Z"
               },
               {
+                "id": 116786,
+                "rent": 12127,
+                "area": 65,
+                "street": "tändsticksgatan",
+                "street_number": "2",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1040,
+                "$last_seen": "2024-03-15T10:48:44.637Z"
+              },
+              {
                 "id": 116797,
                 "rent": 12364,
                 "area": 64,
@@ -70436,6 +70449,19 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1742,
                 "$last_seen": "2023-11-10T11:40:09.130Z"
+              },
+              {
+                "id": 116759,
+                "rent": 7307,
+                "area": 49,
+                "street": "runebergsgatan",
+                "street_number": "2",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1893,
+                "$last_seen": "2024-03-15T10:48:44.637Z"
               }
             ],
             "redbergsvägen": [
@@ -88832,6 +88858,19 @@
                 "$districtName": "kirseberg",
                 "last_accept": 469,
                 "$last_seen": "2023-11-27T05:38:18.812Z"
+              },
+              {
+                "id": 118834,
+                "rent": 7475,
+                "area": 60,
+                "street": "rosendalsvägen",
+                "street_number": "3",
+                "city": "malmö",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "kirseberg",
+                "last_accept": 208,
+                "$last_seen": "2024-03-15T10:48:44.637Z"
               }
             ],
             "dalhemsgatan": [
@@ -92851,6 +92890,19 @@
                 "$last_seen": "2024-01-19T11:35:34.768Z"
               },
               {
+                "id": 114381,
+                "rent": 12718,
+                "area": 73,
+                "street": "högatan",
+                "street_number": "8 f",
+                "city": "limhamn",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "limhamn",
+                "last_accept": 290,
+                "$last_seen": "2024-03-15T10:48:44.637Z"
+              },
+              {
                 "id": 114382,
                 "rent": 7600,
                 "area": 34,
@@ -92862,6 +92914,19 @@
                 "$districtName": "limhamn",
                 "last_accept": 7,
                 "$last_seen": "2024-02-15T08:36:30.726Z"
+              },
+              {
+                "id": 115573,
+                "rent": 13616,
+                "area": 83,
+                "street": "högatan",
+                "street_number": "10 b",
+                "city": "limhamn",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "limhamn",
+                "last_accept": 434,
+                "$last_seen": "2024-03-15T10:48:44.637Z"
               },
               {
                 "id": 116886,
@@ -101192,6 +101257,46 @@
                 "$districtName": "hammarby",
                 "last_accept": 219,
                 "$last_seen": "2024-03-15T09:44:42.897Z"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "östergötlands län": {
+      "linköping": {
+        "linköping": {
+          "slaka": {
+            "ada arwedssons gata": [
+              {
+                "id": 114799,
+                "rent": 6997,
+                "area": 47,
+                "street": "ada arwedssons gata",
+                "street_number": "5",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "slaka",
+                "last_accept": 926,
+                "$last_seen": "2024-03-15T10:48:44.637Z"
+              }
+            ]
+          },
+          "linköpings domkyrkodistrikt": {
+            "apotekaregatan": [
+              {
+                "id": 118995,
+                "rent": 6056,
+                "area": 57,
+                "street": "apotekaregatan",
+                "street_number": "10b",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "linköpings domkyrkodistrikt",
+                "last_accept": 1397,
+                "$last_seen": "2024-03-15T10:48:44.637Z"
               }
             ]
           }
