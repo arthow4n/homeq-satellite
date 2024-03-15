@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-03-15T13:00:54.621Z",
+  "lastUpdatedAt": "2024-03-15T13:44:52.946Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -45983,6 +45983,19 @@
                 "$districtName": "bergsjön",
                 "last_accept": 528,
                 "$last_seen": "2024-02-19T09:34:26.593Z"
+              },
+              {
+                "id": 117105,
+                "rent": 8494,
+                "area": 56,
+                "street": "kosmosgatan",
+                "street_number": "5",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bergsjön",
+                "last_accept": 659,
+                "$last_seen": "2024-03-15T13:00:54.621Z"
               }
             ],
             "atmosfärgatan": [
@@ -46715,6 +46728,19 @@
                 "$districtName": "bergsjön",
                 "last_accept": 1416,
                 "$last_seen": "2024-01-29T12:50:14.794Z"
+              },
+              {
+                "id": 117133,
+                "rent": 7470,
+                "area": 55,
+                "street": "universumsgatan",
+                "street_number": "24",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bergsjön",
+                "last_accept": 1295,
+                "$last_seen": "2024-03-15T13:00:54.621Z"
               }
             ],
             "galileisgata": [
@@ -81133,6 +81159,19 @@
                 "$last_seen": "2024-02-28T07:36:00.744Z"
               },
               {
+                "id": 117332,
+                "rent": 7948,
+                "area": 35,
+                "street": "smörkärnegatan",
+                "street_number": "29",
+                "city": "göteborg",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1523,
+                "$last_seen": "2024-03-15T13:00:54.621Z"
+              },
+              {
                 "id": 117863,
                 "rent": 7638,
                 "area": 35,
@@ -94602,6 +94641,19 @@
                 "$last_seen": "2023-12-12T23:36:08.919Z"
               },
               {
+                "id": 110180,
+                "rent": 9782,
+                "area": 70,
+                "street": "sadelmakarebyn",
+                "street_number": "8c",
+                "city": "bunkeflostrand",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "bunkeflo",
+                "last_accept": 51,
+                "$last_seen": "2024-03-15T13:00:54.621Z"
+              },
+              {
                 "id": 112679,
                 "rent": 9289,
                 "area": 69.7,
@@ -101298,6 +101350,23 @@
     "östergötlands län": {
       "linköping": {
         "linköping": {
+          "skäggetorp": {
+            "stiglötsgatan": [
+              {
+                "id": 111669,
+                "rent": 7125,
+                "area": 46,
+                "street": "stiglötsgatan",
+                "street_number": "45",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "skäggetorp",
+                "last_accept": 0,
+                "$last_seen": "2024-03-15T13:00:54.621Z"
+              }
+            ]
+          },
           "slaka": {
             "ada arwedssons gata": [
               {
