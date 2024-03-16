@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-03-16T10:48:55.155Z",
+  "lastUpdatedAt": "2024-03-16T11:44:27.810Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -40362,6 +40362,21 @@
                 "$districtName": "göteborgs domkyrkodistrikt",
                 "last_accept": 1760,
                 "$last_seen": "2023-11-03T06:43:33.075Z"
+              }
+            ],
+            "chalmersgatan": [
+              {
+                "id": 113779,
+                "rent": 29000,
+                "area": 200,
+                "street": "chalmersgatan",
+                "street_number": "1",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs domkyrkodistrikt",
+                "last_accept": 525,
+                "$last_seen": "2024-03-16T10:48:55.155Z"
               }
             ],
             "burggreveplatsen": [
