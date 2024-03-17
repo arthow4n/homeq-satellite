@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-03-17T21:44:18.479Z",
+  "lastUpdatedAt": "2024-03-17T22:45:46.003Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -79749,6 +79749,19 @@
                 "$districtName": "bergum",
                 "last_accept": 11,
                 "$last_seen": "2024-01-02T14:36:48.892Z"
+              },
+              {
+                "id": 118123,
+                "rent": 16900,
+                "area": 118,
+                "street": "östra björredsvägen",
+                "street_number": "22c",
+                "city": "göteborg ",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bergum",
+                "last_accept": 88,
+                "$last_seen": "2024-03-17T21:44:18.479Z"
               }
             ]
           }
