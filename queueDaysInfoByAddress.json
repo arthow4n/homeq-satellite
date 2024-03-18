@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-03-18T08:48:39.238Z",
+  "lastUpdatedAt": "2024-03-18T09:44:10.856Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -40420,6 +40420,19 @@
                 "$districtName": "göteborgs domkyrkodistrikt",
                 "last_accept": 1952,
                 "$last_seen": "2024-02-27T07:36:22.452Z"
+              },
+              {
+                "id": 118067,
+                "rent": 6500,
+                "area": 39,
+                "street": "storgatan",
+                "street_number": "24",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs domkyrkodistrikt",
+                "last_accept": 1907,
+                "$last_seen": "2024-03-18T08:48:39.238Z"
               }
             ],
             "ranängsgatan": [
@@ -42708,6 +42721,19 @@
                 "$districtName": "lundby",
                 "last_accept": 1533,
                 "$last_seen": "2024-02-19T10:38:25.608Z"
+              },
+              {
+                "id": 118879,
+                "rent": 6978,
+                "area": 54,
+                "street": "arvid lindmansgatan",
+                "street_number": "14 d",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1603,
+                "$last_seen": "2024-03-18T08:48:39.238Z"
               }
             ],
             "södra säterigatan": [
@@ -75410,6 +75436,19 @@
                 "$districtName": "askim",
                 "last_accept": 4,
                 "$last_seen": "2024-03-11T09:34:00.125Z"
+              },
+              {
+                "id": 117829,
+                "rent": 7522,
+                "area": 33,
+                "street": "sisjöbäckens väg",
+                "street_number": "4",
+                "city": "askim",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 7,
+                "$last_seen": "2024-03-18T08:48:39.238Z"
               }
             ],
             "kobbegården": [
@@ -90585,6 +90624,19 @@
                 "$districtName": "hyllie",
                 "last_accept": 412,
                 "$last_seen": "2024-03-07T12:48:50.089Z"
+              },
+              {
+                "id": 117454,
+                "rent": 10523,
+                "area": 60,
+                "street": "tors gränd",
+                "street_number": "16",
+                "city": "malmö",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "hyllie",
+                "last_accept": 299,
+                "$last_seen": "2024-03-18T08:48:39.238Z"
               }
             ],
             "allétorget": [
@@ -90691,6 +90743,19 @@
                 "$districtName": "hyllie",
                 "last_accept": 54,
                 "$last_seen": "2024-03-01T11:35:14.198Z"
+              },
+              {
+                "id": 118592,
+                "rent": 9877,
+                "area": 50,
+                "street": "allétorget",
+                "street_number": "1",
+                "city": "malmö",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "hyllie",
+                "last_accept": 333,
+                "$last_seen": "2024-03-18T08:48:39.238Z"
               }
             ],
             "bures gata": [
@@ -101534,6 +101599,29 @@
                 "$districtName": "linköpings domkyrkodistrikt",
                 "last_accept": 587,
                 "$last_seen": "2024-03-18T07:44:26.349Z"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "uppsala län": {
+      "uppsala": {
+        "uppsala": {
+          "läby": {
+            "smaragdvägen": [
+              {
+                "id": 117859,
+                "rent": 5917,
+                "area": 34,
+                "street": "smaragdvägen",
+                "street_number": "6",
+                "city": "uppsala",
+                "municipality": "uppsala",
+                "county": "uppsala län",
+                "$districtName": "läby",
+                "last_accept": 93,
+                "$last_seen": "2024-03-18T08:48:39.238Z"
               }
             ]
           }
