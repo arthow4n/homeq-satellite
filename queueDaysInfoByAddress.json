@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-03-18T07:44:26.349Z",
+  "lastUpdatedAt": "2024-03-18T08:48:39.238Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -42000,6 +42000,19 @@
                 "$districtName": "lundby",
                 "last_accept": 1327,
                 "$last_seen": "2024-02-26T09:35:48.839Z"
+              },
+              {
+                "id": 118303,
+                "rent": 8745,
+                "area": 43,
+                "street": "fyrklöversgatan",
+                "street_number": "17",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 599,
+                "$last_seen": "2024-03-18T07:44:26.349Z"
               }
             ],
             "ö keillersgatan": [
@@ -95864,25 +95877,6 @@
               }
             ]
           }
-        },
-        "lund": {
-          "torn": {
-            "vitstorksvägen": [
-              {
-                "id": 118422,
-                "rent": 14159,
-                "area": 99,
-                "street": "vitstorksvägen",
-                "street_number": "5",
-                "city": "lund",
-                "municipality": "lund",
-                "county": "skåne län",
-                "$districtName": "torn",
-                "last_accept": 7,
-                "$last_seen": "2024-03-15T11:44:32.430Z"
-              }
-            ]
-          }
         }
       }
     },
@@ -101494,6 +101488,23 @@
               }
             ]
           },
+          "linköpings sankt lars": {
+            "nya tanneforsvägen": [
+              {
+                "id": 117785,
+                "rent": 5585,
+                "area": 52,
+                "street": "nya tanneforsvägen",
+                "street_number": "15 a",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "linköpings sankt lars",
+                "last_accept": 980,
+                "$last_seen": "2024-03-18T07:44:26.349Z"
+              }
+            ]
+          },
           "linköpings domkyrkodistrikt": {
             "apotekaregatan": [
               {
@@ -101508,6 +101519,21 @@
                 "$districtName": "linköpings domkyrkodistrikt",
                 "last_accept": 1397,
                 "$last_seen": "2024-03-15T10:48:44.637Z"
+              }
+            ],
+            "klostergatan": [
+              {
+                "id": 119072,
+                "rent": 5490,
+                "area": 48,
+                "street": "klostergatan",
+                "street_number": "52b",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "linköpings domkyrkodistrikt",
+                "last_accept": 587,
+                "$last_seen": "2024-03-18T07:44:26.349Z"
               }
             ]
           }
