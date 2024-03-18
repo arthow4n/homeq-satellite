@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-03-18T16:50:29.081Z",
+  "lastUpdatedAt": "2024-03-18T17:45:29.132Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -60982,6 +60982,19 @@
                 "$districtName": "högsbo",
                 "last_accept": 1077,
                 "$last_seen": "2024-03-07T14:35:27.266Z"
+              },
+              {
+                "id": 118880,
+                "rent": 6570,
+                "area": 43,
+                "street": "pennygången",
+                "street_number": "78",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 1013,
+                "$last_seen": "2024-03-18T16:50:29.081Z"
               }
             ],
             "skillingmyntsgatan": [
