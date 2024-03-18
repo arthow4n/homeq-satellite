@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-03-18T06:49:36.231Z",
+  "lastUpdatedAt": "2024-03-18T07:44:26.349Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -34940,6 +34940,19 @@
                 "$districtName": "nylöse",
                 "last_accept": 707,
                 "$last_seen": "2024-03-03T19:34:45.961Z"
+              },
+              {
+                "id": 118061,
+                "rent": 7017,
+                "area": 42,
+                "street": "sysslomansgatan",
+                "street_number": "39",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "nylöse",
+                "last_accept": 533,
+                "$last_seen": "2024-03-18T06:49:36.231Z"
               },
               {
                 "id": 118071,
@@ -71171,6 +71184,19 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1856,
                 "$last_seen": "2024-03-13T06:38:11.906Z"
+              },
+              {
+                "id": 118390,
+                "rent": 5432,
+                "area": 60,
+                "street": "sparvgatan",
+                "street_number": "3 b",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1912,
+                "$last_seen": "2024-03-18T06:49:36.231Z"
               }
             ],
             "rantmästaregatan": [
