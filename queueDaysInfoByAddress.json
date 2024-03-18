@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-03-18T14:47:15.426Z",
+  "lastUpdatedAt": "2024-03-18T15:43:17.832Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -69517,6 +69517,19 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1892,
                 "$last_seen": "2024-03-15T07:44:47.087Z"
+              },
+              {
+                "id": 118689,
+                "rent": 10112,
+                "area": 70,
+                "street": "st pauligatan",
+                "street_number": "28",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1749,
+                "$last_seen": "2024-03-18T14:47:15.426Z"
               }
             ],
             "norra gubberogatan": [
@@ -73319,6 +73332,19 @@
                 "$districtName": "göteborgs oscar fredrik",
                 "last_accept": 1882,
                 "$last_seen": "2024-03-04T14:34:55.163Z"
+              },
+              {
+                "id": 118870,
+                "rent": 5573,
+                "area": 46,
+                "street": "kryssdäcket",
+                "street_number": "2",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs oscar fredrik",
+                "last_accept": 1855,
+                "$last_seen": "2024-03-18T14:47:15.426Z"
               }
             ],
             "nordhemsgatan": [
@@ -98391,6 +98417,19 @@
                 "$districtName": "vantör",
                 "last_accept": 2402,
                 "$last_seen": "2024-02-08T13:34:34.642Z"
+              },
+              {
+                "id": 115519,
+                "rent": 7488,
+                "area": 38,
+                "street": "skebokvarnsvägen",
+                "street_number": "83",
+                "city": "bandhagen",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 1464,
+                "$last_seen": "2024-03-18T14:47:15.426Z"
               }
             ],
             "bjursätragatan": [
