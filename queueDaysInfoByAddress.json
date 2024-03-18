@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-03-18T13:44:22.056Z",
+  "lastUpdatedAt": "2024-03-18T14:47:15.426Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -31467,6 +31467,19 @@
                 "$last_seen": "2024-02-21T07:34:18.233Z"
               },
               {
+                "id": 118652,
+                "rent": 7968,
+                "area": 61,
+                "street": "västergatan",
+                "street_number": "15",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "annedal",
+                "last_accept": 1896,
+                "$last_seen": "2024-03-18T13:44:22.056Z"
+              },
+              {
                 "id": 118658,
                 "rent": 6861,
                 "area": 45,
@@ -39753,6 +39766,19 @@
                 "$districtName": "göteborgs domkyrkodistrikt",
                 "last_accept": 1936,
                 "$last_seen": "2024-02-05T11:35:24.279Z"
+              },
+              {
+                "id": 118813,
+                "rent": 8977,
+                "area": 74,
+                "street": "odinsgatan",
+                "street_number": "21",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs domkyrkodistrikt",
+                "last_accept": 3389,
+                "$last_seen": "2024-03-18T13:44:22.056Z"
               }
             ],
             "stampgatan": [
@@ -58095,6 +58121,19 @@
                 "$districtName": "askim",
                 "last_accept": 1271,
                 "$last_seen": "2024-03-05T07:33:54.214Z"
+              },
+              {
+                "id": 118881,
+                "rent": 5172,
+                "area": 28,
+                "street": "nergårdsvägen",
+                "street_number": "15",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 801,
+                "$last_seen": "2024-03-18T13:44:22.056Z"
               }
             ],
             "askims pilegårdsväg": [
@@ -64885,6 +64924,19 @@
                 "$districtName": "örgryte",
                 "last_accept": 1804,
                 "$last_seen": "2024-03-11T09:34:00.125Z"
+              },
+              {
+                "id": 117846,
+                "rent": 18324,
+                "area": 140,
+                "street": "prästgårdsängen",
+                "street_number": "16",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1862,
+                "$last_seen": "2024-03-18T13:44:22.056Z"
               },
               {
                 "id": 118655,
@@ -101723,24 +101775,65 @@
     "östergötlands län": {
       "linköping": {
         "linköping": {
-          "skäggetorp": {
-            "stiglötsgatan": [
+          "berga": {
+            "konstruktörsgatan": [
               {
-                "id": 111669,
-                "rent": 7125,
-                "area": 46,
-                "street": "stiglötsgatan",
-                "street_number": "45",
+                "id": 101566,
+                "rent": 8755,
+                "area": 59.8,
+                "street": "konstruktörsgatan",
+                "street_number": "28",
                 "city": "linköping",
                 "municipality": "linköping",
                 "county": "östergötlands län",
-                "$districtName": "skäggetorp",
-                "last_accept": 0,
-                "$last_seen": "2024-03-15T13:00:54.621Z"
+                "$districtName": "berga",
+                "last_accept": 1061,
+                "$last_seen": "2024-03-18T13:44:22.056Z"
+              },
+              {
+                "id": 116932,
+                "rent": 10227,
+                "area": 92.5,
+                "street": "konstruktörsgatan",
+                "street_number": "92",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "berga",
+                "last_accept": 1154,
+                "$last_seen": "2024-03-18T13:44:22.056Z"
               }
             ]
           },
           "linköpings domkyrkodistrikt": {
+            "bataljonsgatan": [
+              {
+                "id": 107388,
+                "rent": 11438,
+                "area": 68.9,
+                "street": "bataljonsgatan",
+                "street_number": "8",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "linköpings domkyrkodistrikt",
+                "last_accept": 178,
+                "$last_seen": "2024-03-18T13:44:22.056Z"
+              },
+              {
+                "id": 117151,
+                "rent": 6265,
+                "area": 31.5,
+                "street": "bataljonsgatan",
+                "street_number": "10",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "linköpings domkyrkodistrikt",
+                "last_accept": 236,
+                "$last_seen": "2024-03-18T13:44:22.056Z"
+              }
+            ],
             "kunskapslänken": [
               {
                 "id": 114494,
@@ -101784,6 +101877,23 @@
                 "$districtName": "linköpings domkyrkodistrikt",
                 "last_accept": 587,
                 "$last_seen": "2024-03-18T07:44:26.349Z"
+              }
+            ]
+          },
+          "skäggetorp": {
+            "stiglötsgatan": [
+              {
+                "id": 111669,
+                "rent": 7125,
+                "area": 46,
+                "street": "stiglötsgatan",
+                "street_number": "45",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "skäggetorp",
+                "last_accept": 0,
+                "$last_seen": "2024-03-15T13:00:54.621Z"
               }
             ]
           },
