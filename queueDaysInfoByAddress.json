@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-03-18T09:44:10.856Z",
+  "lastUpdatedAt": "2024-03-18T10:49:12.903Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -34230,6 +34230,19 @@
                 "$districtName": "biskopsgården",
                 "last_accept": 682,
                 "$last_seen": "2024-02-27T09:36:14.062Z"
+              },
+              {
+                "id": 116512,
+                "rent": 8737,
+                "area": 62,
+                "street": "temperaturgatan",
+                "street_number": "67",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "biskopsgården",
+                "last_accept": 667,
+                "$last_seen": "2024-03-18T09:44:10.856Z"
               }
             ],
             "lufttrycksgatan": [
@@ -35452,6 +35465,19 @@
                 "$districtName": "nylöse",
                 "last_accept": 1612,
                 "$last_seen": "2023-12-11T09:37:37.716Z"
+              },
+              {
+                "id": 118054,
+                "rent": 7300,
+                "area": 48,
+                "street": "björnekärrsgatan",
+                "street_number": "5d",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "nylöse",
+                "last_accept": 1498,
+                "$last_seen": "2024-03-18T09:44:10.856Z"
               }
             ],
             "hornsgatan": [
@@ -35668,6 +35694,19 @@
                 "$districtName": "tuve",
                 "last_accept": 561,
                 "$last_seen": "2024-02-19T09:34:26.593Z"
+              },
+              {
+                "id": 117098,
+                "rent": 12129,
+                "area": 74,
+                "street": "herman anderssons väg",
+                "street_number": "2",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tuve",
+                "last_accept": 921,
+                "$last_seen": "2024-03-18T09:44:10.856Z"
               }
             ],
             "arves marias väg": [
@@ -42013,6 +42052,19 @@
                 "$districtName": "lundby",
                 "last_accept": 1327,
                 "$last_seen": "2024-02-26T09:35:48.839Z"
+              },
+              {
+                "id": 117122,
+                "rent": 10185,
+                "area": 55,
+                "street": "fyrklöversgatan",
+                "street_number": "23",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 832,
+                "$last_seen": "2024-03-18T09:44:10.856Z"
               },
               {
                 "id": 118303,
@@ -70462,6 +70514,19 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1831,
                 "$last_seen": "2024-01-17T11:35:42.647Z"
+              },
+              {
+                "id": 116752,
+                "rent": 7937,
+                "area": 49,
+                "street": "liedstrandsgatan",
+                "street_number": "6",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1896,
+                "$last_seen": "2024-03-18T09:44:10.856Z"
               }
             ],
             "runebergsgatan": [
@@ -75449,6 +75514,19 @@
                 "$districtName": "askim",
                 "last_accept": 7,
                 "$last_seen": "2024-03-18T08:48:39.238Z"
+              },
+              {
+                "id": 117832,
+                "rent": 10748,
+                "area": 54,
+                "street": "sisjöbäckens väg",
+                "street_number": "24",
+                "city": "askim",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 0,
+                "$last_seen": "2024-03-18T09:44:10.856Z"
               }
             ],
             "kobbegården": [
@@ -76986,6 +77064,19 @@
                 "$last_seen": "2024-03-04T08:11:50.708Z"
               },
               {
+                "id": 117465,
+                "rent": 7263,
+                "area": 62,
+                "street": "smyckegatan",
+                "street_number": "18",
+                "city": "västra frölunda",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tynnered",
+                "last_accept": 1773,
+                "$last_seen": "2024-03-18T09:44:10.856Z"
+              },
+              {
                 "id": 117481,
                 "rent": 8905,
                 "area": 69,
@@ -77010,6 +77101,19 @@
                 "$districtName": "tynnered",
                 "last_accept": 1547,
                 "$last_seen": "2024-03-11T16:38:47.305Z"
+              },
+              {
+                "id": 118452,
+                "rent": 5409,
+                "area": 41,
+                "street": "smyckegatan",
+                "street_number": "25",
+                "city": "västra frölunda",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tynnered",
+                "last_accept": 1325,
+                "$last_seen": "2024-03-18T09:44:10.856Z"
               }
             ],
             "björkhöjdsgatan": [
@@ -80709,6 +80813,19 @@
                 "$districtName": "fässberg",
                 "last_accept": 1672,
                 "$last_seen": "2024-03-01T13:34:56.570Z"
+              },
+              {
+                "id": 116567,
+                "rent": 10252,
+                "area": 57,
+                "street": "åby allé",
+                "street_number": "13",
+                "city": "göteborg",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 1526,
+                "$last_seen": "2024-03-18T09:44:10.856Z"
               },
               {
                 "id": 116575,
