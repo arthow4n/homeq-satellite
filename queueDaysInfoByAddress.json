@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-03-18T10:49:12.903Z",
+  "lastUpdatedAt": "2024-03-18T11:43:52.189Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -31465,6 +31465,19 @@
                 "$districtName": "annedal",
                 "last_accept": 1869,
                 "$last_seen": "2024-02-21T07:34:18.233Z"
+              },
+              {
+                "id": 118658,
+                "rent": 6861,
+                "area": 45,
+                "street": "västergatan",
+                "street_number": "19",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "annedal",
+                "last_accept": 1837,
+                "$last_seen": "2024-03-18T10:49:12.903Z"
               }
             ],
             "övre husargatan": [
@@ -35707,6 +35720,19 @@
                 "$districtName": "tuve",
                 "last_accept": 921,
                 "$last_seen": "2024-03-18T09:44:10.856Z"
+              },
+              {
+                "id": 118075,
+                "rent": 8938,
+                "area": 45.2,
+                "street": "herman anderssons väg",
+                "street_number": "4",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tuve",
+                "last_accept": 238,
+                "$last_seen": "2024-03-18T10:49:12.903Z"
               }
             ],
             "arves marias väg": [
@@ -65550,6 +65576,19 @@
                 "$districtName": "örgryte",
                 "last_accept": 1877,
                 "$last_seen": "2024-03-12T07:34:20.757Z"
+              },
+              {
+                "id": 119192,
+                "rent": 13683,
+                "area": 102,
+                "street": "mejerigatan",
+                "street_number": "18",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1687,
+                "$last_seen": "2024-03-18T10:49:12.903Z"
               }
             ],
             "smörkärnegatan": [
@@ -72992,6 +73031,19 @@
                 "$districtName": "göteborgs oscar fredrik",
                 "last_accept": 1920,
                 "$last_seen": "2024-02-27T14:36:57.286Z"
+              },
+              {
+                "id": 118634,
+                "rent": 8748,
+                "area": 52,
+                "street": "jungmansgatan",
+                "street_number": "31d",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs oscar fredrik",
+                "last_accept": 1896,
+                "$last_seen": "2024-03-18T10:49:12.903Z"
               }
             ],
             "kryssdäcket": [
