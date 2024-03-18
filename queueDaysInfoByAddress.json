@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-03-18T15:43:17.832Z",
+  "lastUpdatedAt": "2024-03-18T16:50:29.081Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -71528,6 +71528,21 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1850,
                 "$last_seen": "2024-02-02T08:37:39.740Z"
+              }
+            ],
+            "l:a  redbergsgatan": [
+              {
+                "id": 117309,
+                "rent": 9312,
+                "area": 63,
+                "street": "l:a  redbergsgatan",
+                "street_number": "2",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1878,
+                "$last_seen": "2024-03-18T15:43:17.832Z"
               }
             ]
           },
