@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-03-18T11:43:52.189Z",
+  "lastUpdatedAt": "2024-03-18T13:01:08.983Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -34256,6 +34256,19 @@
                 "$districtName": "biskopsgården",
                 "last_accept": 667,
                 "$last_seen": "2024-03-18T09:44:10.856Z"
+              },
+              {
+                "id": 117100,
+                "rent": 8549,
+                "area": 64,
+                "street": "temperaturgatan",
+                "street_number": "1",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "biskopsgården",
+                "last_accept": 597,
+                "$last_seen": "2024-03-18T11:43:52.189Z"
               }
             ],
             "lufttrycksgatan": [
@@ -61283,6 +61296,19 @@
                 "$districtName": "högsbo",
                 "last_accept": 932,
                 "$last_seen": "2024-03-07T22:35:41.773Z"
+              },
+              {
+                "id": 118020,
+                "rent": 14022,
+                "area": 74,
+                "street": "skillingmyntsgatan",
+                "street_number": "6",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 422,
+                "$last_seen": "2024-03-18T11:43:52.189Z"
               }
             ],
             "sjupundsgatan": [
