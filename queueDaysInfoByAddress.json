@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-03-19T11:43:42.014Z",
+  "lastUpdatedAt": "2024-03-19T13:00:41.274Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -35342,6 +35342,19 @@
                 "$districtName": "nylöse",
                 "last_accept": 1399,
                 "$last_seen": "2023-08-23T07:42:16.447Z"
+              },
+              {
+                "id": 118392,
+                "rent": 5955,
+                "area": 53,
+                "street": "batterigatan",
+                "street_number": "2 b",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "nylöse",
+                "last_accept": 1834,
+                "$last_seen": "2024-03-19T11:43:42.014Z"
               }
             ],
             "gamlestadsvägen": [
@@ -95191,19 +95204,6 @@
                 "$last_seen": "2023-12-12T23:36:08.919Z"
               },
               {
-                "id": 110180,
-                "rent": 9782,
-                "area": 70,
-                "street": "sadelmakarebyn",
-                "street_number": "8c",
-                "city": "bunkeflostrand",
-                "municipality": "malmö",
-                "county": "skåne län",
-                "$districtName": "bunkeflo",
-                "last_accept": 51,
-                "$last_seen": "2024-03-15T13:00:54.621Z"
-              },
-              {
                 "id": 112679,
                 "rent": 9289,
                 "area": 69.7,
@@ -96344,6 +96344,25 @@
                 "$districtName": "veberöd",
                 "last_accept": 0,
                 "$last_seen": "2023-10-27T09:38:20.603Z"
+              }
+            ]
+          }
+        },
+        "lund": {
+          "lunds helgeand": {
+            "källby ängaväg": [
+              {
+                "id": 117959,
+                "rent": 8522,
+                "area": 50.5,
+                "street": "källby ängaväg",
+                "street_number": "4b",
+                "city": "lund",
+                "municipality": "lund",
+                "county": "skåne län",
+                "$districtName": "lunds helgeand",
+                "last_accept": 98,
+                "$last_seen": "2024-03-19T11:43:42.014Z"
               }
             ]
           }
