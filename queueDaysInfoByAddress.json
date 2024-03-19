@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-03-19T09:43:41.495Z",
+  "lastUpdatedAt": "2024-03-19T10:48:17.073Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -42145,6 +42145,19 @@
                 "$last_seen": "2024-03-19T07:42:58.724Z"
               },
               {
+                "id": 118272,
+                "rent": 7884,
+                "area": 83,
+                "street": "fyrklöversgatan",
+                "street_number": "48",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1883,
+                "$last_seen": "2024-03-19T09:43:41.495Z"
+              },
+              {
                 "id": 118303,
                 "rent": 8745,
                 "area": 43,
@@ -47403,6 +47416,19 @@
                 "$districtName": "kortedala",
                 "last_accept": 1612,
                 "$last_seen": "2023-12-13T15:37:18.513Z"
+              },
+              {
+                "id": 116242,
+                "rent": 8142,
+                "area": 71,
+                "street": "nymånegatan",
+                "street_number": "19",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "kortedala",
+                "last_accept": 1707,
+                "$last_seen": "2024-03-19T09:43:41.495Z"
               }
             ],
             "aprilgatan": [
@@ -69136,6 +69162,19 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1890,
                 "$last_seen": "2024-03-12T14:35:56.947Z"
+              },
+              {
+                "id": 118671,
+                "rent": 15174,
+                "area": 112,
+                "street": "danska vägen",
+                "street_number": "84d",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1896,
+                "$last_seen": "2024-03-19T09:43:41.495Z"
               }
             ],
             "mäster johansgatan": [
@@ -102000,6 +102039,21 @@
                 "$districtName": "skäggetorp",
                 "last_accept": 0,
                 "$last_seen": "2024-03-15T13:00:54.621Z"
+              }
+            ],
+            "fogdegatan": [
+              {
+                "id": 118630,
+                "rent": 5564,
+                "area": 33,
+                "street": "fogdegatan",
+                "street_number": "45",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "skäggetorp",
+                "last_accept": 277,
+                "$last_seen": "2024-03-19T09:43:41.495Z"
               }
             ]
           },
