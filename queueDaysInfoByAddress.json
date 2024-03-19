@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-03-19T07:42:58.724Z",
+  "lastUpdatedAt": "2024-03-19T08:46:59.306Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -42132,6 +42132,19 @@
                 "$last_seen": "2024-03-18T09:44:10.856Z"
               },
               {
+                "id": 117617,
+                "rent": 8837,
+                "area": 43,
+                "street": "fyrklöversgatan",
+                "street_number": "25",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 310,
+                "$last_seen": "2024-03-19T07:42:58.724Z"
+              },
+              {
                 "id": 118303,
                 "rent": 8745,
                 "area": 43,
@@ -65669,6 +65682,19 @@
                 "$last_seen": "2024-03-12T07:34:20.757Z"
               },
               {
+                "id": 119027,
+                "rent": 6368,
+                "area": 60,
+                "street": "mejerigatan",
+                "street_number": "10",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1867,
+                "$last_seen": "2024-03-19T07:42:58.724Z"
+              },
+              {
                 "id": 119192,
                 "rent": 13683,
                 "area": 102,
@@ -67605,6 +67631,19 @@
                 "$districtName": "örgryte",
                 "last_accept": 746,
                 "$last_seen": "2024-03-04T11:20:23.223Z"
+              },
+              {
+                "id": 116783,
+                "rent": 10462,
+                "area": 54,
+                "street": "tändsticksgatan",
+                "street_number": "2",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1428,
+                "$last_seen": "2024-03-19T07:42:58.724Z"
               },
               {
                 "id": 116785,
@@ -70737,19 +70776,6 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1742,
                 "$last_seen": "2023-11-10T11:40:09.130Z"
-              },
-              {
-                "id": 116759,
-                "rent": 7307,
-                "area": 49,
-                "street": "runebergsgatan",
-                "street_number": "2",
-                "city": "göteborg",
-                "municipality": "göteborg",
-                "county": "västra götalands län",
-                "$districtName": "göteborgs sankt pauli",
-                "last_accept": 1893,
-                "$last_seen": "2024-03-15T10:48:44.637Z"
               }
             ],
             "redbergsvägen": [
@@ -77285,6 +77311,19 @@
                 "$districtName": "tynnered",
                 "last_accept": 1547,
                 "$last_seen": "2024-03-11T16:38:47.305Z"
+              },
+              {
+                "id": 117982,
+                "rent": 11676,
+                "area": 106,
+                "street": "smyckegatan",
+                "street_number": "55",
+                "city": "västra frölunda",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tynnered",
+                "last_accept": 1870,
+                "$last_seen": "2024-03-19T07:42:58.724Z"
               },
               {
                 "id": 118452,
