@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-03-19T08:46:59.306Z",
+  "lastUpdatedAt": "2024-03-19T09:43:41.495Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -77324,19 +77324,6 @@
                 "$districtName": "tynnered",
                 "last_accept": 1870,
                 "$last_seen": "2024-03-19T07:42:58.724Z"
-              },
-              {
-                "id": 118452,
-                "rent": 5409,
-                "area": 41,
-                "street": "smyckegatan",
-                "street_number": "25",
-                "city": "västra frölunda",
-                "municipality": "göteborg",
-                "county": "västra götalands län",
-                "$districtName": "tynnered",
-                "last_accept": 1325,
-                "$last_seen": "2024-03-18T09:44:10.856Z"
               }
             ],
             "björkhöjdsgatan": [
@@ -81062,6 +81049,19 @@
                 "$districtName": "fässberg",
                 "last_accept": 1146,
                 "$last_seen": "2024-03-01T10:39:00.176Z"
+              },
+              {
+                "id": 118207,
+                "rent": 10338,
+                "area": 56,
+                "street": "åby allé",
+                "street_number": "61",
+                "city": "göteborg",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 1466,
+                "$last_seen": "2024-03-19T08:46:59.306Z"
               }
             ],
             "åbyvägen": [
@@ -102003,6 +102003,36 @@
               }
             ]
           },
+          "landeryd": {
+            "ekholmsvägen": [
+              {
+                "id": 112362,
+                "rent": 6780,
+                "area": 65.5,
+                "street": "ekholmsvägen",
+                "street_number": "98",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "landeryd",
+                "last_accept": 114,
+                "$last_seen": "2024-03-19T08:46:59.306Z"
+              },
+              {
+                "id": 117765,
+                "rent": 7863,
+                "area": 77.5,
+                "street": "ekholmsvägen",
+                "street_number": "98",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "landeryd",
+                "last_accept": 236,
+                "$last_seen": "2024-03-15T11:44:32.430Z"
+              }
+            ]
+          },
           "slaka": {
             "ada arwedssons gata": [
               {
@@ -102017,23 +102047,6 @@
                 "$districtName": "slaka",
                 "last_accept": 926,
                 "$last_seen": "2024-03-15T10:48:44.637Z"
-              }
-            ]
-          },
-          "landeryd": {
-            "ekholmsvägen": [
-              {
-                "id": 117765,
-                "rent": 7863,
-                "area": 77.5,
-                "street": "ekholmsvägen",
-                "street_number": "98",
-                "city": "linköping",
-                "municipality": "linköping",
-                "county": "östergötlands län",
-                "$districtName": "landeryd",
-                "last_accept": 236,
-                "$last_seen": "2024-03-15T11:44:32.430Z"
               }
             ]
           },
