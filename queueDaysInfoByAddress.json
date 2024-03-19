@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-03-19T16:53:12.163Z",
+  "lastUpdatedAt": "2024-03-19T17:46:06.533Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -102280,6 +102280,21 @@
                 "$districtName": "linköpings sankt lars",
                 "last_accept": 980,
                 "$last_seen": "2024-03-18T07:44:26.349Z"
+              }
+            ],
+            "linnégatan": [
+              {
+                "id": 119402,
+                "rent": 10002,
+                "area": 75,
+                "street": "linnégatan",
+                "street_number": "8",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "linköpings sankt lars",
+                "last_accept": 1154,
+                "$last_seen": "2024-03-19T16:53:12.163Z"
               }
             ]
           }
