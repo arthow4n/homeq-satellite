@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-03-19T15:46:05.844Z",
+  "lastUpdatedAt": "2024-03-19T16:53:12.163Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -33812,6 +33812,19 @@
                 "$districtName": "biskopsgården",
                 "last_accept": 1772,
                 "$last_seen": "2024-02-29T07:35:13.622Z"
+              },
+              {
+                "id": 118757,
+                "rent": 10665,
+                "area": 83,
+                "street": "långströmsgatan",
+                "street_number": "38b",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "biskopsgården",
+                "last_accept": 1486,
+                "$last_seen": "2024-03-19T15:46:05.844Z"
               }
             ],
             "temperaturgatan": [
@@ -66124,6 +66137,19 @@
                 "$districtName": "örgryte",
                 "last_accept": 1424,
                 "$last_seen": "2024-01-18T13:37:42.324Z"
+              },
+              {
+                "id": 114841,
+                "rent": 10322,
+                "area": 54,
+                "street": "smörkärnegatan",
+                "street_number": "25",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1791,
+                "$last_seen": "2024-03-19T15:46:05.844Z"
               }
             ],
             "gräddgatan": [
@@ -81772,6 +81798,19 @@
                 "$districtName": "örgryte",
                 "last_accept": 1362,
                 "$last_seen": "2024-03-15T13:44:52.946Z"
+              },
+              {
+                "id": 118869,
+                "rent": 10115,
+                "area": 54,
+                "street": "smörkärnegatan",
+                "street_number": "29",
+                "city": "göteborg",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1615,
+                "$last_seen": "2024-03-19T15:46:05.844Z"
               }
             ]
           }
@@ -102057,6 +102096,19 @@
                 "$districtName": "berga",
                 "last_accept": 1154,
                 "$last_seen": "2024-03-18T13:44:22.056Z"
+              },
+              {
+                "id": 118389,
+                "rent": 4075,
+                "area": 31,
+                "street": "konstruktörsgatan",
+                "street_number": "46",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "berga",
+                "last_accept": 15,
+                "$last_seen": "2024-03-19T15:46:05.844Z"
               }
             ]
           },
