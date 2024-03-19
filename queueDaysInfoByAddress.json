@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-03-19T13:43:32.778Z",
+  "lastUpdatedAt": "2024-03-19T14:46:43.692Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -47048,6 +47048,19 @@
                 "$districtName": "kortedala",
                 "last_accept": 1542,
                 "$last_seen": "2023-07-11T09:41:55.789Z"
+              },
+              {
+                "id": 109289,
+                "rent": 5633,
+                "area": 39,
+                "street": "kalendervägen",
+                "street_number": "117d",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "kortedala",
+                "last_accept": 969,
+                "$last_seen": "2024-03-19T13:43:32.778Z"
               }
             ],
             "solvarvsgatan": [
@@ -50445,6 +50458,19 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1943,
                 "$last_seen": "2024-02-21T11:34:10.958Z"
+              },
+              {
+                "id": 116777,
+                "rent": 5267,
+                "area": 37,
+                "street": "södra viktoriagatan",
+                "street_number": "50",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1899,
+                "$last_seen": "2024-03-19T13:43:32.778Z"
               }
             ],
             "norra krokslättsgatan": [
@@ -66925,6 +66951,19 @@
                 "$districtName": "örgryte",
                 "last_accept": 1367,
                 "$last_seen": "2024-03-04T08:11:50.708Z"
+              },
+              {
+                "id": 117845,
+                "rent": 9784,
+                "area": 51,
+                "street": "separatorsgatan",
+                "street_number": "6",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1714,
+                "$last_seen": "2024-03-19T13:43:32.778Z"
               },
               {
                 "id": 118213,
