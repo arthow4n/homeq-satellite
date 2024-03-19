@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-03-19T13:00:41.274Z",
+  "lastUpdatedAt": "2024-03-19T13:43:32.778Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -32082,6 +32082,19 @@
                 "$districtName": "annedal",
                 "last_accept": 1859,
                 "$last_seen": "2024-02-14T12:49:36.129Z"
+              },
+              {
+                "id": 118852,
+                "rent": 10094,
+                "area": 62,
+                "street": "carl grimbergsgatan",
+                "street_number": "21",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "annedal",
+                "last_accept": 1896,
+                "$last_seen": "2024-03-19T13:00:41.274Z"
               }
             ],
             "risåsgatan": [
@@ -82506,6 +82519,19 @@
                 "$districtName": "kållered",
                 "last_accept": 1234,
                 "$last_seen": "2024-03-05T07:33:54.214Z"
+              },
+              {
+                "id": 118462,
+                "rent": 7807,
+                "area": 76,
+                "street": "våmmedalsvägen",
+                "street_number": "82",
+                "city": "kållered",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "kållered",
+                "last_accept": 1575,
+                "$last_seen": "2024-03-19T13:00:41.274Z"
               }
             ],
             "streteredsvägen": [
@@ -95202,6 +95228,19 @@
                 "$districtName": "bunkeflo",
                 "last_accept": 0,
                 "$last_seen": "2023-12-12T23:36:08.919Z"
+              },
+              {
+                "id": 110180,
+                "rent": 9782,
+                "area": 70,
+                "street": "sadelmakarebyn",
+                "street_number": "8c",
+                "city": "bunkeflostrand",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "bunkeflo",
+                "last_accept": 39,
+                "$last_seen": "2024-03-19T13:00:41.274Z"
               },
               {
                 "id": 112679,
