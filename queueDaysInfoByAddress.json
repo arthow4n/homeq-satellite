@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-03-20T06:50:23.411Z",
+  "lastUpdatedAt": "2024-03-20T07:43:37.732Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -47005,6 +47005,19 @@
                 "$districtName": "bergsjön",
                 "last_accept": 1699,
                 "$last_seen": "2023-09-13T06:47:52.977Z"
+              },
+              {
+                "id": 118000,
+                "rent": 5000,
+                "area": 34,
+                "street": "galileisgata",
+                "street_number": "13",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bergsjön",
+                "last_accept": 761,
+                "$last_seen": "2024-03-20T06:50:23.411Z"
               }
             ]
           },
@@ -102047,6 +102060,19 @@
                 "$districtName": "hammarby",
                 "last_accept": 191,
                 "$last_seen": "2024-02-29T10:41:02.932Z"
+              },
+              {
+                "id": 118358,
+                "rent": 7292,
+                "area": 26,
+                "street": "dragonvägen",
+                "street_number": "19a",
+                "city": "stockholm",
+                "municipality": "upplands väsby",
+                "county": "stockholms län",
+                "$districtName": "hammarby",
+                "last_accept": 173,
+                "$last_seen": "2024-03-20T06:50:23.411Z"
               },
               {
                 "id": 119361,
