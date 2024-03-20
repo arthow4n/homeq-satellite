@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-03-20T15:45:55.497Z",
+  "lastUpdatedAt": "2024-03-20T16:51:47.545Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -102140,6 +102140,19 @@
                 "$districtName": "österhaninge",
                 "last_accept": 143,
                 "$last_seen": "2024-03-15T14:47:01.352Z"
+              },
+              {
+                "id": 118225,
+                "rent": 12681,
+                "area": 57.6,
+                "street": "vardövägen",
+                "street_number": "49",
+                "city": "stockholm",
+                "municipality": "haninge",
+                "county": "stockholms län",
+                "$districtName": "österhaninge",
+                "last_accept": 284,
+                "$last_seen": "2024-03-20T15:45:55.497Z"
               },
               {
                 "id": 118226,
