@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-03-20T10:48:23.999Z",
+  "lastUpdatedAt": "2024-03-20T11:43:48.065Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -53676,6 +53676,19 @@
                 "$districtName": "göteborgs vasa",
                 "last_accept": 1716,
                 "$last_seen": "2024-03-11T07:33:54.672Z"
+              },
+              {
+                "id": 118459,
+                "rent": 4719,
+                "area": 20,
+                "street": "karl gustavsgatan",
+                "street_number": "47",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs vasa",
+                "last_accept": 1604,
+                "$last_seen": "2024-03-20T10:48:23.999Z"
               }
             ],
             "götabergsgatan": [
@@ -93763,6 +93776,19 @@
                 "$districtName": "limhamn",
                 "last_accept": 11,
                 "$last_seen": "2024-03-04T13:35:24.027Z"
+              },
+              {
+                "id": 118353,
+                "rent": 8519,
+                "area": 42,
+                "street": "högatan",
+                "street_number": "14",
+                "city": "limhamn",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "limhamn",
+                "last_accept": 20,
+                "$last_seen": "2024-03-20T10:48:23.999Z"
               }
             ],
             "höbalsgatan": [
@@ -94549,6 +94575,19 @@
                 "$districtName": "limhamn",
                 "last_accept": 294,
                 "$last_seen": "2024-02-16T11:34:25.802Z"
+              },
+              {
+                "id": 119089,
+                "rent": 12115,
+                "area": 68,
+                "street": "blåsebergavägen",
+                "street_number": "12",
+                "city": "limhamn",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "limhamn",
+                "last_accept": 23,
+                "$last_seen": "2024-03-20T10:48:23.999Z"
               }
             ],
             "grönalundsgatan": [
@@ -97328,6 +97367,19 @@
                 "$districtName": "vantör",
                 "last_accept": 1974,
                 "$last_seen": "2024-03-03T22:35:35.981Z"
+              },
+              {
+                "id": 118580,
+                "rent": 4739,
+                "area": 26.6,
+                "street": "glanshammarsgatan",
+                "street_number": "43",
+                "city": "bandhagen",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 1512,
+                "$last_seen": "2024-03-20T10:48:23.999Z"
               }
             ],
             "bäverbäcksgränd": [
