@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-03-20T14:47:26.490Z",
+  "lastUpdatedAt": "2024-03-20T15:45:55.497Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -33814,6 +33814,19 @@
                 "$last_seen": "2024-02-29T07:35:13.622Z"
               },
               {
+                "id": 118403,
+                "rent": 10897,
+                "area": 83,
+                "street": "långströmsgatan",
+                "street_number": "14a",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "biskopsgården",
+                "last_accept": 1487,
+                "$last_seen": "2024-03-20T14:47:26.490Z"
+              },
+              {
                 "id": 118757,
                 "rent": 10665,
                 "area": 83,
@@ -64089,6 +64102,19 @@
                 "$districtName": "brämaregården",
                 "last_accept": 1524,
                 "$last_seen": "2023-11-24T07:35:21.886Z"
+              },
+              {
+                "id": 118850,
+                "rent": 6350,
+                "area": 53,
+                "street": "rudenschöldsgatan",
+                "street_number": "18a",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brämaregården",
+                "last_accept": 1583,
+                "$last_seen": "2024-03-20T14:47:26.490Z"
               }
             ],
             "sehlstedtsgatan": [
@@ -98810,6 +98836,19 @@
                 "$districtName": "vantör",
                 "last_accept": 1007,
                 "$last_seen": "2023-12-20T14:33:16.353Z"
+              },
+              {
+                "id": 118099,
+                "rent": 8985,
+                "area": 60,
+                "street": "bäverdammsgränd",
+                "street_number": "72",
+                "city": "bandhagen",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 1828,
+                "$last_seen": "2024-03-20T14:47:26.490Z"
               },
               {
                 "id": 118110,
