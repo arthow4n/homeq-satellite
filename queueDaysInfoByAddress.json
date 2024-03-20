@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-03-20T13:00:42.047Z",
+  "lastUpdatedAt": "2024-03-20T13:47:00.980Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -38378,6 +38378,19 @@
                 "$districtName": "masthugget",
                 "last_accept": 1820,
                 "$last_seen": "2024-01-03T14:37:47.886Z"
+              },
+              {
+                "id": 118122,
+                "rent": 6593,
+                "area": 37,
+                "street": "barlastgatan",
+                "street_number": "2",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "masthugget",
+                "last_accept": 1850,
+                "$last_seen": "2024-03-20T13:00:42.047Z"
               }
             ],
             "kjellmansgatan": [
@@ -89642,6 +89655,19 @@
                 "$districtName": "kirseberg",
                 "last_accept": 469,
                 "$last_seen": "2023-11-27T05:38:18.812Z"
+              },
+              {
+                "id": 118834,
+                "rent": 7475,
+                "area": 60,
+                "street": "rosendalsvägen",
+                "street_number": "3",
+                "city": "malmö",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "kirseberg",
+                "last_accept": 213,
+                "$last_seen": "2024-03-20T13:00:42.047Z"
               }
             ],
             "dalhemsgatan": [
@@ -100902,6 +100928,19 @@
                 "$districtName": "skarpnäck",
                 "last_accept": 1881,
                 "$last_seen": "2024-01-19T12:54:14.093Z"
+              },
+              {
+                "id": 118372,
+                "rent": 12145,
+                "area": 102,
+                "street": "tätorpsvägen",
+                "street_number": "21 a",
+                "city": "skarpnäck",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "skarpnäck",
+                "last_accept": 2021,
+                "$last_seen": "2024-03-20T13:00:42.047Z"
               }
             ]
           }
