@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-03-20T08:47:14.218Z",
+  "lastUpdatedAt": "2024-03-20T09:44:12.359Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -54264,6 +54264,19 @@
                 "$districtName": "göteborgs vasa",
                 "last_accept": 1820,
                 "$last_seen": "2024-01-16T13:37:54.511Z"
+              },
+              {
+                "id": 118425,
+                "rent": 13341,
+                "area": 65,
+                "street": "teatergatan",
+                "street_number": "32",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs vasa",
+                "last_accept": 1878,
+                "$last_seen": "2024-03-20T08:47:14.218Z"
               }
             ],
             "tegnérsgatan": [
@@ -55607,6 +55620,32 @@
                 "$districtName": "björkekärr",
                 "last_accept": 1883,
                 "$last_seen": "2024-03-05T22:36:03.870Z"
+              },
+              {
+                "id": 118087,
+                "rent": 9300,
+                "area": 64,
+                "street": "lådämnesgatan",
+                "street_number": "38",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "björkekärr",
+                "last_accept": 1898,
+                "$last_seen": "2024-03-20T08:47:14.218Z"
+              },
+              {
+                "id": 118095,
+                "rent": 8100,
+                "area": 54,
+                "street": "lådämnesgatan",
+                "street_number": "40",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "björkekärr",
+                "last_accept": 1835,
+                "$last_seen": "2024-03-20T08:47:14.218Z"
               }
             ],
             "stabbetorget": [
@@ -63095,6 +63134,19 @@
                 "$districtName": "brämaregården",
                 "last_accept": 1876,
                 "$last_seen": "2024-02-27T09:36:14.062Z"
+              },
+              {
+                "id": 118254,
+                "rent": 8601,
+                "area": 57,
+                "street": "wieselgrensplatsen",
+                "street_number": "13",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brämaregården",
+                "last_accept": 1898,
+                "$last_seen": "2024-03-20T08:47:14.218Z"
               }
             ],
             "fjärdingsgatan": [
@@ -63590,6 +63642,19 @@
                 "$districtName": "brämaregården",
                 "last_accept": 313,
                 "$last_seen": "2024-03-06T08:37:36.880Z"
+              },
+              {
+                "id": 118846,
+                "rent": 6600,
+                "area": 53,
+                "street": "nansensgatan",
+                "street_number": "8c",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brämaregården",
+                "last_accept": 1338,
+                "$last_seen": "2024-03-20T08:47:14.218Z"
               }
             ],
             "fryxellsgatan": [
@@ -102328,6 +102393,21 @@
                 "$districtName": "landeryd",
                 "last_accept": 236,
                 "$last_seen": "2024-03-15T11:44:32.430Z"
+              }
+            ],
+            "järdalavägen": [
+              {
+                "id": 116817,
+                "rent": 7253,
+                "area": 86.5,
+                "street": "järdalavägen",
+                "street_number": "56b",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "landeryd",
+                "last_accept": 5,
+                "$last_seen": "2024-03-20T08:47:14.218Z"
               }
             ]
           },
