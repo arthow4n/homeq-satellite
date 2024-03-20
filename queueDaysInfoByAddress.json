@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-03-20T11:43:48.065Z",
+  "lastUpdatedAt": "2024-03-20T13:00:42.047Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -89642,19 +89642,6 @@
                 "$districtName": "kirseberg",
                 "last_accept": 469,
                 "$last_seen": "2023-11-27T05:38:18.812Z"
-              },
-              {
-                "id": 118834,
-                "rent": 7475,
-                "area": 60,
-                "street": "rosendalsvägen",
-                "street_number": "3",
-                "city": "malmö",
-                "municipality": "malmö",
-                "county": "skåne län",
-                "$districtName": "kirseberg",
-                "last_accept": 208,
-                "$last_seen": "2024-03-15T10:48:44.637Z"
               }
             ],
             "dalhemsgatan": [
@@ -96621,6 +96608,25 @@
             ]
           }
         },
+        "dalby": {
+          "dalby": {
+            "tresädesgränden": [
+              {
+                "id": 117245,
+                "rent": 11140,
+                "area": 67,
+                "street": "tresädesgränden",
+                "street_number": "4a",
+                "city": "dalby",
+                "municipality": "lund",
+                "county": "skåne län",
+                "$districtName": "dalby",
+                "last_accept": 0,
+                "$last_seen": "2024-03-20T11:43:48.065Z"
+              }
+            ]
+          }
+        },
         "lund": {
           "lunds helgeand": {
             "källby ängaväg": [
@@ -102477,6 +102483,21 @@
                 "$districtName": "slaka",
                 "last_accept": 926,
                 "$last_seen": "2024-03-15T10:48:44.637Z"
+              }
+            ],
+            "johannes magnus väg": [
+              {
+                "id": 116493,
+                "rent": 5106,
+                "area": 35,
+                "street": "johannes magnus väg",
+                "street_number": "38b",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "slaka",
+                "last_accept": 414,
+                "$last_seen": "2024-03-20T11:43:48.065Z"
               }
             ]
           },
