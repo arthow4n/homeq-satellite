@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-03-20T07:43:37.732Z",
+  "lastUpdatedAt": "2024-03-20T08:47:14.218Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -55421,6 +55421,19 @@
                 "$last_seen": "2024-01-24T13:37:47.051Z"
               },
               {
+                "id": 113029,
+                "rent": 5674,
+                "area": 30,
+                "street": "smörslätten",
+                "street_number": "16",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "björkekärr",
+                "last_accept": 1392,
+                "$last_seen": "2024-03-20T07:43:37.732Z"
+              },
+              {
                 "id": 114320,
                 "rent": 6401,
                 "area": 38,
@@ -92935,6 +92948,19 @@
                 "$districtName": "slottsstaden",
                 "last_accept": 1317,
                 "$last_seen": "2023-10-10T05:42:12.117Z"
+              },
+              {
+                "id": 109353,
+                "rent": 30000,
+                "area": 239,
+                "street": "sergels väg",
+                "street_number": "13c",
+                "city": "malmö",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "slottsstaden",
+                "last_accept": 53,
+                "$last_seen": "2024-03-20T07:43:37.732Z"
               }
             ],
             "marietorps alle": [
@@ -96506,6 +96532,23 @@
                 "$districtName": "lunds helgeand",
                 "last_accept": 98,
                 "$last_seen": "2024-03-19T11:43:42.014Z"
+              }
+            ]
+          },
+          "lunds allhelgona": {
+            "möllevångsvägen": [
+              {
+                "id": 119983,
+                "rent": 8644,
+                "area": 52,
+                "street": "möllevångsvägen",
+                "street_number": "6",
+                "city": "lund",
+                "municipality": "lund",
+                "county": "skåne län",
+                "$districtName": "lunds allhelgona",
+                "last_accept": 259,
+                "$last_seen": "2024-03-20T07:43:37.732Z"
               }
             ]
           }
@@ -102180,6 +102223,19 @@
                 "$districtName": "linköpings domkyrkodistrikt",
                 "last_accept": 17,
                 "$last_seen": "2024-03-18T13:01:08.983Z"
+              },
+              {
+                "id": 118871,
+                "rent": 10094,
+                "area": 52,
+                "street": "kunskapslänken",
+                "street_number": "44",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "linköpings domkyrkodistrikt",
+                "last_accept": 6,
+                "$last_seen": "2024-03-20T07:43:37.732Z"
               }
             ],
             "apotekaregatan": [
