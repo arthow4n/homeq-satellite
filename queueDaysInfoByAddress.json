@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-03-21T15:45:30.618Z",
+  "lastUpdatedAt": "2024-03-21T16:53:35.420Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -46730,6 +46730,19 @@
                 "$last_seen": "2024-03-05T08:36:17.724Z"
               },
               {
+                "id": 117134,
+                "rent": 11162,
+                "area": 83,
+                "street": "atmosfärgatan",
+                "street_number": "17",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bergsjön",
+                "last_accept": 9,
+                "$last_seen": "2024-03-21T15:45:30.618Z"
+              },
+              {
                 "id": 117136,
                 "rent": 9121,
                 "area": 65,
@@ -75562,6 +75575,19 @@
                 "$districtName": "brunnsbo",
                 "last_accept": 1591,
                 "$last_seen": "2024-02-28T08:38:28.314Z"
+              },
+              {
+                "id": 118860,
+                "rent": 7339,
+                "area": 60,
+                "street": "poesigatan",
+                "street_number": "6",
+                "city": "hisings backa",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brunnsbo",
+                "last_accept": 1351,
+                "$last_seen": "2024-03-21T15:45:30.618Z"
               }
             ]
           }
