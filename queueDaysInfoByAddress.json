@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-03-21T09:44:12.187Z",
+  "lastUpdatedAt": "2024-03-21T10:48:00.353Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -44084,6 +44084,19 @@
                 "$districtName": "lundby",
                 "last_accept": 1767,
                 "$last_seen": "2023-12-15T11:35:01.819Z"
+              },
+              {
+                "id": 119070,
+                "rent": 7662,
+                "area": 64,
+                "street": "karl staaffsgatan",
+                "street_number": "6 b",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1898,
+                "$last_seen": "2024-03-21T09:44:12.187Z"
               }
             ],
             "wieselgrensplatsen": [
@@ -66791,6 +66804,19 @@
                 "$districtName": "örgryte",
                 "last_accept": 1716,
                 "$last_seen": "2024-02-20T22:36:37.568Z"
+              },
+              {
+                "id": 118014,
+                "rent": 7613,
+                "area": 35,
+                "street": "filmjölksgatan",
+                "street_number": "6",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1496,
+                "$last_seen": "2024-03-21T09:44:12.187Z"
               }
             ],
             "filmjölsgatan": [
@@ -84127,6 +84153,19 @@
                 "$districtName": "fässberg",
                 "last_accept": 1626,
                 "$last_seen": "2024-02-29T11:44:55.196Z"
+              },
+              {
+                "id": 118274,
+                "rent": 9211,
+                "area": 59,
+                "street": "berghemsgatan",
+                "street_number": "16",
+                "city": "mölndal",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 1897,
+                "$last_seen": "2024-03-21T09:44:12.187Z"
               }
             ],
             "marielundsgatan": [
@@ -94668,6 +94707,19 @@
                 "$last_seen": "2024-02-16T11:34:25.802Z"
               },
               {
+                "id": 117613,
+                "rent": 13665,
+                "area": 73,
+                "street": "blåsebergavägen",
+                "street_number": "32",
+                "city": "limhamn",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "limhamn",
+                "last_accept": 2,
+                "$last_seen": "2024-03-21T09:44:12.187Z"
+              },
+              {
                 "id": 119089,
                 "rent": 12115,
                 "area": 68,
@@ -94772,6 +94824,19 @@
                 "$districtName": "limhamn",
                 "last_accept": 641,
                 "$last_seen": "2024-03-04T08:11:50.708Z"
+              },
+              {
+                "id": 118339,
+                "rent": 8804,
+                "area": 55,
+                "street": "grönalundsgatan",
+                "street_number": "1a",
+                "city": "limhamn",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "limhamn",
+                "last_accept": 80,
+                "$last_seen": "2024-03-21T09:44:12.187Z"
               }
             ],
             "västra bernadottesgatan": [
