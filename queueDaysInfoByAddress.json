@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-03-21T13:00:35.673Z",
+  "lastUpdatedAt": "2024-03-21T13:46:39.111Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -85569,6 +85569,19 @@
                 "$districtName": "sofielund",
                 "last_accept": 627,
                 "$last_seen": "2023-06-08T07:43:04.020Z"
+              },
+              {
+                "id": 116526,
+                "rent": 7561,
+                "area": 67,
+                "street": "sofielundsvägen",
+                "street_number": "42 a",
+                "city": "malmö",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "sofielund",
+                "last_accept": 1735,
+                "$last_seen": "2024-03-21T13:00:35.673Z"
               }
             ],
             "spånehusvägen": [
