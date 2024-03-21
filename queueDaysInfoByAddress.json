@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-03-21T07:44:49.358Z",
+  "lastUpdatedAt": "2024-03-21T08:47:32.277Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -58318,6 +58318,19 @@
                 "$last_seen": "2024-02-21T10:38:27.355Z"
               },
               {
+                "id": 116266,
+                "rent": 10854,
+                "area": 75,
+                "street": "nergårdsvägen",
+                "street_number": "55",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 1378,
+                "$last_seen": "2024-03-21T07:44:49.358Z"
+              },
+              {
                 "id": 116310,
                 "rent": 11264,
                 "area": 75,
@@ -70837,6 +70850,19 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1868,
                 "$last_seen": "2024-02-19T09:34:26.593Z"
+              },
+              {
+                "id": 117331,
+                "rent": 11000,
+                "area": 86,
+                "street": "kobbarnas väg",
+                "street_number": "16",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1911,
+                "$last_seen": "2024-03-21T07:44:49.358Z"
               }
             ],
             "liedstrandsgatan": [
@@ -94512,6 +94538,19 @@
                 "$last_seen": "2024-01-11T13:38:52.380Z"
               },
               {
+                "id": 109434,
+                "rent": 9974,
+                "area": 44,
+                "street": "blåsebergavägen",
+                "street_number": "32",
+                "city": "limhamn",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "limhamn",
+                "last_accept": 108,
+                "$last_seen": "2024-03-21T07:44:49.358Z"
+              },
+              {
                 "id": 109994,
                 "rent": 11402,
                 "area": 68,
@@ -102395,94 +102434,6 @@
               }
             ]
           },
-          "linköpings domkyrkodistrikt": {
-            "bataljonsgatan": [
-              {
-                "id": 107388,
-                "rent": 11438,
-                "area": 68.9,
-                "street": "bataljonsgatan",
-                "street_number": "8",
-                "city": "linköping",
-                "municipality": "linköping",
-                "county": "östergötlands län",
-                "$districtName": "linköpings domkyrkodistrikt",
-                "last_accept": 178,
-                "$last_seen": "2024-03-18T13:44:22.056Z"
-              },
-              {
-                "id": 117151,
-                "rent": 6265,
-                "area": 31.5,
-                "street": "bataljonsgatan",
-                "street_number": "10",
-                "city": "linköping",
-                "municipality": "linköping",
-                "county": "östergötlands län",
-                "$districtName": "linköpings domkyrkodistrikt",
-                "last_accept": 236,
-                "$last_seen": "2024-03-18T13:44:22.056Z"
-              }
-            ],
-            "kunskapslänken": [
-              {
-                "id": 114494,
-                "rent": 13446,
-                "area": 71,
-                "street": "kunskapslänken",
-                "street_number": "48",
-                "city": "linköping",
-                "municipality": "linköping",
-                "county": "östergötlands län",
-                "$districtName": "linköpings domkyrkodistrikt",
-                "last_accept": 17,
-                "$last_seen": "2024-03-18T13:01:08.983Z"
-              },
-              {
-                "id": 118871,
-                "rent": 10094,
-                "area": 52,
-                "street": "kunskapslänken",
-                "street_number": "44",
-                "city": "linköping",
-                "municipality": "linköping",
-                "county": "östergötlands län",
-                "$districtName": "linköpings domkyrkodistrikt",
-                "last_accept": 6,
-                "$last_seen": "2024-03-20T07:43:37.732Z"
-              }
-            ],
-            "apotekaregatan": [
-              {
-                "id": 118995,
-                "rent": 6056,
-                "area": 57,
-                "street": "apotekaregatan",
-                "street_number": "10b",
-                "city": "linköping",
-                "municipality": "linköping",
-                "county": "östergötlands län",
-                "$districtName": "linköpings domkyrkodistrikt",
-                "last_accept": 1397,
-                "$last_seen": "2024-03-15T10:48:44.637Z"
-              }
-            ],
-            "klostergatan": [
-              {
-                "id": 119072,
-                "rent": 5490,
-                "area": 48,
-                "street": "klostergatan",
-                "street_number": "52b",
-                "city": "linköping",
-                "municipality": "linköping",
-                "county": "östergötlands län",
-                "$districtName": "linköpings domkyrkodistrikt",
-                "last_accept": 587,
-                "$last_seen": "2024-03-18T07:44:26.349Z"
-              }
-            ]
-          },
           "skäggetorp": {
             "stiglötsgatan": [
               {
@@ -102543,20 +102494,80 @@
                 "last_accept": 236,
                 "$last_seen": "2024-03-15T11:44:32.430Z"
               }
-            ],
-            "järdalavägen": [
+            ]
+          },
+          "linköpings domkyrkodistrikt": {
+            "kunskapslänken": [
               {
-                "id": 116817,
-                "rent": 7253,
-                "area": 86.5,
-                "street": "järdalavägen",
-                "street_number": "56b",
+                "id": 114494,
+                "rent": 13446,
+                "area": 71,
+                "street": "kunskapslänken",
+                "street_number": "48",
                 "city": "linköping",
                 "municipality": "linköping",
                 "county": "östergötlands län",
-                "$districtName": "landeryd",
-                "last_accept": 5,
-                "$last_seen": "2024-03-20T08:47:14.218Z"
+                "$districtName": "linköpings domkyrkodistrikt",
+                "last_accept": 17,
+                "$last_seen": "2024-03-18T13:01:08.983Z"
+              },
+              {
+                "id": 118871,
+                "rent": 10094,
+                "area": 52,
+                "street": "kunskapslänken",
+                "street_number": "44",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "linköpings domkyrkodistrikt",
+                "last_accept": 6,
+                "$last_seen": "2024-03-20T07:43:37.732Z"
+              }
+            ],
+            "bataljonsgatan": [
+              {
+                "id": 117151,
+                "rent": 6265,
+                "area": 31.5,
+                "street": "bataljonsgatan",
+                "street_number": "10",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "linköpings domkyrkodistrikt",
+                "last_accept": 236,
+                "$last_seen": "2024-03-18T13:44:22.056Z"
+              }
+            ],
+            "apotekaregatan": [
+              {
+                "id": 118995,
+                "rent": 6056,
+                "area": 57,
+                "street": "apotekaregatan",
+                "street_number": "10b",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "linköpings domkyrkodistrikt",
+                "last_accept": 1397,
+                "$last_seen": "2024-03-15T10:48:44.637Z"
+              }
+            ],
+            "klostergatan": [
+              {
+                "id": 119072,
+                "rent": 5490,
+                "area": 48,
+                "street": "klostergatan",
+                "street_number": "52b",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "linköpings domkyrkodistrikt",
+                "last_accept": 587,
+                "$last_seen": "2024-03-18T07:44:26.349Z"
               }
             ]
           },
