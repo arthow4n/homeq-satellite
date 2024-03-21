@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-03-21T11:44:38.111Z",
+  "lastUpdatedAt": "2024-03-21T13:00:35.673Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -34321,6 +34321,19 @@
                 "$districtName": "biskopsgården",
                 "last_accept": 597,
                 "$last_seen": "2024-03-18T11:43:52.189Z"
+              },
+              {
+                "id": 117268,
+                "rent": 6937,
+                "area": 49,
+                "street": "temperaturgatan",
+                "street_number": "35",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "biskopsgården",
+                "last_accept": 362,
+                "$last_seen": "2024-03-21T11:44:38.111Z"
               }
             ],
             "lufttrycksgatan": [
@@ -47016,6 +47029,19 @@
                 "$districtName": "bergsjön",
                 "last_accept": 1416,
                 "$last_seen": "2024-01-29T12:50:14.794Z"
+              },
+              {
+                "id": 117133,
+                "rent": 7470,
+                "area": 55,
+                "street": "universumsgatan",
+                "street_number": "24",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bergsjön",
+                "last_accept": 1296,
+                "$last_seen": "2024-03-21T11:44:38.111Z"
               }
             ],
             "galileisgata": [
@@ -76659,6 +76685,19 @@
                 "$districtName": "tynnered",
                 "last_accept": 1861,
                 "$last_seen": "2024-02-15T07:34:11.233Z"
+              },
+              {
+                "id": 118449,
+                "rent": 9654,
+                "area": 55,
+                "street": "smaragdgatan",
+                "street_number": "10 b",
+                "city": "västra frölunda",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tynnered",
+                "last_accept": 716,
+                "$last_seen": "2024-03-21T11:44:38.111Z"
               }
             ],
             "smyckegatan": [
@@ -77662,6 +77701,19 @@
                 "$districtName": "tynnered",
                 "last_accept": 1870,
                 "$last_seen": "2024-03-19T07:42:58.724Z"
+              },
+              {
+                "id": 118545,
+                "rent": 5631,
+                "area": 41,
+                "street": "smyckegatan",
+                "street_number": "55",
+                "city": "västra frölunda",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tynnered",
+                "last_accept": 1331,
+                "$last_seen": "2024-03-21T11:44:38.111Z"
               }
             ],
             "björkhöjdsgatan": [
@@ -85015,6 +85067,19 @@
                 "$districtName": "partille",
                 "last_accept": 1421,
                 "$last_seen": "2023-11-08T12:58:59.548Z"
+              },
+              {
+                "id": 116967,
+                "rent": 5854,
+                "area": 58,
+                "street": "länsmansvägen",
+                "street_number": "6 a",
+                "city": "jonsered",
+                "municipality": "partille",
+                "county": "västra götalands län",
+                "$districtName": "partille",
+                "last_accept": 1702,
+                "$last_seen": "2024-03-21T11:44:38.111Z"
               }
             ],
             "kyrkogatan": [
