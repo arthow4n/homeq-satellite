@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-03-21T08:47:32.277Z",
+  "lastUpdatedAt": "2024-03-21T09:44:12.187Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -90774,6 +90774,19 @@
                 "$districtName": "malmö sankt pauli",
                 "last_accept": 0,
                 "$last_seen": "2023-11-09T11:40:37.581Z"
+              },
+              {
+                "id": 118697,
+                "rent": 10494,
+                "area": 63,
+                "street": "södra långgatan",
+                "street_number": "23",
+                "city": "malmö",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "malmö sankt pauli",
+                "last_accept": 176,
+                "$last_seen": "2024-03-21T08:47:32.277Z"
               }
             ]
           },
@@ -95579,6 +95592,19 @@
                 "$districtName": "bunkeflo",
                 "last_accept": 1126,
                 "$last_seen": "2024-02-27T13:35:28.007Z"
+              },
+              {
+                "id": 116810,
+                "rent": 9077,
+                "area": 59,
+                "street": "sadelmakarebyn",
+                "street_number": "1t",
+                "city": "bunkeflostrand",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "bunkeflo",
+                "last_accept": 2,
+                "$last_seen": "2024-03-21T08:47:32.277Z"
               }
             ],
             "skomakarebyn": [
@@ -102493,6 +102519,21 @@
                 "$districtName": "landeryd",
                 "last_accept": 236,
                 "$last_seen": "2024-03-15T11:44:32.430Z"
+              }
+            ],
+            "valthornsgatan": [
+              {
+                "id": 118818,
+                "rent": 15437,
+                "area": 110,
+                "street": "valthornsgatan",
+                "street_number": "33",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "landeryd",
+                "last_accept": 6,
+                "$last_seen": "2024-03-21T08:47:32.277Z"
               }
             ]
           },
