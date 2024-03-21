@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-03-21T10:48:00.353Z",
+  "lastUpdatedAt": "2024-03-21T11:44:38.111Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -39567,6 +39567,19 @@
                 "$districtName": "göteborgs domkyrkodistrikt",
                 "last_accept": 1627,
                 "$last_seen": "2024-03-04T12:52:32.460Z"
+              },
+              {
+                "id": 118009,
+                "rent": 9395,
+                "area": 57,
+                "street": "bangårdsgatan",
+                "street_number": "19",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs domkyrkodistrikt",
+                "last_accept": 1677,
+                "$last_seen": "2024-03-21T10:48:00.353Z"
               }
             ],
             "folkungagatan": [
@@ -47003,19 +47016,6 @@
                 "$districtName": "bergsjön",
                 "last_accept": 1416,
                 "$last_seen": "2024-01-29T12:50:14.794Z"
-              },
-              {
-                "id": 117133,
-                "rent": 7470,
-                "area": 55,
-                "street": "universumsgatan",
-                "street_number": "24",
-                "city": "göteborg",
-                "municipality": "göteborg",
-                "county": "västra götalands län",
-                "$districtName": "bergsjön",
-                "last_accept": 1295,
-                "$last_seen": "2024-03-15T13:00:54.621Z"
               }
             ],
             "galileisgata": [
@@ -61242,6 +61242,19 @@
                 "$districtName": "högsbo",
                 "last_accept": 1013,
                 "$last_seen": "2024-03-18T16:50:29.081Z"
+              },
+              {
+                "id": 118884,
+                "rent": 6469,
+                "area": 43,
+                "street": "pennygången",
+                "street_number": "59",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 1116,
+                "$last_seen": "2024-03-21T10:48:00.353Z"
               }
             ],
             "skillingmyntsgatan": [
