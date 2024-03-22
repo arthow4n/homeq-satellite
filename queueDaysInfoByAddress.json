@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-03-22T08:47:47.355Z",
+  "lastUpdatedAt": "2024-03-22T09:46:04.731Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -35956,6 +35956,19 @@
                 "$districtName": "tuve",
                 "last_accept": 693,
                 "$last_seen": "2024-02-08T11:34:51.515Z"
+              },
+              {
+                "id": 118079,
+                "rent": 9031,
+                "area": 45,
+                "street": "arves marias väg",
+                "street_number": "10",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tuve",
+                "last_accept": 4,
+                "$last_seen": "2024-03-22T08:47:47.355Z"
               }
             ],
             "finlandsvägen": [
@@ -61686,6 +61699,19 @@
                 "$districtName": "högsbo",
                 "last_accept": 1163,
                 "$last_seen": "2024-02-12T11:34:09.947Z"
+              },
+              {
+                "id": 115835,
+                "rent": 10359,
+                "area": 53,
+                "street": "skillingmyntsgatan",
+                "street_number": "6",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 1243,
+                "$last_seen": "2024-03-22T08:47:47.355Z"
               },
               {
                 "id": 115837,
