@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-03-22T06:49:11.837Z",
+  "lastUpdatedAt": "2024-03-22T07:44:37.380Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -82948,6 +82948,19 @@
                 "$districtName": "kållered",
                 "last_accept": 1575,
                 "$last_seen": "2024-03-19T13:00:41.274Z"
+              },
+              {
+                "id": 119240,
+                "rent": 8720,
+                "area": 76,
+                "street": "våmmedalsvägen",
+                "street_number": "64",
+                "city": "kållered",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "kållered",
+                "last_accept": 1236,
+                "$last_seen": "2024-03-22T06:49:11.837Z"
               }
             ],
             "streteredsvägen": [
