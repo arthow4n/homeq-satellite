@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-03-22T14:48:41.015Z",
+  "lastUpdatedAt": "2024-03-22T15:46:59.876Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -102549,6 +102549,19 @@
                 "$last_seen": "2024-02-13T06:38:07.869Z"
               },
               {
+                "id": 116400,
+                "rent": 12681,
+                "area": 57.6,
+                "street": "vardövägen",
+                "street_number": "53",
+                "city": "stockholm",
+                "municipality": "haninge",
+                "county": "stockholms län",
+                "$districtName": "österhaninge",
+                "last_accept": 731,
+                "$last_seen": "2024-03-22T14:48:41.015Z"
+              },
+              {
                 "id": 116711,
                 "rent": 8536,
                 "area": 35,
@@ -102837,6 +102850,49 @@
     "östergötlands län": {
       "linköping": {
         "linköping": {
+          "berga": {
+            "konstruktörsgatan": [
+              {
+                "id": 108875,
+                "rent": 8859,
+                "area": 78,
+                "street": "konstruktörsgatan",
+                "street_number": "74",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "berga",
+                "last_accept": 5,
+                "$last_seen": "2024-03-22T14:48:41.015Z"
+              },
+              {
+                "id": 116932,
+                "rent": 10227,
+                "area": 92.5,
+                "street": "konstruktörsgatan",
+                "street_number": "92",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "berga",
+                "last_accept": 1154,
+                "$last_seen": "2024-03-18T13:44:22.056Z"
+              },
+              {
+                "id": 118389,
+                "rent": 4075,
+                "area": 31,
+                "street": "konstruktörsgatan",
+                "street_number": "46",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "berga",
+                "last_accept": 15,
+                "$last_seen": "2024-03-19T15:46:05.844Z"
+              }
+            ]
+          },
           "skäggetorp": {
             "stiglötsgatan": [
               {
@@ -102896,6 +102952,21 @@
                 "$districtName": "landeryd",
                 "last_accept": 1024,
                 "$last_seen": "2024-03-21T14:47:31.562Z"
+              }
+            ],
+            "ekholmens centrum": [
+              {
+                "id": 117764,
+                "rent": 4442,
+                "area": 48,
+                "street": "ekholmens centrum",
+                "street_number": "5",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "landeryd",
+                "last_accept": 29,
+                "$last_seen": "2024-03-22T14:48:41.015Z"
               }
             ],
             "valthornsgatan": [
@@ -103046,36 +103117,6 @@
                 "$districtName": "slaka",
                 "last_accept": 414,
                 "$last_seen": "2024-03-20T11:43:48.065Z"
-              }
-            ]
-          },
-          "berga": {
-            "konstruktörsgatan": [
-              {
-                "id": 116932,
-                "rent": 10227,
-                "area": 92.5,
-                "street": "konstruktörsgatan",
-                "street_number": "92",
-                "city": "linköping",
-                "municipality": "linköping",
-                "county": "östergötlands län",
-                "$districtName": "berga",
-                "last_accept": 1154,
-                "$last_seen": "2024-03-18T13:44:22.056Z"
-              },
-              {
-                "id": 118389,
-                "rent": 4075,
-                "area": 31,
-                "street": "konstruktörsgatan",
-                "street_number": "46",
-                "city": "linköping",
-                "municipality": "linköping",
-                "county": "östergötlands län",
-                "$districtName": "berga",
-                "last_accept": 15,
-                "$last_seen": "2024-03-19T15:46:05.844Z"
               }
             ]
           },
