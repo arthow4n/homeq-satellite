@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-03-22T10:49:53.802Z",
+  "lastUpdatedAt": "2024-03-22T11:44:58.627Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -97024,26 +97024,24 @@
             ]
           }
         },
-        "dalby": {
-          "dalby": {
-            "tresädesgränden": [
+        "lund": {
+          "östra torn": {
+            "vetenskapsgatan": [
               {
-                "id": 117245,
-                "rent": 11140,
-                "area": 67,
-                "street": "tresädesgränden",
+                "id": 113733,
+                "rent": 9701,
+                "area": 53,
+                "street": "vetenskapsgatan",
                 "street_number": "4a",
-                "city": "dalby",
+                "city": "lund",
                 "municipality": "lund",
                 "county": "skåne län",
-                "$districtName": "dalby",
-                "last_accept": 0,
-                "$last_seen": "2024-03-20T11:43:48.065Z"
+                "$districtName": "östra torn",
+                "last_accept": 718,
+                "$last_seen": "2024-03-22T10:49:53.802Z"
               }
             ]
-          }
-        },
-        "lund": {
+          },
           "lunds helgeand": {
             "källby ängaväg": [
               {
@@ -97075,6 +97073,25 @@
                 "$districtName": "lunds allhelgona",
                 "last_accept": 259,
                 "$last_seen": "2024-03-20T07:43:37.732Z"
+              }
+            ]
+          }
+        },
+        "dalby": {
+          "dalby": {
+            "tresädesgränden": [
+              {
+                "id": 117245,
+                "rent": 11140,
+                "area": 67,
+                "street": "tresädesgränden",
+                "street_number": "4a",
+                "city": "dalby",
+                "municipality": "lund",
+                "county": "skåne län",
+                "$districtName": "dalby",
+                "last_accept": 0,
+                "$last_seen": "2024-03-20T11:43:48.065Z"
               }
             ]
           }
