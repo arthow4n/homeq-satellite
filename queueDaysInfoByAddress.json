@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-03-22T11:44:58.627Z",
+  "lastUpdatedAt": "2024-03-22T13:01:27.197Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -35070,6 +35070,19 @@
                 "$districtName": "nylöse",
                 "last_accept": 308,
                 "$last_seen": "2024-03-15T11:44:32.430Z"
+              },
+              {
+                "id": 118073,
+                "rent": 9670,
+                "area": 64.8,
+                "street": "sysslomansgatan",
+                "street_number": "38",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "nylöse",
+                "last_accept": 800,
+                "$last_seen": "2024-03-22T11:44:58.627Z"
               }
             ],
             "hinderbanan": [
@@ -77857,6 +77870,19 @@
                 "$districtName": "tynnered",
                 "last_accept": 1331,
                 "$last_seen": "2024-03-21T11:44:38.111Z"
+              },
+              {
+                "id": 119424,
+                "rent": 10319,
+                "area": 95,
+                "street": "smyckegatan",
+                "street_number": "66",
+                "city": "västra frölunda",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tynnered",
+                "last_accept": 1464,
+                "$last_seen": "2024-03-22T11:44:58.627Z"
               }
             ],
             "björkhöjdsgatan": [
@@ -83039,6 +83065,19 @@
                 "$districtName": "kållered",
                 "last_accept": 1236,
                 "$last_seen": "2024-03-22T06:49:11.837Z"
+              },
+              {
+                "id": 119243,
+                "rent": 9074,
+                "area": 76,
+                "street": "våmmedalsvägen",
+                "street_number": "118",
+                "city": "kållered",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "kållered",
+                "last_accept": 1251,
+                "$last_seen": "2024-03-22T11:44:58.627Z"
               }
             ],
             "streteredsvägen": [
