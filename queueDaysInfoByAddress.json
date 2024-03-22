@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-03-22T09:46:04.731Z",
+  "lastUpdatedAt": "2024-03-22T10:49:53.802Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -45409,6 +45409,19 @@
                 "$last_seen": "2024-02-02T08:37:39.740Z"
               },
               {
+                "id": 115609,
+                "rent": 4750,
+                "area": 50,
+                "street": "galileis gata",
+                "street_number": "5",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bergsjön",
+                "last_accept": 1607,
+                "$last_seen": "2024-03-22T09:46:04.731Z"
+              },
+              {
                 "id": 116775,
                 "rent": 3644,
                 "area": 33,
@@ -61725,6 +61738,19 @@
                 "$districtName": "högsbo",
                 "last_accept": 1195,
                 "$last_seen": "2024-03-15T08:50:43.835Z"
+              },
+              {
+                "id": 117144,
+                "rent": 7116,
+                "area": 35,
+                "street": "skillingmyntsgatan",
+                "street_number": "8",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 1203,
+                "$last_seen": "2024-03-22T09:46:04.731Z"
               },
               {
                 "id": 117321,
@@ -102788,19 +102814,6 @@
                 "$districtName": "landeryd",
                 "last_accept": 1024,
                 "$last_seen": "2024-03-21T14:47:31.562Z"
-              },
-              {
-                "id": 117765,
-                "rent": 7863,
-                "area": 77.5,
-                "street": "ekholmsvägen",
-                "street_number": "98",
-                "city": "linköping",
-                "municipality": "linköping",
-                "county": "östergötlands län",
-                "$districtName": "landeryd",
-                "last_accept": 236,
-                "$last_seen": "2024-03-15T11:44:32.430Z"
               }
             ],
             "valthornsgatan": [
