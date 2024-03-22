@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-03-22T13:01:27.197Z",
+  "lastUpdatedAt": "2024-03-22T13:44:43.154Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -98912,6 +98912,19 @@
                 "$districtName": "vantör",
                 "last_accept": 1889,
                 "$last_seen": "2024-02-12T13:33:59.471Z"
+              },
+              {
+                "id": 116844,
+                "rent": 9973,
+                "area": 78,
+                "street": "askersundsgatan",
+                "street_number": "2",
+                "city": "bandhagen",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 1984,
+                "$last_seen": "2024-03-22T13:01:27.197Z"
               }
             ],
             "hagsätra torg": [
