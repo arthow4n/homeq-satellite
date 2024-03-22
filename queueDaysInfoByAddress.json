@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-03-22T07:44:37.380Z",
+  "lastUpdatedAt": "2024-03-22T08:47:47.355Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -46297,6 +46297,19 @@
                 "$districtName": "bergsjön",
                 "last_accept": 528,
                 "$last_seen": "2024-02-19T09:34:26.593Z"
+              },
+              {
+                "id": 117126,
+                "rent": 11588,
+                "area": 90,
+                "street": "kosmosgatan",
+                "street_number": "12",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bergsjön",
+                "last_accept": 7,
+                "$last_seen": "2024-03-22T07:44:37.380Z"
               }
             ],
             "atmosfärgatan": [
@@ -46728,6 +46741,19 @@
                 "$districtName": "bergsjön",
                 "last_accept": 86,
                 "$last_seen": "2024-03-05T08:36:17.724Z"
+              },
+              {
+                "id": 117131,
+                "rent": 11162,
+                "area": 83,
+                "street": "atmosfärgatan",
+                "street_number": "45",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bergsjön",
+                "last_accept": 328,
+                "$last_seen": "2024-03-22T07:44:37.380Z"
               },
               {
                 "id": 117134,
@@ -94876,6 +94902,19 @@
                 "$last_seen": "2024-03-21T09:44:12.187Z"
               },
               {
+                "id": 117921,
+                "rent": 6191,
+                "area": 24,
+                "street": "blåsebergavägen",
+                "street_number": "12",
+                "city": "limhamn",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "limhamn",
+                "last_accept": 8,
+                "$last_seen": "2024-03-22T07:44:37.380Z"
+              },
+              {
                 "id": 119089,
                 "rent": 12115,
                 "area": 68,
@@ -95813,19 +95852,6 @@
                 "$districtName": "bunkeflo",
                 "last_accept": 1126,
                 "$last_seen": "2024-02-27T13:35:28.007Z"
-              },
-              {
-                "id": 116810,
-                "rent": 9077,
-                "area": 59,
-                "street": "sadelmakarebyn",
-                "street_number": "1t",
-                "city": "bunkeflostrand",
-                "municipality": "malmö",
-                "county": "skåne län",
-                "$districtName": "bunkeflo",
-                "last_accept": 2,
-                "$last_seen": "2024-03-21T08:47:32.277Z"
               }
             ],
             "skomakarebyn": [
@@ -102822,6 +102848,21 @@
                 "$districtName": "linköpings domkyrkodistrikt",
                 "last_accept": 5,
                 "$last_seen": "2024-03-21T13:46:39.111Z"
+              }
+            ],
+            "berzeliigatan": [
+              {
+                "id": 118492,
+                "rent": 6690,
+                "area": 55,
+                "street": "berzeliigatan",
+                "street_number": "10",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "linköpings domkyrkodistrikt",
+                "last_accept": 1177,
+                "$last_seen": "2024-03-22T07:44:37.380Z"
               }
             ],
             "apotekaregatan": [
