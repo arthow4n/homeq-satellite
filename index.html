@@ -88,9 +88,9 @@
       const mainFilter = (x) => {
         return x
           .filter((r) =>
-            Array.isArray(r.short_lease)
-              ? r.short_lease.some((x) => !x)
-              : !r.short_lease
+            Array.isArray(r.is_short_lease)
+              ? r.is_short_lease.some((x) => !x)
+              : !r.is_short_lease
           )
           .filter((r) =>
             Array.isArray(r.audience)
