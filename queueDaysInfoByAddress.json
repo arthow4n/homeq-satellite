@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-03-25T06:51:05.015Z",
+  "lastUpdatedAt": "2024-03-25T07:44:36.083Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -58524,6 +58524,19 @@
                 "$districtName": "askim",
                 "last_accept": 801,
                 "$last_seen": "2024-03-18T13:44:22.056Z"
+              },
+              {
+                "id": 119181,
+                "rent": 7863,
+                "area": 63,
+                "street": "nergårdsvägen",
+                "street_number": "1",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 1532,
+                "$last_seen": "2024-03-25T06:51:05.015Z"
               }
             ],
             "askims pilegårdsväg": [
@@ -77870,6 +77883,19 @@
                 "$districtName": "tynnered",
                 "last_accept": 1870,
                 "$last_seen": "2024-03-19T07:42:58.724Z"
+              },
+              {
+                "id": 118522,
+                "rent": 7728,
+                "area": 69,
+                "street": "smyckegatan",
+                "street_number": "45",
+                "city": "västra frölunda",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tynnered",
+                "last_accept": 46,
+                "$last_seen": "2024-03-25T06:51:05.015Z"
               },
               {
                 "id": 118545,
