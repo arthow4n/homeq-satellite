@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-03-25T14:47:17.250Z",
+  "lastUpdatedAt": "2024-03-25T15:45:24.527Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -65524,6 +65524,19 @@
                 "$districtName": "örgryte",
                 "last_accept": 1737,
                 "$last_seen": "2024-03-14T08:36:59.351Z"
+              },
+              {
+                "id": 120513,
+                "rent": 13185,
+                "area": 116,
+                "street": "prästgårdsängen",
+                "street_number": "13",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1900,
+                "$last_seen": "2024-03-25T14:47:17.250Z"
               }
             ],
             "mejerigatan": [
@@ -97362,23 +97375,6 @@
               }
             ]
           },
-          "lunds domkyrkodistrikt": {
-            "tellusgatan": [
-              {
-                "id": 117741,
-                "rent": 7760,
-                "area": 48,
-                "street": "tellusgatan",
-                "street_number": "9a",
-                "city": "lund",
-                "municipality": "lund",
-                "county": "skåne län",
-                "$districtName": "lunds domkyrkodistrikt",
-                "last_accept": 392,
-                "$last_seen": "2024-03-25T13:00:43.849Z"
-              }
-            ]
-          },
           "lunds helgeand": {
             "källby ängaväg": [
               {
@@ -101864,6 +101860,19 @@
                 "$districtName": "bromma",
                 "last_accept": 1867,
                 "$last_seen": "2023-11-02T08:41:42.253Z"
+              },
+              {
+                "id": 120802,
+                "rent": 4675,
+                "area": 22,
+                "street": "brommabågen",
+                "street_number": "4",
+                "city": "bromma",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "bromma",
+                "last_accept": 1477,
+                "$last_seen": "2024-03-25T14:47:17.250Z"
               }
             ],
             "holbergsgatan": [
@@ -102088,6 +102097,21 @@
                 "$districtName": "spånga",
                 "last_accept": 1776,
                 "$last_seen": "2024-02-28T11:34:41.591Z"
+              }
+            ],
+            "skogängsvägen": [
+              {
+                "id": 117886,
+                "rent": 18649,
+                "area": 90,
+                "street": "skogängsvägen",
+                "street_number": "47 a",
+                "city": "spånga",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "spånga",
+                "last_accept": 27,
+                "$last_seen": "2024-03-25T14:47:17.250Z"
               }
             ],
             "ellen rydéns väg": [
@@ -103194,6 +103218,19 @@
                 "$last_seen": "2024-03-25T13:45:07.298Z"
               },
               {
+                "id": 109753,
+                "rent": 11163,
+                "area": 68.9,
+                "street": "bataljonsgatan",
+                "street_number": "10",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "linköpings domkyrkodistrikt",
+                "last_accept": 222,
+                "$last_seen": "2024-03-25T14:47:17.250Z"
+              },
+              {
                 "id": 117151,
                 "rent": 6265,
                 "area": 31.5,
@@ -103310,6 +103347,19 @@
                 "$last_seen": "2024-03-22T14:48:41.015Z"
               },
               {
+                "id": 116442,
+                "rent": 8858,
+                "area": 78,
+                "street": "konstruktörsgatan",
+                "street_number": "88",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "berga",
+                "last_accept": 5,
+                "$last_seen": "2024-03-25T14:47:17.250Z"
+              },
+              {
                 "id": 116932,
                 "rent": 10227,
                 "area": 92.5,
@@ -103334,6 +103384,19 @@
                 "$districtName": "berga",
                 "last_accept": 15,
                 "$last_seen": "2024-03-19T15:46:05.844Z"
+              },
+              {
+                "id": 120437,
+                "rent": 5007,
+                "area": 31,
+                "street": "konstruktörsgatan",
+                "street_number": "22",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "berga",
+                "last_accept": 3,
+                "$last_seen": "2024-03-25T14:47:17.250Z"
               }
             ],
             "ridderstads gata": [
