@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-03-25T07:44:36.083Z",
+  "lastUpdatedAt": "2024-03-25T08:49:48.133Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -33838,6 +33838,19 @@
                 "$districtName": "biskopsgården",
                 "last_accept": 1486,
                 "$last_seen": "2024-03-19T15:46:05.844Z"
+              },
+              {
+                "id": 118876,
+                "rent": 10357,
+                "area": 81,
+                "street": "långströmsgatan",
+                "street_number": "19a",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "biskopsgården",
+                "last_accept": 1890,
+                "$last_seen": "2024-03-25T07:44:36.083Z"
               }
             ],
             "temperaturgatan": [
@@ -78041,6 +78054,19 @@
                 "$districtName": "tynnered",
                 "last_accept": 1446,
                 "$last_seen": "2023-11-23T07:35:04.379Z"
+              },
+              {
+                "id": 119425,
+                "rent": 11434,
+                "area": 111,
+                "street": "björkhöjdsgatan",
+                "street_number": "45",
+                "city": "västra frölunda",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tynnered",
+                "last_accept": 1817,
+                "$last_seen": "2024-03-25T07:44:36.083Z"
               }
             ],
             "bergkristallsgatan": [
@@ -95043,6 +95069,19 @@
                 "$districtName": "limhamn",
                 "last_accept": 8,
                 "$last_seen": "2024-03-22T07:44:37.380Z"
+              },
+              {
+                "id": 119082,
+                "rent": 7697,
+                "area": 36,
+                "street": "blåsebergavägen",
+                "street_number": "8",
+                "city": "limhamn",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "limhamn",
+                "last_accept": 31,
+                "$last_seen": "2024-03-25T07:44:36.083Z"
               },
               {
                 "id": 119089,
