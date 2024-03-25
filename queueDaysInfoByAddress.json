@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-03-25T11:44:43.081Z",
+  "lastUpdatedAt": "2024-03-25T13:00:43.849Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -33814,6 +33814,19 @@
                 "$last_seen": "2024-02-29T07:35:13.622Z"
               },
               {
+                "id": 118394,
+                "rent": 6530,
+                "area": 41,
+                "street": "långströmsgatan",
+                "street_number": "34a",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "biskopsgården",
+                "last_accept": 998,
+                "$last_seen": "2024-03-25T11:44:43.081Z"
+              },
+              {
                 "id": 118403,
                 "rent": 10897,
                 "area": 83,
@@ -36233,6 +36246,19 @@
                 "$districtName": "tuve",
                 "last_accept": 594,
                 "$last_seen": "2024-02-21T07:34:18.233Z"
+              },
+              {
+                "id": 118520,
+                "rent": 12226,
+                "area": 75,
+                "street": "gunnestorpsvägen",
+                "street_number": "129",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tuve",
+                "last_accept": 810,
+                "$last_seen": "2024-03-25T11:44:43.081Z"
               }
             ],
             "fruktträdsgatan": [
@@ -66581,6 +66607,19 @@
                 "$districtName": "örgryte",
                 "last_accept": 1791,
                 "$last_seen": "2024-03-19T15:46:05.844Z"
+              },
+              {
+                "id": 118082,
+                "rent": 7741,
+                "area": 35.01,
+                "street": "smörkärnegatan",
+                "street_number": "21",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1554,
+                "$last_seen": "2024-03-25T11:44:43.081Z"
               }
             ],
             "gräddgatan": [
@@ -74623,6 +74662,19 @@
                 "$districtName": "bäckebol",
                 "last_accept": 737,
                 "$last_seen": "2024-01-23T07:35:16.050Z"
+              },
+              {
+                "id": 120345,
+                "rent": 7406,
+                "area": 30,
+                "street": "skogsdrottningen",
+                "street_number": "2",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bäckebol",
+                "last_accept": 393,
+                "$last_seen": "2024-03-25T11:44:43.081Z"
               }
             ]
           },
@@ -76365,6 +76417,19 @@
                 "$districtName": "askim",
                 "last_accept": 0,
                 "$last_seen": "2023-09-20T13:43:48.257Z"
+              },
+              {
+                "id": 119989,
+                "rent": 13456,
+                "area": 75,
+                "street": "kobbegården",
+                "street_number": "31",
+                "city": "askim",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 417,
+                "$last_seen": "2024-03-25T11:44:43.081Z"
               }
             ],
             "sisjöbäckensväg": [
@@ -77924,6 +77989,19 @@
                 "$districtName": "tynnered",
                 "last_accept": 1870,
                 "$last_seen": "2024-03-19T07:42:58.724Z"
+              },
+              {
+                "id": 118452,
+                "rent": 5409,
+                "area": 41,
+                "street": "smyckegatan",
+                "street_number": "25",
+                "city": "västra frölunda",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tynnered",
+                "last_accept": 1332,
+                "$last_seen": "2024-03-25T11:44:43.081Z"
               },
               {
                 "id": 118522,
@@ -97212,6 +97290,21 @@
                 "$last_seen": "2024-03-22T10:49:53.802Z"
               }
             ],
+            "stralsundsvägen": [
+              {
+                "id": 119536,
+                "rent": 9587,
+                "area": 61,
+                "street": "stralsundsvägen",
+                "street_number": "31",
+                "city": "lund",
+                "municipality": "lund",
+                "county": "skåne län",
+                "$districtName": "östra torn",
+                "last_accept": 244,
+                "$last_seen": "2024-03-25T10:49:38.887Z"
+              }
+            ],
             "vipeholms allé": [
               {
                 "id": 120753,
@@ -101938,6 +102031,34 @@
                 "last_accept": 1776,
                 "$last_seen": "2024-02-28T11:34:41.591Z"
               }
+            ],
+            "ellen rydéns väg": [
+              {
+                "id": 120644,
+                "rent": 9900,
+                "area": 35,
+                "street": "ellen rydéns väg",
+                "street_number": "2",
+                "city": "spånga",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "spånga",
+                "last_accept": 695,
+                "$last_seen": "2024-03-25T11:44:43.081Z"
+              },
+              {
+                "id": 120646,
+                "rent": 9900,
+                "area": 35,
+                "street": "ellen rydéns väg",
+                "street_number": "2",
+                "city": "spånga",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "spånga",
+                "last_accept": 178,
+                "$last_seen": "2024-03-25T11:44:43.081Z"
+              }
             ]
           },
           "kista": {
@@ -103039,6 +103160,21 @@
                 "$districtName": "berga",
                 "last_accept": 15,
                 "$last_seen": "2024-03-19T15:46:05.844Z"
+              }
+            ],
+            "ridderstads gata": [
+              {
+                "id": 120358,
+                "rent": 8840,
+                "area": 52,
+                "street": "ridderstads gata",
+                "street_number": "36",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "berga",
+                "last_accept": 8,
+                "$last_seen": "2024-03-25T11:44:43.081Z"
               }
             ]
           },
