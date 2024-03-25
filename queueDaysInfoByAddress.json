@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-03-25T15:45:24.527Z",
+  "lastUpdatedAt": "2024-03-25T16:50:12.441Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -49867,6 +49867,19 @@
                 "$last_seen": "2024-02-14T07:34:20.562Z"
               },
               {
+                "id": 118460,
+                "rent": 10440,
+                "area": 55,
+                "street": "ebbe lieberathsgatan",
+                "street_number": "2 d",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1855,
+                "$last_seen": "2024-03-25T15:45:24.527Z"
+              },
+              {
                 "id": 119214,
                 "rent": 7302,
                 "area": 30,
@@ -52392,6 +52405,19 @@
                 "$districtName": "johanneberg",
                 "last_accept": 2010,
                 "$last_seen": "2024-01-24T08:40:08.917Z"
+              },
+              {
+                "id": 119078,
+                "rent": 5124,
+                "area": 35,
+                "street": "vidblicksgatan",
+                "street_number": "4",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1925,
+                "$last_seen": "2024-03-25T15:45:24.527Z"
               }
             ],
             "pontus wiknersgatan": [
@@ -103476,6 +103502,34 @@
                 "$last_seen": "2024-03-21T14:47:31.562Z"
               }
             ],
+            "järdalavägen": [
+              {
+                "id": 116817,
+                "rent": 7253,
+                "area": 86.5,
+                "street": "järdalavägen",
+                "street_number": "56b",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "landeryd",
+                "last_accept": 162,
+                "$last_seen": "2024-03-25T15:45:24.527Z"
+              },
+              {
+                "id": 119553,
+                "rent": 3931,
+                "area": 36,
+                "street": "järdalavägen",
+                "street_number": "44b",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "landeryd",
+                "last_accept": 19,
+                "$last_seen": "2024-03-25T13:45:07.298Z"
+              }
+            ],
             "ekholmens centrum": [
               {
                 "id": 117764,
@@ -103504,21 +103558,6 @@
                 "$districtName": "landeryd",
                 "last_accept": 6,
                 "$last_seen": "2024-03-21T08:47:32.277Z"
-              }
-            ],
-            "järdalavägen": [
-              {
-                "id": 119553,
-                "rent": 3931,
-                "area": 36,
-                "street": "järdalavägen",
-                "street_number": "44b",
-                "city": "linköping",
-                "municipality": "linköping",
-                "county": "östergötlands län",
-                "$districtName": "landeryd",
-                "last_accept": 19,
-                "$last_seen": "2024-03-25T13:45:07.298Z"
               }
             ]
           },
