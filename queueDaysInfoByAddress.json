@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-03-25T13:45:07.298Z",
+  "lastUpdatedAt": "2024-03-25T14:47:17.250Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -69062,6 +69062,21 @@
                 "last_accept": 1882,
                 "$last_seen": "2024-02-22T06:37:50.440Z"
               }
+            ],
+            "smörkännegatan": [
+              {
+                "id": 118098,
+                "rent": 13109,
+                "area": 77,
+                "street": "smörkännegatan",
+                "street_number": "29",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1817,
+                "$last_seen": "2024-03-25T13:45:07.298Z"
+              }
             ]
           },
           "göteborgs sankt pauli": {
@@ -103163,6 +103178,122 @@
     "östergötlands län": {
       "linköping": {
         "linköping": {
+          "linköpings domkyrkodistrikt": {
+            "bataljonsgatan": [
+              {
+                "id": 107388,
+                "rent": 11438,
+                "area": 68.9,
+                "street": "bataljonsgatan",
+                "street_number": "8",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "linköpings domkyrkodistrikt",
+                "last_accept": 937,
+                "$last_seen": "2024-03-25T13:45:07.298Z"
+              },
+              {
+                "id": 117151,
+                "rent": 6265,
+                "area": 31.5,
+                "street": "bataljonsgatan",
+                "street_number": "10",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "linköpings domkyrkodistrikt",
+                "last_accept": 236,
+                "$last_seen": "2024-03-18T13:44:22.056Z"
+              },
+              {
+                "id": 117749,
+                "rent": 6542,
+                "area": 34.4,
+                "street": "bataljonsgatan",
+                "street_number": "8",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "linköpings domkyrkodistrikt",
+                "last_accept": 5,
+                "$last_seen": "2024-03-21T13:46:39.111Z"
+              }
+            ],
+            "kunskapslänken": [
+              {
+                "id": 114494,
+                "rent": 13446,
+                "area": 71,
+                "street": "kunskapslänken",
+                "street_number": "48",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "linköpings domkyrkodistrikt",
+                "last_accept": 17,
+                "$last_seen": "2024-03-18T13:01:08.983Z"
+              },
+              {
+                "id": 118871,
+                "rent": 10094,
+                "area": 52,
+                "street": "kunskapslänken",
+                "street_number": "44",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "linköpings domkyrkodistrikt",
+                "last_accept": 6,
+                "$last_seen": "2024-03-20T07:43:37.732Z"
+              }
+            ],
+            "berzeliigatan": [
+              {
+                "id": 118492,
+                "rent": 6690,
+                "area": 55,
+                "street": "berzeliigatan",
+                "street_number": "10",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "linköpings domkyrkodistrikt",
+                "last_accept": 1177,
+                "$last_seen": "2024-03-22T07:44:37.380Z"
+              }
+            ],
+            "apotekaregatan": [
+              {
+                "id": 118995,
+                "rent": 6056,
+                "area": 57,
+                "street": "apotekaregatan",
+                "street_number": "10b",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "linköpings domkyrkodistrikt",
+                "last_accept": 1397,
+                "$last_seen": "2024-03-15T10:48:44.637Z"
+              }
+            ],
+            "klostergatan": [
+              {
+                "id": 119072,
+                "rent": 5490,
+                "area": 48,
+                "street": "klostergatan",
+                "street_number": "52b",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "linköpings domkyrkodistrikt",
+                "last_accept": 587,
+                "$last_seen": "2024-03-18T07:44:26.349Z"
+              }
+            ]
+          },
           "berga": {
             "konstruktörsgatan": [
               {
@@ -103311,108 +103442,20 @@
                 "last_accept": 6,
                 "$last_seen": "2024-03-21T08:47:32.277Z"
               }
-            ]
-          },
-          "linköpings domkyrkodistrikt": {
-            "kunskapslänken": [
-              {
-                "id": 114494,
-                "rent": 13446,
-                "area": 71,
-                "street": "kunskapslänken",
-                "street_number": "48",
-                "city": "linköping",
-                "municipality": "linköping",
-                "county": "östergötlands län",
-                "$districtName": "linköpings domkyrkodistrikt",
-                "last_accept": 17,
-                "$last_seen": "2024-03-18T13:01:08.983Z"
-              },
-              {
-                "id": 118871,
-                "rent": 10094,
-                "area": 52,
-                "street": "kunskapslänken",
-                "street_number": "44",
-                "city": "linköping",
-                "municipality": "linköping",
-                "county": "östergötlands län",
-                "$districtName": "linköpings domkyrkodistrikt",
-                "last_accept": 6,
-                "$last_seen": "2024-03-20T07:43:37.732Z"
-              }
             ],
-            "bataljonsgatan": [
+            "järdalavägen": [
               {
-                "id": 117151,
-                "rent": 6265,
-                "area": 31.5,
-                "street": "bataljonsgatan",
-                "street_number": "10",
+                "id": 119553,
+                "rent": 3931,
+                "area": 36,
+                "street": "järdalavägen",
+                "street_number": "44b",
                 "city": "linköping",
                 "municipality": "linköping",
                 "county": "östergötlands län",
-                "$districtName": "linköpings domkyrkodistrikt",
-                "last_accept": 236,
-                "$last_seen": "2024-03-18T13:44:22.056Z"
-              },
-              {
-                "id": 117749,
-                "rent": 6542,
-                "area": 34.4,
-                "street": "bataljonsgatan",
-                "street_number": "8",
-                "city": "linköping",
-                "municipality": "linköping",
-                "county": "östergötlands län",
-                "$districtName": "linköpings domkyrkodistrikt",
-                "last_accept": 5,
-                "$last_seen": "2024-03-21T13:46:39.111Z"
-              }
-            ],
-            "berzeliigatan": [
-              {
-                "id": 118492,
-                "rent": 6690,
-                "area": 55,
-                "street": "berzeliigatan",
-                "street_number": "10",
-                "city": "linköping",
-                "municipality": "linköping",
-                "county": "östergötlands län",
-                "$districtName": "linköpings domkyrkodistrikt",
-                "last_accept": 1177,
-                "$last_seen": "2024-03-22T07:44:37.380Z"
-              }
-            ],
-            "apotekaregatan": [
-              {
-                "id": 118995,
-                "rent": 6056,
-                "area": 57,
-                "street": "apotekaregatan",
-                "street_number": "10b",
-                "city": "linköping",
-                "municipality": "linköping",
-                "county": "östergötlands län",
-                "$districtName": "linköpings domkyrkodistrikt",
-                "last_accept": 1397,
-                "$last_seen": "2024-03-15T10:48:44.637Z"
-              }
-            ],
-            "klostergatan": [
-              {
-                "id": 119072,
-                "rent": 5490,
-                "area": 48,
-                "street": "klostergatan",
-                "street_number": "52b",
-                "city": "linköping",
-                "municipality": "linköping",
-                "county": "östergötlands län",
-                "$districtName": "linköpings domkyrkodistrikt",
-                "last_accept": 587,
-                "$last_seen": "2024-03-18T07:44:26.349Z"
+                "$districtName": "landeryd",
+                "last_accept": 19,
+                "$last_seen": "2024-03-25T13:45:07.298Z"
               }
             ]
           },
@@ -103462,6 +103505,19 @@
                 "$districtName": "linköpings sankt lars",
                 "last_accept": 980,
                 "$last_seen": "2024-03-18T07:44:26.349Z"
+              },
+              {
+                "id": 120377,
+                "rent": 7789,
+                "area": 56,
+                "street": "nya tanneforsvägen",
+                "street_number": "26 b",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "linköpings sankt lars",
+                "last_accept": 180,
+                "$last_seen": "2024-03-25T13:45:07.298Z"
               }
             ],
             "gamla tanneforsvägen": [
