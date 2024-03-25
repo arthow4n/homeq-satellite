@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-03-25T10:49:38.887Z",
+  "lastUpdatedAt": "2024-03-25T11:44:43.081Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -101729,6 +101729,21 @@
                 "last_accept": 1772,
                 "$last_seen": "2023-11-17T09:33:28.345Z"
               }
+            ],
+            "kiellandsplan": [
+              {
+                "id": 118577,
+                "rent": 6940,
+                "area": 53,
+                "street": "kiellandsplan",
+                "street_number": "4",
+                "city": "bromma",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "bromma",
+                "last_accept": 2002,
+                "$last_seen": "2024-03-25T10:49:38.887Z"
+              }
             ]
           }
         },
@@ -102160,19 +102175,6 @@
                 "$districtName": "kista",
                 "last_accept": 897,
                 "$last_seen": "2024-02-15T08:36:30.726Z"
-              },
-              {
-                "id": 116912,
-                "rent": 7795,
-                "area": 30,
-                "street": "almbygatan",
-                "street_number": "14",
-                "city": "spånga",
-                "municipality": "stockholm",
-                "county": "stockholms län",
-                "$districtName": "kista",
-                "last_accept": 1058,
-                "$last_seen": "2024-03-05T07:33:54.214Z"
               },
               {
                 "id": 116914,
