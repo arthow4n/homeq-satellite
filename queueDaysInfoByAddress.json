@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-03-25T08:49:48.133Z",
+  "lastUpdatedAt": "2024-03-25T09:44:38.954Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -44363,6 +44363,19 @@
                 "$districtName": "lundby",
                 "last_accept": 1079,
                 "$last_seen": "2024-02-26T11:36:03.425Z"
+              },
+              {
+                "id": 119307,
+                "rent": 6650,
+                "area": 46,
+                "street": "lammelyckan",
+                "street_number": "10g",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1507,
+                "$last_seen": "2024-03-25T08:49:48.133Z"
               }
             ],
             "danagatan": [
@@ -44935,6 +44948,21 @@
                 "$districtName": "lundby",
                 "last_accept": 1577,
                 "$last_seen": "2024-03-05T22:36:03.870Z"
+              }
+            ],
+            "tilburygatan": [
+              {
+                "id": 119309,
+                "rent": 5000,
+                "area": 35,
+                "street": "tilburygatan",
+                "street_number": "4c",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1213,
+                "$last_seen": "2024-03-25T08:49:48.133Z"
               }
             ]
           },
@@ -99680,6 +99708,19 @@
                 "$districtName": "vantör",
                 "last_accept": 870,
                 "$last_seen": "2023-09-18T08:46:21.711Z"
+              },
+              {
+                "id": 116872,
+                "rent": 5681,
+                "area": 31,
+                "street": "vintrosagatan",
+                "street_number": "22",
+                "city": "bandhagen",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 1710,
+                "$last_seen": "2024-03-25T08:49:48.133Z"
               }
             ],
             "skyllbergsgatan": [
