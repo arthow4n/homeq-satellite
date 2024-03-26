@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-03-26T10:51:16.075Z",
+  "lastUpdatedAt": "2024-03-26T11:43:59.978Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -46873,6 +46873,19 @@
                 "$districtName": "bergsjön",
                 "last_accept": 328,
                 "$last_seen": "2024-03-22T07:44:37.380Z"
+              },
+              {
+                "id": 117132,
+                "rent": 11162,
+                "area": 83,
+                "street": "atmosfärgatan",
+                "street_number": "5",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bergsjön",
+                "last_accept": 21,
+                "$last_seen": "2024-03-26T10:51:16.075Z"
               },
               {
                 "id": 117134,
