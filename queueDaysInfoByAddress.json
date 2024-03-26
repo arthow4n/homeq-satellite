@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-03-26T14:48:21.521Z",
+  "lastUpdatedAt": "2024-03-26T15:44:33.278Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -54496,6 +54496,19 @@
                 "$districtName": "göteborgs vasa",
                 "last_accept": 1851,
                 "$last_seen": "2024-02-02T10:39:00.622Z"
+              },
+              {
+                "id": 120351,
+                "rent": 15686,
+                "area": 110,
+                "street": "mölndalsvägen",
+                "street_number": "3",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs vasa",
+                "last_accept": 1895,
+                "$last_seen": "2024-03-26T14:48:21.521Z"
               }
             ],
             "föreningsgatan": [
@@ -79465,6 +79478,19 @@
                 "$districtName": "västra frölunda",
                 "last_accept": 1246,
                 "$last_seen": "2024-03-05T09:33:20.464Z"
+              },
+              {
+                "id": 120090,
+                "rent": 11482,
+                "area": 80,
+                "street": "speldosegatan",
+                "street_number": "2",
+                "city": "västra frölunda",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "västra frölunda",
+                "last_accept": 992,
+                "$last_seen": "2024-03-26T14:48:21.521Z"
               }
             ],
             "tamburingatan": [
@@ -102659,6 +102685,19 @@
                 "$districtName": "kista",
                 "last_accept": 897,
                 "$last_seen": "2024-02-15T08:36:30.726Z"
+              },
+              {
+                "id": 115789,
+                "rent": 6598,
+                "area": 22,
+                "street": "almbygatan",
+                "street_number": "14",
+                "city": "spånga",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "kista",
+                "last_accept": 595,
+                "$last_seen": "2024-03-26T14:48:21.521Z"
               },
               {
                 "id": 116914,
