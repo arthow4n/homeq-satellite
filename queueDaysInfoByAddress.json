@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-03-26T06:49:39.783Z",
+  "lastUpdatedAt": "2024-03-26T07:43:45.399Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -74729,19 +74729,6 @@
                 "$districtName": "bäckebol",
                 "last_accept": 737,
                 "$last_seen": "2024-01-23T07:35:16.050Z"
-              },
-              {
-                "id": 120345,
-                "rent": 7406,
-                "area": 30,
-                "street": "skogsdrottningen",
-                "street_number": "2",
-                "city": "göteborg",
-                "municipality": "göteborg",
-                "county": "västra götalands län",
-                "$districtName": "bäckebol",
-                "last_accept": 393,
-                "$last_seen": "2024-03-25T11:44:43.081Z"
               }
             ]
           },
@@ -92692,6 +92679,19 @@
                 "$districtName": "hyllie",
                 "last_accept": 539,
                 "$last_seen": "2024-02-26T10:40:10.739Z"
+              },
+              {
+                "id": 117361,
+                "rent": 10847,
+                "area": 63.3,
+                "street": "hyllie vattenparksgata",
+                "street_number": "19",
+                "city": "malmö",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "hyllie",
+                "last_accept": 594,
+                "$last_seen": "2024-03-26T06:49:39.783Z"
               }
             ],
             "svansjögatan": [
@@ -103259,19 +103259,6 @@
                 "$last_seen": "2024-03-25T13:45:07.298Z"
               },
               {
-                "id": 109753,
-                "rent": 11163,
-                "area": 68.9,
-                "street": "bataljonsgatan",
-                "street_number": "10",
-                "city": "linköping",
-                "municipality": "linköping",
-                "county": "östergötlands län",
-                "$districtName": "linköpings domkyrkodistrikt",
-                "last_accept": 222,
-                "$last_seen": "2024-03-25T14:47:17.250Z"
-              },
-              {
                 "id": 117151,
                 "rent": 6265,
                 "area": 31.5,
@@ -103635,6 +103622,19 @@
                 "$districtName": "linköpings sankt lars",
                 "last_accept": 180,
                 "$last_seen": "2024-03-25T13:45:07.298Z"
+              },
+              {
+                "id": 120382,
+                "rent": 7805,
+                "area": 56,
+                "street": "nya tanneforsvägen",
+                "street_number": "26 b",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "linköpings sankt lars",
+                "last_accept": 558,
+                "$last_seen": "2024-03-26T06:49:39.783Z"
               }
             ],
             "gamla tanneforsvägen": [
