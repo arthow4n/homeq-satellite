@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-03-26T11:43:59.978Z",
+  "lastUpdatedAt": "2024-03-26T13:00:59.362Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -48542,6 +48542,19 @@
                 "$districtName": "kortedala",
                 "last_accept": 1726,
                 "$last_seen": "2024-02-29T11:44:55.196Z"
+              },
+              {
+                "id": 119265,
+                "rent": 9200,
+                "area": 70,
+                "street": "allhelgonagatan",
+                "street_number": "6",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "kortedala",
+                "last_accept": 1585,
+                "$last_seen": "2024-03-26T11:43:59.978Z"
               }
             ],
             "januarigatan": [
@@ -52457,6 +52470,19 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1925,
                 "$last_seen": "2024-03-25T15:45:24.527Z"
+              },
+              {
+                "id": 120000,
+                "rent": 9300,
+                "area": 57,
+                "street": "vidblicksgatan",
+                "street_number": "11",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1905,
+                "$last_seen": "2024-03-26T11:43:59.978Z"
               }
             ],
             "pontus wiknersgatan": [
@@ -66908,19 +66934,6 @@
                 "$districtName": "örgryte",
                 "last_accept": 1288,
                 "$last_seen": "2024-03-12T09:36:22.521Z"
-              },
-              {
-                "id": 119990,
-                "rent": 12328,
-                "area": 67.5,
-                "street": "gräddgatan",
-                "street_number": "5",
-                "city": "göteborg",
-                "municipality": "göteborg",
-                "county": "västra götalands län",
-                "$districtName": "örgryte",
-                "last_accept": 1596,
-                "$last_seen": "2024-03-26T08:49:27.980Z"
               }
             ],
             "filmjölksgatan": [
