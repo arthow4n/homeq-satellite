@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-03-26T07:43:45.399Z",
+  "lastUpdatedAt": "2024-03-26T08:49:27.980Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -49893,6 +49893,19 @@
                 "$last_seen": "2024-03-21T14:47:31.562Z"
               },
               {
+                "id": 119224,
+                "rent": 12341,
+                "area": 73,
+                "street": "ebbe lieberathsgatan",
+                "street_number": "20 c",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1744,
+                "$last_seen": "2024-03-26T07:43:45.399Z"
+              },
+              {
                 "id": 119520,
                 "rent": 10027,
                 "area": 56,
@@ -74729,6 +74742,19 @@
                 "$districtName": "bäckebol",
                 "last_accept": 737,
                 "$last_seen": "2024-01-23T07:35:16.050Z"
+              },
+              {
+                "id": 120345,
+                "rent": 7406,
+                "area": 30,
+                "street": "skogsdrottningen",
+                "street_number": "2",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bäckebol",
+                "last_accept": 394,
+                "$last_seen": "2024-03-26T07:43:45.399Z"
               }
             ]
           },
@@ -85598,6 +85624,21 @@
                 "last_accept": 1854,
                 "$last_seen": "2024-02-05T09:35:43.202Z"
               }
+            ],
+            "jonseredsvägen": [
+              {
+                "id": 118977,
+                "rent": 7225,
+                "area": 61.5,
+                "street": "jonseredsvägen",
+                "street_number": "21",
+                "city": "jonsered",
+                "municipality": "partille",
+                "county": "västra götalands län",
+                "$districtName": "partille",
+                "last_accept": 1490,
+                "$last_seen": "2024-03-26T07:43:45.399Z"
+              }
             ]
           }
         }
@@ -86577,6 +86618,19 @@
                 "$districtName": "malmö sankt petri",
                 "last_accept": 669,
                 "$last_seen": "2024-02-05T09:35:43.202Z"
+              },
+              {
+                "id": 120081,
+                "rent": 10473,
+                "area": 58,
+                "street": "lilla varvsgatan",
+                "street_number": "24",
+                "city": "malmö",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "malmö sankt petri",
+                "last_accept": 1063,
+                "$last_seen": "2024-03-26T07:43:45.399Z"
               }
             ],
             "stora trädgårdsgatan": [
@@ -103286,6 +103340,19 @@
               }
             ],
             "kunskapslänken": [
+              {
+                "id": 110333,
+                "rent": 10061,
+                "area": 50,
+                "street": "kunskapslänken",
+                "street_number": "44",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "linköpings domkyrkodistrikt",
+                "last_accept": 4,
+                "$last_seen": "2024-03-26T07:43:45.399Z"
+              },
               {
                 "id": 114494,
                 "rent": 13446,
