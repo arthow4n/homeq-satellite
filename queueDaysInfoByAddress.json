@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-03-26T09:43:49.251Z",
+  "lastUpdatedAt": "2024-03-26T10:51:16.075Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -35202,6 +35202,19 @@
                 "$districtName": "nylöse",
                 "last_accept": 1612,
                 "$last_seen": "2024-03-01T13:34:56.570Z"
+              },
+              {
+                "id": 118844,
+                "rent": 12402,
+                "area": 75.2,
+                "street": "hinderbanan",
+                "street_number": "32",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "nylöse",
+                "last_accept": 1590,
+                "$last_seen": "2024-03-26T09:43:49.251Z"
               }
             ],
             "artillerigatan": [
@@ -84268,6 +84281,32 @@
                 "$districtName": "fässberg",
                 "last_accept": 1512,
                 "$last_seen": "2024-03-08T09:33:53.984Z"
+              },
+              {
+                "id": 118665,
+                "rent": 6926,
+                "area": 35.1,
+                "street": "toltorpsgatan",
+                "street_number": "123",
+                "city": "mölndal",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 1489,
+                "$last_seen": "2024-03-26T09:43:49.251Z"
+              },
+              {
+                "id": 120250,
+                "rent": 8730,
+                "area": 49.3,
+                "street": "toltorpsgatan",
+                "street_number": "125",
+                "city": "mölndal",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 1484,
+                "$last_seen": "2024-03-26T09:43:49.251Z"
               }
             ],
             "örngatan": [
