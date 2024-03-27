@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-03-27T10:48:46.373Z",
+  "lastUpdatedAt": "2024-03-27T11:43:58.081Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -61673,6 +61673,19 @@
                 "$districtName": "högsbo",
                 "last_accept": 1116,
                 "$last_seen": "2024-03-21T10:48:00.353Z"
+              },
+              {
+                "id": 118885,
+                "rent": 6469,
+                "area": 43,
+                "street": "pennygången",
+                "street_number": "11",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 1325,
+                "$last_seen": "2024-03-27T10:48:46.373Z"
               }
             ],
             "skillingmyntsgatan": [
@@ -104188,6 +104201,25 @@
                 "$districtName": "linköpings sankt lars",
                 "last_accept": 1154,
                 "$last_seen": "2024-03-19T16:53:12.163Z"
+              }
+            ]
+          }
+        },
+        "sturefors": {
+          "vist": {
+            "björnbärsvägen": [
+              {
+                "id": 120077,
+                "rent": 8030,
+                "area": 50,
+                "street": "björnbärsvägen",
+                "street_number": "2 a",
+                "city": "sturefors",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "vist",
+                "last_accept": 0,
+                "$last_seen": "2024-03-27T10:48:46.373Z"
               }
             ]
           }
