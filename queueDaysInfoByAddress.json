@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-03-27T08:48:50.160Z",
+  "lastUpdatedAt": "2024-03-27T09:44:07.341Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -51449,6 +51449,19 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1799,
                 "$last_seen": "2024-01-25T11:35:44.517Z"
+              },
+              {
+                "id": 120521,
+                "rent": 7009,
+                "area": 43,
+                "street": "mölndalsvägen",
+                "street_number": "47",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1816,
+                "$last_seen": "2024-03-27T08:48:50.160Z"
               }
             ],
             "framnäsgatan": [
@@ -58734,6 +58747,19 @@
                 "$districtName": "askim",
                 "last_accept": 1532,
                 "$last_seen": "2024-03-25T06:51:05.015Z"
+              },
+              {
+                "id": 120366,
+                "rent": 10216,
+                "area": 85,
+                "street": "nergårdsvägen",
+                "street_number": "37",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 1303,
+                "$last_seen": "2024-03-27T08:48:50.160Z"
               }
             ],
             "askims pilegårdsväg": [
@@ -97782,6 +97808,23 @@
                 "$last_seen": "2024-03-20T07:43:37.732Z"
               }
             ]
+          },
+          "torn": {
+            "rossings väg": [
+              {
+                "id": 120005,
+                "rent": 10547,
+                "area": 68,
+                "street": "rossings väg",
+                "street_number": "19",
+                "city": "lund",
+                "municipality": "lund",
+                "county": "skåne län",
+                "$districtName": "torn",
+                "last_accept": 25,
+                "$last_seen": "2024-03-27T08:48:50.160Z"
+              }
+            ]
           }
         },
         "dalby": {
@@ -99976,6 +100019,19 @@
                 "$districtName": "vantör",
                 "last_accept": 1654,
                 "$last_seen": "2024-03-21T13:46:39.111Z"
+              },
+              {
+                "id": 120587,
+                "rent": 12027,
+                "area": 91,
+                "street": "bäverdammsgränd",
+                "street_number": "9",
+                "city": "bandhagen",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 1859,
+                "$last_seen": "2024-03-27T08:48:50.160Z"
               }
             ],
             "skebokvarnsvägen": [
@@ -103711,6 +103767,21 @@
                 "$districtName": "linköpings domkyrkodistrikt",
                 "last_accept": 6,
                 "$last_seen": "2024-03-20T07:43:37.732Z"
+              }
+            ],
+            "honnörsgatan": [
+              {
+                "id": 115462,
+                "rent": 10785,
+                "area": 63.5,
+                "street": "honnörsgatan",
+                "street_number": "1",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "linköpings domkyrkodistrikt",
+                "last_accept": 7,
+                "$last_seen": "2024-03-27T08:48:50.160Z"
               }
             ],
             "berzeliigatan": [
