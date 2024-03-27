@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-03-27T07:43:31.867Z",
+  "lastUpdatedAt": "2024-03-27T08:48:50.160Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -55865,19 +55865,6 @@
                 "$last_seen": "2024-02-23T04:36:27.515Z"
               },
               {
-                "id": 115154,
-                "rent": 6697,
-                "area": 38,
-                "street": "smörslätten",
-                "street_number": "8",
-                "city": "göteborg",
-                "municipality": "göteborg",
-                "county": "västra götalands län",
-                "$districtName": "björkekärr",
-                "last_accept": 1398,
-                "$last_seen": "2024-03-26T15:44:33.278Z"
-              },
-              {
                 "id": 115521,
                 "rent": 8840,
                 "area": 61,
@@ -76588,6 +76575,19 @@
                 "$last_seen": "2024-03-11T09:34:00.125Z"
               },
               {
+                "id": 117829,
+                "rent": 7522,
+                "area": 33,
+                "street": "sisjöbäckens väg",
+                "street_number": "4",
+                "city": "askim",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 16,
+                "$last_seen": "2024-03-27T07:43:31.867Z"
+              },
+              {
                 "id": 117832,
                 "rent": 10748,
                 "area": 54,
@@ -78264,6 +78264,19 @@
                 "$districtName": "tynnered",
                 "last_accept": 1464,
                 "$last_seen": "2024-03-22T11:44:58.627Z"
+              },
+              {
+                "id": 120313,
+                "rent": 7484,
+                "area": 58,
+                "street": "smyckegatan",
+                "street_number": "39",
+                "city": "västra frölunda",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tynnered",
+                "last_accept": 804,
+                "$last_seen": "2024-03-27T07:43:31.867Z"
               }
             ],
             "björkhöjdsgatan": [
@@ -96126,6 +96139,21 @@
                 "last_accept": 37,
                 "$last_seen": "2023-08-04T07:39:11.440Z"
               }
+            ],
+            "kantatgatan": [
+              {
+                "id": 118524,
+                "rent": 11064,
+                "area": 73,
+                "street": "kantatgatan",
+                "street_number": "7",
+                "city": "malmö ",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "fosie",
+                "last_accept": 7,
+                "$last_seen": "2024-03-27T07:43:31.867Z"
+              }
             ]
           }
         },
@@ -97678,6 +97706,19 @@
           },
           "lunds domkyrkodistrikt": {
             "tellusgatan": [
+              {
+                "id": 117741,
+                "rent": 7760,
+                "area": 48,
+                "street": "tellusgatan",
+                "street_number": "9a",
+                "city": "lund",
+                "municipality": "lund",
+                "county": "skåne län",
+                "$districtName": "lunds domkyrkodistrikt",
+                "last_accept": 394,
+                "$last_seen": "2024-03-27T07:43:31.867Z"
+              },
               {
                 "id": 117742,
                 "rent": 7760,
@@ -102206,6 +102247,19 @@
                 "$districtName": "bromma",
                 "last_accept": 1678,
                 "$last_seen": "2024-03-26T13:00:59.362Z"
+              },
+              {
+                "id": 120797,
+                "rent": 4675,
+                "area": 22,
+                "street": "brommabågen",
+                "street_number": "4",
+                "city": "bromma",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "bromma",
+                "last_accept": 1534,
+                "$last_seen": "2024-03-27T07:43:31.867Z"
               },
               {
                 "id": 120802,
