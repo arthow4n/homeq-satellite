@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-03-27T09:44:07.341Z",
+  "lastUpdatedAt": "2024-03-27T10:48:46.373Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -32095,6 +32095,19 @@
                 "$districtName": "annedal",
                 "last_accept": 1896,
                 "$last_seen": "2024-03-19T13:00:41.274Z"
+              },
+              {
+                "id": 120473,
+                "rent": 7555,
+                "area": 49,
+                "street": "carl grimbergsgatan",
+                "street_number": "29",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "annedal",
+                "last_accept": 1905,
+                "$last_seen": "2024-03-27T09:44:07.341Z"
               }
             ],
             "risåsgatan": [
@@ -54323,6 +54336,19 @@
                 "$districtName": "göteborgs vasa",
                 "last_accept": 1725,
                 "$last_seen": "2023-09-30T07:39:20.251Z"
+              },
+              {
+                "id": 118388,
+                "rent": 17000,
+                "area": 120,
+                "street": "södra vägen",
+                "street_number": "53",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs vasa",
+                "last_accept": 1904,
+                "$last_seen": "2024-03-27T08:48:50.160Z"
               }
             ],
             "viktor rydbergsgatan": [
@@ -67038,6 +67064,19 @@
                 "$districtName": "örgryte",
                 "last_accept": 1288,
                 "$last_seen": "2024-03-12T09:36:22.521Z"
+              },
+              {
+                "id": 119990,
+                "rent": 12328,
+                "area": 67.5,
+                "street": "gräddgatan",
+                "street_number": "5",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1597,
+                "$last_seen": "2024-03-27T09:44:07.341Z"
               }
             ],
             "filmjölksgatan": [
@@ -100112,6 +100151,19 @@
                 "$districtName": "vantör",
                 "last_accept": 1464,
                 "$last_seen": "2024-03-18T14:47:15.426Z"
+              },
+              {
+                "id": 118397,
+                "rent": 4907,
+                "area": 29,
+                "street": "skebokvarnsvägen",
+                "street_number": "352",
+                "city": "bandhagen",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 1923,
+                "$last_seen": "2024-03-27T09:44:07.341Z"
               }
             ],
             "bjursätragatan": [
