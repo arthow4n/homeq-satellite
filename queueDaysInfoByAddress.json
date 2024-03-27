@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-03-27T13:44:36.786Z",
+  "lastUpdatedAt": "2024-03-27T14:47:30.053Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -55943,6 +55943,19 @@
                 "$last_seen": "2024-02-26T15:35:50.557Z"
               },
               {
+                "id": 116492,
+                "rent": 3424,
+                "area": 22,
+                "street": "smörslätten",
+                "street_number": "6",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "björkekärr",
+                "last_accept": 86,
+                "$last_seen": "2024-02-21T14:35:50.236Z"
+              },
+              {
                 "id": 117312,
                 "rent": 5237,
                 "area": 22,
@@ -97894,21 +97907,6 @@
                 "last_accept": 98,
                 "$last_seen": "2024-03-19T11:43:42.014Z"
               }
-            ],
-            "nordanväg": [
-              {
-                "id": 120430,
-                "rent": 10061,
-                "area": 70,
-                "street": "nordanväg",
-                "street_number": "3c",
-                "city": "lund",
-                "municipality": "lund",
-                "county": "skåne län",
-                "$districtName": "lunds helgeand",
-                "last_accept": 462,
-                "$last_seen": "2024-03-25T16:50:12.441Z"
-              }
             ]
           },
           "lunds allhelgona": {
@@ -103959,6 +103957,23 @@
                 "$districtName": "linköpings domkyrkodistrikt",
                 "last_accept": 587,
                 "$last_seen": "2024-03-18T07:44:26.349Z"
+              }
+            ]
+          },
+          "johannelund": {
+            "skogsgatan": [
+              {
+                "id": 102056,
+                "rent": 11016,
+                "area": 90,
+                "street": "skogsgatan",
+                "street_number": "97",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "johannelund",
+                "last_accept": 46,
+                "$last_seen": "2024-03-27T13:44:36.786Z"
               }
             ]
           },
