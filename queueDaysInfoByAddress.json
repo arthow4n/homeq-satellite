@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-03-27T06:48:06.749Z",
+  "lastUpdatedAt": "2024-03-27T07:43:31.867Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -103562,6 +103562,21 @@
       "linköping": {
         "linköping": {
           "linköpings domkyrkodistrikt": {
+            "platensgatan": [
+              {
+                "id": 99577,
+                "rent": 13205,
+                "area": 107,
+                "street": "platensgatan",
+                "street_number": "5 a",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "linköpings domkyrkodistrikt",
+                "last_accept": 8,
+                "$last_seen": "2024-03-27T06:48:06.749Z"
+              }
+            ],
             "bataljonsgatan": [
               {
                 "id": 107388,
