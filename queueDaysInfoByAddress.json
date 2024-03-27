@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-03-27T15:45:04.748Z",
+  "lastUpdatedAt": "2024-03-27T16:53:42.337Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -104161,6 +104161,34 @@
                 "$last_seen": "2024-03-27T11:43:58.081Z"
               }
             ],
+            "valthornsgatan": [
+              {
+                "id": 114323,
+                "rent": 15437,
+                "area": 110,
+                "street": "valthornsgatan",
+                "street_number": "35",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "landeryd",
+                "last_accept": 12,
+                "$last_seen": "2024-03-27T15:45:04.748Z"
+              },
+              {
+                "id": 118818,
+                "rent": 15437,
+                "area": 110,
+                "street": "valthornsgatan",
+                "street_number": "33",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "landeryd",
+                "last_accept": 6,
+                "$last_seen": "2024-03-21T08:47:32.277Z"
+              }
+            ],
             "järdalavägen": [
               {
                 "id": 116817,
@@ -104202,21 +104230,6 @@
                 "$districtName": "landeryd",
                 "last_accept": 29,
                 "$last_seen": "2024-03-22T14:48:41.015Z"
-              }
-            ],
-            "valthornsgatan": [
-              {
-                "id": 118818,
-                "rent": 15437,
-                "area": 110,
-                "street": "valthornsgatan",
-                "street_number": "33",
-                "city": "linköping",
-                "municipality": "linköping",
-                "county": "östergötlands län",
-                "$districtName": "landeryd",
-                "last_accept": 6,
-                "$last_seen": "2024-03-21T08:47:32.277Z"
               }
             ]
           },
