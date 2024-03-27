@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-03-27T11:43:58.081Z",
+  "lastUpdatedAt": "2024-03-27T13:01:09.428Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -31831,6 +31831,19 @@
                 "$districtName": "annedal",
                 "last_accept": 1892,
                 "$last_seen": "2024-03-14T09:34:53.410Z"
+              },
+              {
+                "id": 120468,
+                "rent": 8753,
+                "area": 63,
+                "street": "övre husargatan",
+                "street_number": "28",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "annedal",
+                "last_accept": 1917,
+                "$last_seen": "2024-03-27T11:43:58.081Z"
               }
             ],
             "brunnsgatan": [
@@ -61662,6 +61675,19 @@
                 "$last_seen": "2024-03-18T16:50:29.081Z"
               },
               {
+                "id": 118883,
+                "rent": 8418,
+                "area": 62,
+                "street": "pennygången",
+                "street_number": "74",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 1551,
+                "$last_seen": "2024-03-27T11:43:58.081Z"
+              },
+              {
                 "id": 118884,
                 "rent": 6469,
                 "area": 43,
@@ -87794,6 +87820,21 @@
                 "$last_seen": "2023-11-10T12:58:14.626Z"
               }
             ],
+            "grönegatan": [
+              {
+                "id": 113294,
+                "rent": 5163,
+                "area": 28,
+                "street": "grönegatan",
+                "street_number": "34",
+                "city": "malmö",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "malmö sankt petri",
+                "last_accept": 1216,
+                "$last_seen": "2024-03-27T11:43:58.081Z"
+              }
+            ],
             "mäster johansgatan": [
               {
                 "id": 113978,
@@ -103948,19 +103989,6 @@
                 "$districtName": "berga",
                 "last_accept": 15,
                 "$last_seen": "2024-03-19T15:46:05.844Z"
-              },
-              {
-                "id": 120437,
-                "rent": 5007,
-                "area": 31,
-                "street": "konstruktörsgatan",
-                "street_number": "22",
-                "city": "linköping",
-                "municipality": "linköping",
-                "county": "östergötlands län",
-                "$districtName": "berga",
-                "last_accept": 3,
-                "$last_seen": "2024-03-25T14:47:17.250Z"
               }
             ],
             "ridderstads gata": [
@@ -104038,6 +104066,19 @@
                 "$districtName": "landeryd",
                 "last_accept": 1024,
                 "$last_seen": "2024-03-21T14:47:31.562Z"
+              },
+              {
+                "id": 117765,
+                "rent": 7863,
+                "area": 77.5,
+                "street": "ekholmsvägen",
+                "street_number": "98",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "landeryd",
+                "last_accept": 190,
+                "$last_seen": "2024-03-27T11:43:58.081Z"
               }
             ],
             "järdalavägen": [
