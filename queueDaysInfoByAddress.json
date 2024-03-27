@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-03-27T14:47:30.053Z",
+  "lastUpdatedAt": "2024-03-27T15:45:04.748Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -69201,6 +69201,19 @@
                 "$districtName": "örgryte",
                 "last_accept": 1343,
                 "$last_seen": "2024-02-28T08:38:28.314Z"
+              },
+              {
+                "id": 118799,
+                "rent": 6380,
+                "area": 39,
+                "street": "smörgatan",
+                "street_number": "5",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1567,
+                "$last_seen": "2024-03-27T14:47:30.053Z"
               }
             ],
             "s:t pauligatan": [
@@ -103781,6 +103794,19 @@
                 "$last_seen": "2024-03-20T06:50:23.411Z"
               },
               {
+                "id": 118591,
+                "rent": 8914,
+                "area": 37,
+                "street": "dragonvägen",
+                "street_number": "17b",
+                "city": "stockholm",
+                "municipality": "upplands väsby",
+                "county": "stockholms län",
+                "$districtName": "hammarby",
+                "last_accept": 535,
+                "$last_seen": "2024-03-27T14:47:30.053Z"
+              },
+              {
                 "id": 119361,
                 "rent": 8332,
                 "area": 33,
@@ -103792,6 +103818,19 @@
                 "$districtName": "hammarby",
                 "last_accept": 219,
                 "$last_seen": "2024-03-15T09:44:42.897Z"
+              },
+              {
+                "id": 120100,
+                "rent": 8615,
+                "area": 33,
+                "street": "dragonvägen",
+                "street_number": "17b",
+                "city": "stockholm",
+                "municipality": "upplands väsby",
+                "county": "stockholms län",
+                "$districtName": "hammarby",
+                "last_accept": 258,
+                "$last_seen": "2024-03-27T14:47:30.053Z"
               }
             ]
           }
