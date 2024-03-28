@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-03-28T11:43:56.835Z",
+  "lastUpdatedAt": "2024-03-28T13:01:23.596Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -36761,6 +36761,19 @@
                 "$districtName": "masthugget",
                 "last_accept": 1844,
                 "$last_seen": "2023-09-29T11:39:45.695Z"
+              },
+              {
+                "id": 120526,
+                "rent": 9932,
+                "area": 69,
+                "street": "dahlströmsgatan",
+                "street_number": "16",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "masthugget",
+                "last_accept": 1906,
+                "$last_seen": "2024-03-28T11:43:56.835Z"
               }
             ],
             "kolumbusgatan": [
@@ -52483,6 +52496,19 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1828,
                 "$last_seen": "2024-01-25T12:55:06.880Z"
+              },
+              {
+                "id": 120638,
+                "rent": 10210,
+                "area": 68,
+                "street": "richertsgatan",
+                "street_number": "6",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1903,
+                "$last_seen": "2024-03-28T11:43:56.835Z"
               }
             ],
             "vidblicksgatan": [
@@ -82355,6 +82381,19 @@
                 "$districtName": "fässberg",
                 "last_accept": 1068,
                 "$last_seen": "2024-03-25T13:00:43.849Z"
+              },
+              {
+                "id": 120563,
+                "rent": 10010,
+                "area": 56,
+                "street": "åby allé",
+                "street_number": "61",
+                "city": "göteborg",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 1536,
+                "$last_seen": "2024-03-28T11:43:56.835Z"
               }
             ],
             "åbyvägen": [
@@ -83786,6 +83825,19 @@
                 "$districtName": "kållered",
                 "last_accept": 1575,
                 "$last_seen": "2024-03-19T13:00:41.274Z"
+              },
+              {
+                "id": 118533,
+                "rent": 7757,
+                "area": 63,
+                "street": "våmmedalsvägen",
+                "street_number": "114",
+                "city": "kållered",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "kållered",
+                "last_accept": 1392,
+                "$last_seen": "2024-03-28T11:43:56.835Z"
               },
               {
                 "id": 119240,
@@ -104089,22 +104141,37 @@
     "östergötlands län": {
       "linköping": {
         "linköping": {
-          "linköpings domkyrkodistrikt": {
-            "platensgatan": [
+          "johannelund": {
+            "skogsgatan": [
               {
-                "id": 99577,
-                "rent": 13205,
-                "area": 107,
-                "street": "platensgatan",
-                "street_number": "5 a",
+                "id": 102056,
+                "rent": 11016,
+                "area": 90,
+                "street": "skogsgatan",
+                "street_number": "97",
                 "city": "linköping",
                 "municipality": "linköping",
                 "county": "östergötlands län",
-                "$districtName": "linköpings domkyrkodistrikt",
-                "last_accept": 8,
-                "$last_seen": "2024-03-27T06:48:06.749Z"
+                "$districtName": "johannelund",
+                "last_accept": 46,
+                "$last_seen": "2024-03-27T13:44:36.786Z"
+              },
+              {
+                "id": 118109,
+                "rent": 9138,
+                "area": 74.5,
+                "street": "skogsgatan",
+                "street_number": "87",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "johannelund",
+                "last_accept": 60,
+                "$last_seen": "2024-03-28T08:48:17.332Z"
               }
-            ],
+            ]
+          },
+          "linköpings domkyrkodistrikt": {
             "bataljonsgatan": [
               {
                 "id": 107388,
@@ -104258,36 +104325,6 @@
                 "$districtName": "linköpings domkyrkodistrikt",
                 "last_accept": 587,
                 "$last_seen": "2024-03-18T07:44:26.349Z"
-              }
-            ]
-          },
-          "johannelund": {
-            "skogsgatan": [
-              {
-                "id": 102056,
-                "rent": 11016,
-                "area": 90,
-                "street": "skogsgatan",
-                "street_number": "97",
-                "city": "linköping",
-                "municipality": "linköping",
-                "county": "östergötlands län",
-                "$districtName": "johannelund",
-                "last_accept": 46,
-                "$last_seen": "2024-03-27T13:44:36.786Z"
-              },
-              {
-                "id": 118109,
-                "rent": 9138,
-                "area": 74.5,
-                "street": "skogsgatan",
-                "street_number": "87",
-                "city": "linköping",
-                "municipality": "linköping",
-                "county": "östergötlands län",
-                "$districtName": "johannelund",
-                "last_accept": 60,
-                "$last_seen": "2024-03-28T08:48:17.332Z"
               }
             ]
           },
@@ -104490,6 +104527,19 @@
                 "$districtName": "landeryd",
                 "last_accept": 162,
                 "$last_seen": "2024-03-25T15:45:24.527Z"
+              },
+              {
+                "id": 117766,
+                "rent": 7253,
+                "area": 86.5,
+                "street": "järdalavägen",
+                "street_number": "42a",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "landeryd",
+                "last_accept": 544,
+                "$last_seen": "2024-03-28T11:43:56.835Z"
               },
               {
                 "id": 119553,
