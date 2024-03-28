@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-03-28T13:01:23.596Z",
+  "lastUpdatedAt": "2024-03-28T13:44:16.069Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -104168,6 +104168,19 @@
                 "$districtName": "johannelund",
                 "last_accept": 60,
                 "$last_seen": "2024-03-28T08:48:17.332Z"
+              },
+              {
+                "id": 120374,
+                "rent": 10712,
+                "area": 83.5,
+                "street": "skogsgatan",
+                "street_number": "87",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "johannelund",
+                "last_accept": 0,
+                "$last_seen": "2024-03-28T13:01:23.596Z"
               }
             ]
           },
@@ -104743,6 +104756,19 @@
                 "$districtName": "läby",
                 "last_accept": 93,
                 "$last_seen": "2024-03-18T08:48:39.238Z"
+              },
+              {
+                "id": 120509,
+                "rent": 8186,
+                "area": 53,
+                "street": "smaragdvägen",
+                "street_number": "24",
+                "city": "uppsala",
+                "municipality": "uppsala",
+                "county": "uppsala län",
+                "$districtName": "läby",
+                "last_accept": 26,
+                "$last_seen": "2024-03-28T13:01:23.596Z"
               }
             ]
           },
