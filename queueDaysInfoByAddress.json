@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-03-28T09:45:38.732Z",
+  "lastUpdatedAt": "2024-03-28T10:49:40.279Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -32162,6 +32162,19 @@
                 "$districtName": "annedal",
                 "last_accept": 1783,
                 "$last_seen": "2023-10-17T06:45:15.971Z"
+              },
+              {
+                "id": 116896,
+                "rent": 14006,
+                "area": 103,
+                "street": "risåsgatan",
+                "street_number": "12 a",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "annedal",
+                "last_accept": 1906,
+                "$last_seen": "2024-03-28T09:45:38.732Z"
               }
             ],
             "nordenskiöldsgatan": [
@@ -35228,6 +35241,19 @@
                 "$districtName": "nylöse",
                 "last_accept": 1612,
                 "$last_seen": "2024-03-01T13:34:56.570Z"
+              },
+              {
+                "id": 118842,
+                "rent": 13900,
+                "area": 82.1,
+                "street": "hinderbanan",
+                "street_number": "32",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "nylöse",
+                "last_accept": 1814,
+                "$last_seen": "2024-03-28T09:45:38.732Z"
               },
               {
                 "id": 118844,
@@ -75577,6 +75603,19 @@
                 "$last_seen": "2024-03-11T14:35:49.703Z"
               },
               {
+                "id": 119410,
+                "rent": 5408,
+                "area": 38,
+                "street": "klassikergatan",
+                "street_number": "19",
+                "city": "hisings backa",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brunnsbo",
+                "last_accept": 1234,
+                "$last_seen": "2024-03-28T09:45:38.732Z"
+              },
+              {
                 "id": 120481,
                 "rent": 8005,
                 "area": 72,
@@ -101061,6 +101100,19 @@
                 "$districtName": "hässelby",
                 "last_accept": 288,
                 "$last_seen": "2024-01-25T12:55:06.880Z"
+              },
+              {
+                "id": 119393,
+                "rent": 9490,
+                "area": 36,
+                "street": "lindblomsgränd",
+                "street_number": "12",
+                "city": "hässelby",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "hässelby",
+                "last_accept": 130,
+                "$last_seen": "2024-03-28T09:45:38.732Z"
               }
             ]
           }
