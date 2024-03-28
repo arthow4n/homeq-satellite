@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-03-28T08:48:17.332Z",
+  "lastUpdatedAt": "2024-03-28T09:45:38.732Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -75575,6 +75575,19 @@
                 "$districtName": "brunnsbo",
                 "last_accept": 1789,
                 "$last_seen": "2024-03-11T14:35:49.703Z"
+              },
+              {
+                "id": 120481,
+                "rent": 8005,
+                "area": 72,
+                "street": "klassikergatan",
+                "street_number": "15",
+                "city": "hisings backa",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brunnsbo",
+                "last_accept": 1777,
+                "$last_seen": "2024-03-28T08:48:17.332Z"
               }
             ],
             "prologgatan": [
@@ -90714,6 +90727,19 @@
                 "$districtName": "kirseberg",
                 "last_accept": 10,
                 "$last_seen": "2024-03-14T08:36:59.351Z"
+              },
+              {
+                "id": 119981,
+                "rent": 9828,
+                "area": 66,
+                "street": "gerlachsgatan",
+                "street_number": "2 a",
+                "city": "malmö",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "kirseberg",
+                "last_accept": 32,
+                "$last_seen": "2024-03-28T08:48:17.332Z"
               }
             ],
             "dalhemsgtan": [
@@ -95729,6 +95755,19 @@
                 "$districtName": "limhamn",
                 "last_accept": 20,
                 "$last_seen": "2024-01-31T12:50:11.727Z"
+              },
+              {
+                "id": 114098,
+                "rent": 9861,
+                "area": 44,
+                "street": "blåsebergavägen",
+                "street_number": "28",
+                "city": "limhamn",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "limhamn",
+                "last_accept": 309,
+                "$last_seen": "2024-03-28T08:48:17.332Z"
               },
               {
                 "id": 114380,
@@ -102502,6 +102541,19 @@
                 "$last_seen": "2023-11-02T08:41:42.253Z"
               },
               {
+                "id": 120493,
+                "rent": 4675,
+                "area": 22,
+                "street": "brommabågen",
+                "street_number": "4",
+                "city": "bromma",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "bromma",
+                "last_accept": 1590,
+                "$last_seen": "2024-03-28T08:48:17.332Z"
+              },
+              {
                 "id": 120496,
                 "rent": 4675,
                 "area": 22,
@@ -104093,6 +104145,19 @@
                 "$districtName": "johannelund",
                 "last_accept": 46,
                 "$last_seen": "2024-03-27T13:44:36.786Z"
+              },
+              {
+                "id": 118109,
+                "rent": 9138,
+                "area": 74.5,
+                "street": "skogsgatan",
+                "street_number": "87",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "johannelund",
+                "last_accept": 60,
+                "$last_seen": "2024-03-28T08:48:17.332Z"
               }
             ]
           },
@@ -104415,6 +104480,21 @@
                 "$districtName": "linköpings sankt lars",
                 "last_accept": 1154,
                 "$last_seen": "2024-03-19T16:53:12.163Z"
+              }
+            ],
+            "humlegatan": [
+              {
+                "id": 119580,
+                "rent": 7881,
+                "area": 58,
+                "street": "humlegatan",
+                "street_number": "4 d",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "linköpings sankt lars",
+                "last_accept": 569,
+                "$last_seen": "2024-03-28T08:48:17.332Z"
               }
             ]
           }
