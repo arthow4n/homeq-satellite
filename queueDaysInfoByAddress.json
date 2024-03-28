@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-03-28T13:44:16.069Z",
+  "lastUpdatedAt": "2024-03-28T14:48:09.538Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -51555,6 +51555,19 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1816,
                 "$last_seen": "2024-03-27T08:48:50.160Z"
+              },
+              {
+                "id": 120621,
+                "rent": 6117,
+                "area": 35,
+                "street": "mölndalsvägen",
+                "street_number": "47",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1886,
+                "$last_seen": "2024-03-28T13:44:16.069Z"
               }
             ],
             "framnäsgatan": [
@@ -101513,6 +101526,19 @@
                 "$districtName": "hägersten",
                 "last_accept": 1380,
                 "$last_seen": "2023-11-13T11:38:56.892Z"
+              },
+              {
+                "id": 118104,
+                "rent": 12837,
+                "area": 51,
+                "street": "zachrisbergsgatan",
+                "street_number": "3",
+                "city": "stockholm",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "hägersten",
+                "last_accept": 2320,
+                "$last_seen": "2024-03-28T13:44:16.069Z"
               }
             ],
             "matrosbacken": [
