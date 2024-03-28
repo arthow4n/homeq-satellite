@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-03-28T07:44:28.561Z",
+  "lastUpdatedAt": "2024-03-28T08:48:17.332Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -59782,6 +59782,19 @@
                 "$districtName": "högsbo",
                 "last_accept": 6,
                 "$last_seen": "2024-02-26T12:51:07.149Z"
+              },
+              {
+                "id": 117813,
+                "rent": 7100,
+                "area": 35,
+                "street": "nymilsgatan",
+                "street_number": "37",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 670,
+                "$last_seen": "2024-03-28T07:44:28.561Z"
               }
             ],
             "högsbogatan": [
@@ -95794,6 +95807,32 @@
                 "$districtName": "limhamn",
                 "last_accept": 23,
                 "$last_seen": "2024-03-20T10:48:23.999Z"
+              },
+              {
+                "id": 119323,
+                "rent": 10883,
+                "area": 53,
+                "street": "blåsebergavägen",
+                "street_number": "30",
+                "city": "limhamn",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "limhamn",
+                "last_accept": 2,
+                "$last_seen": "2024-03-28T07:44:28.561Z"
+              },
+              {
+                "id": 119468,
+                "rent": 13348,
+                "area": 70,
+                "street": "blåsebergavägen",
+                "street_number": "32",
+                "city": "limhamn",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "limhamn",
+                "last_accept": 6,
+                "$last_seen": "2024-03-28T07:44:28.561Z"
               }
             ],
             "grönalundsgatan": [
