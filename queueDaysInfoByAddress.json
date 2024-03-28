@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-03-28T10:49:40.279Z",
+  "lastUpdatedAt": "2024-03-28T11:43:56.835Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -58279,6 +58279,19 @@
                 "$districtName": "askim",
                 "last_accept": 819,
                 "$last_seen": "2024-03-14T12:50:35.945Z"
+              },
+              {
+                "id": 119506,
+                "rent": 11144,
+                "area": 80,
+                "street": "kobbegården",
+                "street_number": "14",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 1121,
+                "$last_seen": "2024-03-28T10:49:40.279Z"
               }
             ],
             "nergårdsvägen": [
@@ -78935,6 +78948,19 @@
                 "$districtName": "tynnered",
                 "last_accept": 1555,
                 "$last_seen": "2024-03-11T15:34:08.662Z"
+              },
+              {
+                "id": 119344,
+                "rent": 6654,
+                "area": 70,
+                "street": "briljantgatan",
+                "street_number": "12",
+                "city": "västra frölunda",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tynnered",
+                "last_accept": 1747,
+                "$last_seen": "2024-03-28T10:49:40.279Z"
               }
             ],
             "safirgatan": [
@@ -81223,6 +81249,19 @@
                 "$districtName": "kortedala",
                 "last_accept": 1111,
                 "$last_seen": "2024-03-02T16:38:29.371Z"
+              },
+              {
+                "id": 120367,
+                "rent": 5657,
+                "area": 34,
+                "street": "januarigatan",
+                "street_number": "14",
+                "city": "göteborg ",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "kortedala",
+                "last_accept": 759,
+                "$last_seen": "2024-03-28T10:49:40.279Z"
               }
             ]
           },
@@ -90448,6 +90487,19 @@
                 "$districtName": "kirseberg",
                 "last_accept": 239,
                 "$last_seen": "2024-02-28T10:39:48.237Z"
+              },
+              {
+                "id": 119578,
+                "rent": 8016,
+                "area": 60,
+                "street": "högamöllegatan",
+                "street_number": "3 c",
+                "city": "malmö",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "kirseberg",
+                "last_accept": 972,
+                "$last_seen": "2024-03-28T10:49:40.279Z"
               }
             ],
             "floragatan": [
@@ -90766,6 +90818,19 @@
                 "$districtName": "kirseberg",
                 "last_accept": 10,
                 "$last_seen": "2024-03-14T08:36:59.351Z"
+              },
+              {
+                "id": 119075,
+                "rent": 6604,
+                "area": 39,
+                "street": "gerlachsgatan",
+                "street_number": "2 b",
+                "city": "malmö",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "kirseberg",
+                "last_accept": 3,
+                "$last_seen": "2024-03-28T10:49:40.279Z"
               },
               {
                 "id": 119981,
@@ -91263,6 +91328,19 @@
                 "$districtName": "kirseberg",
                 "last_accept": 348,
                 "$last_seen": "2023-12-12T16:43:55.802Z"
+              },
+              {
+                "id": 116807,
+                "rent": 13176,
+                "area": 114,
+                "street": "solgatan",
+                "street_number": "20",
+                "city": "malmö",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "kirseberg",
+                "last_accept": 829,
+                "$last_seen": "2024-03-28T10:49:40.279Z"
               }
             ]
           },
@@ -104266,6 +104344,19 @@
                 "$districtName": "berga",
                 "last_accept": 15,
                 "$last_seen": "2024-03-19T15:46:05.844Z"
+              },
+              {
+                "id": 119291,
+                "rent": 10228,
+                "area": 92.5,
+                "street": "konstruktörsgatan",
+                "street_number": "64",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "berga",
+                "last_accept": 0,
+                "$last_seen": "2024-03-28T10:49:40.279Z"
               }
             ],
             "ridderstads gata": [
@@ -104502,6 +104593,19 @@
                 "$districtName": "linköpings sankt lars",
                 "last_accept": 558,
                 "$last_seen": "2024-03-26T06:49:39.783Z"
+              },
+              {
+                "id": 120458,
+                "rent": 6736,
+                "area": 50,
+                "street": "nya tanneforsvägen",
+                "street_number": "17 b",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "linköpings sankt lars",
+                "last_accept": 1097,
+                "$last_seen": "2024-03-28T10:49:40.279Z"
               }
             ],
             "gamla tanneforsvägen": [
@@ -104589,6 +104693,23 @@
                 "$districtName": "läby",
                 "last_accept": 93,
                 "$last_seen": "2024-03-18T08:48:39.238Z"
+              }
+            ]
+          },
+          "vaksala": {
+            "stålgatan": [
+              {
+                "id": 120508,
+                "rent": 10679,
+                "area": 70,
+                "street": "stålgatan",
+                "street_number": "35",
+                "city": "uppsala",
+                "municipality": "uppsala",
+                "county": "uppsala län",
+                "$districtName": "vaksala",
+                "last_accept": 25,
+                "$last_seen": "2024-03-28T10:49:40.279Z"
               }
             ]
           }
