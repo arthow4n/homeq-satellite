@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-03-29T13:44:44.448Z",
+  "lastUpdatedAt": "2024-03-29T14:45:31.404Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -47810,6 +47810,19 @@
                 "$districtName": "kortedala",
                 "last_accept": 1707,
                 "$last_seen": "2024-03-19T09:43:41.495Z"
+              },
+              {
+                "id": 121467,
+                "rent": 8574,
+                "area": 71,
+                "street": "nymånegatan",
+                "street_number": "17",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "kortedala",
+                "last_accept": 1618,
+                "$last_seen": "2024-03-29T13:44:44.448Z"
               }
             ],
             "aprilgatan": [
