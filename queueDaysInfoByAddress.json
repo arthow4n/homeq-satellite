@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-03-30T11:43:59.469Z",
+  "lastUpdatedAt": "2024-03-30T12:57:31.326Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -91086,6 +91086,19 @@
                 "$districtName": "kirseberg",
                 "last_accept": 7,
                 "$last_seen": "2024-03-11T18:37:00.134Z"
+              },
+              {
+                "id": 121612,
+                "rent": 7620,
+                "area": 52,
+                "street": "lundav",
+                "street_number": "55c",
+                "city": "malmö",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "kirseberg",
+                "last_accept": 223,
+                "$last_seen": "2024-03-30T11:43:59.469Z"
               }
             ],
             "rantzowsgatan": [
