@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-03-31T20:45:25.043Z",
+  "lastUpdatedAt": "2024-03-31T21:43:31.882Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -43418,6 +43418,19 @@
                 "$districtName": "lundby",
                 "last_accept": 763,
                 "$last_seen": "2024-02-09T09:34:31.815Z"
+              },
+              {
+                "id": 120315,
+                "rent": 16410,
+                "area": 84.3,
+                "street": "södra vårvindsgatan",
+                "street_number": "1",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 829,
+                "$last_seen": "2024-03-31T20:45:25.043Z"
               }
             ],
             "trollhasselgatan": [
