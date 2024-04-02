@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-02T05:46:10.890Z",
+  "lastUpdatedAt": "2024-04-02T06:49:28.512Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -50062,19 +50062,6 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1354,
                 "$last_seen": "2024-03-21T14:47:31.562Z"
-              },
-              {
-                "id": 119224,
-                "rent": 12341,
-                "area": 73,
-                "street": "ebbe lieberathsgatan",
-                "street_number": "20 c",
-                "city": "göteborg",
-                "municipality": "göteborg",
-                "county": "västra götalands län",
-                "$districtName": "johanneberg",
-                "last_accept": 1744,
-                "$last_seen": "2024-03-26T07:43:45.399Z"
               },
               {
                 "id": 119520,
