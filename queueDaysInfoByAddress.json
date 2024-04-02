@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-02T08:48:44.228Z",
+  "lastUpdatedAt": "2024-04-02T09:44:25.627Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -47836,6 +47836,19 @@
                 "$districtName": "kortedala",
                 "last_accept": 1612,
                 "$last_seen": "2023-12-13T15:37:18.513Z"
+              },
+              {
+                "id": 115769,
+                "rent": 6276,
+                "area": 47,
+                "street": "nymånegatan",
+                "street_number": "37",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "kortedala",
+                "last_accept": 1406,
+                "$last_seen": "2024-04-02T08:48:44.228Z"
               },
               {
                 "id": 116242,
@@ -104584,6 +104597,34 @@
             ]
           },
           "berga": {
+            "söderleden": [
+              {
+                "id": 107782,
+                "rent": 8917,
+                "area": 50.6,
+                "street": "söderleden",
+                "street_number": "39e",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "berga",
+                "last_accept": 44,
+                "$last_seen": "2024-04-02T07:44:42.459Z"
+              },
+              {
+                "id": 114201,
+                "rent": 6714,
+                "area": 34.8,
+                "street": "söderleden",
+                "street_number": "39c",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "berga",
+                "last_accept": 712,
+                "$last_seen": "2024-04-02T07:44:42.459Z"
+              }
+            ],
             "konstruktörsgatan": [
               {
                 "id": 108875,
