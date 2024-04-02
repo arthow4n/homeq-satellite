@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-02T06:49:28.512Z",
+  "lastUpdatedAt": "2024-04-02T07:44:42.459Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -75173,6 +75173,47 @@
                 "$districtName": "bäckebol",
                 "last_accept": 394,
                 "$last_seen": "2024-03-26T07:43:45.399Z"
+              },
+              {
+                "id": 121130,
+                "rent": 7052,
+                "area": 29,
+                "street": "skogsdrottningen",
+                "street_number": "4",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bäckebol",
+                "last_accept": 614,
+                "$last_seen": "2024-04-02T06:49:28.512Z"
+              }
+            ],
+            "herr arnes gata": [
+              {
+                "id": 121131,
+                "rent": 6635,
+                "area": 25,
+                "street": "herr arnes gata",
+                "street_number": "1",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bäckebol",
+                "last_accept": 443,
+                "$last_seen": "2024-04-02T06:49:28.512Z"
+              },
+              {
+                "id": 121135,
+                "rent": 7125,
+                "area": 28,
+                "street": "herr arnes gata",
+                "street_number": "1",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bäckebol",
+                "last_accept": 401,
+                "$last_seen": "2024-04-02T06:49:28.512Z"
               }
             ]
           },
@@ -79621,6 +79662,19 @@
                 "$districtName": "västra frölunda",
                 "last_accept": 876,
                 "$last_seen": "2024-03-12T08:36:08.323Z"
+              },
+              {
+                "id": 120303,
+                "rent": 11482,
+                "area": 80,
+                "street": "munspelsgatan",
+                "street_number": "10",
+                "city": "västra frölunda",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "västra frölunda",
+                "last_accept": 1092,
+                "$last_seen": "2024-04-02T06:49:28.512Z"
               }
             ],
             "speldosegatan": [
