@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-02T15:46:26.711Z",
+  "lastUpdatedAt": "2024-04-02T16:53:27.005Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -103652,19 +103652,6 @@
                 "$districtName": "kista",
                 "last_accept": 897,
                 "$last_seen": "2024-02-15T08:36:30.726Z"
-              },
-              {
-                "id": 116912,
-                "rent": 7795,
-                "area": 30,
-                "street": "almbygatan",
-                "street_number": "14",
-                "city": "spånga",
-                "municipality": "stockholm",
-                "county": "stockholms län",
-                "$districtName": "kista",
-                "last_accept": 1107,
-                "$last_seen": "2024-03-29T11:44:01.472Z"
               },
               {
                 "id": 116913,
