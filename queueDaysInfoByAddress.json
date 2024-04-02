@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-02T11:45:09.086Z",
+  "lastUpdatedAt": "2024-04-02T13:03:55.185Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -40713,6 +40713,19 @@
                 "$districtName": "göteborgs domkyrkodistrikt",
                 "last_accept": 1760,
                 "$last_seen": "2023-11-03T06:43:33.075Z"
+              },
+              {
+                "id": 118400,
+                "rent": 5242,
+                "area": 46,
+                "street": "barnhusgatan",
+                "street_number": "2",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs domkyrkodistrikt",
+                "last_accept": 1951,
+                "$last_seen": "2024-04-02T11:45:09.086Z"
               }
             ],
             "chalmersgatan": [
@@ -104836,6 +104849,19 @@
                 "$districtName": "landeryd",
                 "last_accept": 544,
                 "$last_seen": "2024-03-28T11:43:56.835Z"
+              },
+              {
+                "id": 119289,
+                "rent": 6308,
+                "area": 64,
+                "street": "järdalavägen",
+                "street_number": "34a",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "landeryd",
+                "last_accept": 194,
+                "$last_seen": "2024-04-02T11:45:09.086Z"
               },
               {
                 "id": 119553,
