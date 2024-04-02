@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-02T13:03:55.185Z",
+  "lastUpdatedAt": "2024-04-02T13:45:51.291Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -67142,6 +67142,19 @@
                 "$districtName": "örgryte",
                 "last_accept": 1554,
                 "$last_seen": "2024-03-25T11:44:43.081Z"
+              },
+              {
+                "id": 120671,
+                "rent": 7845,
+                "area": 35,
+                "street": "smörkärnegatan",
+                "street_number": "25",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1395,
+                "$last_seen": "2024-04-02T13:03:55.185Z"
               }
             ],
             "gräddgatan": [
@@ -104662,6 +104675,19 @@
                 "$districtName": "berga",
                 "last_accept": 712,
                 "$last_seen": "2024-04-02T07:44:42.459Z"
+              },
+              {
+                "id": 114214,
+                "rent": 6714,
+                "area": 34.8,
+                "street": "söderleden",
+                "street_number": "39d",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "berga",
+                "last_accept": 995,
+                "$last_seen": "2024-04-02T13:03:55.185Z"
               }
             ],
             "konstruktörsgatan": [
@@ -104677,6 +104703,19 @@
                 "$districtName": "berga",
                 "last_accept": 5,
                 "$last_seen": "2024-03-22T14:48:41.015Z"
+              },
+              {
+                "id": 116614,
+                "rent": 8856,
+                "area": 78,
+                "street": "konstruktörsgatan",
+                "street_number": "60",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "berga",
+                "last_accept": 13,
+                "$last_seen": "2024-04-02T13:03:55.185Z"
               },
               {
                 "id": 116932,
