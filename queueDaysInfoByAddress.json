@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-02T07:44:42.459Z",
+  "lastUpdatedAt": "2024-04-02T08:48:44.228Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -42390,6 +42390,19 @@
                 "$districtName": "lundby",
                 "last_accept": 599,
                 "$last_seen": "2024-03-18T07:44:26.349Z"
+              },
+              {
+                "id": 120311,
+                "rent": 8819,
+                "area": 43,
+                "street": "fyrklöversgatan",
+                "street_number": "25",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 445,
+                "$last_seen": "2024-04-02T07:44:42.459Z"
               }
             ],
             "ö keillersgatan": [
@@ -47678,6 +47691,19 @@
                 "$districtName": "kortedala",
                 "last_accept": 1652,
                 "$last_seen": "2024-02-09T09:34:31.815Z"
+              },
+              {
+                "id": 114087,
+                "rent": 5919,
+                "area": 40,
+                "street": "solvarvsgatan",
+                "street_number": "10",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "kortedala",
+                "last_accept": 1155,
+                "$last_seen": "2024-04-02T07:44:42.459Z"
               }
             ],
             "nymånegatan": [
@@ -54667,6 +54693,19 @@
                 "$districtName": "göteborgs vasa",
                 "last_accept": 1895,
                 "$last_seen": "2024-03-26T14:48:21.521Z"
+              },
+              {
+                "id": 120354,
+                "rent": 12621,
+                "area": 88,
+                "street": "mölndalsvägen",
+                "street_number": "1",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs vasa",
+                "last_accept": 1913,
+                "$last_seen": "2024-04-02T07:44:42.459Z"
               }
             ],
             "föreningsgatan": [
@@ -58344,6 +58383,19 @@
                 "$districtName": "askim",
                 "last_accept": 1121,
                 "$last_seen": "2024-03-28T10:49:40.279Z"
+              },
+              {
+                "id": 119994,
+                "rent": 11128,
+                "area": 80,
+                "street": "kobbegården",
+                "street_number": "67",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 1272,
+                "$last_seen": "2024-04-02T07:44:42.459Z"
               }
             ],
             "nergårdsvägen": [
@@ -75215,6 +75267,21 @@
                 "last_accept": 401,
                 "$last_seen": "2024-04-02T06:49:28.512Z"
               }
+            ],
+            "backadalen": [
+              {
+                "id": 121291,
+                "rent": 7833,
+                "area": 34,
+                "street": "backadalen",
+                "street_number": "11",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bäckebol",
+                "last_accept": 675,
+                "$last_seen": "2024-04-02T07:44:42.459Z"
+              }
             ]
           },
           "styrsö": {
@@ -88233,6 +88300,19 @@
                 "$districtName": "husie",
                 "last_accept": 0,
                 "$last_seen": "2023-11-22T07:34:22.952Z"
+              },
+              {
+                "id": 120314,
+                "rent": 9012,
+                "area": 56,
+                "street": "lönnebergagatan",
+                "street_number": "2",
+                "city": "malmö",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "husie",
+                "last_accept": 17,
+                "$last_seen": "2024-04-02T07:44:42.459Z"
               }
             ]
           },
@@ -97075,6 +97155,19 @@
                 "$districtName": "bunkeflo",
                 "last_accept": 1126,
                 "$last_seen": "2024-02-27T13:35:28.007Z"
+              },
+              {
+                "id": 116810,
+                "rent": 9077,
+                "area": 59,
+                "street": "sadelmakarebyn",
+                "street_number": "1t",
+                "city": "bunkeflostrand",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "bunkeflo",
+                "last_accept": 7,
+                "$last_seen": "2024-04-02T07:44:42.459Z"
               }
             ],
             "skomakarebyn": [
@@ -98305,6 +98398,38 @@
               }
             ]
           },
+          "torn": {
+            "vitstorksvägen": [
+              {
+                "id": 118422,
+                "rent": 14159,
+                "area": 99,
+                "street": "vitstorksvägen",
+                "street_number": "5",
+                "city": "lund",
+                "municipality": "lund",
+                "county": "skåne län",
+                "$districtName": "torn",
+                "last_accept": 99,
+                "$last_seen": "2024-04-02T07:44:42.459Z"
+              }
+            ],
+            "rossings väg": [
+              {
+                "id": 120005,
+                "rent": 10547,
+                "area": 68,
+                "street": "rossings väg",
+                "street_number": "19",
+                "city": "lund",
+                "municipality": "lund",
+                "county": "skåne län",
+                "$districtName": "torn",
+                "last_accept": 25,
+                "$last_seen": "2024-03-27T08:48:50.160Z"
+              }
+            ]
+          },
           "lunds allhelgona": {
             "möllevångsvägen": [
               {
@@ -98319,23 +98444,6 @@
                 "$districtName": "lunds allhelgona",
                 "last_accept": 259,
                 "$last_seen": "2024-03-20T07:43:37.732Z"
-              }
-            ]
-          },
-          "torn": {
-            "rossings väg": [
-              {
-                "id": 120005,
-                "rent": 10547,
-                "area": 68,
-                "street": "rossings väg",
-                "street_number": "19",
-                "city": "lund",
-                "municipality": "lund",
-                "county": "skåne län",
-                "$districtName": "torn",
-                "last_accept": 25,
-                "$last_seen": "2024-03-27T08:48:50.160Z"
               }
             ]
           }
@@ -103399,19 +103507,6 @@
                 "$districtName": "kista",
                 "last_accept": 897,
                 "$last_seen": "2024-02-15T08:36:30.726Z"
-              },
-              {
-                "id": 115789,
-                "rent": 6598,
-                "area": 22,
-                "street": "almbygatan",
-                "street_number": "14",
-                "city": "spånga",
-                "municipality": "stockholm",
-                "county": "stockholms län",
-                "$districtName": "kista",
-                "last_accept": 595,
-                "$last_seen": "2024-03-26T14:48:21.521Z"
               },
               {
                 "id": 116912,
