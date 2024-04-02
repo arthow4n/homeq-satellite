@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-02T13:45:51.291Z",
+  "lastUpdatedAt": "2024-04-02T14:48:20.435Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -37792,6 +37792,19 @@
                 "$districtName": "masthugget",
                 "last_accept": 1594,
                 "$last_seen": "2024-02-27T09:36:14.062Z"
+              },
+              {
+                "id": 120762,
+                "rent": 7401,
+                "area": 66,
+                "street": "bangatan",
+                "street_number": "24 b",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "masthugget",
+                "last_accept": 1997,
+                "$last_seen": "2024-04-02T13:45:51.291Z"
               }
             ],
             "gamla varvsgatan": [
@@ -40013,6 +40026,19 @@
                 "$districtName": "göteborgs domkyrkodistrikt",
                 "last_accept": 3389,
                 "$last_seen": "2024-03-18T13:44:22.056Z"
+              },
+              {
+                "id": 120428,
+                "rent": 5178,
+                "area": 45,
+                "street": "odinsgatan",
+                "street_number": "24 c",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs domkyrkodistrikt",
+                "last_accept": 1912,
+                "$last_seen": "2024-04-02T13:45:51.291Z"
               }
             ],
             "stampgatan": [
@@ -60135,6 +60161,19 @@
                 "$districtName": "högsbo",
                 "last_accept": 1852,
                 "$last_seen": "2024-03-01T13:34:56.570Z"
+              },
+              {
+                "id": 120534,
+                "rent": 9064,
+                "area": 60,
+                "street": "högsbogatan",
+                "street_number": "25",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 1722,
+                "$last_seen": "2024-04-02T13:45:51.291Z"
               }
             ],
             "lilla tunnlandsgatan": [
@@ -84050,6 +84089,32 @@
                 "$districtName": "kållered",
                 "last_accept": 1251,
                 "$last_seen": "2024-03-22T11:44:58.627Z"
+              },
+              {
+                "id": 119420,
+                "rent": 9001,
+                "area": 76,
+                "street": "våmmedalsvägen",
+                "street_number": "124",
+                "city": "kållered",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "kållered",
+                "last_accept": 1334,
+                "$last_seen": "2024-04-02T13:45:51.291Z"
+              },
+              {
+                "id": 120484,
+                "rent": 8192,
+                "area": 63,
+                "street": "våmmedalsvägen",
+                "street_number": "162",
+                "city": "kållered",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "kållered",
+                "last_accept": 1158,
+                "$last_seen": "2024-04-02T13:45:51.291Z"
               }
             ],
             "streteredsvägen": [
@@ -98357,6 +98422,19 @@
                 "$districtName": "östra torn",
                 "last_accept": 244,
                 "$last_seen": "2024-03-25T10:49:38.887Z"
+              },
+              {
+                "id": 121096,
+                "rent": 10602,
+                "area": 69,
+                "street": "stralsundsvägen",
+                "street_number": "33",
+                "city": "lund",
+                "municipality": "lund",
+                "county": "skåne län",
+                "$districtName": "östra torn",
+                "last_accept": 1,
+                "$last_seen": "2024-04-02T13:45:51.291Z"
               }
             ],
             "vipeholms allé": [
@@ -102888,6 +102966,19 @@
                 "$districtName": "skarpnäck",
                 "last_accept": 2021,
                 "$last_seen": "2024-03-20T13:00:42.047Z"
+              },
+              {
+                "id": 119537,
+                "rent": 9283,
+                "area": 76,
+                "street": "tätorpsvägen",
+                "street_number": "21 a",
+                "city": "skarpnäck",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "skarpnäck",
+                "last_accept": 1955,
+                "$last_seen": "2024-04-02T13:45:51.291Z"
               }
             ]
           }
@@ -104435,6 +104526,157 @@
     "östergötlands län": {
       "linköping": {
         "linköping": {
+          "berga": {
+            "söderleden": [
+              {
+                "id": 96526,
+                "rent": 9327,
+                "area": 53.8,
+                "street": "söderleden",
+                "street_number": "39e",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "berga",
+                "last_accept": 27,
+                "$last_seen": "2024-04-02T13:03:55.185Z"
+              },
+              {
+                "id": 107782,
+                "rent": 8917,
+                "area": 50.6,
+                "street": "söderleden",
+                "street_number": "39e",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "berga",
+                "last_accept": 44,
+                "$last_seen": "2024-04-02T07:44:42.459Z"
+              },
+              {
+                "id": 107786,
+                "rent": 9363,
+                "area": 54,
+                "street": "söderleden",
+                "street_number": "39e",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "berga",
+                "last_accept": 14,
+                "$last_seen": "2024-04-02T13:03:55.185Z"
+              },
+              {
+                "id": 114201,
+                "rent": 6714,
+                "area": 34.8,
+                "street": "söderleden",
+                "street_number": "39c",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "berga",
+                "last_accept": 712,
+                "$last_seen": "2024-04-02T07:44:42.459Z"
+              },
+              {
+                "id": 114214,
+                "rent": 6714,
+                "area": 34.8,
+                "street": "söderleden",
+                "street_number": "39d",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "berga",
+                "last_accept": 995,
+                "$last_seen": "2024-04-02T13:03:55.185Z"
+              }
+            ],
+            "ridderstads gata": [
+              {
+                "id": 107127,
+                "rent": 11844,
+                "area": 75.4,
+                "street": "ridderstads gata",
+                "street_number": "24",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "berga",
+                "last_accept": 32,
+                "$last_seen": "2024-04-02T13:03:55.185Z"
+              },
+              {
+                "id": 120358,
+                "rent": 8840,
+                "area": 52,
+                "street": "ridderstads gata",
+                "street_number": "36",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "berga",
+                "last_accept": 8,
+                "$last_seen": "2024-03-25T11:44:43.081Z"
+              }
+            ],
+            "konstruktörsgatan": [
+              {
+                "id": 108875,
+                "rent": 8859,
+                "area": 78,
+                "street": "konstruktörsgatan",
+                "street_number": "74",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "berga",
+                "last_accept": 5,
+                "$last_seen": "2024-03-22T14:48:41.015Z"
+              },
+              {
+                "id": 116614,
+                "rent": 8856,
+                "area": 78,
+                "street": "konstruktörsgatan",
+                "street_number": "60",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "berga",
+                "last_accept": 13,
+                "$last_seen": "2024-04-02T13:03:55.185Z"
+              },
+              {
+                "id": 116932,
+                "rent": 10227,
+                "area": 92.5,
+                "street": "konstruktörsgatan",
+                "street_number": "92",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "berga",
+                "last_accept": 1154,
+                "$last_seen": "2024-03-18T13:44:22.056Z"
+              },
+              {
+                "id": 119291,
+                "rent": 10228,
+                "area": 92.5,
+                "street": "konstruktörsgatan",
+                "street_number": "64",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "berga",
+                "last_accept": 0,
+                "$last_seen": "2024-03-28T10:49:40.279Z"
+              }
+            ]
+          },
           "johannelund": {
             "skogsgatan": [
               {
@@ -104645,118 +104887,6 @@
                 "$districtName": "linköpings domkyrkodistrikt",
                 "last_accept": 587,
                 "$last_seen": "2024-03-18T07:44:26.349Z"
-              }
-            ]
-          },
-          "berga": {
-            "söderleden": [
-              {
-                "id": 107782,
-                "rent": 8917,
-                "area": 50.6,
-                "street": "söderleden",
-                "street_number": "39e",
-                "city": "linköping",
-                "municipality": "linköping",
-                "county": "östergötlands län",
-                "$districtName": "berga",
-                "last_accept": 44,
-                "$last_seen": "2024-04-02T07:44:42.459Z"
-              },
-              {
-                "id": 114201,
-                "rent": 6714,
-                "area": 34.8,
-                "street": "söderleden",
-                "street_number": "39c",
-                "city": "linköping",
-                "municipality": "linköping",
-                "county": "östergötlands län",
-                "$districtName": "berga",
-                "last_accept": 712,
-                "$last_seen": "2024-04-02T07:44:42.459Z"
-              },
-              {
-                "id": 114214,
-                "rent": 6714,
-                "area": 34.8,
-                "street": "söderleden",
-                "street_number": "39d",
-                "city": "linköping",
-                "municipality": "linköping",
-                "county": "östergötlands län",
-                "$districtName": "berga",
-                "last_accept": 995,
-                "$last_seen": "2024-04-02T13:03:55.185Z"
-              }
-            ],
-            "konstruktörsgatan": [
-              {
-                "id": 108875,
-                "rent": 8859,
-                "area": 78,
-                "street": "konstruktörsgatan",
-                "street_number": "74",
-                "city": "linköping",
-                "municipality": "linköping",
-                "county": "östergötlands län",
-                "$districtName": "berga",
-                "last_accept": 5,
-                "$last_seen": "2024-03-22T14:48:41.015Z"
-              },
-              {
-                "id": 116614,
-                "rent": 8856,
-                "area": 78,
-                "street": "konstruktörsgatan",
-                "street_number": "60",
-                "city": "linköping",
-                "municipality": "linköping",
-                "county": "östergötlands län",
-                "$districtName": "berga",
-                "last_accept": 13,
-                "$last_seen": "2024-04-02T13:03:55.185Z"
-              },
-              {
-                "id": 116932,
-                "rent": 10227,
-                "area": 92.5,
-                "street": "konstruktörsgatan",
-                "street_number": "92",
-                "city": "linköping",
-                "municipality": "linköping",
-                "county": "östergötlands län",
-                "$districtName": "berga",
-                "last_accept": 1154,
-                "$last_seen": "2024-03-18T13:44:22.056Z"
-              },
-              {
-                "id": 119291,
-                "rent": 10228,
-                "area": 92.5,
-                "street": "konstruktörsgatan",
-                "street_number": "64",
-                "city": "linköping",
-                "municipality": "linköping",
-                "county": "östergötlands län",
-                "$districtName": "berga",
-                "last_accept": 0,
-                "$last_seen": "2024-03-28T10:49:40.279Z"
-              }
-            ],
-            "ridderstads gata": [
-              {
-                "id": 120358,
-                "rent": 8840,
-                "area": 52,
-                "street": "ridderstads gata",
-                "street_number": "36",
-                "city": "linköping",
-                "municipality": "linköping",
-                "county": "östergötlands län",
-                "$districtName": "berga",
-                "last_accept": 8,
-                "$last_seen": "2024-03-25T11:44:43.081Z"
               }
             ]
           },
