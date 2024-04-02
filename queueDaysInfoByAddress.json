@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-02T14:48:20.435Z",
+  "lastUpdatedAt": "2024-04-02T15:46:26.711Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -32257,6 +32257,21 @@
                 "$districtName": "annedal",
                 "last_accept": 1869,
                 "$last_seen": "2024-02-23T22:36:40.299Z"
+              }
+            ],
+            "sveagatan": [
+              {
+                "id": 120596,
+                "rent": 6450,
+                "area": 40,
+                "street": "sveagatan",
+                "street_number": "14b",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "annedal",
+                "last_accept": 1958,
+                "$last_seen": "2024-04-02T14:48:20.435Z"
               }
             ]
           },
@@ -104919,6 +104934,21 @@
                 "$districtName": "skäggetorp",
                 "last_accept": 277,
                 "$last_seen": "2024-03-19T09:43:41.495Z"
+              }
+            ],
+            "väpnaregatan": [
+              {
+                "id": 118866,
+                "rent": 4112,
+                "area": 46,
+                "street": "väpnaregatan",
+                "street_number": "26",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "skäggetorp",
+                "last_accept": 21,
+                "$last_seen": "2024-04-02T13:45:51.291Z"
               }
             ]
           },
