@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-03T16:54:12.488Z",
+  "lastUpdatedAt": "2024-04-03T17:50:52.998Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -98741,6 +98741,19 @@
         "dalby": {
           "dalby": {
             "tresädesgränden": [
+              {
+                "id": 115687,
+                "rent": 12849,
+                "area": 82,
+                "street": "tresädesgränden",
+                "street_number": "12c",
+                "city": "dalby",
+                "municipality": "lund",
+                "county": "skåne län",
+                "$districtName": "dalby",
+                "last_accept": 13,
+                "$last_seen": "2024-04-03T16:54:12.488Z"
+              },
               {
                 "id": 117245,
                 "rent": 11140,
