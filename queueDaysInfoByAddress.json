@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-03T08:50:31.854Z",
+  "lastUpdatedAt": "2024-04-03T09:49:18.863Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -75376,6 +75376,19 @@
             ],
             "backadalen": [
               {
+                "id": 121132,
+                "rent": 6719,
+                "area": 25,
+                "street": "backadalen",
+                "street_number": "11",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bäckebol",
+                "last_accept": 444,
+                "$last_seen": "2024-04-03T08:50:31.854Z"
+              },
+              {
                 "id": 121291,
                 "rent": 7833,
                 "area": 34,
@@ -104693,6 +104706,19 @@
                 "$last_seen": "2024-03-18T13:44:22.056Z"
               },
               {
+                "id": 119172,
+                "rent": 9049,
+                "area": 59.2,
+                "street": "konstruktörsgatan",
+                "street_number": "84",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "berga",
+                "last_accept": 33,
+                "$last_seen": "2024-04-03T08:50:31.854Z"
+              },
+              {
                 "id": 119291,
                 "rent": 10228,
                 "area": 92.5,
@@ -104764,6 +104790,19 @@
                 "$districtName": "linköpings domkyrkodistrikt",
                 "last_accept": 937,
                 "$last_seen": "2024-03-25T13:45:07.298Z"
+              },
+              {
+                "id": 109753,
+                "rent": 11163,
+                "area": 68.9,
+                "street": "bataljonsgatan",
+                "street_number": "10",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "linköpings domkyrkodistrikt",
+                "last_accept": 8,
+                "$last_seen": "2024-04-03T08:50:31.854Z"
               },
               {
                 "id": 117151,
