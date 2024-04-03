@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-03T10:52:19.916Z",
+  "lastUpdatedAt": "2024-04-03T11:46:43.990Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -75359,19 +75359,6 @@
                 "$districtName": "bäckebol",
                 "last_accept": 443,
                 "$last_seen": "2024-04-02T06:49:28.512Z"
-              },
-              {
-                "id": 121135,
-                "rent": 7125,
-                "area": 28,
-                "street": "herr arnes gata",
-                "street_number": "1",
-                "city": "göteborg",
-                "municipality": "göteborg",
-                "county": "västra götalands län",
-                "$districtName": "bäckebol",
-                "last_accept": 401,
-                "$last_seen": "2024-04-02T06:49:28.512Z"
               }
             ],
             "backadalen": [
@@ -78818,6 +78805,19 @@
                 "$districtName": "tynnered",
                 "last_accept": 804,
                 "$last_seen": "2024-03-27T07:43:31.867Z"
+              },
+              {
+                "id": 120947,
+                "rent": 9968,
+                "area": 73,
+                "street": "smyckegatan",
+                "street_number": "82",
+                "city": "västra frölunda",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tynnered",
+                "last_accept": 949,
+                "$last_seen": "2024-04-03T10:52:19.916Z"
               }
             ],
             "björkhöjdsgatan": [
@@ -95469,6 +95469,19 @@
                 "$districtName": "limhamn",
                 "last_accept": 20,
                 "$last_seen": "2024-03-20T10:48:23.999Z"
+              },
+              {
+                "id": 120838,
+                "rent": 13942,
+                "area": 83,
+                "street": "högatan",
+                "street_number": "10 a",
+                "city": "limhamn",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "limhamn",
+                "last_accept": 123,
+                "$last_seen": "2024-04-03T10:52:19.916Z"
               }
             ],
             "höbalsgatan": [
