@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-03T05:49:16.729Z",
+  "lastUpdatedAt": "2024-04-03T06:50:36.865Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -34546,6 +34546,19 @@
                 "$districtName": "biskopsgården",
                 "last_accept": 1031,
                 "$last_seen": "2024-01-04T08:38:49.525Z"
+              },
+              {
+                "id": 119541,
+                "rent": 7782,
+                "area": 64,
+                "street": "lufttrycksgatan",
+                "street_number": "8",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "biskopsgården",
+                "last_accept": 1093,
+                "$last_seen": "2024-04-03T05:49:16.729Z"
               }
             ],
             "lågtrycksgatan": [
@@ -85902,6 +85915,19 @@
                 "$districtName": "fässberg",
                 "last_accept": 1900,
                 "$last_seen": "2024-03-25T09:44:38.954Z"
+              },
+              {
+                "id": 120479,
+                "rent": 6178,
+                "area": 59,
+                "street": "stenbrogatan",
+                "street_number": "1 d",
+                "city": "mölndal",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 1909,
+                "$last_seen": "2024-04-03T05:49:16.729Z"
               }
             ],
             "brogatan": [
