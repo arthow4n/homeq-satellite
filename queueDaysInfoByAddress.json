@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-03T13:49:45.467Z",
+  "lastUpdatedAt": "2024-04-03T14:49:35.267Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -40795,6 +40795,19 @@
                 "$districtName": "göteborgs domkyrkodistrikt",
                 "last_accept": 525,
                 "$last_seen": "2024-03-16T10:48:55.155Z"
+              },
+              {
+                "id": 118058,
+                "rent": 19500,
+                "area": 155,
+                "street": "chalmersgatan",
+                "street_number": "1",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs domkyrkodistrikt",
+                "last_accept": 1912,
+                "$last_seen": "2024-04-03T13:49:45.467Z"
               }
             ],
             "burggreveplatsen": [
@@ -54306,6 +54319,19 @@
                 "$districtName": "göteborgs vasa",
                 "last_accept": 1604,
                 "$last_seen": "2024-03-20T10:48:23.999Z"
+              },
+              {
+                "id": 120518,
+                "rent": 6871,
+                "area": 38,
+                "street": "karl gustavsgatan",
+                "street_number": "47",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs vasa",
+                "last_accept": 1911,
+                "$last_seen": "2024-04-03T13:49:45.467Z"
               }
             ],
             "götabergsgatan": [
@@ -63708,6 +63734,19 @@
                 "$districtName": "brämaregården",
                 "last_accept": 1614,
                 "$last_seen": "2023-06-21T10:49:22.530Z"
+              },
+              {
+                "id": 120098,
+                "rent": 7830,
+                "area": 65,
+                "street": "hisingsgatan",
+                "street_number": "22",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brämaregården",
+                "last_accept": 1911,
+                "$last_seen": "2024-04-03T13:49:45.467Z"
               }
             ],
             "solventilsgatan": [
@@ -78818,6 +78857,19 @@
                 "$districtName": "tynnered",
                 "last_accept": 949,
                 "$last_seen": "2024-04-03T10:52:19.916Z"
+              },
+              {
+                "id": 120949,
+                "rent": 9136,
+                "area": 66,
+                "street": "smyckegatan",
+                "street_number": "17",
+                "city": "västra frölunda",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tynnered",
+                "last_accept": 1164,
+                "$last_seen": "2024-04-03T13:49:45.467Z"
               }
             ],
             "björkhöjdsgatan": [
@@ -79227,6 +79279,19 @@
                 "$districtName": "tynnered",
                 "last_accept": 1555,
                 "$last_seen": "2024-03-11T15:34:08.662Z"
+              },
+              {
+                "id": 119340,
+                "rent": 6654,
+                "area": 70,
+                "street": "briljantgatan",
+                "street_number": "12",
+                "city": "västra frölunda",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tynnered",
+                "last_accept": 1607,
+                "$last_seen": "2024-04-03T13:49:45.467Z"
               },
               {
                 "id": 119344,
