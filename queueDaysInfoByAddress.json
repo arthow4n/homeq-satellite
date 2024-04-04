@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-04T11:47:17.256Z",
+  "lastUpdatedAt": "2024-04-04T13:04:32.516Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -76337,6 +76337,19 @@
                 "$districtName": "brunnsbo",
                 "last_accept": 1246,
                 "$last_seen": "2024-03-14T08:36:59.351Z"
+              },
+              {
+                "id": 119993,
+                "rent": 8855,
+                "area": 63,
+                "street": "prologgatan",
+                "street_number": "6",
+                "city": "hisings backa",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brunnsbo",
+                "last_accept": 1475,
+                "$last_seen": "2024-04-04T11:47:17.256Z"
               }
             ],
             "sångspelsgatan": [
@@ -98904,6 +98917,21 @@
                 "last_accept": 259,
                 "$last_seen": "2024-03-20T07:43:37.732Z"
               }
+            ],
+            "vipeholms allé": [
+              {
+                "id": 121199,
+                "rent": 11860,
+                "area": 69,
+                "street": "vipeholms allé",
+                "street_number": "6 b",
+                "city": "lund",
+                "municipality": "lund",
+                "county": "skåne län",
+                "$districtName": "lunds allhelgona",
+                "last_accept": 80,
+                "$last_seen": "2024-04-04T11:47:17.256Z"
+              }
             ]
           }
         },
@@ -104988,6 +105016,19 @@
                 "$districtName": "berga",
                 "last_accept": 32,
                 "$last_seen": "2024-04-02T13:03:55.185Z"
+              },
+              {
+                "id": 118201,
+                "rent": 11896,
+                "area": 83,
+                "street": "ridderstads gata",
+                "street_number": "36",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "berga",
+                "last_accept": 16,
+                "$last_seen": "2024-04-04T11:47:17.256Z"
               },
               {
                 "id": 120358,
