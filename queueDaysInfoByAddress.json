@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-04T14:51:37.376Z",
+  "lastUpdatedAt": "2024-04-04T15:47:19.688Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -105359,6 +105359,21 @@
                 "$districtName": "linköpings domkyrkodistrikt",
                 "last_accept": 7,
                 "$last_seen": "2024-03-27T08:48:50.160Z"
+              }
+            ],
+            "klarbärsgatan": [
+              {
+                "id": 118187,
+                "rent": 10203,
+                "area": 70,
+                "street": "klarbärsgatan",
+                "street_number": "3 a",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "linköpings domkyrkodistrikt",
+                "last_accept": 12,
+                "$last_seen": "2024-04-04T14:51:37.376Z"
               }
             ],
             "berzeliigatan": [
