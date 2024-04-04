@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-04T05:50:50.597Z",
+  "lastUpdatedAt": "2024-04-04T06:51:25.130Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -53598,6 +53598,19 @@
                 "$districtName": "göteborgs vasa",
                 "last_accept": 1763,
                 "$last_seen": "2023-11-06T11:39:58.412Z"
+              },
+              {
+                "id": 119178,
+                "rent": 15448,
+                "area": 111,
+                "street": "kristinelundsgatan",
+                "street_number": "10",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs vasa",
+                "last_accept": 1913,
+                "$last_seen": "2024-04-04T05:50:50.597Z"
               }
             ],
             "viktoriagatan": [
@@ -103092,6 +103105,19 @@
                 "$districtName": "hägersten",
                 "last_accept": 2202,
                 "$last_seen": "2024-03-21T14:47:31.562Z"
+              },
+              {
+                "id": 120271,
+                "rent": 9753,
+                "area": 81,
+                "street": "erikslundsgatan",
+                "street_number": "7",
+                "city": "hägersten",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "hägersten",
+                "last_accept": 2455,
+                "$last_seen": "2024-04-04T05:50:50.597Z"
               }
             ],
             "nedre bergsvägen": [
