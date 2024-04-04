@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-04T06:51:25.130Z",
+  "lastUpdatedAt": "2024-04-04T07:47:18.232Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -98611,38 +98611,21 @@
               }
             ]
           },
-          "lunds domkyrkodistrikt": {
-            "tellusgatan": [
-              {
-                "id": 117741,
-                "rent": 7760,
-                "area": 48,
-                "street": "tellusgatan",
-                "street_number": "9a",
-                "city": "lund",
-                "municipality": "lund",
-                "county": "skåne län",
-                "$districtName": "lunds domkyrkodistrikt",
-                "last_accept": 394,
-                "$last_seen": "2024-03-27T07:43:31.867Z"
-              },
-              {
-                "id": 117742,
-                "rent": 7760,
-                "area": 48,
-                "street": "tellusgatan",
-                "street_number": "9c",
-                "city": "lund",
-                "municipality": "lund",
-                "county": "skåne län",
-                "$districtName": "lunds domkyrkodistrikt",
-                "last_accept": 393,
-                "$last_seen": "2024-03-26T13:00:59.362Z"
-              }
-            ]
-          },
           "lunds helgeand": {
             "källby ängaväg": [
+              {
+                "id": 115106,
+                "rent": 8898,
+                "area": 55.5,
+                "street": "källby ängaväg",
+                "street_number": "6b",
+                "city": "lund",
+                "municipality": "lund",
+                "county": "skåne län",
+                "$districtName": "lunds helgeand",
+                "last_accept": 705,
+                "$last_seen": "2024-04-04T06:51:25.130Z"
+              },
               {
                 "id": 117959,
                 "rent": 8522,
@@ -98698,6 +98681,36 @@
                 "$districtName": "lunds helgeand",
                 "last_accept": 42,
                 "$last_seen": "2024-03-28T19:43:39.744Z"
+              }
+            ]
+          },
+          "lunds domkyrkodistrikt": {
+            "tellusgatan": [
+              {
+                "id": 117741,
+                "rent": 7760,
+                "area": 48,
+                "street": "tellusgatan",
+                "street_number": "9a",
+                "city": "lund",
+                "municipality": "lund",
+                "county": "skåne län",
+                "$districtName": "lunds domkyrkodistrikt",
+                "last_accept": 394,
+                "$last_seen": "2024-03-27T07:43:31.867Z"
+              },
+              {
+                "id": 117742,
+                "rent": 7760,
+                "area": 48,
+                "street": "tellusgatan",
+                "street_number": "9c",
+                "city": "lund",
+                "municipality": "lund",
+                "county": "skåne län",
+                "$districtName": "lunds domkyrkodistrikt",
+                "last_accept": 393,
+                "$last_seen": "2024-03-26T13:00:59.362Z"
               }
             ]
           },
