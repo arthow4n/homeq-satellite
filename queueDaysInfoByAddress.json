@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-04T10:52:27.609Z",
+  "lastUpdatedAt": "2024-04-04T11:47:17.256Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -48531,6 +48531,19 @@
                 "$districtName": "kortedala",
                 "last_accept": 1505,
                 "$last_seen": "2024-03-04T15:34:02.569Z"
+              },
+              {
+                "id": 120995,
+                "rent": 5528,
+                "area": 55,
+                "street": "februarigatan",
+                "street_number": "17",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "kortedala",
+                "last_accept": 1378,
+                "$last_seen": "2024-04-04T10:52:27.609Z"
               }
             ],
             "allhelgonagatan": [
@@ -103448,6 +103461,19 @@
                 "$districtName": "bromma",
                 "last_accept": 1867,
                 "$last_seen": "2023-11-02T08:41:42.253Z"
+              },
+              {
+                "id": 120492,
+                "rent": 4675,
+                "area": 22,
+                "street": "brommabågen",
+                "street_number": "4",
+                "city": "bromma",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "bromma",
+                "last_accept": 1656,
+                "$last_seen": "2024-04-04T10:52:27.609Z"
               },
               {
                 "id": 120493,
