@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-04T07:47:18.232Z",
+  "lastUpdatedAt": "2024-04-04T08:52:19.898Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -50183,6 +50183,19 @@
                 "$last_seen": "2024-03-21T14:47:31.562Z"
               },
               {
+                "id": 119224,
+                "rent": 12341,
+                "area": 73,
+                "street": "ebbe lieberathsgatan",
+                "street_number": "20 c",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1743,
+                "$last_seen": "2024-04-04T07:47:18.232Z"
+              },
+              {
                 "id": 119520,
                 "rent": 10027,
                 "area": 56,
@@ -50194,6 +50207,19 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1408,
                 "$last_seen": "2024-03-20T13:47:00.980Z"
+              },
+              {
+                "id": 121727,
+                "rent": 7096,
+                "area": 30,
+                "street": "ebbe lieberathsgatan",
+                "street_number": "20 f",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1294,
+                "$last_seen": "2024-04-04T07:47:18.232Z"
               }
             ],
             "sylvestergatan": [
@@ -52263,6 +52289,19 @@
                 "$districtName": "johanneberg",
                 "last_accept": 2798,
                 "$last_seen": "2024-02-27T09:36:14.062Z"
+              },
+              {
+                "id": 121133,
+                "rent": 9017,
+                "area": 73,
+                "street": "övre besvärsgatan",
+                "street_number": "3",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1956,
+                "$last_seen": "2024-04-04T07:47:18.232Z"
               }
             ],
             "rosensköldsgatan": [
