@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-04T13:47:23.790Z",
+  "lastUpdatedAt": "2024-04-04T14:51:37.376Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -52838,6 +52838,19 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1905,
                 "$last_seen": "2024-03-26T11:43:59.978Z"
+              },
+              {
+                "id": 121138,
+                "rent": 14912,
+                "area": 96,
+                "street": "vidblicksgatan",
+                "street_number": "4",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1913,
+                "$last_seen": "2024-04-04T13:47:23.790Z"
               }
             ],
             "pontus wiknersgatan": [
@@ -63089,6 +63102,19 @@
                 "$districtName": "högsbo",
                 "last_accept": 1422,
                 "$last_seen": "2024-02-29T09:35:16.037Z"
+              },
+              {
+                "id": 120728,
+                "rent": 9282,
+                "area": 56,
+                "street": "skäpplandsgatan",
+                "street_number": "25",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 1734,
+                "$last_seen": "2024-04-04T13:47:23.790Z"
               }
             ]
           },
@@ -102906,6 +102932,23 @@
                 "$districtName": "huddinge sankt mikael",
                 "last_accept": 1754,
                 "$last_seen": "2024-01-05T06:40:17.885Z"
+              }
+            ]
+          },
+          "stockholms oscar": {
+            "sandhamnsgatan": [
+              {
+                "id": 121620,
+                "rent": 19654,
+                "area": 135,
+                "street": "sandhamnsgatan",
+                "street_number": "36",
+                "city": "stockholm",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "stockholms oscar",
+                "last_accept": 2032,
+                "$last_seen": "2024-04-04T13:47:23.790Z"
               }
             ]
           }
