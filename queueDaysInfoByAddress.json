@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-04T09:47:40.725Z",
+  "lastUpdatedAt": "2024-04-04T10:52:27.609Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -42459,6 +42459,19 @@
                 "$last_seen": "2024-03-19T07:42:58.724Z"
               },
               {
+                "id": 118272,
+                "rent": 7884,
+                "area": 83,
+                "street": "fyrklöversgatan",
+                "street_number": "48",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1913,
+                "$last_seen": "2024-04-04T09:47:40.725Z"
+              },
+              {
                 "id": 118303,
                 "rent": 8745,
                 "area": 43,
@@ -71924,6 +71937,19 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1911,
                 "$last_seen": "2024-03-21T07:44:49.358Z"
+              },
+              {
+                "id": 121020,
+                "rent": 9170,
+                "area": 60,
+                "street": "kobbarnas väg",
+                "street_number": "4",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1912,
+                "$last_seen": "2024-04-04T09:47:40.725Z"
               }
             ],
             "liedstrandsgatan": [
@@ -91026,6 +91052,19 @@
                 "$districtName": "kirseberg",
                 "last_accept": 972,
                 "$last_seen": "2024-03-28T10:49:40.279Z"
+              },
+              {
+                "id": 120416,
+                "rent": 8969,
+                "area": 64,
+                "street": "högamöllegatan",
+                "street_number": "3 a",
+                "city": "malmö",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "kirseberg",
+                "last_accept": 277,
+                "$last_seen": "2024-04-04T09:47:40.725Z"
               }
             ],
             "floragatan": [
@@ -97073,6 +97112,19 @@
                 "$districtName": "fosie",
                 "last_accept": 7,
                 "$last_seen": "2024-03-27T07:43:31.867Z"
+              },
+              {
+                "id": 121581,
+                "rent": 11064,
+                "area": 73,
+                "street": "kantatgatan",
+                "street_number": "7",
+                "city": "malmö ",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "fosie",
+                "last_accept": 4,
+                "$last_seen": "2024-04-04T09:47:40.725Z"
               }
             ]
           }
@@ -98593,6 +98645,19 @@
           "östra torn": {
             "vetenskapsgatan": [
               {
+                "id": 111421,
+                "rent": 8606,
+                "area": 42,
+                "street": "vetenskapsgatan",
+                "street_number": "4a",
+                "city": "lund",
+                "municipality": "lund",
+                "county": "skåne län",
+                "$districtName": "östra torn",
+                "last_accept": 1094,
+                "$last_seen": "2024-04-04T09:47:40.725Z"
+              },
+              {
                 "id": 113733,
                 "rent": 9701,
                 "area": 53,
@@ -98647,6 +98712,19 @@
                 "$districtName": "östra torn",
                 "last_accept": 20,
                 "$last_seen": "2024-03-23T11:44:45.220Z"
+              },
+              {
+                "id": 121311,
+                "rent": 11760,
+                "area": 69,
+                "street": "vipeholms allé",
+                "street_number": "6 b",
+                "city": "lund",
+                "municipality": "lund",
+                "county": "skåne län",
+                "$districtName": "östra torn",
+                "last_accept": 0,
+                "$last_seen": "2024-04-04T09:47:40.725Z"
               },
               {
                 "id": 121683,
