@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-05T06:53:01.584Z",
+  "lastUpdatedAt": "2024-04-05T07:47:46.656Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -75541,6 +75541,19 @@
                 "$districtName": "bäckebol",
                 "last_accept": 443,
                 "$last_seen": "2024-04-02T06:49:28.512Z"
+              },
+              {
+                "id": 121135,
+                "rent": 7125,
+                "area": 28,
+                "street": "herr arnes gata",
+                "street_number": "1",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bäckebol",
+                "last_accept": 617,
+                "$last_seen": "2024-04-05T06:53:01.584Z"
               }
             ],
             "backadalen": [
