@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-05T11:48:08.637Z",
+  "lastUpdatedAt": "2024-04-05T13:04:40.382Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -65875,6 +65875,19 @@
                 "$districtName": "gunnared",
                 "last_accept": 1068,
                 "$last_seen": "2024-03-05T09:33:20.464Z"
+              },
+              {
+                "id": 121937,
+                "rent": 6174,
+                "area": 35,
+                "street": "gårdstensvägen",
+                "street_number": "51",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "gunnared",
+                "last_accept": 660,
+                "$last_seen": "2024-04-05T11:48:08.637Z"
               }
             ]
           },
