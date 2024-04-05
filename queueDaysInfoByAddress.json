@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-05T07:47:46.656Z",
+  "lastUpdatedAt": "2024-04-05T09:00:59.277Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -33918,6 +33918,19 @@
                 "$districtName": "biskopsgården",
                 "last_accept": 1890,
                 "$last_seen": "2024-03-25T07:44:36.083Z"
+              },
+              {
+                "id": 120431,
+                "rent": 7000,
+                "area": 48,
+                "street": "långströmsgatan",
+                "street_number": "19a",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "biskopsgården",
+                "last_accept": 1647,
+                "$last_seen": "2024-04-05T07:47:46.656Z"
               }
             ],
             "temperaturgatan": [
@@ -72240,6 +72253,19 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1742,
                 "$last_seen": "2023-11-10T11:40:09.130Z"
+              },
+              {
+                "id": 116759,
+                "rent": 7307,
+                "area": 49,
+                "street": "runebergsgatan",
+                "street_number": "2",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1914,
+                "$last_seen": "2024-04-05T07:47:46.656Z"
               }
             ],
             "redbergsvägen": [
