@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-05T05:50:37.779Z",
+  "lastUpdatedAt": "2024-04-05T06:53:01.584Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -90842,6 +90842,19 @@
                 "$districtName": "kirseberg",
                 "last_accept": 273,
                 "$last_seen": "2024-02-12T07:34:44.472Z"
+              },
+              {
+                "id": 120279,
+                "rent": 7748,
+                "area": 51,
+                "street": "lundavägen",
+                "street_number": "55 b",
+                "city": "malmö",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "kirseberg",
+                "last_accept": 8,
+                "$last_seen": "2024-04-05T05:50:37.779Z"
               }
             ],
             "högamöllegatan": [
@@ -105681,6 +105694,19 @@
                 "$districtName": "linköpings sankt lars",
                 "last_accept": 1360,
                 "$last_seen": "2024-04-02T09:44:25.627Z"
+              },
+              {
+                "id": 120376,
+                "rent": 7820,
+                "area": 56,
+                "street": "nya tanneforsvägen",
+                "street_number": "26 c",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "linköpings sankt lars",
+                "last_accept": 948,
+                "$last_seen": "2024-04-05T05:50:37.779Z"
               },
               {
                 "id": 120377,
