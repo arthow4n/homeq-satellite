@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-05T13:04:40.382Z",
+  "lastUpdatedAt": "2024-04-05T13:49:08.614Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -98933,6 +98933,19 @@
                 "$districtName": "östra torn",
                 "last_accept": 44,
                 "$last_seen": "2024-04-03T11:46:43.990Z"
+              },
+              {
+                "id": 121808,
+                "rent": 10222,
+                "area": 53,
+                "street": "vipeholms allé",
+                "street_number": "11",
+                "city": "lund",
+                "municipality": "lund",
+                "county": "skåne län",
+                "$districtName": "östra torn",
+                "last_accept": 1,
+                "$last_seen": "2024-04-05T13:04:40.382Z"
               }
             ]
           },
@@ -99100,6 +99113,19 @@
                 "$districtName": "lunds allhelgona",
                 "last_accept": 80,
                 "$last_seen": "2024-04-04T11:47:17.256Z"
+              },
+              {
+                "id": 121466,
+                "rent": 6528,
+                "area": 29,
+                "street": "vipeholms allé",
+                "street_number": "6 b",
+                "city": "lund",
+                "municipality": "lund",
+                "county": "skåne län",
+                "$districtName": "lunds allhelgona",
+                "last_accept": 31,
+                "$last_seen": "2024-04-05T13:04:40.382Z"
               }
             ]
           }
