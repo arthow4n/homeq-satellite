@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-05T09:00:59.277Z",
+  "lastUpdatedAt": "2024-04-05T09:48:21.420Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -77670,6 +77670,19 @@
                 "$districtName": "tynnered",
                 "last_accept": 1698,
                 "$last_seen": "2024-02-28T09:35:23.236Z"
+              },
+              {
+                "id": 115768,
+                "rent": 8180,
+                "area": 66,
+                "street": "karneolgatan",
+                "street_number": "43",
+                "city": "västra frölunda",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tynnered",
+                "last_accept": 1547,
+                "$last_seen": "2024-04-05T09:00:59.277Z"
               }
             ],
             "smaragdgatan": [
@@ -92533,6 +92546,19 @@
                 "$districtName": "malmö sankt pauli",
                 "last_accept": 65,
                 "$last_seen": "2024-01-31T14:36:48.103Z"
+              },
+              {
+                "id": 120285,
+                "rent": 12237,
+                "area": 71.9,
+                "street": "garagegatan",
+                "street_number": "14b",
+                "city": "malmö",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "malmö sankt pauli",
+                "last_accept": 218,
+                "$last_seen": "2024-04-05T09:00:59.277Z"
               }
             ],
             "lugna gatan": [
@@ -99054,6 +99080,19 @@
                 "$districtName": "dalby",
                 "last_accept": 0,
                 "$last_seen": "2024-03-20T11:43:48.065Z"
+              },
+              {
+                "id": 121444,
+                "rent": 6490,
+                "area": 35,
+                "street": "tresädesgränden",
+                "street_number": "4a",
+                "city": "dalby",
+                "municipality": "lund",
+                "county": "skåne län",
+                "$districtName": "dalby",
+                "last_accept": 0,
+                "$last_seen": "2024-04-05T07:47:46.656Z"
               }
             ]
           }
