@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-07T10:51:07.171Z",
+  "lastUpdatedAt": "2024-04-07T11:48:01.482Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -98892,6 +98892,19 @@
                 "$districtName": "östra torn",
                 "last_accept": 1,
                 "$last_seen": "2024-04-02T13:45:51.291Z"
+              },
+              {
+                "id": 121099,
+                "rent": 9393,
+                "area": 61,
+                "street": "stralsundsvägen",
+                "street_number": "35",
+                "city": "lund",
+                "municipality": "lund",
+                "county": "skåne län",
+                "$districtName": "östra torn",
+                "last_accept": 8,
+                "$last_seen": "2024-04-07T10:51:07.171Z"
               }
             ],
             "vipeholms allé": [
