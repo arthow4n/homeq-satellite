@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-08T11:48:07.223Z",
+  "lastUpdatedAt": "2024-04-08T13:05:42.078Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -33920,6 +33920,19 @@
                 "$last_seen": "2024-03-25T07:44:36.083Z"
               },
               {
+                "id": 120388,
+                "rent": 9183,
+                "area": 66,
+                "street": "långströmsgatan",
+                "street_number": "12c",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "biskopsgården",
+                "last_accept": 1162,
+                "$last_seen": "2024-04-08T11:48:07.223Z"
+              },
+              {
                 "id": 120431,
                 "rent": 7000,
                 "area": 48,
@@ -64221,6 +64234,19 @@
                 "$last_seen": "2024-03-20T08:47:14.218Z"
               },
               {
+                "id": 118800,
+                "rent": 8994,
+                "area": 61,
+                "street": "wieselgrensplatsen",
+                "street_number": "1",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brämaregården",
+                "last_accept": 1916,
+                "$last_seen": "2024-04-08T11:48:07.223Z"
+              },
+              {
                 "id": 118827,
                 "rent": 4519,
                 "area": 20,
@@ -65914,6 +65940,19 @@
                 "$districtName": "gunnared",
                 "last_accept": 660,
                 "$last_seen": "2024-04-05T11:48:08.637Z"
+              },
+              {
+                "id": 121938,
+                "rent": 6191,
+                "area": 35,
+                "street": "gårdstensvägen",
+                "street_number": "55",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "gunnared",
+                "last_accept": 787,
+                "$last_seen": "2024-04-08T11:48:07.223Z"
               },
               {
                 "id": 121944,
@@ -75630,19 +75669,6 @@
                 "$districtName": "bäckebol",
                 "last_accept": 394,
                 "$last_seen": "2024-03-26T07:43:45.399Z"
-              },
-              {
-                "id": 121130,
-                "rent": 7052,
-                "area": 29,
-                "street": "skogsdrottningen",
-                "street_number": "4",
-                "city": "göteborg",
-                "municipality": "göteborg",
-                "county": "västra götalands län",
-                "$districtName": "bäckebol",
-                "last_accept": 614,
-                "$last_seen": "2024-04-02T06:49:28.512Z"
               }
             ],
             "herr arnes gata": [
@@ -103978,19 +104004,6 @@
                 "$last_seen": "2024-03-26T13:00:59.362Z"
               },
               {
-                "id": 120498,
-                "rent": 4828,
-                "area": 24,
-                "street": "brommabågen",
-                "street_number": "4",
-                "city": "bromma",
-                "municipality": "stockholm",
-                "county": "stockholms län",
-                "$districtName": "bromma",
-                "last_accept": 1755,
-                "$last_seen": "2024-04-08T05:52:28.906Z"
-              },
-              {
                 "id": 120540,
                 "rent": 4675,
                 "area": 22,
@@ -105426,6 +105439,19 @@
                 "$districtName": "hammarby",
                 "last_accept": 258,
                 "$last_seen": "2024-03-27T14:47:30.053Z"
+              },
+              {
+                "id": 120470,
+                "rent": 7109,
+                "area": 29,
+                "street": "dragonvägen",
+                "street_number": "7",
+                "city": "stockholm",
+                "municipality": "upplands väsby",
+                "county": "stockholms län",
+                "$districtName": "hammarby",
+                "last_accept": 495,
+                "$last_seen": "2024-04-08T11:48:07.223Z"
               }
             ]
           }
@@ -106226,6 +106252,19 @@
                 "$districtName": "linköpings sankt lars",
                 "last_accept": 1360,
                 "$last_seen": "2024-04-02T09:44:25.627Z"
+              },
+              {
+                "id": 120372,
+                "rent": 7820,
+                "area": 56,
+                "street": "nya tanneforsvägen",
+                "street_number": "40 c",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "linköpings sankt lars",
+                "last_accept": 797,
+                "$last_seen": "2024-04-08T11:48:07.223Z"
               },
               {
                 "id": 120376,
