@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-08T08:53:00.097Z",
+  "lastUpdatedAt": "2024-04-08T09:50:02.979Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -41203,6 +41203,19 @@
                 "$districtName": "västra frölunda",
                 "last_accept": 1731,
                 "$last_seen": "2024-03-07T09:33:49.443Z"
+              },
+              {
+                "id": 121823,
+                "rent": 10969,
+                "area": 71,
+                "street": "transistorgatan",
+                "street_number": "41",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "västra frölunda",
+                "last_accept": 1825,
+                "$last_seen": "2024-04-08T08:53:00.097Z"
               }
             ],
             "altplatsen": [
@@ -101824,6 +101837,19 @@
                 "$districtName": "vantör",
                 "last_accept": 1710,
                 "$last_seen": "2024-03-25T08:49:48.133Z"
+              },
+              {
+                "id": 121209,
+                "rent": 11244,
+                "area": 84,
+                "street": "vintrosagatan",
+                "street_number": "14",
+                "city": "bandhagen",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 1987,
+                "$last_seen": "2024-04-08T08:53:00.097Z"
               }
             ],
             "skyllbergsgatan": [
