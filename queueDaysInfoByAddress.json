@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-08T15:47:54.889Z",
+  "lastUpdatedAt": "2024-04-08T16:56:40.394Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -48572,6 +48572,19 @@
                 "$last_seen": "2024-03-04T15:34:02.569Z"
               },
               {
+                "id": 118307,
+                "rent": 5284,
+                "area": 54,
+                "street": "februarigatan",
+                "street_number": "5",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "kortedala",
+                "last_accept": 1553,
+                "$last_seen": "2024-04-08T15:47:54.889Z"
+              },
+              {
                 "id": 120995,
                 "rent": 5528,
                 "area": 55,
@@ -62197,6 +62210,19 @@
                 "$districtName": "högsbo",
                 "last_accept": 1325,
                 "$last_seen": "2024-03-27T10:48:46.373Z"
+              },
+              {
+                "id": 122646,
+                "rent": 8839,
+                "area": 62,
+                "street": "pennygången",
+                "street_number": "4",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 411,
+                "$last_seen": "2024-04-08T15:47:54.889Z"
               }
             ],
             "skillingmyntsgatan": [
