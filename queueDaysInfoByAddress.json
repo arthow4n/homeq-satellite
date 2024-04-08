@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-08T09:50:02.979Z",
+  "lastUpdatedAt": "2024-04-08T10:56:05.015Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -79749,6 +79749,19 @@
                 "$districtName": "tynnered",
                 "last_accept": 792,
                 "$last_seen": "2024-03-04T09:13:29.566Z"
+              },
+              {
+                "id": 121127,
+                "rent": 8333,
+                "area": 86,
+                "street": "safirgatan",
+                "street_number": "9",
+                "city": "västra frölunda",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tynnered",
+                "last_accept": 1872,
+                "$last_seen": "2024-04-08T09:50:02.979Z"
               }
             ],
             "lilla grevegårdsvägen": [
@@ -94147,6 +94160,19 @@
                 "$districtName": "hyllie",
                 "last_accept": 539,
                 "$last_seen": "2024-02-26T10:40:10.739Z"
+              },
+              {
+                "id": 117361,
+                "rent": 10847,
+                "area": 63.3,
+                "street": "hyllie vattenparksgata",
+                "street_number": "19",
+                "city": "malmö",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "hyllie",
+                "last_accept": 724,
+                "$last_seen": "2024-04-08T09:50:02.979Z"
               }
             ],
             "svansjögatan": [
@@ -105785,17 +105811,17 @@
                 "$last_seen": "2024-03-26T07:43:45.399Z"
               },
               {
-                "id": 113006,
-                "rent": 10771,
-                "area": 50,
+                "id": 114457,
+                "rent": 10867,
+                "area": 54,
                 "street": "kunskapslänken",
                 "street_number": "44",
                 "city": "linköping",
                 "municipality": "linköping",
                 "county": "östergötlands län",
                 "$districtName": "linköpings domkyrkodistrikt",
-                "last_accept": 10,
-                "$last_seen": "2024-03-28T05:49:21.111Z"
+                "last_accept": 16,
+                "$last_seen": "2024-04-08T09:50:02.979Z"
               },
               {
                 "id": 114494,
@@ -105895,6 +105921,66 @@
                 "$districtName": "linköpings domkyrkodistrikt",
                 "last_accept": 587,
                 "$last_seen": "2024-03-18T07:44:26.349Z"
+              }
+            ]
+          },
+          "slaka": {
+            "mantalsgatan": [
+              {
+                "id": 107596,
+                "rent": 9335,
+                "area": 62,
+                "street": "mantalsgatan",
+                "street_number": "14",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "slaka",
+                "last_accept": 42,
+                "$last_seen": "2024-04-08T09:50:02.979Z"
+              }
+            ],
+            "ada arwedssons gata": [
+              {
+                "id": 114799,
+                "rent": 6997,
+                "area": 47,
+                "street": "ada arwedssons gata",
+                "street_number": "5",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "slaka",
+                "last_accept": 926,
+                "$last_seen": "2024-03-15T10:48:44.637Z"
+              }
+            ],
+            "johannes magnus väg": [
+              {
+                "id": 116493,
+                "rent": 5106,
+                "area": 35,
+                "street": "johannes magnus väg",
+                "street_number": "38b",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "slaka",
+                "last_accept": 414,
+                "$last_seen": "2024-03-20T11:43:48.065Z"
+              },
+              {
+                "id": 120541,
+                "rent": 5106,
+                "area": 35.1,
+                "street": "johannes magnus väg",
+                "street_number": "38b",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "slaka",
+                "last_accept": 343,
+                "$last_seen": "2024-04-03T11:46:43.990Z"
               }
             ]
           },
@@ -106082,51 +106168,6 @@
                 "$districtName": "landeryd",
                 "last_accept": 29,
                 "$last_seen": "2024-03-22T14:48:41.015Z"
-              }
-            ]
-          },
-          "slaka": {
-            "ada arwedssons gata": [
-              {
-                "id": 114799,
-                "rent": 6997,
-                "area": 47,
-                "street": "ada arwedssons gata",
-                "street_number": "5",
-                "city": "linköping",
-                "municipality": "linköping",
-                "county": "östergötlands län",
-                "$districtName": "slaka",
-                "last_accept": 926,
-                "$last_seen": "2024-03-15T10:48:44.637Z"
-              }
-            ],
-            "johannes magnus väg": [
-              {
-                "id": 116493,
-                "rent": 5106,
-                "area": 35,
-                "street": "johannes magnus väg",
-                "street_number": "38b",
-                "city": "linköping",
-                "municipality": "linköping",
-                "county": "östergötlands län",
-                "$districtName": "slaka",
-                "last_accept": 414,
-                "$last_seen": "2024-03-20T11:43:48.065Z"
-              },
-              {
-                "id": 120541,
-                "rent": 5106,
-                "area": 35.1,
-                "street": "johannes magnus väg",
-                "street_number": "38b",
-                "city": "linköping",
-                "municipality": "linköping",
-                "county": "östergötlands län",
-                "$districtName": "slaka",
-                "last_accept": 343,
-                "$last_seen": "2024-04-03T11:46:43.990Z"
               }
             ]
           },
