@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-08T07:48:34.160Z",
+  "lastUpdatedAt": "2024-04-08T08:53:00.097Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -56322,6 +56322,19 @@
                 "$districtName": "björkekärr",
                 "last_accept": 778,
                 "$last_seen": "2024-03-07T09:33:49.443Z"
+              },
+              {
+                "id": 120034,
+                "rent": 7666,
+                "area": 49,
+                "street": "smörslätten",
+                "street_number": "20",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "björkekärr",
+                "last_accept": 1880,
+                "$last_seen": "2024-04-08T07:48:34.160Z"
               }
             ],
             "stabbegatan": [
@@ -58606,6 +58619,19 @@
                 "$districtName": "askim",
                 "last_accept": 1121,
                 "$last_seen": "2024-03-28T10:49:40.279Z"
+              },
+              {
+                "id": 119991,
+                "rent": 12829,
+                "area": 96,
+                "street": "kobbegården",
+                "street_number": "20",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 1904,
+                "$last_seen": "2024-04-08T07:48:34.160Z"
               },
               {
                 "id": 119994,
@@ -64193,19 +64219,6 @@
                 "$districtName": "brämaregården",
                 "last_accept": 1898,
                 "$last_seen": "2024-03-20T08:47:14.218Z"
-              },
-              {
-                "id": 118800,
-                "rent": 8994,
-                "area": 61,
-                "street": "wieselgrensplatsen",
-                "street_number": "1",
-                "city": "göteborg",
-                "municipality": "göteborg",
-                "county": "västra götalands län",
-                "$districtName": "brämaregården",
-                "last_accept": 1912,
-                "$last_seen": "2024-04-04T13:04:32.516Z"
               },
               {
                 "id": 118827,
@@ -98160,6 +98173,19 @@
                 "$districtName": "bunkeflo",
                 "last_accept": 1,
                 "$last_seen": "2024-02-07T14:35:53.216Z"
+              },
+              {
+                "id": 119432,
+                "rent": 10601,
+                "area": 69.8,
+                "street": "skomakarebyn",
+                "street_number": "4a",
+                "city": "bunkeflostrand",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "bunkeflo",
+                "last_accept": 206,
+                "$last_seen": "2024-04-08T07:48:34.160Z"
               }
             ],
             "smedmästarebyn": [
@@ -99025,6 +99051,21 @@
                 "last_accept": 1,
                 "$last_seen": "2024-04-05T13:04:40.382Z"
               }
+            ],
+            "brunnshögsgatan": [
+              {
+                "id": 122050,
+                "rent": 6674,
+                "area": 40.2,
+                "street": "brunnshögsgatan",
+                "street_number": "20c",
+                "city": "lund",
+                "municipality": "lund",
+                "county": "skåne län",
+                "$districtName": "östra torn",
+                "last_accept": 1056,
+                "$last_seen": "2024-04-08T07:48:34.160Z"
+              }
             ]
           },
           "lunds helgeand": {
@@ -99102,6 +99143,19 @@
           },
           "lunds domkyrkodistrikt": {
             "tellusgatan": [
+              {
+                "id": 116924,
+                "rent": 9768,
+                "area": 62,
+                "street": "tellusgatan",
+                "street_number": "9c",
+                "city": "lund",
+                "municipality": "lund",
+                "county": "skåne län",
+                "$districtName": "lunds domkyrkodistrikt",
+                "last_accept": 165,
+                "$last_seen": "2024-04-08T07:48:34.160Z"
+              },
               {
                 "id": 117741,
                 "rent": 7760,
@@ -102655,6 +102709,19 @@
                 "$districtName": "vällingby",
                 "last_accept": 1659,
                 "$last_seen": "2023-07-31T07:38:03.585Z"
+              },
+              {
+                "id": 121313,
+                "rent": 8247,
+                "area": 58.3,
+                "street": "ångermannagatan",
+                "street_number": "189",
+                "city": "stockholm",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vällingby",
+                "last_accept": 1692,
+                "$last_seen": "2024-04-08T07:48:34.160Z"
               }
             ]
           },
@@ -105757,21 +105824,6 @@
                 "$districtName": "linköpings domkyrkodistrikt",
                 "last_accept": 7,
                 "$last_seen": "2024-03-27T08:48:50.160Z"
-              }
-            ],
-            "klarbärsgatan": [
-              {
-                "id": 118187,
-                "rent": 10203,
-                "area": 70,
-                "street": "klarbärsgatan",
-                "street_number": "3 a",
-                "city": "linköping",
-                "municipality": "linköping",
-                "county": "östergötlands län",
-                "$districtName": "linköpings domkyrkodistrikt",
-                "last_accept": 12,
-                "$last_seen": "2024-04-04T14:51:37.376Z"
               }
             ],
             "berzeliigatan": [
