@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-08T06:53:55.693Z",
+  "lastUpdatedAt": "2024-04-08T07:48:34.160Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -65877,6 +65877,19 @@
                 "$last_seen": "2024-03-05T09:33:20.464Z"
               },
               {
+                "id": 121933,
+                "rent": 6612,
+                "area": 40,
+                "street": "gårdstensvägen",
+                "street_number": "50",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "gunnared",
+                "last_accept": 847,
+                "$last_seen": "2024-04-08T06:53:55.693Z"
+              },
+              {
                 "id": 121937,
                 "rent": 6174,
                 "area": 35,
@@ -65888,6 +65901,32 @@
                 "$districtName": "gunnared",
                 "last_accept": 660,
                 "$last_seen": "2024-04-05T11:48:08.637Z"
+              },
+              {
+                "id": 121951,
+                "rent": 5612,
+                "area": 34,
+                "street": "gårdstensvägen",
+                "street_number": "61",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "gunnared",
+                "last_accept": 475,
+                "$last_seen": "2024-04-08T06:53:55.693Z"
+              },
+              {
+                "id": 121956,
+                "rent": 5549,
+                "area": 33,
+                "street": "gårdstensvägen",
+                "street_number": "61",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "gunnared",
+                "last_accept": 641,
+                "$last_seen": "2024-04-08T06:53:55.693Z"
               }
             ]
           },
@@ -80409,6 +80448,19 @@
                 "$districtName": "västra frölunda",
                 "last_accept": 992,
                 "$last_seen": "2024-03-26T14:48:21.521Z"
+              },
+              {
+                "id": 120296,
+                "rent": 11482,
+                "area": 80,
+                "street": "speldosegatan",
+                "street_number": "8",
+                "city": "västra frölunda",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "västra frölunda",
+                "last_accept": 1098,
+                "$last_seen": "2024-04-08T06:53:55.693Z"
               }
             ],
             "tamburingatan": [
@@ -105314,6 +105366,19 @@
                 "$last_seen": "2024-04-02T13:03:55.185Z"
               },
               {
+                "id": 114195,
+                "rent": 9346,
+                "area": 54,
+                "street": "söderleden",
+                "street_number": "39c",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "berga",
+                "last_accept": 72,
+                "$last_seen": "2024-04-08T06:53:55.693Z"
+              },
+              {
                 "id": 114201,
                 "rent": 6714,
                 "area": 34.8,
@@ -106066,6 +106131,19 @@
                 "$districtName": "linköpings sankt lars",
                 "last_accept": 1097,
                 "$last_seen": "2024-03-28T10:49:40.279Z"
+              },
+              {
+                "id": 121734,
+                "rent": 5087,
+                "area": 40,
+                "street": "nya tanneforsvägen",
+                "street_number": "32 b",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "linköpings sankt lars",
+                "last_accept": 275,
+                "$last_seen": "2024-04-08T06:53:55.693Z"
               }
             ],
             "gamla tanneforsvägen": [
