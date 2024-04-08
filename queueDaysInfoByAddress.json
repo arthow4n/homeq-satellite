@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-08T13:49:14.680Z",
+  "lastUpdatedAt": "2024-04-08T14:52:52.188Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -69917,6 +69917,19 @@
                 "$districtName": "örgryte",
                 "last_accept": 1552,
                 "$last_seen": "2023-10-23T08:44:00.874Z"
+              },
+              {
+                "id": 121735,
+                "rent": 5070,
+                "area": 32,
+                "street": "jakobsdalsgatan",
+                "street_number": "17",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1870,
+                "$last_seen": "2024-04-08T13:49:14.680Z"
               }
             ],
             "kallebäcks torggata": [
@@ -83734,6 +83747,19 @@
                 "$districtName": "örgryte",
                 "last_accept": 1615,
                 "$last_seen": "2024-03-19T15:46:05.844Z"
+              },
+              {
+                "id": 120706,
+                "rent": 7845,
+                "area": 35,
+                "street": "smörkärnegatan",
+                "street_number": "25",
+                "city": "göteborg",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1598,
+                "$last_seen": "2024-04-08T13:49:14.680Z"
               },
               {
                 "id": 120718,
@@ -105669,6 +105695,19 @@
                 "$last_seen": "2024-03-18T13:44:22.056Z"
               },
               {
+                "id": 117767,
+                "rent": 8856,
+                "area": 78,
+                "street": "konstruktörsgatan",
+                "street_number": "56",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "berga",
+                "last_accept": 1,
+                "$last_seen": "2024-04-08T13:49:14.680Z"
+              },
+              {
                 "id": 119172,
                 "rent": 9049,
                 "area": 59.2,
@@ -105706,6 +105745,19 @@
                 "$districtName": "berga",
                 "last_accept": 14,
                 "$last_seen": "2024-04-05T10:53:51.620Z"
+              },
+              {
+                "id": 121671,
+                "rent": 4075,
+                "area": 31,
+                "street": "konstruktörsgatan",
+                "street_number": "22",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "berga",
+                "last_accept": 26,
+                "$last_seen": "2024-04-08T13:49:14.680Z"
               }
             ],
             "ridderstads gata": [
@@ -106164,6 +106216,32 @@
                 "$districtName": "landeryd",
                 "last_accept": 190,
                 "$last_seen": "2024-03-27T11:43:58.081Z"
+              },
+              {
+                "id": 121476,
+                "rent": 6439,
+                "area": 72,
+                "street": "ekholmsvägen",
+                "street_number": "14a",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "landeryd",
+                "last_accept": 126,
+                "$last_seen": "2024-04-08T13:49:14.680Z"
+              },
+              {
+                "id": 121478,
+                "rent": 5723,
+                "area": 65,
+                "street": "ekholmsvägen",
+                "street_number": "8b",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "landeryd",
+                "last_accept": 493,
+                "$last_seen": "2024-04-08T13:49:14.680Z"
               }
             ],
             "valthornsgatan": [
@@ -106246,6 +106324,32 @@
                 "$districtName": "landeryd",
                 "last_accept": 19,
                 "$last_seen": "2024-03-25T13:45:07.298Z"
+              },
+              {
+                "id": 121480,
+                "rent": 7308,
+                "area": 86.5,
+                "street": "järdalavägen",
+                "street_number": "54a",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "landeryd",
+                "last_accept": 123,
+                "$last_seen": "2024-04-08T13:49:14.680Z"
+              },
+              {
+                "id": 121701,
+                "rent": 6411,
+                "area": 65.7,
+                "street": "järdalavägen",
+                "street_number": "54a",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "landeryd",
+                "last_accept": 75,
+                "$last_seen": "2024-04-08T13:49:14.680Z"
               }
             ],
             "ekholmens centrum": [
@@ -106261,6 +106365,19 @@
                 "$districtName": "landeryd",
                 "last_accept": 29,
                 "$last_seen": "2024-03-22T14:48:41.015Z"
+              },
+              {
+                "id": 121699,
+                "rent": 4361,
+                "area": 46,
+                "street": "ekholmens centrum",
+                "street_number": "1a",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "landeryd",
+                "last_accept": 111,
+                "$last_seen": "2024-04-08T13:49:14.680Z"
               }
             ]
           },
