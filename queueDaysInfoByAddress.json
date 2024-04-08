@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-08T10:56:05.015Z",
+  "lastUpdatedAt": "2024-04-08T11:48:07.223Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -42485,19 +42485,6 @@
                 "$last_seen": "2024-03-19T07:42:58.724Z"
               },
               {
-                "id": 118272,
-                "rent": 7884,
-                "area": 83,
-                "street": "fyrklöversgatan",
-                "street_number": "48",
-                "city": "göteborg",
-                "municipality": "göteborg",
-                "county": "västra götalands län",
-                "$districtName": "lundby",
-                "last_accept": 1913,
-                "$last_seen": "2024-04-04T09:47:40.725Z"
-              },
-              {
                 "id": 118303,
                 "rent": 8745,
                 "area": 43,
@@ -65929,6 +65916,19 @@
                 "$last_seen": "2024-04-05T11:48:08.637Z"
               },
               {
+                "id": 121944,
+                "rent": 6191,
+                "area": 35,
+                "street": "gårdstensvägen",
+                "street_number": "55",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "gunnared",
+                "last_accept": 886,
+                "$last_seen": "2024-04-08T10:56:05.015Z"
+              },
+              {
                 "id": 121951,
                 "rent": 5612,
                 "area": 34,
@@ -77452,6 +77452,19 @@
                 "$districtName": "askim",
                 "last_accept": 0,
                 "$last_seen": "2024-03-18T09:44:10.856Z"
+              },
+              {
+                "id": 119029,
+                "rent": 7990,
+                "area": 34,
+                "street": "sisjöbäckens väg",
+                "street_number": "4",
+                "city": "askim",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 70,
+                "$last_seen": "2024-04-08T10:56:05.015Z"
               }
             ],
             "kobbegården": [
@@ -105981,6 +105994,21 @@
                 "$districtName": "slaka",
                 "last_accept": 343,
                 "$last_seen": "2024-04-03T11:46:43.990Z"
+              }
+            ],
+            "spannmålsgatan": [
+              {
+                "id": 121443,
+                "rent": 9913,
+                "area": 63,
+                "street": "spannmålsgatan",
+                "street_number": "5",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "slaka",
+                "last_accept": 9,
+                "$last_seen": "2024-04-08T10:56:05.015Z"
               }
             ]
           },
