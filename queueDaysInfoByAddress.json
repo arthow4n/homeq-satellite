@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-08T14:52:52.188Z",
+  "lastUpdatedAt": "2024-04-08T15:47:54.889Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -92823,6 +92823,19 @@
                 "$districtName": "malmö sankt pauli",
                 "last_accept": 1200,
                 "$last_seen": "2023-10-13T08:45:17.989Z"
+              },
+              {
+                "id": 118618,
+                "rent": 12706,
+                "area": 88,
+                "street": "ehrensvärdsgatan",
+                "street_number": "20",
+                "city": "malmö",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "malmö sankt pauli",
+                "last_accept": 804,
+                "$last_seen": "2024-04-08T14:52:52.188Z"
               }
             ],
             "linjeettgatan": [
@@ -104054,6 +104067,19 @@
                 "$districtName": "bromma",
                 "last_accept": 1678,
                 "$last_seen": "2024-03-26T13:00:59.362Z"
+              },
+              {
+                "id": 120498,
+                "rent": 4828,
+                "area": 24,
+                "street": "brommabågen",
+                "street_number": "4",
+                "city": "bromma",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "bromma",
+                "last_accept": 1755,
+                "$last_seen": "2024-04-08T14:52:52.188Z"
               },
               {
                 "id": 120540,
