@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-08T05:52:28.906Z",
+  "lastUpdatedAt": "2024-04-08T06:53:55.693Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -98905,6 +98905,19 @@
                 "$districtName": "östra torn",
                 "last_accept": 8,
                 "$last_seen": "2024-04-07T10:51:07.171Z"
+              },
+              {
+                "id": 121892,
+                "rent": 10584,
+                "area": 69,
+                "street": "stralsundsvägen",
+                "street_number": "35",
+                "city": "lund",
+                "municipality": "lund",
+                "county": "skåne län",
+                "$districtName": "östra torn",
+                "last_accept": 22,
+                "$last_seen": "2024-04-08T05:52:28.906Z"
               }
             ],
             "vipeholms allé": [
@@ -103781,6 +103794,19 @@
                 "$last_seen": "2024-03-26T13:00:59.362Z"
               },
               {
+                "id": 120498,
+                "rent": 4828,
+                "area": 24,
+                "street": "brommabågen",
+                "street_number": "4",
+                "city": "bromma",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "bromma",
+                "last_accept": 1755,
+                "$last_seen": "2024-04-08T05:52:28.906Z"
+              },
+              {
                 "id": 120540,
                 "rent": 4675,
                 "area": 22,
@@ -105220,6 +105246,27 @@
             ]
           }
         }
+      },
+      "österåker": {
+        "stockholm": {
+          "österåker-östra ryd": {
+            "södra atriumvägen": [
+              {
+                "id": 119415,
+                "rent": 19500,
+                "area": 125,
+                "street": "södra atriumvägen",
+                "street_number": "29",
+                "city": "stockholm",
+                "municipality": "österåker",
+                "county": "stockholms län",
+                "$districtName": "österåker-östra ryd",
+                "last_accept": 118,
+                "$last_seen": "2024-04-08T05:52:28.906Z"
+              }
+            ]
+          }
+        }
       }
     },
     "östergötlands län": {
@@ -106064,6 +106111,21 @@
                 "$districtName": "linköpings sankt lars",
                 "last_accept": 569,
                 "$last_seen": "2024-03-28T08:48:17.332Z"
+              }
+            ],
+            "snickaregatan": [
+              {
+                "id": 121307,
+                "rent": 6039,
+                "area": 60,
+                "street": "snickaregatan",
+                "street_number": "16b",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "linköpings sankt lars",
+                "last_accept": 1597,
+                "$last_seen": "2024-04-08T05:52:28.906Z"
               }
             ],
             "skördegatan": [
