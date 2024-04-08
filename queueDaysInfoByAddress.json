@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-08T13:05:42.078Z",
+  "lastUpdatedAt": "2024-04-08T13:49:14.680Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -33944,6 +33944,19 @@
                 "$districtName": "biskopsgården",
                 "last_accept": 1647,
                 "$last_seen": "2024-04-05T07:47:46.656Z"
+              },
+              {
+                "id": 120823,
+                "rent": 6605,
+                "area": 41,
+                "street": "långströmsgatan",
+                "street_number": "22b",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "biskopsgården",
+                "last_accept": 985,
+                "$last_seen": "2024-04-08T13:05:42.078Z"
               }
             ],
             "temperaturgatan": [
@@ -102101,6 +102114,19 @@
                 "$districtName": "vantör",
                 "last_accept": 1813,
                 "$last_seen": "2023-10-26T09:38:53.805Z"
+              },
+              {
+                "id": 120623,
+                "rent": 5889,
+                "area": 29,
+                "street": "porlabacken",
+                "street_number": "24",
+                "city": "bandhagen",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 1592,
+                "$last_seen": "2024-04-08T13:05:42.078Z"
               }
             ],
             "trollesundsvägen": [
@@ -105915,6 +105941,19 @@
                 "$districtName": "linköpings domkyrkodistrikt",
                 "last_accept": 7,
                 "$last_seen": "2024-03-27T08:48:50.160Z"
+              },
+              {
+                "id": 117950,
+                "rent": 7930,
+                "area": 41.8,
+                "street": "honnörsgatan",
+                "street_number": "3",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "linköpings domkyrkodistrikt",
+                "last_accept": 23,
+                "$last_seen": "2024-04-08T13:05:42.078Z"
               }
             ],
             "berzeliigatan": [
