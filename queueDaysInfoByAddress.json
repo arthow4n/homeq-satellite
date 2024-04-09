@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-09T11:48:37.259Z",
+  "lastUpdatedAt": "2024-04-09T13:06:24.972Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -47503,6 +47503,19 @@
                 "$districtName": "bergsjön",
                 "last_accept": 1296,
                 "$last_seen": "2024-03-21T11:44:38.111Z"
+              },
+              {
+                "id": 122111,
+                "rent": 7844,
+                "area": 55,
+                "street": "universumsgatan",
+                "street_number": "24",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bergsjön",
+                "last_accept": 1322,
+                "$last_seen": "2024-04-09T11:48:37.259Z"
               }
             ],
             "galileisgata": [
@@ -58132,6 +58145,19 @@
                 "$districtName": "askim",
                 "last_accept": 709,
                 "$last_seen": "2024-03-14T08:36:59.351Z"
+              },
+              {
+                "id": 120360,
+                "rent": 11511,
+                "area": 81,
+                "street": "pilegården",
+                "street_number": "3b",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 1187,
+                "$last_seen": "2024-04-09T11:48:37.259Z"
               }
             ],
             "sisjövägen": [
@@ -68543,6 +68569,19 @@
                 "$districtName": "örgryte",
                 "last_accept": 1507,
                 "$last_seen": "2024-03-13T09:34:55.223Z"
+              },
+              {
+                "id": 120089,
+                "rent": 7847,
+                "area": 35,
+                "street": "separatorsgatan",
+                "street_number": "6",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1666,
+                "$last_seen": "2024-04-09T11:48:37.259Z"
               }
             ],
             "skummjölksgatan": [
@@ -77647,6 +77686,19 @@
                 "$districtName": "askim",
                 "last_accept": 70,
                 "$last_seen": "2024-04-08T10:56:05.015Z"
+              },
+              {
+                "id": 120655,
+                "rent": 8510,
+                "area": 33,
+                "street": "sisjöbäckens väg",
+                "street_number": "24",
+                "city": "askim",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 66,
+                "$last_seen": "2024-04-09T11:48:37.259Z"
               }
             ],
             "kobbegården": [
@@ -81484,6 +81536,19 @@
                 "$districtName": "älvsborg",
                 "last_accept": 1065,
                 "$last_seen": "2024-03-14T08:36:59.351Z"
+              },
+              {
+                "id": 120044,
+                "rent": 9239,
+                "area": 60.6,
+                "street": "stengetsgatan",
+                "street_number": "20",
+                "city": "västra frölunda ",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "älvsborg",
+                "last_accept": 1563,
+                "$last_seen": "2024-04-09T11:48:37.259Z"
               }
             ],
             "tigerstigen": [
@@ -100740,6 +100805,19 @@
                 "$districtName": "vantör",
                 "last_accept": 2078,
                 "$last_seen": "2024-02-27T23:35:40.713Z"
+              },
+              {
+                "id": 121335,
+                "rent": 6274,
+                "area": 40,
+                "street": "harpsundsvägen",
+                "street_number": "34",
+                "city": "bandhagen",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 1900,
+                "$last_seen": "2024-04-09T11:48:37.259Z"
               }
             ],
             "kilsmogatan": [
@@ -101885,6 +101963,19 @@
                 "$districtName": "vantör",
                 "last_accept": 1826,
                 "$last_seen": "2024-04-03T13:06:23.433Z"
+              },
+              {
+                "id": 121334,
+                "rent": 9166,
+                "area": 71,
+                "street": "skebokvarnsvägen",
+                "street_number": "350",
+                "city": "bandhagen",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 2102,
+                "$last_seen": "2024-04-09T11:48:37.259Z"
               }
             ],
             "bjursätragatan": [
