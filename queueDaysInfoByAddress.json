@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-09T04:53:31.971Z",
+  "lastUpdatedAt": "2024-04-09T05:51:08.349Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -50731,6 +50731,19 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1476,
                 "$last_seen": "2024-01-24T14:40:00.357Z"
+              },
+              {
+                "id": 120434,
+                "rent": 8352,
+                "area": 40,
+                "street": "nordgårdsgatan",
+                "street_number": "8",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1672,
+                "$last_seen": "2024-04-09T04:53:31.971Z"
               }
             ],
             "viktor rydbergsgatan": [
