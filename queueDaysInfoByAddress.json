@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-09T09:49:56.182Z",
+  "lastUpdatedAt": "2024-04-09T10:57:10.872Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -37064,6 +37064,19 @@
                 "$districtName": "masthugget",
                 "last_accept": 1668,
                 "$last_seen": "2024-02-05T11:35:24.279Z"
+              },
+              {
+                "id": 120530,
+                "rent": 9928,
+                "area": 55,
+                "street": "kolumbusgatan",
+                "street_number": "5",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "masthugget",
+                "last_accept": 1917,
+                "$last_seen": "2024-04-09T09:49:56.182Z"
               }
             ],
             "bangatan": [
@@ -99403,19 +99416,6 @@
           },
           "lunds domkyrkodistrikt": {
             "tellusgatan": [
-              {
-                "id": 116924,
-                "rent": 9768,
-                "area": 62,
-                "street": "tellusgatan",
-                "street_number": "9c",
-                "city": "lund",
-                "municipality": "lund",
-                "county": "skåne län",
-                "$districtName": "lunds domkyrkodistrikt",
-                "last_accept": 165,
-                "$last_seen": "2024-04-08T07:48:34.160Z"
-              },
               {
                 "id": 117741,
                 "rent": 7760,
