@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-09T06:53:45.528Z",
+  "lastUpdatedAt": "2024-04-09T07:48:52.863Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -78218,6 +78218,19 @@
                 "$districtName": "tynnered",
                 "last_accept": 716,
                 "$last_seen": "2024-03-21T11:44:38.111Z"
+              },
+              {
+                "id": 121871,
+                "rent": 10234,
+                "area": 61,
+                "street": "smaragdgatan",
+                "street_number": "10 b",
+                "city": "västra frölunda",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tynnered",
+                "last_accept": 635,
+                "$last_seen": "2024-04-09T06:53:45.528Z"
               }
             ],
             "smyckegatan": [
@@ -79312,6 +79325,19 @@
                 "$districtName": "tynnered",
                 "last_accept": 1164,
                 "$last_seen": "2024-04-03T13:49:45.467Z"
+              },
+              {
+                "id": 121828,
+                "rent": 8391,
+                "area": 69,
+                "street": "smyckegatan",
+                "street_number": "72",
+                "city": "västra frölunda",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tynnered",
+                "last_accept": 1544,
+                "$last_seen": "2024-04-09T06:53:45.528Z"
               }
             ],
             "björkhöjdsgatan": [
