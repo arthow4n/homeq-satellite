@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-09T07:48:52.863Z",
+  "lastUpdatedAt": "2024-04-09T08:53:03.518Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -58318,6 +58318,19 @@
                 "$districtName": "askim",
                 "last_accept": 631,
                 "$last_seen": "2024-01-03T09:34:23.651Z"
+              },
+              {
+                "id": 115157,
+                "rent": 11090,
+                "area": 58,
+                "street": "ugglegården",
+                "street_number": "36",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 1289,
+                "$last_seen": "2024-04-09T07:48:52.863Z"
               }
             ],
             "kobbegården": [
@@ -60278,6 +60291,19 @@
                 "$districtName": "högsbo",
                 "last_accept": 670,
                 "$last_seen": "2024-03-28T07:44:28.561Z"
+              },
+              {
+                "id": 118473,
+                "rent": 12060,
+                "area": 73,
+                "street": "nymilsgatan",
+                "street_number": "35",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 1178,
+                "$last_seen": "2024-04-09T07:48:52.863Z"
               }
             ],
             "högsbogatan": [
@@ -64323,19 +64349,6 @@
                 "$districtName": "brämaregården",
                 "last_accept": 1898,
                 "$last_seen": "2024-03-20T08:47:14.218Z"
-              },
-              {
-                "id": 118800,
-                "rent": 8994,
-                "area": 61,
-                "street": "wieselgrensplatsen",
-                "street_number": "1",
-                "city": "göteborg",
-                "municipality": "göteborg",
-                "county": "västra götalands län",
-                "$districtName": "brämaregården",
-                "last_accept": 1916,
-                "$last_seen": "2024-04-08T11:48:07.223Z"
               },
               {
                 "id": 118827,
