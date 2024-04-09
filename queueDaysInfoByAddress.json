@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-09T10:57:10.872Z",
+  "lastUpdatedAt": "2024-04-09T11:48:37.259Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -68818,6 +68818,19 @@
                 "$districtName": "örgryte",
                 "last_accept": 1465,
                 "$last_seen": "2023-12-27T08:36:04.193Z"
+              },
+              {
+                "id": 120476,
+                "rent": 12230,
+                "area": 68,
+                "street": "skummjölksgatan",
+                "street_number": "14",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1841,
+                "$last_seen": "2024-04-09T10:57:10.872Z"
               }
             ],
             "tändsticksgatan": [
@@ -102097,6 +102110,19 @@
                 "$districtName": "vantör",
                 "last_accept": 1987,
                 "$last_seen": "2024-04-08T08:53:00.097Z"
+              },
+              {
+                "id": 121211,
+                "rent": 9112,
+                "area": 65,
+                "street": "vintrosagatan",
+                "street_number": "20",
+                "city": "bandhagen",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 1707,
+                "$last_seen": "2024-04-09T10:57:10.872Z"
               }
             ],
             "skyllbergsgatan": [
