@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-09T14:52:14.867Z",
+  "lastUpdatedAt": "2024-04-09T15:50:35.728Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -81180,6 +81180,19 @@
                 "$districtName": "västra frölunda",
                 "last_accept": 1195,
                 "$last_seen": "2024-03-15T13:44:52.946Z"
+              },
+              {
+                "id": 120037,
+                "rent": 10359,
+                "area": 88,
+                "street": "marconigatan",
+                "street_number": "33 a",
+                "city": "västra frölunda",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "västra frölunda",
+                "last_accept": 1432,
+                "$last_seen": "2024-04-09T14:52:14.867Z"
               }
             ]
           },
