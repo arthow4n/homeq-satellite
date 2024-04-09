@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-09T13:50:06.412Z",
+  "lastUpdatedAt": "2024-04-09T14:52:14.867Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -33944,6 +33944,19 @@
                 "$districtName": "biskopsgården",
                 "last_accept": 1647,
                 "$last_seen": "2024-04-05T07:47:46.656Z"
+              },
+              {
+                "id": 120786,
+                "rent": 10897,
+                "area": 83,
+                "street": "långströmsgatan",
+                "street_number": "8a",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "biskopsgården",
+                "last_accept": 1507,
+                "$last_seen": "2024-04-09T13:50:06.412Z"
               },
               {
                 "id": 120789,
@@ -102134,6 +102147,19 @@
                 "$districtName": "vantör",
                 "last_accept": 2087,
                 "$last_seen": "2024-02-23T08:38:07.310Z"
+              },
+              {
+                "id": 121595,
+                "rent": 9727,
+                "area": 67,
+                "street": "bjursätragatan",
+                "street_number": "23a",
+                "city": "bandhagen",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 1499,
+                "$last_seen": "2024-04-09T13:50:06.412Z"
               }
             ],
             "vintrosagatan": [
