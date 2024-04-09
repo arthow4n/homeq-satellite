@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-09T05:51:08.349Z",
+  "lastUpdatedAt": "2024-04-09T06:53:45.528Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -42535,6 +42535,19 @@
                 "$districtName": "lundby",
                 "last_accept": 445,
                 "$last_seen": "2024-04-02T07:44:42.459Z"
+              },
+              {
+                "id": 121225,
+                "rent": 9134,
+                "area": 43,
+                "street": "fyrklöversgatan",
+                "street_number": "25",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 823,
+                "$last_seen": "2024-04-09T05:51:08.349Z"
               }
             ],
             "ö keillersgatan": [
@@ -44316,6 +44329,19 @@
                 "$districtName": "lundby",
                 "last_accept": 862,
                 "$last_seen": "2024-02-26T13:35:52.115Z"
+              },
+              {
+                "id": 120419,
+                "rent": 7205,
+                "area": 33,
+                "street": "hjalmar brantingsgatan",
+                "street_number": "104",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 905,
+                "$last_seen": "2024-04-09T05:51:08.349Z"
               }
             ],
             "gamla lundbygatan": [
@@ -50272,6 +50298,19 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1743,
                 "$last_seen": "2024-04-04T07:47:18.232Z"
+              },
+              {
+                "id": 119505,
+                "rent": 13164,
+                "area": 76,
+                "street": "ebbe lieberathsgatan",
+                "street_number": "22 e",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1892,
+                "$last_seen": "2024-04-09T05:51:08.349Z"
               },
               {
                 "id": 119520,
@@ -68071,6 +68110,19 @@
                 "$districtName": "örgryte",
                 "last_accept": 1496,
                 "$last_seen": "2024-03-21T09:44:12.187Z"
+              },
+              {
+                "id": 120092,
+                "rent": 7613,
+                "area": 35,
+                "street": "filmjölksgatan",
+                "street_number": "6",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1549,
+                "$last_seen": "2024-04-09T05:51:08.349Z"
               }
             ],
             "filmjölsgatan": [
@@ -75749,19 +75801,6 @@
                 "$districtName": "bäckebol",
                 "last_accept": 443,
                 "$last_seen": "2024-04-02T06:49:28.512Z"
-              },
-              {
-                "id": 121135,
-                "rent": 7125,
-                "area": 28,
-                "street": "herr arnes gata",
-                "street_number": "1",
-                "city": "göteborg",
-                "municipality": "göteborg",
-                "county": "västra götalands län",
-                "$districtName": "bäckebol",
-                "last_accept": 617,
-                "$last_seen": "2024-04-05T06:53:01.584Z"
               }
             ],
             "backadalen": [
