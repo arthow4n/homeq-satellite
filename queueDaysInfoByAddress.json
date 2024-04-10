@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-10T08:56:57.625Z",
+  "lastUpdatedAt": "2024-04-10T09:53:45.207Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -58210,6 +58210,19 @@
                 "$districtName": "askim",
                 "last_accept": 1187,
                 "$last_seen": "2024-04-09T11:48:37.259Z"
+              },
+              {
+                "id": 122287,
+                "rent": 5288,
+                "area": 32,
+                "street": "pilegården",
+                "street_number": "7 a",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 1066,
+                "$last_seen": "2024-04-10T08:56:57.625Z"
               }
             ],
             "sisjövägen": [
@@ -61168,6 +61181,19 @@
                 "$districtName": "högsbo",
                 "last_accept": 0,
                 "$last_seen": "2024-03-14T12:50:35.945Z"
+              },
+              {
+                "id": 121407,
+                "rent": 5896,
+                "area": 56,
+                "street": "marklandsgatan",
+                "street_number": "31",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 1914,
+                "$last_seen": "2024-04-10T07:49:56.502Z"
               }
             ],
             "pennygången": [
