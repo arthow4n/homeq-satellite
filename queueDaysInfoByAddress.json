@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-10T10:58:00.189Z",
+  "lastUpdatedAt": "2024-04-10T11:50:48.356Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -70089,6 +70089,19 @@
                 "$districtName": "örgryte",
                 "last_accept": 1567,
                 "$last_seen": "2024-03-27T14:47:30.053Z"
+              },
+              {
+                "id": 121625,
+                "rent": 7308,
+                "area": 34,
+                "street": "smörgatan",
+                "street_number": "1",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1368,
+                "$last_seen": "2024-04-10T10:58:00.189Z"
               }
             ],
             "s:t pauligatan": [
@@ -85587,6 +85600,19 @@
                 "$districtName": "fässberg",
                 "last_accept": 1597,
                 "$last_seen": "2024-01-25T15:37:22.519Z"
+              },
+              {
+                "id": 121600,
+                "rent": 7872,
+                "area": 46,
+                "street": "luktärtsgatan",
+                "street_number": "8c",
+                "city": "mölndal",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 1818,
+                "$last_seen": "2024-04-10T10:58:00.189Z"
               }
             ],
             "toltorpsgatan": [
@@ -106500,6 +106526,19 @@
               }
             ],
             "ada arwedssons gata": [
+              {
+                "id": 108828,
+                "rent": 6305,
+                "area": 38,
+                "street": "ada arwedssons gata",
+                "street_number": "6",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "slaka",
+                "last_accept": 942,
+                "$last_seen": "2024-04-10T10:58:00.189Z"
+              },
               {
                 "id": 114799,
                 "rent": 6997,
