@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-10T06:55:36.172Z",
+  "lastUpdatedAt": "2024-04-10T07:49:56.502Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -35697,6 +35697,32 @@
                 "$districtName": "nylöse",
                 "last_accept": 1360,
                 "$last_seen": "2023-12-07T15:37:59.411Z"
+              },
+              {
+                "id": 121761,
+                "rent": 10017,
+                "area": 52,
+                "street": "gamlestadsvägen",
+                "street_number": "10 d",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "nylöse",
+                "last_accept": 855,
+                "$last_seen": "2024-04-10T06:55:36.172Z"
+              },
+              {
+                "id": 121817,
+                "rent": 10258,
+                "area": 53,
+                "street": "gamlestadsvägen",
+                "street_number": "10 d",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "nylöse",
+                "last_accept": 856,
+                "$last_seen": "2024-04-10T06:55:36.172Z"
               }
             ],
             "lars kaggsgatan": [
@@ -43957,6 +43983,19 @@
                 "$districtName": "lundby",
                 "last_accept": 1670,
                 "$last_seen": "2024-02-20T10:38:24.857Z"
+              },
+              {
+                "id": 121793,
+                "rent": 6522,
+                "area": 51,
+                "street": "hällskriftsgatan",
+                "street_number": "8c",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1684,
+                "$last_seen": "2024-04-10T06:55:36.172Z"
               }
             ],
             "korstörnegatan": [
@@ -96275,6 +96314,19 @@
                 "$districtName": "limhamn",
                 "last_accept": 11,
                 "$last_seen": "2024-03-04T13:35:24.027Z"
+              },
+              {
+                "id": 116966,
+                "rent": 12126,
+                "area": 71,
+                "street": "högatan",
+                "street_number": "10 d",
+                "city": "limhamn",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "limhamn",
+                "last_accept": 322,
+                "$last_seen": "2024-04-10T06:55:36.172Z"
               },
               {
                 "id": 118353,
