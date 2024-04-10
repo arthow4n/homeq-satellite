@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-10T09:53:45.207Z",
+  "lastUpdatedAt": "2024-04-10T10:58:00.189Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -96498,6 +96498,32 @@
                 "$districtName": "limhamn",
                 "last_accept": 0,
                 "$last_seen": "2023-11-16T09:33:55.854Z"
+              },
+              {
+                "id": 122188,
+                "rent": 9054,
+                "area": 44,
+                "street": "höbalsgatan",
+                "street_number": "3",
+                "city": "limhamn",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "limhamn",
+                "last_accept": 6,
+                "$last_seen": "2024-04-10T09:53:45.207Z"
+              },
+              {
+                "id": 122192,
+                "rent": 8780,
+                "area": 44,
+                "street": "höbalsgatan",
+                "street_number": "3",
+                "city": "limhamn",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "limhamn",
+                "last_accept": 6,
+                "$last_seen": "2024-04-10T09:53:45.207Z"
               }
             ],
             "hylliekyrkoväg": [
@@ -106514,6 +106540,21 @@
                 "$districtName": "slaka",
                 "last_accept": 343,
                 "$last_seen": "2024-04-03T11:46:43.990Z"
+              }
+            ],
+            "uppfinargränd": [
+              {
+                "id": 117631,
+                "rent": 11727,
+                "area": 75,
+                "street": "uppfinargränd",
+                "street_number": "1",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "slaka",
+                "last_accept": 303,
+                "$last_seen": "2024-04-10T09:53:45.207Z"
               }
             ],
             "spannmålsgatan": [
