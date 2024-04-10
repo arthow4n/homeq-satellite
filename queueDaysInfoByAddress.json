@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-10T13:08:46.691Z",
+  "lastUpdatedAt": "2024-04-10T13:53:01.131Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -76346,6 +76346,19 @@
                 "$districtName": "brunnsbo",
                 "last_accept": 1036,
                 "$last_seen": "2024-03-11T16:38:47.305Z"
+              },
+              {
+                "id": 122353,
+                "rent": 8980,
+                "area": 62,
+                "street": "folkvisegatan",
+                "street_number": "20",
+                "city": "hisings backa",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brunnsbo",
+                "last_accept": 1164,
+                "$last_seen": "2024-04-10T13:08:46.691Z"
               }
             ],
             "klassikergatan": [
@@ -100853,6 +100866,19 @@
                 "$districtName": "vantör",
                 "last_accept": 1848,
                 "$last_seen": "2024-03-04T13:35:24.027Z"
+              },
+              {
+                "id": 121759,
+                "rent": 6719,
+                "area": 41,
+                "street": "åmmebergsgatan",
+                "street_number": "9",
+                "city": "bandhagen",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 1464,
+                "$last_seen": "2024-04-10T13:08:46.691Z"
               }
             ],
             "kvarntorpsgränd": [
@@ -101840,6 +101866,19 @@
                 "$districtName": "vantör",
                 "last_accept": 1535,
                 "$last_seen": "2024-02-22T08:37:44.661Z"
+              },
+              {
+                "id": 118982,
+                "rent": 5298,
+                "area": 26,
+                "street": "hagsätra torg",
+                "street_number": "42",
+                "city": "bandhagen",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 1583,
+                "$last_seen": "2024-04-10T13:08:46.691Z"
               }
             ],
             "pålsbodagränd": [
