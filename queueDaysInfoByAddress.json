@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-10T11:50:48.356Z",
+  "lastUpdatedAt": "2024-04-10T13:08:46.691Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -75968,6 +75968,45 @@
                 "$districtName": "bäckebol",
                 "last_accept": 394,
                 "$last_seen": "2024-03-26T07:43:45.399Z"
+              },
+              {
+                "id": 121130,
+                "rent": 7052,
+                "area": 29,
+                "street": "skogsdrottningen",
+                "street_number": "4",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bäckebol",
+                "last_accept": 678,
+                "$last_seen": "2024-04-10T11:50:48.356Z"
+              },
+              {
+                "id": 122360,
+                "rent": 6729,
+                "area": 25,
+                "street": "skogsdrottningen",
+                "street_number": "4",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bäckebol",
+                "last_accept": 430,
+                "$last_seen": "2024-04-10T11:50:48.356Z"
+              },
+              {
+                "id": 122388,
+                "rent": 7510,
+                "area": 30,
+                "street": "skogsdrottningen",
+                "street_number": "2",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bäckebol",
+                "last_accept": 363,
+                "$last_seen": "2024-04-10T11:50:48.356Z"
               }
             ],
             "herr arnes gata": [
@@ -75983,6 +76022,19 @@
                 "$districtName": "bäckebol",
                 "last_accept": 443,
                 "$last_seen": "2024-04-02T06:49:28.512Z"
+              },
+              {
+                "id": 121135,
+                "rent": 7125,
+                "area": 28,
+                "street": "herr arnes gata",
+                "street_number": "1",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bäckebol",
+                "last_accept": 622,
+                "$last_seen": "2024-04-10T11:50:48.356Z"
               }
             ],
             "backadalen": [
@@ -76011,6 +76063,19 @@
                 "$districtName": "bäckebol",
                 "last_accept": 675,
                 "$last_seen": "2024-04-02T07:44:42.459Z"
+              },
+              {
+                "id": 122391,
+                "rent": 6615,
+                "area": 25,
+                "street": "backadalen",
+                "street_number": "11",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bäckebol",
+                "last_accept": 409,
+                "$last_seen": "2024-04-10T11:50:48.356Z"
               }
             ]
           },
@@ -106609,6 +106674,19 @@
                 "$districtName": "slaka",
                 "last_accept": 9,
                 "$last_seen": "2024-04-08T10:56:05.015Z"
+              },
+              {
+                "id": 122373,
+                "rent": 8181,
+                "area": 52,
+                "street": "spannmålsgatan",
+                "street_number": "9",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "slaka",
+                "last_accept": 2,
+                "$last_seen": "2024-04-10T11:50:48.356Z"
               }
             ]
           },
