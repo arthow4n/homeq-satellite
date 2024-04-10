@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-10T07:49:56.502Z",
+  "lastUpdatedAt": "2024-04-10T08:56:57.625Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -105990,6 +105990,19 @@
                 "$districtName": "berga",
                 "last_accept": 995,
                 "$last_seen": "2024-04-02T13:03:55.185Z"
+              },
+              {
+                "id": 116926,
+                "rent": 6714,
+                "area": 34.8,
+                "street": "söderleden",
+                "street_number": "39c",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "berga",
+                "last_accept": 28,
+                "$last_seen": "2024-04-10T07:49:56.502Z"
               }
             ],
             "konstruktörsgatan": [
@@ -106537,6 +106550,19 @@
                 "$districtName": "skäggetorp",
                 "last_accept": 21,
                 "$last_seen": "2024-04-02T13:45:51.291Z"
+              },
+              {
+                "id": 122679,
+                "rent": 6293,
+                "area": 69,
+                "street": "väpnaregatan",
+                "street_number": "49",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "skäggetorp",
+                "last_accept": 0,
+                "$last_seen": "2024-04-10T07:49:56.502Z"
               }
             ],
             "skäggetorp centrum": [
@@ -106595,19 +106621,6 @@
                 "$districtName": "landeryd",
                 "last_accept": 190,
                 "$last_seen": "2024-03-27T11:43:58.081Z"
-              },
-              {
-                "id": 121476,
-                "rent": 6439,
-                "area": 72,
-                "street": "ekholmsvägen",
-                "street_number": "14a",
-                "city": "linköping",
-                "municipality": "linköping",
-                "county": "östergötlands län",
-                "$districtName": "landeryd",
-                "last_accept": 126,
-                "$last_seen": "2024-04-08T13:49:14.680Z"
               },
               {
                 "id": 121478,
@@ -107029,6 +107042,19 @@
                 "$districtName": "gamla uppsala",
                 "last_accept": 212,
                 "$last_seen": "2024-04-01T08:50:11.718Z"
+              },
+              {
+                "id": 122559,
+                "rent": 7096,
+                "area": 27.53,
+                "street": "gamla uppsalagatan",
+                "street_number": "108",
+                "city": "uppsala",
+                "municipality": "uppsala",
+                "county": "uppsala län",
+                "$districtName": "gamla uppsala",
+                "last_accept": 142,
+                "$last_seen": "2024-04-10T07:49:56.502Z"
               }
             ]
           }
