@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-11T06:57:00.557Z",
+  "lastUpdatedAt": "2024-04-11T07:51:27.807Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -56543,6 +56543,19 @@
                 "$districtName": "björkekärr",
                 "last_accept": 1880,
                 "$last_seen": "2024-04-08T07:48:34.160Z"
+              },
+              {
+                "id": 120731,
+                "rent": 5971,
+                "area": 30,
+                "street": "smörslätten",
+                "street_number": "14",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "björkekärr",
+                "last_accept": 1198,
+                "$last_seen": "2024-04-11T06:57:00.557Z"
               }
             ],
             "stabbegatan": [
@@ -101918,6 +101931,19 @@
                 "$districtName": "vantör",
                 "last_accept": 1535,
                 "$last_seen": "2024-02-22T08:37:44.661Z"
+              },
+              {
+                "id": 118982,
+                "rent": 5298,
+                "area": 26,
+                "street": "hagsätra torg",
+                "street_number": "42",
+                "city": "bandhagen",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 1584,
+                "$last_seen": "2024-04-11T06:57:00.557Z"
               },
               {
                 "id": 121575,
