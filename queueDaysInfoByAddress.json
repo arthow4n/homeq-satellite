@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-11T10:57:14.031Z",
+  "lastUpdatedAt": "2024-04-11T11:51:13.734Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -34401,6 +34401,19 @@
                 "$districtName": "biskopsgården",
                 "last_accept": 416,
                 "$last_seen": "2024-02-08T07:34:45.459Z"
+              },
+              {
+                "id": 113374,
+                "rent": 7899,
+                "area": 75,
+                "street": "temperaturgatan",
+                "street_number": "77",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "biskopsgården",
+                "last_accept": 1298,
+                "$last_seen": "2024-04-11T10:57:14.031Z"
               },
               {
                 "id": 114465,
@@ -70130,6 +70143,19 @@
                 "$last_seen": "2024-03-27T14:47:30.053Z"
               },
               {
+                "id": 120701,
+                "rent": 7308,
+                "area": 34,
+                "street": "smörgatan",
+                "street_number": "1",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1362,
+                "$last_seen": "2024-04-11T10:57:14.031Z"
+              },
+              {
                 "id": 121616,
                 "rent": 7308,
                 "area": 34,
@@ -83559,6 +83585,19 @@
                 "$last_seen": "2024-03-19T08:46:59.306Z"
               },
               {
+                "id": 118838,
+                "rent": 9876,
+                "area": 56,
+                "street": "åby allé",
+                "street_number": "63",
+                "city": "göteborg",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 1699,
+                "$last_seen": "2024-04-11T10:57:14.031Z"
+              },
+              {
                 "id": 118839,
                 "rent": 9780,
                 "area": 55,
@@ -86903,6 +86942,19 @@
                 "$districtName": "fässberg",
                 "last_accept": 1880,
                 "$last_seen": "2024-03-04T09:13:29.566Z"
+              },
+              {
+                "id": 118803,
+                "rent": 6051,
+                "area": 57,
+                "street": "stenbrogatan",
+                "street_number": "1 e",
+                "city": "mölndal",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 1862,
+                "$last_seen": "2024-04-11T10:57:14.031Z"
               },
               {
                 "id": 118966,
@@ -92254,6 +92306,19 @@
                 "$districtName": "kirseberg",
                 "last_accept": 32,
                 "$last_seen": "2024-03-28T08:48:17.332Z"
+              },
+              {
+                "id": 122187,
+                "rent": 12154,
+                "area": 84,
+                "street": "gerlachsgatan",
+                "street_number": "2 b",
+                "city": "malmö",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "kirseberg",
+                "last_accept": 14,
+                "$last_seen": "2024-04-11T10:57:14.031Z"
               }
             ],
             "dalhemsgtan": [
@@ -106888,6 +106953,19 @@
                 "$districtName": "skäggetorp",
                 "last_accept": 277,
                 "$last_seen": "2024-03-19T09:43:41.495Z"
+              },
+              {
+                "id": 122673,
+                "rent": 5525,
+                "area": 33,
+                "street": "fogdegatan",
+                "street_number": "58",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "skäggetorp",
+                "last_accept": 0,
+                "$last_seen": "2024-04-11T10:57:14.031Z"
               }
             ],
             "väpnaregatan": [
