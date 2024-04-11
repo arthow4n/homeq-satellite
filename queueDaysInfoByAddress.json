@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-11T08:59:15.216Z",
+  "lastUpdatedAt": "2024-04-11T09:51:49.895Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -79663,6 +79663,19 @@
                 "$districtName": "tynnered",
                 "last_accept": 1544,
                 "$last_seen": "2024-04-09T06:53:45.528Z"
+              },
+              {
+                "id": 122097,
+                "rent": 8114,
+                "area": 69,
+                "street": "smyckegatan",
+                "street_number": "50",
+                "city": "västra frölunda",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tynnered",
+                "last_accept": 63,
+                "$last_seen": "2024-04-11T08:59:15.216Z"
               }
             ],
             "björkhöjdsgatan": [
@@ -104954,19 +104967,6 @@
                 "$districtName": "spånga",
                 "last_accept": 1776,
                 "$last_seen": "2024-02-28T11:34:41.591Z"
-              },
-              {
-                "id": 122539,
-                "rent": 9443,
-                "area": 65.4,
-                "street": "nybykroken",
-                "street_number": "29",
-                "city": "spånga",
-                "municipality": "stockholm",
-                "county": "stockholms län",
-                "$districtName": "spånga",
-                "last_accept": 1510,
-                "$last_seen": "2024-04-11T07:51:27.807Z"
               }
             ],
             "skogängsvägen": [
