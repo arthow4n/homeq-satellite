@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-11T07:51:27.807Z",
+  "lastUpdatedAt": "2024-04-11T08:59:15.216Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -47280,19 +47280,6 @@
                 "$districtName": "bergsjön",
                 "last_accept": 1819,
                 "$last_seen": "2024-03-05T09:33:20.464Z"
-              },
-              {
-                "id": 122306,
-                "rent": 9245,
-                "area": 65,
-                "street": "atmosfärgatan",
-                "street_number": "15",
-                "city": "göteborg",
-                "municipality": "göteborg",
-                "county": "västra götalands län",
-                "$districtName": "bergsjön",
-                "last_accept": 23,
-                "$last_seen": "2024-04-11T05:55:20.344Z"
               }
             ],
             "universumsgatan": [
@@ -70141,6 +70128,19 @@
                 "$districtName": "örgryte",
                 "last_accept": 1567,
                 "$last_seen": "2024-03-27T14:47:30.053Z"
+              },
+              {
+                "id": 121616,
+                "rent": 7308,
+                "area": 34,
+                "street": "smörgatan",
+                "street_number": "1",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1405,
+                "$last_seen": "2024-04-11T07:51:27.807Z"
               },
               {
                 "id": 121625,
@@ -100933,6 +100933,19 @@
                 "$last_seen": "2024-03-04T13:35:24.027Z"
               },
               {
+                "id": 121569,
+                "rent": 8460,
+                "area": 59,
+                "street": "åmmebergsgatan",
+                "street_number": "7",
+                "city": "bandhagen",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 1916,
+                "$last_seen": "2024-04-11T07:51:27.807Z"
+              },
+              {
                 "id": 121759,
                 "rent": 6719,
                 "area": 41,
@@ -104941,6 +104954,19 @@
                 "$districtName": "spånga",
                 "last_accept": 1776,
                 "$last_seen": "2024-02-28T11:34:41.591Z"
+              },
+              {
+                "id": 122539,
+                "rent": 9443,
+                "area": 65.4,
+                "street": "nybykroken",
+                "street_number": "29",
+                "city": "spånga",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "spånga",
+                "last_accept": 1510,
+                "$last_seen": "2024-04-11T07:51:27.807Z"
               }
             ],
             "skogängsvägen": [
@@ -106319,6 +106345,19 @@
                 "$last_seen": "2024-04-05T10:53:51.620Z"
               },
               {
+                "id": 116442,
+                "rent": 8858,
+                "area": 78,
+                "street": "konstruktörsgatan",
+                "street_number": "88",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "berga",
+                "last_accept": 23,
+                "$last_seen": "2024-04-11T07:51:27.807Z"
+              },
+              {
                 "id": 116614,
                 "rent": 8856,
                 "area": 78,
@@ -106853,6 +106892,19 @@
                 "$last_seen": "2024-04-02T13:45:51.291Z"
               },
               {
+                "id": 122343,
+                "rent": 5315,
+                "area": 46,
+                "street": "väpnaregatan",
+                "street_number": "15",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "skäggetorp",
+                "last_accept": 0,
+                "$last_seen": "2024-04-11T07:51:27.807Z"
+              },
+              {
                 "id": 122679,
                 "rent": 6293,
                 "area": 69,
@@ -107267,6 +107319,23 @@
                 "$districtName": "linköpings sankt lars",
                 "last_accept": 0,
                 "$last_seen": "2024-04-07T13:52:49.814Z"
+              }
+            ]
+          },
+          "rystad": {
+            "gränsliden": [
+              {
+                "id": 122084,
+                "rent": 6592,
+                "area": 41.5,
+                "street": "gränsliden",
+                "street_number": "64",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "rystad",
+                "last_accept": 122,
+                "$last_seen": "2024-04-11T07:51:27.807Z"
               }
             ]
           }
