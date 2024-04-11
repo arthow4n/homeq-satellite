@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-11T13:08:39.944Z",
+  "lastUpdatedAt": "2024-04-11T13:52:49.456Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -36906,6 +36906,19 @@
                 "$districtName": "masthugget",
                 "last_accept": 1906,
                 "$last_seen": "2024-03-28T11:43:56.835Z"
+              },
+              {
+                "id": 120954,
+                "rent": 11160,
+                "area": 77,
+                "street": "dahlströmsgatan",
+                "street_number": "38",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "masthugget",
+                "last_accept": 1920,
+                "$last_seen": "2024-04-11T13:08:39.944Z"
               }
             ],
             "kolumbusgatan": [
@@ -54659,6 +54672,19 @@
                 "$last_seen": "2024-03-20T10:48:23.999Z"
               },
               {
+                "id": 119576,
+                "rent": 7680,
+                "area": 38,
+                "street": "karl gustavsgatan",
+                "street_number": "57",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs vasa",
+                "last_accept": 1901,
+                "$last_seen": "2024-04-11T13:08:39.944Z"
+              },
+              {
                 "id": 120518,
                 "rent": 6871,
                 "area": 38,
@@ -69747,6 +69773,19 @@
                 "$districtName": "örgryte",
                 "last_accept": 1877,
                 "$last_seen": "2024-02-29T09:35:16.037Z"
+              },
+              {
+                "id": 121279,
+                "rent": 11600,
+                "area": 90,
+                "street": "birkagatan",
+                "street_number": "41 b",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1967,
+                "$last_seen": "2024-04-11T13:08:39.944Z"
               }
             ],
             "jättegrytsgatan": [
@@ -80823,6 +80862,19 @@
                 "$districtName": "västra frölunda",
                 "last_accept": 1092,
                 "$last_seen": "2024-04-02T06:49:28.512Z"
+              },
+              {
+                "id": 121947,
+                "rent": 11482,
+                "area": 80,
+                "street": "munspelsgatan",
+                "street_number": "14",
+                "city": "västra frölunda",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "västra frölunda",
+                "last_accept": 941,
+                "$last_seen": "2024-04-11T13:08:39.944Z"
               }
             ],
             "speldosegatan": [
@@ -106577,19 +106629,6 @@
                 "$districtName": "berga",
                 "last_accept": 0,
                 "$last_seen": "2024-03-28T10:49:40.279Z"
-              },
-              {
-                "id": 121671,
-                "rent": 4075,
-                "area": 31,
-                "street": "konstruktörsgatan",
-                "street_number": "22",
-                "city": "linköping",
-                "municipality": "linköping",
-                "county": "östergötlands län",
-                "$districtName": "berga",
-                "last_accept": 26,
-                "$last_seen": "2024-04-08T13:49:14.680Z"
               }
             ],
             "ridderstads gata": [
@@ -107016,6 +107055,19 @@
                 "$districtName": "skäggetorp",
                 "last_accept": 0,
                 "$last_seen": "2024-03-15T13:00:54.621Z"
+              },
+              {
+                "id": 122070,
+                "rent": 9001,
+                "area": 105,
+                "street": "stiglötsgatan",
+                "street_number": "11",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "skäggetorp",
+                "last_accept": 15,
+                "$last_seen": "2024-04-11T13:08:39.944Z"
               }
             ],
             "fogdegatan": [
