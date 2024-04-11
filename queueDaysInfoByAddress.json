@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-11T13:52:49.456Z",
+  "lastUpdatedAt": "2024-04-11T14:54:56.371Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -47743,6 +47743,19 @@
                 "$districtName": "kortedala",
                 "last_accept": 969,
                 "$last_seen": "2024-03-19T13:43:32.778Z"
+              },
+              {
+                "id": 120472,
+                "rent": 4980,
+                "area": 48,
+                "street": "kalendervägen",
+                "street_number": "117d",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "kortedala",
+                "last_accept": 1537,
+                "$last_seen": "2024-04-11T13:08:39.944Z"
               }
             ],
             "solvarvsgatan": [
@@ -74346,6 +74359,19 @@
                 "$districtName": "härlanda",
                 "last_accept": 1809,
                 "$last_seen": "2023-11-30T13:42:16.916Z"
+              },
+              {
+                "id": 122934,
+                "rent": 6886,
+                "area": 40,
+                "street": "ahrenbergsgatan",
+                "street_number": "10c",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "härlanda",
+                "last_accept": 1431,
+                "$last_seen": "2024-04-11T13:52:49.456Z"
               }
             ],
             "utåkersgatan": [
