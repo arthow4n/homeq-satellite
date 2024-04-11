@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-11T11:51:13.734Z",
+  "lastUpdatedAt": "2024-04-11T13:08:39.944Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -45314,6 +45314,19 @@
                 "$districtName": "lundby",
                 "last_accept": 1577,
                 "$last_seen": "2024-03-05T22:36:03.870Z"
+              },
+              {
+                "id": 120368,
+                "rent": 5348,
+                "area": 41,
+                "street": "enekullegatan",
+                "street_number": "2 a",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1709,
+                "$last_seen": "2024-04-11T11:51:13.734Z"
               }
             ],
             "tilburygatan": [
@@ -45868,6 +45881,19 @@
                 "$districtName": "bergsjön",
                 "last_accept": 1334,
                 "$last_seen": "2024-03-04T09:13:29.566Z"
+              },
+              {
+                "id": 120532,
+                "rent": 5566,
+                "area": 62,
+                "street": "galileis gata",
+                "street_number": "4",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bergsjön",
+                "last_accept": 1623,
+                "$last_seen": "2024-04-11T11:51:13.734Z"
               }
             ],
             "zenitgatan": [
@@ -68030,6 +68056,19 @@
                 "$districtName": "örgryte",
                 "last_accept": 1597,
                 "$last_seen": "2024-03-27T09:44:07.341Z"
+              },
+              {
+                "id": 122013,
+                "rent": 10881,
+                "area": 51,
+                "street": "gräddgatan",
+                "street_number": "5",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1417,
+                "$last_seen": "2024-04-11T11:51:13.734Z"
               }
             ],
             "filmjölksgatan": [
@@ -76987,6 +77026,19 @@
                 "$districtName": "brunnsbo",
                 "last_accept": 1475,
                 "$last_seen": "2024-04-04T11:47:17.256Z"
+              },
+              {
+                "id": 122359,
+                "rent": 5593,
+                "area": 31,
+                "street": "prologgatan",
+                "street_number": "14",
+                "city": "hisings backa",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brunnsbo",
+                "last_accept": 1049,
+                "$last_seen": "2024-04-11T11:51:13.734Z"
               }
             ],
             "sångspelsgatan": [
@@ -101392,6 +101444,19 @@
                 "$districtName": "vantör",
                 "last_accept": 1912,
                 "$last_seen": "2024-03-01T10:39:00.176Z"
+              },
+              {
+                "id": 121760,
+                "rent": 7578,
+                "area": 45,
+                "street": "kilsmogatan",
+                "street_number": "9",
+                "city": "bandhagen",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 1911,
+                "$last_seen": "2024-04-11T11:51:13.734Z"
               }
             ],
             "stålbogavägen": [
@@ -105449,6 +105514,19 @@
                 "$districtName": "farsta",
                 "last_accept": 1712,
                 "$last_seen": "2024-03-15T13:44:52.946Z"
+              },
+              {
+                "id": 120821,
+                "rent": 9442,
+                "area": 42,
+                "street": "thorsten levenstams väg",
+                "street_number": "4 d",
+                "city": "sköndal",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "farsta",
+                "last_accept": 1645,
+                "$last_seen": "2024-04-11T11:51:13.734Z"
               }
             ]
           }
