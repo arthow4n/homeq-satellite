@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-11T14:54:56.371Z",
+  "lastUpdatedAt": "2024-04-11T15:52:44.917Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -105188,6 +105188,19 @@
                 "$districtName": "spånga",
                 "last_accept": 1776,
                 "$last_seen": "2024-02-28T11:34:41.591Z"
+              },
+              {
+                "id": 122539,
+                "rent": 9443,
+                "area": 65.4,
+                "street": "nybykroken",
+                "street_number": "29",
+                "city": "spånga",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "spånga",
+                "last_accept": 1510,
+                "$last_seen": "2024-04-11T14:54:56.371Z"
               }
             ],
             "skogängsvägen": [
