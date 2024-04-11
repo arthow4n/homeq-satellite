@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-11T05:55:20.344Z",
+  "lastUpdatedAt": "2024-04-11T06:57:00.557Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -46236,6 +46236,19 @@
                 "$districtName": "bergsjön",
                 "last_accept": 1253,
                 "$last_seen": "2023-12-06T14:40:02.320Z"
+              },
+              {
+                "id": 117827,
+                "rent": 7347,
+                "area": 62,
+                "street": "keplers gata",
+                "street_number": "50",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bergsjön",
+                "last_accept": 1647,
+                "$last_seen": "2024-04-11T05:55:20.344Z"
               }
             ],
             "kosmosgatan": [
@@ -47267,6 +47280,19 @@
                 "$districtName": "bergsjön",
                 "last_accept": 1819,
                 "$last_seen": "2024-03-05T09:33:20.464Z"
+              },
+              {
+                "id": 122306,
+                "rent": 9245,
+                "area": 65,
+                "street": "atmosfärgatan",
+                "street_number": "15",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bergsjön",
+                "last_accept": 23,
+                "$last_seen": "2024-04-11T05:55:20.344Z"
               }
             ],
             "universumsgatan": [
@@ -101894,19 +101920,6 @@
                 "$last_seen": "2024-02-22T08:37:44.661Z"
               },
               {
-                "id": 118982,
-                "rent": 5298,
-                "area": 26,
-                "street": "hagsätra torg",
-                "street_number": "42",
-                "city": "bandhagen",
-                "municipality": "stockholm",
-                "county": "stockholms län",
-                "$districtName": "vantör",
-                "last_accept": 1583,
-                "$last_seen": "2024-04-10T13:08:46.691Z"
-              },
-              {
                 "id": 121575,
                 "rent": 5113,
                 "area": 23.6,
@@ -107185,6 +107198,19 @@
                 "$districtName": "linköpings sankt lars",
                 "last_accept": 569,
                 "$last_seen": "2024-03-28T08:48:17.332Z"
+              },
+              {
+                "id": 121733,
+                "rent": 9723,
+                "area": 75,
+                "street": "humlegatan",
+                "street_number": "4 c",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "linköpings sankt lars",
+                "last_accept": 239,
+                "$last_seen": "2024-04-11T05:55:20.344Z"
               }
             ],
             "snickaregatan": [
