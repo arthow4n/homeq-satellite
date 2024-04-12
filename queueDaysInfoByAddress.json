@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-12T08:56:10.099Z",
+  "lastUpdatedAt": "2024-04-12T09:51:56.484Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -47672,6 +47672,19 @@
                 "$districtName": "bergsjön",
                 "last_accept": 1322,
                 "$last_seen": "2024-04-09T11:48:37.259Z"
+              },
+              {
+                "id": 122294,
+                "rent": 7844,
+                "area": 55,
+                "street": "universumsgatan",
+                "street_number": "26",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bergsjön",
+                "last_accept": 1138,
+                "$last_seen": "2024-04-12T08:56:10.099Z"
               }
             ],
             "galileisgata": [
@@ -51932,6 +51945,19 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1681,
                 "$last_seen": "2024-03-04T12:10:26.379Z"
+              },
+              {
+                "id": 120084,
+                "rent": 10440,
+                "area": 55,
+                "street": "fredriksdalsgatan",
+                "street_number": "4 c",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1908,
+                "$last_seen": "2024-04-12T08:56:10.099Z"
               }
             ],
             "mölndalsvägen": [
@@ -65018,6 +65044,19 @@
                 "$districtName": "brämaregården",
                 "last_accept": 779,
                 "$last_seen": "2024-03-05T13:33:23.808Z"
+              },
+              {
+                "id": 122328,
+                "rent": 5765,
+                "area": 57,
+                "street": "lantmätaregatan",
+                "street_number": "12 c",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brämaregården",
+                "last_accept": 1792,
+                "$last_seen": "2024-04-12T08:56:10.099Z"
               }
             ],
             "hjalmar brantingsgatan": [
@@ -79860,6 +79899,19 @@
                 "$last_seen": "2024-04-09T06:53:45.528Z"
               },
               {
+                "id": 121848,
+                "rent": 12424,
+                "area": 106,
+                "street": "smyckegatan",
+                "street_number": "60",
+                "city": "västra frölunda",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tynnered",
+                "last_accept": 1837,
+                "$last_seen": "2024-04-12T08:56:10.099Z"
+              },
+              {
                 "id": 122097,
                 "rent": 8114,
                 "area": 69,
@@ -87547,6 +87599,19 @@
                 "$districtName": "partille",
                 "last_accept": 736,
                 "$last_seen": "2024-03-05T12:49:33.011Z"
+              },
+              {
+                "id": 122347,
+                "rent": 8484,
+                "area": 57,
+                "street": "stärteredsvägen",
+                "street_number": "25",
+                "city": "jonsered",
+                "municipality": "partille",
+                "county": "västra götalands län",
+                "$districtName": "partille",
+                "last_accept": 1150,
+                "$last_seen": "2024-04-12T08:56:10.099Z"
               }
             ],
             "länsmansvägen": [
@@ -101269,6 +101334,19 @@
                 "$districtName": "vantör",
                 "last_accept": 1464,
                 "$last_seen": "2024-04-10T13:08:46.691Z"
+              },
+              {
+                "id": 122655,
+                "rent": 8881,
+                "area": 59,
+                "street": "åmmebergsgatan",
+                "street_number": "7",
+                "city": "bandhagen",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 1796,
+                "$last_seen": "2024-04-12T08:56:10.099Z"
               }
             ],
             "kvarntorpsgränd": [
@@ -101849,6 +101927,19 @@
                 "$districtName": "vantör",
                 "last_accept": 2188,
                 "$last_seen": "2024-03-21T13:46:39.111Z"
+              },
+              {
+                "id": 122049,
+                "rent": 9430,
+                "area": 69,
+                "street": "stålbogavägen",
+                "street_number": "65",
+                "city": "bandhagen",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 2137,
+                "$last_seen": "2024-04-12T08:56:10.099Z"
               }
             ],
             "askersundsgatan": [
@@ -106827,6 +106918,21 @@
                 "last_accept": 8,
                 "$last_seen": "2024-03-25T11:44:43.081Z"
               }
+            ],
+            "prästbolsgatan": [
+              {
+                "id": 121159,
+                "rent": 7710,
+                "area": 58,
+                "street": "prästbolsgatan",
+                "street_number": "40 b",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "berga",
+                "last_accept": 30,
+                "$last_seen": "2024-04-12T08:56:10.099Z"
+              }
             ]
           },
           "johannelund": {
@@ -107280,6 +107386,19 @@
                 "$districtName": "skäggetorp",
                 "last_accept": 277,
                 "$last_seen": "2024-03-19T09:43:41.495Z"
+              },
+              {
+                "id": 122242,
+                "rent": 7927,
+                "area": 91,
+                "street": "fogdegatan",
+                "street_number": "17",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "skäggetorp",
+                "last_accept": 1,
+                "$last_seen": "2024-04-12T08:56:10.099Z"
               },
               {
                 "id": 122673,
