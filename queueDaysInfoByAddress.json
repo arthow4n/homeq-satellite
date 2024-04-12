@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-12T07:53:58.625Z",
+  "lastUpdatedAt": "2024-04-12T08:56:10.099Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -42654,6 +42654,19 @@
                 "$last_seen": "2024-04-02T07:44:42.459Z"
               },
               {
+                "id": 121158,
+                "rent": 8442,
+                "area": 83,
+                "street": "fyrklöversgatan",
+                "street_number": "12",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1805,
+                "$last_seen": "2024-04-12T07:53:58.625Z"
+              },
+              {
                 "id": 121225,
                 "rent": 9134,
                 "area": 43,
@@ -49079,6 +49092,19 @@
                 "$districtName": "kortedala",
                 "last_accept": 1585,
                 "$last_seen": "2024-03-26T11:43:59.978Z"
+              },
+              {
+                "id": 121299,
+                "rent": 8453,
+                "area": 59,
+                "street": "allhelgonagatan",
+                "street_number": "8",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "kortedala",
+                "last_accept": 1225,
+                "$last_seen": "2024-04-12T07:53:58.625Z"
               }
             ],
             "januarigatan": [
@@ -93823,6 +93849,19 @@
                 "$districtName": "hyllie",
                 "last_accept": 51,
                 "$last_seen": "2024-02-28T10:39:48.237Z"
+              },
+              {
+                "id": 118049,
+                "rent": 10735,
+                "area": 71,
+                "street": "hålsjögatan",
+                "street_number": "43",
+                "city": "malmö",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "hyllie",
+                "last_accept": 1474,
+                "$last_seen": "2024-04-12T07:53:58.625Z"
               }
             ],
             "hyllie allé": [
@@ -98678,6 +98717,19 @@
                 "$districtName": "bunkeflo",
                 "last_accept": 7,
                 "$last_seen": "2024-04-02T07:44:42.459Z"
+              },
+              {
+                "id": 118768,
+                "rent": 11711,
+                "area": 70,
+                "street": "sadelmakarebyn",
+                "street_number": "8a",
+                "city": "bunkeflostrand",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "bunkeflo",
+                "last_accept": 33,
+                "$last_seen": "2024-04-12T07:53:58.625Z"
               }
             ],
             "skomakarebyn": [
@@ -106523,6 +106575,19 @@
                 "$districtName": "berga",
                 "last_accept": 14,
                 "$last_seen": "2024-04-02T13:03:55.185Z"
+              },
+              {
+                "id": 114043,
+                "rent": 9346,
+                "area": 54,
+                "street": "söderleden",
+                "street_number": "39b",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "berga",
+                "last_accept": 4,
+                "$last_seen": "2024-04-12T07:53:58.625Z"
               },
               {
                 "id": 114195,
