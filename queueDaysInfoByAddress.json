@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-12T10:56:43.907Z",
+  "lastUpdatedAt": "2024-04-12T11:50:38.593Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -49393,6 +49393,19 @@
                 "$districtName": "kortedala",
                 "last_accept": 1562,
                 "$last_seen": "2024-03-26T13:00:59.362Z"
+              },
+              {
+                "id": 121410,
+                "rent": 6569,
+                "area": 62.5,
+                "street": "januarigatan",
+                "street_number": "19",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "kortedala",
+                "last_accept": 1496,
+                "$last_seen": "2024-04-12T10:56:43.907Z"
               }
             ],
             "solståndsgatan": [
@@ -93794,6 +93807,21 @@
                 "last_accept": 176,
                 "$last_seen": "2024-03-21T08:47:32.277Z"
               }
+            ],
+            "skansgatan": [
+              {
+                "id": 120794,
+                "rent": 9499,
+                "area": 63,
+                "street": "skansgatan",
+                "street_number": "6",
+                "city": "malmö",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "malmö sankt pauli",
+                "last_accept": 1921,
+                "$last_seen": "2024-04-12T10:56:43.907Z"
+              }
             ]
           },
           "hyllie": {
@@ -100266,6 +100294,19 @@
                 "$districtName": "torn",
                 "last_accept": 25,
                 "$last_seen": "2024-03-27T08:48:50.160Z"
+              },
+              {
+                "id": 120816,
+                "rent": 9040,
+                "area": 56,
+                "street": "rossings väg",
+                "street_number": "19",
+                "city": "lund",
+                "municipality": "lund",
+                "county": "skåne län",
+                "$districtName": "torn",
+                "last_accept": 16,
+                "$last_seen": "2024-04-12T10:56:43.907Z"
               }
             ]
           },
@@ -103534,6 +103575,19 @@
                 "$districtName": "hässelby",
                 "last_accept": 288,
                 "$last_seen": "2024-01-25T12:55:06.880Z"
+              },
+              {
+                "id": 118399,
+                "rent": 14943,
+                "area": 77,
+                "street": "lindblomsgränd",
+                "street_number": "4",
+                "city": "hässelby",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "hässelby",
+                "last_accept": 2,
+                "$last_seen": "2024-04-12T10:56:43.907Z"
               },
               {
                 "id": 119393,
