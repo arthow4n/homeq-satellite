@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-12T06:56:38.878Z",
+  "lastUpdatedAt": "2024-04-12T07:53:58.625Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -31504,6 +31504,19 @@
                 "$districtName": "annedal",
                 "last_accept": 1903,
                 "$last_seen": "2024-04-12T05:57:19.858Z"
+              },
+              {
+                "id": 122119,
+                "rent": 7600,
+                "area": 45,
+                "street": "västergatan",
+                "street_number": "29",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "annedal",
+                "last_accept": 1877,
+                "$last_seen": "2024-04-12T06:56:38.878Z"
               }
             ],
             "övre husargatan": [
@@ -86687,6 +86700,19 @@
                 "$districtName": "fässberg",
                 "last_accept": 1897,
                 "$last_seen": "2024-03-21T09:44:12.187Z"
+              },
+              {
+                "id": 121745,
+                "rent": 6813,
+                "area": 41,
+                "street": "berghemsgatan",
+                "street_number": "16",
+                "city": "mölndal",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 1258,
+                "$last_seen": "2024-04-12T06:56:38.878Z"
               }
             ],
             "marielundsgatan": [
