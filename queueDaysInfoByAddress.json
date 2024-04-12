@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-12T13:07:52.207Z",
+  "lastUpdatedAt": "2024-04-12T13:51:17.767Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -87955,6 +87955,19 @@
                 "$districtName": "råda",
                 "last_accept": 1457,
                 "$last_seen": "2024-02-21T10:38:27.355Z"
+              },
+              {
+                "id": 121411,
+                "rent": 9226,
+                "area": 55,
+                "street": "centralvägen",
+                "street_number": "8 b",
+                "city": "göteborg",
+                "municipality": "härryda",
+                "county": "västra götalands län",
+                "$districtName": "råda",
+                "last_accept": 631,
+                "$last_seen": "2024-04-12T13:07:52.207Z"
               }
             ],
             "biblioteksgatan": [
@@ -100040,6 +100053,19 @@
             ],
             "stralsundsvägen": [
               {
+                "id": 119427,
+                "rent": 9478,
+                "area": 61,
+                "street": "stralsundsvägen",
+                "street_number": "35",
+                "city": "lund",
+                "municipality": "lund",
+                "county": "skåne län",
+                "$districtName": "östra torn",
+                "last_accept": 4,
+                "$last_seen": "2024-04-12T13:07:52.207Z"
+              },
+              {
                 "id": 119536,
                 "rent": 9587,
                 "area": 61,
@@ -100157,6 +100183,19 @@
                 "$districtName": "östra torn",
                 "last_accept": 1,
                 "$last_seen": "2024-04-05T13:04:40.382Z"
+              },
+              {
+                "id": 122254,
+                "rent": 11760,
+                "area": 69,
+                "street": "vipeholms allé",
+                "street_number": "8 b",
+                "city": "lund",
+                "municipality": "lund",
+                "county": "skåne län",
+                "$districtName": "östra torn",
+                "last_accept": 38,
+                "$last_seen": "2024-04-12T13:07:52.207Z"
               }
             ],
             "brunnshögsgatan": [
