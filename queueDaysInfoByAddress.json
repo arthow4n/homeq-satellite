@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-12T11:50:38.593Z",
+  "lastUpdatedAt": "2024-04-12T13:07:52.207Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -78502,6 +78502,19 @@
                 "$districtName": "tynnered",
                 "last_accept": 1547,
                 "$last_seen": "2024-04-05T09:00:59.277Z"
+              },
+              {
+                "id": 121425,
+                "rent": 7587,
+                "area": 59,
+                "street": "karneolgatan",
+                "street_number": "27",
+                "city": "västra frölunda",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tynnered",
+                "last_accept": 1637,
+                "$last_seen": "2024-04-12T11:50:38.593Z"
               }
             ],
             "smaragdgatan": [
@@ -101137,6 +101150,19 @@
                 "$districtName": "vantör",
                 "last_accept": 1814,
                 "$last_seen": "2024-04-05T10:53:51.620Z"
+              },
+              {
+                "id": 121756,
+                "rent": 9201,
+                "area": 68,
+                "street": "glanshammarsgatan",
+                "street_number": "66",
+                "city": "bandhagen",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 1676,
+                "$last_seen": "2024-04-12T11:50:38.593Z"
               }
             ],
             "bäverbäcksgränd": [
@@ -103048,6 +103074,19 @@
                 "$districtName": "vantör",
                 "last_accept": 1710,
                 "$last_seen": "2024-03-25T08:49:48.133Z"
+              },
+              {
+                "id": 121156,
+                "rent": 13799,
+                "area": 111,
+                "street": "vintrosagatan",
+                "street_number": "22",
+                "city": "bandhagen",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 1986,
+                "$last_seen": "2024-04-12T11:50:38.593Z"
               },
               {
                 "id": 121209,
@@ -106460,6 +106499,19 @@
                 "$districtName": "österhaninge",
                 "last_accept": 6,
                 "$last_seen": "2024-03-13T08:37:04.575Z"
+              },
+              {
+                "id": 121786,
+                "rent": 8536,
+                "area": 34.7,
+                "street": "vardövägen",
+                "street_number": "44",
+                "city": "stockholm",
+                "municipality": "haninge",
+                "county": "stockholms län",
+                "$districtName": "österhaninge",
+                "last_accept": 25,
+                "$last_seen": "2024-04-12T11:50:38.593Z"
               }
             ]
           }
@@ -107305,6 +107357,21 @@
                 "$districtName": "linköpings domkyrkodistrikt",
                 "last_accept": 1397,
                 "$last_seen": "2024-03-15T10:48:44.637Z"
+              }
+            ],
+            "sveagatan": [
+              {
+                "id": 123203,
+                "rent": 4900,
+                "area": 28,
+                "street": "sveagatan",
+                "street_number": "24a",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "linköpings domkyrkodistrikt",
+                "last_accept": 564,
+                "$last_seen": "2024-04-12T11:50:38.593Z"
               }
             ]
           },
