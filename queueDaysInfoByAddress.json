@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-12T13:51:17.767Z",
+  "lastUpdatedAt": "2024-04-12T14:54:10.194Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -65072,6 +65072,19 @@
                 "$last_seen": "2024-03-05T13:33:23.808Z"
               },
               {
+                "id": 122290,
+                "rent": 7350,
+                "area": 32,
+                "street": "lantmätaregatan",
+                "street_number": "14 c",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brämaregården",
+                "last_accept": 1074,
+                "$last_seen": "2024-04-12T13:51:17.767Z"
+              },
+              {
                 "id": 122328,
                 "rent": 5765,
                 "area": 57,
@@ -76321,19 +76334,6 @@
                 "$districtName": "bäckebol",
                 "last_accept": 443,
                 "$last_seen": "2024-04-02T06:49:28.512Z"
-              },
-              {
-                "id": 121135,
-                "rent": 7125,
-                "area": 28,
-                "street": "herr arnes gata",
-                "street_number": "1",
-                "city": "göteborg",
-                "municipality": "göteborg",
-                "county": "västra götalands län",
-                "$districtName": "bäckebol",
-                "last_accept": 622,
-                "$last_seen": "2024-04-10T11:50:48.356Z"
               }
             ],
             "backadalen": [
