@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-12T05:57:19.858Z",
+  "lastUpdatedAt": "2024-04-12T06:56:38.878Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -31491,6 +31491,19 @@
                 "$districtName": "annedal",
                 "last_accept": 1837,
                 "$last_seen": "2024-03-18T10:49:12.903Z"
+              },
+              {
+                "id": 121983,
+                "rent": 7500,
+                "area": 45,
+                "street": "västergatan",
+                "street_number": "19",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "annedal",
+                "last_accept": 1903,
+                "$last_seen": "2024-04-12T05:57:19.858Z"
               }
             ],
             "övre husargatan": [
@@ -106931,6 +106944,49 @@
                 "$last_seen": "2024-04-08T13:05:42.078Z"
               }
             ],
+            "klostergatan": [
+              {
+                "id": 117414,
+                "rent": 11555,
+                "area": 90,
+                "street": "klostergatan",
+                "street_number": "34",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "linköpings domkyrkodistrikt",
+                "last_accept": 35,
+                "$last_seen": "2024-04-12T05:57:19.858Z"
+              },
+              {
+                "id": 119072,
+                "rent": 5490,
+                "area": 48,
+                "street": "klostergatan",
+                "street_number": "52b",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "linköpings domkyrkodistrikt",
+                "last_accept": 587,
+                "$last_seen": "2024-03-18T07:44:26.349Z"
+              }
+            ],
+            "gråbrödragatan": [
+              {
+                "id": 117787,
+                "rent": 9045,
+                "area": 83,
+                "street": "gråbrödragatan",
+                "street_number": "17 a",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "linköpings domkyrkodistrikt",
+                "last_accept": 1632,
+                "$last_seen": "2024-04-12T05:57:19.858Z"
+              }
+            ],
             "berzeliigatan": [
               {
                 "id": 118492,
@@ -106959,21 +107015,6 @@
                 "$districtName": "linköpings domkyrkodistrikt",
                 "last_accept": 1397,
                 "$last_seen": "2024-03-15T10:48:44.637Z"
-              }
-            ],
-            "klostergatan": [
-              {
-                "id": 119072,
-                "rent": 5490,
-                "area": 48,
-                "street": "klostergatan",
-                "street_number": "52b",
-                "city": "linköping",
-                "municipality": "linköping",
-                "county": "östergötlands län",
-                "$districtName": "linköpings domkyrkodistrikt",
-                "last_accept": 587,
-                "$last_seen": "2024-03-18T07:44:26.349Z"
               }
             ]
           },
@@ -107077,6 +107118,19 @@
                 "$districtName": "slaka",
                 "last_accept": 9,
                 "$last_seen": "2024-04-08T10:56:05.015Z"
+              },
+              {
+                "id": 121978,
+                "rent": 8337,
+                "area": 53,
+                "street": "spannmålsgatan",
+                "street_number": "7",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "slaka",
+                "last_accept": 1,
+                "$last_seen": "2024-04-12T05:57:19.858Z"
               },
               {
                 "id": 122373,
@@ -107631,12 +107685,48 @@
               }
             ]
           }
+        },
+        "linköping ": {
+          "berga": {
+            "luftvärnsgatan": [
+              {
+                "id": 122273,
+                "rent": 5675,
+                "area": 66,
+                "street": "luftvärnsgatan",
+                "street_number": "58",
+                "city": "linköping ",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "berga",
+                "last_accept": 30,
+                "$last_seen": "2024-04-12T05:57:19.858Z"
+              }
+            ]
+          }
         }
       }
     },
     "uppsala län": {
       "uppsala": {
         "uppsala": {
+          "uppsala helga trefaldighet": {
+            "honungsgatan": [
+              {
+                "id": 117443,
+                "rent": 11451,
+                "area": 55.3,
+                "street": "honungsgatan",
+                "street_number": "36",
+                "city": "uppsala",
+                "municipality": "uppsala",
+                "county": "uppsala län",
+                "$districtName": "uppsala helga trefaldighet",
+                "last_accept": 338,
+                "$last_seen": "2024-04-12T05:57:19.858Z"
+              }
+            ]
+          },
           "läby": {
             "smaragdvägen": [
               {
