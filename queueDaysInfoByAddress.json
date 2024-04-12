@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-12T09:51:56.484Z",
+  "lastUpdatedAt": "2024-04-12T10:56:43.907Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -47371,6 +47371,19 @@
                 "$districtName": "bergsjön",
                 "last_accept": 1819,
                 "$last_seen": "2024-03-05T09:33:20.464Z"
+              },
+              {
+                "id": 122297,
+                "rent": 11163,
+                "area": 83,
+                "street": "atmosfärgatan",
+                "street_number": "33",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bergsjön",
+                "last_accept": 58,
+                "$last_seen": "2024-04-12T09:51:56.484Z"
               }
             ],
             "universumsgatan": [
@@ -78779,6 +78792,19 @@
                 "$last_seen": "2024-03-21T11:44:38.111Z"
               },
               {
+                "id": 121857,
+                "rent": 11280,
+                "area": 89,
+                "street": "smaragdgatan",
+                "street_number": "23",
+                "city": "västra frölunda",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tynnered",
+                "last_accept": 717,
+                "$last_seen": "2024-04-12T09:51:56.484Z"
+              },
+              {
                 "id": 121871,
                 "rent": 10234,
                 "area": 61,
@@ -80503,6 +80529,19 @@
                 "$districtName": "tynnered",
                 "last_accept": 792,
                 "$last_seen": "2024-03-04T09:13:29.566Z"
+              },
+              {
+                "id": 120346,
+                "rent": 5621,
+                "area": 31,
+                "street": "safirgatan",
+                "street_number": "8",
+                "city": "västra frölunda",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tynnered",
+                "last_accept": 1410,
+                "$last_seen": "2024-04-12T09:51:56.484Z"
               },
               {
                 "id": 121127,
