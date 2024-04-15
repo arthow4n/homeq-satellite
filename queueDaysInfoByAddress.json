@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-15T11:50:03.773Z",
+  "lastUpdatedAt": "2024-04-15T13:04:56.119Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -57402,6 +57402,19 @@
                 "$districtName": "askim",
                 "last_accept": 500,
                 "$last_seen": "2024-03-26T13:00:59.362Z"
+              },
+              {
+                "id": 121791,
+                "rent": 10884,
+                "area": 54,
+                "street": "kobbeslätten",
+                "street_number": "8",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 439,
+                "$last_seen": "2024-04-15T11:50:03.773Z"
               }
             ],
             "pilegården": [
@@ -60131,6 +60144,19 @@
                 "$districtName": "askim",
                 "last_accept": 43,
                 "$last_seen": "2024-03-06T10:38:01.122Z"
+              },
+              {
+                "id": 121801,
+                "rent": 7221,
+                "area": 28,
+                "street": "askims pilegårdsväg",
+                "street_number": "42",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 305,
+                "$last_seen": "2024-04-15T11:50:03.773Z"
               }
             ]
           },
@@ -73137,6 +73163,19 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1914,
                 "$last_seen": "2024-04-05T07:47:46.656Z"
+              },
+              {
+                "id": 123177,
+                "rent": 11143,
+                "area": 69,
+                "street": "runebergsgatan",
+                "street_number": "4",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1920,
+                "$last_seen": "2024-04-15T11:50:03.773Z"
               }
             ],
             "redbergsvägen": [
@@ -107192,19 +107231,6 @@
                 "$last_seen": "2024-04-02T07:44:42.459Z"
               },
               {
-                "id": 114210,
-                "rent": 9346,
-                "area": 54,
-                "street": "söderleden",
-                "street_number": "39d",
-                "city": "linköping",
-                "municipality": "linköping",
-                "county": "östergötlands län",
-                "$districtName": "berga",
-                "last_accept": 1,
-                "$last_seen": "2024-04-09T13:06:24.972Z"
-              },
-              {
                 "id": 114214,
                 "rent": 6714,
                 "area": 34.8,
@@ -107841,6 +107867,19 @@
                 "$districtName": "slaka",
                 "last_accept": 2,
                 "$last_seen": "2024-04-10T11:50:48.356Z"
+              },
+              {
+                "id": 122805,
+                "rent": 11208,
+                "area": 77,
+                "street": "spannmålsgatan",
+                "street_number": "1",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "slaka",
+                "last_accept": 801,
+                "$last_seen": "2024-04-15T11:50:03.773Z"
               }
             ]
           },
@@ -107998,6 +108037,32 @@
                 "$districtName": "landeryd",
                 "last_accept": 190,
                 "$last_seen": "2024-03-27T11:43:58.081Z"
+              },
+              {
+                "id": 120420,
+                "rent": 6780,
+                "area": 65.5,
+                "street": "ekholmsvägen",
+                "street_number": "98",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "landeryd",
+                "last_accept": 282,
+                "$last_seen": "2024-04-15T11:50:03.773Z"
+              },
+              {
+                "id": 121476,
+                "rent": 6439,
+                "area": 72,
+                "street": "ekholmsvägen",
+                "street_number": "14a",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "landeryd",
+                "last_accept": 211,
+                "$last_seen": "2024-04-15T11:50:03.773Z"
               },
               {
                 "id": 121478,
@@ -108421,6 +108486,19 @@
                 "$districtName": "uppsala helga trefaldighet",
                 "last_accept": 338,
                 "$last_seen": "2024-04-12T05:57:19.858Z"
+              },
+              {
+                "id": 117444,
+                "rent": 7690,
+                "area": 34,
+                "street": "honungsgatan",
+                "street_number": "36",
+                "city": "uppsala",
+                "municipality": "uppsala",
+                "county": "uppsala län",
+                "$districtName": "uppsala helga trefaldighet",
+                "last_accept": 990,
+                "$last_seen": "2024-04-15T11:50:03.773Z"
               }
             ]
           },
