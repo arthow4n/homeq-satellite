@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-15T10:51:41.639Z",
+  "lastUpdatedAt": "2024-04-15T11:50:03.773Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -34022,6 +34022,19 @@
                 "$districtName": "biskopsgården",
                 "last_accept": 985,
                 "$last_seen": "2024-04-08T13:05:42.078Z"
+              },
+              {
+                "id": 122331,
+                "rent": 10892,
+                "area": 83,
+                "street": "långströmsgatan",
+                "street_number": "16a",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "biskopsgården",
+                "last_accept": 1020,
+                "$last_seen": "2024-04-15T10:51:41.639Z"
               }
             ],
             "temperaturgatan": [
@@ -42743,6 +42756,19 @@
                 "$districtName": "lundby",
                 "last_accept": 823,
                 "$last_seen": "2024-04-09T05:51:08.349Z"
+              },
+              {
+                "id": 122758,
+                "rent": 5127,
+                "area": 43,
+                "street": "fyrklöversgatan",
+                "street_number": "92",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1328,
+                "$last_seen": "2024-04-15T10:51:41.639Z"
               }
             ],
             "ö keillersgatan": [
@@ -75998,6 +76024,19 @@
                 "$districtName": "göteborgs oscar fredrik",
                 "last_accept": 1919,
                 "$last_seen": "2024-02-14T08:36:55.414Z"
+              },
+              {
+                "id": 122277,
+                "rent": 12491,
+                "area": 82,
+                "street": "vegagatan",
+                "street_number": "36",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs oscar fredrik",
+                "last_accept": 1924,
+                "$last_seen": "2024-04-15T10:51:41.639Z"
               }
             ],
             "olivedalsgatan": [
@@ -76464,6 +76503,19 @@
                 "$districtName": "bäckebol",
                 "last_accept": 443,
                 "$last_seen": "2024-04-02T06:49:28.512Z"
+              },
+              {
+                "id": 121135,
+                "rent": 7125,
+                "area": 28,
+                "street": "herr arnes gata",
+                "street_number": "1",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bäckebol",
+                "last_accept": 681,
+                "$last_seen": "2024-04-15T10:51:41.639Z"
               }
             ],
             "backadalen": [
@@ -76505,6 +76557,19 @@
                 "$districtName": "bäckebol",
                 "last_accept": 409,
                 "$last_seen": "2024-04-10T11:50:48.356Z"
+              },
+              {
+                "id": 122893,
+                "rent": 6740,
+                "area": 25,
+                "street": "backadalen",
+                "street_number": "15",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bäckebol",
+                "last_accept": 408,
+                "$last_seen": "2024-04-15T10:51:41.639Z"
               }
             ]
           },
