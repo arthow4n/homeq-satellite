@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-15T08:51:29.420Z",
+  "lastUpdatedAt": "2024-04-15T09:50:53.332Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -31870,6 +31870,19 @@
                 "$districtName": "annedal",
                 "last_accept": 1917,
                 "$last_seen": "2024-03-27T11:43:58.081Z"
+              },
+              {
+                "id": 122289,
+                "rent": 9564,
+                "area": 61,
+                "street": "övre husargatan",
+                "street_number": "24",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "annedal",
+                "last_accept": 1924,
+                "$last_seen": "2024-04-15T08:51:29.420Z"
               }
             ],
             "brunnsgatan": [
@@ -42652,6 +42665,19 @@
                 "$districtName": "lundby",
                 "last_accept": 310,
                 "$last_seen": "2024-03-19T07:42:58.724Z"
+              },
+              {
+                "id": 118272,
+                "rent": 7884,
+                "area": 83,
+                "street": "fyrklöversgatan",
+                "street_number": "48",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1924,
+                "$last_seen": "2024-04-15T08:51:29.420Z"
               },
               {
                 "id": 118303,
@@ -56727,6 +56753,19 @@
                 "$last_seen": "2024-03-07T09:33:49.443Z"
               },
               {
+                "id": 119543,
+                "rent": 5328,
+                "area": 22,
+                "street": "smörslätten",
+                "street_number": "6",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "björkekärr",
+                "last_accept": 922,
+                "$last_seen": "2024-04-15T08:51:29.420Z"
+              },
+              {
                 "id": 120034,
                 "rent": 7666,
                 "area": 49,
@@ -61441,6 +61480,19 @@
                 "$districtName": "högsbo",
                 "last_accept": 1914,
                 "$last_seen": "2024-04-10T07:49:56.502Z"
+              },
+              {
+                "id": 121409,
+                "rent": 11249,
+                "area": 85,
+                "street": "marklandsgatan",
+                "street_number": "25",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 1911,
+                "$last_seen": "2024-04-15T08:51:29.420Z"
               }
             ],
             "pennygången": [
@@ -96366,6 +96418,21 @@
                 "last_accept": 560,
                 "$last_seen": "2023-10-10T10:46:02.116Z"
               }
+            ],
+            "västra ryttmästaregatan": [
+              {
+                "id": 123210,
+                "rent": 5647,
+                "area": 29,
+                "street": "västra ryttmästaregatan",
+                "street_number": "21",
+                "city": "malmö",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "slottsstaden",
+                "last_accept": 733,
+                "$last_seen": "2024-04-15T08:51:29.420Z"
+              }
             ]
           },
           "fosie": {
@@ -96490,6 +96557,19 @@
                 "$districtName": "fosie",
                 "last_accept": 364,
                 "$last_seen": "2023-08-31T08:44:53.868Z"
+              },
+              {
+                "id": 122323,
+                "rent": 6433,
+                "area": 39,
+                "street": "koralgatan",
+                "street_number": "52",
+                "city": "malmö",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "fosie",
+                "last_accept": 82,
+                "$last_seen": "2024-04-15T08:51:29.420Z"
               }
             ]
           }
