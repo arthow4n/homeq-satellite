@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-15T13:50:03.689Z",
+  "lastUpdatedAt": "2024-04-15T14:51:00.068Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -42758,6 +42758,19 @@
                 "$last_seen": "2024-04-09T05:51:08.349Z"
               },
               {
+                "id": 122116,
+                "rent": 8339,
+                "area": 83,
+                "street": "fyrklöversgatan",
+                "street_number": "32",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1824,
+                "$last_seen": "2024-04-15T13:50:03.689Z"
+              },
+              {
                 "id": 122758,
                 "rent": 5127,
                 "area": 43,
@@ -43570,6 +43583,19 @@
                 "$districtName": "lundby",
                 "last_accept": 1386,
                 "$last_seen": "2024-02-05T07:35:25.573Z"
+              },
+              {
+                "id": 121836,
+                "rent": 11225,
+                "area": 78,
+                "street": "södra säterigatan",
+                "street_number": "1",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1846,
+                "$last_seen": "2024-04-15T13:50:03.689Z"
               }
             ],
             "tillburygatan": [
@@ -77154,6 +77180,19 @@
                 "$districtName": "brunnsbo",
                 "last_accept": 1777,
                 "$last_seen": "2024-03-28T08:48:17.332Z"
+              },
+              {
+                "id": 122128,
+                "rent": 8457,
+                "area": 72,
+                "street": "klassikergatan",
+                "street_number": "19",
+                "city": "hisings backa",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brunnsbo",
+                "last_accept": 1543,
+                "$last_seen": "2024-04-15T13:50:03.689Z"
               }
             ],
             "prologgatan": [
@@ -80222,6 +80261,19 @@
                 "$districtName": "tynnered",
                 "last_accept": 63,
                 "$last_seen": "2024-04-11T08:59:15.216Z"
+              },
+              {
+                "id": 122920,
+                "rent": 11006,
+                "area": 94,
+                "street": "smyckegatan",
+                "street_number": "25",
+                "city": "västra frölunda",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tynnered",
+                "last_accept": 1829,
+                "$last_seen": "2024-04-15T13:50:03.689Z"
               }
             ],
             "björkhöjdsgatan": [
@@ -107749,6 +107801,21 @@
                 "$districtName": "linköpings domkyrkodistrikt",
                 "last_accept": 1397,
                 "$last_seen": "2024-03-15T10:48:44.637Z"
+              }
+            ],
+            "skvadronsgatan": [
+              {
+                "id": 121934,
+                "rent": 8148,
+                "area": 37,
+                "street": "skvadronsgatan",
+                "street_number": "2",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "linköpings domkyrkodistrikt",
+                "last_accept": 21,
+                "$last_seen": "2024-04-15T13:50:03.689Z"
               }
             ],
             "sveagatan": [
