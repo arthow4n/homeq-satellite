@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-15T05:52:27.783Z",
+  "lastUpdatedAt": "2024-04-15T06:55:45.972Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -66817,6 +66817,19 @@
                 "$last_seen": "2024-01-24T13:37:47.051Z"
               },
               {
+                "id": 117076,
+                "rent": 13119,
+                "area": 96,
+                "street": "prästgårdsängen",
+                "street_number": "14",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1923,
+                "$last_seen": "2024-04-15T05:52:27.783Z"
+              },
+              {
                 "id": 117177,
                 "rent": 13382,
                 "area": 96,
@@ -94533,6 +94546,19 @@
                 "$districtName": "hyllie",
                 "last_accept": 333,
                 "$last_seen": "2024-03-18T08:48:39.238Z"
+              },
+              {
+                "id": 122198,
+                "rent": 8892,
+                "area": 44,
+                "street": "allétorget",
+                "street_number": "1",
+                "city": "malmö",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "hyllie",
+                "last_accept": 325,
+                "$last_seen": "2024-04-15T05:52:27.783Z"
               }
             ],
             "bures gata": [
