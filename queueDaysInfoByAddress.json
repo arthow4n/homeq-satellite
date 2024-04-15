@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-15T13:04:56.119Z",
+  "lastUpdatedAt": "2024-04-15T13:50:03.689Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -59778,6 +59778,19 @@
                 "$districtName": "askim",
                 "last_accept": 1303,
                 "$last_seen": "2024-03-27T08:48:50.160Z"
+              },
+              {
+                "id": 122207,
+                "rent": 10456,
+                "area": 85,
+                "street": "nergårdsvägen",
+                "street_number": "29",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 1274,
+                "$last_seen": "2024-04-15T13:04:56.119Z"
               }
             ],
             "askims pilegårdsväg": [
@@ -100376,6 +100389,19 @@
                 "$districtName": "östra torn",
                 "last_accept": 718,
                 "$last_seen": "2024-03-22T10:49:53.802Z"
+              },
+              {
+                "id": 118002,
+                "rent": 9323,
+                "area": 52,
+                "street": "vetenskapsgatan",
+                "street_number": "4f",
+                "city": "lund",
+                "municipality": "lund",
+                "county": "skåne län",
+                "$districtName": "östra torn",
+                "last_accept": 917,
+                "$last_seen": "2024-04-15T13:04:56.119Z"
               }
             ],
             "stralsundsvägen": [
@@ -108309,6 +108335,19 @@
                 "$last_seen": "2024-03-28T10:49:40.279Z"
               },
               {
+                "id": 121729,
+                "rent": 8157,
+                "area": 68,
+                "street": "nya tanneforsvägen",
+                "street_number": "38 c",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "linköpings sankt lars",
+                "last_accept": 1090,
+                "$last_seen": "2024-04-15T13:04:56.119Z"
+              },
+              {
                 "id": 121734,
                 "rent": 5087,
                 "area": 40,
@@ -108499,6 +108538,19 @@
                 "$districtName": "uppsala helga trefaldighet",
                 "last_accept": 990,
                 "$last_seen": "2024-04-15T11:50:03.773Z"
+              },
+              {
+                "id": 118004,
+                "rent": 17663,
+                "area": 97,
+                "street": "honungsgatan",
+                "street_number": "36",
+                "city": "uppsala",
+                "municipality": "uppsala",
+                "county": "uppsala län",
+                "$districtName": "uppsala helga trefaldighet",
+                "last_accept": 36,
+                "$last_seen": "2024-04-15T13:04:56.119Z"
               }
             ]
           },
