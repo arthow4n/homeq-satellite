@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-15T07:51:10.220Z",
+  "lastUpdatedAt": "2024-04-15T08:51:29.420Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -35280,6 +35280,19 @@
                 "$districtName": "nylöse",
                 "last_accept": 800,
                 "$last_seen": "2024-03-22T11:44:58.627Z"
+              },
+              {
+                "id": 120485,
+                "rent": 10224,
+                "area": 61,
+                "street": "sysslomansgatan",
+                "street_number": "44",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "nylöse",
+                "last_accept": 4,
+                "$last_seen": "2024-04-15T07:51:10.220Z"
               }
             ],
             "hinderbanan": [
@@ -36616,6 +36629,19 @@
                 "$districtName": "tuve",
                 "last_accept": 899,
                 "$last_seen": "2024-01-17T11:35:42.647Z"
+              },
+              {
+                "id": 121168,
+                "rent": 10537,
+                "area": 63,
+                "street": "gubbe lars väg",
+                "street_number": "1",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tuve",
+                "last_accept": 457,
+                "$last_seen": "2024-04-15T07:51:10.220Z"
               }
             ]
           },
@@ -81834,6 +81860,19 @@
                 "$districtName": "högsbo",
                 "last_accept": 933,
                 "$last_seen": "2024-04-03T11:46:43.990Z"
+              },
+              {
+                "id": 122002,
+                "rent": 9751,
+                "area": 77,
+                "street": "svängrumsgatan",
+                "street_number": "57",
+                "city": "västra frölunda",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 1911,
+                "$last_seen": "2024-04-15T07:51:10.220Z"
               }
             ],
             "distansgatan": [
@@ -87690,6 +87729,19 @@
                 "$districtName": "partille",
                 "last_accept": 736,
                 "$last_seen": "2024-03-05T12:49:33.011Z"
+              },
+              {
+                "id": 122324,
+                "rent": 8900,
+                "area": 57,
+                "street": "stärteredsvägen",
+                "street_number": "31",
+                "city": "jonsered",
+                "municipality": "partille",
+                "county": "västra götalands län",
+                "$districtName": "partille",
+                "last_accept": 804,
+                "$last_seen": "2024-04-15T07:51:10.220Z"
               },
               {
                 "id": 122347,
@@ -107650,19 +107702,6 @@
                 "$districtName": "skäggetorp",
                 "last_accept": 1,
                 "$last_seen": "2024-04-12T08:56:10.099Z"
-              },
-              {
-                "id": 122673,
-                "rent": 5525,
-                "area": 33,
-                "street": "fogdegatan",
-                "street_number": "58",
-                "city": "linköping",
-                "municipality": "linköping",
-                "county": "östergötlands län",
-                "$districtName": "skäggetorp",
-                "last_accept": 0,
-                "$last_seen": "2024-04-11T10:57:14.031Z"
               }
             ],
             "väpnaregatan": [
