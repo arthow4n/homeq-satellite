@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-15T14:51:00.068Z",
+  "lastUpdatedAt": "2024-04-15T15:50:07.576Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -32160,6 +32160,19 @@
                 "$districtName": "annedal",
                 "last_accept": 1905,
                 "$last_seen": "2024-03-27T09:44:07.341Z"
+              },
+              {
+                "id": 121903,
+                "rent": 8127,
+                "area": 49,
+                "street": "carl grimbergsgatan",
+                "street_number": "21",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "annedal",
+                "last_accept": 1924,
+                "$last_seen": "2024-04-15T14:51:00.068Z"
               }
             ],
             "risåsgatan": [
@@ -60196,6 +60209,19 @@
                 "$districtName": "askim",
                 "last_accept": 305,
                 "$last_seen": "2024-04-15T11:50:03.773Z"
+              },
+              {
+                "id": 122261,
+                "rent": 10360,
+                "area": 53,
+                "street": "askims pilegårdsväg",
+                "street_number": "42",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 716,
+                "$last_seen": "2024-04-15T14:51:00.068Z"
               }
             ]
           },
@@ -108682,6 +108708,19 @@
                 "$districtName": "gamla uppsala",
                 "last_accept": 212,
                 "$last_seen": "2024-04-01T08:50:11.718Z"
+              },
+              {
+                "id": 122556,
+                "rent": 6964,
+                "area": 26.38,
+                "street": "gamla uppsalagatan",
+                "street_number": "104",
+                "city": "uppsala",
+                "municipality": "uppsala",
+                "county": "uppsala län",
+                "$districtName": "gamla uppsala",
+                "last_accept": 147,
+                "$last_seen": "2024-04-15T14:51:00.068Z"
               },
               {
                 "id": 122559,
