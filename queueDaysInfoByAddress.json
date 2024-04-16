@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-16T14:54:20.732Z",
+  "lastUpdatedAt": "2024-04-16T15:51:11.655Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -49575,19 +49575,6 @@
                 "$districtName": "kortedala",
                 "last_accept": 1562,
                 "$last_seen": "2024-03-26T13:00:59.362Z"
-              },
-              {
-                "id": 121410,
-                "rent": 6569,
-                "area": 62.5,
-                "street": "januarigatan",
-                "street_number": "19",
-                "city": "göteborg",
-                "municipality": "göteborg",
-                "county": "västra götalands län",
-                "$districtName": "kortedala",
-                "last_accept": 1496,
-                "$last_seen": "2024-04-12T10:56:43.907Z"
               }
             ],
             "solståndsgatan": [
@@ -99055,6 +99042,21 @@
                 "last_accept": 156,
                 "$last_seen": "2024-01-23T09:35:22.597Z"
               }
+            ],
+            "tegnérgatan": [
+              {
+                "id": 117237,
+                "rent": 4313,
+                "area": 32,
+                "street": "tegnérgatan",
+                "street_number": "35",
+                "city": "limhamn",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "limhamn",
+                "last_accept": 713,
+                "$last_seen": "2024-04-16T14:54:20.732Z"
+              }
             ]
           }
         },
@@ -100743,6 +100745,19 @@
               }
             ],
             "stralsundsvägen": [
+              {
+                "id": 115842,
+                "rent": 9402,
+                "area": 61,
+                "street": "stralsundsvägen",
+                "street_number": "33",
+                "city": "lund",
+                "municipality": "lund",
+                "county": "skåne län",
+                "$districtName": "östra torn",
+                "last_accept": 51,
+                "$last_seen": "2024-04-16T14:54:20.732Z"
+              },
               {
                 "id": 119427,
                 "rent": 9478,
