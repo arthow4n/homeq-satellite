@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-16T10:55:10.676Z",
+  "lastUpdatedAt": "2024-04-16T11:49:29.584Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -40314,6 +40314,19 @@
                 "$districtName": "göteborgs domkyrkodistrikt",
                 "last_accept": 1912,
                 "$last_seen": "2024-04-02T13:45:51.291Z"
+              },
+              {
+                "id": 122081,
+                "rent": 4954,
+                "area": 43,
+                "street": "odinsgatan",
+                "street_number": "22 a",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs domkyrkodistrikt",
+                "last_accept": 1947,
+                "$last_seen": "2024-04-16T10:55:10.676Z"
               }
             ],
             "stampgatan": [
@@ -52848,6 +52861,19 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1956,
                 "$last_seen": "2024-04-04T07:47:18.232Z"
+              },
+              {
+                "id": 122383,
+                "rent": 9103,
+                "area": 49,
+                "street": "övre besvärsgatan",
+                "street_number": "7",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1920,
+                "$last_seen": "2024-04-16T10:55:10.676Z"
               }
             ],
             "rosensköldsgatan": [
@@ -55596,6 +55622,19 @@
                 "$districtName": "göteborgs vasa",
                 "last_accept": 1878,
                 "$last_seen": "2024-03-20T08:47:14.218Z"
+              },
+              {
+                "id": 121434,
+                "rent": 13341,
+                "area": 65,
+                "street": "teatergatan",
+                "street_number": "32",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs vasa",
+                "last_accept": 1826,
+                "$last_seen": "2024-04-16T10:55:10.676Z"
               }
             ],
             "tegnérsgatan": [
@@ -104598,6 +104637,19 @@
                 "$districtName": "vällingby",
                 "last_accept": 1692,
                 "$last_seen": "2024-04-08T07:48:34.160Z"
+              },
+              {
+                "id": 123524,
+                "rent": 2864,
+                "area": 18.5,
+                "street": "ångermannagatan",
+                "street_number": "189",
+                "city": "stockholm",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vällingby",
+                "last_accept": 1557,
+                "$last_seen": "2024-04-16T10:55:10.676Z"
               }
             ]
           },
