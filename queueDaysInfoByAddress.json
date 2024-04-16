@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-16T09:50:07.220Z",
+  "lastUpdatedAt": "2024-04-16T10:55:10.676Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -87246,6 +87246,19 @@
                 "$districtName": "fässberg",
                 "last_accept": 1258,
                 "$last_seen": "2024-04-12T06:56:38.878Z"
+              },
+              {
+                "id": 121747,
+                "rent": 11584,
+                "area": 83,
+                "street": "berghemsgatan",
+                "street_number": "28",
+                "city": "mölndal",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 1914,
+                "$last_seen": "2024-04-16T09:50:07.220Z"
               }
             ],
             "marielundsgatan": [
@@ -97475,6 +97488,19 @@
                 "$districtName": "limhamn",
                 "last_accept": 123,
                 "$last_seen": "2024-04-03T10:52:19.916Z"
+              },
+              {
+                "id": 123174,
+                "rent": 12126,
+                "area": 71,
+                "street": "högatan",
+                "street_number": "10 d",
+                "city": "limhamn",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "limhamn",
+                "last_accept": 37,
+                "$last_seen": "2024-04-16T09:50:07.220Z"
               }
             ],
             "höbalsgatan": [
@@ -107967,6 +107993,19 @@
                 "$districtName": "slaka",
                 "last_accept": 926,
                 "$last_seen": "2024-03-15T10:48:44.637Z"
+              },
+              {
+                "id": 120393,
+                "rent": 5974,
+                "area": 34,
+                "street": "ada arwedssons gata",
+                "street_number": "6",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "slaka",
+                "last_accept": 194,
+                "$last_seen": "2024-04-16T09:50:07.220Z"
               }
             ],
             "johannes magnus väg": [
@@ -108150,6 +108189,19 @@
                 "$districtName": "skäggetorp",
                 "last_accept": 21,
                 "$last_seen": "2024-04-02T13:45:51.291Z"
+              },
+              {
+                "id": 121310,
+                "rent": 7960,
+                "area": 60,
+                "street": "väpnaregatan",
+                "street_number": "3",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "skäggetorp",
+                "last_accept": 615,
+                "$last_seen": "2024-04-16T09:50:07.220Z"
               },
               {
                 "id": 122343,
@@ -108413,6 +108465,21 @@
             ]
           },
           "linköpings sankt lars": {
+            "hamngatan": [
+              {
+                "id": 114322,
+                "rent": 8542,
+                "area": 83,
+                "street": "hamngatan",
+                "street_number": "8",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "linköpings sankt lars",
+                "last_accept": 80,
+                "$last_seen": "2024-04-16T09:50:07.220Z"
+              }
+            ],
             "nya tanneforsvägen": [
               {
                 "id": 117785,
