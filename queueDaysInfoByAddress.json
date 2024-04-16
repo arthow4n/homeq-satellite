@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-16T11:49:29.584Z",
+  "lastUpdatedAt": "2024-04-16T13:08:44.057Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -64988,6 +64988,19 @@
                 "$last_seen": "2024-03-20T08:47:14.218Z"
               },
               {
+                "id": 118800,
+                "rent": 8994,
+                "area": 61,
+                "street": "wieselgrensplatsen",
+                "street_number": "1",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brämaregården",
+                "last_accept": 1924,
+                "$last_seen": "2024-04-16T11:49:29.584Z"
+              },
+              {
                 "id": 118827,
                 "rent": 4519,
                 "area": 20,
@@ -73672,6 +73685,19 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1843,
                 "$last_seen": "2024-01-26T09:35:04.621Z"
+              },
+              {
+                "id": 121646,
+                "rent": 11488,
+                "area": 79,
+                "street": "redbergsvägen",
+                "street_number": "30",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1924,
+                "$last_seen": "2024-04-16T11:49:29.584Z"
               }
             ],
             "hebegatan": [
@@ -75161,6 +75187,19 @@
                 "$districtName": "göteborgs karl johan",
                 "last_accept": 1090,
                 "$last_seen": "2024-01-31T10:38:19.764Z"
+              },
+              {
+                "id": 122869,
+                "rent": 5526,
+                "area": 37,
+                "street": "kusttorget",
+                "street_number": "6a",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs karl johan",
+                "last_accept": 2141,
+                "$last_seen": "2024-04-16T11:49:29.584Z"
               }
             ],
             "asperögatan": [
@@ -81129,6 +81168,19 @@
                 "$districtName": "tynnered",
                 "last_accept": 1178,
                 "$last_seen": "2024-02-27T12:50:24.500Z"
+              },
+              {
+                "id": 121017,
+                "rent": 7344,
+                "area": 74,
+                "street": "lilla grevegårdsvägen",
+                "street_number": "45",
+                "city": "västra frölunda",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tynnered",
+                "last_accept": 1919,
+                "$last_seen": "2024-04-16T11:49:29.584Z"
               }
             ],
             "björkhöjdgatan": [
@@ -83244,6 +83296,19 @@
                 "$districtName": "kortedala",
                 "last_accept": 759,
                 "$last_seen": "2024-03-28T10:49:40.279Z"
+              },
+              {
+                "id": 121314,
+                "rent": 5269,
+                "area": 25,
+                "street": "januarigatan",
+                "street_number": "18",
+                "city": "göteborg ",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "kortedala",
+                "last_accept": 713,
+                "$last_seen": "2024-04-16T11:49:29.584Z"
               }
             ]
           },
@@ -86430,6 +86495,19 @@
                 "$districtName": "fässberg",
                 "last_accept": 1689,
                 "$last_seen": "2023-08-24T07:42:56.187Z"
+              },
+              {
+                "id": 120992,
+                "rent": 6051,
+                "area": 57,
+                "street": "lammevallsgatan",
+                "street_number": "46 c",
+                "city": "mölndal",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 1924,
+                "$last_seen": "2024-04-16T11:49:29.584Z"
               }
             ],
             "luktärtsgatan": [
