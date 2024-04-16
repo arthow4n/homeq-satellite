@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-16T06:55:39.231Z",
+  "lastUpdatedAt": "2024-04-16T07:51:09.373Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -57443,6 +57443,19 @@
                 "$last_seen": "2024-03-26T13:00:59.362Z"
               },
               {
+                "id": 120652,
+                "rent": 10634,
+                "area": 54,
+                "street": "kobbeslätten",
+                "street_number": "8",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 643,
+                "$last_seen": "2024-04-16T06:55:39.231Z"
+              },
+              {
                 "id": 121791,
                 "rent": 10884,
                 "area": 54,
@@ -92664,6 +92677,19 @@
                 "$districtName": "kirseberg",
                 "last_accept": 277,
                 "$last_seen": "2024-04-04T09:47:40.725Z"
+              },
+              {
+                "id": 122014,
+                "rent": 6236,
+                "area": 36,
+                "street": "högamöllegatan",
+                "street_number": "8b",
+                "city": "malmö",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "kirseberg",
+                "last_accept": 720,
+                "$last_seen": "2024-04-16T06:55:39.231Z"
               }
             ],
             "floragatan": [
