@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-16T08:55:06.141Z",
+  "lastUpdatedAt": "2024-04-16T09:50:07.220Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -38835,6 +38835,19 @@
                 "$districtName": "masthugget",
                 "last_accept": 1850,
                 "$last_seen": "2024-03-20T13:00:42.047Z"
+              },
+              {
+                "id": 122611,
+                "rent": 5176,
+                "area": 32,
+                "street": "barlastgatan",
+                "street_number": "2",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "masthugget",
+                "last_accept": 1909,
+                "$last_seen": "2024-04-16T08:55:06.141Z"
               }
             ],
             "kjellmansgatan": [
@@ -63856,6 +63869,19 @@
                 "$districtName": "högsbo",
                 "last_accept": 1734,
                 "$last_seen": "2024-04-04T13:47:23.790Z"
+              },
+              {
+                "id": 122940,
+                "rent": 6374,
+                "area": 42,
+                "street": "skäpplandsgatan",
+                "street_number": "5",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 1381,
+                "$last_seen": "2024-04-16T08:55:06.141Z"
               }
             ]
           },
@@ -108038,6 +108064,19 @@
                 "$districtName": "slaka",
                 "last_accept": 801,
                 "$last_seen": "2024-04-15T11:50:03.773Z"
+              },
+              {
+                "id": 123276,
+                "rent": 12070,
+                "area": 85,
+                "street": "spannmålsgatan",
+                "street_number": "3",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "slaka",
+                "last_accept": 802,
+                "$last_seen": "2024-04-16T08:55:06.141Z"
               }
             ]
           },
