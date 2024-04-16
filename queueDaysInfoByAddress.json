@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-16T13:08:44.057Z",
+  "lastUpdatedAt": "2024-04-16T13:51:45.147Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -95421,6 +95421,19 @@
                 "$districtName": "hyllie",
                 "last_accept": 0,
                 "$last_seen": "2023-11-07T11:40:07.267Z"
+              },
+              {
+                "id": 123176,
+                "rent": 8627,
+                "area": 41,
+                "street": "sagas gränd",
+                "street_number": "5",
+                "city": "malmö",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "hyllie",
+                "last_accept": 161,
+                "$last_seen": "2024-04-16T13:08:44.057Z"
               }
             ],
             "hyllie vattenparksgata": [
@@ -100953,6 +100966,21 @@
                 "$districtName": "lunds domkyrkodistrikt",
                 "last_accept": 393,
                 "$last_seen": "2024-03-26T13:00:59.362Z"
+              }
+            ],
+            "stora fiskaregatan": [
+              {
+                "id": 121153,
+                "rent": 5530,
+                "area": 42,
+                "street": "stora fiskaregatan",
+                "street_number": "12",
+                "city": "lund",
+                "municipality": "lund",
+                "county": "skåne län",
+                "$districtName": "lunds domkyrkodistrikt",
+                "last_accept": 1667,
+                "$last_seen": "2024-04-16T13:08:44.057Z"
               }
             ]
           },
@@ -106500,19 +106528,6 @@
                 "$districtName": "kista",
                 "last_accept": 897,
                 "$last_seen": "2024-02-15T08:36:30.726Z"
-              },
-              {
-                "id": 115789,
-                "rent": 6598,
-                "area": 22,
-                "street": "almbygatan",
-                "street_number": "14",
-                "city": "spånga",
-                "municipality": "stockholm",
-                "county": "stockholms län",
-                "$districtName": "kista",
-                "last_accept": 605,
-                "$last_seen": "2024-04-05T13:49:08.614Z"
               },
               {
                 "id": 116912,
