@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-16T19:50:15.769Z",
+  "lastUpdatedAt": "2024-04-16T20:51:23.127Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -100902,21 +100902,6 @@
                 "$districtName": "östra torn",
                 "last_accept": 38,
                 "$last_seen": "2024-04-12T13:07:52.207Z"
-              }
-            ],
-            "brunnshögsgatan": [
-              {
-                "id": 122050,
-                "rent": 6674,
-                "area": 40.2,
-                "street": "brunnshögsgatan",
-                "street_number": "20c",
-                "city": "lund",
-                "municipality": "lund",
-                "county": "skåne län",
-                "$districtName": "östra torn",
-                "last_accept": 1056,
-                "$last_seen": "2024-04-08T07:48:34.160Z"
               }
             ]
           },
