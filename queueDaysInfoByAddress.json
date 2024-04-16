@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-16T13:51:45.147Z",
+  "lastUpdatedAt": "2024-04-16T14:54:20.732Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -40024,6 +40024,19 @@
                 "$districtName": "göteborgs domkyrkodistrikt",
                 "last_accept": 1677,
                 "$last_seen": "2024-03-21T10:48:00.353Z"
+              },
+              {
+                "id": 123198,
+                "rent": 6661,
+                "area": 34,
+                "street": "bangårdsgatan",
+                "street_number": "15",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs domkyrkodistrikt",
+                "last_accept": 1702,
+                "$last_seen": "2024-04-16T13:51:45.147Z"
               }
             ],
             "folkungagatan": [
@@ -45535,6 +45548,19 @@
                 "$districtName": "lundby",
                 "last_accept": 1709,
                 "$last_seen": "2024-04-11T11:51:13.734Z"
+              },
+              {
+                "id": 122403,
+                "rent": 8223,
+                "area": 56,
+                "street": "enekullegatan",
+                "street_number": "5 c",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1748,
+                "$last_seen": "2024-04-16T13:51:45.147Z"
               }
             ],
             "tilburygatan": [
@@ -75159,6 +75185,19 @@
                 "$districtName": "göteborgs karl johan",
                 "last_accept": 1731,
                 "$last_seen": "2024-02-28T08:38:28.314Z"
+              },
+              {
+                "id": 121814,
+                "rent": 7355,
+                "area": 40,
+                "street": "seglaregatan",
+                "street_number": "27b",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs karl johan",
+                "last_accept": 1866,
+                "$last_seen": "2024-04-16T13:51:45.147Z"
               }
             ],
             "kusttorget": [
