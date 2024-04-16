@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-16T05:53:43.767Z",
+  "lastUpdatedAt": "2024-04-16T06:55:39.231Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -108721,19 +108721,6 @@
                 "$districtName": "gamla uppsala",
                 "last_accept": 147,
                 "$last_seen": "2024-04-15T14:51:00.068Z"
-              },
-              {
-                "id": 122559,
-                "rent": 7096,
-                "area": 27.53,
-                "street": "gamla uppsalagatan",
-                "street_number": "108",
-                "city": "uppsala",
-                "municipality": "uppsala",
-                "county": "uppsala län",
-                "$districtName": "gamla uppsala",
-                "last_accept": 142,
-                "$last_seen": "2024-04-10T07:49:56.502Z"
               }
             ]
           }
