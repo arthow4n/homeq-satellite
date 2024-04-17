@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-17T10:57:16.566Z",
+  "lastUpdatedAt": "2024-04-17T11:50:49.724Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -76906,19 +76906,6 @@
                 "$districtName": "bäckebol",
                 "last_accept": 443,
                 "$last_seen": "2024-04-02T06:49:28.512Z"
-              },
-              {
-                "id": 121135,
-                "rent": 7125,
-                "area": 28,
-                "street": "herr arnes gata",
-                "street_number": "1",
-                "city": "göteborg",
-                "municipality": "göteborg",
-                "county": "västra götalands län",
-                "$districtName": "bäckebol",
-                "last_accept": 681,
-                "$last_seen": "2024-04-15T10:51:41.639Z"
               }
             ],
             "backadalen": [
@@ -94588,6 +94575,21 @@
                 "$districtName": "malmö sankt pauli",
                 "last_accept": 1921,
                 "$last_seen": "2024-04-12T10:56:43.907Z"
+              }
+            ],
+            "henrik smithsgatan": [
+              {
+                "id": 123736,
+                "rent": 6581,
+                "area": 39,
+                "street": "henrik smithsgatan",
+                "street_number": "15 c",
+                "city": "malmö",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "malmö sankt pauli",
+                "last_accept": 964,
+                "$last_seen": "2024-04-17T10:57:16.566Z"
               }
             ]
           },
