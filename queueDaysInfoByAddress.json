@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-17T08:54:56.698Z",
+  "lastUpdatedAt": "2024-04-17T09:51:31.246Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -49601,6 +49601,19 @@
                 "$districtName": "kortedala",
                 "last_accept": 1562,
                 "$last_seen": "2024-03-26T13:00:59.362Z"
+              },
+              {
+                "id": 121410,
+                "rent": 6569,
+                "area": 62.5,
+                "street": "januarigatan",
+                "street_number": "19",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "kortedala",
+                "last_accept": 1501,
+                "$last_seen": "2024-04-17T08:54:56.698Z"
               }
             ],
             "solståndsgatan": [
