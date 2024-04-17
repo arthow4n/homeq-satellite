@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-17T15:01:56.093Z",
+  "lastUpdatedAt": "2024-04-17T16:01:21.448Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -59466,6 +59466,19 @@
                 "$districtName": "askim",
                 "last_accept": 1272,
                 "$last_seen": "2024-04-02T07:44:42.459Z"
+              },
+              {
+                "id": 123019,
+                "rent": 10241,
+                "area": 65,
+                "street": "kobbegården",
+                "street_number": "22",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 554,
+                "$last_seen": "2024-04-17T15:01:56.093Z"
               }
             ],
             "nergårdsvägen": [
