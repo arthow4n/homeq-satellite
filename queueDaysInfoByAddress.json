@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-17T13:53:28.946Z",
+  "lastUpdatedAt": "2024-04-17T15:01:56.093Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -55581,6 +55581,19 @@
                 "$districtName": "göteborgs vasa",
                 "last_accept": 1913,
                 "$last_seen": "2024-04-02T07:44:42.459Z"
+              },
+              {
+                "id": 122162,
+                "rent": 12335,
+                "area": 80,
+                "street": "mölndalsvägen",
+                "street_number": "5",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs vasa",
+                "last_accept": 1926,
+                "$last_seen": "2024-04-17T13:53:28.946Z"
               }
             ],
             "föreningsgatan": [
@@ -55943,6 +55956,19 @@
                 "$districtName": "göteborgs vasa",
                 "last_accept": 1832,
                 "$last_seen": "2024-01-17T11:35:42.647Z"
+              },
+              {
+                "id": 121446,
+                "rent": 12005,
+                "area": 65,
+                "street": "kungsportsavenyn",
+                "street_number": "29",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs vasa",
+                "last_accept": 1926,
+                "$last_seen": "2024-04-17T13:53:28.946Z"
               }
             ]
           },
@@ -59414,6 +59440,19 @@
                 "$districtName": "askim",
                 "last_accept": 1904,
                 "$last_seen": "2024-04-08T07:48:34.160Z"
+              },
+              {
+                "id": 119992,
+                "rent": 11128,
+                "area": 80,
+                "street": "kobbegården",
+                "street_number": "20",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 1350,
+                "$last_seen": "2024-04-17T13:53:28.946Z"
               },
               {
                 "id": 119994,
@@ -63083,6 +63122,19 @@
                 "$districtName": "högsbo",
                 "last_accept": 411,
                 "$last_seen": "2024-04-08T15:47:54.889Z"
+              },
+              {
+                "id": 124796,
+                "rent": 11449,
+                "area": 83,
+                "street": "pennygången",
+                "street_number": "41",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 0,
+                "$last_seen": "2024-04-17T13:53:28.946Z"
               }
             ],
             "skillingmyntsgatan": [
@@ -72244,6 +72296,19 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1749,
                 "$last_seen": "2024-03-18T14:47:15.426Z"
+              },
+              {
+                "id": 122799,
+                "rent": 10302,
+                "area": 61,
+                "street": "st pauligatan",
+                "street_number": "24",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1878,
+                "$last_seen": "2024-04-17T13:53:28.946Z"
               }
             ],
             "norra gubberogatan": [
@@ -82417,6 +82482,19 @@
                 "$districtName": "västra frölunda",
                 "last_accept": 1432,
                 "$last_seen": "2024-04-09T14:52:14.867Z"
+              },
+              {
+                "id": 120041,
+                "rent": 5644,
+                "area": 34,
+                "street": "marconigatan",
+                "street_number": "33 b",
+                "city": "västra frölunda",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "västra frölunda",
+                "last_accept": 1229,
+                "$last_seen": "2024-04-17T13:53:28.946Z"
               }
             ]
           },
@@ -108786,6 +108864,19 @@
                 "$districtName": "landeryd",
                 "last_accept": 493,
                 "$last_seen": "2024-04-08T13:49:14.680Z"
+              },
+              {
+                "id": 122133,
+                "rent": 6545,
+                "area": 75,
+                "street": "ekholmsvägen",
+                "street_number": "20b",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "landeryd",
+                "last_accept": 626,
+                "$last_seen": "2024-04-17T13:53:28.946Z"
               }
             ],
             "valthornsgatan": [
