@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-17T06:58:10.737Z",
+  "lastUpdatedAt": "2024-04-17T07:50:49.476Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -41357,6 +41357,19 @@
                 "$districtName": "västra frölunda",
                 "last_accept": 1850,
                 "$last_seen": "2024-02-01T11:34:53.680Z"
+              },
+              {
+                "id": 121750,
+                "rent": 13274,
+                "area": 91,
+                "street": "tvärflöjtsgatan",
+                "street_number": "21",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "västra frölunda",
+                "last_accept": 1647,
+                "$last_seen": "2024-04-17T06:58:10.737Z"
               }
             ],
             "transistorgatan": [
@@ -108425,6 +108438,19 @@
                 "$districtName": "skäggetorp",
                 "last_accept": 0,
                 "$last_seen": "2024-04-11T07:51:27.807Z"
+              },
+              {
+                "id": 122390,
+                "rent": 6048,
+                "area": 69,
+                "street": "väpnaregatan",
+                "street_number": "13",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "skäggetorp",
+                "last_accept": 1,
+                "$last_seen": "2024-04-17T06:58:10.737Z"
               },
               {
                 "id": 122679,
