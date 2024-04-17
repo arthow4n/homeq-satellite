@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-17T11:50:49.724Z",
+  "lastUpdatedAt": "2024-04-17T13:09:26.818Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -42797,6 +42797,19 @@
                 "$last_seen": "2024-03-18T07:44:26.349Z"
               },
               {
+                "id": 120282,
+                "rent": 9445,
+                "area": 62,
+                "street": "fyrklöversgatan",
+                "street_number": "2",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1729,
+                "$last_seen": "2024-04-17T10:57:16.566Z"
+              },
+              {
                 "id": 120311,
                 "rent": 8819,
                 "area": 43,
@@ -45617,6 +45630,21 @@
                 "$districtName": "lundby",
                 "last_accept": 1385,
                 "$last_seen": "2024-03-28T05:49:21.111Z"
+              }
+            ],
+            "rosenapelgatan": [
+              {
+                "id": 122184,
+                "rent": 12997,
+                "area": 76,
+                "street": "rosenapelgatan",
+                "street_number": "32",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1180,
+                "$last_seen": "2024-04-17T11:50:49.724Z"
               }
             ]
           },
@@ -49064,6 +49092,19 @@
                 "$districtName": "kortedala",
                 "last_accept": 1378,
                 "$last_seen": "2024-04-04T10:52:27.609Z"
+              },
+              {
+                "id": 121316,
+                "rent": 6636,
+                "area": 62.5,
+                "street": "februarigatan",
+                "street_number": "10",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "kortedala",
+                "last_accept": 1501,
+                "$last_seen": "2024-04-17T11:50:49.724Z"
               }
             ],
             "allhelgonagatan": [
@@ -51660,6 +51701,19 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1899,
                 "$last_seen": "2024-03-19T13:43:32.778Z"
+              },
+              {
+                "id": 122780,
+                "rent": 5498,
+                "area": 37,
+                "street": "södra viktoriagatan",
+                "street_number": "52",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1850,
+                "$last_seen": "2024-04-17T11:50:49.724Z"
               }
             ],
             "norra krokslättsgatan": [
@@ -97228,6 +97282,19 @@
                 "$districtName": "limhamn",
                 "last_accept": 880,
                 "$last_seen": "2023-09-20T13:43:48.257Z"
+              },
+              {
+                "id": 122088,
+                "rent": 9667,
+                "area": 69,
+                "street": "birger jarlsgatan",
+                "street_number": "39 b",
+                "city": "limhamn",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "limhamn",
+                "last_accept": 1168,
+                "$last_seen": "2024-04-17T11:50:49.724Z"
               }
             ],
             "högatan": [
