@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-17T09:51:31.246Z",
+  "lastUpdatedAt": "2024-04-17T10:57:16.566Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -73356,6 +73356,19 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1883,
                 "$last_seen": "2024-03-25T11:44:43.081Z"
+              },
+              {
+                "id": 121647,
+                "rent": 11376,
+                "area": 75,
+                "street": "liedstrandsgatan",
+                "street_number": "3a",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1926,
+                "$last_seen": "2024-04-17T09:51:31.246Z"
               }
             ],
             "runebergsgatan": [
@@ -100352,6 +100365,19 @@
                 "$districtName": "bunkeflo",
                 "last_accept": 25,
                 "$last_seen": "2024-02-16T09:34:33.361Z"
+              },
+              {
+                "id": 118561,
+                "rent": 9233,
+                "area": 60.6,
+                "street": "smedmästarebyn",
+                "street_number": "1f",
+                "city": "bunkeflostrand",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "bunkeflo",
+                "last_accept": 13,
+                "$last_seen": "2024-04-17T09:51:31.246Z"
               }
             ],
             "skräddarebyn": [
@@ -102328,6 +102354,19 @@
                 "$districtName": "vantör",
                 "last_accept": 1464,
                 "$last_seen": "2024-04-10T13:08:46.691Z"
+              },
+              {
+                "id": 121762,
+                "rent": 7003,
+                "area": 45,
+                "street": "åmmebergsgatan",
+                "street_number": "19",
+                "city": "bandhagen",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 1926,
+                "$last_seen": "2024-04-17T09:51:31.246Z"
               },
               {
                 "id": 122655,
