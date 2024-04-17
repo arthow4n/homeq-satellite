@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-17T13:09:26.818Z",
+  "lastUpdatedAt": "2024-04-17T13:53:28.946Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -96605,6 +96605,19 @@
                 "$districtName": "västra skrävlinge",
                 "last_accept": 536,
                 "$last_seen": "2024-02-27T12:50:24.500Z"
+              },
+              {
+                "id": 120637,
+                "rent": 6506,
+                "area": 51,
+                "street": "ramels väg",
+                "street_number": "33",
+                "city": "malmö",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "västra skrävlinge",
+                "last_accept": 24,
+                "$last_seen": "2024-04-17T13:09:26.818Z"
               }
             ]
           },
