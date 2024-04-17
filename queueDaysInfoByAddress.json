@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-17T05:53:32.934Z",
+  "lastUpdatedAt": "2024-04-17T06:58:10.737Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -35464,6 +35464,19 @@
                 "$districtName": "nylöse",
                 "last_accept": 1590,
                 "$last_seen": "2024-03-26T09:43:49.251Z"
+              },
+              {
+                "id": 121877,
+                "rent": 9788,
+                "area": 51.8,
+                "street": "hinderbanan",
+                "street_number": "32",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "nylöse",
+                "last_accept": 1018,
+                "$last_seen": "2024-04-17T05:53:32.934Z"
               }
             ],
             "artillerigatan": [
@@ -74544,6 +74557,19 @@
                 "$districtName": "härlanda",
                 "last_accept": 1679,
                 "$last_seen": "2023-09-28T13:44:36.908Z"
+              },
+              {
+                "id": 121306,
+                "rent": 7780,
+                "area": 51,
+                "street": "virginsgatan",
+                "street_number": "3b",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "härlanda",
+                "last_accept": 1926,
+                "$last_seen": "2024-04-17T05:53:32.934Z"
               }
             ],
             "utjordsgatan": [
@@ -108854,6 +108880,19 @@
                 "$districtName": "linköpings sankt lars",
                 "last_accept": 1597,
                 "$last_seen": "2024-04-08T05:52:28.906Z"
+              },
+              {
+                "id": 122349,
+                "rent": 5707,
+                "area": 35,
+                "street": "snickaregatan",
+                "street_number": "16b",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "linköpings sankt lars",
+                "last_accept": 216,
+                "$last_seen": "2024-04-17T05:53:32.934Z"
               }
             ],
             "skördegatan": [
