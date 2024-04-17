@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-17T07:50:49.476Z",
+  "lastUpdatedAt": "2024-04-17T08:54:56.698Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -52913,6 +52913,19 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1920,
                 "$last_seen": "2024-04-16T10:55:10.676Z"
+              },
+              {
+                "id": 122830,
+                "rent": 9017,
+                "area": 73,
+                "street": "övre besvärsgatan",
+                "street_number": "3",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1928,
+                "$last_seen": "2024-04-17T07:50:49.476Z"
               }
             ],
             "rosensköldsgatan": [
@@ -58691,6 +58704,19 @@
                 "$districtName": "askim",
                 "last_accept": 1066,
                 "$last_seen": "2024-04-10T08:56:57.625Z"
+              },
+              {
+                "id": 122744,
+                "rent": 4865,
+                "area": 32,
+                "street": "pilegården",
+                "street_number": "2b",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 1091,
+                "$last_seen": "2024-04-17T07:50:49.476Z"
               }
             ],
             "sisjövägen": [
@@ -59934,6 +59960,19 @@
                 "$districtName": "askim",
                 "last_accept": 1274,
                 "$last_seen": "2024-04-15T13:04:56.119Z"
+              },
+              {
+                "id": 122754,
+                "rent": 11395,
+                "area": 75,
+                "street": "nergårdsvägen",
+                "street_number": "47",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 890,
+                "$last_seen": "2024-04-17T07:50:49.476Z"
               }
             ],
             "askims pilegårdsväg": [
@@ -60928,6 +60967,19 @@
                 "$districtName": "högsbo",
                 "last_accept": 1178,
                 "$last_seen": "2024-04-09T07:48:52.863Z"
+              },
+              {
+                "id": 121739,
+                "rent": 12636,
+                "area": 73,
+                "street": "nymilsgatan",
+                "street_number": "37",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 897,
+                "$last_seen": "2024-04-17T07:50:49.476Z"
               }
             ],
             "högsbogatan": [
@@ -69284,6 +69336,19 @@
                 "$districtName": "örgryte",
                 "last_accept": 1666,
                 "$last_seen": "2024-04-09T11:48:37.259Z"
+              },
+              {
+                "id": 122365,
+                "rent": 9784,
+                "area": 51,
+                "street": "separatorsgatan",
+                "street_number": "6",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1805,
+                "$last_seen": "2024-04-17T07:50:49.476Z"
               }
             ],
             "skummjölksgatan": [
@@ -73871,6 +73936,19 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1769,
                 "$last_seen": "2024-02-28T07:36:00.744Z"
+              },
+              {
+                "id": 121459,
+                "rent": 9307,
+                "area": 57,
+                "street": "räntmästaregatan",
+                "street_number": "5a",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1922,
+                "$last_seen": "2024-04-17T07:50:49.476Z"
               }
             ],
             "pärlstickaregatan": [
@@ -100696,6 +100774,19 @@
                 "$districtName": "bunkeflo",
                 "last_accept": 938,
                 "$last_seen": "2024-01-15T20:36:23.229Z"
+              },
+              {
+                "id": 122957,
+                "rent": 10369,
+                "area": 83,
+                "street": "blågransgatan",
+                "street_number": "5",
+                "city": "bunkeflostrand",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "bunkeflo",
+                "last_accept": 310,
+                "$last_seen": "2024-04-17T07:50:49.476Z"
               }
             ]
           }
