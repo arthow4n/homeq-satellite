@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-18T08:56:54.211Z",
+  "lastUpdatedAt": "2024-04-18T09:52:09.433Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -42873,6 +42873,19 @@
                 "$districtName": "lundby",
                 "last_accept": 1328,
                 "$last_seen": "2024-04-15T10:51:41.639Z"
+              },
+              {
+                "id": 123513,
+                "rent": 6595,
+                "area": 62,
+                "street": "fyrklöversgatan",
+                "street_number": "40",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1544,
+                "$last_seen": "2024-04-18T08:56:54.211Z"
               }
             ],
             "ö keillersgatan": [
@@ -83922,6 +83935,19 @@
                 "$districtName": "torslanda",
                 "last_accept": 0,
                 "$last_seen": "2024-01-23T13:37:24.232Z"
+              },
+              {
+                "id": 122416,
+                "rent": 5983,
+                "area": 33,
+                "street": "torslanda torg",
+                "street_number": "3b",
+                "city": "torslanda",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "torslanda",
+                "last_accept": 459,
+                "$last_seen": "2024-04-18T08:56:54.211Z"
               }
             ]
           }
@@ -93634,6 +93660,19 @@
                 "$districtName": "kirseberg",
                 "last_accept": 14,
                 "$last_seen": "2024-04-11T10:57:14.031Z"
+              },
+              {
+                "id": 122209,
+                "rent": 9826,
+                "area": 66,
+                "street": "gerlachsgatan",
+                "street_number": "2 a",
+                "city": "malmö",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "kirseberg",
+                "last_accept": 53,
+                "$last_seen": "2024-04-18T08:56:54.211Z"
               }
             ],
             "dalhemsgtan": [
@@ -103319,6 +103358,19 @@
                 "$districtName": "vantör",
                 "last_accept": 2137,
                 "$last_seen": "2024-04-12T08:56:10.099Z"
+              },
+              {
+                "id": 122176,
+                "rent": 7971,
+                "area": 58,
+                "street": "stålbogavägen",
+                "street_number": "48",
+                "city": "bandhagen",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 2022,
+                "$last_seen": "2024-04-18T08:56:54.211Z"
               }
             ],
             "askersundsgatan": [
@@ -109626,6 +109678,19 @@
                 "$districtName": "läby",
                 "last_accept": 26,
                 "$last_seen": "2024-03-28T13:01:23.596Z"
+              },
+              {
+                "id": 121993,
+                "rent": 5917,
+                "area": 34,
+                "street": "smaragdvägen",
+                "street_number": "36",
+                "city": "uppsala",
+                "municipality": "uppsala",
+                "county": "uppsala län",
+                "$districtName": "läby",
+                "last_accept": 124,
+                "$last_seen": "2024-04-18T08:56:54.211Z"
               }
             ]
           },
