@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-18T06:57:49.906Z",
+  "lastUpdatedAt": "2024-04-18T07:51:24.719Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -52993,6 +52993,19 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1928,
                 "$last_seen": "2024-04-17T07:50:49.476Z"
+              },
+              {
+                "id": 122839,
+                "rent": 6401,
+                "area": 49,
+                "street": "övre besvärsgatan",
+                "street_number": "9",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1927,
+                "$last_seen": "2024-04-18T06:57:49.906Z"
               }
             ],
             "rosensköldsgatan": [
@@ -63540,6 +63553,19 @@
                 "$districtName": "högsbo",
                 "last_accept": 422,
                 "$last_seen": "2024-03-18T11:43:52.189Z"
+              },
+              {
+                "id": 120674,
+                "rent": 13603,
+                "area": 75,
+                "street": "skillingmyntsgatan",
+                "street_number": "6",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 949,
+                "$last_seen": "2024-04-18T06:57:49.906Z"
               }
             ],
             "sjupundsgatan": [
@@ -65025,6 +65051,19 @@
                 "$districtName": "brämaregården",
                 "last_accept": 1521,
                 "$last_seen": "2024-03-25T13:00:43.849Z"
+              },
+              {
+                "id": 121893,
+                "rent": 10748,
+                "area": 57,
+                "street": "solventilsgatan",
+                "street_number": "20",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brämaregården",
+                "last_accept": 1366,
+                "$last_seen": "2024-04-18T06:57:49.906Z"
               }
             ],
             "wieselgrensplatsen": [
@@ -82616,6 +82655,19 @@
                 "$districtName": "högsbo",
                 "last_accept": 1911,
                 "$last_seen": "2024-04-15T07:51:10.220Z"
+              },
+              {
+                "id": 122719,
+                "rent": 9407,
+                "area": 76,
+                "street": "svängrumsgatan",
+                "street_number": "51",
+                "city": "västra frölunda",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 1914,
+                "$last_seen": "2024-04-18T06:57:49.906Z"
               }
             ],
             "distansgatan": [
@@ -108795,6 +108847,19 @@
                 "$districtName": "skäggetorp",
                 "last_accept": 15,
                 "$last_seen": "2024-04-11T13:08:39.944Z"
+              },
+              {
+                "id": 123520,
+                "rent": 4680,
+                "area": 45,
+                "street": "stiglötsgatan",
+                "street_number": "13",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "skäggetorp",
+                "last_accept": 19,
+                "$last_seen": "2024-04-18T06:57:49.906Z"
               }
             ],
             "fogdegatan": [
@@ -109373,6 +109438,21 @@
                 "$districtName": "linköpings sankt lars",
                 "last_accept": 0,
                 "$last_seen": "2024-04-07T13:52:49.814Z"
+              }
+            ],
+            "rundelsgatan": [
+              {
+                "id": 122618,
+                "rent": 6383,
+                "area": 43,
+                "street": "rundelsgatan",
+                "street_number": "7 c",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "linköpings sankt lars",
+                "last_accept": 43,
+                "$last_seen": "2024-04-18T06:57:49.906Z"
               }
             ]
           },
