@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-18T13:08:56.882Z",
+  "lastUpdatedAt": "2024-04-18T13:52:35.942Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -79066,6 +79066,19 @@
                 "$districtName": "askim",
                 "last_accept": 66,
                 "$last_seen": "2024-04-09T11:48:37.259Z"
+              },
+              {
+                "id": 122264,
+                "rent": 8262,
+                "area": 34,
+                "street": "sisjöbäckens väg",
+                "street_number": "22",
+                "city": "askim",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 1,
+                "$last_seen": "2024-04-18T13:08:56.882Z"
               }
             ],
             "kobbegården": [
@@ -92063,6 +92076,19 @@
                 "$last_seen": "2024-01-02T22:36:51.345Z"
               },
               {
+                "id": 109534,
+                "rent": 6638,
+                "area": 21.8,
+                "street": "nätsnäcksgränd",
+                "street_number": "11",
+                "city": "malmö",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "limhamn",
+                "last_accept": 325,
+                "$last_seen": "2024-04-18T13:08:56.882Z"
+              },
+              {
                 "id": 109762,
                 "rent": 13309,
                 "area": 83,
@@ -94399,6 +94425,19 @@
                 "$districtName": "malmö sankt pauli",
                 "last_accept": 570,
                 "$last_seen": "2024-02-26T11:36:03.425Z"
+              },
+              {
+                "id": 122681,
+                "rent": 13000,
+                "area": 76,
+                "street": "södra förstadsgatan",
+                "street_number": "30",
+                "city": "malmö",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "malmö sankt pauli",
+                "last_accept": 852,
+                "$last_seen": "2024-04-18T13:08:56.882Z"
               }
             ],
             "östra förstadsgatan": [
@@ -97146,6 +97185,19 @@
                 "$districtName": "malmö sankt johannes",
                 "last_accept": 1312,
                 "$last_seen": "2023-12-11T09:37:37.716Z"
+              },
+              {
+                "id": 122677,
+                "rent": 2723,
+                "area": 16,
+                "street": "smedjegatan",
+                "street_number": "5 b",
+                "city": "malmö",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "malmö sankt johannes",
+                "last_accept": 926,
+                "$last_seen": "2024-04-18T13:08:56.882Z"
               }
             ],
             "möllevångsgatan": [
@@ -100787,19 +100839,6 @@
                 "$districtName": "bunkeflo",
                 "last_accept": 25,
                 "$last_seen": "2024-02-16T09:34:33.361Z"
-              },
-              {
-                "id": 118561,
-                "rent": 9233,
-                "area": 60.6,
-                "street": "smedmästarebyn",
-                "street_number": "1f",
-                "city": "bunkeflostrand",
-                "municipality": "malmö",
-                "county": "skåne län",
-                "$districtName": "bunkeflo",
-                "last_accept": 13,
-                "$last_seen": "2024-04-17T09:51:31.246Z"
               }
             ],
             "skräddarebyn": [
@@ -108887,6 +108926,19 @@
                 "$districtName": "slaka",
                 "last_accept": 42,
                 "$last_seen": "2024-04-08T09:50:02.979Z"
+              },
+              {
+                "id": 112745,
+                "rent": 9408,
+                "area": 62,
+                "street": "mantalsgatan",
+                "street_number": "14",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "slaka",
+                "last_accept": 144,
+                "$last_seen": "2024-04-18T13:08:56.882Z"
               }
             ],
             "ada arwedssons gata": [
