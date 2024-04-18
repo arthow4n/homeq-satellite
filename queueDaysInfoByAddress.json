@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-18T13:52:35.942Z",
+  "lastUpdatedAt": "2024-04-18T14:55:23.331Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -81322,6 +81322,19 @@
                 "$districtName": "tynnered",
                 "last_accept": 1747,
                 "$last_seen": "2024-03-28T10:49:40.279Z"
+              },
+              {
+                "id": 121861,
+                "rent": 9319,
+                "area": 107,
+                "street": "briljantgatan",
+                "street_number": "23",
+                "city": "västra frölunda",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tynnered",
+                "last_accept": 1913,
+                "$last_seen": "2024-04-18T13:52:35.942Z"
               }
             ],
             "safirgatan": [
@@ -109109,6 +109122,19 @@
                 "$last_seen": "2024-03-15T13:00:54.621Z"
               },
               {
+                "id": 121629,
+                "rent": 7709,
+                "area": 69,
+                "street": "stiglötsgatan",
+                "street_number": "49",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "skäggetorp",
+                "last_accept": 1,
+                "$last_seen": "2024-04-18T13:52:35.942Z"
+              },
+              {
                 "id": 122070,
                 "rent": 9001,
                 "area": 105,
@@ -109241,6 +109267,21 @@
                 "$districtName": "skäggetorp",
                 "last_accept": 0,
                 "$last_seen": "2024-04-10T07:49:56.502Z"
+              }
+            ],
+            "sörgårdsgatan": [
+              {
+                "id": 122173,
+                "rent": 6703,
+                "area": 76,
+                "street": "sörgårdsgatan",
+                "street_number": "39",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "skäggetorp",
+                "last_accept": 3,
+                "$last_seen": "2024-04-18T13:52:35.942Z"
               }
             ],
             "skäggetorp centrum": [
