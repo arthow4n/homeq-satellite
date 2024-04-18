@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-18T10:59:24.877Z",
+  "lastUpdatedAt": "2024-04-18T11:51:41.760Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -36177,6 +36177,19 @@
                 "$districtName": "tuve",
                 "last_accept": 238,
                 "$last_seen": "2024-03-18T10:49:12.903Z"
+              },
+              {
+                "id": 118077,
+                "rent": 8841,
+                "area": 45.2,
+                "street": "herman anderssons väg",
+                "street_number": "4",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tuve",
+                "last_accept": 750,
+                "$last_seen": "2024-04-18T10:59:24.877Z"
               }
             ],
             "arves marias väg": [
@@ -102031,6 +102044,19 @@
                 "$districtName": "vantör",
                 "last_accept": 1939,
                 "$last_seen": "2024-03-01T09:35:26.422Z"
+              },
+              {
+                "id": 121610,
+                "rent": 8806,
+                "area": 59,
+                "street": "olshammarsgatan",
+                "street_number": "29",
+                "city": "bandhagen",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 1955,
+                "$last_seen": "2024-04-18T10:59:24.877Z"
               }
             ],
             "glanshammarsgatan": [
@@ -105287,6 +105313,19 @@
                 "$districtName": "hägersten",
                 "last_accept": 2320,
                 "$last_seen": "2024-03-28T13:44:16.069Z"
+              },
+              {
+                "id": 120520,
+                "rent": 19749,
+                "area": 91,
+                "street": "zachrisbergsgatan",
+                "street_number": "11",
+                "city": "stockholm",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "hägersten",
+                "last_accept": 1905,
+                "$last_seen": "2024-04-18T10:59:24.877Z"
               }
             ],
             "matrosbacken": [
@@ -108203,19 +108242,6 @@
                 "$last_seen": "2024-04-02T13:03:55.185Z"
               },
               {
-                "id": 108233,
-                "rent": 9346,
-                "area": 54,
-                "street": "söderleden",
-                "street_number": "39e",
-                "city": "linköping",
-                "municipality": "linköping",
-                "county": "östergötlands län",
-                "$districtName": "berga",
-                "last_accept": 7,
-                "$last_seen": "2024-04-15T09:50:53.332Z"
-              },
-              {
                 "id": 114043,
                 "rent": 9346,
                 "area": 54,
@@ -108398,6 +108424,19 @@
                 "$districtName": "berga",
                 "last_accept": 1,
                 "$last_seen": "2024-04-08T13:49:14.680Z"
+              },
+              {
+                "id": 118389,
+                "rent": 4075,
+                "area": 31,
+                "street": "konstruktörsgatan",
+                "street_number": "46",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "berga",
+                "last_accept": 45,
+                "$last_seen": "2024-04-18T10:59:24.877Z"
               },
               {
                 "id": 119172,
@@ -109044,6 +109083,19 @@
                 "$districtName": "skäggetorp",
                 "last_accept": 1,
                 "$last_seen": "2024-04-12T08:56:10.099Z"
+              },
+              {
+                "id": 123847,
+                "rent": 5564,
+                "area": 33,
+                "street": "fogdegatan",
+                "street_number": "44",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "skäggetorp",
+                "last_accept": 121,
+                "$last_seen": "2024-04-18T10:59:24.877Z"
               }
             ],
             "väpnaregatan": [
@@ -109803,6 +109855,19 @@
                 "$districtName": "gamla uppsala",
                 "last_accept": 147,
                 "$last_seen": "2024-04-15T14:51:00.068Z"
+              },
+              {
+                "id": 122559,
+                "rent": 7096,
+                "area": 27.53,
+                "street": "gamla uppsalagatan",
+                "street_number": "108",
+                "city": "uppsala",
+                "municipality": "uppsala",
+                "county": "uppsala län",
+                "$districtName": "gamla uppsala",
+                "last_accept": 150,
+                "$last_seen": "2024-04-18T10:59:24.877Z"
               }
             ]
           }
