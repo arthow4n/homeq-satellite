@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-18T11:51:41.760Z",
+  "lastUpdatedAt": "2024-04-18T13:08:56.882Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -86433,6 +86433,19 @@
                 "$districtName": "kållered",
                 "last_accept": 1158,
                 "$last_seen": "2024-04-02T13:45:51.291Z"
+              },
+              {
+                "id": 121284,
+                "rent": 7692,
+                "area": 63,
+                "street": "våmmedalsvägen",
+                "street_number": "112",
+                "city": "kållered",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "kållered",
+                "last_accept": 1174,
+                "$last_seen": "2024-04-18T11:51:41.760Z"
               }
             ],
             "streteredsvägen": [
@@ -99112,6 +99125,19 @@
                 "$districtName": "limhamn",
                 "last_accept": 6,
                 "$last_seen": "2024-03-28T07:44:28.561Z"
+              },
+              {
+                "id": 123893,
+                "rent": 12636,
+                "area": 77,
+                "street": "blåsebergavägen",
+                "street_number": "20",
+                "city": "limhamn",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "limhamn",
+                "last_accept": 16,
+                "$last_seen": "2024-04-18T11:51:41.760Z"
               }
             ],
             "grönalundsgatan": [
@@ -109262,6 +109288,19 @@
                 "$last_seen": "2024-04-08T13:49:14.680Z"
               },
               {
+                "id": 121698,
+                "rent": 6320,
+                "area": 72,
+                "street": "ekholmsvägen",
+                "street_number": "8b",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "landeryd",
+                "last_accept": 627,
+                "$last_seen": "2024-04-18T11:51:41.760Z"
+              },
+              {
                 "id": 122133,
                 "rent": 6545,
                 "area": 75,
@@ -109426,6 +109465,21 @@
                 "$districtName": "linköpings sankt lars",
                 "last_accept": 80,
                 "$last_seen": "2024-04-16T09:50:07.220Z"
+              }
+            ],
+            "hejdegatan": [
+              {
+                "id": 117106,
+                "rent": 5697,
+                "area": 27,
+                "street": "hejdegatan",
+                "street_number": "56",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "linköpings sankt lars",
+                "last_accept": 36,
+                "$last_seen": "2024-04-18T10:59:24.877Z"
               }
             ],
             "nya tanneforsvägen": [
