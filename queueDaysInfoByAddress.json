@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-18T07:51:24.719Z",
+  "lastUpdatedAt": "2024-04-18T08:56:54.211Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -57067,6 +57067,19 @@
                 "$last_seen": "2024-04-08T07:48:34.160Z"
               },
               {
+                "id": 120409,
+                "rent": 7547,
+                "area": 45,
+                "street": "smörslätten",
+                "street_number": "6",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "björkekärr",
+                "last_accept": 1785,
+                "$last_seen": "2024-04-18T07:51:24.719Z"
+              },
+              {
                 "id": 120731,
                 "rent": 5971,
                 "area": 30,
@@ -61911,6 +61924,19 @@
                 "$districtName": "högsbo",
                 "last_accept": 1911,
                 "$last_seen": "2024-04-15T08:51:29.420Z"
+              },
+              {
+                "id": 122413,
+                "rent": 12600,
+                "area": 86,
+                "street": "marklandsgatan",
+                "street_number": "33",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 1900,
+                "$last_seen": "2024-04-18T07:51:24.719Z"
               }
             ],
             "pennygången": [
@@ -77103,6 +77129,19 @@
                 "$districtName": "bäckebol",
                 "last_accept": 443,
                 "$last_seen": "2024-04-02T06:49:28.512Z"
+              },
+              {
+                "id": 121135,
+                "rent": 7125,
+                "area": 28,
+                "street": "herr arnes gata",
+                "street_number": "1",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bäckebol",
+                "last_accept": 684,
+                "$last_seen": "2024-04-18T07:51:24.719Z"
               }
             ],
             "backadalen": [
