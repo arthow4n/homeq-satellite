@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-18T05:56:13.005Z",
+  "lastUpdatedAt": "2024-04-18T06:57:49.906Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -64707,6 +64707,19 @@
                 "$districtName": "brämaregården",
                 "last_accept": 1449,
                 "$last_seen": "2024-02-27T08:38:23.289Z"
+              },
+              {
+                "id": 115829,
+                "rent": 9531,
+                "area": 54,
+                "street": "gustaf dalénsgatan",
+                "street_number": "7 b",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brämaregården",
+                "last_accept": 1660,
+                "$last_seen": "2024-04-18T05:56:13.005Z"
               }
             ],
             "långängen": [
@@ -70962,6 +70975,19 @@
                 "$districtName": "örgryte",
                 "last_accept": 1368,
                 "$last_seen": "2024-04-10T10:58:00.189Z"
+              },
+              {
+                "id": 122785,
+                "rent": 7105,
+                "area": 35,
+                "street": "smörgatan",
+                "street_number": "1",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1118,
+                "$last_seen": "2024-04-18T05:56:13.005Z"
               }
             ],
             "s:t pauligatan": [
@@ -97204,6 +97230,21 @@
                 "last_accept": 733,
                 "$last_seen": "2024-04-15T08:51:29.420Z"
               }
+            ],
+            "roslins väg": [
+              {
+                "id": 123741,
+                "rent": 9557,
+                "area": 70,
+                "street": "roslins väg",
+                "street_number": "10 b",
+                "city": "malmö",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "slottsstaden",
+                "last_accept": 1916,
+                "$last_seen": "2024-04-18T05:56:13.005Z"
+              }
             ]
           },
           "fosie": {
@@ -101245,6 +101286,21 @@
                 "last_accept": 38,
                 "$last_seen": "2024-04-12T13:07:52.207Z"
               }
+            ],
+            "rätvinkelgatan": [
+              {
+                "id": 124126,
+                "rent": 7372,
+                "area": 35,
+                "street": "rätvinkelgatan",
+                "street_number": "3",
+                "city": "lund",
+                "municipality": "lund",
+                "county": "skåne län",
+                "$districtName": "östra torn",
+                "last_accept": 17,
+                "$last_seen": "2024-04-18T05:56:13.005Z"
+              }
             ]
           },
           "lunds helgeand": {
@@ -101486,6 +101542,19 @@
                 "$last_seen": "2024-03-20T11:43:48.065Z"
               },
               {
+                "id": 120087,
+                "rent": 12761,
+                "area": 82,
+                "street": "tresädesgränden",
+                "street_number": "4a",
+                "city": "dalby",
+                "municipality": "lund",
+                "county": "skåne län",
+                "$districtName": "dalby",
+                "last_accept": 28,
+                "$last_seen": "2024-04-18T05:56:13.005Z"
+              },
+              {
                 "id": 121444,
                 "rent": 6490,
                 "area": 35,
@@ -101497,6 +101566,19 @@
                 "$districtName": "dalby",
                 "last_accept": 0,
                 "$last_seen": "2024-04-05T07:47:46.656Z"
+              },
+              {
+                "id": 123506,
+                "rent": 6490,
+                "area": 35,
+                "street": "tresädesgränden",
+                "street_number": "8b",
+                "city": "dalby",
+                "municipality": "lund",
+                "county": "skåne län",
+                "$districtName": "dalby",
+                "last_accept": 430,
+                "$last_seen": "2024-04-18T05:56:13.005Z"
               }
             ]
           }
@@ -108500,6 +108582,21 @@
                 "$districtName": "linköpings domkyrkodistrikt",
                 "last_accept": 564,
                 "$last_seen": "2024-04-12T11:50:38.593Z"
+              }
+            ],
+            "garnisonsvägen": [
+              {
+                "id": 124074,
+                "rent": 6681,
+                "area": 33,
+                "street": "garnisonsvägen",
+                "street_number": "47",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "linköpings domkyrkodistrikt",
+                "last_accept": 2,
+                "$last_seen": "2024-04-18T05:56:13.005Z"
               }
             ]
           },
