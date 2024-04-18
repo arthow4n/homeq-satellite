@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-18T09:52:09.433Z",
+  "lastUpdatedAt": "2024-04-18T10:59:24.877Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -35334,6 +35334,19 @@
                 "$last_seen": "2024-04-15T07:51:10.220Z"
               },
               {
+                "id": 120501,
+                "rent": 9182,
+                "area": 64.8,
+                "street": "sysslomansgatan",
+                "street_number": "37",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "nylöse",
+                "last_accept": 531,
+                "$last_seen": "2024-04-18T09:52:09.433Z"
+              },
+              {
                 "id": 120817,
                 "rent": 10224,
                 "area": 64,
@@ -44349,6 +44362,19 @@
                 "$districtName": "lundby",
                 "last_accept": 1374,
                 "$last_seen": "2024-03-02T16:38:29.371Z"
+              },
+              {
+                "id": 121879,
+                "rent": 11783,
+                "area": 60.2,
+                "street": "korstörnegatan",
+                "street_number": "4",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1366,
+                "$last_seen": "2024-04-18T09:52:09.433Z"
               }
             ],
             "pilegårdsgatan": [
@@ -89223,6 +89249,19 @@
                 "$last_seen": "2023-11-15T16:48:02.110Z"
               },
               {
+                "id": 104812,
+                "rent": 7005,
+                "area": 44,
+                "street": "amiralsgatan",
+                "street_number": "68",
+                "city": "malmö",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "sofielund",
+                "last_accept": 1010,
+                "$last_seen": "2024-04-18T09:52:09.433Z"
+              },
+              {
                 "id": 107111,
                 "rent": 5841,
                 "area": 44,
@@ -108079,6 +108118,19 @@
                 "$districtName": "hammarby",
                 "last_accept": 495,
                 "$last_seen": "2024-04-08T11:48:07.223Z"
+              },
+              {
+                "id": 121408,
+                "rent": 8851,
+                "area": 35,
+                "street": "dragonvägen",
+                "street_number": "17b",
+                "city": "stockholm",
+                "municipality": "upplands väsby",
+                "county": "stockholms län",
+                "$districtName": "hammarby",
+                "last_accept": 435,
+                "$last_seen": "2024-04-18T09:52:09.433Z"
               }
             ]
           }
@@ -108230,6 +108282,19 @@
               }
             ],
             "konstruktörsgatan": [
+              {
+                "id": 101560,
+                "rent": 7206,
+                "area": 58.5,
+                "street": "konstruktörsgatan",
+                "street_number": "28",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "berga",
+                "last_accept": 1,
+                "$last_seen": "2024-04-18T09:52:09.433Z"
+              },
               {
                 "id": 101566,
                 "rent": 8755,
