@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-19T13:08:22.417Z",
+  "lastUpdatedAt": "2024-04-19T13:52:48.235Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -108744,6 +108744,19 @@
                 "$districtName": "berga",
                 "last_accept": 14,
                 "$last_seen": "2024-04-02T13:03:55.185Z"
+              },
+              {
+                "id": 108233,
+                "rent": 9346,
+                "area": 54,
+                "street": "söderleden",
+                "street_number": "39e",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "berga",
+                "last_accept": 11,
+                "$last_seen": "2024-04-19T13:08:22.417Z"
               },
               {
                 "id": 114043,
