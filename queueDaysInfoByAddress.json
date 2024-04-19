@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-19T05:54:43.784Z",
+  "lastUpdatedAt": "2024-04-19T06:57:17.713Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -88927,6 +88927,25 @@
               }
             ]
           }
+        },
+        "partille": {
+          "partille": {
+            "oluff nilssonsväg": [
+              {
+                "id": 123147,
+                "rent": 4685,
+                "area": 30,
+                "street": "oluff nilssonsväg",
+                "street_number": "12",
+                "city": "partille",
+                "municipality": "partille",
+                "county": "västra götalands län",
+                "$districtName": "partille",
+                "last_accept": 992,
+                "$last_seen": "2024-04-19T05:54:43.784Z"
+              }
+            ]
+          }
         }
       },
       "härryda": {
@@ -108922,6 +108941,21 @@
                 "$districtName": "linköpings domkyrkodistrikt",
                 "last_accept": 2,
                 "$last_seen": "2024-04-18T05:56:13.005Z"
+              }
+            ],
+            "skolgatan": [
+              {
+                "id": 124169,
+                "rent": 9415,
+                "area": 63,
+                "street": "skolgatan",
+                "street_number": "28 b",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "linköpings domkyrkodistrikt",
+                "last_accept": 337,
+                "$last_seen": "2024-04-19T05:54:43.784Z"
               }
             ]
           },
