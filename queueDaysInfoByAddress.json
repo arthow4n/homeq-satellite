@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-19T13:52:48.235Z",
+  "lastUpdatedAt": "2024-04-19T14:55:14.046Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -61651,6 +61651,19 @@
                 "$last_seen": "2024-02-13T13:34:07.273Z"
               },
               {
+                "id": 118632,
+                "rent": 8980,
+                "area": 54,
+                "street": "lilla tunnlandsgatan",
+                "street_number": "5",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 1708,
+                "$last_seen": "2024-04-19T13:52:48.235Z"
+              },
+              {
                 "id": 119422,
                 "rent": 10950,
                 "area": 67,
@@ -83542,6 +83555,19 @@
                 "$districtName": "älvsborg",
                 "last_accept": 1566,
                 "$last_seen": "2024-03-11T10:39:12.960Z"
+              },
+              {
+                "id": 122726,
+                "rent": 10717,
+                "area": 89,
+                "street": "tigerstigen",
+                "street_number": "3",
+                "city": "västra frölunda ",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "älvsborg",
+                "last_accept": 1761,
+                "$last_seen": "2024-04-19T13:52:48.235Z"
               }
             ]
           }
@@ -109913,6 +109939,19 @@
                 "$districtName": "landeryd",
                 "last_accept": 6,
                 "$last_seen": "2024-03-21T08:47:32.277Z"
+              },
+              {
+                "id": 120737,
+                "rent": 15437,
+                "area": 110,
+                "street": "valthornsgatan",
+                "street_number": "9",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "landeryd",
+                "last_accept": 107,
+                "$last_seen": "2024-04-19T13:52:48.235Z"
               }
             ],
             "järdalavägen": [
@@ -110510,6 +110549,23 @@
                 "$districtName": "gamla uppsala",
                 "last_accept": 147,
                 "$last_seen": "2024-04-15T14:51:00.068Z"
+              }
+            ]
+          },
+          "gottsunda": {
+            "gottsunda allé": [
+              {
+                "id": 123197,
+                "rent": 8231,
+                "area": 41,
+                "street": "gottsunda allé",
+                "street_number": "7b",
+                "city": "uppsala",
+                "municipality": "uppsala",
+                "county": "uppsala län",
+                "$districtName": "gottsunda",
+                "last_accept": 151,
+                "$last_seen": "2024-04-19T13:52:48.235Z"
               }
             ]
           }
