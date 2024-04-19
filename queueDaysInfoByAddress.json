@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-19T11:51:01.475Z",
+  "lastUpdatedAt": "2024-04-19T13:08:22.417Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -41273,6 +41273,19 @@
                 "$districtName": "västra frölunda",
                 "last_accept": 1004,
                 "$last_seen": "2023-07-03T10:48:56.709Z"
+              },
+              {
+                "id": 122939,
+                "rent": 11485,
+                "area": 72,
+                "street": "trumgatan",
+                "street_number": "5",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "västra frölunda",
+                "last_accept": 967,
+                "$last_seen": "2024-04-19T11:51:01.475Z"
               }
             ],
             "cymbalgatan": [
@@ -45685,6 +45698,19 @@
               }
             ],
             "rosenapelgatan": [
+              {
+                "id": 122168,
+                "rent": 10358,
+                "area": 53,
+                "street": "rosenapelgatan",
+                "street_number": "32",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 968,
+                "$last_seen": "2024-04-19T10:57:12.104Z"
+              },
               {
                 "id": 122184,
                 "rent": 12997,
@@ -77007,6 +77033,19 @@
                 "$districtName": "göteborgs oscar fredrik",
                 "last_accept": 1770,
                 "$last_seen": "2024-02-26T09:35:48.839Z"
+              },
+              {
+                "id": 123915,
+                "rent": 6250,
+                "area": 35,
+                "street": "nordostpassagen",
+                "street_number": "41",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs oscar fredrik",
+                "last_accept": 1829,
+                "$last_seen": "2024-04-19T11:51:01.475Z"
               }
             ],
             "prinsgatan": [
@@ -82885,6 +82924,19 @@
                 "$districtName": "västra frölunda",
                 "last_accept": 1229,
                 "$last_seen": "2024-04-17T13:53:28.946Z"
+              },
+              {
+                "id": 122741,
+                "rent": 5396,
+                "area": 33,
+                "street": "marconigatan",
+                "street_number": "33 b",
+                "city": "västra frölunda",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "västra frölunda",
+                "last_accept": 1149,
+                "$last_seen": "2024-04-19T11:51:01.475Z"
               }
             ]
           },
@@ -96642,6 +96694,19 @@
                 "$districtName": "hyllie",
                 "last_accept": 724,
                 "$last_seen": "2024-04-08T09:50:02.979Z"
+              },
+              {
+                "id": 120511,
+                "rent": 5587,
+                "area": 35,
+                "street": "hyllie vattenparksgata",
+                "street_number": "15 m",
+                "city": "malmö",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "hyllie",
+                "last_accept": 1748,
+                "$last_seen": "2024-04-19T11:51:01.475Z"
               }
             ],
             "svansjögatan": [
@@ -103401,6 +103466,19 @@
                 "$districtName": "vantör",
                 "last_accept": 1900,
                 "$last_seen": "2024-04-09T11:48:37.259Z"
+              },
+              {
+                "id": 122175,
+                "rent": 9400,
+                "area": 69,
+                "street": "harpsundsvägen",
+                "street_number": "58",
+                "city": "bandhagen",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 2271,
+                "$last_seen": "2024-04-19T11:51:01.475Z"
               }
             ],
             "kilsmogatan": [
