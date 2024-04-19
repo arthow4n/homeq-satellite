@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-19T06:57:17.713Z",
+  "lastUpdatedAt": "2024-04-19T07:51:26.323Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -88932,6 +88932,19 @@
           "partille": {
             "oluff nilssonsväg": [
               {
+                "id": 123103,
+                "rent": 6299,
+                "area": 43,
+                "street": "oluff nilssonsväg",
+                "street_number": "12",
+                "city": "partille",
+                "municipality": "partille",
+                "county": "västra götalands län",
+                "$districtName": "partille",
+                "last_accept": 712,
+                "$last_seen": "2024-04-19T06:57:17.713Z"
+              },
+              {
                 "id": 123147,
                 "rent": 4685,
                 "area": 30,
@@ -105127,6 +105140,47 @@
                 "$districtName": "hässelby",
                 "last_accept": 130,
                 "$last_seen": "2024-03-28T09:45:38.732Z"
+              }
+            ],
+            "fyrspannsgatan": [
+              {
+                "id": 124786,
+                "rent": 8719,
+                "area": 34,
+                "street": "fyrspannsgatan",
+                "street_number": "158",
+                "city": "hässelby",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "hässelby",
+                "last_accept": 350,
+                "$last_seen": "2024-04-19T06:57:17.713Z"
+              },
+              {
+                "id": 124793,
+                "rent": 8719,
+                "area": 34,
+                "street": "fyrspannsgatan",
+                "street_number": "158",
+                "city": "hässelby",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "hässelby",
+                "last_accept": 637,
+                "$last_seen": "2024-04-19T06:57:17.713Z"
+              },
+              {
+                "id": 124797,
+                "rent": 6480,
+                "area": 21,
+                "street": "fyrspannsgatan",
+                "street_number": "158",
+                "city": "hässelby",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "hässelby",
+                "last_accept": 1,
+                "$last_seen": "2024-04-19T06:57:17.713Z"
               }
             ]
           }
