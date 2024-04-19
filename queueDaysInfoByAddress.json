@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-19T09:52:23.416Z",
+  "lastUpdatedAt": "2024-04-19T10:57:12.104Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -55726,6 +55726,19 @@
                 "$districtName": "göteborgs vasa",
                 "last_accept": 1787,
                 "$last_seen": "2023-12-05T11:36:37.870Z"
+              },
+              {
+                "id": 123818,
+                "rent": 8333,
+                "area": 44,
+                "street": "föreningsgatan",
+                "street_number": "33",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs vasa",
+                "last_accept": 1820,
+                "$last_seen": "2024-04-19T09:52:23.416Z"
               }
             ],
             "teatergatan": [
@@ -63267,6 +63280,19 @@
                 "$last_seen": "2024-03-27T10:48:46.373Z"
               },
               {
+                "id": 122641,
+                "rent": 11295,
+                "area": 83,
+                "street": "pennygången",
+                "street_number": "66",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 1683,
+                "$last_seen": "2024-04-19T09:52:23.416Z"
+              },
+              {
                 "id": 122646,
                 "rent": 8839,
                 "area": 62,
@@ -67623,6 +67649,19 @@
                 "$districtName": "örgryte",
                 "last_accept": 1900,
                 "$last_seen": "2024-03-25T14:47:17.250Z"
+              },
+              {
+                "id": 123566,
+                "rent": 8461,
+                "area": 50,
+                "street": "prästgårdsängen",
+                "street_number": "16",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1915,
+                "$last_seen": "2024-04-19T09:52:23.416Z"
               }
             ],
             "mejerigatan": [
@@ -72519,6 +72558,19 @@
                 "$last_seen": "2024-03-18T14:47:15.426Z"
               },
               {
+                "id": 121645,
+                "rent": 8864,
+                "area": 54,
+                "street": "st pauligatan",
+                "street_number": "11",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1891,
+                "$last_seen": "2024-04-19T09:52:23.416Z"
+              },
+              {
                 "id": 122799,
                 "rent": 10302,
                 "area": 61,
@@ -72934,6 +72986,19 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1868,
                 "$last_seen": "2024-02-19T10:38:25.608Z"
+              },
+              {
+                "id": 121644,
+                "rent": 8231,
+                "area": 59,
+                "street": "sankt pauligatan",
+                "street_number": "9",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1756,
+                "$last_seen": "2024-04-19T09:52:23.416Z"
               }
             ],
             "platågatan": [
@@ -87214,6 +87279,19 @@
                 "$districtName": "fässberg",
                 "last_accept": 1818,
                 "$last_seen": "2024-04-10T10:58:00.189Z"
+              },
+              {
+                "id": 122753,
+                "rent": 7815,
+                "area": 50,
+                "street": "luktärtsgatan",
+                "street_number": "6c",
+                "city": "mölndal",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 1181,
+                "$last_seen": "2024-04-19T09:52:23.416Z"
               }
             ],
             "toltorpsgatan": [
@@ -99328,6 +99406,19 @@
                 "$last_seen": "2024-03-28T07:44:28.561Z"
               },
               {
+                "id": 122047,
+                "rent": 12102,
+                "area": 69,
+                "street": "blåsebergavägen",
+                "street_number": "8",
+                "city": "limhamn",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "limhamn",
+                "last_accept": 38,
+                "$last_seen": "2024-04-19T09:52:23.416Z"
+              },
+              {
                 "id": 123893,
                 "rent": 12636,
                 "area": 77,
@@ -110055,6 +110146,21 @@
                 "last_accept": 43,
                 "$last_seen": "2024-04-18T06:57:49.906Z"
               }
+            ],
+            "lindesbergsgatan": [
+              {
+                "id": 122831,
+                "rent": 5972,
+                "area": 39,
+                "street": "lindesbergsgatan",
+                "street_number": "1 d",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "linköpings sankt lars",
+                "last_accept": 347,
+                "$last_seen": "2024-04-19T09:52:23.416Z"
+              }
             ]
           },
           "rystad": {
@@ -110120,19 +110226,6 @@
         "uppsala": {
           "uppsala helga trefaldighet": {
             "honungsgatan": [
-              {
-                "id": 117443,
-                "rent": 11451,
-                "area": 55.3,
-                "street": "honungsgatan",
-                "street_number": "36",
-                "city": "uppsala",
-                "municipality": "uppsala",
-                "county": "uppsala län",
-                "$districtName": "uppsala helga trefaldighet",
-                "last_accept": 338,
-                "$last_seen": "2024-04-12T05:57:19.858Z"
-              },
               {
                 "id": 117444,
                 "rent": 7690,
@@ -110261,19 +110354,6 @@
                 "$districtName": "gamla uppsala",
                 "last_accept": 147,
                 "$last_seen": "2024-04-15T14:51:00.068Z"
-              },
-              {
-                "id": 122559,
-                "rent": 7096,
-                "area": 27.53,
-                "street": "gamla uppsalagatan",
-                "street_number": "108",
-                "city": "uppsala",
-                "municipality": "uppsala",
-                "county": "uppsala län",
-                "$districtName": "gamla uppsala",
-                "last_accept": 150,
-                "$last_seen": "2024-04-18T10:59:24.877Z"
               }
             ]
           }
