@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-19T08:55:47.092Z",
+  "lastUpdatedAt": "2024-04-19T09:52:23.416Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -55285,6 +55285,19 @@
                 "$districtName": "göteborgs vasa",
                 "last_accept": 1744,
                 "$last_seen": "2024-01-12T08:41:16.555Z"
+              },
+              {
+                "id": 116375,
+                "rent": 21539,
+                "area": 181,
+                "street": "götabergsgatan",
+                "street_number": "32",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs vasa",
+                "last_accept": 1886,
+                "$last_seen": "2024-04-19T08:55:47.092Z"
               }
             ],
             "arkivgatan": [
@@ -57156,6 +57169,19 @@
                 "$districtName": "björkekärr",
                 "last_accept": 1198,
                 "$last_seen": "2024-04-11T06:57:00.557Z"
+              },
+              {
+                "id": 122675,
+                "rent": 5566,
+                "area": 22,
+                "street": "smörslätten",
+                "street_number": "6",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "björkekärr",
+                "last_accept": 250,
+                "$last_seen": "2024-04-19T08:55:47.092Z"
               }
             ],
             "stabbegatan": [
@@ -73499,6 +73525,19 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1912,
                 "$last_seen": "2024-04-04T09:47:40.725Z"
+              },
+              {
+                "id": 122819,
+                "rent": 7950,
+                "area": 66,
+                "street": "kobbarnas väg",
+                "street_number": "12",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1928,
+                "$last_seen": "2024-04-19T08:55:47.092Z"
               }
             ],
             "liedstrandsgatan": [
@@ -99783,6 +99822,21 @@
                 "$districtName": "limhamn",
                 "last_accept": 713,
                 "$last_seen": "2024-04-16T14:54:20.732Z"
+              }
+            ],
+            "portvaktsgatan": [
+              {
+                "id": 123878,
+                "rent": 13298,
+                "area": 75,
+                "street": "portvaktsgatan",
+                "street_number": "4",
+                "city": "limhamn",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "limhamn",
+                "last_accept": 38,
+                "$last_seen": "2024-04-19T08:55:47.092Z"
               }
             ]
           }
