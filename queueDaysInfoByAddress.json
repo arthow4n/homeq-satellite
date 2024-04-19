@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-19T07:51:26.323Z",
+  "lastUpdatedAt": "2024-04-19T08:55:47.092Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -50898,6 +50898,19 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1294,
                 "$last_seen": "2024-04-04T07:47:18.232Z"
+              },
+              {
+                "id": 122874,
+                "rent": 10799,
+                "area": 58,
+                "street": "ebbe lieberathsgatan",
+                "street_number": "22 e",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1493,
+                "$last_seen": "2024-04-19T07:51:26.323Z"
               }
             ],
             "sylvestergatan": [
@@ -61166,6 +61179,19 @@
                 "$last_seen": "2024-04-09T07:48:52.863Z"
               },
               {
+                "id": 118817,
+                "rent": 10631,
+                "area": 59,
+                "street": "nymilsgatan",
+                "street_number": "35",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 1340,
+                "$last_seen": "2024-04-19T07:51:26.323Z"
+              },
+              {
                 "id": 121739,
                 "rent": 12636,
                 "area": 73,
@@ -69899,6 +69925,19 @@
                 "$districtName": "örgryte",
                 "last_accept": 1841,
                 "$last_seen": "2024-04-09T10:57:10.872Z"
+              },
+              {
+                "id": 121608,
+                "rent": 12332,
+                "area": 69,
+                "street": "skummjölksgatan",
+                "street_number": "14",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1829,
+                "$last_seen": "2024-04-19T07:51:26.323Z"
               }
             ],
             "tändsticksgatan": [
@@ -80887,6 +80926,19 @@
                 "$districtName": "tynnered",
                 "last_accept": 1829,
                 "$last_seen": "2024-04-15T13:50:03.689Z"
+              },
+              {
+                "id": 123490,
+                "rent": 11718,
+                "area": 108,
+                "street": "smyckegatan",
+                "street_number": "53",
+                "city": "västra frölunda",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tynnered",
+                "last_accept": 1840,
+                "$last_seen": "2024-04-19T07:51:26.323Z"
               }
             ],
             "björkhöjdsgatan": [
@@ -92413,6 +92465,19 @@
                 "$districtName": "limhamn",
                 "last_accept": 168,
                 "$last_seen": "2024-02-12T11:34:09.947Z"
+              },
+              {
+                "id": 121321,
+                "rent": 11528,
+                "area": 62,
+                "street": "strandgatan",
+                "street_number": "1",
+                "city": "malmö",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "limhamn",
+                "last_accept": 3,
+                "$last_seen": "2024-04-19T07:51:26.323Z"
               }
             ]
           },
@@ -102717,6 +102782,19 @@
                 "$districtName": "vantör",
                 "last_accept": 1834,
                 "$last_seen": "2023-11-29T14:39:01.951Z"
+              },
+              {
+                "id": 122696,
+                "rent": 10678,
+                "area": 79,
+                "street": "bäverbäcksgränd",
+                "street_number": "11",
+                "city": "bandhagen",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 1835,
+                "$last_seen": "2024-04-19T07:51:26.323Z"
               }
             ],
             "åmmebergsgatan": [
@@ -109236,6 +109314,19 @@
                 "$last_seen": "2024-04-11T13:08:39.944Z"
               },
               {
+                "id": 122861,
+                "rent": 6635,
+                "area": 75,
+                "street": "stiglötsgatan",
+                "street_number": "65",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "skäggetorp",
+                "last_accept": 52,
+                "$last_seen": "2024-04-19T07:51:26.323Z"
+              },
+              {
                 "id": 123520,
                 "rent": 4680,
                 "area": 45,
@@ -109370,6 +109461,19 @@
                 "$districtName": "skäggetorp",
                 "last_accept": 3,
                 "$last_seen": "2024-04-18T13:52:35.942Z"
+              },
+              {
+                "id": 122668,
+                "rent": 5185,
+                "area": 58,
+                "street": "sörgårdsgatan",
+                "street_number": "45",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "skäggetorp",
+                "last_accept": 2,
+                "$last_seen": "2024-04-19T07:51:26.323Z"
               }
             ],
             "skäggetorp centrum": [
@@ -110060,6 +110164,19 @@
                 "$districtName": "vaksala",
                 "last_accept": 25,
                 "$last_seen": "2024-03-28T10:49:40.279Z"
+              },
+              {
+                "id": 123272,
+                "rent": 6295,
+                "area": 36,
+                "street": "stålgatan",
+                "street_number": "59",
+                "city": "uppsala",
+                "municipality": "uppsala",
+                "county": "uppsala län",
+                "$districtName": "vaksala",
+                "last_accept": 79,
+                "$last_seen": "2024-04-19T07:51:26.323Z"
               }
             ]
           },
