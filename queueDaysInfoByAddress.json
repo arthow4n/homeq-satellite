@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-19T10:57:12.104Z",
+  "lastUpdatedAt": "2024-04-19T11:51:01.475Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -55179,6 +55179,32 @@
                 "$districtName": "göteborgs vasa",
                 "last_accept": 1911,
                 "$last_seen": "2024-04-03T13:49:45.467Z"
+              },
+              {
+                "id": 123897,
+                "rent": 7777,
+                "area": 37,
+                "street": "karl gustavsgatan",
+                "street_number": "53",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs vasa",
+                "last_accept": 1624,
+                "$last_seen": "2024-04-19T10:57:12.104Z"
+              },
+              {
+                "id": 123901,
+                "rent": 7575,
+                "area": 38,
+                "street": "karl gustavsgatan",
+                "street_number": "61",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs vasa",
+                "last_accept": 1638,
+                "$last_seen": "2024-04-19T10:57:12.104Z"
               }
             ],
             "götabergsgatan": [
@@ -71543,6 +71569,19 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1490,
                 "$last_seen": "2024-02-12T13:33:59.471Z"
+              },
+              {
+                "id": 123734,
+                "rent": 6396,
+                "area": 53,
+                "street": "övre olskroksgatan",
+                "street_number": "22 b",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1975,
+                "$last_seen": "2024-04-19T10:57:12.104Z"
               }
             ],
             "vävstolsgatan": [
@@ -94518,6 +94557,19 @@
                 "$districtName": "malmö sankt pauli",
                 "last_accept": 1570,
                 "$last_seen": "2023-04-26T11:42:00.456Z"
+              },
+              {
+                "id": 118197,
+                "rent": 9377,
+                "area": 80,
+                "street": "kommendörsgatan",
+                "street_number": "7 a",
+                "city": "malmö",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "malmö sankt pauli",
+                "last_accept": 1541,
+                "$last_seen": "2024-04-19T10:57:12.104Z"
               }
             ],
             "ö.förstadsgatan": [
@@ -109910,6 +109962,19 @@
                 "$districtName": "linköpings sankt lars",
                 "last_accept": 36,
                 "$last_seen": "2024-04-18T10:59:24.877Z"
+              },
+              {
+                "id": 117111,
+                "rent": 7031,
+                "area": 52,
+                "street": "hejdegatan",
+                "street_number": "56",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "linköpings sankt lars",
+                "last_accept": 64,
+                "$last_seen": "2024-04-19T09:52:23.416Z"
               }
             ],
             "nya tanneforsvägen": [
