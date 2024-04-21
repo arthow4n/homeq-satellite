@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-21T15:50:50.476Z",
+  "lastUpdatedAt": "2024-04-21T16:57:19.713Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -105536,19 +105536,6 @@
             ],
             "fyrspannsgatan": [
               {
-                "id": 124786,
-                "rent": 8719,
-                "area": 34,
-                "street": "fyrspannsgatan",
-                "street_number": "158",
-                "city": "hässelby",
-                "municipality": "stockholm",
-                "county": "stockholms län",
-                "$districtName": "hässelby",
-                "last_accept": 350,
-                "$last_seen": "2024-04-19T06:57:17.713Z"
-              },
-              {
                 "id": 124793,
                 "rent": 8719,
                 "area": 34,
@@ -105562,6 +105549,19 @@
                 "$last_seen": "2024-04-19T06:57:17.713Z"
               },
               {
+                "id": 125029,
+                "rent": 7069,
+                "area": 26,
+                "street": "fyrspannsgatan",
+                "street_number": "158",
+                "city": "hässelby",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "hässelby",
+                "last_accept": 161,
+                "$last_seen": "2024-04-21T15:50:50.476Z"
+              },
+              {
                 "id": 125030,
                 "rent": 6362,
                 "area": 20,
@@ -105573,6 +105573,19 @@
                 "$districtName": "hässelby",
                 "last_accept": 128,
                 "$last_seen": "2024-04-20T11:50:54.936Z"
+              },
+              {
+                "id": 125215,
+                "rent": 7069,
+                "area": 26,
+                "street": "fyrspannsgatan",
+                "street_number": "158",
+                "city": "hässelby",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "hässelby",
+                "last_accept": 129,
+                "$last_seen": "2024-04-21T15:50:50.476Z"
               }
             ]
           }
