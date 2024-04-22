@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-22T06:57:21.330Z",
+  "lastUpdatedAt": "2024-04-22T07:51:08.588Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -43834,6 +43834,19 @@
                 "$districtName": "lundby",
                 "last_accept": 1583,
                 "$last_seen": "2024-03-11T10:39:12.960Z"
+              },
+              {
+                "id": 123228,
+                "rent": 7246,
+                "area": 51,
+                "street": "slättadammsgatan",
+                "street_number": "1d",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1654,
+                "$last_seen": "2024-04-22T06:57:21.330Z"
               }
             ],
             "södra vårvindsgatan": [
@@ -44321,6 +44334,19 @@
                 "$districtName": "lundby",
                 "last_accept": 1684,
                 "$last_seen": "2024-04-10T06:55:36.172Z"
+              },
+              {
+                "id": 123172,
+                "rent": 7416,
+                "area": 54,
+                "street": "hällskriftsgatan",
+                "street_number": "9",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1502,
+                "$last_seen": "2024-04-22T06:57:21.330Z"
               }
             ],
             "korstörnegatan": [
@@ -79302,6 +79328,19 @@
                 "$last_seen": "2024-04-09T11:48:37.259Z"
               },
               {
+                "id": 120659,
+                "rent": 12048,
+                "area": 68,
+                "street": "sisjöbäckens väg",
+                "street_number": "4",
+                "city": "askim",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 1154,
+                "$last_seen": "2024-04-22T06:57:21.330Z"
+              },
+              {
                 "id": 122264,
                 "rent": 8262,
                 "area": 34,
@@ -95208,6 +95247,19 @@
                 "$districtName": "malmö sankt pauli",
                 "last_accept": 0,
                 "$last_seen": "2023-11-15T16:48:02.110Z"
+              },
+              {
+                "id": 118835,
+                "rent": 12800,
+                "area": 78,
+                "street": "lugna gatan",
+                "street_number": "38",
+                "city": "malmö",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "malmö sankt pauli",
+                "last_accept": 3,
+                "$last_seen": "2024-04-22T06:57:21.330Z"
               }
             ],
             "ehrensvärdsgatan": [
@@ -110252,6 +110304,19 @@
                 "$last_seen": "2024-04-15T13:04:56.119Z"
               },
               {
+                "id": 121732,
+                "rent": 4939,
+                "area": 40,
+                "street": "nya tanneforsvägen",
+                "street_number": "40 a",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "linköpings sankt lars",
+                "last_accept": 627,
+                "$last_seen": "2024-04-22T06:57:21.330Z"
+              },
+              {
                 "id": 121734,
                 "rent": 5087,
                 "area": 40,
@@ -110278,6 +110343,19 @@
                 "$districtName": "linköpings sankt lars",
                 "last_accept": 261,
                 "$last_seen": "2024-03-25T09:44:38.954Z"
+              },
+              {
+                "id": 121737,
+                "rent": 11234,
+                "area": 75,
+                "street": "gamla tanneforsvägen",
+                "street_number": "90",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "linköpings sankt lars",
+                "last_accept": 3,
+                "$last_seen": "2024-04-22T06:57:21.330Z"
               }
             ],
             "linnégatan": [
