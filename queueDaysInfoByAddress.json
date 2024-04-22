@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-22T07:51:08.588Z",
+  "lastUpdatedAt": "2024-04-22T08:57:31.628Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -57262,6 +57262,19 @@
                 "$last_seen": "2024-04-11T06:57:00.557Z"
               },
               {
+                "id": 122382,
+                "rent": 5650,
+                "area": 22,
+                "street": "smörslätten",
+                "street_number": "6",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "björkekärr",
+                "last_accept": 655,
+                "$last_seen": "2024-04-22T07:51:08.588Z"
+              },
+              {
                 "id": 122675,
                 "rent": 5566,
                 "area": 22,
@@ -84191,6 +84204,21 @@
                 "last_accept": 1829,
                 "$last_seen": "2024-01-11T12:56:02.683Z"
               }
+            ],
+            "kustgatan": [
+              {
+                "id": 122757,
+                "rent": 7940,
+                "area": 56,
+                "street": "kustgatan",
+                "street_number": "12",
+                "city": "göteborg ",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs karl johan",
+                "last_accept": 1931,
+                "$last_seen": "2024-04-22T07:51:08.588Z"
+              }
             ]
           },
           "johanneberg": {
@@ -92574,6 +92602,19 @@
                 "$districtName": "limhamn",
                 "last_accept": 17,
                 "$last_seen": "2024-03-15T07:44:47.087Z"
+              },
+              {
+                "id": 121755,
+                "rent": 12226,
+                "area": 69.9,
+                "street": "nätsnäcksgränd",
+                "street_number": "4",
+                "city": "malmö",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "limhamn",
+                "last_accept": 157,
+                "$last_seen": "2024-04-22T07:51:08.588Z"
               }
             ],
             "dammsnäcksgränd": [
@@ -93790,6 +93831,19 @@
                 "$districtName": "kirseberg",
                 "last_accept": 720,
                 "$last_seen": "2024-04-16T06:55:39.231Z"
+              },
+              {
+                "id": 123703,
+                "rent": 6101,
+                "area": 36,
+                "street": "högamöllegatan",
+                "street_number": "8b",
+                "city": "malmö",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "kirseberg",
+                "last_accept": 315,
+                "$last_seen": "2024-04-22T07:51:08.588Z"
               }
             ],
             "floragatan": [
@@ -96339,6 +96393,19 @@
                 "$districtName": "hyllie",
                 "last_accept": 686,
                 "$last_seen": "2024-03-07T09:33:49.443Z"
+              },
+              {
+                "id": 120449,
+                "rent": 10276,
+                "area": 55,
+                "street": "bures gata",
+                "street_number": "1 a",
+                "city": "malmö",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "hyllie",
+                "last_accept": 342,
+                "$last_seen": "2024-04-22T07:51:08.588Z"
               }
             ],
             "sagas gränd": [
@@ -105491,6 +105558,19 @@
                 "$districtName": "hässelby",
                 "last_accept": 1781,
                 "$last_seen": "2024-02-07T06:36:54.418Z"
+              },
+              {
+                "id": 124911,
+                "rent": 8175,
+                "area": 60,
+                "street": "enspännargatan",
+                "street_number": "14",
+                "city": "hässelby",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "hässelby",
+                "last_accept": 1441,
+                "$last_seen": "2024-04-22T07:51:08.588Z"
               }
             ],
             "lindblomsgränd": [
