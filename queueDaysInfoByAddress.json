@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-22T05:55:02.056Z",
+  "lastUpdatedAt": "2024-04-22T06:57:21.330Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -91622,6 +91622,19 @@
                 "$districtName": "möllevången",
                 "last_accept": 1162,
                 "$last_seen": "2024-01-11T07:36:59.122Z"
+              },
+              {
+                "id": 122687,
+                "rent": 6532,
+                "area": 50,
+                "street": "sigtunagatan",
+                "street_number": "6",
+                "city": "malmö",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "möllevången",
+                "last_accept": 1565,
+                "$last_seen": "2024-04-22T05:55:02.056Z"
               }
             ],
             "södra förstadsgatan": [
