@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-22T10:57:59.339Z",
+  "lastUpdatedAt": "2024-04-22T11:50:54.594Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -81229,6 +81229,19 @@
                 "$last_seen": "2024-04-11T08:59:15.216Z"
               },
               {
+                "id": 122834,
+                "rent": 12055,
+                "area": 106,
+                "street": "smyckegatan",
+                "street_number": "89",
+                "city": "västra frölunda",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tynnered",
+                "last_accept": 1770,
+                "$last_seen": "2024-04-22T10:57:59.339Z"
+              },
+              {
                 "id": 122920,
                 "rent": 11006,
                 "area": 94,
@@ -87937,6 +87950,19 @@
                 "$districtName": "fässberg",
                 "last_accept": 1594,
                 "$last_seen": "2023-12-18T08:40:26.332Z"
+              },
+              {
+                "id": 123189,
+                "rent": 7450,
+                "area": 54,
+                "street": "örngatan",
+                "street_number": "1d",
+                "city": "mölndal",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 1752,
+                "$last_seen": "2024-04-22T10:57:59.339Z"
               }
             ],
             "fredåsgatan": [
@@ -105774,19 +105800,6 @@
                 "$last_seen": "2024-04-21T15:50:50.476Z"
               },
               {
-                "id": 125030,
-                "rent": 6362,
-                "area": 20,
-                "street": "fyrspannsgatan",
-                "street_number": "158",
-                "city": "hässelby",
-                "municipality": "stockholm",
-                "county": "stockholms län",
-                "$districtName": "hässelby",
-                "last_accept": 128,
-                "$last_seen": "2024-04-20T11:50:54.936Z"
-              },
-              {
                 "id": 125213,
                 "rent": 7069,
                 "area": 26,
@@ -109451,6 +109464,19 @@
                 "$districtName": "linköpings domkyrkodistrikt",
                 "last_accept": 5,
                 "$last_seen": "2024-03-21T13:46:39.111Z"
+              },
+              {
+                "id": 118565,
+                "rent": 8521,
+                "area": 49.1,
+                "street": "bataljonsgatan",
+                "street_number": "8",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "linköpings domkyrkodistrikt",
+                "last_accept": 6,
+                "$last_seen": "2024-04-22T10:57:59.339Z"
               }
             ],
             "kunskapslänken": [
@@ -109664,6 +109690,19 @@
                 "$districtName": "linköpings domkyrkodistrikt",
                 "last_accept": 2,
                 "$last_seen": "2024-04-18T05:56:13.005Z"
+              },
+              {
+                "id": 124078,
+                "rent": 7832,
+                "area": 37,
+                "street": "garnisonsvägen",
+                "street_number": "47",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "linköpings domkyrkodistrikt",
+                "last_accept": 82,
+                "$last_seen": "2024-04-22T10:57:59.339Z"
               }
             ],
             "skolgatan": [
@@ -109905,6 +109944,19 @@
                 "$last_seen": "2024-04-11T13:08:39.944Z"
               },
               {
+                "id": 122649,
+                "rent": 7362,
+                "area": 82,
+                "street": "stiglötsgatan",
+                "street_number": "84",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "skäggetorp",
+                "last_accept": 3,
+                "$last_seen": "2024-04-22T10:57:59.339Z"
+              },
+              {
                 "id": 122861,
                 "rent": 6635,
                 "area": 75,
@@ -109987,6 +110039,19 @@
                 "$last_seen": "2024-04-02T13:45:51.291Z"
               },
               {
+                "id": 120370,
+                "rent": 5424,
+                "area": 33,
+                "street": "väpnaregatan",
+                "street_number": "10",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "skäggetorp",
+                "last_accept": 48,
+                "$last_seen": "2024-04-22T10:57:59.339Z"
+              },
+              {
                 "id": 121310,
                 "rent": 7960,
                 "area": 60,
@@ -110065,6 +110130,19 @@
                 "$districtName": "skäggetorp",
                 "last_accept": 2,
                 "$last_seen": "2024-04-19T07:51:26.323Z"
+              },
+              {
+                "id": 124610,
+                "rent": 7451,
+                "area": 68,
+                "street": "sörgårdsgatan",
+                "street_number": "5",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "skäggetorp",
+                "last_accept": 1116,
+                "$last_seen": "2024-04-22T10:57:59.339Z"
               }
             ],
             "skäggetorp centrum": [
