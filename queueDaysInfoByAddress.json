@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-22T08:57:31.628Z",
+  "lastUpdatedAt": "2024-04-22T09:52:05.205Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -34037,6 +34037,19 @@
                 "$last_seen": "2024-04-08T13:05:42.078Z"
               },
               {
+                "id": 122237,
+                "rent": 10909,
+                "area": 83,
+                "street": "långströmsgatan",
+                "street_number": "24c",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "biskopsgården",
+                "last_accept": 1233,
+                "$last_seen": "2024-04-22T08:57:31.628Z"
+              },
+              {
                 "id": 122331,
                 "rent": 10892,
                 "area": 83,
@@ -35935,6 +35948,19 @@
                 "$districtName": "nylöse",
                 "last_accept": 1498,
                 "$last_seen": "2024-03-18T09:44:10.856Z"
+              },
+              {
+                "id": 122678,
+                "rent": 10271,
+                "area": 76,
+                "street": "björnekärrsgatan",
+                "street_number": "5e",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "nylöse",
+                "last_accept": 1668,
+                "$last_seen": "2024-04-22T08:57:31.628Z"
               }
             ],
             "hornsgatan": [
@@ -41541,6 +41567,19 @@
                 "$districtName": "västra frölunda",
                 "last_accept": 1825,
                 "$last_seen": "2024-04-08T08:53:00.097Z"
+              },
+              {
+                "id": 121958,
+                "rent": 10597,
+                "area": 65,
+                "street": "transistorgatan",
+                "street_number": "45",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "västra frölunda",
+                "last_accept": 1777,
+                "$last_seen": "2024-04-22T08:57:31.628Z"
               }
             ],
             "altplatsen": [
@@ -42912,19 +42951,6 @@
                 "$districtName": "lundby",
                 "last_accept": 1328,
                 "$last_seen": "2024-04-15T10:51:41.639Z"
-              },
-              {
-                "id": 123513,
-                "rent": 6595,
-                "area": 62,
-                "street": "fyrklöversgatan",
-                "street_number": "40",
-                "city": "göteborg",
-                "municipality": "göteborg",
-                "county": "västra götalands län",
-                "$districtName": "lundby",
-                "last_accept": 1544,
-                "$last_seen": "2024-04-18T08:56:54.211Z"
               }
             ],
             "ö keillersgatan": [
@@ -43739,6 +43765,19 @@
                 "$districtName": "lundby",
                 "last_accept": 1846,
                 "$last_seen": "2024-04-15T13:50:03.689Z"
+              },
+              {
+                "id": 123526,
+                "rent": 11293,
+                "area": 78,
+                "street": "södra säterigatan",
+                "street_number": "1",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1740,
+                "$last_seen": "2024-04-22T08:57:31.628Z"
               }
             ],
             "tillburygatan": [
@@ -50950,6 +50989,19 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1294,
                 "$last_seen": "2024-04-04T07:47:18.232Z"
+              },
+              {
+                "id": 121945,
+                "rent": 7045,
+                "area": 30,
+                "street": "ebbe lieberathsgatan",
+                "street_number": "22 a",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1442,
+                "$last_seen": "2024-04-22T08:57:31.628Z"
               },
               {
                 "id": 122874,
@@ -105558,19 +105610,6 @@
                 "$districtName": "hässelby",
                 "last_accept": 1781,
                 "$last_seen": "2024-02-07T06:36:54.418Z"
-              },
-              {
-                "id": 124911,
-                "rent": 8175,
-                "area": 60,
-                "street": "enspännargatan",
-                "street_number": "14",
-                "city": "hässelby",
-                "municipality": "stockholm",
-                "county": "stockholms län",
-                "$districtName": "hässelby",
-                "last_accept": 1441,
-                "$last_seen": "2024-04-22T07:51:08.588Z"
               }
             ],
             "lindblomsgränd": [
@@ -105681,6 +105720,19 @@
             ],
             "fyrspannsgatan": [
               {
+                "id": 124786,
+                "rent": 8719,
+                "area": 34,
+                "street": "fyrspannsgatan",
+                "street_number": "158",
+                "city": "hässelby",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "hässelby",
+                "last_accept": 521,
+                "$last_seen": "2024-04-22T08:57:31.628Z"
+              },
+              {
                 "id": 124793,
                 "rent": 8719,
                 "area": 34,
@@ -105720,6 +105772,32 @@
                 "$last_seen": "2024-04-20T11:50:54.936Z"
               },
               {
+                "id": 125213,
+                "rent": 7069,
+                "area": 26,
+                "street": "fyrspannsgatan",
+                "street_number": "158",
+                "city": "hässelby",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "hässelby",
+                "last_accept": 90,
+                "$last_seen": "2024-04-22T08:57:31.628Z"
+              },
+              {
+                "id": 125214,
+                "rent": 6480,
+                "area": 21,
+                "street": "fyrspannsgatan",
+                "street_number": "158",
+                "city": "hässelby",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "hässelby",
+                "last_accept": 28,
+                "$last_seen": "2024-04-22T08:57:31.628Z"
+              },
+              {
                 "id": 125215,
                 "rent": 7069,
                 "area": 26,
@@ -105731,6 +105809,19 @@
                 "$districtName": "hässelby",
                 "last_accept": 129,
                 "$last_seen": "2024-04-21T15:50:50.476Z"
+              },
+              {
+                "id": 125216,
+                "rent": 6362,
+                "area": 20,
+                "street": "fyrspannsgatan",
+                "street_number": "158",
+                "city": "hässelby",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "hässelby",
+                "last_accept": 57,
+                "$last_seen": "2024-04-22T08:57:31.628Z"
               }
             ]
           }
