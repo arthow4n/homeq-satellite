@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-22T13:53:03.454Z",
+  "lastUpdatedAt": "2024-04-22T14:54:49.794Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -55313,6 +55313,19 @@
                 "$last_seen": "2024-04-03T13:49:45.467Z"
               },
               {
+                "id": 123894,
+                "rent": 15059,
+                "area": 96,
+                "street": "karl gustavsgatan",
+                "street_number": "67",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs vasa",
+                "last_accept": 1931,
+                "$last_seen": "2024-04-22T13:53:03.454Z"
+              },
+              {
                 "id": 123897,
                 "rent": 7777,
                 "area": 37,
@@ -69492,6 +69505,19 @@
                 "$districtName": "örgryte",
                 "last_accept": 1549,
                 "$last_seen": "2024-04-09T05:51:08.349Z"
+              },
+              {
+                "id": 123904,
+                "rent": 10293,
+                "area": 54,
+                "street": "filmjölksgatan",
+                "street_number": "3",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1441,
+                "$last_seen": "2024-04-22T13:53:03.454Z"
               }
             ],
             "filmjölsgatan": [
@@ -110193,6 +110219,19 @@
                 "$districtName": "skäggetorp",
                 "last_accept": 615,
                 "$last_seen": "2024-04-16T09:50:07.220Z"
+              },
+              {
+                "id": 121422,
+                "rent": 8813,
+                "area": 83,
+                "street": "väpnaregatan",
+                "street_number": "15",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "skäggetorp",
+                "last_accept": 10,
+                "$last_seen": "2024-04-22T13:53:03.454Z"
               },
               {
                 "id": 122343,
