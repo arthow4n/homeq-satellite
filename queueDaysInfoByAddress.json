@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-22T14:54:49.794Z",
+  "lastUpdatedAt": "2024-04-22T15:52:01.347Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -94015,19 +94015,6 @@
                 "$districtName": "kirseberg",
                 "last_accept": 720,
                 "$last_seen": "2024-04-16T06:55:39.231Z"
-              },
-              {
-                "id": 123703,
-                "rent": 6101,
-                "area": 36,
-                "street": "högamöllegatan",
-                "street_number": "8b",
-                "city": "malmö",
-                "municipality": "malmö",
-                "county": "skåne län",
-                "$districtName": "kirseberg",
-                "last_accept": 315,
-                "$last_seen": "2024-04-22T07:51:08.588Z"
               }
             ],
             "floragatan": [
@@ -102345,6 +102332,19 @@
                 "$districtName": "lunds helgeand",
                 "last_accept": 620,
                 "$last_seen": "2024-04-03T15:46:50.985Z"
+              },
+              {
+                "id": 123006,
+                "rent": 6923,
+                "area": 40,
+                "street": "nordanväg",
+                "street_number": "3a",
+                "city": "lund",
+                "municipality": "lund",
+                "county": "skåne län",
+                "$districtName": "lunds helgeand",
+                "last_accept": 283,
+                "$last_seen": "2024-04-22T14:54:49.794Z"
               }
             ],
             "kastanjegatan": [
