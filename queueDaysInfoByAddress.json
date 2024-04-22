@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-22T09:52:05.205Z",
+  "lastUpdatedAt": "2024-04-22T10:57:59.339Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -34743,6 +34743,21 @@
                 "$districtName": "biskopsgården",
                 "last_accept": 799,
                 "$last_seen": "2024-01-19T11:35:34.768Z"
+              }
+            ],
+            "köldgatan": [
+              {
+                "id": 123762,
+                "rent": 8149,
+                "area": 63,
+                "street": "köldgatan",
+                "street_number": "9",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "biskopsgården",
+                "last_accept": 1426,
+                "$last_seen": "2024-04-22T09:52:05.205Z"
               }
             ]
           },
