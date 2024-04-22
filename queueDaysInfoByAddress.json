@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-22T15:52:01.347Z",
+  "lastUpdatedAt": "2024-04-22T16:57:45.621Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -102345,6 +102345,19 @@
                 "$districtName": "lunds helgeand",
                 "last_accept": 283,
                 "$last_seen": "2024-04-22T14:54:49.794Z"
+              },
+              {
+                "id": 123011,
+                "rent": 7207,
+                "area": 40,
+                "street": "nordanväg",
+                "street_number": "3a",
+                "city": "lund",
+                "municipality": "lund",
+                "county": "skåne län",
+                "$districtName": "lunds helgeand",
+                "last_accept": 21,
+                "$last_seen": "2024-04-22T15:52:01.347Z"
               }
             ],
             "kastanjegatan": [
