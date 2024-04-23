@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-23T06:58:45.250Z",
+  "lastUpdatedAt": "2024-04-23T08:55:36.087Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -34061,6 +34061,19 @@
                 "$districtName": "biskopsgården",
                 "last_accept": 1020,
                 "$last_seen": "2024-04-15T10:51:41.639Z"
+              },
+              {
+                "id": 123232,
+                "rent": 10909,
+                "area": 83,
+                "street": "långströmsgatan",
+                "street_number": "34c",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "biskopsgården",
+                "last_accept": 1215,
+                "$last_seen": "2024-04-23T06:58:45.250Z"
               }
             ],
             "temperaturgatan": [
@@ -42966,6 +42979,19 @@
                 "$districtName": "lundby",
                 "last_accept": 1328,
                 "$last_seen": "2024-04-15T10:51:41.639Z"
+              },
+              {
+                "id": 123513,
+                "rent": 6595,
+                "area": 62,
+                "street": "fyrklöversgatan",
+                "street_number": "40",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1543,
+                "$last_seen": "2024-04-23T06:58:45.250Z"
               }
             ],
             "ö keillersgatan": [
@@ -43674,6 +43700,19 @@
                 "$districtName": "lundby",
                 "last_accept": 1603,
                 "$last_seen": "2024-03-18T08:48:39.238Z"
+              },
+              {
+                "id": 123833,
+                "rent": 11583,
+                "area": 102,
+                "street": "arvid lindmansgatan",
+                "street_number": "7 c",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1931,
+                "$last_seen": "2024-04-23T06:58:45.250Z"
               }
             ],
             "södra säterigatan": [
@@ -64077,6 +64116,19 @@
                 "$districtName": "högsbo",
                 "last_accept": 405,
                 "$last_seen": "2024-02-12T11:34:09.947Z"
+              },
+              {
+                "id": 122755,
+                "rent": 13676,
+                "area": 73,
+                "street": "sjupundsgatan",
+                "street_number": "21",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 903,
+                "$last_seen": "2024-04-23T06:58:45.250Z"
               }
             ],
             "synhållsgatan": [
@@ -84301,6 +84353,19 @@
                 "$districtName": "kortedala",
                 "last_accept": 713,
                 "$last_seen": "2024-04-16T11:49:29.584Z"
+              },
+              {
+                "id": 122411,
+                "rent": 11375,
+                "area": 82.5,
+                "street": "januarigatan",
+                "street_number": "14",
+                "city": "göteborg ",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "kortedala",
+                "last_accept": 145,
+                "$last_seen": "2024-04-23T06:58:45.250Z"
               }
             ]
           },
@@ -88956,6 +89021,21 @@
                 "$districtName": "fässberg",
                 "last_accept": 1643,
                 "$last_seen": "2024-03-14T12:50:35.945Z"
+              }
+            ],
+            "vetenskapens gränd": [
+              {
+                "id": 124190,
+                "rent": 9358,
+                "area": 41,
+                "street": "vetenskapens gränd",
+                "street_number": "12",
+                "city": "mölndal",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 807,
+                "$last_seen": "2024-04-23T06:58:45.250Z"
               }
             ]
           }
@@ -109285,6 +109365,19 @@
                 "$last_seen": "2024-04-12T07:53:58.625Z"
               },
               {
+                "id": 114180,
+                "rent": 6714,
+                "area": 34.8,
+                "street": "söderleden",
+                "street_number": "39a",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "berga",
+                "last_accept": 4,
+                "$last_seen": "2024-04-23T06:58:45.250Z"
+              },
+              {
                 "id": 114195,
                 "rent": 9346,
                 "area": 54,
@@ -109335,6 +109428,19 @@
                 "$districtName": "berga",
                 "last_accept": 28,
                 "$last_seen": "2024-04-10T07:49:56.502Z"
+              },
+              {
+                "id": 121915,
+                "rent": 6714,
+                "area": 34.8,
+                "street": "söderleden",
+                "street_number": "39d",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "berga",
+                "last_accept": 211,
+                "$last_seen": "2024-04-23T06:58:45.250Z"
               }
             ],
             "konstruktörsgatan": [
@@ -109605,6 +109711,19 @@
                 "$districtName": "johannelund",
                 "last_accept": 0,
                 "$last_seen": "2024-03-28T13:01:23.596Z"
+              },
+              {
+                "id": 124916,
+                "rent": 3575,
+                "area": 19.2,
+                "street": "skogsgatan",
+                "street_number": "87",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "johannelund",
+                "last_accept": 18,
+                "$last_seen": "2024-04-23T06:58:45.250Z"
               }
             ]
           },
@@ -109635,6 +109754,19 @@
                 "$districtName": "linköpings domkyrkodistrikt",
                 "last_accept": 8,
                 "$last_seen": "2024-04-03T08:50:31.854Z"
+              },
+              {
+                "id": 115737,
+                "rent": 8772,
+                "area": 50.7,
+                "street": "bataljonsgatan",
+                "street_number": "10",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "linköpings domkyrkodistrikt",
+                "last_accept": 0,
+                "$last_seen": "2024-04-23T06:58:45.250Z"
               },
               {
                 "id": 117151,
@@ -109741,6 +109873,19 @@
                 "$districtName": "linköpings domkyrkodistrikt",
                 "last_accept": 6,
                 "$last_seen": "2024-03-20T07:43:37.732Z"
+              },
+              {
+                "id": 122790,
+                "rent": 11122,
+                "area": 54,
+                "street": "kunskapslänken",
+                "street_number": "44",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "linköpings domkyrkodistrikt",
+                "last_accept": 11,
+                "$last_seen": "2024-04-23T05:53:29.985Z"
               }
             ],
             "honnörsgatan": [
@@ -109769,6 +109914,19 @@
                 "$districtName": "linköpings domkyrkodistrikt",
                 "last_accept": 23,
                 "$last_seen": "2024-04-08T13:05:42.078Z"
+              },
+              {
+                "id": 121109,
+                "rent": 8817,
+                "area": 50.7,
+                "street": "honnörsgatan",
+                "street_number": "3",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "linköpings domkyrkodistrikt",
+                "last_accept": 21,
+                "$last_seen": "2024-04-23T06:58:45.250Z"
               }
             ],
             "klostergatan": [
