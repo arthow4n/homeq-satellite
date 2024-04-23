@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-23T09:50:15.705Z",
+  "lastUpdatedAt": "2024-04-23T10:54:51.354Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -34782,6 +34782,19 @@
                 "$districtName": "biskopsgården",
                 "last_accept": 799,
                 "$last_seen": "2024-01-19T11:35:34.768Z"
+              },
+              {
+                "id": 120490,
+                "rent": 10149,
+                "area": 76,
+                "street": "lågtrycksgatan",
+                "street_number": "6",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "biskopsgården",
+                "last_accept": 264,
+                "$last_seen": "2024-04-23T09:50:15.705Z"
               }
             ],
             "värmegatan": [
@@ -37157,6 +37170,19 @@
                 "$districtName": "masthugget",
                 "last_accept": 1920,
                 "$last_seen": "2024-04-11T13:08:39.944Z"
+              },
+              {
+                "id": 123049,
+                "rent": 9807,
+                "area": 66,
+                "street": "dahlströmsgatan",
+                "street_number": "40",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "masthugget",
+                "last_accept": 1981,
+                "$last_seen": "2024-04-23T09:50:15.705Z"
               }
             ],
             "kolumbusgatan": [
@@ -83739,6 +83765,19 @@
                 "$districtName": "älvsborg",
                 "last_accept": 1563,
                 "$last_seen": "2024-04-09T11:48:37.259Z"
+              },
+              {
+                "id": 122404,
+                "rent": 9105,
+                "area": 57,
+                "street": "stengetsgatan",
+                "street_number": "24",
+                "city": "västra frölunda ",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "älvsborg",
+                "last_accept": 1315,
+                "$last_seen": "2024-04-23T09:50:15.705Z"
               }
             ],
             "tigerstigen": [
@@ -92289,6 +92328,36 @@
                 "last_accept": 1403,
                 "$last_seen": "2024-03-12T12:49:46.732Z"
               }
+            ],
+            "bangatan": [
+              {
+                "id": 122752,
+                "rent": 8976,
+                "area": 78,
+                "street": "bangatan",
+                "street_number": "18",
+                "city": "malmö",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "möllevången",
+                "last_accept": 912,
+                "$last_seen": "2024-04-23T09:50:15.705Z"
+              }
+            ],
+            "simrishamnsgatan": [
+              {
+                "id": 124662,
+                "rent": 6320,
+                "area": 36,
+                "street": "simrishamnsgatan",
+                "street_number": "22 c",
+                "city": "malmö",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "möllevången",
+                "last_accept": 1195,
+                "$last_seen": "2024-04-23T09:50:15.705Z"
+              }
             ]
           },
           "limhamn": {
@@ -96553,6 +96622,19 @@
                 "$districtName": "hyllie",
                 "last_accept": 325,
                 "$last_seen": "2024-04-15T05:52:27.783Z"
+              },
+              {
+                "id": 122206,
+                "rent": 9783,
+                "area": 50,
+                "street": "allétorget",
+                "street_number": "1",
+                "city": "malmö",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "hyllie",
+                "last_accept": 295,
+                "$last_seen": "2024-04-23T09:50:15.705Z"
               }
             ],
             "bures gata": [
@@ -102512,6 +102594,21 @@
                 "$districtName": "östra torn",
                 "last_accept": 38,
                 "$last_seen": "2024-04-12T13:07:52.207Z"
+              }
+            ],
+            "brunnshögsgatan": [
+              {
+                "id": 122050,
+                "rent": 6674,
+                "area": 40.2,
+                "street": "brunnshögsgatan",
+                "street_number": "20c",
+                "city": "lund",
+                "municipality": "lund",
+                "county": "skåne län",
+                "$districtName": "östra torn",
+                "last_accept": 1131,
+                "$last_seen": "2024-04-23T09:50:15.705Z"
               }
             ],
             "rätvinkelgatan": [
@@ -109694,19 +109791,6 @@
                 "$districtName": "berga",
                 "last_accept": 1,
                 "$last_seen": "2024-04-08T13:49:14.680Z"
-              },
-              {
-                "id": 118389,
-                "rent": 4075,
-                "area": 31,
-                "street": "konstruktörsgatan",
-                "street_number": "46",
-                "city": "linköping",
-                "municipality": "linköping",
-                "county": "östergötlands län",
-                "$districtName": "berga",
-                "last_accept": 45,
-                "$last_seen": "2024-04-18T10:59:24.877Z"
               },
               {
                 "id": 119172,
