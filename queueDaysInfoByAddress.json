@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-23T08:55:36.087Z",
+  "lastUpdatedAt": "2024-04-23T09:50:15.705Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -32173,6 +32173,19 @@
                 "$districtName": "annedal",
                 "last_accept": 1924,
                 "$last_seen": "2024-04-15T14:51:00.068Z"
+              },
+              {
+                "id": 123296,
+                "rent": 8715,
+                "area": 62,
+                "street": "carl grimbergsgatan",
+                "street_number": "25",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "annedal",
+                "last_accept": 1931,
+                "$last_seen": "2024-04-23T08:55:36.087Z"
               }
             ],
             "risåsgatan": [
@@ -34063,6 +34076,19 @@
                 "$last_seen": "2024-04-15T10:51:41.639Z"
               },
               {
+                "id": 123211,
+                "rent": 6525,
+                "area": 41,
+                "street": "långströmsgatan",
+                "street_number": "8a",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "biskopsgården",
+                "last_accept": 942,
+                "$last_seen": "2024-04-23T08:55:36.087Z"
+              },
+              {
                 "id": 123232,
                 "rent": 10909,
                 "area": 83,
@@ -34756,6 +34782,21 @@
                 "$districtName": "biskopsgården",
                 "last_accept": 799,
                 "$last_seen": "2024-01-19T11:35:34.768Z"
+              }
+            ],
+            "värmegatan": [
+              {
+                "id": 123473,
+                "rent": 7994,
+                "area": 63.5,
+                "street": "värmegatan",
+                "street_number": "13",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "biskopsgården",
+                "last_accept": 1305,
+                "$last_seen": "2024-04-23T08:55:36.087Z"
               }
             ],
             "köldgatan": [
@@ -49066,6 +49107,19 @@
                 "$districtName": "kortedala",
                 "last_accept": 1389,
                 "$last_seen": "2024-03-15T07:44:47.087Z"
+              },
+              {
+                "id": 121296,
+                "rent": 5486,
+                "area": 51.5,
+                "street": "aprilgatan",
+                "street_number": "70",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "kortedala",
+                "last_accept": 1415,
+                "$last_seen": "2024-04-23T08:55:36.087Z"
               }
             ],
             "februarigatan": [
@@ -57431,6 +57485,19 @@
                 "$districtName": "björkekärr",
                 "last_accept": 250,
                 "$last_seen": "2024-04-19T08:55:47.092Z"
+              },
+              {
+                "id": 123465,
+                "rent": 4312,
+                "area": 22,
+                "street": "smörslätten",
+                "street_number": "6",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "björkekärr",
+                "last_accept": 0,
+                "$last_seen": "2024-04-11T08:59:15.216Z"
               }
             ],
             "stabbegatan": [
@@ -58030,6 +58097,19 @@
                 "$districtName": "askim",
                 "last_accept": 439,
                 "$last_seen": "2024-04-15T11:50:03.773Z"
+              },
+              {
+                "id": 122246,
+                "rent": 16054,
+                "area": 89,
+                "street": "kobbeslätten",
+                "street_number": "8",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 446,
+                "$last_seen": "2024-04-23T08:55:36.087Z"
               }
             ],
             "pilegården": [
@@ -59176,6 +59256,19 @@
                 "$districtName": "askim",
                 "last_accept": 1091,
                 "$last_seen": "2024-04-17T07:50:49.476Z"
+              },
+              {
+                "id": 123098,
+                "rent": 12480,
+                "area": 108,
+                "street": "pilegården",
+                "street_number": "6a",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 1889,
+                "$last_seen": "2024-04-23T08:55:36.087Z"
               }
             ],
             "sisjövägen": [
@@ -63527,6 +63620,19 @@
                 "$districtName": "högsbo",
                 "last_accept": 1325,
                 "$last_seen": "2024-03-27T10:48:46.373Z"
+              },
+              {
+                "id": 122022,
+                "rent": 7200,
+                "area": 49,
+                "street": "pennygången",
+                "street_number": "78",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 974,
+                "$last_seen": "2024-04-23T08:55:36.087Z"
               },
               {
                 "id": 122641,
@@ -87141,6 +87247,19 @@
                 "$districtName": "kållered",
                 "last_accept": 782,
                 "$last_seen": "2024-01-25T10:42:05.064Z"
+              },
+              {
+                "id": 123214,
+                "rent": 9750,
+                "area": 55,
+                "street": "streteredsvägen",
+                "street_number": "16a",
+                "city": "kållered",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "kållered",
+                "last_accept": 546,
+                "$last_seen": "2024-04-23T08:55:36.087Z"
               }
             ],
             "hagabäcksleden": [
@@ -107429,6 +107548,21 @@
                 "$districtName": "bromma",
                 "last_accept": 1738,
                 "$last_seen": "2023-11-28T09:36:04.921Z"
+              }
+            ],
+            "grundtvigsgatan": [
+              {
+                "id": 124218,
+                "rent": 7174,
+                "area": 53,
+                "street": "grundtvigsgatan",
+                "street_number": "53",
+                "city": "stockholm ",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "bromma",
+                "last_accept": 1951,
+                "$last_seen": "2024-04-23T08:55:36.087Z"
               }
             ]
           }
