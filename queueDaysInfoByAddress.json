@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-23T10:54:51.354Z",
+  "lastUpdatedAt": "2024-04-23T11:49:44.687Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -97399,6 +97399,19 @@
                 "$districtName": "hyllie",
                 "last_accept": 296,
                 "$last_seen": "2024-01-12T10:42:10.615Z"
+              },
+              {
+                "id": 122603,
+                "rent": 7574,
+                "area": 38.5,
+                "street": "dagvattengatan",
+                "street_number": "18",
+                "city": "malmö",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "hyllie",
+                "last_accept": 550,
+                "$last_seen": "2024-04-23T10:54:51.354Z"
               }
             ]
           },
@@ -102755,6 +102768,21 @@
                 "$last_seen": "2024-03-26T13:00:59.362Z"
               }
             ],
+            "lilla södergatan": [
+              {
+                "id": 121150,
+                "rent": 9706,
+                "area": 72,
+                "street": "lilla södergatan",
+                "street_number": "2",
+                "city": "lund",
+                "municipality": "lund",
+                "county": "skåne län",
+                "$districtName": "lunds domkyrkodistrikt",
+                "last_accept": 1002,
+                "$last_seen": "2024-04-23T10:54:51.354Z"
+              }
+            ],
             "stora fiskaregatan": [
               {
                 "id": 121153,
@@ -106144,6 +106172,19 @@
                 "$districtName": "hässelby",
                 "last_accept": 1781,
                 "$last_seen": "2024-02-07T06:36:54.418Z"
+              },
+              {
+                "id": 124911,
+                "rent": 8175,
+                "area": 60,
+                "street": "enspännargatan",
+                "street_number": "14",
+                "city": "hässelby",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "hässelby",
+                "last_accept": 1481,
+                "$last_seen": "2024-04-23T10:54:51.354Z"
               }
             ],
             "lindblomsgränd": [
@@ -110132,19 +110173,6 @@
                 "$districtName": "linköpings domkyrkodistrikt",
                 "last_accept": 23,
                 "$last_seen": "2024-04-08T13:05:42.078Z"
-              },
-              {
-                "id": 121109,
-                "rent": 8817,
-                "area": 50.7,
-                "street": "honnörsgatan",
-                "street_number": "3",
-                "city": "linköping",
-                "municipality": "linköping",
-                "county": "östergötlands län",
-                "$districtName": "linköpings domkyrkodistrikt",
-                "last_accept": 21,
-                "$last_seen": "2024-04-23T06:58:45.250Z"
               }
             ],
             "klostergatan": [
