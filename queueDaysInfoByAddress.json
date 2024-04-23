@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-23T11:49:44.687Z",
+  "lastUpdatedAt": "2024-04-23T13:09:10.718Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -40329,6 +40329,19 @@
                 "$districtName": "göteborgs domkyrkodistrikt",
                 "last_accept": 1877,
                 "$last_seen": "2024-02-28T09:35:23.236Z"
+              },
+              {
+                "id": 123190,
+                "rent": 6746,
+                "area": 35,
+                "street": "folkungagatan",
+                "street_number": "12",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs domkyrkodistrikt",
+                "last_accept": 1862,
+                "$last_seen": "2024-04-23T11:49:44.687Z"
               }
             ],
             "odinsgatan": [
@@ -40684,6 +40697,19 @@
                 "$districtName": "göteborgs domkyrkodistrikt",
                 "last_accept": 1723,
                 "$last_seen": "2023-12-22T10:38:23.329Z"
+              },
+              {
+                "id": 123274,
+                "rent": 13180,
+                "area": 86,
+                "street": "stampgatan",
+                "street_number": "46",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs domkyrkodistrikt",
+                "last_accept": 1924,
+                "$last_seen": "2024-04-23T11:49:44.687Z"
               }
             ],
             "kungsportsavenyn": [
@@ -43767,6 +43793,19 @@
                 "$districtName": "lundby",
                 "last_accept": 1603,
                 "$last_seen": "2024-03-18T08:48:39.238Z"
+              },
+              {
+                "id": 122749,
+                "rent": 5742,
+                "area": 35,
+                "street": "arvid lindmansgatan",
+                "street_number": "4b",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1397,
+                "$last_seen": "2024-04-23T11:49:44.687Z"
               },
               {
                 "id": 123833,
@@ -49146,6 +49185,19 @@
                 "$districtName": "kortedala",
                 "last_accept": 1415,
                 "$last_seen": "2024-04-23T08:55:36.087Z"
+              },
+              {
+                "id": 122751,
+                "rent": 5512,
+                "area": 54,
+                "street": "aprilgatan",
+                "street_number": "76",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "kortedala",
+                "last_accept": 1387,
+                "$last_seen": "2024-04-23T11:49:44.687Z"
               }
             ],
             "februarigatan": [
@@ -109970,6 +110022,19 @@
                 "$districtName": "johannelund",
                 "last_accept": 0,
                 "$last_seen": "2024-03-28T13:01:23.596Z"
+              },
+              {
+                "id": 124402,
+                "rent": 8679,
+                "area": 60.3,
+                "street": "skogsgatan",
+                "street_number": "89",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "johannelund",
+                "last_accept": 0,
+                "$last_seen": "2024-04-23T11:49:44.687Z"
               },
               {
                 "id": 124916,
