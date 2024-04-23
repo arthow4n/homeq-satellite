@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-23T05:53:29.985Z",
+  "lastUpdatedAt": "2024-04-23T06:58:45.250Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -93714,6 +93714,19 @@
                 "$districtName": "kirseberg",
                 "last_accept": 8,
                 "$last_seen": "2024-04-05T05:50:37.779Z"
+              },
+              {
+                "id": 121617,
+                "rent": 9241,
+                "area": 70,
+                "street": "lundavägen",
+                "street_number": "55 a",
+                "city": "malmö",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "kirseberg",
+                "last_accept": 126,
+                "$last_seen": "2024-04-23T05:53:29.985Z"
               }
             ],
             "högamöllegatan": [
@@ -96659,6 +96672,19 @@
                 "$last_seen": "2023-11-07T11:40:07.267Z"
               },
               {
+                "id": 121662,
+                "rent": 11196,
+                "area": 64.1,
+                "street": "sagas gränd",
+                "street_number": "14",
+                "city": "malmö",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "hyllie",
+                "last_accept": 355,
+                "$last_seen": "2024-04-23T05:53:29.985Z"
+              },
+              {
                 "id": 123176,
                 "rent": 8627,
                 "area": 41,
@@ -98162,6 +98188,19 @@
                 "$districtName": "slottsstaden",
                 "last_accept": 733,
                 "$last_seen": "2024-04-15T08:51:29.420Z"
+              },
+              {
+                "id": 124330,
+                "rent": 5476,
+                "area": 26,
+                "street": "västra ryttmästaregatan",
+                "street_number": "21",
+                "city": "malmö",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "slottsstaden",
+                "last_accept": 293,
+                "$last_seen": "2024-04-23T05:53:29.985Z"
               }
             ],
             "roslins väg": [
@@ -98177,6 +98216,21 @@
                 "$districtName": "slottsstaden",
                 "last_accept": 1916,
                 "$last_seen": "2024-04-18T05:56:13.005Z"
+              }
+            ],
+            "beritta gurrisgatan": [
+              {
+                "id": 124312,
+                "rent": 16707,
+                "area": 122,
+                "street": "beritta gurrisgatan",
+                "street_number": "25",
+                "city": "malmö",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "slottsstaden",
+                "last_accept": 231,
+                "$last_seen": "2024-04-23T05:53:29.985Z"
               }
             ]
           },
