@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-23T18:54:52.298Z",
+  "lastUpdatedAt": "2024-04-23T19:50:42.177Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -106403,6 +106403,19 @@
                 "$last_seen": "2024-04-19T06:57:17.713Z"
               },
               {
+                "id": 124797,
+                "rent": 6480,
+                "area": 21,
+                "street": "fyrspannsgatan",
+                "street_number": "158",
+                "city": "hässelby",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "hässelby",
+                "last_accept": 131,
+                "$last_seen": "2024-04-23T18:54:52.298Z"
+              },
+              {
                 "id": 125029,
                 "rent": 7069,
                 "area": 26,
@@ -106414,6 +106427,19 @@
                 "$districtName": "hässelby",
                 "last_accept": 161,
                 "$last_seen": "2024-04-21T15:50:50.476Z"
+              },
+              {
+                "id": 125030,
+                "rent": 6362,
+                "area": 20,
+                "street": "fyrspannsgatan",
+                "street_number": "158",
+                "city": "hässelby",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "hässelby",
+                "last_accept": 1,
+                "$last_seen": "2024-04-23T18:54:52.298Z"
               },
               {
                 "id": 125213,
@@ -106466,6 +106492,19 @@
                 "$districtName": "hässelby",
                 "last_accept": 57,
                 "$last_seen": "2024-04-22T08:57:31.628Z"
+              },
+              {
+                "id": 125361,
+                "rent": 7069,
+                "area": 26,
+                "street": "fyrspannsgatan",
+                "street_number": "158",
+                "city": "hässelby",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "hässelby",
+                "last_accept": 100,
+                "$last_seen": "2024-04-23T18:54:52.298Z"
               }
             ]
           }
