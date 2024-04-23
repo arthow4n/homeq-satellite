@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-23T13:51:38.650Z",
+  "lastUpdatedAt": "2024-04-23T14:53:45.518Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -98728,6 +98728,23 @@
                 "$districtName": "fosie",
                 "last_accept": 82,
                 "$last_seen": "2024-04-15T08:51:29.420Z"
+              }
+            ]
+          },
+          "eriksfält": {
+            "fosievägen": [
+              {
+                "id": 124189,
+                "rent": 8783,
+                "area": 53,
+                "street": "fosievägen",
+                "street_number": "27 c",
+                "city": "malmö",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "eriksfält",
+                "last_accept": 15,
+                "$last_seen": "2024-04-23T13:51:38.650Z"
               }
             ]
           }
