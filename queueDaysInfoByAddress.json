@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-23T13:09:10.718Z",
+  "lastUpdatedAt": "2024-04-23T13:51:38.650Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -83830,6 +83830,19 @@
                 "$districtName": "älvsborg",
                 "last_accept": 1315,
                 "$last_seen": "2024-04-23T09:50:15.705Z"
+              },
+              {
+                "id": 123229,
+                "rent": 9300,
+                "area": 57,
+                "street": "stengetsgatan",
+                "street_number": "4",
+                "city": "västra frölunda ",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "älvsborg",
+                "last_accept": 1114,
+                "$last_seen": "2024-04-23T13:09:10.718Z"
               }
             ],
             "tigerstigen": [
