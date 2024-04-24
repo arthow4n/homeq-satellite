@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-24T07:00:49.613Z",
+  "lastUpdatedAt": "2024-04-24T07:51:56.194Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -87297,6 +87297,19 @@
                 "$districtName": "kållered",
                 "last_accept": 1174,
                 "$last_seen": "2024-04-18T11:51:41.760Z"
+              },
+              {
+                "id": 123202,
+                "rent": 8019,
+                "area": 76,
+                "street": "våmmedalsvägen",
+                "street_number": "154",
+                "city": "kållered",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "kållered",
+                "last_accept": 1438,
+                "$last_seen": "2024-04-24T07:00:49.613Z"
               }
             ],
             "streteredsvägen": [
@@ -106455,32 +106468,6 @@
                 "$last_seen": "2024-04-21T15:50:50.476Z"
               },
               {
-                "id": 125030,
-                "rent": 6362,
-                "area": 20,
-                "street": "fyrspannsgatan",
-                "street_number": "158",
-                "city": "hässelby",
-                "municipality": "stockholm",
-                "county": "stockholms län",
-                "$districtName": "hässelby",
-                "last_accept": 1,
-                "$last_seen": "2024-04-23T18:54:52.298Z"
-              },
-              {
-                "id": 125213,
-                "rent": 7069,
-                "area": 26,
-                "street": "fyrspannsgatan",
-                "street_number": "158",
-                "city": "hässelby",
-                "municipality": "stockholm",
-                "county": "stockholms län",
-                "$districtName": "hässelby",
-                "last_accept": 90,
-                "$last_seen": "2024-04-22T08:57:31.628Z"
-              },
-              {
                 "id": 125214,
                 "rent": 6480,
                 "area": 21,
@@ -108754,6 +108741,19 @@
                 "$districtName": "kista",
                 "last_accept": 378,
                 "$last_seen": "2024-04-17T16:01:21.448Z"
+              },
+              {
+                "id": 116912,
+                "rent": 8247,
+                "area": 30,
+                "street": "almbygatan",
+                "street_number": "14",
+                "city": "spånga",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "kista",
+                "last_accept": 1116,
+                "$last_seen": "2024-04-24T07:00:49.613Z"
               },
               {
                 "id": 116913,
