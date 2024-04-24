@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-24T05:54:37.962Z",
+  "lastUpdatedAt": "2024-04-24T07:00:49.613Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -44191,6 +44191,19 @@
                 "$districtName": "lundby",
                 "last_accept": 829,
                 "$last_seen": "2024-03-31T20:45:25.043Z"
+              },
+              {
+                "id": 121767,
+                "rent": 7695,
+                "area": 41.9,
+                "street": "södra vårvindsgatan",
+                "street_number": "3b",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1184,
+                "$last_seen": "2024-04-24T05:54:37.962Z"
               }
             ],
             "trollhasselgatan": [
@@ -48806,6 +48819,19 @@
                 "$districtName": "kortedala",
                 "last_accept": 1707,
                 "$last_seen": "2024-03-19T09:43:41.495Z"
+              },
+              {
+                "id": 121426,
+                "rent": 9277,
+                "area": 69,
+                "street": "nymånegatan",
+                "street_number": "47",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "kortedala",
+                "last_accept": 1644,
+                "$last_seen": "2024-04-24T05:54:37.962Z"
               },
               {
                 "id": 121467,
@@ -56027,6 +56053,19 @@
                 "$districtName": "göteborgs vasa",
                 "last_accept": 1926,
                 "$last_seen": "2024-04-17T13:53:28.946Z"
+              },
+              {
+                "id": 122759,
+                "rent": 12624,
+                "area": 80,
+                "street": "mölndalsvägen",
+                "street_number": "1",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs vasa",
+                "last_accept": 1930,
+                "$last_seen": "2024-04-24T05:54:37.962Z"
               }
             ],
             "föreningsgatan": [
@@ -98702,19 +98741,6 @@
                 "$districtName": "fosie",
                 "last_accept": 364,
                 "$last_seen": "2023-08-31T08:44:53.868Z"
-              },
-              {
-                "id": 122323,
-                "rent": 6433,
-                "area": 39,
-                "street": "koralgatan",
-                "street_number": "52",
-                "city": "malmö",
-                "municipality": "malmö",
-                "county": "skåne län",
-                "$districtName": "fosie",
-                "last_accept": 82,
-                "$last_seen": "2024-04-15T08:51:29.420Z"
               }
             ]
           },
@@ -110729,6 +110755,19 @@
                 "$districtName": "skäggetorp",
                 "last_accept": 19,
                 "$last_seen": "2024-04-18T06:57:49.906Z"
+              },
+              {
+                "id": 123849,
+                "rent": 9829,
+                "area": 91,
+                "street": "stiglötsgatan",
+                "street_number": "82",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "skäggetorp",
+                "last_accept": 9,
+                "$last_seen": "2024-04-24T05:54:37.962Z"
               }
             ],
             "fogdegatan": [
