@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-24T07:51:56.194Z",
+  "lastUpdatedAt": "2024-04-24T08:57:14.162Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -72818,6 +72818,19 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1929,
                 "$last_seen": "2024-04-22T11:50:54.594Z"
+              },
+              {
+                "id": 121953,
+                "rent": 13090,
+                "area": 95,
+                "street": "mäster johansgatan",
+                "street_number": "15",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1933,
+                "$last_seen": "2024-04-24T07:51:56.194Z"
               }
             ],
             "st pauligatan": [
@@ -109968,6 +109981,19 @@
                 "$last_seen": "2024-04-08T13:49:14.680Z"
               },
               {
+                "id": 118389,
+                "rent": 4075,
+                "area": 31,
+                "street": "konstruktörsgatan",
+                "street_number": "46",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "berga",
+                "last_accept": 61,
+                "$last_seen": "2024-04-24T07:51:56.194Z"
+              },
+              {
                 "id": 119172,
                 "rent": 9049,
                 "area": 59.2,
@@ -110320,6 +110346,19 @@
                 "$districtName": "linköpings domkyrkodistrikt",
                 "last_accept": 23,
                 "$last_seen": "2024-04-08T13:05:42.078Z"
+              },
+              {
+                "id": 121921,
+                "rent": 6542,
+                "area": 34.4,
+                "street": "honnörsgatan",
+                "street_number": "3",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "linköpings domkyrkodistrikt",
+                "last_accept": 74,
+                "$last_seen": "2024-04-24T07:51:56.194Z"
               }
             ],
             "klostergatan": [
@@ -111053,6 +111092,19 @@
                 "$districtName": "landeryd",
                 "last_accept": 627,
                 "$last_seen": "2024-04-18T11:51:41.760Z"
+              },
+              {
+                "id": 121922,
+                "rent": 6545,
+                "area": 75,
+                "street": "ekholmsvägen",
+                "street_number": "20a",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "landeryd",
+                "last_accept": 598,
+                "$last_seen": "2024-04-24T07:51:56.194Z"
               },
               {
                 "id": 122133,
