@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-24T14:58:16.690Z",
+  "lastUpdatedAt": "2024-04-24T15:55:12.859Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -111589,6 +111589,19 @@
                 "$districtName": "linköpings sankt lars",
                 "last_accept": 64,
                 "$last_seen": "2024-04-19T09:52:23.416Z"
+              },
+              {
+                "id": 124434,
+                "rent": 6997,
+                "area": 69,
+                "street": "hejdegatan",
+                "street_number": "54",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "linköpings sankt lars",
+                "last_accept": 49,
+                "$last_seen": "2024-04-24T14:58:16.690Z"
               }
             ],
             "nya tanneforsvägen": [
@@ -111865,6 +111878,21 @@
                 "$districtName": "linköpings sankt lars",
                 "last_accept": 347,
                 "$last_seen": "2024-04-19T09:52:23.416Z"
+              }
+            ],
+            "mörnersgatan": [
+              {
+                "id": 124365,
+                "rent": 4998,
+                "area": 28,
+                "street": "mörnersgatan",
+                "street_number": "8",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "linköpings sankt lars",
+                "last_accept": 19,
+                "$last_seen": "2024-04-24T14:58:16.690Z"
               }
             ]
           },
