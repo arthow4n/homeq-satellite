@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-24T11:51:22.973Z",
+  "lastUpdatedAt": "2024-04-24T13:16:20.012Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -45804,6 +45804,19 @@
                 "$districtName": "lundby",
                 "last_accept": 1305,
                 "$last_seen": "2023-11-27T14:39:26.391Z"
+              },
+              {
+                "id": 121246,
+                "rent": 6433,
+                "area": 50,
+                "street": "finlandsgatan",
+                "street_number": "4 d",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1748,
+                "$last_seen": "2024-04-24T11:51:22.973Z"
               }
             ],
             "arvid lindemansgatan": [
@@ -106920,6 +106933,19 @@
                 "$districtName": "hägersten",
                 "last_accept": 1905,
                 "$last_seen": "2024-04-18T10:59:24.877Z"
+              },
+              {
+                "id": 121969,
+                "rent": 16786,
+                "area": 75,
+                "street": "zachrisbergsgatan",
+                "street_number": "1",
+                "city": "stockholm",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "hägersten",
+                "last_accept": 2048,
+                "$last_seen": "2024-04-24T11:51:22.973Z"
               }
             ],
             "matrosbacken": [
@@ -110669,6 +110695,19 @@
                 "$last_seen": "2024-04-08T09:50:02.979Z"
               },
               {
+                "id": 107608,
+                "rent": 9348,
+                "area": 62,
+                "street": "mantalsgatan",
+                "street_number": "14",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "slaka",
+                "last_accept": 38,
+                "$last_seen": "2024-04-24T11:51:22.973Z"
+              },
+              {
                 "id": 112745,
                 "rent": 9408,
                 "area": 62,
@@ -110680,6 +110719,19 @@
                 "$districtName": "slaka",
                 "last_accept": 144,
                 "$last_seen": "2024-04-18T13:08:56.882Z"
+              },
+              {
+                "id": 114595,
+                "rent": 12136,
+                "area": 90,
+                "street": "mantalsgatan",
+                "street_number": "12",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "slaka",
+                "last_accept": 58,
+                "$last_seen": "2024-04-24T11:51:22.973Z"
               }
             ],
             "ada arwedssons gata": [
@@ -110954,6 +111006,19 @@
                 "$districtName": "skäggetorp",
                 "last_accept": 1,
                 "$last_seen": "2024-04-12T08:56:10.099Z"
+              },
+              {
+                "id": 122673,
+                "rent": 5525,
+                "area": 33,
+                "street": "fogdegatan",
+                "street_number": "58",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "skäggetorp",
+                "last_accept": 2266,
+                "$last_seen": "2024-04-24T11:51:22.973Z"
               },
               {
                 "id": 123847,
