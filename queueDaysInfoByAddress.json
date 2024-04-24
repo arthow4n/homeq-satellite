@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-24T10:58:50.923Z",
+  "lastUpdatedAt": "2024-04-24T11:51:22.973Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -34795,6 +34795,21 @@
                 "$districtName": "biskopsgården",
                 "last_accept": 264,
                 "$last_seen": "2024-04-23T09:50:15.705Z"
+              }
+            ],
+            "blidvädersgatan": [
+              {
+                "id": 123439,
+                "rent": 4052,
+                "area": 23,
+                "street": "blidvädersgatan",
+                "street_number": "48",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "biskopsgården",
+                "last_accept": 1120,
+                "$last_seen": "2024-04-24T10:58:50.923Z"
               }
             ],
             "värmegatan": [
@@ -99455,6 +99470,19 @@
                 "$districtName": "limhamn",
                 "last_accept": 37,
                 "$last_seen": "2024-04-16T09:50:07.220Z"
+              },
+              {
+                "id": 124364,
+                "rent": 14029,
+                "area": 84,
+                "street": "högatan",
+                "street_number": "12",
+                "city": "limhamn",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "limhamn",
+                "last_accept": 32,
+                "$last_seen": "2024-04-24T10:58:50.923Z"
               }
             ],
             "höbalsgatan": [
@@ -100384,6 +100412,19 @@
                 "$districtName": "limhamn",
                 "last_accept": 38,
                 "$last_seen": "2024-04-19T09:52:23.416Z"
+              },
+              {
+                "id": 122053,
+                "rent": 9181,
+                "area": 45,
+                "street": "blåsebergavägen",
+                "street_number": "12",
+                "city": "limhamn",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "limhamn",
+                "last_accept": 39,
+                "$last_seen": "2024-04-24T10:58:50.923Z"
               },
               {
                 "id": 123893,
@@ -110294,6 +110335,19 @@
             ],
             "kunskapslänken": [
               {
+                "id": 109352,
+                "rent": 9375,
+                "area": 40,
+                "street": "kunskapslänken",
+                "street_number": "48",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "linköpings domkyrkodistrikt",
+                "last_accept": 19,
+                "$last_seen": "2024-04-24T10:58:50.923Z"
+              },
+              {
                 "id": 110333,
                 "rent": 10061,
                 "area": 50,
@@ -110373,6 +110427,19 @@
               }
             ],
             "honnörsgatan": [
+              {
+                "id": 111325,
+                "rent": 8674,
+                "area": 50.7,
+                "street": "honnörsgatan",
+                "street_number": "1",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "linköpings domkyrkodistrikt",
+                "last_accept": 80,
+                "$last_seen": "2024-04-24T10:58:50.923Z"
+              },
               {
                 "id": 115462,
                 "rent": 10785,
