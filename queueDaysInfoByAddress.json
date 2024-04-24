@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-24T13:16:20.012Z",
+  "lastUpdatedAt": "2024-04-24T13:57:24.357Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -49254,6 +49254,19 @@
                 "$last_seen": "2024-04-23T08:55:36.087Z"
               },
               {
+                "id": 121413,
+                "rent": 6586,
+                "area": 63,
+                "street": "aprilgatan",
+                "street_number": "60",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "kortedala",
+                "last_accept": 1562,
+                "$last_seen": "2024-04-24T13:16:20.012Z"
+              },
+              {
                 "id": 122751,
                 "rent": 5512,
                 "area": 54,
@@ -55869,6 +55882,19 @@
                 "$districtName": "göteborgs vasa",
                 "last_accept": 1904,
                 "$last_seen": "2024-03-27T08:48:50.160Z"
+              },
+              {
+                "id": 123264,
+                "rent": 9944,
+                "area": 56,
+                "street": "södra vägen",
+                "street_number": "4",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs vasa",
+                "last_accept": 1933,
+                "$last_seen": "2024-04-24T11:51:22.973Z"
               }
             ],
             "viktor rydbergsgatan": [
@@ -59652,6 +59678,19 @@
                 "$districtName": "askim",
                 "last_accept": 1289,
                 "$last_seen": "2024-04-09T07:48:52.863Z"
+              },
+              {
+                "id": 122989,
+                "rent": 11711,
+                "area": 58,
+                "street": "ugglegården",
+                "street_number": "36",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 629,
+                "$last_seen": "2024-04-24T13:16:20.012Z"
               }
             ],
             "kobbegården": [
@@ -87377,6 +87416,19 @@
                 "$districtName": "kållered",
                 "last_accept": 1174,
                 "$last_seen": "2024-04-18T11:51:41.760Z"
+              },
+              {
+                "id": 121285,
+                "rent": 7842,
+                "area": 76,
+                "street": "våmmedalsvägen",
+                "street_number": "140",
+                "city": "kållered",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "kållered",
+                "last_accept": 1630,
+                "$last_seen": "2024-04-24T13:16:20.012Z"
               },
               {
                 "id": 123202,
