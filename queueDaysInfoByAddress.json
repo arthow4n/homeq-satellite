@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-24T09:53:27.996Z",
+  "lastUpdatedAt": "2024-04-24T10:58:50.923Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -75625,6 +75625,19 @@
                 "$districtName": "härlanda",
                 "last_accept": 1786,
                 "$last_seen": "2024-04-15T06:55:45.972Z"
+              },
+              {
+                "id": 123906,
+                "rent": 8943,
+                "area": 56,
+                "street": "ättestigen",
+                "street_number": "10",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "härlanda",
+                "last_accept": 1923,
+                "$last_seen": "2024-04-24T09:53:27.996Z"
               }
             ],
             "ernst torulfsgatan": [
@@ -111036,6 +111049,19 @@
                 "$districtName": "skäggetorp",
                 "last_accept": 560,
                 "$last_seen": "2024-04-09T08:53:03.518Z"
+              },
+              {
+                "id": 124347,
+                "rent": 6105,
+                "area": 65,
+                "street": "skäggetorp centrum",
+                "street_number": "14",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "skäggetorp",
+                "last_accept": 11,
+                "$last_seen": "2024-04-24T08:57:14.162Z"
               }
             ]
           },
