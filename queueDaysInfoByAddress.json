@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-25T07:52:00.434Z",
+  "lastUpdatedAt": "2024-04-25T08:58:36.523Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -57645,6 +57645,19 @@
                 "$last_seen": "2024-04-11T06:57:00.557Z"
               },
               {
+                "id": 120819,
+                "rent": 5328,
+                "area": 22,
+                "street": "smörslätten",
+                "street_number": "6",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "björkekärr",
+                "last_accept": 1121,
+                "$last_seen": "2024-04-25T07:52:00.434Z"
+              },
+              {
                 "id": 122382,
                 "rent": 5650,
                 "area": 22,
@@ -110342,6 +110355,19 @@
                 "$last_seen": "2024-03-28T13:01:23.596Z"
               },
               {
+                "id": 123549,
+                "rent": 6673,
+                "area": 43.8,
+                "street": "skogsgatan",
+                "street_number": "91",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "johannelund",
+                "last_accept": 3,
+                "$last_seen": "2024-04-25T07:52:00.434Z"
+              },
+              {
                 "id": 124402,
                 "rent": 8679,
                 "area": 60.3,
@@ -111194,19 +111220,6 @@
                 "$districtName": "skäggetorp",
                 "last_accept": 21,
                 "$last_seen": "2024-04-02T13:45:51.291Z"
-              },
-              {
-                "id": 120370,
-                "rent": 5424,
-                "area": 33,
-                "street": "väpnaregatan",
-                "street_number": "10",
-                "city": "linköping",
-                "municipality": "linköping",
-                "county": "östergötlands län",
-                "$districtName": "skäggetorp",
-                "last_accept": 48,
-                "$last_seen": "2024-04-22T10:57:59.339Z"
               },
               {
                 "id": 121310,
