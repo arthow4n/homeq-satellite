@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-25T05:54:50.958Z",
+  "lastUpdatedAt": "2024-04-25T06:57:39.377Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -81751,6 +81751,19 @@
                 "$districtName": "tynnered",
                 "last_accept": 1840,
                 "$last_seen": "2024-04-19T07:51:26.323Z"
+              },
+              {
+                "id": 124917,
+                "rent": 9823,
+                "area": 81,
+                "street": "smyckegatan",
+                "street_number": "65",
+                "city": "västra frölunda",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tynnered",
+                "last_accept": 1583,
+                "$last_seen": "2024-04-25T05:54:50.958Z"
               }
             ],
             "björkhöjdsgatan": [
@@ -81883,6 +81896,19 @@
                 "$districtName": "tynnered",
                 "last_accept": 1817,
                 "$last_seen": "2024-03-25T07:44:36.083Z"
+              },
+              {
+                "id": 124852,
+                "rent": 13859,
+                "area": 108,
+                "street": "björkhöjdsgatan",
+                "street_number": "35",
+                "city": "västra frölunda",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tynnered",
+                "last_accept": 1756,
+                "$last_seen": "2024-04-25T05:54:50.958Z"
               }
             ],
             "bergkristallsgatan": [
@@ -110784,6 +110810,19 @@
                 "$districtName": "slaka",
                 "last_accept": 58,
                 "$last_seen": "2024-04-24T11:51:22.973Z"
+              },
+              {
+                "id": 120940,
+                "rent": 8619,
+                "area": 50,
+                "street": "mantalsgatan",
+                "street_number": "14",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "slaka",
+                "last_accept": 70,
+                "$last_seen": "2024-04-25T05:54:50.958Z"
               }
             ],
             "ada arwedssons gata": [
@@ -111045,6 +111084,19 @@
                 "$districtName": "skäggetorp",
                 "last_accept": 9,
                 "$last_seen": "2024-04-24T05:54:37.962Z"
+              },
+              {
+                "id": 125561,
+                "rent": 7626,
+                "area": 68,
+                "street": "stiglötsgatan",
+                "street_number": "37",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "skäggetorp",
+                "last_accept": 1787,
+                "$last_seen": "2024-04-25T05:54:50.958Z"
               }
             ],
             "fogdegatan": [
