@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-25T11:52:02.983Z",
+  "lastUpdatedAt": "2024-04-25T13:02:38.164Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -34609,6 +34609,19 @@
                 "$districtName": "biskopsgården",
                 "last_accept": 362,
                 "$last_seen": "2024-03-21T11:44:38.111Z"
+              },
+              {
+                "id": 122699,
+                "rent": 5983,
+                "area": 35,
+                "street": "temperaturgatan",
+                "street_number": "3",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "biskopsgården",
+                "last_accept": 643,
+                "$last_seen": "2024-04-25T11:52:02.983Z"
               }
             ],
             "lufttrycksgatan": [
@@ -36843,6 +36856,19 @@
                 "$districtName": "tuve",
                 "last_accept": 899,
                 "$last_seen": "2024-01-17T11:35:42.647Z"
+              },
+              {
+                "id": 120815,
+                "rent": 8022,
+                "area": 40,
+                "street": "gubbe lars väg",
+                "street_number": "3",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tuve",
+                "last_accept": 733,
+                "$last_seen": "2024-04-25T11:52:02.983Z"
               },
               {
                 "id": 121168,
@@ -43286,6 +43312,19 @@
                 "$districtName": "lundby",
                 "last_accept": 1611,
                 "$last_seen": "2023-12-22T08:36:46.900Z"
+              },
+              {
+                "id": 124028,
+                "rent": 5740,
+                "area": 32,
+                "street": "bautastensgatan",
+                "street_number": "11 b",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1378,
+                "$last_seen": "2024-04-25T11:52:02.983Z"
               }
             ],
             "arvid lindmansgatan": [
@@ -89942,6 +89981,19 @@
                 "$districtName": "partille",
                 "last_accept": 1580,
                 "$last_seen": "2024-04-05T10:53:51.620Z"
+              },
+              {
+                "id": 122718,
+                "rent": 4346,
+                "area": 39,
+                "street": "länsmansvägen",
+                "street_number": "8 a",
+                "city": "jonsered",
+                "municipality": "partille",
+                "county": "västra götalands län",
+                "$districtName": "partille",
+                "last_accept": 773,
+                "$last_seen": "2024-04-25T11:52:02.983Z"
               }
             ],
             "kyrkogatan": [
@@ -105318,6 +105370,19 @@
                 "$districtName": "vantör",
                 "last_accept": 1984,
                 "$last_seen": "2024-03-22T13:01:27.197Z"
+              },
+              {
+                "id": 122260,
+                "rent": 10929,
+                "area": 78,
+                "street": "askersundsgatan",
+                "street_number": "12",
+                "city": "bandhagen",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 1951,
+                "$last_seen": "2024-04-25T11:52:02.983Z"
               }
             ],
             "hagsätra torg": [
@@ -106771,6 +106836,19 @@
                 "$last_seen": "2024-04-23T18:54:52.298Z"
               },
               {
+                "id": 125362,
+                "rent": 6362,
+                "area": 20,
+                "street": "fyrspannsgatan",
+                "street_number": "158",
+                "city": "hässelby",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "hässelby",
+                "last_accept": 0,
+                "$last_seen": "2024-04-25T11:52:02.983Z"
+              },
+              {
                 "id": 125363,
                 "rent": 6480,
                 "area": 21,
@@ -106782,6 +106860,19 @@
                 "$districtName": "hässelby",
                 "last_accept": 111,
                 "$last_seen": "2024-04-25T09:52:34.310Z"
+              },
+              {
+                "id": 125605,
+                "rent": 6362,
+                "area": 20,
+                "street": "fyrspannsgatan",
+                "street_number": "158",
+                "city": "hässelby",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "hässelby",
+                "last_accept": 331,
+                "$last_seen": "2024-04-25T11:52:02.983Z"
               }
             ]
           }
@@ -111668,6 +111759,21 @@
                 "last_accept": 111,
                 "$last_seen": "2024-04-08T13:49:14.680Z"
               }
+            ],
+            "skogsvallsgatan": [
+              {
+                "id": 125756,
+                "rent": 7743,
+                "area": 35,
+                "street": "skogsvallsgatan",
+                "street_number": "3",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "landeryd",
+                "last_accept": 0,
+                "$last_seen": "2024-04-25T11:52:02.983Z"
+              }
             ]
           },
           "linköpings sankt lars": {
@@ -112150,6 +112256,19 @@
                 "$districtName": "läby",
                 "last_accept": 26,
                 "$last_seen": "2024-03-28T13:01:23.596Z"
+              },
+              {
+                "id": 121993,
+                "rent": 5917,
+                "area": 34,
+                "street": "smaragdvägen",
+                "street_number": "36",
+                "city": "uppsala",
+                "municipality": "uppsala",
+                "county": "uppsala län",
+                "$districtName": "läby",
+                "last_accept": 131,
+                "$last_seen": "2024-04-25T11:52:02.983Z"
               }
             ]
           },
