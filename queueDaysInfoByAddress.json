@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-25T14:51:31.245Z",
+  "lastUpdatedAt": "2024-04-25T15:54:17.015Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -31517,6 +31517,19 @@
                 "$districtName": "annedal",
                 "last_accept": 1877,
                 "$last_seen": "2024-04-12T06:56:38.878Z"
+              },
+              {
+                "id": 124675,
+                "rent": 7796,
+                "area": 45,
+                "street": "västergatan",
+                "street_number": "25",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "annedal",
+                "last_accept": 1843,
+                "$last_seen": "2024-04-25T14:51:31.245Z"
               }
             ],
             "övre husargatan": [
@@ -106875,6 +106888,19 @@
                 "$districtName": "hässelby",
                 "last_accept": 161,
                 "$last_seen": "2024-04-21T15:50:50.476Z"
+              },
+              {
+                "id": 125213,
+                "rent": 7069,
+                "area": 26,
+                "street": "fyrspannsgatan",
+                "street_number": "158",
+                "city": "hässelby",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "hässelby",
+                "last_accept": 93,
+                "$last_seen": "2024-04-25T14:51:31.245Z"
               },
               {
                 "id": 125214,
