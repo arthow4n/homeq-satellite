@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-25T06:57:39.377Z",
+  "lastUpdatedAt": "2024-04-25T07:52:00.434Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -79893,6 +79893,19 @@
                 "$last_seen": "2024-04-22T06:57:21.330Z"
               },
               {
+                "id": 121932,
+                "rent": 7778,
+                "area": 33,
+                "street": "sisjöbäckens väg",
+                "street_number": "22",
+                "city": "askim",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 591,
+                "$last_seen": "2024-04-25T06:57:39.377Z"
+              },
+              {
                 "id": 122264,
                 "rent": 8262,
                 "area": 34,
@@ -110754,6 +110767,21 @@
                 "$districtName": "linköpings domkyrkodistrikt",
                 "last_accept": 175,
                 "$last_seen": "2024-04-22T11:50:54.594Z"
+              }
+            ],
+            "platensgatan": [
+              {
+                "id": 124616,
+                "rent": 7752,
+                "area": 66,
+                "street": "platensgatan",
+                "street_number": "5b",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "linköpings domkyrkodistrikt",
+                "last_accept": 594,
+                "$last_seen": "2024-04-25T06:57:39.377Z"
               }
             ]
           },
