@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-25T10:58:07.868Z",
+  "lastUpdatedAt": "2024-04-25T11:52:02.983Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -89495,6 +89495,21 @@
                 "$last_seen": "2024-03-14T12:50:35.945Z"
               }
             ],
+            "bifrostgatan": [
+              {
+                "id": 120663,
+                "rent": 7605,
+                "area": 35,
+                "street": "bifrostgatan",
+                "street_number": "47",
+                "city": "mölndal",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 1484,
+                "$last_seen": "2024-04-25T10:58:07.868Z"
+              }
+            ],
             "vetenskapens gränd": [
               {
                 "id": 124190,
@@ -112165,6 +112180,19 @@
                 "$districtName": "vaksala",
                 "last_accept": 79,
                 "$last_seen": "2024-04-19T07:51:26.323Z"
+              },
+              {
+                "id": 125128,
+                "rent": 7805,
+                "area": 54,
+                "street": "stålgatan",
+                "street_number": "57",
+                "city": "uppsala",
+                "municipality": "uppsala",
+                "county": "uppsala län",
+                "$districtName": "vaksala",
+                "last_accept": 371,
+                "$last_seen": "2024-04-25T10:58:07.868Z"
               }
             ]
           },
