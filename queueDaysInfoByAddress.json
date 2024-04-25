@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-25T09:52:34.310Z",
+  "lastUpdatedAt": "2024-04-25T10:58:07.868Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -106754,6 +106754,19 @@
                 "$districtName": "hässelby",
                 "last_accept": 100,
                 "$last_seen": "2024-04-23T18:54:52.298Z"
+              },
+              {
+                "id": 125363,
+                "rent": 6480,
+                "area": 21,
+                "street": "fyrspannsgatan",
+                "street_number": "158",
+                "city": "hässelby",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "hässelby",
+                "last_accept": 111,
+                "$last_seen": "2024-04-25T09:52:34.310Z"
               }
             ]
           }
@@ -108992,19 +109005,6 @@
                 "$last_seen": "2024-04-17T16:01:21.448Z"
               },
               {
-                "id": 116912,
-                "rent": 8247,
-                "area": 30,
-                "street": "almbygatan",
-                "street_number": "14",
-                "city": "spånga",
-                "municipality": "stockholm",
-                "county": "stockholms län",
-                "$districtName": "kista",
-                "last_accept": 1116,
-                "$last_seen": "2024-04-24T07:00:49.613Z"
-              },
-              {
                 "id": 116913,
                 "rent": 6598,
                 "area": 22,
@@ -110821,6 +110821,21 @@
                 "$districtName": "linköpings domkyrkodistrikt",
                 "last_accept": 594,
                 "$last_seen": "2024-04-25T06:57:39.377Z"
+              }
+            ],
+            "vasavägen": [
+              {
+                "id": 125609,
+                "rent": 11696,
+                "area": 131,
+                "street": "vasavägen",
+                "street_number": "57a",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "linköpings domkyrkodistrikt",
+                "last_accept": 989,
+                "$last_seen": "2024-04-25T09:52:34.310Z"
               }
             ]
           },
