@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-25T13:02:38.164Z",
+  "lastUpdatedAt": "2024-04-25T13:51:51.958Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -34100,6 +34100,19 @@
                 "$districtName": "biskopsgården",
                 "last_accept": 1215,
                 "$last_seen": "2024-04-23T06:58:45.250Z"
+              },
+              {
+                "id": 124142,
+                "rent": 8993,
+                "area": 63,
+                "street": "långströmsgatan",
+                "street_number": "2c",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "biskopsgården",
+                "last_accept": 1420,
+                "$last_seen": "2024-04-25T13:02:38.164Z"
               }
             ],
             "temperaturgatan": [
@@ -41351,6 +41364,19 @@
                 "$districtName": "göteborgs domkyrkodistrikt",
                 "last_accept": 1907,
                 "$last_seen": "2024-03-18T08:48:39.238Z"
+              },
+              {
+                "id": 124814,
+                "rent": 9018,
+                "area": 58,
+                "street": "storgatan",
+                "street_number": "51",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs domkyrkodistrikt",
+                "last_accept": 1966,
+                "$last_seen": "2024-04-25T13:02:38.164Z"
               }
             ],
             "ranängsgatan": [
@@ -48371,6 +48397,21 @@
                 "$districtName": "bergsjön",
                 "last_accept": 761,
                 "$last_seen": "2024-03-20T06:50:23.411Z"
+              }
+            ],
+            "meteorgatan": [
+              {
+                "id": 124684,
+                "rent": 7978,
+                "area": 64,
+                "street": "meteorgatan",
+                "street_number": "2",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bergsjön",
+                "last_accept": 864,
+                "$last_seen": "2024-04-25T13:02:38.164Z"
               }
             ]
           },
@@ -82474,6 +82515,19 @@
                 "$districtName": "tynnered",
                 "last_accept": 1872,
                 "$last_seen": "2024-04-08T09:50:02.979Z"
+              },
+              {
+                "id": 124960,
+                "rent": 7448,
+                "area": 50,
+                "street": "safirgatan",
+                "street_number": "8",
+                "city": "västra frölunda",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tynnered",
+                "last_accept": 880,
+                "$last_seen": "2024-04-25T13:02:38.164Z"
               }
             ],
             "lilla grevegårdsvägen": [
@@ -109773,6 +109827,19 @@
                 "$districtName": "österhaninge",
                 "last_accept": 6,
                 "$last_seen": "2024-03-13T08:37:04.575Z"
+              },
+              {
+                "id": 121580,
+                "rent": 8536,
+                "area": 35,
+                "street": "vardövägen",
+                "street_number": "44",
+                "city": "stockholm",
+                "municipality": "haninge",
+                "county": "stockholms län",
+                "$districtName": "österhaninge",
+                "last_accept": 80,
+                "$last_seen": "2024-04-25T13:02:38.164Z"
               },
               {
                 "id": 121786,
