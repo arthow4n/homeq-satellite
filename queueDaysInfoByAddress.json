@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-25T13:51:51.958Z",
+  "lastUpdatedAt": "2024-04-25T14:51:31.245Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -43152,6 +43152,19 @@
                 "$districtName": "lundby",
                 "last_accept": 1543,
                 "$last_seen": "2024-04-23T06:58:45.250Z"
+              },
+              {
+                "id": 124889,
+                "rent": 12021,
+                "area": 65,
+                "street": "fyrklöversgatan",
+                "street_number": "25",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 550,
+                "$last_seen": "2024-04-25T13:51:51.958Z"
               }
             ],
             "ö keillersgatan": [
@@ -102117,6 +102130,19 @@
                 "$districtName": "bunkeflo",
                 "last_accept": 206,
                 "$last_seen": "2024-04-08T07:48:34.160Z"
+              },
+              {
+                "id": 121255,
+                "rent": 8704,
+                "area": 59.9,
+                "street": "skomakarebyn",
+                "street_number": "5n",
+                "city": "bunkeflostrand",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "bunkeflo",
+                "last_accept": 22,
+                "$last_seen": "2024-04-25T13:51:51.958Z"
               }
             ],
             "smedmästarebyn": [
@@ -102366,6 +102392,19 @@
                 "$districtName": "bunkeflo",
                 "last_accept": 25,
                 "$last_seen": "2024-02-16T09:34:33.361Z"
+              },
+              {
+                "id": 118561,
+                "rent": 9280,
+                "area": 60.6,
+                "street": "smedmästarebyn",
+                "street_number": "1f",
+                "city": "bunkeflostrand",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "bunkeflo",
+                "last_accept": 8,
+                "$last_seen": "2024-04-25T13:51:51.958Z"
               }
             ],
             "skräddarebyn": [
@@ -106916,6 +106955,19 @@
                 "$last_seen": "2024-04-25T09:52:34.310Z"
               },
               {
+                "id": 125604,
+                "rent": 6362,
+                "area": 20,
+                "street": "fyrspannsgatan",
+                "street_number": "158",
+                "city": "hässelby",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "hässelby",
+                "last_accept": 0,
+                "$last_seen": "2024-04-25T13:51:51.958Z"
+              },
+              {
                 "id": 125605,
                 "rent": 6362,
                 "area": 20,
@@ -106927,6 +106979,19 @@
                 "$districtName": "hässelby",
                 "last_accept": 331,
                 "$last_seen": "2024-04-25T11:52:02.983Z"
+              },
+              {
+                "id": 125690,
+                "rent": 6362,
+                "area": 20,
+                "street": "fyrspannsgatan",
+                "street_number": "158",
+                "city": "hässelby",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "hässelby",
+                "last_accept": 9,
+                "$last_seen": "2024-04-25T13:51:51.958Z"
               }
             ]
           }
