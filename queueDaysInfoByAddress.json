@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-25T08:58:36.523Z",
+  "lastUpdatedAt": "2024-04-25T09:52:34.310Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -48873,6 +48873,19 @@
                 "$districtName": "kortedala",
                 "last_accept": 1618,
                 "$last_seen": "2024-03-29T13:44:44.448Z"
+              },
+              {
+                "id": 121840,
+                "rent": 12539,
+                "area": 105,
+                "street": "nymånegatan",
+                "street_number": "41",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "kortedala",
+                "last_accept": 1788,
+                "$last_seen": "2024-04-25T08:58:36.523Z"
               },
               {
                 "id": 121844,
@@ -111682,6 +111695,19 @@
                 "$districtName": "linköpings sankt lars",
                 "last_accept": 49,
                 "$last_seen": "2024-04-24T14:58:16.690Z"
+              },
+              {
+                "id": 124948,
+                "rent": 5697,
+                "area": 27,
+                "street": "hejdegatan",
+                "street_number": "56",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "linköpings sankt lars",
+                "last_accept": 7,
+                "$last_seen": "2024-04-25T08:58:36.523Z"
               }
             ],
             "nya tanneforsvägen": [
