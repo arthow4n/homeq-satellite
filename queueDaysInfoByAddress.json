@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-25T16:57:53.885Z",
+  "lastUpdatedAt": "2024-04-25T17:55:44.496Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -106851,6 +106851,19 @@
             ],
             "fyrspannsgatan": [
               {
+                "id": 124786,
+                "rent": 8719,
+                "area": 34,
+                "street": "fyrspannsgatan",
+                "street_number": "158",
+                "city": "hässelby",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "hässelby",
+                "last_accept": 460,
+                "$last_seen": "2024-04-25T16:57:53.885Z"
+              },
+              {
                 "id": 124793,
                 "rent": 8719,
                 "area": 34,
@@ -107005,6 +107018,19 @@
                 "$districtName": "hässelby",
                 "last_accept": 331,
                 "$last_seen": "2024-04-25T11:52:02.983Z"
+              },
+              {
+                "id": 125686,
+                "rent": 8719,
+                "area": 34,
+                "street": "fyrspannsgatan",
+                "street_number": "158",
+                "city": "hässelby",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "hässelby",
+                "last_accept": 392,
+                "$last_seen": "2024-04-25T16:57:53.885Z"
               },
               {
                 "id": 125690,
@@ -109254,6 +109280,19 @@
                 "$districtName": "kista",
                 "last_accept": 378,
                 "$last_seen": "2024-04-17T16:01:21.448Z"
+              },
+              {
+                "id": 116912,
+                "rent": 8247,
+                "area": 30,
+                "street": "almbygatan",
+                "street_number": "14",
+                "city": "spånga",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "kista",
+                "last_accept": 1134,
+                "$last_seen": "2024-04-25T16:57:53.885Z"
               },
               {
                 "id": 116913,
