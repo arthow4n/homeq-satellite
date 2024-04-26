@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-26T08:55:48.022Z",
+  "lastUpdatedAt": "2024-04-26T09:51:37.338Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -49373,19 +49373,6 @@
                 "$last_seen": "2024-03-15T07:44:47.087Z"
               },
               {
-                "id": 121296,
-                "rent": 5486,
-                "area": 51.5,
-                "street": "aprilgatan",
-                "street_number": "70",
-                "city": "göteborg",
-                "municipality": "göteborg",
-                "county": "västra götalands län",
-                "$districtName": "kortedala",
-                "last_accept": 1415,
-                "$last_seen": "2024-04-23T08:55:36.087Z"
-              },
-              {
                 "id": 121413,
                 "rent": 6586,
                 "area": 63,
@@ -52426,6 +52413,19 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1814,
                 "$last_seen": "2024-01-17T13:37:19.181Z"
+              },
+              {
+                "id": 123200,
+                "rent": 13892,
+                "area": 90,
+                "street": "norra krokslättsgatan",
+                "street_number": "8",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1935,
+                "$last_seen": "2024-04-26T08:55:48.022Z"
               }
             ],
             "meijerbergsgatan": [
@@ -83940,6 +83940,21 @@
                 "last_accept": 1789,
                 "$last_seen": "2024-02-16T18:37:28.433Z"
               }
+            ],
+            "tvärhandsgatan": [
+              {
+                "id": 123027,
+                "rent": 8173,
+                "area": 59,
+                "street": "tvärhandsgatan",
+                "street_number": "4",
+                "city": "västra frölunda",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 1354,
+                "$last_seen": "2024-04-26T08:55:48.022Z"
+              }
             ]
           }
         },
@@ -95905,6 +95920,19 @@
                 "$districtName": "malmö sankt pauli",
                 "last_accept": 570,
                 "$last_seen": "2024-02-26T11:36:03.425Z"
+              },
+              {
+                "id": 122535,
+                "rent": 18701,
+                "area": 174,
+                "street": "södra förstadsgatan",
+                "street_number": "32",
+                "city": "malmö",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "malmö sankt pauli",
+                "last_accept": 461,
+                "$last_seen": "2024-04-26T08:55:48.022Z"
               },
               {
                 "id": 122681,
@@ -110797,6 +110825,19 @@
                 "$districtName": "berga",
                 "last_accept": 30,
                 "$last_seen": "2024-04-12T08:56:10.099Z"
+              },
+              {
+                "id": 125042,
+                "rent": 7695,
+                "area": 58,
+                "street": "prästbolsgatan",
+                "street_number": "40 a",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "berga",
+                "last_accept": 0,
+                "$last_seen": "2024-04-26T08:55:48.022Z"
               }
             ]
           },
@@ -111653,6 +111694,19 @@
                 "$districtName": "skäggetorp",
                 "last_accept": 9,
                 "$last_seen": "2024-04-24T05:54:37.962Z"
+              },
+              {
+                "id": 124588,
+                "rent": 9958,
+                "area": 68,
+                "street": "stiglötsgatan",
+                "street_number": "60",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "skäggetorp",
+                "last_accept": 0,
+                "$last_seen": "2024-04-26T08:55:48.022Z"
               },
               {
                 "id": 125561,
