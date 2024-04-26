@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-26T06:59:36.121Z",
+  "lastUpdatedAt": "2024-04-26T07:51:26.753Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -60906,6 +60906,19 @@
                 "$districtName": "askim",
                 "last_accept": 890,
                 "$last_seen": "2024-04-17T07:50:49.476Z"
+              },
+              {
+                "id": 124391,
+                "rent": 11412,
+                "area": 75,
+                "street": "nergårdsvägen",
+                "street_number": "45",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 1285,
+                "$last_seen": "2024-04-26T06:59:36.121Z"
               }
             ],
             "askims pilegårdsväg": [
@@ -64027,6 +64040,19 @@
                 "$districtName": "högsbo",
                 "last_accept": 0,
                 "$last_seen": "2024-04-17T13:53:28.946Z"
+              },
+              {
+                "id": 125533,
+                "rent": 9330,
+                "area": 63,
+                "street": "pennygången",
+                "street_number": "11",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 987,
+                "$last_seen": "2024-04-26T06:59:36.121Z"
               }
             ],
             "skillingmyntsgatan": [
@@ -92028,6 +92054,19 @@
                 "$districtName": "malmö sankt petri",
                 "last_accept": 1197,
                 "$last_seen": "2024-03-01T07:34:30.874Z"
+              },
+              {
+                "id": 122630,
+                "rent": 11910,
+                "area": 78,
+                "street": "stora kvarngatan",
+                "street_number": "10",
+                "city": "malmö",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "malmö sankt petri",
+                "last_accept": 1159,
+                "$last_seen": "2024-04-26T06:59:36.121Z"
               }
             ],
             "rörsjögatan": [
