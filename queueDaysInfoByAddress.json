@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-26T09:51:37.338Z",
+  "lastUpdatedAt": "2024-04-26T10:58:33.567Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -35639,6 +35639,19 @@
                 "$districtName": "nylöse",
                 "last_accept": 1018,
                 "$last_seen": "2024-04-17T05:53:32.934Z"
+              },
+              {
+                "id": 123005,
+                "rent": 13120,
+                "area": 74.8,
+                "street": "hinderbanan",
+                "street_number": "36",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "nylöse",
+                "last_accept": 680,
+                "$last_seen": "2024-04-26T09:51:37.338Z"
               }
             ],
             "artillerigatan": [
@@ -64029,6 +64042,19 @@
                 "$last_seen": "2024-04-23T08:55:36.087Z"
               },
               {
+                "id": 122613,
+                "rent": 8839,
+                "area": 62,
+                "street": "pennygången",
+                "street_number": "64",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 1228,
+                "$last_seen": "2024-04-26T09:51:37.338Z"
+              },
+              {
                 "id": 122641,
                 "rent": 11295,
                 "area": 83,
@@ -65101,6 +65127,19 @@
                 "$districtName": "högsbo",
                 "last_accept": 1381,
                 "$last_seen": "2024-04-16T08:55:06.141Z"
+              },
+              {
+                "id": 122944,
+                "rent": 9261,
+                "area": 72,
+                "street": "skäpplandsgatan",
+                "street_number": "5",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 1941,
+                "$last_seen": "2024-04-26T09:51:37.338Z"
               }
             ]
           },
@@ -80103,6 +80142,19 @@
                 "$last_seen": "2024-04-25T06:57:39.377Z"
               },
               {
+                "id": 122256,
+                "rent": 11435,
+                "area": 54,
+                "street": "sisjöbäckens väg",
+                "street_number": "24",
+                "city": "askim",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 10,
+                "$last_seen": "2024-04-26T09:51:37.338Z"
+              },
+              {
                 "id": 122264,
                 "rent": 8262,
                 "area": 34,
@@ -85011,6 +85063,19 @@
                 "$districtName": "kortedala",
                 "last_accept": 145,
                 "$last_seen": "2024-04-23T06:58:45.250Z"
+              },
+              {
+                "id": 124827,
+                "rent": 5675,
+                "area": 34,
+                "street": "januarigatan",
+                "street_number": "14",
+                "city": "göteborg ",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "kortedala",
+                "last_accept": 640,
+                "$last_seen": "2024-04-26T09:51:37.338Z"
               }
             ]
           },
@@ -107152,6 +107217,19 @@
                 "$districtName": "hässelby",
                 "last_accept": 57,
                 "$last_seen": "2024-04-22T08:57:31.628Z"
+              },
+              {
+                "id": 125361,
+                "rent": 7069,
+                "area": 26,
+                "street": "fyrspannsgatan",
+                "street_number": "158",
+                "city": "hässelby",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "hässelby",
+                "last_accept": 1,
+                "$last_seen": "2024-04-26T09:51:37.338Z"
               },
               {
                 "id": 125362,
