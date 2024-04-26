@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-26T11:51:10.455Z",
+  "lastUpdatedAt": "2024-04-26T13:08:37.608Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -71419,6 +71419,19 @@
                 "$last_seen": "2024-03-04T11:20:23.223Z"
               },
               {
+                "id": 123162,
+                "rent": 11389,
+                "area": 60,
+                "street": "tändsticksgatan",
+                "street_number": "2",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1217,
+                "$last_seen": "2024-04-26T11:51:10.455Z"
+              },
+              {
                 "id": 123168,
                 "rent": 9891,
                 "area": 52,
@@ -75656,6 +75669,21 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1878,
                 "$last_seen": "2024-03-18T15:43:17.832Z"
+              }
+            ],
+            "mintensgatan": [
+              {
+                "id": 125763,
+                "rent": 11063,
+                "area": 68,
+                "street": "mintensgatan",
+                "street_number": "1",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1830,
+                "$last_seen": "2024-04-26T11:51:10.455Z"
               }
             ]
           },
@@ -90428,6 +90456,32 @@
                 "$districtName": "partille",
                 "last_accept": 992,
                 "$last_seen": "2024-04-19T05:54:43.784Z"
+              },
+              {
+                "id": 125059,
+                "rent": 8261,
+                "area": 57,
+                "street": "oluff nilssonsväg",
+                "street_number": "20",
+                "city": "partille",
+                "municipality": "partille",
+                "county": "västra götalands län",
+                "$districtName": "partille",
+                "last_accept": 1145,
+                "$last_seen": "2024-04-26T11:51:10.455Z"
+              },
+              {
+                "id": 125497,
+                "rent": 6882,
+                "area": 46,
+                "street": "oluff nilssonsväg",
+                "street_number": "20",
+                "city": "partille",
+                "municipality": "partille",
+                "county": "västra götalands län",
+                "$districtName": "partille",
+                "last_accept": 322,
+                "$last_seen": "2024-04-26T11:51:10.455Z"
               }
             ]
           }
@@ -107271,6 +107325,19 @@
                 "$last_seen": "2024-04-22T08:57:31.628Z"
               },
               {
+                "id": 125215,
+                "rent": 7069,
+                "area": 26,
+                "street": "fyrspannsgatan",
+                "street_number": "158",
+                "city": "hässelby",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "hässelby",
+                "last_accept": 134,
+                "$last_seen": "2024-04-26T11:51:10.455Z"
+              },
+              {
                 "id": 125216,
                 "rent": 6362,
                 "area": 20,
@@ -107386,6 +107453,19 @@
                 "$districtName": "hässelby",
                 "last_accept": 9,
                 "$last_seen": "2024-04-25T13:51:51.958Z"
+              },
+              {
+                "id": 125692,
+                "rent": 6480,
+                "area": 21,
+                "street": "fyrspannsgatan",
+                "street_number": "158",
+                "city": "hässelby",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "hässelby",
+                "last_accept": 1,
+                "$last_seen": "2024-04-26T11:51:10.455Z"
               }
             ]
           }
@@ -109624,19 +109704,6 @@
                 "$last_seen": "2024-04-17T16:01:21.448Z"
               },
               {
-                "id": 116912,
-                "rent": 8247,
-                "area": 30,
-                "street": "almbygatan",
-                "street_number": "14",
-                "city": "spånga",
-                "municipality": "stockholm",
-                "county": "stockholms län",
-                "$districtName": "kista",
-                "last_accept": 1134,
-                "$last_seen": "2024-04-25T16:57:53.885Z"
-              },
-              {
                 "id": 116913,
                 "rent": 6598,
                 "area": 22,
@@ -109849,6 +109916,19 @@
                 "$districtName": "boo",
                 "last_accept": 1267,
                 "$last_seen": "2023-04-25T08:46:08.723Z"
+              },
+              {
+                "id": 123770,
+                "rent": 10599,
+                "area": 69,
+                "street": "kommunalvägen",
+                "street_number": "10 g",
+                "city": "stockholm",
+                "municipality": "nacka",
+                "county": "stockholms län",
+                "$districtName": "boo",
+                "last_accept": 1822,
+                "$last_seen": "2024-04-26T11:51:10.455Z"
               },
               {
                 "id": 124683,
@@ -112239,6 +112319,19 @@
                 "$districtName": "landeryd",
                 "last_accept": 626,
                 "$last_seen": "2024-04-17T13:53:28.946Z"
+              },
+              {
+                "id": 124844,
+                "rent": 7863,
+                "area": 77.5,
+                "street": "ekholmsvägen",
+                "street_number": "96",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "landeryd",
+                "last_accept": 142,
+                "$last_seen": "2024-04-26T11:51:10.455Z"
               }
             ],
             "valthornsgatan": [
