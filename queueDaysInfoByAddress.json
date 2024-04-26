@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-26T05:54:30.661Z",
+  "lastUpdatedAt": "2024-04-26T06:59:36.121Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -41835,6 +41835,19 @@
                 "$districtName": "västra frölunda",
                 "last_accept": 622,
                 "$last_seen": "2024-02-26T09:35:48.839Z"
+              },
+              {
+                "id": 123315,
+                "rent": 7753,
+                "area": 32.7,
+                "street": "altplatsen",
+                "street_number": "3",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "västra frölunda",
+                "last_accept": 649,
+                "$last_seen": "2024-04-26T05:54:30.661Z"
               }
             ]
           },
@@ -95544,6 +95557,19 @@
                 "$districtName": "kirseberg",
                 "last_accept": 71,
                 "$last_seen": "2024-03-08T15:33:59.200Z"
+              },
+              {
+                "id": 125355,
+                "rent": 9014,
+                "area": 71,
+                "street": "almedalsgatan",
+                "street_number": "7a",
+                "city": "malmö",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "kirseberg",
+                "last_accept": 650,
+                "$last_seen": "2024-04-26T05:54:30.661Z"
               }
             ],
             "solgatan": [
@@ -97332,6 +97358,19 @@
                 "$districtName": "hyllie",
                 "last_accept": 342,
                 "$last_seen": "2024-04-22T07:51:08.588Z"
+              },
+              {
+                "id": 121690,
+                "rent": 10219,
+                "area": 55,
+                "street": "bures gata",
+                "street_number": "3a",
+                "city": "malmö",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "hyllie",
+                "last_accept": 230,
+                "$last_seen": "2024-04-26T05:54:30.661Z"
               }
             ],
             "sagas gränd": [
@@ -103251,6 +103290,19 @@
                 "$districtName": "lunds helgeand",
                 "last_accept": 21,
                 "$last_seen": "2024-04-22T15:52:01.347Z"
+              },
+              {
+                "id": 125020,
+                "rent": 7786,
+                "area": 46,
+                "street": "nordanväg",
+                "street_number": "3b",
+                "city": "lund",
+                "municipality": "lund",
+                "county": "skåne län",
+                "$districtName": "lunds helgeand",
+                "last_accept": 4,
+                "$last_seen": "2024-04-26T05:54:30.661Z"
               }
             ],
             "kastanjegatan": [
@@ -103271,6 +103323,19 @@
           },
           "lunds domkyrkodistrikt": {
             "tellusgatan": [
+              {
+                "id": 116924,
+                "rent": 9768,
+                "area": 62,
+                "street": "tellusgatan",
+                "street_number": "9c",
+                "city": "lund",
+                "municipality": "lund",
+                "county": "skåne län",
+                "$districtName": "lunds domkyrkodistrikt",
+                "last_accept": 183,
+                "$last_seen": "2024-04-26T05:54:30.661Z"
+              },
               {
                 "id": 117741,
                 "rent": 7760,
