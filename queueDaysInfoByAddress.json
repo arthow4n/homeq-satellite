@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-26T13:08:37.608Z",
+  "lastUpdatedAt": "2024-04-26T13:51:13.277Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -40264,6 +40264,19 @@
                 "$districtName": "göteborgs domkyrkodistrikt",
                 "last_accept": 1677,
                 "$last_seen": "2024-03-21T10:48:00.353Z"
+              },
+              {
+                "id": 123193,
+                "rent": 6686,
+                "area": 34,
+                "street": "bangårdsgatan",
+                "street_number": "17",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs domkyrkodistrikt",
+                "last_accept": 1645,
+                "$last_seen": "2024-04-26T13:08:37.608Z"
               },
               {
                 "id": 123198,
