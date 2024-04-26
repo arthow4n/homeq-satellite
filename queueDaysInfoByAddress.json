@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-26T10:58:33.567Z",
+  "lastUpdatedAt": "2024-04-26T11:51:10.455Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -48453,6 +48453,19 @@
             ],
             "meteorgatan": [
               {
+                "id": 124175,
+                "rent": 9091,
+                "area": 82,
+                "street": "meteorgatan",
+                "street_number": "26",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bergsjön",
+                "last_accept": 1630,
+                "$last_seen": "2024-04-26T10:58:33.567Z"
+              },
+              {
                 "id": 124684,
                 "rent": 7978,
                 "area": 64,
@@ -54241,6 +54254,19 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1827,
                 "$last_seen": "2024-01-09T09:36:10.253Z"
+              },
+              {
+                "id": 123821,
+                "rent": 8554,
+                "area": 62,
+                "street": "pontus wiknersgatan",
+                "street_number": "8",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 2102,
+                "$last_seen": "2024-04-26T10:58:33.567Z"
               }
             ],
             "thorburnsgatan": [
@@ -64094,6 +64120,19 @@
                 "$last_seen": "2024-04-17T13:53:28.946Z"
               },
               {
+                "id": 125495,
+                "rent": 11701,
+                "area": 83,
+                "street": "pennygången",
+                "street_number": "57",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 1237,
+                "$last_seen": "2024-04-26T10:58:33.567Z"
+              },
+              {
                 "id": 125533,
                 "rent": 9330,
                 "area": 63,
@@ -71378,6 +71417,19 @@
                 "$districtName": "örgryte",
                 "last_accept": 715,
                 "$last_seen": "2024-03-04T11:20:23.223Z"
+              },
+              {
+                "id": 123168,
+                "rent": 9891,
+                "area": 52,
+                "street": "tändsticksgatan",
+                "street_number": "2",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1307,
+                "$last_seen": "2024-04-26T10:58:33.567Z"
               }
             ],
             "anders zornsgatan": [
@@ -76159,6 +76211,19 @@
                 "$districtName": "härlanda",
                 "last_accept": 1770,
                 "$last_seen": "2023-11-13T10:45:25.557Z"
+              },
+              {
+                "id": 122756,
+                "rent": 6660,
+                "area": 37,
+                "street": "solrosgatan",
+                "street_number": "8b",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "härlanda",
+                "last_accept": 1725,
+                "$last_seen": "2024-04-26T10:58:33.567Z"
               }
             ],
             "fräntorpsgatan": [
@@ -89461,6 +89526,19 @@
                 "$districtName": "fässberg",
                 "last_accept": 1708,
                 "$last_seen": "2024-04-11T09:51:49.895Z"
+              },
+              {
+                "id": 123544,
+                "rent": 11520,
+                "area": 82,
+                "street": "ranunkelgatan",
+                "street_number": "3a",
+                "city": "mölndal",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 1692,
+                "$last_seen": "2024-04-26T10:58:33.567Z"
               }
             ],
             "bergmansgatan": [
@@ -107193,19 +107271,6 @@
                 "$last_seen": "2024-04-22T08:57:31.628Z"
               },
               {
-                "id": 125215,
-                "rent": 7069,
-                "area": 26,
-                "street": "fyrspannsgatan",
-                "street_number": "158",
-                "city": "hässelby",
-                "municipality": "stockholm",
-                "county": "stockholms län",
-                "$districtName": "hässelby",
-                "last_accept": 129,
-                "$last_seen": "2024-04-21T15:50:50.476Z"
-              },
-              {
                 "id": 125216,
                 "rent": 6362,
                 "area": 20,
@@ -107282,6 +107347,19 @@
                 "$districtName": "hässelby",
                 "last_accept": 331,
                 "$last_seen": "2024-04-25T11:52:02.983Z"
+              },
+              {
+                "id": 125617,
+                "rent": 8719,
+                "area": 34,
+                "street": "fyrspannsgatan",
+                "street_number": "158",
+                "city": "hässelby",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "hässelby",
+                "last_accept": 715,
+                "$last_seen": "2024-04-26T10:58:33.567Z"
               },
               {
                 "id": 125686,
@@ -110758,6 +110836,19 @@
                 "$last_seen": "2024-04-05T10:53:51.620Z"
               },
               {
+                "id": 116441,
+                "rent": 7205,
+                "area": 58.5,
+                "street": "konstruktörsgatan",
+                "street_number": "84",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "berga",
+                "last_accept": 1,
+                "$last_seen": "2024-04-26T10:58:33.567Z"
+              },
+              {
                 "id": 116442,
                 "rent": 8858,
                 "area": 78,
@@ -110847,6 +110938,19 @@
                 "$districtName": "berga",
                 "last_accept": 0,
                 "$last_seen": "2024-03-28T10:49:40.279Z"
+              },
+              {
+                "id": 121671,
+                "rent": 4075,
+                "area": 31,
+                "street": "konstruktörsgatan",
+                "street_number": "22",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "berga",
+                "last_accept": 27,
+                "$last_seen": "2024-04-26T10:58:33.567Z"
               }
             ],
             "ridderstads gata": [
