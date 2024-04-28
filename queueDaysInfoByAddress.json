@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-28T08:55:28.815Z",
+  "lastUpdatedAt": "2024-04-28T09:50:37.364Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -103520,6 +103520,19 @@
                 "$districtName": "östra torn",
                 "last_accept": 38,
                 "$last_seen": "2024-04-12T13:07:52.207Z"
+              },
+              {
+                "id": 125359,
+                "rent": 11262,
+                "area": 62,
+                "street": "vipeholms allé",
+                "street_number": "15",
+                "city": "lund",
+                "municipality": "lund",
+                "county": "skåne län",
+                "$districtName": "östra torn",
+                "last_accept": 4,
+                "$last_seen": "2024-04-28T08:55:28.815Z"
               }
             ],
             "brunnshögsgatan": [
