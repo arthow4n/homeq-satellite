@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-29T08:57:28.524Z",
+  "lastUpdatedAt": "2024-04-29T09:52:54.982Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -34836,6 +34836,21 @@
                 "$last_seen": "2024-04-23T09:50:15.705Z"
               }
             ],
+            "blåsvädersgatan": [
+              {
+                "id": 122877,
+                "rent": 7571,
+                "area": 71,
+                "street": "blåsvädersgatan",
+                "street_number": "24",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "biskopsgården",
+                "last_accept": 1680,
+                "$last_seen": "2024-04-29T08:57:28.524Z"
+              }
+            ],
             "höstvädersgatan": [
               {
                 "id": 123101,
@@ -47091,6 +47106,19 @@
                 "$districtName": "bergsjön",
                 "last_accept": 1647,
                 "$last_seen": "2024-04-11T05:55:20.344Z"
+              },
+              {
+                "id": 125046,
+                "rent": 6424,
+                "area": 62,
+                "street": "keplers gata",
+                "street_number": "54",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bergsjön",
+                "last_accept": 1226,
+                "$last_seen": "2024-04-29T08:57:28.524Z"
               }
             ],
             "kosmosgatan": [
@@ -89541,6 +89569,19 @@
                 "$districtName": "fässberg",
                 "last_accept": 1487,
                 "$last_seen": "2024-02-23T11:35:38.192Z"
+              },
+              {
+                "id": 124374,
+                "rent": 9576,
+                "area": 80,
+                "street": "marielundsgatan",
+                "street_number": "13",
+                "city": "mölndal",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 1803,
+                "$last_seen": "2024-04-29T08:57:28.524Z"
               }
             ],
             "ranunkelgatan": [
@@ -100266,6 +100307,19 @@
                 "$districtName": "limhamn",
                 "last_accept": 32,
                 "$last_seen": "2024-04-24T10:58:50.923Z"
+              },
+              {
+                "id": 124368,
+                "rent": 7761,
+                "area": 34,
+                "street": "högatan",
+                "street_number": "8 d",
+                "city": "limhamn",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "limhamn",
+                "last_accept": 61,
+                "$last_seen": "2024-04-29T08:57:28.524Z"
               }
             ],
             "höbalsgatan": [
@@ -101195,19 +101249,6 @@
                 "$districtName": "limhamn",
                 "last_accept": 38,
                 "$last_seen": "2024-04-19T09:52:23.416Z"
-              },
-              {
-                "id": 122053,
-                "rent": 9181,
-                "area": 45,
-                "street": "blåsebergavägen",
-                "street_number": "12",
-                "city": "limhamn",
-                "municipality": "malmö",
-                "county": "skåne län",
-                "$districtName": "limhamn",
-                "last_accept": 39,
-                "$last_seen": "2024-04-24T10:58:50.923Z"
               },
               {
                 "id": 123893,
@@ -111180,19 +111221,6 @@
                 "$districtName": "berga",
                 "last_accept": 1,
                 "$last_seen": "2024-04-08T13:49:14.680Z"
-              },
-              {
-                "id": 118389,
-                "rent": 4075,
-                "area": 31,
-                "street": "konstruktörsgatan",
-                "street_number": "46",
-                "city": "linköping",
-                "municipality": "linköping",
-                "county": "östergötlands län",
-                "$districtName": "berga",
-                "last_accept": 61,
-                "$last_seen": "2024-04-24T07:51:56.194Z"
               },
               {
                 "id": 119172,
