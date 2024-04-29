@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-29T09:52:54.982Z",
+  "lastUpdatedAt": "2024-04-29T10:55:57.586Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -54433,6 +54433,19 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1867,
                 "$last_seen": "2024-03-01T13:34:56.570Z"
+              },
+              {
+                "id": 123313,
+                "rent": 9188,
+                "area": 55,
+                "street": "drivhusgatan",
+                "street_number": "6 b",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1894,
+                "$last_seen": "2024-04-29T09:52:54.982Z"
               }
             ],
             "falkenbergsgatan": [
@@ -82688,6 +82701,19 @@
                 "$districtName": "tynnered",
                 "last_accept": 1913,
                 "$last_seen": "2024-04-18T13:52:35.942Z"
+              },
+              {
+                "id": 125657,
+                "rent": 11174,
+                "area": 88,
+                "street": "briljantgatan",
+                "street_number": "18",
+                "city": "västra frölunda",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tynnered",
+                "last_accept": 712,
+                "$last_seen": "2024-04-29T09:52:54.982Z"
               }
             ],
             "safirgatan": [
@@ -103983,6 +104009,21 @@
                 "$districtName": "torn",
                 "last_accept": 131,
                 "$last_seen": "2024-04-24T13:57:24.357Z"
+              }
+            ],
+            "fjädervägen": [
+              {
+                "id": 125101,
+                "rent": 10547,
+                "area": 69,
+                "street": "fjädervägen",
+                "street_number": "4d",
+                "city": "lund",
+                "municipality": "lund",
+                "county": "skåne län",
+                "$districtName": "torn",
+                "last_accept": 15,
+                "$last_seen": "2024-04-29T09:52:54.982Z"
               }
             ]
           },
