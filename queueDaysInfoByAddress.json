@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-29T11:50:05.393Z",
+  "lastUpdatedAt": "2024-04-29T13:09:15.702Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -40296,6 +40296,19 @@
                 "$last_seen": "2024-03-21T10:48:00.353Z"
               },
               {
+                "id": 123185,
+                "rent": 9898,
+                "area": 55,
+                "street": "bangårdsgatan",
+                "street_number": "19",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs domkyrkodistrikt",
+                "last_accept": 1854,
+                "$last_seen": "2024-04-29T11:50:05.393Z"
+              },
+              {
                 "id": 123193,
                 "rent": 6686,
                 "area": 34,
@@ -56755,6 +56768,19 @@
                 "$districtName": "göteborgs vasa",
                 "last_accept": 1778,
                 "$last_seen": "2023-11-21T07:33:29.644Z"
+              },
+              {
+                "id": 122935,
+                "rent": 11353,
+                "area": 95,
+                "street": "burgårdsgatan",
+                "street_number": "13",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs vasa",
+                "last_accept": 2005,
+                "$last_seen": "2024-04-29T11:50:05.393Z"
               }
             ],
             "johannebergsgatan": [
@@ -74945,6 +74971,19 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1920,
                 "$last_seen": "2024-04-15T11:50:03.773Z"
+              },
+              {
+                "id": 123180,
+                "rent": 7960,
+                "area": 49,
+                "street": "runebergsgatan",
+                "street_number": "4",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1925,
+                "$last_seen": "2024-04-29T11:50:05.393Z"
               }
             ],
             "redbergsvägen": [
@@ -78443,6 +78482,19 @@
                 "$districtName": "bäckebol",
                 "last_accept": 443,
                 "$last_seen": "2024-04-02T06:49:28.512Z"
+              },
+              {
+                "id": 121135,
+                "rent": 7125,
+                "area": 28,
+                "street": "herr arnes gata",
+                "street_number": "1",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bäckebol",
+                "last_accept": 805,
+                "$last_seen": "2024-04-29T11:50:05.393Z"
               }
             ],
             "backadalen": [
@@ -96359,6 +96411,19 @@
                 "$districtName": "malmö sankt pauli",
                 "last_accept": 852,
                 "$last_seen": "2024-04-18T13:08:56.882Z"
+              },
+              {
+                "id": 124680,
+                "rent": 19134,
+                "area": 191,
+                "street": "södra förstadsgatan",
+                "street_number": "4a",
+                "city": "malmö",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "malmö sankt pauli",
+                "last_accept": 437,
+                "$last_seen": "2024-04-29T11:50:05.393Z"
               }
             ],
             "östra förstadsgatan": [
@@ -99501,6 +99566,19 @@
                 "$districtName": "slottsstaden",
                 "last_accept": 733,
                 "$last_seen": "2024-04-15T08:51:29.420Z"
+              },
+              {
+                "id": 124105,
+                "rent": 10539,
+                "area": 81,
+                "street": "västra ryttmästaregatan",
+                "street_number": "20",
+                "city": "malmö",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "slottsstaden",
+                "last_accept": 1728,
+                "$last_seen": "2024-04-29T11:50:05.393Z"
               },
               {
                 "id": 124330,
@@ -113062,6 +113140,19 @@
                 "$districtName": "linköpings sankt lars",
                 "last_accept": 3,
                 "$last_seen": "2024-04-22T06:57:21.330Z"
+              },
+              {
+                "id": 125566,
+                "rent": 5598,
+                "area": 37,
+                "street": "gamla tanneforsvägen",
+                "street_number": "22",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "linköpings sankt lars",
+                "last_accept": 79,
+                "$last_seen": "2024-04-29T11:50:05.393Z"
               }
             ],
             "linnégatan": [
