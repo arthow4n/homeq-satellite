@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-29T06:57:17.072Z",
+  "lastUpdatedAt": "2024-04-29T07:50:14.599Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -80300,6 +80300,19 @@
                 "$districtName": "askim",
                 "last_accept": 1,
                 "$last_seen": "2024-04-18T13:08:56.882Z"
+              },
+              {
+                "id": 123175,
+                "rent": 7778,
+                "area": 33,
+                "street": "sisjöbäckens väg",
+                "street_number": "24",
+                "city": "askim",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 462,
+                "$last_seen": "2024-04-29T06:57:17.072Z"
               }
             ],
             "kobbegården": [
@@ -90499,6 +90512,19 @@
                 "$last_seen": "2024-04-19T05:54:43.784Z"
               },
               {
+                "id": 123491,
+                "rent": 7923,
+                "area": 58,
+                "street": "oluff nilssonsväg",
+                "street_number": "4",
+                "city": "partille",
+                "municipality": "partille",
+                "county": "västra götalands län",
+                "$districtName": "partille",
+                "last_accept": 1295,
+                "$last_seen": "2024-04-29T06:57:17.072Z"
+              },
+              {
                 "id": 124393,
                 "rent": 13558,
                 "area": 112,
@@ -90510,6 +90536,19 @@
                 "$districtName": "partille",
                 "last_accept": 1416,
                 "$last_seen": "2024-04-29T05:57:23.034Z"
+              },
+              {
+                "id": 124942,
+                "rent": 7048,
+                "area": 48,
+                "street": "oluff nilssonsväg",
+                "street_number": "4",
+                "city": "partille",
+                "municipality": "partille",
+                "county": "västra götalands län",
+                "$districtName": "partille",
+                "last_accept": 397,
+                "$last_seen": "2024-04-29T06:57:17.072Z"
               },
               {
                 "id": 125059,
@@ -90536,6 +90575,21 @@
                 "$districtName": "partille",
                 "last_accept": 322,
                 "$last_seen": "2024-04-26T11:51:10.455Z"
+              }
+            ],
+            "oluff nilssons väg": [
+              {
+                "id": 124850,
+                "rent": 6802,
+                "area": 35,
+                "street": "oluff nilssons väg",
+                "street_number": "3 d",
+                "city": "partille",
+                "municipality": "partille",
+                "county": "västra götalands län",
+                "$districtName": "partille",
+                "last_accept": 397,
+                "$last_seen": "2024-04-29T06:57:17.072Z"
               }
             ]
           }
@@ -94075,6 +94129,21 @@
                 "$districtName": "limhamn",
                 "last_accept": 3,
                 "$last_seen": "2024-04-19T07:51:26.323Z"
+              }
+            ],
+            "prinsgatan": [
+              {
+                "id": 117210,
+                "rent": 10305,
+                "area": 86.4,
+                "street": "prinsgatan",
+                "street_number": "5",
+                "city": "malmö",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "limhamn",
+                "last_accept": 845,
+                "$last_seen": "2024-04-29T06:57:17.072Z"
               }
             ]
           },
@@ -112142,19 +112211,6 @@
                 "$districtName": "skäggetorp",
                 "last_accept": 121,
                 "$last_seen": "2024-04-18T10:59:24.877Z"
-              },
-              {
-                "id": 123870,
-                "rent": 7838,
-                "area": 68,
-                "street": "fogdegatan",
-                "street_number": "9",
-                "city": "linköping",
-                "municipality": "linköping",
-                "county": "östergötlands län",
-                "$districtName": "skäggetorp",
-                "last_accept": 433,
-                "$last_seen": "2024-04-26T07:51:26.753Z"
               }
             ],
             "väpnaregatan": [
@@ -112889,6 +112945,19 @@
                 "$districtName": "linköpings sankt lars",
                 "last_accept": 239,
                 "$last_seen": "2024-04-11T05:55:20.344Z"
+              },
+              {
+                "id": 125021,
+                "rent": 7924,
+                "area": 59,
+                "street": "humlegatan",
+                "street_number": "4 d",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "linköpings sankt lars",
+                "last_accept": 19,
+                "$last_seen": "2024-04-29T06:57:17.072Z"
               }
             ],
             "snickaregatan": [
