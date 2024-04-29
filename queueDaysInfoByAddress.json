@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-29T07:50:14.599Z",
+  "lastUpdatedAt": "2024-04-29T08:57:28.524Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -41822,6 +41822,19 @@
                 "$districtName": "västra frölunda",
                 "last_accept": 1777,
                 "$last_seen": "2024-04-22T08:57:31.628Z"
+              },
+              {
+                "id": 124681,
+                "rent": 8817,
+                "area": 53,
+                "street": "transistorgatan",
+                "street_number": "41",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "västra frölunda",
+                "last_accept": 1682,
+                "$last_seen": "2024-04-29T07:50:14.599Z"
               }
             ],
             "altplatsen": [
@@ -103746,6 +103759,19 @@
                 "$last_seen": "2024-04-22T15:52:01.347Z"
               },
               {
+                "id": 123016,
+                "rent": 7156,
+                "area": 40,
+                "street": "nordanväg",
+                "street_number": "3a",
+                "city": "lund",
+                "municipality": "lund",
+                "county": "skåne län",
+                "$districtName": "lunds helgeand",
+                "last_accept": 36,
+                "$last_seen": "2024-04-29T07:50:14.599Z"
+              },
+              {
                 "id": 125020,
                 "rent": 7786,
                 "area": 46,
@@ -111672,6 +111698,19 @@
                 "$districtName": "linköpings domkyrkodistrikt",
                 "last_accept": 1397,
                 "$last_seen": "2024-03-15T10:48:44.637Z"
+              },
+              {
+                "id": 124589,
+                "rent": 16082,
+                "area": 124,
+                "street": "apotekaregatan",
+                "street_number": "10a",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "linköpings domkyrkodistrikt",
+                "last_accept": 10,
+                "$last_seen": "2024-04-29T07:50:14.599Z"
               }
             ],
             "garnisonsvägen": [
@@ -113253,6 +113292,19 @@
                 "$districtName": "gamla uppsala",
                 "last_accept": 147,
                 "$last_seen": "2024-04-15T14:51:00.068Z"
+              },
+              {
+                "id": 122559,
+                "rent": 7096,
+                "area": 27.53,
+                "street": "gamla uppsalagatan",
+                "street_number": "108",
+                "city": "uppsala",
+                "municipality": "uppsala",
+                "county": "uppsala län",
+                "$districtName": "gamla uppsala",
+                "last_accept": 7,
+                "$last_seen": "2024-04-29T07:50:14.599Z"
               }
             ]
           },
