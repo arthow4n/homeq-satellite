@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-29T14:54:54.935Z",
+  "lastUpdatedAt": "2024-04-29T15:52:37.770Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -43299,6 +43299,19 @@
                 "$districtName": "lundby",
                 "last_accept": 595,
                 "$last_seen": "2024-04-29T10:55:57.586Z"
+              },
+              {
+                "id": 125549,
+                "rent": 10528,
+                "area": 55,
+                "street": "fyrklöversgatan",
+                "street_number": "19",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 223,
+                "$last_seen": "2024-04-29T14:54:54.935Z"
               }
             ],
             "ö keillersgatan": [
@@ -60505,6 +60518,19 @@
                 "$districtName": "askim",
                 "last_accept": 985,
                 "$last_seen": "2024-04-29T13:09:15.702Z"
+              },
+              {
+                "id": 124934,
+                "rent": 11623,
+                "area": 80,
+                "street": "kobbegården",
+                "street_number": "33",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 1185,
+                "$last_seen": "2024-04-29T14:54:54.935Z"
               }
             ],
             "nergårdsvägen": [
@@ -64280,6 +64306,19 @@
                 "$last_seen": "2024-04-08T15:47:54.889Z"
               },
               {
+                "id": 124792,
+                "rent": 8839,
+                "area": 62,
+                "street": "pennygången",
+                "street_number": "4",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 948,
+                "$last_seen": "2024-04-29T14:54:54.935Z"
+              },
+              {
                 "id": 124796,
                 "rent": 11449,
                 "area": 83,
@@ -64291,6 +64330,19 @@
                 "$districtName": "högsbo",
                 "last_accept": 0,
                 "$last_seen": "2024-04-17T13:53:28.946Z"
+              },
+              {
+                "id": 124800,
+                "rent": 9329,
+                "area": 63,
+                "street": "pennygången",
+                "street_number": "78",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 1339,
+                "$last_seen": "2024-04-29T14:54:54.935Z"
               },
               {
                 "id": 125495,
@@ -104060,6 +104112,19 @@
                 "$districtName": "lunds helgeand",
                 "last_accept": 42,
                 "$last_seen": "2024-03-28T19:43:39.744Z"
+              },
+              {
+                "id": 125786,
+                "rent": 12708,
+                "area": 89,
+                "street": "kastanjegatan",
+                "street_number": "23a",
+                "city": "lund",
+                "municipality": "lund",
+                "county": "skåne län",
+                "$districtName": "lunds helgeand",
+                "last_accept": 278,
+                "$last_seen": "2024-04-29T14:54:54.935Z"
               }
             ]
           },
