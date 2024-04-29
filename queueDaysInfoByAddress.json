@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-29T13:51:37.769Z",
+  "lastUpdatedAt": "2024-04-29T14:54:54.935Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -34126,6 +34126,19 @@
                 "$districtName": "biskopsgården",
                 "last_accept": 1420,
                 "$last_seen": "2024-04-25T13:02:38.164Z"
+              },
+              {
+                "id": 124150,
+                "rent": 6530,
+                "area": 41,
+                "street": "långströmsgatan",
+                "street_number": "34c",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "biskopsgården",
+                "last_accept": 954,
+                "$last_seen": "2024-04-29T13:51:37.769Z"
               }
             ],
             "temperaturgatan": [
@@ -49139,6 +49152,19 @@
                 "$districtName": "kortedala",
                 "last_accept": 1005,
                 "$last_seen": "2024-04-24T08:57:14.162Z"
+              },
+              {
+                "id": 126314,
+                "rent": 9180,
+                "area": 69,
+                "street": "nymånegatan",
+                "street_number": "33",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "kortedala",
+                "last_accept": 0,
+                "$last_seen": "2024-04-29T13:51:37.769Z"
               }
             ],
             "aprilgatan": [
@@ -89186,6 +89212,19 @@
                 "$districtName": "fässberg",
                 "last_accept": 1752,
                 "$last_seen": "2024-04-22T10:57:59.339Z"
+              },
+              {
+                "id": 124099,
+                "rent": 7450,
+                "area": 54,
+                "street": "örngatan",
+                "street_number": "1e",
+                "city": "mölndal",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 1843,
+                "$last_seen": "2024-04-29T13:51:37.769Z"
               }
             ],
             "fredåsgatan": [
