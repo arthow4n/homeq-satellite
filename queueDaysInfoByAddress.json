@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-29T10:55:57.586Z",
+  "lastUpdatedAt": "2024-04-29T11:50:05.393Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -43260,6 +43260,19 @@
                 "$districtName": "lundby",
                 "last_accept": 550,
                 "$last_seen": "2024-04-25T13:51:51.958Z"
+              },
+              {
+                "id": 125527,
+                "rent": 10663,
+                "area": 55,
+                "street": "fyrklöversgatan",
+                "street_number": "15",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 595,
+                "$last_seen": "2024-04-29T10:55:57.586Z"
               }
             ],
             "ö keillersgatan": [
@@ -101264,6 +101277,19 @@
                 "$last_seen": "2024-03-28T07:44:28.561Z"
               },
               {
+                "id": 122018,
+                "rent": 7477,
+                "area": 36,
+                "street": "blåsebergavägen",
+                "street_number": "8",
+                "city": "limhamn",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "limhamn",
+                "last_accept": 299,
+                "$last_seen": "2024-04-29T10:55:57.586Z"
+              },
+              {
                 "id": 122047,
                 "rent": 12102,
                 "area": 69,
@@ -103770,6 +103796,19 @@
                 "$districtName": "lunds helgeand",
                 "last_accept": 98,
                 "$last_seen": "2024-03-19T11:43:42.014Z"
+              },
+              {
+                "id": 124202,
+                "rent": 10987,
+                "area": 69,
+                "street": "källby ängaväg",
+                "street_number": "10a",
+                "city": "lund",
+                "municipality": "lund",
+                "county": "skåne län",
+                "$districtName": "lunds helgeand",
+                "last_accept": 646,
+                "$last_seen": "2024-04-29T10:55:57.586Z"
               }
             ],
             "nordanväg": [
@@ -112764,6 +112803,19 @@
                 "$districtName": "landeryd",
                 "last_accept": 111,
                 "$last_seen": "2024-04-08T13:49:14.680Z"
+              },
+              {
+                "id": 124203,
+                "rent": 4442,
+                "area": 48,
+                "street": "ekholmens centrum",
+                "street_number": "5",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "landeryd",
+                "last_accept": 132,
+                "$last_seen": "2024-04-29T10:55:57.586Z"
               }
             ],
             "skogsvallsgatan": [
