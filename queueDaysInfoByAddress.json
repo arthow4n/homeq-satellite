@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-29T13:09:15.702Z",
+  "lastUpdatedAt": "2024-04-29T13:51:37.769Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -60466,6 +60466,19 @@
                 "$districtName": "askim",
                 "last_accept": 554,
                 "$last_seen": "2024-04-17T15:01:56.093Z"
+              },
+              {
+                "id": 124830,
+                "rent": 11623,
+                "area": 80,
+                "street": "kobbegården",
+                "street_number": "59",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 985,
+                "$last_seen": "2024-04-29T13:09:15.702Z"
               }
             ],
             "nergårdsvägen": [
@@ -62950,6 +62963,19 @@
                 "$districtName": "högsbo",
                 "last_accept": 1900,
                 "$last_seen": "2024-04-18T07:51:24.719Z"
+              },
+              {
+                "id": 124230,
+                "rent": 8478,
+                "area": 85,
+                "street": "marklandsgatan",
+                "street_number": "25",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 1990,
+                "$last_seen": "2024-04-29T13:09:15.702Z"
               }
             ],
             "pennygången": [
@@ -81094,6 +81120,19 @@
                 "$districtName": "tynnered",
                 "last_accept": 635,
                 "$last_seen": "2024-04-09T06:53:45.528Z"
+              },
+              {
+                "id": 125652,
+                "rent": 9312,
+                "area": 70,
+                "street": "smaragdgatan",
+                "street_number": "7",
+                "city": "västra frölunda",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tynnered",
+                "last_accept": 768,
+                "$last_seen": "2024-04-29T13:09:15.702Z"
               }
             ],
             "smyckegatan": [
@@ -113298,6 +113337,21 @@
                 "last_accept": 19,
                 "$last_seen": "2024-04-24T14:58:16.690Z"
               }
+            ],
+            "repslagaregatan": [
+              {
+                "id": 124833,
+                "rent": 9327,
+                "area": 71,
+                "street": "repslagaregatan",
+                "street_number": "32a",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "linköpings sankt lars",
+                "last_accept": 1104,
+                "$last_seen": "2024-04-29T13:09:15.702Z"
+              }
             ]
           },
           "rystad": {
@@ -113363,6 +113417,19 @@
         "uppsala": {
           "uppsala helga trefaldighet": {
             "honungsgatan": [
+              {
+                "id": 117443,
+                "rent": 11451,
+                "area": 55.3,
+                "street": "honungsgatan",
+                "street_number": "36",
+                "city": "uppsala",
+                "municipality": "uppsala",
+                "county": "uppsala län",
+                "$districtName": "uppsala helga trefaldighet",
+                "last_accept": 666,
+                "$last_seen": "2024-04-29T13:09:15.702Z"
+              },
               {
                 "id": 117444,
                 "rent": 7690,
