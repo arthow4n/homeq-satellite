@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-29T15:52:37.770Z",
+  "lastUpdatedAt": "2024-04-29T16:56:47.171Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -64306,6 +64306,19 @@
                 "$last_seen": "2024-04-08T15:47:54.889Z"
               },
               {
+                "id": 124191,
+                "rent": 8730,
+                "area": 62,
+                "street": "pennygången",
+                "street_number": "5",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 1406,
+                "$last_seen": "2024-04-29T15:52:37.770Z"
+              },
+              {
                 "id": 124792,
                 "rent": 8839,
                 "area": 62,
@@ -64774,6 +64787,19 @@
                 "$districtName": "högsbo",
                 "last_accept": 949,
                 "$last_seen": "2024-04-18T06:57:49.906Z"
+              },
+              {
+                "id": 122609,
+                "rent": 7325,
+                "area": 35,
+                "street": "skillingmyntsgatan",
+                "street_number": "8",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 976,
+                "$last_seen": "2024-04-29T15:52:37.770Z"
               }
             ],
             "sjupundsgatan": [
