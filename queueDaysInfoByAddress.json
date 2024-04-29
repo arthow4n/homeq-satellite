@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-29T16:56:47.171Z",
+  "lastUpdatedAt": "2024-04-29T17:51:41.600Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -93515,6 +93515,21 @@
                 "$districtName": "möllevången",
                 "last_accept": 912,
                 "$last_seen": "2024-04-23T09:50:15.705Z"
+              }
+            ],
+            "södervärnsgatan": [
+              {
+                "id": 122870,
+                "rent": 17737,
+                "area": 131,
+                "street": "södervärnsgatan",
+                "street_number": "11",
+                "city": "malmö",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "möllevången",
+                "last_accept": 14,
+                "$last_seen": "2024-04-29T16:56:47.171Z"
               }
             ],
             "simrishamnsgatan": [
