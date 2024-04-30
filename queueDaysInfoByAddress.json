@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-30T07:49:54.146Z",
+  "lastUpdatedAt": "2024-04-30T08:55:00.719Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -34650,6 +34650,19 @@
                 "$last_seen": "2024-03-21T11:44:38.111Z"
               },
               {
+                "id": 120505,
+                "rent": 8985,
+                "area": 64,
+                "street": "temperaturgatan",
+                "street_number": "5",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "biskopsgården",
+                "last_accept": 529,
+                "$last_seen": "2024-04-30T07:49:54.146Z"
+              },
+              {
                 "id": 122699,
                 "rent": 5983,
                 "area": 35,
@@ -34892,6 +34905,19 @@
                 "$districtName": "biskopsgården",
                 "last_accept": 1120,
                 "$last_seen": "2024-04-24T10:58:50.923Z"
+              },
+              {
+                "id": 125077,
+                "rent": 7352,
+                "area": 58,
+                "street": "blidvädersgatan",
+                "street_number": "52",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "biskopsgården",
+                "last_accept": 1413,
+                "$last_seen": "2024-04-30T07:49:54.146Z"
               }
             ],
             "värmegatan": [
@@ -49557,6 +49583,19 @@
                 "$districtName": "kortedala",
                 "last_accept": 1387,
                 "$last_seen": "2024-04-23T11:49:44.687Z"
+              },
+              {
+                "id": 124801,
+                "rent": 5647,
+                "area": 51.5,
+                "street": "aprilgatan",
+                "street_number": "66",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "kortedala",
+                "last_accept": 1240,
+                "$last_seen": "2024-04-30T07:49:54.146Z"
               }
             ],
             "februarigatan": [
@@ -49806,6 +49845,19 @@
                 "$districtName": "kortedala",
                 "last_accept": 1501,
                 "$last_seen": "2024-04-17T11:50:49.724Z"
+              },
+              {
+                "id": 125092,
+                "rent": 5302,
+                "area": 51.5,
+                "street": "februarigatan",
+                "street_number": "15",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "kortedala",
+                "last_accept": 1381,
+                "$last_seen": "2024-04-30T07:49:54.146Z"
               }
             ],
             "allhelgonagatan": [
@@ -63028,6 +63080,19 @@
                 "$districtName": "högsbo",
                 "last_accept": 1900,
                 "$last_seen": "2024-04-18T07:51:24.719Z"
+              },
+              {
+                "id": 122914,
+                "rent": 6329,
+                "area": 61,
+                "street": "marklandsgatan",
+                "street_number": "31",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 1938,
+                "$last_seen": "2024-04-30T07:49:54.146Z"
               },
               {
                 "id": 124230,
@@ -88286,6 +88351,19 @@
                 "$last_seen": "2024-04-24T13:16:20.012Z"
               },
               {
+                "id": 121288,
+                "rent": 6708,
+                "area": 63,
+                "street": "våmmedalsvägen",
+                "street_number": "128",
+                "city": "kållered",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "kållered",
+                "last_accept": 1630,
+                "$last_seen": "2024-04-30T07:49:54.146Z"
+              },
+              {
                 "id": 123202,
                 "rent": 8019,
                 "area": 76,
@@ -89775,6 +89853,19 @@
                 "$districtName": "fässberg",
                 "last_accept": 1914,
                 "$last_seen": "2024-04-16T09:50:07.220Z"
+              },
+              {
+                "id": 123829,
+                "rent": 8420,
+                "area": 52,
+                "street": "berghemsgatan",
+                "street_number": "26",
+                "city": "mölndal",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 1926,
+                "$last_seen": "2024-04-30T07:49:54.146Z"
               }
             ],
             "marielundsgatan": [
@@ -111630,19 +111721,6 @@
                 "$last_seen": "2024-04-05T10:53:51.620Z"
               },
               {
-                "id": 116441,
-                "rent": 7205,
-                "area": 58.5,
-                "street": "konstruktörsgatan",
-                "street_number": "84",
-                "city": "linköping",
-                "municipality": "linköping",
-                "county": "östergötlands län",
-                "$districtName": "berga",
-                "last_accept": 1,
-                "$last_seen": "2024-04-26T10:58:33.567Z"
-              },
-              {
                 "id": 116442,
                 "rent": 8858,
                 "area": 78,
@@ -111680,6 +111758,19 @@
                 "$districtName": "berga",
                 "last_accept": 1154,
                 "$last_seen": "2024-03-18T13:44:22.056Z"
+              },
+              {
+                "id": 117568,
+                "rent": 8858,
+                "area": 78,
+                "street": "konstruktörsgatan",
+                "street_number": "48",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "berga",
+                "last_accept": 23,
+                "$last_seen": "2024-04-30T07:49:54.146Z"
               },
               {
                 "id": 117767,
@@ -112226,6 +112317,19 @@
                 "$districtName": "linköpings domkyrkodistrikt",
                 "last_accept": 19,
                 "$last_seen": "2024-04-22T11:50:54.594Z"
+              },
+              {
+                "id": 122716,
+                "rent": 13618,
+                "area": 83,
+                "street": "garnisonsvägen",
+                "street_number": "43",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "linköpings domkyrkodistrikt",
+                "last_accept": 15,
+                "$last_seen": "2024-04-30T07:49:54.146Z"
               },
               {
                 "id": 123943,
@@ -113180,6 +113284,19 @@
                 "$districtName": "landeryd",
                 "last_accept": 75,
                 "$last_seen": "2024-04-08T13:49:14.680Z"
+              },
+              {
+                "id": 124845,
+                "rent": 6020,
+                "area": 67,
+                "street": "järdalavägen",
+                "street_number": "40b",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "landeryd",
+                "last_accept": 301,
+                "$last_seen": "2024-04-30T07:49:54.146Z"
               }
             ],
             "ekholmens centrum": [
