@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-30T04:55:19.694Z",
+  "lastUpdatedAt": "2024-04-30T05:53:28.141Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -41582,19 +41582,6 @@
                 "$districtName": "västra frölunda",
                 "last_accept": 1004,
                 "$last_seen": "2023-07-03T10:48:56.709Z"
-              },
-              {
-                "id": 122939,
-                "rent": 11485,
-                "area": 72,
-                "street": "trumgatan",
-                "street_number": "5",
-                "city": "göteborg",
-                "municipality": "göteborg",
-                "county": "västra götalands län",
-                "$districtName": "västra frölunda",
-                "last_accept": 967,
-                "$last_seen": "2024-04-19T11:51:01.475Z"
               }
             ],
             "cymbalgatan": [
