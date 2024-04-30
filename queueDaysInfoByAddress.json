@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-30T10:55:07.572Z",
+  "lastUpdatedAt": "2024-04-30T11:49:10.721Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -54096,6 +54096,19 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1886,
                 "$last_seen": "2024-03-08T09:33:53.984Z"
+              },
+              {
+                "id": 124926,
+                "rent": 10100,
+                "area": 70,
+                "street": "kristinehöjdsgatan",
+                "street_number": "12",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1981,
+                "$last_seen": "2024-04-30T10:55:07.572Z"
               }
             ],
             "richertsgatan": [
@@ -56995,6 +57008,21 @@
                 "$districtName": "göteborgs vasa",
                 "last_accept": 1926,
                 "$last_seen": "2024-04-17T13:53:28.946Z"
+              }
+            ],
+            "kungsportsavenyen": [
+              {
+                "id": 122459,
+                "rent": 10776,
+                "area": 63,
+                "street": "kungsportsavenyen",
+                "street_number": "29",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs vasa",
+                "last_accept": 1940,
+                "$last_seen": "2024-04-30T10:55:07.572Z"
               }
             ]
           },
@@ -101864,6 +101892,19 @@
                 "$last_seen": "2024-04-19T09:52:23.416Z"
               },
               {
+                "id": 122053,
+                "rent": 9181,
+                "area": 45,
+                "street": "blåsebergavägen",
+                "street_number": "12",
+                "city": "limhamn",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "limhamn",
+                "last_accept": 4,
+                "$last_seen": "2024-04-30T10:55:07.572Z"
+              },
+              {
                 "id": 122057,
                 "rent": 6191,
                 "area": 24,
@@ -113107,6 +113148,19 @@
                 "$districtName": "skäggetorp",
                 "last_accept": 560,
                 "$last_seen": "2024-04-09T08:53:03.518Z"
+              },
+              {
+                "id": 123519,
+                "rent": 6286,
+                "area": 41,
+                "street": "skäggetorp centrum",
+                "street_number": "8",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "skäggetorp",
+                "last_accept": 17,
+                "$last_seen": "2024-04-30T10:55:07.572Z"
               },
               {
                 "id": 124347,
