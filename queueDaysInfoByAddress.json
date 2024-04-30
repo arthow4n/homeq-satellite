@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-30T05:53:28.141Z",
+  "lastUpdatedAt": "2024-04-30T06:56:58.715Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -70098,6 +70098,19 @@
                 "$districtName": "örgryte",
                 "last_accept": 1417,
                 "$last_seen": "2024-04-11T11:51:13.734Z"
+              },
+              {
+                "id": 125278,
+                "rent": 9601,
+                "area": 49,
+                "street": "gräddgatan",
+                "street_number": "5",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1138,
+                "$last_seen": "2024-04-30T05:53:28.141Z"
               }
             ],
             "filmjölksgatan": [
@@ -77646,6 +77659,19 @@
                 "$districtName": "göteborgs oscar fredrik",
                 "last_accept": 1896,
                 "$last_seen": "2024-03-18T10:49:12.903Z"
+              },
+              {
+                "id": 124682,
+                "rent": 12100,
+                "area": 65,
+                "street": "jungmansgatan",
+                "street_number": "33b",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs oscar fredrik",
+                "last_accept": 1940,
+                "$last_seen": "2024-04-30T05:53:28.141Z"
               }
             ],
             "kryssdäcket": [
@@ -82435,6 +82461,19 @@
                 "$districtName": "tynnered",
                 "last_accept": 1583,
                 "$last_seen": "2024-04-25T05:54:50.958Z"
+              },
+              {
+                "id": 125642,
+                "rent": 10001,
+                "area": 81,
+                "street": "smyckegatan",
+                "street_number": "61",
+                "city": "västra frölunda",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tynnered",
+                "last_accept": 1468,
+                "$last_seen": "2024-04-30T05:53:28.141Z"
               }
             ],
             "björkhöjdsgatan": [
@@ -97864,6 +97903,19 @@
                 "$districtName": "hyllie",
                 "last_accept": 295,
                 "$last_seen": "2024-04-23T09:50:15.705Z"
+              },
+              {
+                "id": 125761,
+                "rent": 12955,
+                "area": 73,
+                "street": "allétorget",
+                "street_number": "9",
+                "city": "malmö",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "hyllie",
+                "last_accept": 83,
+                "$last_seen": "2024-04-30T05:53:28.141Z"
               }
             ],
             "bures gata": [
@@ -100595,6 +100647,19 @@
                 "$districtName": "limhamn",
                 "last_accept": 61,
                 "$last_seen": "2024-04-29T08:57:28.524Z"
+              },
+              {
+                "id": 124373,
+                "rent": 10434,
+                "area": 56,
+                "street": "högatan",
+                "street_number": "8 a",
+                "city": "limhamn",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "limhamn",
+                "last_accept": 45,
+                "$last_seen": "2024-04-30T05:53:28.141Z"
               }
             ],
             "höbalsgatan": [
@@ -104415,19 +104480,6 @@
                 "$districtName": "dalby",
                 "last_accept": 0,
                 "$last_seen": "2024-04-05T07:47:46.656Z"
-              },
-              {
-                "id": 123506,
-                "rent": 6490,
-                "area": 35,
-                "street": "tresädesgränden",
-                "street_number": "8b",
-                "city": "dalby",
-                "municipality": "lund",
-                "county": "skåne län",
-                "$districtName": "dalby",
-                "last_accept": 430,
-                "$last_seen": "2024-04-18T05:56:13.005Z"
               }
             ]
           }
@@ -111645,6 +111697,19 @@
                 "$districtName": "berga",
                 "last_accept": 30,
                 "$last_seen": "2024-04-12T08:56:10.099Z"
+              },
+              {
+                "id": 123832,
+                "rent": 7514,
+                "area": 55,
+                "street": "prästbolsgatan",
+                "street_number": "40 b",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "berga",
+                "last_accept": 29,
+                "$last_seen": "2024-04-30T05:53:28.141Z"
               },
               {
                 "id": 125042,
