@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-30T13:07:15.285Z",
+  "lastUpdatedAt": "2024-04-30T13:48:34.518Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -98624,6 +98624,19 @@
                 "$districtName": "hyllie",
                 "last_accept": 161,
                 "$last_seen": "2024-04-16T13:08:44.057Z"
+              },
+              {
+                "id": 123820,
+                "rent": 8626,
+                "area": 41,
+                "street": "sagas gränd",
+                "street_number": "5",
+                "city": "malmö",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "hyllie",
+                "last_accept": 330,
+                "$last_seen": "2024-04-30T13:07:15.285Z"
               }
             ],
             "hyllie vattenparksgata": [
@@ -112807,6 +112820,19 @@
                 "$last_seen": "2024-03-15T10:48:44.637Z"
               },
               {
+                "id": 119352,
+                "rent": 5893,
+                "area": 33,
+                "street": "ada arwedssons gata",
+                "street_number": "5",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "slaka",
+                "last_accept": 433,
+                "$last_seen": "2024-04-30T13:07:15.285Z"
+              },
+              {
                 "id": 120393,
                 "rent": 5974,
                 "area": 34,
@@ -113293,6 +113319,19 @@
                 "$districtName": "skäggetorp",
                 "last_accept": 16,
                 "$last_seen": "2024-04-29T05:57:23.034Z"
+              },
+              {
+                "id": 125663,
+                "rent": 7759,
+                "area": 90,
+                "street": "skäggetorp centrum",
+                "street_number": "28",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "skäggetorp",
+                "last_accept": 10,
+                "$last_seen": "2024-04-30T13:07:15.285Z"
               }
             ]
           },
