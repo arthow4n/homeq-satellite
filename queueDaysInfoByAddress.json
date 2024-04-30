@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-30T14:51:10.154Z",
+  "lastUpdatedAt": "2024-04-30T15:48:18.992Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -40530,6 +40530,19 @@
                 "$districtName": "göteborgs domkyrkodistrikt",
                 "last_accept": 1862,
                 "$last_seen": "2024-04-23T11:49:44.687Z"
+              },
+              {
+                "id": 124791,
+                "rent": 11284,
+                "area": 72,
+                "street": "folkungagatan",
+                "street_number": "10",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs domkyrkodistrikt",
+                "last_accept": 1935,
+                "$last_seen": "2024-04-30T14:51:10.154Z"
               }
             ],
             "odinsgatan": [
@@ -40898,6 +40911,19 @@
                 "$districtName": "göteborgs domkyrkodistrikt",
                 "last_accept": 1924,
                 "$last_seen": "2024-04-23T11:49:44.687Z"
+              },
+              {
+                "id": 124828,
+                "rent": 9174,
+                "area": 53,
+                "street": "stampgatan",
+                "street_number": "38",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs domkyrkodistrikt",
+                "last_accept": 1897,
+                "$last_seen": "2024-04-30T14:51:10.154Z"
               }
             ],
             "kungsportsavenyn": [
@@ -80155,6 +80181,19 @@
                 "$districtName": "brunnsbo",
                 "last_accept": 1351,
                 "$last_seen": "2024-03-21T15:45:30.618Z"
+              },
+              {
+                "id": 124834,
+                "rent": 5803,
+                "area": 38,
+                "street": "poesigatan",
+                "street_number": "4",
+                "city": "hisings backa",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brunnsbo",
+                "last_accept": 1241,
+                "$last_seen": "2024-04-30T14:51:10.154Z"
               }
             ]
           }
