@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-04-30T13:48:34.518Z",
+  "lastUpdatedAt": "2024-04-30T14:51:10.154Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -93626,6 +93626,19 @@
                 "$last_seen": "2024-01-11T07:36:59.122Z"
               },
               {
+                "id": 119231,
+                "rent": 10378,
+                "area": 69,
+                "street": "sigtunagatan",
+                "street_number": "4 a",
+                "city": "malmö",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "möllevången",
+                "last_accept": 83,
+                "$last_seen": "2024-04-30T13:48:34.518Z"
+              },
+              {
                 "id": 122687,
                 "rent": 6532,
                 "area": 50,
@@ -97067,6 +97080,19 @@
                 "$districtName": "malmö sankt pauli",
                 "last_accept": 892,
                 "$last_seen": "2024-01-26T10:40:06.166Z"
+              },
+              {
+                "id": 124679,
+                "rent": 21575,
+                "area": 169,
+                "street": "östra förstadsgatan",
+                "street_number": "26",
+                "city": "malmö",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "malmö sankt pauli",
+                "last_accept": 18,
+                "$last_seen": "2024-04-30T13:48:34.518Z"
               }
             ],
             "fredriksbergsgatan": [
@@ -97147,6 +97173,19 @@
                 "$districtName": "malmö sankt pauli",
                 "last_accept": 253,
                 "$last_seen": "2024-04-30T11:49:10.721Z"
+              },
+              {
+                "id": 124929,
+                "rent": 10268,
+                "area": 64,
+                "street": "fredriksbergsgatan",
+                "street_number": "12",
+                "city": "malmö",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "malmö sankt pauli",
+                "last_accept": 326,
+                "$last_seen": "2024-04-30T13:48:34.518Z"
               }
             ],
             "drottninggatan": [
