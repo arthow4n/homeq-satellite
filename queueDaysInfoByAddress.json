@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-05-01T07:50:23.996Z",
+  "lastUpdatedAt": "2024-05-01T08:56:48.106Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -108509,19 +108509,6 @@
                 "$last_seen": "2024-04-25T11:52:02.983Z"
               },
               {
-                "id": 125616,
-                "rent": 6480,
-                "area": 21,
-                "street": "fyrspannsgatan",
-                "street_number": "158",
-                "city": "hässelby",
-                "municipality": "stockholm",
-                "county": "stockholms län",
-                "$districtName": "hässelby",
-                "last_accept": 4,
-                "$last_seen": "2024-04-28T23:50:54.409Z"
-              },
-              {
                 "id": 125617,
                 "rent": 8719,
                 "area": 34,
@@ -108572,6 +108559,19 @@
                 "$districtName": "hässelby",
                 "last_accept": 1,
                 "$last_seen": "2024-04-26T11:51:10.455Z"
+              },
+              {
+                "id": 126154,
+                "rent": 8719,
+                "area": 34,
+                "street": "fyrspannsgatan",
+                "street_number": "158",
+                "city": "hässelby",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "hässelby",
+                "last_accept": 225,
+                "$last_seen": "2024-05-01T07:50:23.996Z"
               }
             ]
           }
