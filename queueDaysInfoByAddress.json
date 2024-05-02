@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-05-02T08:55:02.334Z",
+  "lastUpdatedAt": "2024-05-02T09:49:38.168Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -102508,6 +102508,19 @@
                 "$districtName": "limhamn",
                 "last_accept": 1139,
                 "$last_seen": "2024-02-19T07:34:46.819Z"
+              },
+              {
+                "id": 122288,
+                "rent": 10113,
+                "area": 85,
+                "street": "östra ansgarigatan",
+                "street_number": "96",
+                "city": "limhamn",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "limhamn",
+                "last_accept": 1303,
+                "$last_seen": "2024-05-02T08:55:02.334Z"
               }
             ],
             "högerudsgatan": [
@@ -104625,6 +104638,19 @@
           "lunds helgeand": {
             "källby ängaväg": [
               {
+                "id": 114704,
+                "rent": 9258,
+                "area": 58.5,
+                "street": "källby ängaväg",
+                "street_number": "6a",
+                "city": "lund",
+                "municipality": "lund",
+                "county": "skåne län",
+                "$districtName": "lunds helgeand",
+                "last_accept": 339,
+                "$last_seen": "2024-05-02T08:55:02.334Z"
+              },
+              {
                 "id": 115106,
                 "rent": 8898,
                 "area": 55.5,
@@ -106484,6 +106510,19 @@
                 "$districtName": "vantör",
                 "last_accept": 1912,
                 "$last_seen": "2024-03-01T10:39:00.176Z"
+              },
+              {
+                "id": 121609,
+                "rent": 11136,
+                "area": 77,
+                "street": "kilsmogatan",
+                "street_number": "5",
+                "city": "bandhagen",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 1846,
+                "$last_seen": "2024-05-02T08:55:02.334Z"
               },
               {
                 "id": 121760,
@@ -114232,6 +114271,21 @@
                 "$districtName": "linköpings sankt lars",
                 "last_accept": 1104,
                 "$last_seen": "2024-04-29T13:09:15.702Z"
+              }
+            ],
+            "arbetaregatan": [
+              {
+                "id": 126026,
+                "rent": 7661,
+                "area": 74,
+                "street": "arbetaregatan",
+                "street_number": "20a",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "linköpings sankt lars",
+                "last_accept": 975,
+                "$last_seen": "2024-05-02T08:55:02.334Z"
               }
             ]
           },
