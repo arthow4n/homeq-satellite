@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-05-02T16:57:03.262Z",
+  "lastUpdatedAt": "2024-05-02T17:53:28.801Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -92918,6 +92918,19 @@
                 "$districtName": "malmö sankt petri",
                 "last_accept": 1061,
                 "$last_seen": "2024-01-05T09:35:43.922Z"
+              },
+              {
+                "id": 125787,
+                "rent": 9924,
+                "area": 51,
+                "street": "maribogatan",
+                "street_number": "3",
+                "city": "malmö",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "malmö sankt petri",
+                "last_accept": 1449,
+                "$last_seen": "2024-05-02T16:57:03.262Z"
               }
             ],
             "stormgatan": [
@@ -114432,6 +114445,19 @@
                 "$districtName": "linköpings sankt lars",
                 "last_accept": 0,
                 "$last_seen": "2024-04-07T13:52:49.814Z"
+              },
+              {
+                "id": 123024,
+                "rent": 6727,
+                "area": 37,
+                "street": "skördegatan",
+                "street_number": "9",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "linköpings sankt lars",
+                "last_accept": 10,
+                "$last_seen": "2024-05-02T16:57:03.262Z"
               }
             ],
             "rundelsgatan": [
