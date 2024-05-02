@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-05-02T05:53:37.818Z",
+  "lastUpdatedAt": "2024-05-02T06:54:52.386Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -45076,19 +45076,6 @@
                 "$districtName": "lundby",
                 "last_accept": 1365,
                 "$last_seen": "2023-12-18T11:34:36.940Z"
-              },
-              {
-                "id": 125284,
-                "rent": 4146,
-                "area": 24,
-                "street": "pilegårdsgatan",
-                "street_number": "2",
-                "city": "göteborg",
-                "municipality": "göteborg",
-                "county": "västra götalands län",
-                "$districtName": "lundby",
-                "last_accept": 393,
-                "$last_seen": "2024-04-26T07:51:26.753Z"
               }
             ],
             "prebendegatan": [
@@ -48661,6 +48648,21 @@
                 "$districtName": "bergsjön",
                 "last_accept": 761,
                 "$last_seen": "2024-03-20T06:50:23.411Z"
+              }
+            ],
+            "kometgatan": [
+              {
+                "id": 124167,
+                "rent": 7604,
+                "area": 83,
+                "street": "kometgatan",
+                "street_number": "5",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bergsjön",
+                "last_accept": 1760,
+                "$last_seen": "2024-05-02T05:53:37.818Z"
               }
             ],
             "meteorgatan": [
@@ -104548,6 +104550,19 @@
                 "$districtName": "östra torn",
                 "last_accept": 1131,
                 "$last_seen": "2024-04-23T09:50:15.705Z"
+              },
+              {
+                "id": 126112,
+                "rent": 9658,
+                "area": 55,
+                "street": "brunnshögsgatan",
+                "street_number": "32",
+                "city": "lund",
+                "municipality": "lund",
+                "county": "skåne län",
+                "$districtName": "östra torn",
+                "last_accept": 934,
+                "$last_seen": "2024-05-02T05:53:37.818Z"
               }
             ],
             "rätvinkelgatan": [
