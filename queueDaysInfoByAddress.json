@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-05-02T06:54:52.386Z",
+  "lastUpdatedAt": "2024-05-02T07:48:56.889Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -93304,6 +93304,19 @@
                 "$districtName": "husie",
                 "last_accept": 17,
                 "$last_seen": "2024-04-02T07:44:42.459Z"
+              },
+              {
+                "id": 121023,
+                "rent": 9896,
+                "area": 66,
+                "street": "lönnebergagatan",
+                "street_number": "2",
+                "city": "malmö",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "husie",
+                "last_accept": 32,
+                "$last_seen": "2024-05-02T06:54:52.386Z"
               }
             ]
           },
@@ -104305,6 +104318,21 @@
                 "last_accept": 35,
                 "$last_seen": "2024-04-30T11:49:10.721Z"
               }
+            ],
+            "spiggans gata": [
+              {
+                "id": 124668,
+                "rent": 12015,
+                "area": 68.7,
+                "street": "spiggans gata",
+                "street_number": "4",
+                "city": "malmö",
+                "municipality": "lund",
+                "county": "skåne län",
+                "$districtName": "veberöd",
+                "last_accept": 114,
+                "$last_seen": "2024-05-02T06:54:52.386Z"
+              }
             ]
           }
         },
@@ -112206,6 +112234,19 @@
                 "$districtName": "berga",
                 "last_accept": 8,
                 "$last_seen": "2024-03-25T11:44:43.081Z"
+              },
+              {
+                "id": 122275,
+                "rent": 11896,
+                "area": 83,
+                "street": "ridderstads gata",
+                "street_number": "36",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "berga",
+                "last_accept": 25,
+                "$last_seen": "2024-05-02T05:53:37.818Z"
               }
             ],
             "prästbolsgatan": [
@@ -113982,6 +114023,19 @@
                 "$last_seen": "2024-04-22T06:57:21.330Z"
               },
               {
+                "id": 125428,
+                "rent": 11130,
+                "area": 75,
+                "street": "gamla tanneforsvägen",
+                "street_number": "90",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "linköpings sankt lars",
+                "last_accept": 28,
+                "$last_seen": "2024-05-02T06:54:52.386Z"
+              },
+              {
                 "id": 125566,
                 "rent": 5598,
                 "area": 37,
@@ -114195,6 +114249,19 @@
         "linköping ": {
           "berga": {
             "luftvärnsgatan": [
+              {
+                "id": 120809,
+                "rent": 8502,
+                "area": 100,
+                "street": "luftvärnsgatan",
+                "street_number": "82",
+                "city": "linköping ",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "berga",
+                "last_accept": 23,
+                "$last_seen": "2024-05-02T05:53:37.818Z"
+              },
               {
                 "id": 122273,
                 "rent": 5675,
