@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-05-02T15:52:20.696Z",
+  "lastUpdatedAt": "2024-05-02T16:57:03.262Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -58439,6 +58439,19 @@
                 "$districtName": "björkekärr",
                 "last_accept": 1835,
                 "$last_seen": "2024-03-20T08:47:14.218Z"
+              },
+              {
+                "id": 125558,
+                "rent": 8500,
+                "area": 54,
+                "street": "lådämnesgatan",
+                "street_number": "42",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "björkekärr",
+                "last_accept": 1795,
+                "$last_seen": "2024-05-02T15:52:20.696Z"
               }
             ],
             "stabbetorget": [
