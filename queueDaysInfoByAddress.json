@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-05-02T07:48:56.889Z",
+  "lastUpdatedAt": "2024-05-02T08:55:02.334Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -45314,6 +45314,19 @@
                 "$districtName": "lundby",
                 "last_accept": 905,
                 "$last_seen": "2024-04-09T05:51:08.349Z"
+              },
+              {
+                "id": 125102,
+                "rent": 13736,
+                "area": 78,
+                "street": "hjalmar brantingsgatan",
+                "street_number": "104",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1091,
+                "$last_seen": "2024-05-02T07:48:56.889Z"
               }
             ],
             "gamla lundbygatan": [
@@ -108602,6 +108615,19 @@
                 "$districtName": "hässelby",
                 "last_accept": 1,
                 "$last_seen": "2024-04-26T11:51:10.455Z"
+              },
+              {
+                "id": 125693,
+                "rent": 6480,
+                "area": 21,
+                "street": "fyrspannsgatan",
+                "street_number": "158",
+                "city": "hässelby",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "hässelby",
+                "last_accept": 4,
+                "$last_seen": "2024-05-02T07:48:56.889Z"
               },
               {
                 "id": 126154,
