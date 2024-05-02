@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-05-02T09:49:38.168Z",
+  "lastUpdatedAt": "2024-05-02T10:54:36.680Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -43390,6 +43390,19 @@
                 "$districtName": "lundby",
                 "last_accept": 223,
                 "$last_seen": "2024-04-29T14:54:54.935Z"
+              },
+              {
+                "id": 125637,
+                "rent": 11816,
+                "area": 83,
+                "street": "fyrklöversgatan",
+                "street_number": "14",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 933,
+                "$last_seen": "2024-05-02T09:49:38.168Z"
               }
             ],
             "ö keillersgatan": [
