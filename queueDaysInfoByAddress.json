@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-05-02T14:55:35.919Z",
+  "lastUpdatedAt": "2024-05-02T15:52:20.696Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -32199,6 +32199,19 @@
                 "$districtName": "annedal",
                 "last_accept": 1931,
                 "$last_seen": "2024-04-23T08:55:36.087Z"
+              },
+              {
+                "id": 125483,
+                "rent": 7937,
+                "area": 49,
+                "street": "carl grimbergsgatan",
+                "street_number": "27",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "annedal",
+                "last_accept": 1940,
+                "$last_seen": "2024-05-02T14:55:35.919Z"
               }
             ],
             "risåsgatan": [
@@ -49689,6 +49702,19 @@
                 "$districtName": "kortedala",
                 "last_accept": 1240,
                 "$last_seen": "2024-04-30T07:49:54.146Z"
+              },
+              {
+                "id": 125055,
+                "rent": 5305,
+                "area": 52,
+                "street": "aprilgatan",
+                "street_number": "62",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "kortedala",
+                "last_accept": 1242,
+                "$last_seen": "2024-05-02T14:55:35.919Z"
               }
             ],
             "februarigatan": [
@@ -52283,6 +52309,19 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1769,
                 "$last_seen": "2024-03-15T06:49:41.274Z"
+              },
+              {
+                "id": 125526,
+                "rent": 28500,
+                "area": 194,
+                "street": "viktor rydbergsgatan",
+                "street_number": "37",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1412,
+                "$last_seen": "2024-05-02T14:55:35.919Z"
               }
             ],
             "örnehufvudsgatan": [
