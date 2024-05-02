@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-05-02T13:50:48.053Z",
+  "lastUpdatedAt": "2024-05-02T14:55:35.919Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -90130,6 +90130,19 @@
                 "$districtName": "fässberg",
                 "last_accept": 1926,
                 "$last_seen": "2024-04-30T07:49:54.146Z"
+              },
+              {
+                "id": 124663,
+                "rent": 8938,
+                "area": 58,
+                "street": "berghemsgatan",
+                "street_number": "22",
+                "city": "mölndal",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 1873,
+                "$last_seen": "2024-05-02T13:50:48.053Z"
               }
             ],
             "marielundsgatan": [
@@ -113447,6 +113460,19 @@
                 "$districtName": "skäggetorp",
                 "last_accept": 277,
                 "$last_seen": "2024-03-19T09:43:41.495Z"
+              },
+              {
+                "id": 121322,
+                "rent": 9635,
+                "area": 91,
+                "street": "fogdegatan",
+                "street_number": "28",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "skäggetorp",
+                "last_accept": 17,
+                "$last_seen": "2024-05-02T13:50:48.053Z"
               },
               {
                 "id": 122242,
