@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-05-02T11:48:48.584Z",
+  "lastUpdatedAt": "2024-05-02T13:08:21.595Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -64596,6 +64596,19 @@
                 "$last_seen": "2024-04-29T14:54:54.935Z"
               },
               {
+                "id": 125084,
+                "rent": 11449,
+                "area": 83,
+                "street": "pennygången",
+                "street_number": "41",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 1381,
+                "$last_seen": "2024-05-02T11:48:48.584Z"
+              },
+              {
                 "id": 125495,
                 "rent": 11701,
                 "area": 83,
@@ -82816,6 +82829,19 @@
                 "$districtName": "tynnered",
                 "last_accept": 1468,
                 "$last_seen": "2024-04-30T05:53:28.141Z"
+              },
+              {
+                "id": 126675,
+                "rent": 9823,
+                "area": 81,
+                "street": "smyckegatan",
+                "street_number": "83",
+                "city": "västra frölunda",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tynnered",
+                "last_accept": 424,
+                "$last_seen": "2024-05-02T11:48:48.584Z"
               }
             ],
             "björkhöjdsgatan": [
@@ -104757,19 +104783,6 @@
                 "$last_seen": "2024-04-22T15:52:01.347Z"
               },
               {
-                "id": 123016,
-                "rent": 7156,
-                "area": 40,
-                "street": "nordanväg",
-                "street_number": "3a",
-                "city": "lund",
-                "municipality": "lund",
-                "county": "skåne län",
-                "$districtName": "lunds helgeand",
-                "last_accept": 36,
-                "$last_seen": "2024-04-29T07:50:14.599Z"
-              },
-              {
                 "id": 125020,
                 "rent": 7786,
                 "area": 46,
@@ -111647,6 +111660,19 @@
                 "$last_seen": "2024-03-13T08:37:04.575Z"
               },
               {
+                "id": 120258,
+                "rent": 12681,
+                "area": 57.6,
+                "street": "vardövägen",
+                "street_number": "53",
+                "city": "stockholm",
+                "municipality": "haninge",
+                "county": "stockholms län",
+                "$districtName": "österhaninge",
+                "last_accept": 813,
+                "$last_seen": "2024-05-02T11:48:48.584Z"
+              },
+              {
                 "id": 121580,
                 "rent": 8536,
                 "area": 35,
@@ -111671,6 +111697,32 @@
                 "$districtName": "österhaninge",
                 "last_accept": 25,
                 "$last_seen": "2024-04-12T11:50:38.593Z"
+              },
+              {
+                "id": 121797,
+                "rent": 8536,
+                "area": 34.7,
+                "street": "vardövägen",
+                "street_number": "44",
+                "city": "stockholm",
+                "municipality": "haninge",
+                "county": "stockholms län",
+                "$districtName": "österhaninge",
+                "last_accept": 53,
+                "$last_seen": "2024-05-02T11:48:48.584Z"
+              },
+              {
+                "id": 122418,
+                "rent": 7795,
+                "area": 29,
+                "street": "vardövägen",
+                "street_number": "44",
+                "city": "stockholm",
+                "municipality": "haninge",
+                "county": "stockholms län",
+                "$districtName": "österhaninge",
+                "last_accept": 150,
+                "$last_seen": "2024-05-02T11:48:48.584Z"
               }
             ]
           }
@@ -112919,6 +112971,19 @@
               }
             ],
             "vasavägen": [
+              {
+                "id": 125585,
+                "rent": 12500,
+                "area": 109,
+                "street": "vasavägen",
+                "street_number": "57a",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "linköpings domkyrkodistrikt",
+                "last_accept": 932,
+                "$last_seen": "2024-05-02T11:48:48.584Z"
+              },
               {
                 "id": 125609,
                 "rent": 11696,
@@ -114297,6 +114362,19 @@
                 "$districtName": "linköpings sankt lars",
                 "last_accept": 1104,
                 "$last_seen": "2024-04-29T13:09:15.702Z"
+              },
+              {
+                "id": 126364,
+                "rent": 12498,
+                "area": 106,
+                "street": "repslagaregatan",
+                "street_number": "32b",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "linköpings sankt lars",
+                "last_accept": 36,
+                "$last_seen": "2024-05-02T11:48:48.584Z"
               }
             ],
             "arbetaregatan": [
