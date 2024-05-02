@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-05-02T13:08:21.595Z",
+  "lastUpdatedAt": "2024-05-02T13:50:48.053Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -66309,6 +66309,19 @@
                 "$districtName": "brämaregården",
                 "last_accept": 1660,
                 "$last_seen": "2024-04-18T05:56:13.005Z"
+              },
+              {
+                "id": 124379,
+                "rent": 10040,
+                "area": 54,
+                "street": "gustaf dalénsgatan",
+                "street_number": "7 e",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brämaregården",
+                "last_accept": 1113,
+                "$last_seen": "2024-05-02T11:48:48.584Z"
               }
             ],
             "långängen": [
@@ -74132,6 +74145,19 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1878,
                 "$last_seen": "2024-04-17T13:53:28.946Z"
+              },
+              {
+                "id": 125413,
+                "rent": 7766,
+                "area": 45,
+                "street": "st pauligatan",
+                "street_number": "20",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1937,
+                "$last_seen": "2024-05-02T13:08:21.595Z"
               }
             ],
             "norra gubberogatan": [
@@ -98007,6 +98033,19 @@
                 "$districtName": "hyllie",
                 "last_accept": 10,
                 "$last_seen": "2024-03-15T06:49:41.274Z"
+              },
+              {
+                "id": 124387,
+                "rent": 14054,
+                "area": 88.1,
+                "street": "hyllie allé",
+                "street_number": "2 a",
+                "city": "malmö",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "hyllie",
+                "last_accept": 106,
+                "$last_seen": "2024-05-02T13:08:21.595Z"
               }
             ],
             "tors gränd": [
@@ -108654,6 +108693,19 @@
                 "$districtName": "hässelby",
                 "last_accept": 392,
                 "$last_seen": "2024-04-25T16:57:53.885Z"
+              },
+              {
+                "id": 125688,
+                "rent": 6362,
+                "area": 20,
+                "street": "fyrspannsgatan",
+                "street_number": "158",
+                "city": "hässelby",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "hässelby",
+                "last_accept": 7,
+                "$last_seen": "2024-05-02T13:08:21.595Z"
               },
               {
                 "id": 125689,
