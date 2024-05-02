@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-05-02T10:54:36.680Z",
+  "lastUpdatedAt": "2024-05-02T11:48:48.584Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -112258,6 +112258,19 @@
                 "$districtName": "berga",
                 "last_accept": 0,
                 "$last_seen": "2024-03-28T10:49:40.279Z"
+              },
+              {
+                "id": 120437,
+                "rent": 5007,
+                "area": 31,
+                "street": "konstruktörsgatan",
+                "street_number": "22",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "berga",
+                "last_accept": 187,
+                "$last_seen": "2024-05-02T10:54:36.680Z"
               },
               {
                 "id": 121671,
