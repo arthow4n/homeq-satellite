@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-05-03T13:53:21.173Z",
+  "lastUpdatedAt": "2024-05-03T14:54:44.304Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -72155,6 +72155,32 @@
                 "$last_seen": "2024-04-26T13:51:13.277Z"
               },
               {
+                "id": 123152,
+                "rent": 11212,
+                "area": 54,
+                "street": "tändsticksgatan",
+                "street_number": "2",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1400,
+                "$last_seen": "2024-05-03T13:07:48.203Z"
+              },
+              {
+                "id": 123157,
+                "rent": 10680,
+                "area": 54,
+                "street": "tändsticksgatan",
+                "street_number": "2",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1531,
+                "$last_seen": "2024-05-03T13:53:21.173Z"
+              },
+              {
                 "id": 123162,
                 "rent": 11389,
                 "area": 60,
@@ -112063,6 +112089,19 @@
                 "$districtName": "österhaninge",
                 "last_accept": 150,
                 "$last_seen": "2024-05-02T11:48:48.584Z"
+              },
+              {
+                "id": 123785,
+                "rent": 12681,
+                "area": 57.6,
+                "street": "vardövägen",
+                "street_number": "53",
+                "city": "stockholm",
+                "municipality": "haninge",
+                "county": "stockholms län",
+                "$districtName": "österhaninge",
+                "last_accept": 451,
+                "$last_seen": "2024-05-03T13:53:21.173Z"
               }
             ]
           }
@@ -112948,19 +112987,6 @@
                 "$districtName": "linköpings domkyrkodistrikt",
                 "last_accept": 5,
                 "$last_seen": "2024-03-21T13:46:39.111Z"
-              },
-              {
-                "id": 118565,
-                "rent": 8521,
-                "area": 49.1,
-                "street": "bataljonsgatan",
-                "street_number": "8",
-                "city": "linköping",
-                "municipality": "linköping",
-                "county": "östergötlands län",
-                "$districtName": "linköpings domkyrkodistrikt",
-                "last_accept": 6,
-                "$last_seen": "2024-04-22T10:57:59.339Z"
               }
             ],
             "kunskapslänken": [
