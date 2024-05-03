@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-05-03T06:58:06.386Z",
+  "lastUpdatedAt": "2024-05-03T07:49:50.317Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -51770,6 +51770,19 @@
                 "$districtName": "johanneberg",
                 "last_accept": 1493,
                 "$last_seen": "2024-04-19T07:51:26.323Z"
+              },
+              {
+                "id": 124678,
+                "rent": 10747,
+                "area": 58,
+                "street": "ebbe lieberathsgatan",
+                "street_number": "20 b",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "johanneberg",
+                "last_accept": 1720,
+                "$last_seen": "2024-05-03T06:58:06.386Z"
               }
             ],
             "sylvestergatan": [
@@ -74502,6 +74515,19 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1790,
                 "$last_seen": "2023-12-18T09:35:08.896Z"
+              },
+              {
+                "id": 124963,
+                "rent": 6994,
+                "area": 37,
+                "street": "karlagatan",
+                "street_number": "7 b",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1800,
+                "$last_seen": "2024-05-03T06:58:06.386Z"
               }
             ],
             "scheelegatan": [
@@ -76705,6 +76731,19 @@
                 "$districtName": "härlanda",
                 "last_accept": 1786,
                 "$last_seen": "2024-04-15T06:55:45.972Z"
+              },
+              {
+                "id": 123906,
+                "rent": 8943,
+                "area": 56,
+                "street": "ättestigen",
+                "street_number": "10",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "härlanda",
+                "last_accept": 1835,
+                "$last_seen": "2024-05-03T06:58:06.386Z"
               }
             ],
             "ernst torulfsgatan": [
@@ -111801,19 +111840,6 @@
                 "$districtName": "österhaninge",
                 "last_accept": 6,
                 "$last_seen": "2024-03-13T08:37:04.575Z"
-              },
-              {
-                "id": 120258,
-                "rent": 12681,
-                "area": 57.6,
-                "street": "vardövägen",
-                "street_number": "53",
-                "city": "stockholm",
-                "municipality": "haninge",
-                "county": "stockholms län",
-                "$districtName": "österhaninge",
-                "last_accept": 813,
-                "$last_seen": "2024-05-02T11:48:48.584Z"
               },
               {
                 "id": 121580,
