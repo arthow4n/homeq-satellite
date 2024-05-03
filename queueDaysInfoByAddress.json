@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-05-03T07:49:50.317Z",
+  "lastUpdatedAt": "2024-05-03T08:55:22.194Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -114525,6 +114525,19 @@
                 "$districtName": "linköpings sankt lars",
                 "last_accept": 43,
                 "$last_seen": "2024-04-18T06:57:49.906Z"
+              },
+              {
+                "id": 123840,
+                "rent": 8042,
+                "area": 54,
+                "street": "rundelsgatan",
+                "street_number": "7 a",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "linköpings sankt lars",
+                "last_accept": 639,
+                "$last_seen": "2024-05-03T07:49:50.317Z"
               }
             ],
             "lindesbergsgatan": [
