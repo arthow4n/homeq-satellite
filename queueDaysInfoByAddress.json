@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-05-03T08:55:22.194Z",
+  "lastUpdatedAt": "2024-05-03T09:51:13.725Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -35883,6 +35883,19 @@
                 "$districtName": "nylöse",
                 "last_accept": 1491,
                 "$last_seen": "2023-05-23T06:44:00.356Z"
+              },
+              {
+                "id": 124914,
+                "rent": 9095,
+                "area": 57,
+                "street": "holländareplatsen",
+                "street_number": "11",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "nylöse",
+                "last_accept": 1779,
+                "$last_seen": "2024-05-03T08:55:22.194Z"
               }
             ],
             "brahegatan": [
@@ -56475,6 +56488,19 @@
                 "$districtName": "göteborgs vasa",
                 "last_accept": 1933,
                 "$last_seen": "2024-04-24T11:51:22.973Z"
+              },
+              {
+                "id": 125033,
+                "rent": 11000,
+                "area": 82,
+                "street": "södra vägen",
+                "street_number": "75",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs vasa",
+                "last_accept": 1942,
+                "$last_seen": "2024-05-03T08:55:22.194Z"
               }
             ],
             "viktor rydbergsgatan": [
@@ -72966,6 +72992,19 @@
                 "$districtName": "örgryte",
                 "last_accept": 1460,
                 "$last_seen": "2024-02-23T12:49:39.142Z"
+              },
+              {
+                "id": 125043,
+                "rent": 13376,
+                "area": 70,
+                "street": "kallebäcks torggata",
+                "street_number": "26",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1748,
+                "$last_seen": "2024-05-03T08:55:22.194Z"
               }
             ],
             "kallebäcksvägen": [
@@ -97688,6 +97727,19 @@
                 "$districtName": "malmö sankt pauli",
                 "last_accept": 3,
                 "$last_seen": "2024-04-22T06:57:21.330Z"
+              },
+              {
+                "id": 124677,
+                "rent": 8467,
+                "area": 63,
+                "street": "lugna gatan",
+                "street_number": "38",
+                "city": "malmö",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "malmö sankt pauli",
+                "last_accept": 583,
+                "$last_seen": "2024-05-03T08:55:22.194Z"
               }
             ],
             "ehrensvärdsgatan": [
@@ -109393,6 +109445,19 @@
                 "$districtName": "vantör",
                 "last_accept": 1851,
                 "$last_seen": "2024-02-02T06:38:04.773Z"
+              },
+              {
+                "id": 121338,
+                "rent": 12344,
+                "area": 93.7,
+                "street": "olshammarsgatan",
+                "street_number": "17",
+                "city": "stockholm",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 1804,
+                "$last_seen": "2024-05-03T08:55:22.194Z"
               }
             ]
           },
@@ -113092,6 +113157,19 @@
                 "$districtName": "linköpings domkyrkodistrikt",
                 "last_accept": 21,
                 "$last_seen": "2024-04-15T13:50:03.689Z"
+              },
+              {
+                "id": 125173,
+                "rent": 11268,
+                "area": 69,
+                "street": "skvadronsgatan",
+                "street_number": "4",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "linköpings domkyrkodistrikt",
+                "last_accept": 12,
+                "$last_seen": "2024-05-03T08:55:22.194Z"
               }
             ],
             "sveagatan": [
