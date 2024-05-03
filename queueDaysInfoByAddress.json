@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-05-03T13:07:48.203Z",
+  "lastUpdatedAt": "2024-05-03T13:53:21.173Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -34152,6 +34152,19 @@
                 "$districtName": "biskopsgården",
                 "last_accept": 954,
                 "$last_seen": "2024-04-29T13:51:37.769Z"
+              },
+              {
+                "id": 125733,
+                "rent": 6854,
+                "area": 41,
+                "street": "långströmsgatan",
+                "street_number": "10b",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "biskopsgården",
+                "last_accept": 786,
+                "$last_seen": "2024-05-03T13:07:48.203Z"
               }
             ],
             "temperaturgatan": [
