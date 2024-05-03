@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-05-03T11:49:56.079Z",
+  "lastUpdatedAt": "2024-05-03T13:07:48.203Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -77904,6 +77904,19 @@
                 "$districtName": "göteborgs karl johan",
                 "last_accept": 1840,
                 "$last_seen": "2024-04-16T07:51:09.373Z"
+              },
+              {
+                "id": 125453,
+                "rent": 9953,
+                "area": 55,
+                "street": "kabelgatan",
+                "street_number": "19",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs karl johan",
+                "last_accept": 1894,
+                "$last_seen": "2024-05-03T11:49:56.079Z"
               }
             ],
             "karl johansgatan": [
@@ -100363,6 +100376,21 @@
                 "last_accept": 1603,
                 "$last_seen": "2024-04-22T11:50:54.594Z"
               }
+            ],
+            "roskildevägen": [
+              {
+                "id": 125595,
+                "rent": 18074,
+                "area": 144,
+                "street": "roskildevägen",
+                "street_number": "5 b",
+                "city": "malmö",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "malmö sankt johannes",
+                "last_accept": 358,
+                "$last_seen": "2024-05-03T11:49:56.079Z"
+              }
             ]
           },
           "oxie": {
@@ -113865,6 +113893,21 @@
                 "$districtName": "skäggetorp",
                 "last_accept": 0,
                 "$last_seen": "2024-04-10T07:49:56.502Z"
+              }
+            ],
+            "skäggetorps centrum": [
+              {
+                "id": 122064,
+                "rent": 5546,
+                "area": 27.6,
+                "street": "skäggetorps centrum",
+                "street_number": "1 b",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "skäggetorp",
+                "last_accept": 4,
+                "$last_seen": "2024-05-03T11:49:56.079Z"
               }
             ],
             "sörgårdsgatan": [
