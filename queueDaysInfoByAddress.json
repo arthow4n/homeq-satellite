@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-05-03T05:53:56.703Z",
+  "lastUpdatedAt": "2024-05-03T06:58:06.386Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -96864,6 +96864,19 @@
                 "$last_seen": "2024-03-08T15:33:59.200Z"
               },
               {
+                "id": 125353,
+                "rent": 10841,
+                "area": 82,
+                "street": "almedalsgatan",
+                "street_number": "3",
+                "city": "malmö",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "kirseberg",
+                "last_accept": 300,
+                "$last_seen": "2024-05-03T05:53:56.703Z"
+              },
+              {
                 "id": 125355,
                 "rent": 9014,
                 "area": 71,
@@ -112766,6 +112779,19 @@
                 "$districtName": "linköpings domkyrkodistrikt",
                 "last_accept": 4,
                 "$last_seen": "2024-03-26T07:43:45.399Z"
+              },
+              {
+                "id": 113006,
+                "rent": 10771,
+                "area": 50,
+                "street": "kunskapslänken",
+                "street_number": "44",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "linköpings domkyrkodistrikt",
+                "last_accept": 14,
+                "$last_seen": "2024-05-03T05:53:56.703Z"
               },
               {
                 "id": 114457,
