@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-05-05T18:54:46.487Z",
+  "lastUpdatedAt": "2024-05-05T19:50:59.708Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -114761,6 +114761,19 @@
                 "$districtName": "linköpings sankt lars",
                 "last_accept": 10,
                 "$last_seen": "2024-05-02T16:57:03.262Z"
+              },
+              {
+                "id": 123326,
+                "rent": 9788,
+                "area": 55,
+                "street": "skördegatan",
+                "street_number": "9",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "linköpings sankt lars",
+                "last_accept": 252,
+                "$last_seen": "2024-05-05T17:52:13.782Z"
               }
             ],
             "rundelsgatan": [
