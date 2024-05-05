@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-05-05T14:52:53.578Z",
+  "lastUpdatedAt": "2024-05-05T15:52:16.507Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -109072,6 +109072,19 @@
                 "$districtName": "hässelby",
                 "last_accept": 225,
                 "$last_seen": "2024-05-01T07:50:23.996Z"
+              },
+              {
+                "id": 127404,
+                "rent": 7069,
+                "area": 26,
+                "street": "fyrspannsgatan",
+                "street_number": "158",
+                "city": "hässelby",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "hässelby",
+                "last_accept": 87,
+                "$last_seen": "2024-05-05T14:52:53.578Z"
               }
             ]
           }
