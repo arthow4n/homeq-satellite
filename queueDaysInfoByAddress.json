@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-05-06T06:58:05.626Z",
+  "lastUpdatedAt": "2024-05-06T07:53:00.963Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -44217,6 +44217,19 @@
                 "$districtName": "lundby",
                 "last_accept": 1931,
                 "$last_seen": "2024-04-23T06:58:45.250Z"
+              },
+              {
+                "id": 125643,
+                "rent": 7376,
+                "area": 58,
+                "street": "arvid lindmansgatan",
+                "street_number": "12b",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1687,
+                "$last_seen": "2024-05-06T06:58:05.626Z"
               }
             ],
             "södra säterigatan": [
@@ -61919,6 +61932,19 @@
                 "$districtName": "askim",
                 "last_accept": 716,
                 "$last_seen": "2024-04-15T14:51:00.068Z"
+              },
+              {
+                "id": 125721,
+                "rent": 13186,
+                "area": 75,
+                "street": "askims pilegårdsväg",
+                "street_number": "48",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 239,
+                "$last_seen": "2024-05-06T06:58:05.626Z"
               }
             ]
           },
@@ -87301,6 +87327,19 @@
                 "$districtName": "fässberg",
                 "last_accept": 1536,
                 "$last_seen": "2024-03-28T11:43:56.835Z"
+              },
+              {
+                "id": 120564,
+                "rent": 9449,
+                "area": 46,
+                "street": "åby allé",
+                "street_number": "61",
+                "city": "göteborg",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 1531,
+                "$last_seen": "2024-05-06T06:58:05.626Z"
               }
             ],
             "åbyvägen": [
@@ -114016,6 +114055,19 @@
                 "$districtName": "skäggetorp",
                 "last_accept": 1116,
                 "$last_seen": "2024-04-22T10:57:59.339Z"
+              },
+              {
+                "id": 125942,
+                "rent": 11426,
+                "area": 91,
+                "street": "sörgårdsgatan",
+                "street_number": "20",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "skäggetorp",
+                "last_accept": 0,
+                "$last_seen": "2024-05-06T06:58:05.626Z"
               }
             ],
             "skäggetorp centrum": [
