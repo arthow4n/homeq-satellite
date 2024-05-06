@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-05-06T13:10:26.736Z",
+  "lastUpdatedAt": "2024-05-06T13:53:15.719Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -43509,6 +43509,19 @@
                 "$districtName": "lundby",
                 "last_accept": 933,
                 "$last_seen": "2024-05-02T09:49:38.168Z"
+              },
+              {
+                "id": 125641,
+                "rent": 11816,
+                "area": 83,
+                "street": "fyrklöversgatan",
+                "street_number": "98",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1041,
+                "$last_seen": "2024-05-06T13:10:26.736Z"
               }
             ],
             "ö keillersgatan": [
@@ -61605,6 +61618,19 @@
                 "$districtName": "askim",
                 "last_accept": 1285,
                 "$last_seen": "2024-04-26T06:59:36.121Z"
+              },
+              {
+                "id": 126402,
+                "rent": 9862,
+                "area": 65,
+                "street": "nergårdsvägen",
+                "street_number": "45",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 762,
+                "$last_seen": "2024-05-06T13:10:26.736Z"
               }
             ],
             "askims pilegårdsväg": [
@@ -81298,6 +81324,19 @@
                 "$last_seen": "2024-04-18T13:08:56.882Z"
               },
               {
+                "id": 123165,
+                "rent": 8800,
+                "area": 33,
+                "street": "sisjöbäckens väg",
+                "street_number": "22",
+                "city": "askim",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 40,
+                "$last_seen": "2024-05-06T13:10:26.736Z"
+              },
+              {
                 "id": 123175,
                 "rent": 7778,
                 "area": 33,
@@ -98557,6 +98596,19 @@
                 "$districtName": "hyllie",
                 "last_accept": 106,
                 "$last_seen": "2024-05-02T13:08:21.595Z"
+              },
+              {
+                "id": 124829,
+                "rent": 12471,
+                "area": 74,
+                "street": "hyllie allé",
+                "street_number": "16",
+                "city": "malmö",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "hyllie",
+                "last_accept": 368,
+                "$last_seen": "2024-05-06T13:10:26.736Z"
               }
             ],
             "tors gränd": [
