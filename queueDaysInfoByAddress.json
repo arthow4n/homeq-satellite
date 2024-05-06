@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-05-06T10:57:44.807Z",
+  "lastUpdatedAt": "2024-05-06T11:51:06.126Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -34702,6 +34702,19 @@
                 "$last_seen": "2024-04-25T11:52:02.983Z"
               },
               {
+                "id": 125376,
+                "rent": 6741,
+                "area": 64,
+                "street": "temperaturgatan",
+                "street_number": "83",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "biskopsgården",
+                "last_accept": 1265,
+                "$last_seen": "2024-05-06T10:57:44.807Z"
+              },
+              {
                 "id": 125379,
                 "rent": 5534,
                 "area": 49,
@@ -45634,6 +45647,19 @@
                 "$districtName": "lundby",
                 "last_accept": 1610,
                 "$last_seen": "2023-12-07T14:40:51.001Z"
+              },
+              {
+                "id": 125395,
+                "rent": 9385,
+                "area": 75,
+                "street": "wieselgrensplatsen",
+                "street_number": "27",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1709,
+                "$last_seen": "2024-05-06T10:57:44.807Z"
               }
             ],
             "estlandsgatan": [
@@ -76928,6 +76954,19 @@
                 "$districtName": "härlanda",
                 "last_accept": 1835,
                 "$last_seen": "2024-05-03T06:58:06.386Z"
+              },
+              {
+                "id": 125683,
+                "rent": 10784,
+                "area": 80,
+                "street": "ättestigen",
+                "street_number": "4",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "härlanda",
+                "last_accept": 1645,
+                "$last_seen": "2024-05-06T10:57:44.807Z"
               }
             ],
             "ernst torulfsgatan": [
@@ -112654,6 +112693,19 @@
                 "$last_seen": "2024-04-12T07:53:58.625Z"
               },
               {
+                "id": 114044,
+                "rent": 9346,
+                "area": 54,
+                "street": "söderleden",
+                "street_number": "39b",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "berga",
+                "last_accept": 39,
+                "$last_seen": "2024-05-06T10:57:44.807Z"
+              },
+              {
                 "id": 114180,
                 "rent": 6714,
                 "area": 34.8,
@@ -112916,17 +112968,17 @@
                 "$last_seen": "2024-03-28T10:49:40.279Z"
               },
               {
-                "id": 120437,
-                "rent": 5007,
-                "area": 31,
+                "id": 120931,
+                "rent": 8856,
+                "area": 78,
                 "street": "konstruktörsgatan",
-                "street_number": "22",
+                "street_number": "58",
                 "city": "linköping",
                 "municipality": "linköping",
                 "county": "östergötlands län",
                 "$districtName": "berga",
-                "last_accept": 187,
-                "$last_seen": "2024-05-02T10:54:36.680Z"
+                "last_accept": 6,
+                "$last_seen": "2024-05-06T10:57:44.807Z"
               },
               {
                 "id": 121671,
@@ -115097,6 +115149,19 @@
               }
             ],
             "mörnersgatan": [
+              {
+                "id": 123781,
+                "rent": 9197,
+                "area": 81,
+                "street": "mörnersgatan",
+                "street_number": "8",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "linköpings sankt lars",
+                "last_accept": 66,
+                "$last_seen": "2024-05-06T10:57:44.807Z"
+              },
               {
                 "id": 124365,
                 "rent": 4998,
