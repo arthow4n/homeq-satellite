@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-05-06T07:53:00.963Z",
+  "lastUpdatedAt": "2024-05-06T08:55:59.861Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -35630,6 +35630,19 @@
                 "$districtName": "nylöse",
                 "last_accept": 20,
                 "$last_seen": "2024-04-15T09:50:53.332Z"
+              },
+              {
+                "id": 125399,
+                "rent": 14950,
+                "area": 101,
+                "street": "sysslomansgatan",
+                "street_number": "42",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "nylöse",
+                "last_accept": 534,
+                "$last_seen": "2024-05-06T07:53:00.963Z"
               }
             ],
             "hinderbanan": [
@@ -81893,6 +81906,19 @@
                 "$districtName": "tynnered",
                 "last_accept": 768,
                 "$last_seen": "2024-04-29T13:09:15.702Z"
+              },
+              {
+                "id": 125660,
+                "rent": 14494,
+                "area": 122,
+                "street": "smaragdgatan",
+                "street_number": "25",
+                "city": "västra frölunda",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tynnered",
+                "last_accept": 662,
+                "$last_seen": "2024-05-06T07:53:00.963Z"
               }
             ],
             "smyckegatan": [
@@ -83117,6 +83143,19 @@
                 "$districtName": "tynnered",
                 "last_accept": 1468,
                 "$last_seen": "2024-04-30T05:53:28.141Z"
+              },
+              {
+                "id": 126133,
+                "rent": 13338,
+                "area": 106,
+                "street": "smyckegatan",
+                "street_number": "59",
+                "city": "västra frölunda",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tynnered",
+                "last_accept": 1780,
+                "$last_seen": "2024-05-06T07:53:00.963Z"
               },
               {
                 "id": 126675,
@@ -90983,6 +91022,19 @@
               }
             ],
             "vetenskapens gränd": [
+              {
+                "id": 124187,
+                "rent": 13283,
+                "area": 73,
+                "street": "vetenskapens gränd",
+                "street_number": "12",
+                "city": "mölndal",
+                "municipality": "mölndal",
+                "county": "västra götalands län",
+                "$districtName": "fässberg",
+                "last_accept": 1300,
+                "$last_seen": "2024-05-06T07:53:00.963Z"
+              },
               {
                 "id": 124190,
                 "rent": 9358,
@@ -104789,6 +104841,19 @@
                 "$districtName": "veberöd",
                 "last_accept": 35,
                 "$last_seen": "2024-04-30T11:49:10.721Z"
+              },
+              {
+                "id": 124783,
+                "rent": 6281,
+                "area": 31.3,
+                "street": "linjeettgatan",
+                "street_number": "6a",
+                "city": "malmö",
+                "municipality": "lund",
+                "county": "skåne län",
+                "$districtName": "veberöd",
+                "last_accept": 8,
+                "$last_seen": "2024-05-06T07:53:00.963Z"
               }
             ],
             "spiggans gata": [
@@ -105188,6 +105253,19 @@
                 "$districtName": "lunds helgeand",
                 "last_accept": 21,
                 "$last_seen": "2024-04-22T15:52:01.347Z"
+              },
+              {
+                "id": 123016,
+                "rent": 7156,
+                "area": 40,
+                "street": "nordanväg",
+                "street_number": "3a",
+                "city": "lund",
+                "municipality": "lund",
+                "county": "skåne län",
+                "$districtName": "lunds helgeand",
+                "last_accept": 35,
+                "$last_seen": "2024-05-06T07:53:00.963Z"
               },
               {
                 "id": 125020,
@@ -112548,6 +112626,19 @@
                 "$last_seen": "2024-04-02T07:44:42.459Z"
               },
               {
+                "id": 114210,
+                "rent": 9346,
+                "area": 54,
+                "street": "söderleden",
+                "street_number": "39d",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "berga",
+                "last_accept": 20,
+                "$last_seen": "2024-05-06T07:53:00.963Z"
+              },
+              {
                 "id": 114214,
                 "rent": 6714,
                 "area": 34.8,
@@ -113608,6 +113699,34 @@
                 "$last_seen": "2024-04-16T09:50:07.220Z"
               }
             ],
+            "lärdomsgatan": [
+              {
+                "id": 112671,
+                "rent": 12166,
+                "area": 69.4,
+                "street": "lärdomsgatan",
+                "street_number": "4",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "slaka",
+                "last_accept": 329,
+                "$last_seen": "2024-05-06T07:53:00.963Z"
+              },
+              {
+                "id": 124437,
+                "rent": 13997,
+                "area": 95,
+                "street": "lärdomsgatan",
+                "street_number": "6",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "slaka",
+                "last_accept": 2,
+                "$last_seen": "2024-04-24T13:57:24.357Z"
+              }
+            ],
             "johannes magnus väg": [
               {
                 "id": 116493,
@@ -113716,21 +113835,6 @@
                 "$districtName": "slaka",
                 "last_accept": 802,
                 "$last_seen": "2024-04-16T08:55:06.141Z"
-              }
-            ],
-            "lärdomsgatan": [
-              {
-                "id": 124437,
-                "rent": 13997,
-                "area": 95,
-                "street": "lärdomsgatan",
-                "street_number": "6",
-                "city": "linköping",
-                "municipality": "linköping",
-                "county": "östergötlands län",
-                "$districtName": "slaka",
-                "last_accept": 2,
-                "$last_seen": "2024-04-24T13:57:24.357Z"
               }
             ]
           },
@@ -113919,6 +114023,19 @@
                 "$districtName": "skäggetorp",
                 "last_accept": 121,
                 "$last_seen": "2024-04-18T10:59:24.877Z"
+              },
+              {
+                "id": 125969,
+                "rent": 9103,
+                "area": 82,
+                "street": "fogdegatan",
+                "street_number": "12",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "skäggetorp",
+                "last_accept": 0,
+                "$last_seen": "2024-05-06T07:53:00.963Z"
               }
             ],
             "väpnaregatan": [
@@ -113960,6 +114077,19 @@
                 "$districtName": "skäggetorp",
                 "last_accept": 10,
                 "$last_seen": "2024-04-22T13:53:03.454Z"
+              },
+              {
+                "id": 121835,
+                "rent": 5580,
+                "area": 33,
+                "street": "väpnaregatan",
+                "street_number": "40",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "skäggetorp",
+                "last_accept": 7,
+                "$last_seen": "2024-05-06T07:53:00.963Z"
               },
               {
                 "id": 122343,
