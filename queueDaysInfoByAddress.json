@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-05-06T08:55:59.861Z",
+  "lastUpdatedAt": "2024-05-06T09:52:44.937Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -58398,6 +58398,19 @@
                 "$last_seen": "2024-05-03T10:55:28.060Z"
               },
               {
+                "id": 123292,
+                "rent": 6928,
+                "area": 61,
+                "street": "smörslätten",
+                "street_number": "4",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "björkekärr",
+                "last_accept": 0,
+                "$last_seen": "2024-04-10T13:53:01.131Z"
+              },
+              {
                 "id": 123465,
                 "rent": 4312,
                 "area": 22,
@@ -81919,6 +81932,19 @@
                 "$districtName": "tynnered",
                 "last_accept": 662,
                 "$last_seen": "2024-05-06T07:53:00.963Z"
+              },
+              {
+                "id": 125906,
+                "rent": 7403,
+                "area": 52,
+                "street": "smaragdgatan",
+                "street_number": "10",
+                "city": "västra frölunda",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tynnered",
+                "last_accept": 709,
+                "$last_seen": "2024-05-06T08:55:59.861Z"
               }
             ],
             "smyckegatan": [
@@ -97283,6 +97309,21 @@
                 "last_accept": 379,
                 "$last_seen": "2024-04-30T08:55:00.719Z"
               }
+            ],
+            "värnhemsgatan": [
+              {
+                "id": 126841,
+                "rent": 9458,
+                "area": 67,
+                "street": "värnhemsgatan",
+                "street_number": "9",
+                "city": "malmö",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "kirseberg",
+                "last_accept": 43,
+                "$last_seen": "2024-05-06T08:55:59.861Z"
+              }
             ]
           },
           "malmö sankt pauli": {
@@ -102611,6 +102652,19 @@
                 "$districtName": "limhamn",
                 "last_accept": 16,
                 "$last_seen": "2024-04-18T11:51:41.760Z"
+              },
+              {
+                "id": 125348,
+                "rent": 9916,
+                "area": 54,
+                "street": "blåsebergavägen",
+                "street_number": "20",
+                "city": "limhamn",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "limhamn",
+                "last_accept": 51,
+                "$last_seen": "2024-05-06T08:55:59.861Z"
               }
             ],
             "grönalundsgatan": [
@@ -103135,6 +103189,19 @@
                 "$districtName": "limhamn",
                 "last_accept": 38,
                 "$last_seen": "2024-04-19T08:55:47.092Z"
+              },
+              {
+                "id": 126504,
+                "rent": 13320,
+                "area": 78,
+                "street": "portvaktsgatan",
+                "street_number": "6",
+                "city": "limhamn",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "limhamn",
+                "last_accept": 3,
+                "$last_seen": "2024-05-06T08:55:59.861Z"
               }
             ]
           }
@@ -104914,6 +104981,19 @@
                 "$districtName": "östra torn",
                 "last_accept": 917,
                 "$last_seen": "2024-04-15T13:04:56.119Z"
+              },
+              {
+                "id": 123166,
+                "rent": 9701,
+                "area": 53,
+                "street": "vetenskapsgatan",
+                "street_number": "4a",
+                "city": "lund",
+                "municipality": "lund",
+                "county": "skåne län",
+                "$districtName": "östra torn",
+                "last_accept": 1200,
+                "$last_seen": "2024-05-06T08:55:59.861Z"
               }
             ],
             "stralsundsvägen": [
@@ -113531,6 +113611,19 @@
                 "$districtName": "linköpings domkyrkodistrikt",
                 "last_accept": 594,
                 "$last_seen": "2024-04-25T06:57:39.377Z"
+              },
+              {
+                "id": 124637,
+                "rent": 7564,
+                "area": 66,
+                "street": "platensgatan",
+                "street_number": "5b",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "linköpings domkyrkodistrikt",
+                "last_accept": 952,
+                "$last_seen": "2024-05-06T08:55:59.861Z"
               }
             ],
             "vasavägen": [
