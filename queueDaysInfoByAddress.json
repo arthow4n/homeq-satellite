@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-05-06T11:51:06.126Z",
+  "lastUpdatedAt": "2024-05-06T13:10:26.736Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -34726,6 +34726,19 @@
                 "$districtName": "biskopsgården",
                 "last_accept": 692,
                 "$last_seen": "2024-04-30T08:55:00.719Z"
+              },
+              {
+                "id": 125398,
+                "rent": 7748,
+                "area": 71,
+                "street": "temperaturgatan",
+                "street_number": "71",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "biskopsgården",
+                "last_accept": 1297,
+                "$last_seen": "2024-05-06T11:51:06.126Z"
               }
             ],
             "lufttrycksgatan": [
@@ -75757,6 +75770,19 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1925,
                 "$last_seen": "2024-04-29T11:50:05.393Z"
+              },
+              {
+                "id": 127497,
+                "rent": 8334,
+                "area": 49,
+                "street": "runebergsgatan",
+                "street_number": "2",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1737,
+                "$last_seen": "2024-05-06T11:51:06.126Z"
               }
             ],
             "redbergsvägen": [
@@ -79307,6 +79333,19 @@
                 "$districtName": "bäckebol",
                 "last_accept": 443,
                 "$last_seen": "2024-04-02T06:49:28.512Z"
+              },
+              {
+                "id": 121135,
+                "rent": 7125,
+                "area": 28,
+                "street": "herr arnes gata",
+                "street_number": "1",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bäckebol",
+                "last_accept": 648,
+                "$last_seen": "2024-05-06T11:51:06.126Z"
               }
             ],
             "backadalen": [
@@ -102628,6 +102667,19 @@
                 "$last_seen": "2024-03-28T07:44:28.561Z"
               },
               {
+                "id": 121736,
+                "rent": 9932,
+                "area": 44,
+                "street": "blåsebergavägen",
+                "street_number": "32",
+                "city": "limhamn",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "limhamn",
+                "last_accept": 49,
+                "$last_seen": "2024-05-06T11:51:06.126Z"
+              },
+              {
                 "id": 122018,
                 "rent": 7477,
                 "area": 36,
@@ -112992,6 +113044,19 @@
                 "$districtName": "berga",
                 "last_accept": 27,
                 "$last_seen": "2024-04-26T10:58:33.567Z"
+              },
+              {
+                "id": 121923,
+                "rent": 6327,
+                "area": 52,
+                "street": "konstruktörsgatan",
+                "street_number": "96",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "berga",
+                "last_accept": 37,
+                "$last_seen": "2024-05-06T11:51:06.126Z"
               }
             ],
             "ridderstads gata": [
@@ -113967,6 +114032,19 @@
                 "$districtName": "slaka",
                 "last_accept": 802,
                 "$last_seen": "2024-04-16T08:55:06.141Z"
+              },
+              {
+                "id": 126074,
+                "rent": 8180,
+                "area": 52,
+                "street": "spannmålsgatan",
+                "street_number": "9",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "slaka",
+                "last_accept": 3,
+                "$last_seen": "2024-05-06T11:51:06.126Z"
               }
             ]
           },
@@ -114398,6 +114476,21 @@
                 "last_accept": 10,
                 "$last_seen": "2024-04-30T13:07:15.285Z"
               }
+            ],
+            "skrivaregatan": [
+              {
+                "id": 127093,
+                "rent": 4799,
+                "area": 46,
+                "street": "skrivaregatan",
+                "street_number": "5",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "skäggetorp",
+                "last_accept": 26,
+                "$last_seen": "2024-05-06T11:51:06.126Z"
+              }
             ]
           },
           "landeryd": {
@@ -114665,6 +114758,19 @@
                 "$districtName": "landeryd",
                 "last_accept": 301,
                 "$last_seen": "2024-04-30T07:49:54.146Z"
+              },
+              {
+                "id": 125419,
+                "rent": 6015,
+                "area": 67,
+                "street": "järdalavägen",
+                "street_number": "52b",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "landeryd",
+                "last_accept": 83,
+                "$last_seen": "2024-05-06T11:51:06.126Z"
               }
             ],
             "ekholmens centrum": [
