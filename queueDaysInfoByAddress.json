@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-05-06T14:55:39.581Z",
+  "lastUpdatedAt": "2024-05-06T15:52:35.142Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -44282,6 +44282,19 @@
                 "$districtName": "lundby",
                 "last_accept": 1687,
                 "$last_seen": "2024-05-06T06:58:05.626Z"
+              },
+              {
+                "id": 126123,
+                "rent": 10205,
+                "area": 89,
+                "street": "arvid lindmansgatan",
+                "street_number": "7a",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1944,
+                "$last_seen": "2024-05-06T14:55:39.581Z"
               }
             ],
             "södra säterigatan": [
@@ -47968,6 +47981,19 @@
                 "$districtName": "bergsjön",
                 "last_accept": 341,
                 "$last_seen": "2024-05-06T13:53:15.719Z"
+              },
+              {
+                "id": 125535,
+                "rent": 12830,
+                "area": 99,
+                "street": "kosmosgatan",
+                "street_number": "11",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bergsjön",
+                "last_accept": 4,
+                "$last_seen": "2024-05-06T14:55:39.581Z"
               }
             ],
             "atmosfärgatan": [
@@ -59138,6 +59164,19 @@
                 "$districtName": "askim",
                 "last_accept": 446,
                 "$last_seen": "2024-04-23T08:55:36.087Z"
+              },
+              {
+                "id": 125728,
+                "rent": 14360,
+                "area": 74,
+                "street": "kobbeslätten",
+                "street_number": "4",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 4,
+                "$last_seen": "2024-05-06T14:55:39.581Z"
               }
             ],
             "pilegården": [
@@ -113854,6 +113893,19 @@
                 "$districtName": "linköpings domkyrkodistrikt",
                 "last_accept": 564,
                 "$last_seen": "2024-04-12T11:50:38.593Z"
+              },
+              {
+                "id": 125583,
+                "rent": 8060,
+                "area": 54,
+                "street": "sveagatan",
+                "street_number": "24 b",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "linköpings domkyrkodistrikt",
+                "last_accept": 293,
+                "$last_seen": "2024-05-06T14:55:39.581Z"
               }
             ],
             "skolgatan": [
