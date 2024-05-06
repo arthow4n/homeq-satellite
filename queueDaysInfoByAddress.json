@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-05-06T13:53:15.719Z",
+  "lastUpdatedAt": "2024-05-06T14:55:39.581Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -47955,6 +47955,19 @@
                 "$districtName": "bergsjön",
                 "last_accept": 7,
                 "$last_seen": "2024-03-22T07:44:37.380Z"
+              },
+              {
+                "id": 123522,
+                "rent": 7243,
+                "area": 46,
+                "street": "kosmosgatan",
+                "street_number": "12",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bergsjön",
+                "last_accept": 341,
+                "$last_seen": "2024-05-06T13:53:15.719Z"
               }
             ],
             "atmosfärgatan": [
@@ -48464,6 +48477,19 @@
                 "$districtName": "bergsjön",
                 "last_accept": 58,
                 "$last_seen": "2024-04-12T09:51:56.484Z"
+              },
+              {
+                "id": 122306,
+                "rent": 9245,
+                "area": 65,
+                "street": "atmosfärgatan",
+                "street_number": "15",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bergsjön",
+                "last_accept": 446,
+                "$last_seen": "2024-05-06T13:53:15.719Z"
               }
             ],
             "universumsgatan": [
@@ -49795,6 +49821,19 @@
                 "$districtName": "kortedala",
                 "last_accept": 1389,
                 "$last_seen": "2024-03-15T07:44:47.087Z"
+              },
+              {
+                "id": 121296,
+                "rent": 5486,
+                "area": 51.5,
+                "street": "aprilgatan",
+                "street_number": "70",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "kortedala",
+                "last_accept": 1389,
+                "$last_seen": "2024-05-06T13:53:15.719Z"
               },
               {
                 "id": 121413,
@@ -62023,6 +62062,19 @@
                 "$districtName": "askim",
                 "last_accept": 716,
                 "$last_seen": "2024-04-15T14:51:00.068Z"
+              },
+              {
+                "id": 125702,
+                "rent": 10046,
+                "area": 53,
+                "street": "askims pilegårdsväg",
+                "street_number": "42",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 14,
+                "$last_seen": "2024-05-06T13:53:15.719Z"
               },
               {
                 "id": 125721,
@@ -81348,6 +81400,19 @@
                 "$districtName": "askim",
                 "last_accept": 462,
                 "$last_seen": "2024-04-29T06:57:17.072Z"
+              },
+              {
+                "id": 125727,
+                "rent": 10360,
+                "area": 54,
+                "street": "sisjöbäckens väg",
+                "street_number": "24",
+                "city": "askim",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 3,
+                "$last_seen": "2024-05-06T13:53:15.719Z"
               }
             ],
             "kobbegården": [
@@ -82023,6 +82088,19 @@
                 "$districtName": "tynnered",
                 "last_accept": 635,
                 "$last_seen": "2024-04-09T06:53:45.528Z"
+              },
+              {
+                "id": 122806,
+                "rent": 10388,
+                "area": 58,
+                "street": "smaragdgatan",
+                "street_number": "10 b",
+                "city": "västra frölunda",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tynnered",
+                "last_accept": 88,
+                "$last_seen": "2024-05-06T13:53:15.719Z"
               },
               {
                 "id": 125652,
@@ -83773,6 +83851,19 @@
                 "$districtName": "tynnered",
                 "last_accept": 1913,
                 "$last_seen": "2024-04-18T13:52:35.942Z"
+              },
+              {
+                "id": 124388,
+                "rent": 11662,
+                "area": 88,
+                "street": "briljantgatan",
+                "street_number": "20",
+                "city": "västra frölunda",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tynnered",
+                "last_accept": 1056,
+                "$last_seen": "2024-05-06T13:53:15.719Z"
               },
               {
                 "id": 125657,
@@ -86362,6 +86453,19 @@
                 "$districtName": "kortedala",
                 "last_accept": 640,
                 "$last_seen": "2024-04-26T09:51:37.338Z"
+              },
+              {
+                "id": 125653,
+                "rent": 6000,
+                "area": 34,
+                "street": "januarigatan",
+                "street_number": "18",
+                "city": "göteborg ",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "kortedala",
+                "last_accept": 279,
+                "$last_seen": "2024-05-06T13:53:15.719Z"
               }
             ]
           },
@@ -86392,6 +86496,19 @@
                 "$districtName": "göteborgs sankt pauli",
                 "last_accept": 1797,
                 "$last_seen": "2023-12-11T11:36:26.673Z"
+              },
+              {
+                "id": 125768,
+                "rent": 8366,
+                "area": 48,
+                "street": "övre olskroksgatan",
+                "street_number": "9",
+                "city": "göteborg ",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs sankt pauli",
+                "last_accept": 1907,
+                "$last_seen": "2024-05-06T13:53:15.719Z"
               }
             ]
           },
@@ -101100,6 +101217,19 @@
                 "$districtName": "fosie",
                 "last_accept": 364,
                 "$last_seen": "2023-08-31T08:44:53.868Z"
+              },
+              {
+                "id": 122323,
+                "rent": 6433,
+                "area": 39,
+                "street": "koralgatan",
+                "street_number": "52",
+                "city": "malmö",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "fosie",
+                "last_accept": 103,
+                "$last_seen": "2024-05-06T13:53:15.719Z"
               }
             ]
           },
@@ -114676,6 +114806,19 @@
                 "$districtName": "landeryd",
                 "last_accept": 142,
                 "$last_seen": "2024-04-26T11:51:10.455Z"
+              },
+              {
+                "id": 125417,
+                "rent": 6375,
+                "area": 72,
+                "street": "ekholmsvägen",
+                "street_number": "20a",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "landeryd",
+                "last_accept": 642,
+                "$last_seen": "2024-05-06T13:53:15.719Z"
               }
             ],
             "valthornsgatan": [
