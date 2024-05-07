@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-05-07T07:55:55.926Z",
+  "lastUpdatedAt": "2024-05-07T08:55:50.620Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -48529,6 +48529,19 @@
                 "$districtName": "bergsjön",
                 "last_accept": 58,
                 "$last_seen": "2024-04-12T09:51:56.484Z"
+              },
+              {
+                "id": 122306,
+                "rent": 9245,
+                "area": 65,
+                "street": "atmosfärgatan",
+                "street_number": "15",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bergsjön",
+                "last_accept": 447,
+                "$last_seen": "2024-05-07T07:55:55.926Z"
               }
             ],
             "universumsgatan": [
@@ -114936,6 +114949,19 @@
                 "$districtName": "landeryd",
                 "last_accept": 142,
                 "$last_seen": "2024-04-26T11:51:10.455Z"
+              },
+              {
+                "id": 125014,
+                "rent": 4150,
+                "area": 41.5,
+                "street": "ekholmsvägen",
+                "street_number": "30a",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "landeryd",
+                "last_accept": 67,
+                "$last_seen": "2024-05-07T07:55:55.926Z"
               },
               {
                 "id": 125417,
