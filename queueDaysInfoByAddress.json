@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-05-07T15:52:47.508Z",
+  "lastUpdatedAt": "2024-05-07T16:56:27.328Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -58591,6 +58591,19 @@
                 "$districtName": "björkekärr",
                 "last_accept": 0,
                 "$last_seen": "2024-04-10T13:53:01.131Z"
+              },
+              {
+                "id": 123444,
+                "rent": 6995,
+                "area": 38,
+                "street": "smörslätten",
+                "street_number": "8",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "björkekärr",
+                "last_accept": 1107,
+                "$last_seen": "2024-05-07T15:52:47.508Z"
               },
               {
                 "id": 123465,
