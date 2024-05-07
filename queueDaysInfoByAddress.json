@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-05-07T08:55:50.620Z",
+  "lastUpdatedAt": "2024-05-07T09:53:44.476Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -48542,6 +48542,19 @@
                 "$districtName": "bergsjön",
                 "last_accept": 447,
                 "$last_seen": "2024-05-07T07:55:55.926Z"
+              },
+              {
+                "id": 127366,
+                "rent": 11162,
+                "area": 83,
+                "street": "atmosfärgatan",
+                "street_number": "9",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bergsjön",
+                "last_accept": 137,
+                "$last_seen": "2024-05-07T08:55:50.620Z"
               }
             ],
             "universumsgatan": [
@@ -69028,6 +69041,32 @@
                 "$districtName": "gunnared",
                 "last_accept": 641,
                 "$last_seen": "2024-04-08T06:53:55.693Z"
+              },
+              {
+                "id": 126825,
+                "rent": 9306,
+                "area": 69,
+                "street": "gårdstensvägen",
+                "street_number": "55",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "gunnared",
+                "last_accept": 962,
+                "$last_seen": "2024-05-07T08:55:50.620Z"
+              },
+              {
+                "id": 126829,
+                "rent": 5549,
+                "area": 33,
+                "street": "gårdstensvägen",
+                "street_number": "53",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "gunnared",
+                "last_accept": 50,
+                "$last_seen": "2024-05-07T08:55:50.620Z"
               }
             ]
           },
@@ -114694,6 +114733,19 @@
                 "$districtName": "skäggetorp",
                 "last_accept": 3,
                 "$last_seen": "2024-04-18T13:52:35.942Z"
+              },
+              {
+                "id": 122626,
+                "rent": 10139,
+                "area": 105,
+                "street": "sörgårdsgatan",
+                "street_number": "12",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "skäggetorp",
+                "last_accept": 1648,
+                "$last_seen": "2024-05-07T08:55:50.620Z"
               },
               {
                 "id": 122668,
