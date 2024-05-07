@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-05-07T13:50:07.560Z",
+  "lastUpdatedAt": "2024-05-07T14:52:17.221Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -41766,6 +41766,19 @@
                 "$districtName": "västra frölunda",
                 "last_accept": 1004,
                 "$last_seen": "2023-07-03T10:48:56.709Z"
+              },
+              {
+                "id": 122939,
+                "rent": 11485,
+                "area": 72,
+                "street": "trumgatan",
+                "street_number": "5",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "västra frölunda",
+                "last_accept": 1220,
+                "$last_seen": "2024-05-07T13:50:07.560Z"
               }
             ],
             "cymbalgatan": [
@@ -43470,6 +43483,19 @@
                 "$districtName": "lundby",
                 "last_accept": 339,
                 "$last_seen": "2024-04-30T08:55:00.719Z"
+              },
+              {
+                "id": 124862,
+                "rent": 8459,
+                "area": 83,
+                "street": "fyrklöversgatan",
+                "street_number": "12",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1872,
+                "$last_seen": "2024-05-07T13:50:07.560Z"
               },
               {
                 "id": 124889,
