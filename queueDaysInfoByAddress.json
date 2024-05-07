@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-05-07T10:57:13.756Z",
+  "lastUpdatedAt": "2024-05-07T11:50:29.222Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -114299,6 +114299,19 @@
                 "$districtName": "slaka",
                 "last_accept": 329,
                 "$last_seen": "2024-05-06T07:53:00.963Z"
+              },
+              {
+                "id": 123237,
+                "rent": 10066,
+                "area": 55,
+                "street": "lärdomsgatan",
+                "street_number": "6",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "slaka",
+                "last_accept": 0,
+                "$last_seen": "2024-05-07T10:57:13.756Z"
               },
               {
                 "id": 124437,
