@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-05-07T05:55:49.268Z",
+  "lastUpdatedAt": "2024-05-07T06:58:14.197Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -47994,6 +47994,19 @@
                 "$districtName": "bergsjön",
                 "last_accept": 4,
                 "$last_seen": "2024-05-06T14:55:39.581Z"
+              },
+              {
+                "id": 127322,
+                "rent": 11156,
+                "area": 77,
+                "street": "kosmosgatan",
+                "street_number": "1",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bergsjön",
+                "last_accept": 90,
+                "$last_seen": "2024-05-07T05:55:49.268Z"
               }
             ],
             "atmosfärgatan": [
@@ -48503,19 +48516,6 @@
                 "$districtName": "bergsjön",
                 "last_accept": 58,
                 "$last_seen": "2024-04-12T09:51:56.484Z"
-              },
-              {
-                "id": 122306,
-                "rent": 9245,
-                "area": 65,
-                "street": "atmosfärgatan",
-                "street_number": "15",
-                "city": "göteborg",
-                "municipality": "göteborg",
-                "county": "västra götalands län",
-                "$districtName": "bergsjön",
-                "last_accept": 446,
-                "$last_seen": "2024-05-06T13:53:15.719Z"
               }
             ],
             "universumsgatan": [
@@ -91961,6 +91961,32 @@
                 "$districtName": "partille",
                 "last_accept": 322,
                 "$last_seen": "2024-04-26T11:51:10.455Z"
+              },
+              {
+                "id": 125752,
+                "rent": 4893,
+                "area": 30,
+                "street": "oluff nilssonsväg",
+                "street_number": "14",
+                "city": "partille",
+                "municipality": "partille",
+                "county": "västra götalands län",
+                "$districtName": "partille",
+                "last_accept": 816,
+                "$last_seen": "2024-05-07T05:55:49.268Z"
+              },
+              {
+                "id": 126539,
+                "rent": 5728,
+                "area": 46,
+                "street": "oluff nilssonsväg",
+                "street_number": "18",
+                "city": "partille",
+                "municipality": "partille",
+                "county": "västra götalands län",
+                "$districtName": "partille",
+                "last_accept": 910,
+                "$last_seen": "2024-05-07T05:55:49.268Z"
               }
             ],
             "oluff nilssons väg": [
@@ -95379,6 +95405,19 @@
                 "$districtName": "limhamn",
                 "last_accept": 17,
                 "$last_seen": "2024-03-15T07:44:47.087Z"
+              },
+              {
+                "id": 120944,
+                "rent": 12891,
+                "area": 79.6,
+                "street": "nätsnäcksgränd",
+                "street_number": "11",
+                "city": "malmö",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "limhamn",
+                "last_accept": 446,
+                "$last_seen": "2024-05-07T05:55:49.268Z"
               },
               {
                 "id": 121755,
@@ -112600,6 +112639,19 @@
                 "$districtName": "österhaninge",
                 "last_accept": 25,
                 "$last_seen": "2024-04-12T11:50:38.593Z"
+              },
+              {
+                "id": 121797,
+                "rent": 8536,
+                "area": 34.7,
+                "street": "vardövägen",
+                "street_number": "44",
+                "city": "stockholm",
+                "municipality": "haninge",
+                "county": "stockholms län",
+                "$districtName": "österhaninge",
+                "last_accept": 92,
+                "$last_seen": "2024-05-07T05:55:49.268Z"
               },
               {
                 "id": 122418,
