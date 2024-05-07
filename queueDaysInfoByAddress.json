@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-05-07T11:50:29.222Z",
+  "lastUpdatedAt": "2024-05-07T13:09:50.402Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -83496,6 +83496,19 @@
                 "$last_seen": "2024-04-30T05:53:28.141Z"
               },
               {
+                "id": 125908,
+                "rent": 12307,
+                "area": 94,
+                "street": "smyckegatan",
+                "street_number": "60",
+                "city": "västra frölunda",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tynnered",
+                "last_accept": 1896,
+                "$last_seen": "2024-05-07T11:50:29.222Z"
+              },
+              {
                 "id": 126133,
                 "rent": 13338,
                 "area": 106,
@@ -112169,6 +112182,19 @@
                 "$districtName": "skarpnäck",
                 "last_accept": 1931,
                 "$last_seen": "2024-02-05T13:35:08.694Z"
+              },
+              {
+                "id": 124657,
+                "rent": 9736,
+                "area": 65,
+                "street": "lagavägen",
+                "street_number": "29",
+                "city": "bagarmossen",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "skarpnäck",
+                "last_accept": 2052,
+                "$last_seen": "2024-05-07T11:50:29.222Z"
               }
             ]
           }
@@ -112220,6 +112246,19 @@
                 "$districtName": "spånga",
                 "last_accept": 836,
                 "$last_seen": "2024-02-06T09:35:01.950Z"
+              },
+              {
+                "id": 126135,
+                "rent": 9307,
+                "area": 65.4,
+                "street": "nybykroken",
+                "street_number": "31",
+                "city": "spånga ",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "spånga",
+                "last_accept": 1189,
+                "$last_seen": "2024-05-07T11:50:29.222Z"
               }
             ]
           }
