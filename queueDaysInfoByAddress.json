@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-05-07T09:53:44.476Z",
+  "lastUpdatedAt": "2024-05-07T10:57:13.756Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -68519,6 +68519,19 @@
                 "$districtName": "gunnared",
                 "last_accept": 1129,
                 "$last_seen": "2024-03-05T07:33:54.214Z"
+              },
+              {
+                "id": 126832,
+                "rent": 5225,
+                "area": 29,
+                "street": "lagerbladsgatan",
+                "street_number": "6",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "gunnared",
+                "last_accept": 15,
+                "$last_seen": "2024-05-07T09:53:44.476Z"
               }
             ],
             "gårdstensvägen": [
@@ -109713,6 +109726,19 @@
                 "$districtName": "hässelby",
                 "last_accept": 225,
                 "$last_seen": "2024-05-01T07:50:23.996Z"
+              },
+              {
+                "id": 127401,
+                "rent": 6362,
+                "area": 20,
+                "street": "fyrspannsgatan",
+                "street_number": "158",
+                "city": "hässelby",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "hässelby",
+                "last_accept": 428,
+                "$last_seen": "2024-05-07T09:53:44.476Z"
               },
               {
                 "id": 127404,
