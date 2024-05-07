@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-05-07T06:58:14.197Z",
+  "lastUpdatedAt": "2024-05-07T07:55:55.926Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -34959,6 +34959,19 @@
             ],
             "blidvädersgatan": [
               {
+                "id": 123427,
+                "rent": 7166,
+                "area": 58,
+                "street": "blidvädersgatan",
+                "street_number": "46",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "biskopsgården",
+                "last_accept": 1519,
+                "$last_seen": "2024-05-07T06:58:14.197Z"
+              },
+              {
                 "id": 123439,
                 "rent": 4052,
                 "area": 23,
@@ -66060,6 +66073,19 @@
                 "$districtName": "högsbo",
                 "last_accept": 1381,
                 "$last_seen": "2024-04-16T08:55:06.141Z"
+              },
+              {
+                "id": 122942,
+                "rent": 6374,
+                "area": 42,
+                "street": "skäpplandsgatan",
+                "street_number": "5",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 1711,
+                "$last_seen": "2024-05-07T06:58:14.197Z"
               },
               {
                 "id": 122944,
@@ -115329,6 +115355,19 @@
                 "$districtName": "linköpings sankt lars",
                 "last_accept": 275,
                 "$last_seen": "2024-04-08T06:53:55.693Z"
+              },
+              {
+                "id": 124410,
+                "rent": 6011,
+                "area": 40,
+                "street": "nya tanneforsvägen",
+                "street_number": "30 c",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "linköpings sankt lars",
+                "last_accept": 279,
+                "$last_seen": "2024-05-07T06:58:14.197Z"
               }
             ],
             "gamla tanneforsvägen": [
