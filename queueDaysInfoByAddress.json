@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-05-08T10:58:02.634Z",
+  "lastUpdatedAt": "2024-05-08T11:54:52.930Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -73333,6 +73333,19 @@
                 "$districtName": "örgryte",
                 "last_accept": 1118,
                 "$last_seen": "2024-04-18T05:56:13.005Z"
+              },
+              {
+                "id": 125334,
+                "rent": 11400,
+                "area": 70,
+                "street": "smörgatan",
+                "street_number": "106",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "örgryte",
+                "last_accept": 1909,
+                "$last_seen": "2024-05-08T10:58:02.634Z"
               }
             ],
             "s:t pauligatan": [
