@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-05-08T07:52:44.418Z",
+  "lastUpdatedAt": "2024-05-08T08:53:16.474Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -69160,6 +69160,19 @@
                 "$last_seen": "2024-05-07T08:55:50.620Z"
               },
               {
+                "id": 126827,
+                "rent": 5259,
+                "area": 30,
+                "street": "gårdstensvägen",
+                "street_number": "51",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "gunnared",
+                "last_accept": 413,
+                "$last_seen": "2024-05-08T07:52:44.418Z"
+              },
+              {
                 "id": 126829,
                 "rent": 5549,
                 "area": 33,
@@ -81729,6 +81742,19 @@
                 "$districtName": "askim",
                 "last_accept": 619,
                 "$last_seen": "2024-01-08T08:40:50.809Z"
+              },
+              {
+                "id": 125647,
+                "rent": 7778,
+                "area": 33,
+                "street": "sisjöbäckensväg",
+                "street_number": "24",
+                "city": "askim",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "askim",
+                "last_accept": 42,
+                "$last_seen": "2024-05-08T07:52:44.418Z"
               }
             ]
           }
@@ -83598,6 +83624,19 @@
                 "$districtName": "tynnered",
                 "last_accept": 1896,
                 "$last_seen": "2024-05-07T11:50:29.222Z"
+              },
+              {
+                "id": 125911,
+                "rent": 10208,
+                "area": 84,
+                "street": "smyckegatan",
+                "street_number": "76",
+                "city": "västra frölunda",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tynnered",
+                "last_accept": 1726,
+                "$last_seen": "2024-05-08T07:52:44.418Z"
               },
               {
                 "id": 126133,
@@ -113737,6 +113776,19 @@
                 "$districtName": "berga",
                 "last_accept": 0,
                 "$last_seen": "2024-04-26T08:55:48.022Z"
+              },
+              {
+                "id": 125073,
+                "rent": 7514,
+                "area": 55,
+                "street": "prästbolsgatan",
+                "street_number": "40 a",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "berga",
+                "last_accept": 117,
+                "$last_seen": "2024-05-08T06:54:53.754Z"
               },
               {
                 "id": 125075,
