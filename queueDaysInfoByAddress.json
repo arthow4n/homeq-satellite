@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-05-08T09:53:00.718Z",
+  "lastUpdatedAt": "2024-05-08T10:58:02.634Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -35963,6 +35963,19 @@
                 "$districtName": "nylöse",
                 "last_accept": 1779,
                 "$last_seen": "2024-05-03T08:55:22.194Z"
+              },
+              {
+                "id": 124915,
+                "rent": 6870,
+                "area": 36,
+                "street": "holländareplatsen",
+                "street_number": "15",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "nylöse",
+                "last_accept": 1398,
+                "$last_seen": "2024-05-08T09:53:00.718Z"
               }
             ],
             "brahegatan": [
@@ -100231,6 +100244,19 @@
                 "$districtName": "hyllie",
                 "last_accept": 1748,
                 "$last_seen": "2024-04-19T11:51:01.475Z"
+              },
+              {
+                "id": 125349,
+                "rent": 5829,
+                "area": 35,
+                "street": "hyllie vattenparksgata",
+                "street_number": "15 m",
+                "city": "malmö",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "hyllie",
+                "last_accept": 1671,
+                "$last_seen": "2024-05-08T08:53:16.474Z"
               }
             ],
             "svansjögatan": [
