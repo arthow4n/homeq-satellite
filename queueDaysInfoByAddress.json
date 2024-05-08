@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-05-08T16:59:11.986Z",
+  "lastUpdatedAt": "2024-05-08T17:53:30.925Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -105869,6 +105869,19 @@
                 "$districtName": "östra torn",
                 "last_accept": 4,
                 "$last_seen": "2024-04-28T08:55:28.815Z"
+              },
+              {
+                "id": 127811,
+                "rent": 12014,
+                "area": 70,
+                "street": "vipeholms allé",
+                "street_number": "13",
+                "city": "lund",
+                "municipality": "lund",
+                "county": "skåne län",
+                "$districtName": "östra torn",
+                "last_accept": 16,
+                "$last_seen": "2024-05-08T16:59:11.986Z"
               }
             ],
             "brunnshögsgatan": [
@@ -110846,6 +110859,19 @@
                 "$districtName": "skärholmen",
                 "last_accept": 372,
                 "$last_seen": "2024-03-15T07:44:47.087Z"
+              },
+              {
+                "id": 119347,
+                "rent": 8551,
+                "area": 35,
+                "street": "vårbergsvägen",
+                "street_number": "79",
+                "city": "stockholm",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "skärholmen",
+                "last_accept": 950,
+                "$last_seen": "2024-05-08T15:53:16.043Z"
               },
               {
                 "id": 119349,
