@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-05-08T13:13:24.594Z",
+  "lastUpdatedAt": "2024-05-08T13:54:29.977Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -107130,6 +107130,19 @@
                 "$districtName": "vantör",
                 "last_accept": 1991,
                 "$last_seen": "2024-05-08T11:54:52.930Z"
+              },
+              {
+                "id": 125125,
+                "rent": 6557,
+                "area": 49,
+                "street": "glanshammarsgatan",
+                "street_number": "56",
+                "city": "bandhagen",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 1861,
+                "$last_seen": "2024-05-08T13:13:24.594Z"
               }
             ],
             "bäverbäcksgränd": [
