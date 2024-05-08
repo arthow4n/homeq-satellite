@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-05-08T05:51:21.724Z",
+  "lastUpdatedAt": "2024-05-08T06:54:53.754Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -49336,6 +49336,19 @@
                 "$districtName": "kortedala",
                 "last_accept": 1155,
                 "$last_seen": "2024-04-02T07:44:42.459Z"
+              },
+              {
+                "id": 123184,
+                "rent": 9586,
+                "area": 72,
+                "street": "solvarvsgatan",
+                "street_number": "10",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "kortedala",
+                "last_accept": 1699,
+                "$last_seen": "2024-05-08T05:51:21.724Z"
               }
             ],
             "nymånegatan": [
