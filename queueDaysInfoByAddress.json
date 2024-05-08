@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-05-08T11:54:52.930Z",
+  "lastUpdatedAt": "2024-05-08T13:13:24.594Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -97679,6 +97679,19 @@
                 "$districtName": "kirseberg",
                 "last_accept": 293,
                 "$last_seen": "2024-01-09T13:45:41.647Z"
+              },
+              {
+                "id": 125565,
+                "rent": 7871,
+                "area": 52,
+                "street": "rantzowsgatan",
+                "street_number": "12b",
+                "city": "malmö",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "kirseberg",
+                "last_accept": 395,
+                "$last_seen": "2024-05-08T11:54:52.930Z"
               }
             ],
             "kirsebergsgatan": [
@@ -107104,6 +107117,19 @@
                 "$districtName": "vantör",
                 "last_accept": 1676,
                 "$last_seen": "2024-04-12T11:50:38.593Z"
+              },
+              {
+                "id": 124149,
+                "rent": 10003,
+                "area": 76,
+                "street": "glanshammarsgatan",
+                "street_number": "61",
+                "city": "bandhagen",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 1991,
+                "$last_seen": "2024-05-08T11:54:52.930Z"
               }
             ],
             "bäverbäcksgränd": [
