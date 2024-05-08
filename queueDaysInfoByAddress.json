@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-05-08T08:53:16.474Z",
+  "lastUpdatedAt": "2024-05-08T09:53:00.718Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -36203,6 +36203,19 @@
                 "$districtName": "nylöse",
                 "last_accept": 856,
                 "$last_seen": "2024-04-10T06:55:36.172Z"
+              },
+              {
+                "id": 125968,
+                "rent": 10157,
+                "area": 53,
+                "street": "gamlestadsvägen",
+                "street_number": "10 d",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "nylöse",
+                "last_accept": 1451,
+                "$last_seen": "2024-05-08T08:53:16.474Z"
               }
             ],
             "lars kaggsgatan": [
@@ -79995,6 +80008,19 @@
                 "$districtName": "brunnsbo",
                 "last_accept": 1164,
                 "$last_seen": "2024-04-10T13:08:46.691Z"
+              },
+              {
+                "id": 126131,
+                "rent": 9057,
+                "area": 62,
+                "street": "folkvisegatan",
+                "street_number": "20",
+                "city": "hisings backa",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brunnsbo",
+                "last_accept": 1001,
+                "$last_seen": "2024-05-08T08:53:16.474Z"
               }
             ],
             "klassikergatan": [
