@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-05-09T09:53:09.583Z",
+  "lastUpdatedAt": "2024-05-09T10:58:44.197Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -56789,6 +56789,19 @@
                 "$districtName": "göteborgs vasa",
                 "last_accept": 1942,
                 "$last_seen": "2024-05-03T08:55:22.194Z"
+              },
+              {
+                "id": 126530,
+                "rent": 13234,
+                "area": 86,
+                "street": "södra vägen",
+                "street_number": "29",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "göteborgs vasa",
+                "last_accept": 1948,
+                "$last_seen": "2024-05-09T09:53:09.583Z"
               }
             ],
             "viktor rydbergsgatan": [
