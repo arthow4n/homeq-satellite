@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-05-10T08:57:29.257Z",
+  "lastUpdatedAt": "2024-05-10T09:53:37.231Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -77575,6 +77575,19 @@
                 "$districtName": "härlanda",
                 "last_accept": 1725,
                 "$last_seen": "2024-04-26T10:58:33.567Z"
+              },
+              {
+                "id": 125496,
+                "rent": 5005,
+                "area": 36,
+                "street": "solrosgatan",
+                "street_number": "8a",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "härlanda",
+                "last_accept": 1843,
+                "$last_seen": "2024-05-10T08:57:29.257Z"
               }
             ],
             "fräntorpsgatan": [
@@ -77748,6 +77761,19 @@
                 "$districtName": "härlanda",
                 "last_accept": 1431,
                 "$last_seen": "2024-04-11T13:52:49.456Z"
+              },
+              {
+                "id": 126000,
+                "rent": 6820,
+                "area": 42,
+                "street": "ahrenbergsgatan",
+                "street_number": "11",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "härlanda",
+                "last_accept": 1400,
+                "$last_seen": "2024-05-10T08:57:29.257Z"
               }
             ],
             "utåkersgatan": [
@@ -94400,6 +94426,19 @@
                 "$districtName": "husie",
                 "last_accept": 32,
                 "$last_seen": "2024-05-02T06:54:52.386Z"
+              },
+              {
+                "id": 124632,
+                "rent": 9896,
+                "area": 66,
+                "street": "lönnebergagatan",
+                "street_number": "4",
+                "city": "malmö",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "husie",
+                "last_accept": 4,
+                "$last_seen": "2024-05-10T08:57:29.257Z"
               }
             ]
           },
@@ -113085,6 +113124,19 @@
                 "$last_seen": "2024-03-13T08:37:04.575Z"
               },
               {
+                "id": 121577,
+                "rent": 7795,
+                "area": 29,
+                "street": "vardövägen",
+                "street_number": "46",
+                "city": "stockholm",
+                "municipality": "haninge",
+                "county": "stockholms län",
+                "$districtName": "österhaninge",
+                "last_accept": 335,
+                "$last_seen": "2024-05-10T08:57:29.257Z"
+              },
+              {
                 "id": 121580,
                 "rent": 8536,
                 "area": 35,
@@ -113148,6 +113200,19 @@
                 "$districtName": "österhaninge",
                 "last_accept": 451,
                 "$last_seen": "2024-05-03T13:53:21.173Z"
+              },
+              {
+                "id": 124362,
+                "rent": 7795,
+                "area": 29,
+                "street": "vardövägen",
+                "street_number": "46",
+                "city": "stockholm",
+                "municipality": "haninge",
+                "county": "stockholms län",
+                "$districtName": "österhaninge",
+                "last_accept": 158,
+                "$last_seen": "2024-05-10T08:57:29.257Z"
               }
             ]
           }
@@ -114163,6 +114228,19 @@
                 "$districtName": "linköpings domkyrkodistrikt",
                 "last_accept": 5,
                 "$last_seen": "2024-03-21T13:46:39.111Z"
+              },
+              {
+                "id": 123337,
+                "rent": 11198,
+                "area": 68.9,
+                "street": "bataljonsgatan",
+                "street_number": "8",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "linköpings domkyrkodistrikt",
+                "last_accept": 5,
+                "$last_seen": "2024-05-10T08:57:29.257Z"
               }
             ],
             "kunskapslänken": [
