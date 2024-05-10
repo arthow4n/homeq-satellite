@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-05-10T07:52:30.718Z",
+  "lastUpdatedAt": "2024-05-10T08:57:29.257Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -85709,6 +85709,21 @@
                 "last_accept": 1354,
                 "$last_seen": "2024-04-26T08:55:48.022Z"
               }
+            ],
+            "ögonmåttsgatan": [
+              {
+                "id": 126274,
+                "rent": 9832,
+                "area": 91,
+                "street": "ögonmåttsgatan",
+                "street_number": "9",
+                "city": "västra frölunda",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "högsbo",
+                "last_accept": 1949,
+                "$last_seen": "2024-05-10T07:52:30.718Z"
+              }
             ]
           }
         },
@@ -97000,6 +97015,19 @@
                 "$districtName": "kirseberg",
                 "last_accept": 368,
                 "$last_seen": "2024-04-26T07:51:26.753Z"
+              },
+              {
+                "id": 127357,
+                "rent": 6344,
+                "area": 47,
+                "street": "högamöllegatan",
+                "street_number": "9 a",
+                "city": "malmö",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "kirseberg",
+                "last_accept": 543,
+                "$last_seen": "2024-05-10T07:52:30.718Z"
               }
             ],
             "floragatan": [
