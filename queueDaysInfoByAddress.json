@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-05-10T10:58:36.871Z",
+  "lastUpdatedAt": "2024-05-10T11:51:43.406Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -82099,6 +82099,19 @@
                 "$districtName": "tynnered",
                 "last_accept": 1637,
                 "$last_seen": "2024-04-12T11:50:38.593Z"
+              },
+              {
+                "id": 123194,
+                "rent": 5765,
+                "area": 38,
+                "street": "karneolgatan",
+                "street_number": "39",
+                "city": "västra frölunda",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tynnered",
+                "last_accept": 1314,
+                "$last_seen": "2024-05-10T10:58:36.871Z"
               }
             ],
             "smaragdgatan": [
@@ -104929,6 +104942,19 @@
                 "$last_seen": "2024-04-08T07:48:34.160Z"
               },
               {
+                "id": 119547,
+                "rent": 8537,
+                "area": 53.6,
+                "street": "skomakarebyn",
+                "street_number": "4p",
+                "city": "bunkeflostrand",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "bunkeflo",
+                "last_accept": 14,
+                "$last_seen": "2024-05-10T10:58:36.871Z"
+              },
+              {
                 "id": 121255,
                 "rent": 8704,
                 "area": 59.9,
@@ -113605,19 +113631,6 @@
                 "$last_seen": "2024-04-12T07:53:58.625Z"
               },
               {
-                "id": 114044,
-                "rent": 9346,
-                "area": 54,
-                "street": "söderleden",
-                "street_number": "39b",
-                "city": "linköping",
-                "municipality": "linköping",
-                "county": "östergötlands län",
-                "$districtName": "berga",
-                "last_accept": 39,
-                "$last_seen": "2024-05-06T10:57:44.807Z"
-              },
-              {
                 "id": 114180,
                 "rent": 6714,
                 "area": 34.8,
@@ -114280,6 +114293,19 @@
                 "$districtName": "linköpings domkyrkodistrikt",
                 "last_accept": 5,
                 "$last_seen": "2024-03-21T13:46:39.111Z"
+              },
+              {
+                "id": 118565,
+                "rent": 8521,
+                "area": 49.1,
+                "street": "bataljonsgatan",
+                "street_number": "8",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "linköpings domkyrkodistrikt",
+                "last_accept": 17,
+                "$last_seen": "2024-05-10T10:58:36.871Z"
               },
               {
                 "id": 123337,
