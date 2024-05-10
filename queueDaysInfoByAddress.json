@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-05-10T09:53:37.231Z",
+  "lastUpdatedAt": "2024-05-10T10:58:36.871Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -68239,6 +68239,19 @@
                 "$districtName": "brämaregården",
                 "last_accept": 1903,
                 "$last_seen": "2024-03-26T15:44:33.278Z"
+              },
+              {
+                "id": 123173,
+                "rent": 8418,
+                "area": 48.7,
+                "street": "karlavagnsgatan",
+                "street_number": "22",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brämaregården",
+                "last_accept": 1948,
+                "$last_seen": "2024-05-10T09:53:37.231Z"
               }
             ],
             "björnsonsgatan": [
@@ -94986,6 +94999,19 @@
                 "$districtName": "möllevången",
                 "last_accept": 1324,
                 "$last_seen": "2024-01-24T13:37:47.051Z"
+              },
+              {
+                "id": 125551,
+                "rent": 9607,
+                "area": 82,
+                "street": "almbacksgatan",
+                "street_number": "11 b",
+                "city": "malmö",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "möllevången",
+                "last_accept": 1871,
+                "$last_seen": "2024-05-10T09:53:37.231Z"
               }
             ],
             "uppsalagatan": [
@@ -98230,6 +98256,19 @@
                 "$districtName": "malmö sankt pauli",
                 "last_accept": 437,
                 "$last_seen": "2024-04-29T11:50:05.393Z"
+              },
+              {
+                "id": 125563,
+                "rent": 14432,
+                "area": 121,
+                "street": "södra förstadsgatan",
+                "street_number": "40 a",
+                "city": "malmö",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "malmö sankt pauli",
+                "last_accept": 1627,
+                "$last_seen": "2024-05-10T09:53:37.231Z"
               }
             ],
             "östra förstadsgatan": [
@@ -113124,6 +113163,19 @@
                 "$last_seen": "2024-03-13T08:37:04.575Z"
               },
               {
+                "id": 120258,
+                "rent": 12681,
+                "area": 57.6,
+                "street": "vardövägen",
+                "street_number": "53",
+                "city": "stockholm",
+                "municipality": "haninge",
+                "county": "stockholms län",
+                "$districtName": "österhaninge",
+                "last_accept": 727,
+                "$last_seen": "2024-05-10T09:53:37.231Z"
+              },
+              {
                 "id": 121577,
                 "rent": 7795,
                 "area": 29,
@@ -113904,6 +113956,19 @@
                 "$districtName": "berga",
                 "last_accept": 37,
                 "$last_seen": "2024-05-06T11:51:06.126Z"
+              },
+              {
+                "id": 126438,
+                "rent": 10228,
+                "area": 92.5,
+                "street": "konstruktörsgatan",
+                "street_number": "70",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "berga",
+                "last_accept": 33,
+                "$last_seen": "2024-05-10T09:53:37.231Z"
               }
             ],
             "ridderstads gata": [
@@ -114191,19 +114256,6 @@
                 "$last_seen": "2024-04-23T06:58:45.250Z"
               },
               {
-                "id": 116270,
-                "rent": 8817,
-                "area": 50.7,
-                "street": "bataljonsgatan",
-                "street_number": "10",
-                "city": "linköping",
-                "municipality": "linköping",
-                "county": "östergötlands län",
-                "$districtName": "linköpings domkyrkodistrikt",
-                "last_accept": 131,
-                "$last_seen": "2024-05-07T13:09:50.402Z"
-              },
-              {
                 "id": 117151,
                 "rent": 6265,
                 "area": 31.5,
@@ -114388,6 +114440,32 @@
                 "$districtName": "linköpings domkyrkodistrikt",
                 "last_accept": 23,
                 "$last_seen": "2024-04-08T13:05:42.078Z"
+              },
+              {
+                "id": 121109,
+                "rent": 8817,
+                "area": 50.7,
+                "street": "honnörsgatan",
+                "street_number": "3",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "linköpings domkyrkodistrikt",
+                "last_accept": 15,
+                "$last_seen": "2024-05-10T09:53:37.231Z"
+              },
+              {
+                "id": 121723,
+                "rent": 11118,
+                "area": 68.8,
+                "street": "honnörsgatan",
+                "street_number": "3",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "linköpings domkyrkodistrikt",
+                "last_accept": 585,
+                "$last_seen": "2024-05-10T09:53:37.231Z"
               }
             ],
             "klostergatan": [
@@ -114696,6 +114774,21 @@
                 "$districtName": "linköpings domkyrkodistrikt",
                 "last_accept": 227,
                 "$last_seen": "2024-04-30T11:49:10.721Z"
+              }
+            ],
+            "westmansgatan": [
+              {
+                "id": 126440,
+                "rent": 8587,
+                "area": 81.8,
+                "street": "westmansgatan",
+                "street_number": "94",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "linköpings domkyrkodistrikt",
+                "last_accept": 2296,
+                "$last_seen": "2024-05-10T09:53:37.231Z"
               }
             ]
           },
@@ -115590,17 +115683,30 @@
                 "$last_seen": "2024-05-07T07:55:55.926Z"
               },
               {
-                "id": 125417,
-                "rent": 6375,
-                "area": 72,
+                "id": 125795,
+                "rent": 6545,
+                "area": 75,
                 "street": "ekholmsvägen",
-                "street_number": "20a",
+                "street_number": "30a",
                 "city": "linköping",
                 "municipality": "linköping",
                 "county": "östergötlands län",
                 "$districtName": "landeryd",
-                "last_accept": 642,
-                "$last_seen": "2024-05-06T13:53:15.719Z"
+                "last_accept": 87,
+                "$last_seen": "2024-05-10T09:53:37.231Z"
+              },
+              {
+                "id": 126434,
+                "rent": 6834,
+                "area": 65.5,
+                "street": "ekholmsvägen",
+                "street_number": "98",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "landeryd",
+                "last_accept": 35,
+                "$last_seen": "2024-05-10T09:53:37.231Z"
               }
             ],
             "valthornsgatan": [
@@ -115802,6 +115908,19 @@
                 "$districtName": "landeryd",
                 "last_accept": 132,
                 "$last_seen": "2024-04-29T10:55:57.586Z"
+              },
+              {
+                "id": 126576,
+                "rent": 7087,
+                "area": 82,
+                "street": "ekholmens centrum",
+                "street_number": "1a",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "landeryd",
+                "last_accept": 755,
+                "$last_seen": "2024-05-10T09:53:37.231Z"
               }
             ],
             "skogsvallsgatan": [
