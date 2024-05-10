@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-05-10T13:10:33.907Z",
+  "lastUpdatedAt": "2024-05-10T13:53:15.602Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -92366,6 +92366,19 @@
                 "$districtName": "partille",
                 "last_accept": 910,
                 "$last_seen": "2024-05-07T05:55:49.268Z"
+              },
+              {
+                "id": 126600,
+                "rent": 9766,
+                "area": 69,
+                "street": "oluff nilssonsväg",
+                "street_number": "6",
+                "city": "partille",
+                "municipality": "partille",
+                "county": "västra götalands län",
+                "$districtName": "partille",
+                "last_accept": 1306,
+                "$last_seen": "2024-05-10T13:10:33.907Z"
               }
             ],
             "oluff nilssons väg": [
