@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-05-12T21:51:39.742Z",
+  "lastUpdatedAt": "2024-05-12T22:54:16.309Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -94232,6 +94232,21 @@
                 "$last_seen": "2024-04-26T06:59:36.121Z"
               }
             ],
+            "jakob nilsgatan": [
+              {
+                "id": 94575,
+                "rent": 25000,
+                "area": 165,
+                "street": "jakob nilsgatan",
+                "street_number": "3",
+                "city": "malmö",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "malmö sankt petri",
+                "last_accept": 367,
+                "$last_seen": "2024-05-12T21:51:39.742Z"
+              }
+            ],
             "rörsjögatan": [
               {
                 "id": 95196,
@@ -110209,6 +110224,32 @@
                 "$districtName": "hässelby",
                 "last_accept": 87,
                 "$last_seen": "2024-05-05T14:52:53.578Z"
+              },
+              {
+                "id": 127406,
+                "rent": 6480,
+                "area": 21,
+                "street": "fyrspannsgatan",
+                "street_number": "158",
+                "city": "hässelby",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "hässelby",
+                "last_accept": 5,
+                "$last_seen": "2024-05-12T21:51:39.742Z"
+              },
+              {
+                "id": 128096,
+                "rent": 6362,
+                "area": 20,
+                "street": "fyrspannsgatan",
+                "street_number": "158",
+                "city": "hässelby",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "hässelby",
+                "last_accept": 216,
+                "$last_seen": "2024-05-12T21:51:39.742Z"
               }
             ]
           }
