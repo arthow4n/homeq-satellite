@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-05-13T07:51:43.600Z",
+  "lastUpdatedAt": "2024-05-13T08:58:12.717Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -43561,6 +43561,19 @@
                 "$districtName": "lundby",
                 "last_accept": 933,
                 "$last_seen": "2024-05-02T09:49:38.168Z"
+              },
+              {
+                "id": 125641,
+                "rent": 11816,
+                "area": 83,
+                "street": "fyrklöversgatan",
+                "street_number": "98",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "lundby",
+                "last_accept": 1127,
+                "$last_seen": "2024-05-13T07:51:43.600Z"
               }
             ],
             "ö keillersgatan": [
@@ -84586,6 +84599,21 @@
                 "last_accept": 1598,
                 "$last_seen": "2023-06-05T05:43:25.563Z"
               }
+            ],
+            "lllla grevegårdsvägen": [
+              {
+                "id": 126047,
+                "rent": 5659,
+                "area": 37,
+                "street": "lllla grevegårdsvägen",
+                "street_number": "39",
+                "city": "västra frölunda",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tynnered",
+                "last_accept": 1015,
+                "$last_seen": "2024-05-13T07:51:43.600Z"
+              }
             ]
           },
           "västra frölunda": {
@@ -106511,6 +106539,19 @@
                 "$districtName": "dalby",
                 "last_accept": 0,
                 "$last_seen": "2024-04-05T07:47:46.656Z"
+              },
+              {
+                "id": 123506,
+                "rent": 6490,
+                "area": 35,
+                "street": "tresädesgränden",
+                "street_number": "8b",
+                "city": "dalby",
+                "municipality": "lund",
+                "county": "skåne län",
+                "$districtName": "dalby",
+                "last_accept": 455,
+                "$last_seen": "2024-05-13T07:51:43.600Z"
               }
             ]
           }
@@ -108015,6 +108056,19 @@
                 "$districtName": "vantör",
                 "last_accept": 1911,
                 "$last_seen": "2024-04-11T11:51:13.734Z"
+              },
+              {
+                "id": 122659,
+                "rent": 7578,
+                "area": 45,
+                "street": "kilsmogatan",
+                "street_number": "11",
+                "city": "bandhagen",
+                "municipality": "stockholm",
+                "county": "stockholms län",
+                "$districtName": "vantör",
+                "last_accept": 1871,
+                "$last_seen": "2024-05-13T07:51:43.600Z"
               }
             ],
             "stålbogavägen": [
