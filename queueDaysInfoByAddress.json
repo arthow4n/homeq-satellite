@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-05-13T05:57:54.320Z",
+  "lastUpdatedAt": "2024-05-13T07:00:02.400Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -48035,19 +48035,6 @@
                 "$last_seen": "2024-05-06T13:53:15.719Z"
               },
               {
-                "id": 125535,
-                "rent": 12830,
-                "area": 99,
-                "street": "kosmosgatan",
-                "street_number": "11",
-                "city": "göteborg",
-                "municipality": "göteborg",
-                "county": "västra götalands län",
-                "$districtName": "bergsjön",
-                "last_accept": 4,
-                "$last_seen": "2024-05-06T14:55:39.581Z"
-              },
-              {
                 "id": 127322,
                 "rent": 11156,
                 "area": 77,
@@ -95130,6 +95117,19 @@
             ],
             "simrishamnsgatan": [
               {
+                "id": 123221,
+                "rent": 6469,
+                "area": 37,
+                "street": "simrishamnsgatan",
+                "street_number": "12 c",
+                "city": "malmö",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "möllevången",
+                "last_accept": 1847,
+                "$last_seen": "2024-05-13T05:57:54.320Z"
+              },
+              {
                 "id": 124662,
                 "rent": 6320,
                 "area": 36,
@@ -116258,6 +116258,19 @@
                 "$districtName": "linköpings sankt lars",
                 "last_accept": 279,
                 "$last_seen": "2024-05-07T06:58:14.197Z"
+              },
+              {
+                "id": 126158,
+                "rent": 6929,
+                "area": 56,
+                "street": "nya tanneforsvägen",
+                "street_number": "34 c",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "linköpings sankt lars",
+                "last_accept": 852,
+                "$last_seen": "2024-05-13T05:57:54.320Z"
               }
             ],
             "gamla tanneforsvägen": [
@@ -116312,6 +116325,19 @@
                 "$districtName": "linköpings sankt lars",
                 "last_accept": 79,
                 "$last_seen": "2024-04-29T11:50:05.393Z"
+              },
+              {
+                "id": 126252,
+                "rent": 9535,
+                "area": 61,
+                "street": "gamla tanneforsvägen",
+                "street_number": "90",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "linköpings sankt lars",
+                "last_accept": 17,
+                "$last_seen": "2024-05-13T05:57:54.320Z"
               }
             ],
             "linnégatan": [
