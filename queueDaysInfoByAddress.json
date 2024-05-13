@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-05-13T08:58:12.717Z",
+  "lastUpdatedAt": "2024-05-13T09:53:54.766Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -48048,6 +48048,19 @@
                 "$last_seen": "2024-05-06T13:53:15.719Z"
               },
               {
+                "id": 125535,
+                "rent": 12830,
+                "area": 99,
+                "street": "kosmosgatan",
+                "street_number": "11",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "bergsjön",
+                "last_accept": 11,
+                "$last_seen": "2024-05-13T08:58:12.717Z"
+              },
+              {
                 "id": 127322,
                 "rent": 11156,
                 "area": 77,
@@ -68252,6 +68265,19 @@
                 "$districtName": "brämaregården",
                 "last_accept": 1948,
                 "$last_seen": "2024-05-10T09:53:37.231Z"
+              },
+              {
+                "id": 125347,
+                "rent": 8247,
+                "area": 55.5,
+                "street": "karlavagnsgatan",
+                "street_number": "22",
+                "city": "göteborg",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "brämaregården",
+                "last_accept": 1952,
+                "$last_seen": "2024-05-13T08:58:12.717Z"
               }
             ],
             "björnsonsgatan": [
@@ -84572,6 +84598,19 @@
                 "$last_seen": "2024-02-27T12:50:24.500Z"
               },
               {
+                "id": 120502,
+                "rent": 9849,
+                "area": 75,
+                "street": "lilla grevegårdsvägen",
+                "street_number": "39",
+                "city": "västra frölunda",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "tynnered",
+                "last_accept": 1315,
+                "$last_seen": "2024-05-13T08:58:12.717Z"
+              },
+              {
                 "id": 121017,
                 "rent": 7344,
                 "area": 74,
@@ -86847,6 +86886,19 @@
                 "$districtName": "kortedala",
                 "last_accept": 145,
                 "$last_seen": "2024-04-23T06:58:45.250Z"
+              },
+              {
+                "id": 124819,
+                "rent": 8351,
+                "area": 58,
+                "street": "januarigatan",
+                "street_number": "18",
+                "city": "göteborg ",
+                "municipality": "göteborg",
+                "county": "västra götalands län",
+                "$districtName": "kortedala",
+                "last_accept": 835,
+                "$last_seen": "2024-05-13T08:58:12.717Z"
               },
               {
                 "id": 124827,
@@ -95169,6 +95221,21 @@
                 "$districtName": "möllevången",
                 "last_accept": 1195,
                 "$last_seen": "2024-04-23T09:50:15.705Z"
+              }
+            ],
+            "björkgatan": [
+              {
+                "id": 123252,
+                "rent": 10538,
+                "area": 73,
+                "street": "björkgatan",
+                "street_number": "11",
+                "city": "malmö",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "möllevången",
+                "last_accept": 419,
+                "$last_seen": "2024-05-13T08:58:12.717Z"
               }
             ]
           },
@@ -105704,6 +105771,19 @@
                 "$districtName": "bunkeflo",
                 "last_accept": 10,
                 "$last_seen": "2024-02-16T10:39:08.305Z"
+              },
+              {
+                "id": 121654,
+                "rent": 10175,
+                "area": 70,
+                "street": "vagnmakarebyn",
+                "street_number": "6n",
+                "city": "bunkeflostrand",
+                "municipality": "malmö",
+                "county": "skåne län",
+                "$districtName": "bunkeflo",
+                "last_accept": 487,
+                "$last_seen": "2024-05-13T08:58:12.717Z"
               }
             ],
             "blågransgatan": [
