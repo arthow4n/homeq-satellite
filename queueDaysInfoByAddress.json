@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2024-05-13T07:00:02.400Z",
+  "lastUpdatedAt": "2024-05-13T07:51:43.600Z",
   "queueDaysInfoByAddress": {
     "": {
       "": {
@@ -115357,6 +115357,19 @@
                 "$districtName": "skäggetorp",
                 "last_accept": 2266,
                 "$last_seen": "2024-04-24T11:51:22.973Z"
+              },
+              {
+                "id": 123096,
+                "rent": 8991,
+                "area": 91,
+                "street": "fogdegatan",
+                "street_number": "16",
+                "city": "linköping",
+                "municipality": "linköping",
+                "county": "östergötlands län",
+                "$districtName": "skäggetorp",
+                "last_accept": 34,
+                "$last_seen": "2024-05-13T07:00:02.400Z"
               },
               {
                 "id": 123847,
