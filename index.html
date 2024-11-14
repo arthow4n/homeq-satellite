@@ -339,7 +339,7 @@
               const getQueueDaysFromResult = (r) =>
                 r.sorting_mode === "random"
                   ? -1
-                  : r.$object_ad
+                  : r.$object_ad?.last_accept !== undefined
                   ? r.$object_ad.last_accept
                   : Infinity;
 
