@@ -1,0 +1,6121 @@
+{
+  "lastUpdated": "2026-04-05T13:57:34.789Z",
+  "queuePointsOverTime": {
+    "2022-08": {
+      "count": 208,
+      "average": 1038,
+      "median": 1164
+    },
+    "2022-07": {
+      "count": 15,
+      "average": 1045,
+      "median": 1098
+    },
+    "2022-09": {
+      "count": 300,
+      "average": 985,
+      "median": 1155
+    },
+    "2022-10": {
+      "count": 272,
+      "average": 1070,
+      "median": 1197
+    },
+    "2022-11": {
+      "count": 356,
+      "average": 1029,
+      "median": 1141
+    },
+    "2022-12": {
+      "count": 242,
+      "average": 1097,
+      "median": 1184
+    },
+    "2023-01": {
+      "count": 361,
+      "average": 1077,
+      "median": 1212
+    },
+    "2023-02": {
+      "count": 357,
+      "average": 1027,
+      "median": 1152
+    },
+    "2023-03": {
+      "count": 514,
+      "average": 1000,
+      "median": 1149
+    },
+    "2023-04": {
+      "count": 457,
+      "average": 1017,
+      "median": 1157
+    },
+    "2023-05": {
+      "count": 464,
+      "average": 1066,
+      "median": 1256
+    },
+    "2023-06": {
+      "count": 581,
+      "average": 911,
+      "median": 1052
+    },
+    "2023-07": {
+      "count": 314,
+      "average": 1068,
+      "median": 1194
+    },
+    "2023-08": {
+      "count": 522,
+      "average": 1127,
+      "median": 1305
+    },
+    "2023-09": {
+      "count": 458,
+      "average": 1112,
+      "median": 1277
+    },
+    "2023-10": {
+      "count": 462,
+      "average": 1118,
+      "median": 1327
+    },
+    "2023-11": {
+      "count": 483,
+      "average": 1157,
+      "median": 1354
+    },
+    "2024-04": {
+      "count": 813,
+      "average": 888,
+      "median": 855
+    },
+    "2024-03": {
+      "count": 530,
+      "average": 1035,
+      "median": 1191
+    },
+    "2023-12": {
+      "count": 339,
+      "average": 1126,
+      "median": 1282
+    },
+    "2024-01": {
+      "count": 510,
+      "average": 1190,
+      "median": 1329
+    },
+    "2024-02": {
+      "count": 479,
+      "average": 1183,
+      "median": 1346
+    },
+    "2024-06": {
+      "count": 717,
+      "average": 918,
+      "median": 865
+    },
+    "2024-05": {
+      "count": 806,
+      "average": 923,
+      "median": 884
+    },
+    "2024-07": {
+      "count": 522,
+      "average": 954,
+      "median": 982
+    },
+    "2024-08": {
+      "count": 556,
+      "average": 908,
+      "median": 812
+    }
+  },
+  "queuePointsByCity": {
+    "Mölndal": {
+      "count": 236,
+      "average": 1497,
+      "median": 1499
+    },
+    "Göteborg": {
+      "count": 7168,
+      "average": 1230,
+      "median": 1333
+    },
+    "GÖTEBORG": {
+      "count": 233,
+      "average": 1013,
+      "median": 942
+    },
+    "Malmö": {
+      "count": 970,
+      "average": 415,
+      "median": 216
+    },
+    "Limhamn": {
+      "count": 245,
+      "average": 190,
+      "median": 23
+    },
+    "Bandhagen": {
+      "count": 296,
+      "average": 1659,
+      "median": 1715
+    },
+    "Hisings Backa": {
+      "count": 121,
+      "average": 1211,
+      "median": 1202
+    },
+    "Kållered": {
+      "count": 98,
+      "average": 1009,
+      "median": 1114
+    },
+    "Askim": {
+      "count": 80,
+      "average": 290,
+      "median": 266
+    },
+    "Västra Frölunda": {
+      "count": 360,
+      "average": 1207,
+      "median": 1298
+    },
+    "Hässelby": {
+      "count": 95,
+      "average": 657,
+      "median": 331
+    },
+    "Västra frölunda": {
+      "count": 81,
+      "average": 860,
+      "median": 870
+    },
+    "Stockholm": {
+      "count": 230,
+      "average": 814,
+      "median": 594
+    },
+    "Bunkeflostrand": {
+      "count": 166,
+      "average": 98,
+      "median": 0
+    },
+    "Spånga": {
+      "count": 110,
+      "average": 433,
+      "median": 127
+    },
+    "Linköping": {
+      "count": 699,
+      "average": 243,
+      "median": 30
+    },
+    "Lund": {
+      "count": 150,
+      "average": 432,
+      "median": 294
+    }
+  },
+  "queuePointsByROK": {
+    "1": {
+      "count": 2935,
+      "average": 959,
+      "median": 1076
+    },
+    "2": {
+      "count": 4699,
+      "average": 1038,
+      "median": 1188
+    },
+    "3": {
+      "count": 2906,
+      "average": 1050,
+      "median": 1198
+    },
+    "4": {
+      "count": 861,
+      "average": 1108,
+      "median": 1332
+    },
+    "5": {
+      "count": 164,
+      "average": 1163,
+      "median": 1386
+    },
+    "6": {
+      "count": 22,
+      "average": 844,
+      "median": 728
+    },
+    "7": {
+      "count": 13,
+      "average": 1265,
+      "median": 1694
+    },
+    "1.5": {
+      "count": 31,
+      "average": 502,
+      "median": 178
+    },
+    "3.5": {
+      "count": 4,
+      "average": 1644,
+      "median": 1604
+    },
+    "2.5": {
+      "count": 2,
+      "average": 1035,
+      "median": 1035
+    },
+    "4.5": {
+      "count": 1,
+      "average": 0,
+      "median": 0
+    }
+  },
+  "rentPerM2VsQueuePoints": [
+    {
+      "x": 190,
+      "y": 359,
+      "city": "Göteborg"
+    },
+    {
+      "x": 111,
+      "y": 940,
+      "city": "Göteborg"
+    },
+    {
+      "x": 179,
+      "y": 1177,
+      "city": "Göteborg"
+    },
+    {
+      "x": 124,
+      "y": 1223,
+      "city": "Göteborg"
+    },
+    {
+      "x": 106,
+      "y": 1377,
+      "city": "Göteborg"
+    },
+    {
+      "x": 105,
+      "y": 1383,
+      "city": "Göteborg"
+    },
+    {
+      "x": 189,
+      "y": 0,
+      "city": "Göteborg"
+    },
+    {
+      "x": 196,
+      "y": 1080,
+      "city": "Mölndal"
+    },
+    {
+      "x": 121,
+      "y": 1343,
+      "city": "Göteborg"
+    },
+    {
+      "x": 105,
+      "y": 749,
+      "city": "Göteborg"
+    },
+    {
+      "x": 159,
+      "y": 690,
+      "city": "Göteborg"
+    },
+    {
+      "x": 200,
+      "y": 1253,
+      "city": "Göteborg"
+    },
+    {
+      "x": 144,
+      "y": 1343,
+      "city": "Göteborg"
+    },
+    {
+      "x": 119,
+      "y": 506,
+      "city": "Göteborg"
+    },
+    {
+      "x": 122,
+      "y": 1342,
+      "city": "Göteborg"
+    },
+    {
+      "x": 139,
+      "y": 2136,
+      "city": "Göteborg"
+    },
+    {
+      "x": 165,
+      "y": 1336,
+      "city": "Göteborg"
+    },
+    {
+      "x": 134,
+      "y": 1432,
+      "city": "Göteborg"
+    },
+    {
+      "x": 115,
+      "y": 1356,
+      "city": "Göteborg"
+    },
+    {
+      "x": 136,
+      "y": 1345,
+      "city": "Göteborg"
+    },
+    {
+      "x": 135,
+      "y": 1104,
+      "city": "Göteborg"
+    },
+    {
+      "x": 155,
+      "y": 916,
+      "city": "Göteborg"
+    },
+    {
+      "x": 171,
+      "y": 73,
+      "city": "Göteborg"
+    },
+    {
+      "x": 228,
+      "y": 448,
+      "city": "Göteborg"
+    },
+    {
+      "x": 142,
+      "y": 0,
+      "city": "Göteborg"
+    },
+    {
+      "x": 151,
+      "y": 0,
+      "city": "Göteborg"
+    },
+    {
+      "x": 188,
+      "y": 1305,
+      "city": "Göteborg"
+    },
+    {
+      "x": 149,
+      "y": 1343,
+      "city": "Göteborg"
+    },
+    {
+      "x": 131,
+      "y": 1125,
+      "city": "Göteborg"
+    },
+    {
+      "x": 154,
+      "y": 1344,
+      "city": "Göteborg"
+    },
+    {
+      "x": 147,
+      "y": 1395,
+      "city": "Göteborg"
+    },
+    {
+      "x": 196,
+      "y": 1327,
+      "city": "Göteborg"
+    },
+    {
+      "x": 112,
+      "y": 587,
+      "city": "Göteborg"
+    },
+    {
+      "x": 157,
+      "y": 1344,
+      "city": "Göteborg"
+    },
+    {
+      "x": 168,
+      "y": 997,
+      "city": "Göteborg"
+    },
+    {
+      "x": 177,
+      "y": 1323,
+      "city": "Göteborg"
+    },
+    {
+      "x": 179,
+      "y": 1068,
+      "city": "Göteborg"
+    },
+    {
+      "x": 164,
+      "y": 1347,
+      "city": "GÖTEBORG"
+    },
+    {
+      "x": 163,
+      "y": 1243,
+      "city": "Göteborg"
+    },
+    {
+      "x": 171,
+      "y": 1092,
+      "city": "Göteborg"
+    },
+    {
+      "x": 135,
+      "y": 960,
+      "city": "GÖTEBORG"
+    },
+    {
+      "x": 126,
+      "y": 1336,
+      "city": "Göteborg"
+    },
+    {
+      "x": 145,
+      "y": 1075,
+      "city": "Göteborg"
+    },
+    {
+      "x": 218,
+      "y": 1344,
+      "city": "Göteborg"
+    },
+    {
+      "x": 104,
+      "y": 575,
+      "city": "Göteborg"
+    },
+    {
+      "x": 96,
+      "y": 848,
+      "city": "Göteborg"
+    },
+    {
+      "x": 170,
+      "y": 978,
+      "city": "Göteborg"
+    },
+    {
+      "x": 181,
+      "y": 1204,
+      "city": "Göteborg"
+    },
+    {
+      "x": 149,
+      "y": 89,
+      "city": "Göteborg"
+    },
+    {
+      "x": 228,
+      "y": 832,
+      "city": "Göteborg"
+    },
+    {
+      "x": 214,
+      "y": 1166,
+      "city": "Göteborg"
+    },
+    {
+      "x": 169,
+      "y": 1003,
+      "city": "Göteborg"
+    },
+    {
+      "x": 174,
+      "y": 70,
+      "city": "Göteborg"
+    },
+    {
+      "x": 186,
+      "y": 1194,
+      "city": "Göteborg"
+    },
+    {
+      "x": 134,
+      "y": 1070,
+      "city": "Göteborg"
+    },
+    {
+      "x": 140,
+      "y": 1386,
+      "city": "Göteborg"
+    },
+    {
+      "x": 127,
+      "y": 1248,
+      "city": "Göteborg"
+    },
+    {
+      "x": 150,
+      "y": 1286,
+      "city": "Mölndal"
+    },
+    {
+      "x": 151,
+      "y": 624,
+      "city": "Göteborg"
+    },
+    {
+      "x": 137,
+      "y": 1413,
+      "city": "Göteborg"
+    },
+    {
+      "x": 129,
+      "y": 1385,
+      "city": "Göteborg"
+    },
+    {
+      "x": 144,
+      "y": 313,
+      "city": "Göteborg"
+    },
+    {
+      "x": 148,
+      "y": 1201,
+      "city": "Göteborg"
+    },
+    {
+      "x": 183,
+      "y": 1227,
+      "city": "Göteborg"
+    },
+    {
+      "x": 134,
+      "y": 759,
+      "city": "Göteborg"
+    },
+    {
+      "x": 156,
+      "y": 1358,
+      "city": "Göteborg"
+    },
+    {
+      "x": 146,
+      "y": 1227,
+      "city": "Göteborg"
+    },
+    {
+      "x": 132,
+      "y": 1218,
+      "city": "Göteborg"
+    },
+    {
+      "x": 101,
+      "y": 1208,
+      "city": "Göteborg"
+    },
+    {
+      "x": 116,
+      "y": 166,
+      "city": "Göteborg"
+    },
+    {
+      "x": 137,
+      "y": 1296,
+      "city": "Göteborg"
+    },
+    {
+      "x": 124,
+      "y": 1302,
+      "city": "Göteborg"
+    },
+    {
+      "x": 181,
+      "y": 345,
+      "city": "Göteborg"
+    },
+    {
+      "x": 136,
+      "y": 1401,
+      "city": "Göteborg"
+    },
+    {
+      "x": 191,
+      "y": 1344,
+      "city": "Göteborg"
+    },
+    {
+      "x": 173,
+      "y": 1391,
+      "city": "Göteborg"
+    },
+    {
+      "x": 96,
+      "y": 1261,
+      "city": "Göteborg"
+    },
+    {
+      "x": 113,
+      "y": 1094,
+      "city": "Göteborg"
+    },
+    {
+      "x": 100,
+      "y": 1130,
+      "city": "Göteborg"
+    },
+    {
+      "x": 162,
+      "y": 625,
+      "city": "Göteborg"
+    },
+    {
+      "x": 168,
+      "y": 1003,
+      "city": "Göteborg"
+    },
+    {
+      "x": 144,
+      "y": 737,
+      "city": "Göteborg"
+    },
+    {
+      "x": 118,
+      "y": 1464,
+      "city": "Göteborg"
+    },
+    {
+      "x": 126,
+      "y": 989,
+      "city": "GÖTEBORG"
+    },
+    {
+      "x": 166,
+      "y": 1155,
+      "city": "Göteborg"
+    },
+    {
+      "x": 168,
+      "y": 1136,
+      "city": "Göteborg"
+    },
+    {
+      "x": 149,
+      "y": 1277,
+      "city": "Göteborg"
+    },
+    {
+      "x": 144,
+      "y": 1379,
+      "city": "Göteborg"
+    },
+    {
+      "x": 142,
+      "y": 1442,
+      "city": "Göteborg"
+    },
+    {
+      "x": 80,
+      "y": 1309,
+      "city": "Göteborg"
+    },
+    {
+      "x": 158,
+      "y": 1109,
+      "city": "Göteborg"
+    },
+    {
+      "x": 150,
+      "y": 757,
+      "city": "Göteborg"
+    },
+    {
+      "x": 180,
+      "y": 1414,
+      "city": "Göteborg"
+    },
+    {
+      "x": 168,
+      "y": 1192,
+      "city": "Göteborg"
+    },
+    {
+      "x": 145,
+      "y": 1265,
+      "city": "Göteborg"
+    },
+    {
+      "x": 143,
+      "y": 0,
+      "city": "Göteborg"
+    },
+    {
+      "x": 123,
+      "y": 1284,
+      "city": "GÖTEBORG"
+    },
+    {
+      "x": 130,
+      "y": 1334,
+      "city": "Göteborg"
+    },
+    {
+      "x": 128,
+      "y": 1410,
+      "city": "Göteborg"
+    },
+    {
+      "x": 145,
+      "y": 552,
+      "city": "Göteborg"
+    },
+    {
+      "x": 126,
+      "y": 593,
+      "city": "GÖTEBORG"
+    },
+    {
+      "x": 127,
+      "y": 988,
+      "city": "Göteborg"
+    },
+    {
+      "x": 125,
+      "y": 1007,
+      "city": "Göteborg"
+    },
+    {
+      "x": 172,
+      "y": 905,
+      "city": "Göteborg"
+    },
+    {
+      "x": 140,
+      "y": 1137,
+      "city": "Göteborg"
+    },
+    {
+      "x": 178,
+      "y": 1179,
+      "city": "Göteborg"
+    },
+    {
+      "x": 230,
+      "y": 316,
+      "city": "Göteborg"
+    },
+    {
+      "x": 234,
+      "y": 739,
+      "city": "Göteborg"
+    },
+    {
+      "x": 198,
+      "y": 1303,
+      "city": "Göteborg"
+    },
+    {
+      "x": 123,
+      "y": 795,
+      "city": "Göteborg"
+    },
+    {
+      "x": 198,
+      "y": 1274,
+      "city": "Göteborg"
+    },
+    {
+      "x": 138,
+      "y": 853,
+      "city": "Göteborg"
+    },
+    {
+      "x": 153,
+      "y": 1169,
+      "city": "Göteborg"
+    },
+    {
+      "x": 175,
+      "y": 778,
+      "city": "Göteborg"
+    },
+    {
+      "x": 140,
+      "y": 1456,
+      "city": "Göteborg"
+    },
+    {
+      "x": 133,
+      "y": 1161,
+      "city": "Göteborg"
+    },
+    {
+      "x": 177,
+      "y": 1034,
+      "city": "Göteborg"
+    },
+    {
+      "x": 133,
+      "y": 1422,
+      "city": "Göteborg"
+    },
+    {
+      "x": 161,
+      "y": 1121,
+      "city": "Göteborg"
+    },
+    {
+      "x": 186,
+      "y": 0,
+      "city": "Göteborg"
+    },
+    {
+      "x": 171,
+      "y": 0,
+      "city": "Göteborg"
+    },
+    {
+      "x": 92,
+      "y": 1539,
+      "city": "Göteborg"
+    },
+    {
+      "x": 179,
+      "y": 1438,
+      "city": "Göteborg"
+    },
+    {
+      "x": 161,
+      "y": 1327,
+      "city": "Göteborg"
+    },
+    {
+      "x": 197,
+      "y": 1026,
+      "city": "Göteborg"
+    },
+    {
+      "x": 173,
+      "y": 1359,
+      "city": "Göteborg"
+    },
+    {
+      "x": 91,
+      "y": 1344,
+      "city": "Göteborg"
+    },
+    {
+      "x": 197,
+      "y": 1181,
+      "city": "Göteborg"
+    },
+    {
+      "x": 176,
+      "y": 939,
+      "city": "Göteborg"
+    },
+    {
+      "x": 125,
+      "y": 1112,
+      "city": "Göteborg"
+    },
+    {
+      "x": 137,
+      "y": 1366,
+      "city": "Göteborg"
+    },
+    {
+      "x": 170,
+      "y": 781,
+      "city": "Göteborg"
+    },
+    {
+      "x": 176,
+      "y": 1440,
+      "city": "Göteborg"
+    },
+    {
+      "x": 197,
+      "y": 561,
+      "city": "Göteborg"
+    },
+    {
+      "x": 119,
+      "y": 1455,
+      "city": "Göteborg"
+    },
+    {
+      "x": 131,
+      "y": 631,
+      "city": "Göteborg"
+    },
+    {
+      "x": 137,
+      "y": 683,
+      "city": "Göteborg"
+    },
+    {
+      "x": 109,
+      "y": 1461,
+      "city": "Göteborg"
+    },
+    {
+      "x": 109,
+      "y": 1582,
+      "city": "Göteborg"
+    },
+    {
+      "x": 228,
+      "y": 1461,
+      "city": "Göteborg"
+    },
+    {
+      "x": 111,
+      "y": 1153,
+      "city": "Göteborg"
+    },
+    {
+      "x": 144,
+      "y": 621,
+      "city": "Göteborg"
+    },
+    {
+      "x": 163,
+      "y": 1061,
+      "city": "Göteborg"
+    },
+    {
+      "x": 146,
+      "y": 961,
+      "city": "Göteborg"
+    },
+    {
+      "x": 188,
+      "y": 926,
+      "city": "GÖTEBORG"
+    },
+    {
+      "x": 147,
+      "y": 1499,
+      "city": "Göteborg"
+    },
+    {
+      "x": 197,
+      "y": 1139,
+      "city": "Göteborg"
+    },
+    {
+      "x": 128,
+      "y": 1426,
+      "city": "Göteborg"
+    },
+    {
+      "x": 197,
+      "y": 1291,
+      "city": "Göteborg"
+    },
+    {
+      "x": 140,
+      "y": 278,
+      "city": "Göteborg"
+    },
+    {
+      "x": 191,
+      "y": 0,
+      "city": "Göteborg"
+    },
+    {
+      "x": 137,
+      "y": 726,
+      "city": "Göteborg"
+    },
+    {
+      "x": 121,
+      "y": 931,
+      "city": "Göteborg"
+    },
+    {
+      "x": 187,
+      "y": 1476,
+      "city": "Göteborg"
+    },
+    {
+      "x": 156,
+      "y": 1479,
+      "city": "Göteborg"
+    },
+    {
+      "x": 204,
+      "y": 210,
+      "city": "Göteborg"
+    },
+    {
+      "x": 162,
+      "y": 1404,
+      "city": "Göteborg"
+    },
+    {
+      "x": 128,
+      "y": 835,
+      "city": "Göteborg"
+    },
+    {
+      "x": 157,
+      "y": 1015,
+      "city": "Göteborg"
+    },
+    {
+      "x": 91,
+      "y": 1467,
+      "city": "Göteborg"
+    },
+    {
+      "x": 153,
+      "y": 1060,
+      "city": "Göteborg"
+    },
+    {
+      "x": 160,
+      "y": 1487,
+      "city": "Göteborg"
+    },
+    {
+      "x": 122,
+      "y": 512,
+      "city": "Göteborg"
+    },
+    {
+      "x": 96,
+      "y": 1239,
+      "city": "Göteborg"
+    },
+    {
+      "x": 146,
+      "y": 0,
+      "city": "Göteborg"
+    },
+    {
+      "x": 148,
+      "y": 1484,
+      "city": "Göteborg"
+    },
+    {
+      "x": 187,
+      "y": 444,
+      "city": "Göteborg"
+    },
+    {
+      "x": 122,
+      "y": 1288,
+      "city": "Göteborg"
+    },
+    {
+      "x": 150,
+      "y": 1457,
+      "city": "Göteborg"
+    },
+    {
+      "x": 103,
+      "y": 1153,
+      "city": "Göteborg"
+    },
+    {
+      "x": 91,
+      "y": 1462,
+      "city": "Göteborg"
+    },
+    {
+      "x": 132,
+      "y": 1436,
+      "city": "Göteborg"
+    },
+    {
+      "x": 162,
+      "y": 1379,
+      "city": "Göteborg"
+    },
+    {
+      "x": 126,
+      "y": 952,
+      "city": "GÖTEBORG"
+    },
+    {
+      "x": 129,
+      "y": 660,
+      "city": "Göteborg"
+    },
+    {
+      "x": 149,
+      "y": 1486,
+      "city": "Göteborg"
+    },
+    {
+      "x": 134,
+      "y": 1128,
+      "city": "Göteborg"
+    },
+    {
+      "x": 127,
+      "y": 1091,
+      "city": "Göteborg"
+    },
+    {
+      "x": 200,
+      "y": 477,
+      "city": "Göteborg"
+    },
+    {
+      "x": 107,
+      "y": 1489,
+      "city": "Göteborg"
+    },
+    {
+      "x": 127,
+      "y": 596,
+      "city": "Göteborg"
+    },
+    {
+      "x": 159,
+      "y": 1023,
+      "city": "Göteborg"
+    },
+    {
+      "x": 176,
+      "y": 470,
+      "city": "Göteborg"
+    },
+    {
+      "x": 161,
+      "y": 1363,
+      "city": "Göteborg"
+    },
+    {
+      "x": 182,
+      "y": 654,
+      "city": "Göteborg"
+    },
+    {
+      "x": 139,
+      "y": 1218,
+      "city": "Göteborg"
+    },
+    {
+      "x": 174,
+      "y": 1427,
+      "city": "Göteborg"
+    },
+    {
+      "x": 164,
+      "y": 1331,
+      "city": "Göteborg"
+    },
+    {
+      "x": 231,
+      "y": 1240,
+      "city": "Göteborg"
+    },
+    {
+      "x": 171,
+      "y": 1016,
+      "city": "Göteborg"
+    },
+    {
+      "x": 85,
+      "y": 1222,
+      "city": "Göteborg"
+    },
+    {
+      "x": 152,
+      "y": 1553,
+      "city": "Göteborg"
+    },
+    {
+      "x": 162,
+      "y": 1395,
+      "city": "Göteborg"
+    },
+    {
+      "x": 143,
+      "y": 1509,
+      "city": "Göteborg"
+    },
+    {
+      "x": 85,
+      "y": 1204,
+      "city": "Göteborg"
+    },
+    {
+      "x": 198,
+      "y": 162,
+      "city": "Göteborg"
+    },
+    {
+      "x": 102,
+      "y": 1082,
+      "city": "Göteborg"
+    },
+    {
+      "x": 163,
+      "y": 1439,
+      "city": "Göteborg"
+    },
+    {
+      "x": 147,
+      "y": 476,
+      "city": "Göteborg"
+    },
+    {
+      "x": 167,
+      "y": 1517,
+      "city": "Göteborg"
+    },
+    {
+      "x": 138,
+      "y": 1554,
+      "city": "Göteborg"
+    },
+    {
+      "x": 115,
+      "y": 64,
+      "city": "Göteborg"
+    },
+    {
+      "x": 182,
+      "y": 996,
+      "city": "Göteborg"
+    },
+    {
+      "x": 126,
+      "y": 282,
+      "city": "GÖTEBORG"
+    },
+    {
+      "x": 175,
+      "y": 1305,
+      "city": "Göteborg"
+    },
+    {
+      "x": 222,
+      "y": 985,
+      "city": "Göteborg"
+    },
+    {
+      "x": 126,
+      "y": 425,
+      "city": "GÖTEBORG"
+    },
+    {
+      "x": 138,
+      "y": 42,
+      "city": "Göteborg"
+    },
+    {
+      "x": 191,
+      "y": 107,
+      "city": "Göteborg"
+    },
+    {
+      "x": 147,
+      "y": 1511,
+      "city": "Göteborg"
+    },
+    {
+      "x": 146,
+      "y": 979,
+      "city": "Göteborg"
+    },
+    {
+      "x": 139,
+      "y": 1041,
+      "city": "Göteborg"
+    },
+    {
+      "x": 195,
+      "y": 1209,
+      "city": "Göteborg"
+    },
+    {
+      "x": 153,
+      "y": 623,
+      "city": "GÖTEBORG"
+    },
+    {
+      "x": 189,
+      "y": 1048,
+      "city": "Göteborg"
+    },
+    {
+      "x": 178,
+      "y": 896,
+      "city": "Göteborg"
+    },
+    {
+      "x": 148,
+      "y": 1465,
+      "city": "Göteborg"
+    },
+    {
+      "x": 138,
+      "y": 0,
+      "city": "Göteborg"
+    },
+    {
+      "x": 135,
+      "y": 1525,
+      "city": "Göteborg"
+    },
+    {
+      "x": 143,
+      "y": 248,
+      "city": "Göteborg"
+    },
+    {
+      "x": 120,
+      "y": 1609,
+      "city": "Göteborg"
+    },
+    {
+      "x": 198,
+      "y": 999,
+      "city": "Göteborg"
+    },
+    {
+      "x": 137,
+      "y": 1644,
+      "city": "Bandhagen"
+    },
+    {
+      "x": 196,
+      "y": 565,
+      "city": "Göteborg"
+    },
+    {
+      "x": 135,
+      "y": 1396,
+      "city": "Göteborg"
+    },
+    {
+      "x": 141,
+      "y": 1529,
+      "city": "Göteborg"
+    },
+    {
+      "x": 208,
+      "y": 282,
+      "city": "Göteborg"
+    },
+    {
+      "x": 128,
+      "y": 1528,
+      "city": "Mölndal"
+    },
+    {
+      "x": 140,
+      "y": 1466,
+      "city": "Göteborg"
+    },
+    {
+      "x": 148,
+      "y": 1612,
+      "city": "Göteborg"
+    },
+    {
+      "x": 182,
+      "y": 647,
+      "city": "Göteborg"
+    },
+    {
+      "x": 175,
+      "y": 1533,
+      "city": "Göteborg"
+    },
+    {
+      "x": 142,
+      "y": 146,
+      "city": "Malmö"
+    },
+    {
+      "x": 129,
+      "y": 1200,
+      "city": "Malmö"
+    },
+    {
+      "x": 176,
+      "y": 1488,
+      "city": "Göteborg"
+    },
+    {
+      "x": 126,
+      "y": 833,
+      "city": "Göteborg"
+    },
+    {
+      "x": 186,
+      "y": 1256,
+      "city": "Göteborg"
+    },
+    {
+      "x": 139,
+      "y": 1543,
+      "city": "Bandhagen"
+    },
+    {
+      "x": 140,
+      "y": 929,
+      "city": "Göteborg"
+    },
+    {
+      "x": 127,
+      "y": 1576,
+      "city": "Göteborg"
+    },
+    {
+      "x": 138,
+      "y": 1534,
+      "city": "Göteborg"
+    },
+    {
+      "x": 137,
+      "y": 1421,
+      "city": "Göteborg"
+    },
+    {
+      "x": 181,
+      "y": 451,
+      "city": "Göteborg"
+    },
+    {
+      "x": 115,
+      "y": 920,
+      "city": "Göteborg"
+    },
+    {
+      "x": 144,
+      "y": 1577,
+      "city": "Göteborg"
+    },
+    {
+      "x": 163,
+      "y": 0,
+      "city": "Limhamn"
+    },
+    {
+      "x": 129,
+      "y": 928,
+      "city": "Göteborg"
+    },
+    {
+      "x": 160,
+      "y": 987,
+      "city": "Göteborg"
+    },
+    {
+      "x": 132,
+      "y": 1406,
+      "city": "Göteborg"
+    },
+    {
+      "x": 90,
+      "y": 1142,
+      "city": "Göteborg"
+    },
+    {
+      "x": 144,
+      "y": 436,
+      "city": "Västra frölunda"
+    },
+    {
+      "x": 119,
+      "y": 1507,
+      "city": "Göteborg"
+    },
+    {
+      "x": 174,
+      "y": 832,
+      "city": "Göteborg"
+    },
+    {
+      "x": 231,
+      "y": 501,
+      "city": "Göteborg"
+    },
+    {
+      "x": 171,
+      "y": 1291,
+      "city": "Göteborg"
+    },
+    {
+      "x": 140,
+      "y": 1162,
+      "city": "Mölndal"
+    },
+    {
+      "x": 224,
+      "y": 869,
+      "city": "Göteborg"
+    },
+    {
+      "x": 130,
+      "y": 1143,
+      "city": "Göteborg"
+    },
+    {
+      "x": 102,
+      "y": 1546,
+      "city": "Mölndal"
+    },
+    {
+      "x": 142,
+      "y": 455,
+      "city": "Malmö"
+    },
+    {
+      "x": 113,
+      "y": 1182,
+      "city": "Göteborg"
+    },
+    {
+      "x": 140,
+      "y": 0,
+      "city": "Malmö"
+    },
+    {
+      "x": 193,
+      "y": 1265,
+      "city": "Göteborg"
+    },
+    {
+      "x": 151,
+      "y": 1295,
+      "city": "Göteborg"
+    },
+    {
+      "x": 101,
+      "y": 1290,
+      "city": "Göteborg"
+    },
+    {
+      "x": 206,
+      "y": 1079,
+      "city": "Göteborg"
+    },
+    {
+      "x": 139,
+      "y": 0,
+      "city": "Göteborg"
+    },
+    {
+      "x": 128,
+      "y": 1506,
+      "city": "Göteborg"
+    },
+    {
+      "x": 196,
+      "y": 1248,
+      "city": "Göteborg"
+    },
+    {
+      "x": 102,
+      "y": 1560,
+      "city": "Mölndal"
+    },
+    {
+      "x": 210,
+      "y": 875,
+      "city": "Göteborg"
+    },
+    {
+      "x": 129,
+      "y": 0,
+      "city": "Malmö"
+    },
+    {
+      "x": 156,
+      "y": 1170,
+      "city": "Göteborg"
+    },
+    {
+      "x": 109,
+      "y": 1167,
+      "city": "Malmö"
+    },
+    {
+      "x": 107,
+      "y": 0,
+      "city": "Malmö"
+    },
+    {
+      "x": 239,
+      "y": 1095,
+      "city": "Göteborg"
+    },
+    {
+      "x": 119,
+      "y": 1183,
+      "city": "Göteborg"
+    },
+    {
+      "x": 136,
+      "y": 1760,
+      "city": "Bandhagen"
+    },
+    {
+      "x": 191,
+      "y": 323,
+      "city": "Göteborg"
+    },
+    {
+      "x": 133,
+      "y": 1340,
+      "city": "Göteborg"
+    },
+    {
+      "x": 146,
+      "y": 1455,
+      "city": "Göteborg"
+    },
+    {
+      "x": 169,
+      "y": 1471,
+      "city": "Göteborg"
+    },
+    {
+      "x": 121,
+      "y": 1567,
+      "city": "Göteborg"
+    },
+    {
+      "x": 193,
+      "y": 1560,
+      "city": "Göteborg"
+    },
+    {
+      "x": 214,
+      "y": 0,
+      "city": "Malmö"
+    },
+    {
+      "x": 223,
+      "y": 1481,
+      "city": "Göteborg "
+    },
+    {
+      "x": 161,
+      "y": 813,
+      "city": "Göteborg"
+    },
+    {
+      "x": 173,
+      "y": 1522,
+      "city": "Göteborg"
+    },
+    {
+      "x": 198,
+      "y": 0,
+      "city": "Limhamn"
+    },
+    {
+      "x": 128,
+      "y": 1217,
+      "city": "Västra Frölunda"
+    },
+    {
+      "x": 147,
+      "y": 1385,
+      "city": "Göteborg"
+    },
+    {
+      "x": 151,
+      "y": 1566,
+      "city": "Göteborg"
+    },
+    {
+      "x": 223,
+      "y": 721,
+      "city": "Göteborg"
+    },
+    {
+      "x": 126,
+      "y": 683,
+      "city": "GÖTEBORG"
+    },
+    {
+      "x": 169,
+      "y": 0,
+      "city": "Västra Frölunda"
+    },
+    {
+      "x": 134,
+      "y": 1159,
+      "city": "Hisings Backa"
+    },
+    {
+      "x": 231,
+      "y": 840,
+      "city": "Göteborg"
+    },
+    {
+      "x": 98,
+      "y": 1197,
+      "city": "Göteborg"
+    },
+    {
+      "x": 155,
+      "y": 1558,
+      "city": "Göteborg"
+    },
+    {
+      "x": 161,
+      "y": 1616,
+      "city": "Bandhagen"
+    },
+    {
+      "x": 142,
+      "y": 1576,
+      "city": "Göteborg"
+    },
+    {
+      "x": 150,
+      "y": 1091,
+      "city": "Göteborg"
+    },
+    {
+      "x": 139,
+      "y": 1394,
+      "city": "Göteborg"
+    },
+    {
+      "x": 180,
+      "y": 1045,
+      "city": "Göteborg"
+    },
+    {
+      "x": 85,
+      "y": 1183,
+      "city": "Göteborg"
+    },
+    {
+      "x": 112,
+      "y": 265,
+      "city": "Göteborg"
+    },
+    {
+      "x": 155,
+      "y": 1576,
+      "city": "Göteborg"
+    },
+    {
+      "x": 147,
+      "y": 0,
+      "city": "Göteborg"
+    },
+    {
+      "x": 153,
+      "y": 1516,
+      "city": "Göteborg"
+    },
+    {
+      "x": 111,
+      "y": 697,
+      "city": "Göteborg"
+    },
+    {
+      "x": 149,
+      "y": 694,
+      "city": "Göteborg"
+    },
+    {
+      "x": 177,
+      "y": 971,
+      "city": "Göteborg"
+    },
+    {
+      "x": 195,
+      "y": 44,
+      "city": "Limhamn"
+    },
+    {
+      "x": 156,
+      "y": 215,
+      "city": "Malmö"
+    },
+    {
+      "x": 125,
+      "y": 509,
+      "city": "GÖTEBORG"
+    },
+    {
+      "x": 85,
+      "y": 1570,
+      "city": "Göteborg"
+    },
+    {
+      "x": 183,
+      "y": 1428,
+      "city": "Göteborg"
+    },
+    {
+      "x": 191,
+      "y": 0,
+      "city": "Limhamn"
+    },
+    {
+      "x": 142,
+      "y": 379,
+      "city": "Västra Frölunda"
+    },
+    {
+      "x": 155,
+      "y": 1401,
+      "city": "Göteborg"
+    },
+    {
+      "x": 144,
+      "y": 1578,
+      "city": "Göteborg"
+    },
+    {
+      "x": 233,
+      "y": 988,
+      "city": "Göteborg"
+    },
+    {
+      "x": 194,
+      "y": 1121,
+      "city": "Mölndal"
+    },
+    {
+      "x": 155,
+      "y": 1104,
+      "city": "Göteborg"
+    },
+    {
+      "x": 130,
+      "y": 1565,
+      "city": "Göteborg"
+    },
+    {
+      "x": 136,
+      "y": 1519,
+      "city": "Bandhagen"
+    },
+    {
+      "x": 155,
+      "y": 241,
+      "city": "Göteborg"
+    },
+    {
+      "x": 161,
+      "y": 1443,
+      "city": "Mölndal"
+    },
+    {
+      "x": 185,
+      "y": 1234,
+      "city": "Göteborg"
+    },
+    {
+      "x": 143,
+      "y": 1603,
+      "city": "Göteborg"
+    },
+    {
+      "x": 170,
+      "y": 927,
+      "city": "Göteborg"
+    },
+    {
+      "x": 91,
+      "y": 1534,
+      "city": "Göteborg"
+    },
+    {
+      "x": 126,
+      "y": 1046,
+      "city": "Göteborg"
+    },
+    {
+      "x": 117,
+      "y": 815,
+      "city": "Malmö"
+    },
+    {
+      "x": 159,
+      "y": 1196,
+      "city": "Göteborg"
+    },
+    {
+      "x": 138,
+      "y": 0,
+      "city": "Göteborg"
+    },
+    {
+      "x": 177,
+      "y": 433,
+      "city": "Göteborg"
+    },
+    {
+      "x": 191,
+      "y": 1094,
+      "city": "Göteborg"
+    },
+    {
+      "x": 224,
+      "y": 1592,
+      "city": "GÖTEBORG"
+    },
+    {
+      "x": 189,
+      "y": 0,
+      "city": "Göteborg"
+    },
+    {
+      "x": 171,
+      "y": 313,
+      "city": "Askim"
+    },
+    {
+      "x": 106,
+      "y": 1358,
+      "city": "Hisings Backa"
+    },
+    {
+      "x": 144,
+      "y": 422,
+      "city": "Västra frölunda"
+    },
+    {
+      "x": 248,
+      "y": 276,
+      "city": "Göteborg"
+    },
+    {
+      "x": 185,
+      "y": 1278,
+      "city": "Göteborg"
+    },
+    {
+      "x": 154,
+      "y": 1383,
+      "city": "Göteborg"
+    },
+    {
+      "x": 91,
+      "y": 1494,
+      "city": "Göteborg"
+    },
+    {
+      "x": 234,
+      "y": 618,
+      "city": "Göteborg"
+    },
+    {
+      "x": 140,
+      "y": 1484,
+      "city": "Göteborg"
+    },
+    {
+      "x": 153,
+      "y": 724,
+      "city": "GÖTEBORG"
+    },
+    {
+      "x": 144,
+      "y": 1599,
+      "city": "Göteborg"
+    },
+    {
+      "x": 162,
+      "y": 1458,
+      "city": "Göteborg"
+    },
+    {
+      "x": 179,
+      "y": 1530,
+      "city": "Göteborg"
+    },
+    {
+      "x": 162,
+      "y": 1666,
+      "city": "Göteborg"
+    },
+    {
+      "x": 87,
+      "y": 1457,
+      "city": "Göteborg"
+    },
+    {
+      "x": 208,
+      "y": 1580,
+      "city": "Göteborg"
+    },
+    {
+      "x": 145,
+      "y": 970,
+      "city": "Malmö"
+    },
+    {
+      "x": 175,
+      "y": 812,
+      "city": "Göteborg"
+    },
+    {
+      "x": 109,
+      "y": 1606,
+      "city": "GÖTEBORG"
+    },
+    {
+      "x": 138,
+      "y": 1331,
+      "city": "Göteborg"
+    },
+    {
+      "x": 111,
+      "y": 1219,
+      "city": "Västra Frölunda"
+    },
+    {
+      "x": 150,
+      "y": 1606,
+      "city": "Göteborg"
+    },
+    {
+      "x": 145,
+      "y": 976,
+      "city": "Göteborg"
+    },
+    {
+      "x": 121,
+      "y": 985,
+      "city": "Västra Frölunda"
+    },
+    {
+      "x": 142,
+      "y": 1609,
+      "city": "Göteborg"
+    },
+    {
+      "x": 116,
+      "y": 1599,
+      "city": "Göteborg"
+    },
+    {
+      "x": 117,
+      "y": 1623,
+      "city": "Göteborg"
+    },
+    {
+      "x": 158,
+      "y": 1450,
+      "city": "Göteborg"
+    },
+    {
+      "x": 164,
+      "y": 7,
+      "city": "Limhamn"
+    },
+    {
+      "x": 175,
+      "y": 1481,
+      "city": "Göteborg"
+    },
+    {
+      "x": 179,
+      "y": 1222,
+      "city": "Göteborg"
+    },
+    {
+      "x": 165,
+      "y": 1343,
+      "city": "Göteborg"
+    },
+    {
+      "x": 142,
+      "y": 1618,
+      "city": "Göteborg"
+    },
+    {
+      "x": 195,
+      "y": 147,
+      "city": "Malmö"
+    },
+    {
+      "x": 176,
+      "y": 930,
+      "city": "Göteborg"
+    },
+    {
+      "x": 126,
+      "y": 1619,
+      "city": "Göteborg"
+    },
+    {
+      "x": 135,
+      "y": 1085,
+      "city": "Hisings Backa"
+    },
+    {
+      "x": 145,
+      "y": 1595,
+      "city": "Göteborg"
+    },
+    {
+      "x": 164,
+      "y": 724,
+      "city": "Göteborg"
+    },
+    {
+      "x": 111,
+      "y": 1024,
+      "city": "Malmö"
+    },
+    {
+      "x": 195,
+      "y": 340,
+      "city": "Göteborg"
+    },
+    {
+      "x": 115,
+      "y": 1582,
+      "city": "Bandhagen"
+    },
+    {
+      "x": 129,
+      "y": 857,
+      "city": "Göteborg"
+    },
+    {
+      "x": 169,
+      "y": 1196,
+      "city": "Göteborg"
+    },
+    {
+      "x": 183,
+      "y": 1515,
+      "city": "Göteborg"
+    },
+    {
+      "x": 142,
+      "y": 0,
+      "city": "Bunkeflostrand"
+    },
+    {
+      "x": 144,
+      "y": 0,
+      "city": "Bunkeflostrand"
+    },
+    {
+      "x": 95,
+      "y": 1567,
+      "city": "Göteborg"
+    },
+    {
+      "x": 103,
+      "y": 1076,
+      "city": "Göteborg"
+    },
+    {
+      "x": 162,
+      "y": 5,
+      "city": "Göteborg"
+    },
+    {
+      "x": 170,
+      "y": 1338,
+      "city": "Mölndal"
+    },
+    {
+      "x": 169,
+      "y": 7,
+      "city": "Malmö"
+    },
+    {
+      "x": 129,
+      "y": 1355,
+      "city": "Göteborg"
+    },
+    {
+      "x": 116,
+      "y": 1115,
+      "city": "Västra Frölunda"
+    },
+    {
+      "x": 160,
+      "y": 1149,
+      "city": "Göteborg"
+    },
+    {
+      "x": 111,
+      "y": 1617,
+      "city": "Göteborg"
+    },
+    {
+      "x": 150,
+      "y": 1471,
+      "city": "Göteborg"
+    },
+    {
+      "x": 129,
+      "y": 1315,
+      "city": "Västra frölunda"
+    },
+    {
+      "x": 129,
+      "y": 1198,
+      "city": "Göteborg"
+    },
+    {
+      "x": 170,
+      "y": 1124,
+      "city": "Göteborg"
+    },
+    {
+      "x": 221,
+      "y": 1037,
+      "city": "Göteborg"
+    },
+    {
+      "x": 127,
+      "y": 534,
+      "city": "Göteborg"
+    },
+    {
+      "x": 157,
+      "y": 1620,
+      "city": "Göteborg"
+    },
+    {
+      "x": 148,
+      "y": 1629,
+      "city": "Göteborg"
+    },
+    {
+      "x": 158,
+      "y": 1548,
+      "city": "Göteborg"
+    },
+    {
+      "x": 144,
+      "y": 381,
+      "city": "Västra frölunda"
+    },
+    {
+      "x": 128,
+      "y": 1203,
+      "city": "Västra Frölunda"
+    },
+    {
+      "x": 142,
+      "y": 663,
+      "city": "GÖTEBORG"
+    },
+    {
+      "x": 157,
+      "y": 312,
+      "city": "Malmö"
+    },
+    {
+      "x": 152,
+      "y": 881,
+      "city": "GÖTEBORG"
+    },
+    {
+      "x": 152,
+      "y": 541,
+      "city": "GÖTEBORG"
+    },
+    {
+      "x": 106,
+      "y": 1465,
+      "city": "Västra Frölunda"
+    },
+    {
+      "x": 204,
+      "y": 24,
+      "city": "Limhamn"
+    },
+    {
+      "x": 169,
+      "y": 1137,
+      "city": "Göteborg"
+    },
+    {
+      "x": 120,
+      "y": 1670,
+      "city": "Bandhagen"
+    },
+    {
+      "x": 174,
+      "y": 819,
+      "city": "Västra Frölunda "
+    },
+    {
+      "x": 179,
+      "y": 535,
+      "city": "Västra Frölunda "
+    },
+    {
+      "x": 188,
+      "y": 1288,
+      "city": "Göteborg"
+    },
+    {
+      "x": 122,
+      "y": 1701,
+      "city": "Göteborg"
+    },
+    {
+      "x": 117,
+      "y": 1307,
+      "city": "Hisings Backa"
+    },
+    {
+      "x": 212,
+      "y": 7,
+      "city": "Malmö"
+    },
+    {
+      "x": 136,
+      "y": 1639,
+      "city": "Göteborg"
+    },
+    {
+      "x": 177,
+      "y": 1473,
+      "city": "Göteborg"
+    },
+    {
+      "x": 195,
+      "y": 354,
+      "city": "Stockholm "
+    },
+    {
+      "x": 154,
+      "y": 420,
+      "city": "Malmö"
+    },
+    {
+      "x": 141,
+      "y": 1244,
+      "city": "Göteborg"
+    },
+    {
+      "x": 135,
+      "y": 0,
+      "city": "Bunkeflostrand"
+    },
+    {
+      "x": 149,
+      "y": 0,
+      "city": "Bunkeflostrand"
+    },
+    {
+      "x": 119,
+      "y": 1643,
+      "city": "Göteborg"
+    },
+    {
+      "x": 132,
+      "y": 1233,
+      "city": "Bandhagen"
+    },
+    {
+      "x": 208,
+      "y": 564,
+      "city": "Göteborg"
+    },
+    {
+      "x": 140,
+      "y": 1219,
+      "city": "Göteborg"
+    },
+    {
+      "x": 174,
+      "y": 0,
+      "city": "Göteborg"
+    },
+    {
+      "x": 154,
+      "y": 1514,
+      "city": "Göteborg"
+    },
+    {
+      "x": 129,
+      "y": 796,
+      "city": "Göteborg"
+    },
+    {
+      "x": 140,
+      "y": 1440,
+      "city": "Göteborg"
+    },
+    {
+      "x": 226,
+      "y": 1323,
+      "city": "Göteborg"
+    },
+    {
+      "x": 209,
+      "y": 771,
+      "city": "Göteborg "
+    },
+    {
+      "x": 156,
+      "y": 1659,
+      "city": "Göteborg"
+    },
+    {
+      "x": 112,
+      "y": 852,
+      "city": "Kållered"
+    },
+    {
+      "x": 144,
+      "y": 566,
+      "city": "Västra frölunda"
+    },
+    {
+      "x": 118,
+      "y": 1283,
+      "city": "Västra Frölunda"
+    },
+    {
+      "x": 197,
+      "y": 839,
+      "city": "Göteborg "
+    },
+    {
+      "x": 185,
+      "y": 52,
+      "city": "Malmö"
+    },
+    {
+      "x": 136,
+      "y": 1463,
+      "city": "Göteborg"
+    },
+    {
+      "x": 95,
+      "y": 1591,
+      "city": "Göteborg"
+    },
+    {
+      "x": 152,
+      "y": 1664,
+      "city": "Göteborg"
+    },
+    {
+      "x": 221,
+      "y": 1133,
+      "city": "Göteborg"
+    },
+    {
+      "x": 105,
+      "y": 1381,
+      "city": "Göteborg"
+    },
+    {
+      "x": 130,
+      "y": 850,
+      "city": "Göteborg"
+    },
+    {
+      "x": 131,
+      "y": 578,
+      "city": "GÖTEBORG"
+    },
+    {
+      "x": 119,
+      "y": 1351,
+      "city": "Göteborg"
+    },
+    {
+      "x": 136,
+      "y": 1403,
+      "city": "Göteborg"
+    },
+    {
+      "x": 185,
+      "y": 1122,
+      "city": "Västra Frölunda "
+    },
+    {
+      "x": 139,
+      "y": 621,
+      "city": "Malmö"
+    },
+    {
+      "x": 131,
+      "y": 364,
+      "city": "Malmö"
+    },
+    {
+      "x": 98,
+      "y": 1654,
+      "city": "Göteborg"
+    },
+    {
+      "x": 118,
+      "y": 539,
+      "city": "Malmö"
+    },
+    {
+      "x": 180,
+      "y": 887,
+      "city": "Göteborg"
+    },
+    {
+      "x": 124,
+      "y": 1691,
+      "city": "Göteborg"
+    },
+    {
+      "x": 180,
+      "y": 1005,
+      "city": "Göteborg"
+    },
+    {
+      "x": 132,
+      "y": 760,
+      "city": "GÖTEBORG"
+    },
+    {
+      "x": 146,
+      "y": 1367,
+      "city": "Göteborg"
+    },
+    {
+      "x": 135,
+      "y": 1424,
+      "city": "Göteborg"
+    },
+    {
+      "x": 145,
+      "y": 0,
+      "city": "Bunkeflostrand"
+    },
+    {
+      "x": 101,
+      "y": 1681,
+      "city": "Göteborg"
+    },
+    {
+      "x": 168,
+      "y": 261,
+      "city": "Göteborg"
+    },
+    {
+      "x": 206,
+      "y": 1088,
+      "city": "Göteborg"
+    },
+    {
+      "x": 211,
+      "y": 1462,
+      "city": "Göteborg"
+    },
+    {
+      "x": 203,
+      "y": 1307,
+      "city": "Göteborg"
+    },
+    {
+      "x": 139,
+      "y": 0,
+      "city": "Bunkeflostrand"
+    },
+    {
+      "x": 95,
+      "y": 1676,
+      "city": "Göteborg"
+    },
+    {
+      "x": 143,
+      "y": 1686,
+      "city": "Göteborg"
+    },
+    {
+      "x": 118,
+      "y": 1707,
+      "city": "Göteborg"
+    },
+    {
+      "x": 125,
+      "y": 1466,
+      "city": "Göteborg"
+    },
+    {
+      "x": 154,
+      "y": 1671,
+      "city": "Göteborg"
+    },
+    {
+      "x": 199,
+      "y": 6,
+      "city": "Limhamn"
+    },
+    {
+      "x": 131,
+      "y": 990,
+      "city": "GÖTEBORG"
+    },
+    {
+      "x": 194,
+      "y": 1271,
+      "city": "Göteborg"
+    },
+    {
+      "x": 196,
+      "y": 871,
+      "city": "Göteborg"
+    },
+    {
+      "x": 160,
+      "y": 1314,
+      "city": "Göteborg"
+    },
+    {
+      "x": 124,
+      "y": 1509,
+      "city": "Göteborg"
+    },
+    {
+      "x": 163,
+      "y": 1558,
+      "city": "Göteborg"
+    },
+    {
+      "x": 194,
+      "y": 19,
+      "city": "Askim"
+    },
+    {
+      "x": 96,
+      "y": 1407,
+      "city": "Västra Frölunda"
+    },
+    {
+      "x": 167,
+      "y": 0,
+      "city": "Malmö"
+    },
+    {
+      "x": 115,
+      "y": 2205,
+      "city": "HÄGERSTEN"
+    },
+    {
+      "x": 213,
+      "y": 169,
+      "city": "Göteborg"
+    },
+    {
+      "x": 196,
+      "y": 1698,
+      "city": "GÖTEBORG"
+    },
+    {
+      "x": 179,
+      "y": 387,
+      "city": "Göteborg"
+    },
+    {
+      "x": 165,
+      "y": 1005,
+      "city": "Göteborg"
+    },
+    {
+      "x": 95,
+      "y": 1690,
+      "city": "Göteborg"
+    },
+    {
+      "x": 167,
+      "y": 1244,
+      "city": "Göteborg"
+    },
+    {
+      "x": 156,
+      "y": 491,
+      "city": "Malmö"
+    },
+    {
+      "x": 159,
+      "y": 1697,
+      "city": "Göteborg "
+    },
+    {
+      "x": 157,
+      "y": 1520,
+      "city": "Göteborg"
+    },
+    {
+      "x": 137,
+      "y": 1694,
+      "city": "Göteborg"
+    },
+    {
+      "x": 142,
+      "y": 1551,
+      "city": "Göteborg"
+    },
+    {
+      "x": 161,
+      "y": 1695,
+      "city": "Göteborg"
+    },
+    {
+      "x": 156,
+      "y": 0,
+      "city": "Bunkeflostrand"
+    },
+    {
+      "x": 113,
+      "y": 1804,
+      "city": "Göteborg"
+    },
+    {
+      "x": 144,
+      "y": 1127,
+      "city": "Västra frölunda"
+    },
+    {
+      "x": 129,
+      "y": 1703,
+      "city": "Göteborg"
+    },
+    {
+      "x": 188,
+      "y": 992,
+      "city": "Göteborg"
+    },
+    {
+      "x": 167,
+      "y": 1804,
+      "city": "Göteborg"
+    },
+    {
+      "x": 146,
+      "y": 1712,
+      "city": "Göteborg"
+    },
+    {
+      "x": 238,
+      "y": 0,
+      "city": "Limhamn"
+    },
+    {
+      "x": 152,
+      "y": 0,
+      "city": "Bunkeflostrand"
+    },
+    {
+      "x": 110,
+      "y": 1118,
+      "city": "Malmö"
+    },
+    {
+      "x": 105,
+      "y": 706,
+      "city": "Malmö"
+    },
+    {
+      "x": 161,
+      "y": 1692,
+      "city": "Göteborg"
+    },
+    {
+      "x": 197,
+      "y": 700,
+      "city": "Göteborg"
+    },
+    {
+      "x": 203,
+      "y": 0,
+      "city": "Limhamn"
+    },
+    {
+      "x": 143,
+      "y": 1707,
+      "city": "Göteborg"
+    },
+    {
+      "x": 148,
+      "y": 1565,
+      "city": "Hässelby"
+    },
+    {
+      "x": 122,
+      "y": 1220,
+      "city": "Kållered"
+    },
+    {
+      "x": 227,
+      "y": 1154,
+      "city": "Göteborg"
+    },
+    {
+      "x": 156,
+      "y": 1730,
+      "city": "Göteborg"
+    },
+    {
+      "x": 111,
+      "y": 1218,
+      "city": "Kållered"
+    },
+    {
+      "x": 137,
+      "y": 1697,
+      "city": "Göteborg"
+    },
+    {
+      "x": 151,
+      "y": 0,
+      "city": "Bunkeflostrand"
+    },
+    {
+      "x": 153,
+      "y": 1717,
+      "city": "Göteborg"
+    },
+    {
+      "x": 237,
+      "y": 1176,
+      "city": "Göteborg"
+    },
+    {
+      "x": 155,
+      "y": 1695,
+      "city": "Göteborg"
+    },
+    {
+      "x": 177,
+      "y": 1771,
+      "city": "Göteborg"
+    },
+    {
+      "x": 157,
+      "y": 469,
+      "city": "Göteborg"
+    },
+    {
+      "x": 185,
+      "y": 1555,
+      "city": "Göteborg"
+    },
+    {
+      "x": 185,
+      "y": 631,
+      "city": "Göteborg"
+    },
+    {
+      "x": 144,
+      "y": 1018,
+      "city": "Västra frölunda"
+    },
+    {
+      "x": 156,
+      "y": 1218,
+      "city": "Hisings Backa"
+    },
+    {
+      "x": 169,
+      "y": 1324,
+      "city": "Göteborg"
+    },
+    {
+      "x": 159,
+      "y": 870,
+      "city": "Göteborg"
+    },
+    {
+      "x": 192,
+      "y": 1767,
+      "city": "Bandhagen"
+    },
+    {
+      "x": 144,
+      "y": 1608,
+      "city": "Göteborg"
+    },
+    {
+      "x": 98,
+      "y": 1806,
+      "city": "Göteborg"
+    },
+    {
+      "x": 151,
+      "y": 1707,
+      "city": "Göteborg"
+    },
+    {
+      "x": 246,
+      "y": 456,
+      "city": "Stockholm"
+    },
+    {
+      "x": 174,
+      "y": 1517,
+      "city": "Göteborg"
+    },
+    {
+      "x": 190,
+      "y": 1725,
+      "city": "Göteborg"
+    },
+    {
+      "x": 146,
+      "y": 1681,
+      "city": "Mölndal"
+    },
+    {
+      "x": 137,
+      "y": 1724,
+      "city": "Göteborg"
+    },
+    {
+      "x": 185,
+      "y": 1256,
+      "city": "Göteborg"
+    },
+    {
+      "x": 173,
+      "y": 1534,
+      "city": "Göteborg"
+    },
+    {
+      "x": 109,
+      "y": 1827,
+      "city": "Göteborg"
+    },
+    {
+      "x": 148,
+      "y": 1119,
+      "city": "Göteborg"
+    },
+    {
+      "x": 151,
+      "y": 1057,
+      "city": "Göteborg"
+    },
+    {
+      "x": 155,
+      "y": 1731,
+      "city": "Göteborg"
+    },
+    {
+      "x": 105,
+      "y": 1417,
+      "city": "Göteborg"
+    },
+    {
+      "x": 244,
+      "y": 123,
+      "city": "Stockholm"
+    },
+    {
+      "x": 136,
+      "y": 1191,
+      "city": "Göteborg"
+    },
+    {
+      "x": 199,
+      "y": 15,
+      "city": "Limhamn"
+    },
+    {
+      "x": 166,
+      "y": 393,
+      "city": "Limhamn"
+    },
+    {
+      "x": 105,
+      "y": 1722,
+      "city": "Mölndal"
+    },
+    {
+      "x": 150,
+      "y": 1758,
+      "city": "Göteborg"
+    },
+    {
+      "x": 147,
+      "y": 0,
+      "city": "Bunkeflostrand"
+    },
+    {
+      "x": 162,
+      "y": 1185,
+      "city": "Malmö"
+    },
+    {
+      "x": 151,
+      "y": 0,
+      "city": "Malmö"
+    },
+    {
+      "x": 146,
+      "y": 0,
+      "city": "Bunkeflostrand"
+    },
+    {
+      "x": 94,
+      "y": 1702,
+      "city": "Västra Frölunda "
+    },
+    {
+      "x": 155,
+      "y": 1065,
+      "city": "Västra Frölunda "
+    },
+    {
+      "x": 149,
+      "y": 1745,
+      "city": "Göteborg"
+    },
+    {
+      "x": 119,
+      "y": 1104,
+      "city": "Kållered"
+    },
+    {
+      "x": 187,
+      "y": 1376,
+      "city": "Göteborg"
+    },
+    {
+      "x": 189,
+      "y": 1609,
+      "city": "Göteborg"
+    },
+    {
+      "x": 95,
+      "y": 1760,
+      "city": "Göteborg"
+    },
+    {
+      "x": 162,
+      "y": 0,
+      "city": "Limhamn"
+    },
+    {
+      "x": 190,
+      "y": 22,
+      "city": "Malmö"
+    },
+    {
+      "x": 174,
+      "y": 1233,
+      "city": "Göteborg"
+    },
+    {
+      "x": 166,
+      "y": 1571,
+      "city": "Göteborg"
+    },
+    {
+      "x": 187,
+      "y": 1116,
+      "city": "Göteborg"
+    },
+    {
+      "x": 209,
+      "y": 1156,
+      "city": "Göteborg"
+    },
+    {
+      "x": 175,
+      "y": 951,
+      "city": "Göteborg"
+    },
+    {
+      "x": 283,
+      "y": 773,
+      "city": "Spånga"
+    },
+    {
+      "x": 166,
+      "y": 1736,
+      "city": "Göteborg"
+    },
+    {
+      "x": 207,
+      "y": 1488,
+      "city": "Göteborg"
+    },
+    {
+      "x": 135,
+      "y": 1651,
+      "city": "Göteborg"
+    },
+    {
+      "x": 160,
+      "y": 1739,
+      "city": "Göteborg"
+    },
+    {
+      "x": 98,
+      "y": 1568,
+      "city": "Göteborg"
+    },
+    {
+      "x": 150,
+      "y": 1586,
+      "city": "Göteborg"
+    },
+    {
+      "x": 121,
+      "y": 1645,
+      "city": "Göteborg"
+    },
+    {
+      "x": 104,
+      "y": 0,
+      "city": "Malmö"
+    },
+    {
+      "x": 116,
+      "y": 1711,
+      "city": "Västra Frölunda"
+    },
+    {
+      "x": 196,
+      "y": 0,
+      "city": "Limhamn"
+    },
+    {
+      "x": 102,
+      "y": 1654,
+      "city": "Göteborg"
+    },
+    {
+      "x": 191,
+      "y": 1360,
+      "city": "Göteborg"
+    },
+    {
+      "x": 168,
+      "y": 1522,
+      "city": "Göteborg"
+    },
+    {
+      "x": 155,
+      "y": 771,
+      "city": "Göteborg"
+    },
+    {
+      "x": 123,
+      "y": 1,
+      "city": "Linköping"
+    },
+    {
+      "x": 129,
+      "y": 0,
+      "city": "Göteborg"
+    },
+    {
+      "x": 120,
+      "y": 1846,
+      "city": "Göteborg"
+    },
+    {
+      "x": 167,
+      "y": 1530,
+      "city": "Göteborg"
+    },
+    {
+      "x": 290,
+      "y": 0,
+      "city": "Malmö"
+    },
+    {
+      "x": 147,
+      "y": 1833,
+      "city": "Göteborg"
+    },
+    {
+      "x": 123,
+      "y": 1604,
+      "city": "Malmö"
+    },
+    {
+      "x": 148,
+      "y": 1621,
+      "city": "Göteborg"
+    },
+    {
+      "x": 144,
+      "y": 1612,
+      "city": "Göteborg"
+    },
+    {
+      "x": 115,
+      "y": 1362,
+      "city": "Kållered"
+    },
+    {
+      "x": 177,
+      "y": 695,
+      "city": "Göteborg"
+    },
+    {
+      "x": 152,
+      "y": 1084,
+      "city": "Göteborg"
+    },
+    {
+      "x": 139,
+      "y": 1587,
+      "city": "Göteborg"
+    },
+    {
+      "x": 172,
+      "y": 270,
+      "city": "Limhamn"
+    },
+    {
+      "x": 184,
+      "y": 1075,
+      "city": "Göteborg"
+    },
+    {
+      "x": 137,
+      "y": 1614,
+      "city": "Göteborg"
+    },
+    {
+      "x": 244,
+      "y": 589,
+      "city": "Stockholm"
+    },
+    {
+      "x": 121,
+      "y": 1461,
+      "city": "Västra Frölunda"
+    },
+    {
+      "x": 173,
+      "y": 1766,
+      "city": "Göteborg"
+    },
+    {
+      "x": 226,
+      "y": 1520,
+      "city": "Göteborg"
+    },
+    {
+      "x": 171,
+      "y": 413,
+      "city": "Göteborg"
+    },
+    {
+      "x": 167,
+      "y": 1753,
+      "city": "Göteborg"
+    },
+    {
+      "x": 128,
+      "y": 820,
+      "city": "Göteborg"
+    },
+    {
+      "x": 159,
+      "y": 1772,
+      "city": "Göteborg"
+    },
+    {
+      "x": 118,
+      "y": 1354,
+      "city": "Bandhagen"
+    },
+    {
+      "x": 191,
+      "y": 1477,
+      "city": "Göteborg"
+    },
+    {
+      "x": 165,
+      "y": 1666,
+      "city": "Göteborg"
+    },
+    {
+      "x": 149,
+      "y": 1772,
+      "city": "Göteborg"
+    },
+    {
+      "x": 149,
+      "y": 1772,
+      "city": "Göteborg"
+    },
+    {
+      "x": 177,
+      "y": 21,
+      "city": "Malmö"
+    },
+    {
+      "x": 106,
+      "y": 1670,
+      "city": "Göteborg"
+    },
+    {
+      "x": 144,
+      "y": 1919,
+      "city": "Bandhagen"
+    },
+    {
+      "x": 165,
+      "y": 121,
+      "city": "Malmö"
+    },
+    {
+      "x": 211,
+      "y": 0,
+      "city": "Limhamn"
+    },
+    {
+      "x": 142,
+      "y": 1795,
+      "city": "Bandhagen"
+    },
+    {
+      "x": 195,
+      "y": 561,
+      "city": "Göteborg"
+    },
+    {
+      "x": 119,
+      "y": 1768,
+      "city": "Göteborg"
+    },
+    {
+      "x": 182,
+      "y": 465,
+      "city": "Göteborg"
+    },
+    {
+      "x": 145,
+      "y": 1496,
+      "city": "Göteborg"
+    },
+    {
+      "x": 133,
+      "y": 77,
+      "city": "Göteborg"
+    },
+    {
+      "x": 171,
+      "y": 1770,
+      "city": "Göteborg"
+    },
+    {
+      "x": 162,
+      "y": 919,
+      "city": "Kållered"
+    },
+    {
+      "x": 138,
+      "y": 1765,
+      "city": "Göteborg"
+    },
+    {
+      "x": 146,
+      "y": 300,
+      "city": "Malmö"
+    },
+    {
+      "x": 144,
+      "y": 1769,
+      "city": "Göteborg"
+    },
+    {
+      "x": 161,
+      "y": 1752,
+      "city": "Göteborg"
+    },
+    {
+      "x": 122,
+      "y": 1770,
+      "city": "Göteborg"
+    },
+    {
+      "x": 149,
+      "y": 753,
+      "city": "Göteborg"
+    },
+    {
+      "x": 157,
+      "y": 1862,
+      "city": "Göteborg"
+    },
+    {
+      "x": 137,
+      "y": 1785,
+      "city": "Göteborg"
+    },
+    {
+      "x": 198,
+      "y": 251,
+      "city": "Göteborg"
+    },
+    {
+      "x": 99,
+      "y": 1772,
+      "city": "Göteborg"
+    },
+    {
+      "x": 226,
+      "y": 1353,
+      "city": "Göteborg"
+    },
+    {
+      "x": 124,
+      "y": 1592,
+      "city": "Göteborg"
+    },
+    {
+      "x": 96,
+      "y": 1435,
+      "city": "Göteborg"
+    },
+    {
+      "x": 196,
+      "y": 0,
+      "city": "Limhamn"
+    },
+    {
+      "x": 131,
+      "y": 1312,
+      "city": "Västra Frölunda"
+    },
+    {
+      "x": 197,
+      "y": 1779,
+      "city": "Göteborg"
+    },
+    {
+      "x": 131,
+      "y": 865,
+      "city": "GÖTEBORG"
+    },
+    {
+      "x": 218,
+      "y": 1185,
+      "city": "Göteborg"
+    },
+    {
+      "x": 135,
+      "y": 1783,
+      "city": "Göteborg"
+    },
+    {
+      "x": 204,
+      "y": 84,
+      "city": "Malmö"
+    },
+    {
+      "x": 199,
+      "y": 0,
+      "city": "Limhamn"
+    },
+    {
+      "x": 130,
+      "y": 1291,
+      "city": "Bandhagen"
+    },
+    {
+      "x": 123,
+      "y": 1834,
+      "city": "Bandhagen"
+    },
+    {
+      "x": 162,
+      "y": 1786,
+      "city": "Göteborg"
+    },
+    {
+      "x": 156,
+      "y": 1784,
+      "city": "Göteborg"
+    },
+    {
+      "x": 120,
+      "y": 1566,
+      "city": "Hisings Backa"
+    },
+    {
+      "x": 153,
+      "y": 1709,
+      "city": "Göteborg"
+    },
+    {
+      "x": 188,
+      "y": 820,
+      "city": "Göteborg"
+    },
+    {
+      "x": 204,
+      "y": 1429,
+      "city": "Göteborg"
+    },
+    {
+      "x": 169,
+      "y": 1656,
+      "city": "Göteborg"
+    },
+    {
+      "x": 121,
+      "y": 1588,
+      "city": "Göteborg"
+    },
+    {
+      "x": 174,
+      "y": 499,
+      "city": "Malmö"
+    },
+    {
+      "x": 144,
+      "y": 1469,
+      "city": "Göteborg"
+    },
+    {
+      "x": 177,
+      "y": 1410,
+      "city": "Bandhagen"
+    },
+    {
+      "x": 207,
+      "y": 1288,
+      "city": "Göteborg"
+    },
+    {
+      "x": 209,
+      "y": 474,
+      "city": "Kållered"
+    },
+    {
+      "x": 163,
+      "y": 790,
+      "city": "Göteborg"
+    },
+    {
+      "x": 168,
+      "y": 0,
+      "city": "Göteborg"
+    },
+    {
+      "x": 174,
+      "y": 1783,
+      "city": "Göteborg"
+    },
+    {
+      "x": 133,
+      "y": 1124,
+      "city": "Göteborg"
+    },
+    {
+      "x": 141,
+      "y": 1766,
+      "city": "Bandhagen"
+    },
+    {
+      "x": 137,
+      "y": 1793,
+      "city": "Göteborg"
+    },
+    {
+      "x": 171,
+      "y": 1661,
+      "city": "Göteborg"
+    },
+    {
+      "x": 181,
+      "y": 1354,
+      "city": "GÖTEBORG"
+    },
+    {
+      "x": 190,
+      "y": 1798,
+      "city": "GÖTEBORG"
+    },
+    {
+      "x": 105,
+      "y": 1551,
+      "city": "Göteborg"
+    },
+    {
+      "x": 142,
+      "y": 1270,
+      "city": "Malmö"
+    },
+    {
+      "x": 99,
+      "y": 1156,
+      "city": "Göteborg"
+    },
+    {
+      "x": 140,
+      "y": 1800,
+      "city": "Göteborg"
+    },
+    {
+      "x": 185,
+      "y": 640,
+      "city": "Göteborg"
+    },
+    {
+      "x": 155,
+      "y": 2430,
+      "city": "Stockholm"
+    },
+    {
+      "x": 119,
+      "y": 1826,
+      "city": "Göteborg"
+    },
+    {
+      "x": 137,
+      "y": 1070,
+      "city": "Göteborg"
+    },
+    {
+      "x": 198,
+      "y": 1135,
+      "city": "Göteborg"
+    },
+    {
+      "x": 140,
+      "y": 0,
+      "city": "Göteborg"
+    },
+    {
+      "x": 135,
+      "y": 942,
+      "city": "Malmö"
+    },
+    {
+      "x": 177,
+      "y": 970,
+      "city": "Kållered"
+    },
+    {
+      "x": 244,
+      "y": 499,
+      "city": "Stockholm"
+    },
+    {
+      "x": 142,
+      "y": 18,
+      "city": "Göteborg"
+    },
+    {
+      "x": 139,
+      "y": 0,
+      "city": "Göteborg"
+    },
+    {
+      "x": 146,
+      "y": 1777,
+      "city": "Mölndal"
+    },
+    {
+      "x": 168,
+      "y": 1144,
+      "city": "Göteborg"
+    },
+    {
+      "x": 148,
+      "y": 762,
+      "city": "Jonsered"
+    },
+    {
+      "x": 283,
+      "y": 315,
+      "city": "Spånga"
+    },
+    {
+      "x": 130,
+      "y": 1569,
+      "city": "Göteborg"
+    },
+    {
+      "x": 180,
+      "y": 1812,
+      "city": "Göteborg"
+    },
+    {
+      "x": 130,
+      "y": 1874,
+      "city": "Göteborg"
+    },
+    {
+      "x": 139,
+      "y": 1391,
+      "city": "Göteborg"
+    },
+    {
+      "x": 225,
+      "y": 1565,
+      "city": "Göteborg"
+    },
+    {
+      "x": 129,
+      "y": 1555,
+      "city": "Göteborg"
+    },
+    {
+      "x": 147,
+      "y": 0,
+      "city": "Malmö"
+    },
+    {
+      "x": 126,
+      "y": 1829,
+      "city": "Göteborg"
+    },
+    {
+      "x": 171,
+      "y": 493,
+      "city": "Malmö"
+    },
+    {
+      "x": 222,
+      "y": 1069,
+      "city": "Göteborg"
+    },
+    {
+      "x": 194,
+      "y": 724,
+      "city": "Malmö"
+    },
+    {
+      "x": 143,
+      "y": 1058,
+      "city": "Hisings Backa"
+    },
+    {
+      "x": 131,
+      "y": 0,
+      "city": "Limhamn"
+    },
+    {
+      "x": 152,
+      "y": 382,
+      "city": "Limhamn"
+    },
+    {
+      "x": 163,
+      "y": 1731,
+      "city": "Göteborg"
+    },
+    {
+      "x": 235,
+      "y": 393,
+      "city": "Stockholm"
+    },
+    {
+      "x": 118,
+      "y": 1708,
+      "city": "Göteborg"
+    },
+    {
+      "x": 131,
+      "y": 1234,
+      "city": "Göteborg"
+    },
+    {
+      "x": 140,
+      "y": 39,
+      "city": "Bunkeflostrand"
+    },
+    {
+      "x": 138,
+      "y": 1796,
+      "city": "Göteborg"
+    },
+    {
+      "x": 253,
+      "y": 732,
+      "city": "Göteborg"
+    },
+    {
+      "x": 177,
+      "y": 306,
+      "city": "Göteborg"
+    },
+    {
+      "x": 104,
+      "y": 1442,
+      "city": "Göteborg"
+    },
+    {
+      "x": 129,
+      "y": 1881,
+      "city": "Skarpnäck"
+    },
+    {
+      "x": 132,
+      "y": 1303,
+      "city": "Västra Frölunda"
+    },
+    {
+      "x": 134,
+      "y": 1534,
+      "city": "Stockholm"
+    },
+    {
+      "x": 195,
+      "y": 466,
+      "city": "Göteborg"
+    },
+    {
+      "x": 148,
+      "y": 1250,
+      "city": "Stockholm"
+    },
+    {
+      "x": 96,
+      "y": 1839,
+      "city": "Göteborg"
+    },
+    {
+      "x": 170,
+      "y": 1839,
+      "city": "GÖTEBORG"
+    },
+    {
+      "x": 138,
+      "y": 1838,
+      "city": "Göteborg"
+    },
+    {
+      "x": 98,
+      "y": 1324,
+      "city": "Göteborg"
+    },
+    {
+      "x": 173,
+      "y": 1836,
+      "city": "Göteborg"
+    },
+    {
+      "x": 126,
+      "y": 1840,
+      "city": "Göteborg"
+    },
+    {
+      "x": 139,
+      "y": 1847,
+      "city": "Göteborg"
+    },
+    {
+      "x": 154,
+      "y": 1837,
+      "city": "Göteborg"
+    },
+    {
+      "x": 188,
+      "y": 1780,
+      "city": "Göteborg"
+    },
+    {
+      "x": 219,
+      "y": 638,
+      "city": "Göteborg"
+    },
+    {
+      "x": 124,
+      "y": 1459,
+      "city": "Göteborg"
+    },
+    {
+      "x": 137,
+      "y": 1265,
+      "city": "Västra Frölunda"
+    },
+    {
+      "x": 219,
+      "y": 0,
+      "city": "Limhamn"
+    },
+    {
+      "x": 186,
+      "y": 0,
+      "city": "Göteborg"
+    },
+    {
+      "x": 188,
+      "y": 1015,
+      "city": "Göteborg"
+    },
+    {
+      "x": 138,
+      "y": 1806,
+      "city": "Bandhagen"
+    },
+    {
+      "x": 105,
+      "y": 1900,
+      "city": "Göteborg"
+    },
+    {
+      "x": 202,
+      "y": 2,
+      "city": "Malmö"
+    },
+    {
+      "x": 114,
+      "y": 1871,
+      "city": "Göteborg"
+    },
+    {
+      "x": 170,
+      "y": 1283,
+      "city": "Göteborg"
+    },
+    {
+      "x": 121,
+      "y": 1887,
+      "city": "Göteborg"
+    },
+    {
+      "x": 228,
+      "y": 457,
+      "city": "Askim"
+    },
+    {
+      "x": 193,
+      "y": 844,
+      "city": "Göteborg"
+    },
+    {
+      "x": 84,
+      "y": 1854,
+      "city": "Jonsered"
+    },
+    {
+      "x": 123,
+      "y": 2402,
+      "city": "Bandhagen"
+    },
+    {
+      "x": 177,
+      "y": 1859,
+      "city": "Göteborg"
+    },
+    {
+      "x": 106,
+      "y": 722,
+      "city": "Göteborg"
+    },
+    {
+      "x": 174,
+      "y": 774,
+      "city": "Göteborg"
+    },
+    {
+      "x": 141,
+      "y": 394,
+      "city": "Bunkeflostrand"
+    },
+    {
+      "x": 173,
+      "y": 1,
+      "city": "Linköping"
+    },
+    {
+      "x": 228,
+      "y": 7,
+      "city": "Askim"
+    },
+    {
+      "x": 127,
+      "y": 273,
+      "city": "Malmö"
+    },
+    {
+      "x": 144,
+      "y": 1533,
+      "city": "Västra frölunda"
+    },
+    {
+      "x": 139,
+      "y": 1142,
+      "city": "Stockholm"
+    },
+    {
+      "x": 193,
+      "y": 4,
+      "city": "Linköping"
+    },
+    {
+      "x": 173,
+      "y": 20,
+      "city": "Linköping"
+    },
+    {
+      "x": 162,
+      "y": 4,
+      "city": "Linköping"
+    },
+    {
+      "x": 168,
+      "y": 1380,
+      "city": "Göteborg"
+    },
+    {
+      "x": 147,
+      "y": 1451,
+      "city": "Mölndal"
+    },
+    {
+      "x": 197,
+      "y": 34,
+      "city": "Limhamn"
+    },
+    {
+      "x": 121,
+      "y": 1853,
+      "city": "Göteborg"
+    },
+    {
+      "x": 128,
+      "y": 552,
+      "city": "Göteborg"
+    },
+    {
+      "x": 113,
+      "y": 1815,
+      "city": "Göteborg"
+    },
+    {
+      "x": 133,
+      "y": 1229,
+      "city": "Västra Frölunda"
+    },
+    {
+      "x": 152,
+      "y": 1864,
+      "city": "Göteborg"
+    },
+    {
+      "x": 203,
+      "y": 766,
+      "city": "Göteborg"
+    },
+    {
+      "x": 176,
+      "y": 1861,
+      "city": "Göteborg"
+    },
+    {
+      "x": 242,
+      "y": 1551,
+      "city": "Göteborg"
+    },
+    {
+      "x": 155,
+      "y": 2046,
+      "city": "Göteborg"
+    },
+    {
+      "x": 157,
+      "y": 1868,
+      "city": "Göteborg"
+    },
+    {
+      "x": 193,
+      "y": 26,
+      "city": "Göteborg"
+    },
+    {
+      "x": 146,
+      "y": 1487,
+      "city": "Göteborg"
+    },
+    {
+      "x": 82,
+      "y": 1806,
+      "city": "Västra Frölunda"
+    },
+    {
+      "x": 147,
+      "y": 854,
+      "city": "Malmö"
+    },
+    {
+      "x": 134,
+      "y": 1999,
+      "city": "Bandhagen"
+    },
+    {
+      "x": 176,
+      "y": 1731,
+      "city": "Göteborg"
+    },
+    {
+      "x": 179,
+      "y": 593,
+      "city": "Linköping"
+    },
+    {
+      "x": 150,
+      "y": 925,
+      "city": "Göteborg"
+    },
+    {
+      "x": 220,
+      "y": 731,
+      "city": "Stockholm"
+    },
+    {
+      "x": 169,
+      "y": 1968,
+      "city": "Göteborg"
+    },
+    {
+      "x": 128,
+      "y": 1912,
+      "city": "Bandhagen"
+    },
+    {
+      "x": 142,
+      "y": 1719,
+      "city": "Göteborg"
+    },
+    {
+      "x": 202,
+      "y": 1512,
+      "city": "Göteborg"
+    },
+    {
+      "x": 154,
+      "y": 7,
+      "city": "Bunkeflostrand"
+    },
+    {
+      "x": 143,
+      "y": 1197,
+      "city": "Malmö"
+    },
+    {
+      "x": 242,
+      "y": 713,
+      "city": "Spånga"
+    },
+    {
+      "x": 150,
+      "y": 1747,
+      "city": "Västra Frölunda "
+    },
+    {
+      "x": 134,
+      "y": 597,
+      "city": "Göteborg"
+    },
+    {
+      "x": 167,
+      "y": 1512,
+      "city": "Mölndal"
+    },
+    {
+      "x": 119,
+      "y": 845,
+      "city": "Malmö"
+    },
+    {
+      "x": 125,
+      "y": 442,
+      "city": "Malmö"
+    },
+    {
+      "x": 122,
+      "y": 1287,
+      "city": "Malmö"
+    },
+    {
+      "x": 179,
+      "y": 1903,
+      "city": "Göteborg"
+    },
+    {
+      "x": 142,
+      "y": 1077,
+      "city": "Göteborg"
+    },
+    {
+      "x": 207,
+      "y": 1308,
+      "city": "GÖTEBORG"
+    },
+    {
+      "x": 146,
+      "y": 1889,
+      "city": "Göteborg"
+    },
+    {
+      "x": 150,
+      "y": 1886,
+      "city": "Göteborg"
+    },
+    {
+      "x": 142,
+      "y": 7,
+      "city": "Malmö"
+    },
+    {
+      "x": 190,
+      "y": 23,
+      "city": "Linköping"
+    },
+    {
+      "x": 134,
+      "y": 1547,
+      "city": "Västra Frölunda"
+    },
+    {
+      "x": 147,
+      "y": 761,
+      "city": "Göteborg"
+    },
+    {
+      "x": 189,
+      "y": 422,
+      "city": "Göteborg"
+    },
+    {
+      "x": 120,
+      "y": 2006,
+      "city": "Bandhagen"
+    },
+    {
+      "x": 91,
+      "y": 1912,
+      "city": "Göteborg"
+    },
+    {
+      "x": 114,
+      "y": 1951,
+      "city": "Göteborg"
+    },
+    {
+      "x": 190,
+      "y": 1855,
+      "city": "Göteborg"
+    },
+    {
+      "x": 155,
+      "y": 1065,
+      "city": "Västra Frölunda "
+    },
+    {
+      "x": 163,
+      "y": 810,
+      "city": "Göteborg"
+    },
+    {
+      "x": 146,
+      "y": 841,
+      "city": "Västra frölunda"
+    },
+    {
+      "x": 138,
+      "y": 2188,
+      "city": "Bandhagen"
+    },
+    {
+      "x": 178,
+      "y": 1512,
+      "city": "Bandhagen"
+    },
+    {
+      "x": 169,
+      "y": 277,
+      "city": "Linköping"
+    },
+    {
+      "x": 146,
+      "y": 819,
+      "city": "Göteborg"
+    },
+    {
+      "x": 147,
+      "y": 1924,
+      "city": "Göteborg"
+    },
+    {
+      "x": 120,
+      "y": 1583,
+      "city": "GÖTEBORG"
+    },
+    {
+      "x": 122,
+      "y": 1351,
+      "city": "Hisings Backa"
+    },
+    {
+      "x": 121,
+      "y": 1855,
+      "city": "Göteborg"
+    },
+    {
+      "x": 153,
+      "y": 1013,
+      "city": "Göteborg"
+    },
+    {
+      "x": 120,
+      "y": 1898,
+      "city": "Göteborg"
+    },
+    {
+      "x": 115,
+      "y": 1236,
+      "city": "Kållered"
+    },
+    {
+      "x": 95,
+      "y": 1607,
+      "city": "Västra Frölunda"
+    },
+    {
+      "x": 142,
+      "y": 1234,
+      "city": "Hisings Backa"
+    },
+    {
+      "x": 118,
+      "y": 1334,
+      "city": "Kållered"
+    },
+    {
+      "x": 197,
+      "y": 1068,
+      "city": "Göteborg"
+    },
+    {
+      "x": 179,
+      "y": 1408,
+      "city": "Göteborg"
+    },
+    {
+      "x": 136,
+      "y": 569,
+      "city": "Linköping"
+    },
+    {
+      "x": 183,
+      "y": 1597,
+      "city": "Göteborg"
+    },
+    {
+      "x": 163,
+      "y": 1905,
+      "city": "Göteborg"
+    },
+    {
+      "x": 144,
+      "y": 992,
+      "city": "Västra frölunda"
+    },
+    {
+      "x": 261,
+      "y": 258,
+      "city": "Stockholm"
+    },
+    {
+      "x": 177,
+      "y": 1484,
+      "city": "Mölndal"
+    },
+    {
+      "x": 142,
+      "y": 1187,
+      "city": "Göteborg"
+    },
+    {
+      "x": 164,
+      "y": 16,
+      "city": "Linköping"
+    },
+    {
+      "x": 104,
+      "y": 282,
+      "city": "Linköping"
+    },
+    {
+      "x": 144,
+      "y": 620,
+      "city": "Lund"
+    },
+    {
+      "x": 245,
+      "y": 495,
+      "city": "Stockholm"
+    },
+    {
+      "x": 134,
+      "y": 264,
+      "city": "Göteborg"
+    },
+    {
+      "x": 217,
+      "y": 1905,
+      "city": "Stockholm"
+    },
+    {
+      "x": 181,
+      "y": 1917,
+      "city": "Göteborg"
+    },
+    {
+      "x": 213,
+      "y": 1657,
+      "city": "BROMMA"
+    },
+    {
+      "x": 124,
+      "y": 339,
+      "city": "Malmö"
+    },
+    {
+      "x": 172,
+      "y": 70,
+      "city": "Linköping"
+    },
+    {
+      "x": 153,
+      "y": 1912,
+      "city": "Göteborg"
+    },
+    {
+      "x": 114,
+      "y": 38,
+      "city": "Linköping"
+    },
+    {
+      "x": 243,
+      "y": 678,
+      "city": "Göteborg"
+    },
+    {
+      "x": 135,
+      "y": 1002,
+      "city": "Lund"
+    },
+    {
+      "x": 142,
+      "y": 1240,
+      "city": "Linköping"
+    },
+    {
+      "x": 133,
+      "y": 615,
+      "city": "Linköping"
+    },
+    {
+      "x": 105,
+      "y": 1501,
+      "city": "Göteborg"
+    },
+    {
+      "x": 84,
+      "y": 123,
+      "city": "Linköping"
+    },
+    {
+      "x": 244,
+      "y": 80,
+      "city": "Stockholm"
+    },
+    {
+      "x": 171,
+      "y": 1818,
+      "city": "Mölndal"
+    },
+    {
+      "x": 149,
+      "y": 1955,
+      "city": "Bandhagen"
+    },
+    {
+      "x": 146,
+      "y": 2032,
+      "city": "Stockholm"
+    },
+    {
+      "x": 186,
+      "y": 230,
+      "city": "Malmö"
+    },
+    {
+      "x": 146,
+      "y": 1647,
+      "city": "Göteborg"
+    },
+    {
+      "x": 168,
+      "y": 1911,
+      "city": "Bandhagen"
+    },
+    {
+      "x": 136,
+      "y": 1808,
+      "city": "Bandhagen"
+    },
+    {
+      "x": 119,
+      "y": 1788,
+      "city": "Göteborg"
+    },
+    {
+      "x": 166,
+      "y": 1131,
+      "city": "Lund"
+    },
+    {
+      "x": 86,
+      "y": 15,
+      "city": "Linköping"
+    },
+    {
+      "x": 140,
+      "y": 1951,
+      "city": "Bandhagen"
+    },
+    {
+      "x": 230,
+      "y": 1074,
+      "city": "Göteborg"
+    },
+    {
+      "x": 108,
+      "y": 25,
+      "city": "Linköping"
+    },
+    {
+      "x": 269,
+      "y": 430,
+      "city": "Göteborg"
+    },
+    {
+      "x": 88,
+      "y": 1,
+      "city": "Linköping"
+    },
+    {
+      "x": 166,
+      "y": 1,
+      "city": "Linköping"
+    },
+    {
+      "x": 153,
+      "y": 1159,
+      "city": "Malmö"
+    },
+    {
+      "x": 110,
+      "y": 1338,
+      "city": "Göteborg"
+    },
+    {
+      "x": 149,
+      "y": 1850,
+      "city": "Göteborg"
+    },
+    {
+      "x": 206,
+      "y": 11,
+      "city": "Linköping"
+    },
+    {
+      "x": 124,
+      "y": 1928,
+      "city": "Göteborg"
+    },
+    {
+      "x": 135,
+      "y": 14,
+      "city": "Malmö"
+    },
+    {
+      "x": 117,
+      "y": 1829,
+      "city": "Västra Frölunda"
+    },
+    {
+      "x": 152,
+      "y": 1381,
+      "city": "Göteborg"
+    },
+    {
+      "x": 162,
+      "y": 1925,
+      "city": "Göteborg"
+    },
+    {
+      "x": 193,
+      "y": 1862,
+      "city": "Göteborg"
+    },
+    {
+      "x": 154,
+      "y": 1935,
+      "city": "Göteborg"
+    },
+    {
+      "x": 195,
+      "y": 733,
+      "city": "Malmö"
+    },
+    {
+      "x": 109,
+      "y": 1840,
+      "city": "Västra Frölunda"
+    },
+    {
+      "x": 104,
+      "y": 19,
+      "city": "Linköping"
+    },
+    {
+      "x": 170,
+      "y": 76,
+      "city": "Limhamn"
+    },
+    {
+      "x": 154,
+      "y": 1822,
+      "city": "Stockholm"
+    },
+    {
+      "x": 242,
+      "y": 715,
+      "city": "Spånga"
+    },
+    {
+      "x": 210,
+      "y": 330,
+      "city": "Malmö"
+    },
+    {
+      "x": 149,
+      "y": 639,
+      "city": "Linköping"
+    },
+    {
+      "x": 115,
+      "y": 1,
+      "city": "Linköping"
+    },
+    {
+      "x": 159,
+      "y": 954,
+      "city": "Göteborg"
+    },
+    {
+      "x": 228,
+      "y": 807,
+      "city": "MÖLNDAL"
+    },
+    {
+      "x": 100,
+      "y": 1990,
+      "city": "Göteborg"
+    },
+    {
+      "x": 211,
+      "y": 293,
+      "city": "Malmö"
+    },
+    {
+      "x": 187,
+      "y": 1310,
+      "city": "Göteborg"
+    },
+    {
+      "x": 150,
+      "y": 279,
+      "city": "Linköping"
+    },
+    {
+      "x": 110,
+      "y": 1116,
+      "city": "Linköping"
+    },
+    {
+      "x": 100,
+      "y": 437,
+      "city": "Malmö"
+    },
+    {
+      "x": 148,
+      "y": 1339,
+      "city": "Göteborg"
+    },
+    {
+      "x": 145,
+      "y": 985,
+      "city": "Göteborg"
+    },
+    {
+      "x": 194,
+      "y": 397,
+      "city": "Partille"
+    },
+    {
+      "x": 122,
+      "y": 0,
+      "city": "Linköping"
+    },
+    {
+      "x": 149,
+      "y": 880,
+      "city": "Västra Frölunda"
+    },
+    {
+      "x": 169,
+      "y": 4,
+      "city": "Lund"
+    },
+    {
+      "x": 318,
+      "y": 3,
+      "city": "Hässelby"
+    },
+    {
+      "x": 135,
+      "y": 3,
+      "city": "Linköping"
+    },
+    {
+      "x": 138,
+      "y": 1659,
+      "city": "Stockholm"
+    },
+    {
+      "x": 200,
+      "y": 1138,
+      "city": "Göteborg"
+    },
+    {
+      "x": 145,
+      "y": 1876,
+      "city": "Bandhagen"
+    },
+    {
+      "x": 182,
+      "y": 1742,
+      "city": "Göteborg"
+    },
+    {
+      "x": 119,
+      "y": 662,
+      "city": "Västra Frölunda"
+    },
+    {
+      "x": 318,
+      "y": 22,
+      "city": "Hässelby"
+    },
+    {
+      "x": 134,
+      "y": 1823,
+      "city": "Bandhagen"
+    },
+    {
+      "x": 173,
+      "y": 579,
+      "city": "Linköping"
+    },
+    {
+      "x": 129,
+      "y": 1577,
+      "city": "Västra Frölunda"
+    },
+    {
+      "x": 162,
+      "y": 1400,
+      "city": "Göteborg"
+    },
+    {
+      "x": 140,
+      "y": 285,
+      "city": "Linköping"
+    },
+    {
+      "x": 114,
+      "y": 28,
+      "city": "Linköping"
+    },
+    {
+      "x": 105,
+      "y": 2296,
+      "city": "Linköping"
+    },
+    {
+      "x": 154,
+      "y": 1948,
+      "city": "Göteborg"
+    },
+    {
+      "x": 157,
+      "y": 12,
+      "city": "Bunkeflostrand"
+    },
+    {
+      "x": 142,
+      "y": 1306,
+      "city": "Partille"
+    },
+    {
+      "x": 225,
+      "y": 1335,
+      "city": "Göteborg"
+    },
+    {
+      "x": 145,
+      "y": 968,
+      "city": "Göteborg"
+    },
+    {
+      "x": 263,
+      "y": 1961,
+      "city": "Göteborg"
+    },
+    {
+      "x": 156,
+      "y": 633,
+      "city": "Bunkeflostrand"
+    },
+    {
+      "x": 142,
+      "y": 15,
+      "city": "Linköping"
+    },
+    {
+      "x": 318,
+      "y": 22,
+      "city": "Hässelby"
+    },
+    {
+      "x": 163,
+      "y": 0,
+      "city": "Bunkeflostrand"
+    },
+    {
+      "x": 180,
+      "y": 1942,
+      "city": "Göteborg"
+    },
+    {
+      "x": 125,
+      "y": 1333,
+      "city": "Göteborg"
+    },
+    {
+      "x": 121,
+      "y": 1960,
+      "city": "Göteborg"
+    },
+    {
+      "x": 133,
+      "y": 17,
+      "city": "Linköping"
+    },
+    {
+      "x": 152,
+      "y": 12,
+      "city": "Malmö"
+    },
+    {
+      "x": 224,
+      "y": 299,
+      "city": "Malmö"
+    },
+    {
+      "x": 177,
+      "y": 9,
+      "city": "Malmö"
+    },
+    {
+      "x": 134,
+      "y": 1181,
+      "city": "Stockholm "
+    },
+    {
+      "x": 188,
+      "y": 1423,
+      "city": "Göteborg"
+    },
+    {
+      "x": 133,
+      "y": 1,
+      "city": "Linköping"
+    },
+    {
+      "x": 140,
+      "y": 1955,
+      "city": "Bandhagen"
+    },
+    {
+      "x": 103,
+      "y": 1974,
+      "city": "Hässelby"
+    },
+    {
+      "x": 141,
+      "y": 1440,
+      "city": "Göteborg"
+    },
+    {
+      "x": 157,
+      "y": 25,
+      "city": "Linköping"
+    },
+    {
+      "x": 272,
+      "y": 504,
+      "city": "Hässelby"
+    },
+    {
+      "x": 112,
+      "y": 501,
+      "city": "Linköping"
+    },
+    {
+      "x": 99,
+      "y": 1507,
+      "city": "Göteborg"
+    },
+    {
+      "x": 179,
+      "y": 1818,
+      "city": "Göteborg"
+    },
+    {
+      "x": 142,
+      "y": 0,
+      "city": "Bunkeflostrand"
+    },
+    {
+      "x": 154,
+      "y": 19,
+      "city": "Linköping"
+    },
+    {
+      "x": 317,
+      "y": 7,
+      "city": "Skärholmen"
+    },
+    {
+      "x": 128,
+      "y": 1516,
+      "city": "Göteborg"
+    },
+    {
+      "x": 149,
+      "y": 1968,
+      "city": "Göteborg"
+    },
+    {
+      "x": 209,
+      "y": 1085,
+      "city": "Askim"
+    },
+    {
+      "x": 164,
+      "y": 1952,
+      "city": "Göteborg"
+    },
+    {
+      "x": 120,
+      "y": 1640,
+      "city": "Hisings Backa"
+    },
+    {
+      "x": 321,
+      "y": 71,
+      "city": "Spånga"
+    },
+    {
+      "x": 321,
+      "y": 9,
+      "city": "Spånga"
+    },
+    {
+      "x": 309,
+      "y": 13,
+      "city": "Skärholmen"
+    },
+    {
+      "x": 144,
+      "y": 1340,
+      "city": "Västra frölunda"
+    },
+    {
+      "x": 162,
+      "y": 81,
+      "city": "Malmö"
+    },
+    {
+      "x": 134,
+      "y": 461,
+      "city": "Göteborg"
+    },
+    {
+      "x": 163,
+      "y": 1,
+      "city": "Göteborg"
+    },
+    {
+      "x": 187,
+      "y": 1591,
+      "city": "Göteborg"
+    },
+    {
+      "x": 112,
+      "y": 1348,
+      "city": "Göteborg"
+    },
+    {
+      "x": 150,
+      "y": 1159,
+      "city": "Lund"
+    },
+    {
+      "x": 151,
+      "y": 614,
+      "city": "Kållered"
+    },
+    {
+      "x": 160,
+      "y": 1737,
+      "city": "Göteborg"
+    },
+    {
+      "x": 133,
+      "y": 1987,
+      "city": "Bromma"
+    },
+    {
+      "x": 154,
+      "y": 167,
+      "city": "Uppsala"
+    },
+    {
+      "x": 189,
+      "y": 1086,
+      "city": "Göteborg"
+    },
+    {
+      "x": 143,
+      "y": 1615,
+      "city": "Malmö"
+    },
+    {
+      "x": 161,
+      "y": 2044,
+      "city": "Göteborg "
+    },
+    {
+      "x": 350,
+      "y": 0,
+      "city": "Spånga"
+    },
+    {
+      "x": 310,
+      "y": 0,
+      "city": "Spånga"
+    },
+    {
+      "x": 149,
+      "y": 1338,
+      "city": "Göteborg"
+    },
+    {
+      "x": 139,
+      "y": 1973,
+      "city": "Göteborg"
+    },
+    {
+      "x": 184,
+      "y": 42,
+      "city": "Bunkeflostrand"
+    },
+    {
+      "x": 177,
+      "y": 1940,
+      "city": "Göteborg"
+    },
+    {
+      "x": 190,
+      "y": 0,
+      "city": "Göteborg"
+    },
+    {
+      "x": 163,
+      "y": 1932,
+      "city": "Göteborg"
+    },
+    {
+      "x": 149,
+      "y": 859,
+      "city": "Malmö"
+    },
+    {
+      "x": 155,
+      "y": 1939,
+      "city": "Göteborg"
+    },
+    {
+      "x": 136,
+      "y": 1088,
+      "city": "Göteborg"
+    },
+    {
+      "x": 160,
+      "y": 38,
+      "city": "Bunkeflostrand"
+    },
+    {
+      "x": 208,
+      "y": 9,
+      "city": "Lund"
+    },
+    {
+      "x": 160,
+      "y": 1,
+      "city": "Malmö"
+    },
+    {
+      "x": 144,
+      "y": 1297,
+      "city": "Göteborg"
+    },
+    {
+      "x": 155,
+      "y": 17,
+      "city": "Bunkeflostrand"
+    },
+    {
+      "x": 151,
+      "y": 658,
+      "city": "Lund"
+    },
+    {
+      "x": 179,
+      "y": 61,
+      "city": "Linköping"
+    },
+    {
+      "x": 152,
+      "y": 1879,
+      "city": "Göteborg"
+    },
+    {
+      "x": 151,
+      "y": 1196,
+      "city": "Malmö"
+    },
+    {
+      "x": 197,
+      "y": 35,
+      "city": "Uppsala"
+    },
+    {
+      "x": 200,
+      "y": 1107,
+      "city": "Göteborg"
+    },
+    {
+      "x": 140,
+      "y": 2015,
+      "city": "Göteborg"
+    },
+    {
+      "x": 219,
+      "y": 1548,
+      "city": "Göteborg"
+    },
+    {
+      "x": 210,
+      "y": 33,
+      "city": "MÖLNDAL"
+    },
+    {
+      "x": 306,
+      "y": 453,
+      "city": "Göteborg"
+    },
+    {
+      "x": 201,
+      "y": 14,
+      "city": "Stockholm"
+    },
+    {
+      "x": 117,
+      "y": 1835,
+      "city": "Mölndal"
+    },
+    {
+      "x": 149,
+      "y": 261,
+      "city": "Bunkeflostrand"
+    },
+    {
+      "x": 121,
+      "y": 1502,
+      "city": "Västra Frölunda"
+    },
+    {
+      "x": 208,
+      "y": 1600,
+      "city": "Göteborg"
+    },
+    {
+      "x": 134,
+      "y": 723,
+      "city": "Göteborg"
+    },
+    {
+      "x": 134,
+      "y": 2005,
+      "city": "Göteborg"
+    },
+    {
+      "x": 252,
+      "y": 34,
+      "city": "Askim"
+    },
+    {
+      "x": 127,
+      "y": 867,
+      "city": "Malmö"
+    },
+    {
+      "x": 175,
+      "y": 260,
+      "city": "Limhamn"
+    },
+    {
+      "x": 166,
+      "y": 1790,
+      "city": "Stockholm"
+    },
+    {
+      "x": 127,
+      "y": 1846,
+      "city": "Västra Frölunda"
+    },
+    {
+      "x": 186,
+      "y": 1853,
+      "city": "Bandhagen"
+    },
+    {
+      "x": 129,
+      "y": 1915,
+      "city": "Bandhagen"
+    },
+    {
+      "x": 168,
+      "y": 1923,
+      "city": "Göteborg"
+    },
+    {
+      "x": 188,
+      "y": 490,
+      "city": "Göteborg"
+    },
+    {
+      "x": 189,
+      "y": 75,
+      "city": "Limhamn"
+    },
+    {
+      "x": 205,
+      "y": 38,
+      "city": "Malmö"
+    },
+    {
+      "x": 157,
+      "y": 198,
+      "city": "Göteborg"
+    },
+    {
+      "x": 149,
+      "y": 1106,
+      "city": "Göteborg"
+    },
+    {
+      "x": 164,
+      "y": 1984,
+      "city": "Göteborg"
+    },
+    {
+      "x": 166,
+      "y": 1983,
+      "city": "Göteborg"
+    },
+    {
+      "x": 221,
+      "y": 1458,
+      "city": "Göteborg"
+    },
+    {
+      "x": 88,
+      "y": 65,
+      "city": "Linköping"
+    },
+    {
+      "x": 156,
+      "y": 905,
+      "city": "Malmö"
+    },
+    {
+      "x": 150,
+      "y": 529,
+      "city": "Lund"
+    },
+    {
+      "x": 136,
+      "y": 1206,
+      "city": "Göteborg"
+    },
+    {
+      "x": 139,
+      "y": 880,
+      "city": "Linköping"
+    },
+    {
+      "x": 137,
+      "y": 1995,
+      "city": "Göteborg"
+    },
+    {
+      "x": 101,
+      "y": 2044,
+      "city": "Göteborg"
+    },
+    {
+      "x": 117,
+      "y": 482,
+      "city": "Göteborg"
+    },
+    {
+      "x": 144,
+      "y": 2003,
+      "city": "Göteborg"
+    },
+    {
+      "x": 148,
+      "y": 1994,
+      "city": "Göteborg"
+    },
+    {
+      "x": 131,
+      "y": 54,
+      "city": "Göteborg"
+    },
+    {
+      "x": 146,
+      "y": 1251,
+      "city": "Göteborg"
+    },
+    {
+      "x": 133,
+      "y": 1180,
+      "city": "Linköping"
+    },
+    {
+      "x": 94,
+      "y": 0,
+      "city": "Linköping"
+    },
+    {
+      "x": 109,
+      "y": 15,
+      "city": "Linköping"
+    },
+    {
+      "x": 95,
+      "y": 240,
+      "city": "Linköping"
+    },
+    {
+      "x": 168,
+      "y": 1987,
+      "city": "Göteborg"
+    },
+    {
+      "x": 165,
+      "y": 1826,
+      "city": "Göteborg"
+    },
+    {
+      "x": 207,
+      "y": 1261,
+      "city": "Lund"
+    },
+    {
+      "x": 162,
+      "y": 52,
+      "city": "Limhamn"
+    },
+    {
+      "x": 232,
+      "y": 76,
+      "city": "Hässelby"
+    },
+    {
+      "x": 163,
+      "y": 1961,
+      "city": "Göteborg"
+    },
+    {
+      "x": 166,
+      "y": 59,
+      "city": "Linköping"
+    },
+    {
+      "x": 218,
+      "y": 3,
+      "city": "Malmö"
+    },
+    {
+      "x": 167,
+      "y": 550,
+      "city": "GÖTEBORG"
+    },
+    {
+      "x": 150,
+      "y": 1539,
+      "city": "Göteborg"
+    },
+    {
+      "x": 184,
+      "y": 8,
+      "city": "Lund"
+    },
+    {
+      "x": 174,
+      "y": 1740,
+      "city": "Göteborg"
+    },
+    {
+      "x": 127,
+      "y": 1996,
+      "city": "Göteborg"
+    },
+    {
+      "x": 266,
+      "y": 138,
+      "city": "Hässelby"
+    },
+    {
+      "x": 110,
+      "y": 862,
+      "city": "Göteborg"
+    },
+    {
+      "x": 131,
+      "y": 1,
+      "city": "Linköping"
+    },
+    {
+      "x": 105,
+      "y": 1379,
+      "city": "Göteborg"
+    },
+    {
+      "x": 182,
+      "y": 848,
+      "city": "Göteborg"
+    },
+    {
+      "x": 92,
+      "y": 5,
+      "city": "Linköping"
+    },
+    {
+      "x": 183,
+      "y": 49,
+      "city": "Angered"
+    },
+    {
+      "x": 170,
+      "y": 1484,
+      "city": "Göteborg"
+    },
+    {
+      "x": 193,
+      "y": 423,
+      "city": "Göteborg"
+    },
+    {
+      "x": 221,
+      "y": 1578,
+      "city": "Göteborg"
+    },
+    {
+      "x": 185,
+      "y": 1823,
+      "city": "Göteborg"
+    },
+    {
+      "x": 193,
+      "y": 114,
+      "city": "Linköping"
+    },
+    {
+      "x": 142,
+      "y": 18,
+      "city": "Malmö"
+    },
+    {
+      "x": 186,
+      "y": 176,
+      "city": "Askim"
+    },
+    {
+      "x": 217,
+      "y": 437,
+      "city": "Göteborg "
+    },
+    {
+      "x": 154,
+      "y": 670,
+      "city": "Kållered"
+    },
+    {
+      "x": 151,
+      "y": 731,
+      "city": "Västra frölunda"
+    },
+    {
+      "x": 276,
+      "y": 566,
+      "city": "Stockholm"
+    },
+    {
+      "x": 275,
+      "y": 504,
+      "city": "Spånga"
+    },
+    {
+      "x": 195,
+      "y": 10,
+      "city": "Linköping"
+    },
+    {
+      "x": 146,
+      "y": 8,
+      "city": "Malmö"
+    },
+    {
+      "x": 160,
+      "y": 1071,
+      "city": "Lund"
+    },
+    {
+      "x": 221,
+      "y": 1714,
+      "city": "Göteborg"
+    },
+    {
+      "x": 137,
+      "y": 1259,
+      "city": "Partille"
+    },
+    {
+      "x": 101,
+      "y": 1800,
+      "city": "Göteborg"
+    },
+    {
+      "x": 154,
+      "y": 31,
+      "city": "Linköping"
+    },
+    {
+      "x": 92,
+      "y": 2042,
+      "city": "Västra Frölunda"
+    },
+    {
+      "x": 87,
+      "y": 2101,
+      "city": "Göteborg"
+    },
+    {
+      "x": 163,
+      "y": 935,
+      "city": "GÖTEBORG"
+    },
+    {
+      "x": 171,
+      "y": 859,
+      "city": "Malmö"
+    },
+    {
+      "x": 142,
+      "y": 1966,
+      "city": "Mölndal"
+    },
+    {
+      "x": 207,
+      "y": 666,
+      "city": "Göteborg"
+    },
+    {
+      "x": 148,
+      "y": 1724,
+      "city": "Göteborg"
+    },
+    {
+      "x": 133,
+      "y": 552,
+      "city": "Göteborg"
+    },
+    {
+      "x": 165,
+      "y": 474,
+      "city": "Göteborg"
+    },
+    {
+      "x": 132,
+      "y": 26,
+      "city": "Linköping"
+    },
+    {
+      "x": 201,
+      "y": 7,
+      "city": "Linköping"
+    },
+    {
+      "x": 159,
+      "y": 975,
+      "city": "Göteborg"
+    },
+    {
+      "x": 143,
+      "y": 1108,
+      "city": "Göteborg"
+    },
+    {
+      "x": 189,
+      "y": 1018,
+      "city": "Malmö"
+    },
+    {
+      "x": 183,
+      "y": 1593,
+      "city": "Göteborg"
+    },
+    {
+      "x": 179,
+      "y": 12,
+      "city": "Malmö"
+    },
+    {
+      "x": 184,
+      "y": 1933,
+      "city": "Göteborg"
+    },
+    {
+      "x": 101,
+      "y": 1504,
+      "city": "Göteborg"
+    },
+    {
+      "x": 130,
+      "y": 4,
+      "city": "Malmö"
+    },
+    {
+      "x": 161,
+      "y": 49,
+      "city": "Malmö"
+    },
+    {
+      "x": 122,
+      "y": 1735,
+      "city": "Västra Frölunda"
+    },
+    {
+      "x": 163,
+      "y": 1788,
+      "city": "Göteborg"
+    },
+    {
+      "x": 186,
+      "y": 769,
+      "city": "Malmö"
+    },
+    {
+      "x": 157,
+      "y": 2017,
+      "city": "Göteborg"
+    },
+    {
+      "x": 101,
+      "y": 1861,
+      "city": "Göteborg"
+    },
+    {
+      "x": 136,
+      "y": 1371,
+      "city": "Göteborg"
+    },
+    {
+      "x": 156,
+      "y": 175,
+      "city": "Bunkeflostrand"
+    },
+    {
+      "x": 113,
+      "y": 3,
+      "city": "Linköping"
+    },
+    {
+      "x": 99,
+      "y": 534,
+      "city": "Göteborg"
+    },
+    {
+      "x": 178,
+      "y": 1093,
+      "city": "Malmö"
+    },
+    {
+      "x": 235,
+      "y": 19,
+      "city": "Stockholm"
+    },
+    {
+      "x": 166,
+      "y": 297,
+      "city": "Dalby"
+    },
+    {
+      "x": 166,
+      "y": 1792,
+      "city": "GÖTEBORG"
+    },
+    {
+      "x": 157,
+      "y": 32,
+      "city": "Bunkeflostrand"
+    },
+    {
+      "x": 93,
+      "y": 231,
+      "city": "Linköping"
+    },
+    {
+      "x": 179,
+      "y": 218,
+      "city": "Linköping"
+    },
+    {
+      "x": 133,
+      "y": 2037,
+      "city": "Göteborg"
+    },
+    {
+      "x": 173,
+      "y": 342,
+      "city": "Lund"
+    },
+    {
+      "x": 124,
+      "y": 701,
+      "city": "Bunkeflostrand"
+    },
+    {
+      "x": 131,
+      "y": 7,
+      "city": "Linköping"
+    },
+    {
+      "x": 237,
+      "y": 618,
+      "city": "Uppsala"
+    },
+    {
+      "x": 180,
+      "y": 7,
+      "city": "Linköping"
+    },
+    {
+      "x": 108,
+      "y": 16,
+      "city": "Linköping"
+    },
+    {
+      "x": 112,
+      "y": 17,
+      "city": "Linköping"
+    },
+    {
+      "x": 167,
+      "y": 679,
+      "city": "Göteborg "
+    },
+    {
+      "x": 168,
+      "y": 971,
+      "city": "Malmö"
+    },
+    {
+      "x": 111,
+      "y": 3,
+      "city": "Linköping"
+    },
+    {
+      "x": 189,
+      "y": 303,
+      "city": "Linköping"
+    },
+    {
+      "x": 124,
+      "y": 728,
+      "city": "Göteborg"
+    },
+    {
+      "x": 151,
+      "y": 9,
+      "city": "Linghem"
+    },
+    {
+      "x": 199,
+      "y": 0,
+      "city": "Limhamn"
+    },
+    {
+      "x": 140,
+      "y": 1624,
+      "city": "Partille"
+    },
+    {
+      "x": 180,
+      "y": 1805,
+      "city": "Göteborg"
+    },
+    {
+      "x": 235,
+      "y": 1479,
+      "city": "Göteborg"
+    },
+    {
+      "x": 113,
+      "y": 1272,
+      "city": "Göteborg"
+    },
+    {
+      "x": 259,
+      "y": 424,
+      "city": "Västra Frölunda"
+    },
+    {
+      "x": 150,
+      "y": 1239,
+      "city": "Göteborg"
+    },
+    {
+      "x": 147,
+      "y": 585,
+      "city": "Partille"
+    },
+    {
+      "x": 168,
+      "y": 2126,
+      "city": "Göteborg"
+    },
+    {
+      "x": 107,
+      "y": 2049,
+      "city": "Göteborg"
+    },
+    {
+      "x": 133,
+      "y": 1206,
+      "city": "Västra Frölunda"
+    },
+    {
+      "x": 139,
+      "y": 1462,
+      "city": "Linköping"
+    },
+    {
+      "x": 211,
+      "y": 6,
+      "city": "Lund"
+    },
+    {
+      "x": 185,
+      "y": 2,
+      "city": "Malmö"
+    },
+    {
+      "x": 135,
+      "y": 1,
+      "city": "Linköping"
+    },
+    {
+      "x": 101,
+      "y": 30,
+      "city": "Göteborg"
+    },
+    {
+      "x": 168,
+      "y": 22,
+      "city": "Linköping"
+    },
+    {
+      "x": 143,
+      "y": 2156,
+      "city": "Bandhagen"
+    },
+    {
+      "x": 129,
+      "y": 1367,
+      "city": "Sturefors"
+    },
+    {
+      "x": 204,
+      "y": 1126,
+      "city": "Göteborg"
+    },
+    {
+      "x": 235,
+      "y": 277,
+      "city": "Stockholm"
+    },
+    {
+      "x": 149,
+      "y": 1499,
+      "city": "Göteborg"
+    },
+    {
+      "x": 123,
+      "y": 705,
+      "city": "Göteborg"
+    },
+    {
+      "x": 96,
+      "y": 1547,
+      "city": "Göteborg"
+    },
+    {
+      "x": 132,
+      "y": 1299,
+      "city": "Västra Frölunda"
+    },
+    {
+      "x": 110,
+      "y": 2006,
+      "city": "Göteborg"
+    },
+    {
+      "x": 118,
+      "y": 2052,
+      "city": "Göteborg"
+    },
+    {
+      "x": 165,
+      "y": 11,
+      "city": "Linköping"
+    },
+    {
+      "x": 131,
+      "y": 25,
+      "city": "Göteborg"
+    },
+    {
+      "x": 113,
+      "y": 304,
+      "city": "Linköping"
+    },
+    {
+      "x": 148,
+      "y": 603,
+      "city": "Partille"
+    },
+    {
+      "x": 183,
+      "y": 0,
+      "city": "Linköping"
+    },
+    {
+      "x": 225,
+      "y": 1467,
+      "city": "Göteborg"
+    },
+    {
+      "x": 162,
+      "y": 1100,
+      "city": "Göteborg"
+    },
+    {
+      "x": 135,
+      "y": 938,
+      "city": "Göteborg"
+    },
+    {
+      "x": 153,
+      "y": 1967,
+      "city": "Göteborg"
+    },
+    {
+      "x": 159,
+      "y": 2030,
+      "city": "Göteborg"
+    },
+    {
+      "x": 243,
+      "y": 78,
+      "city": "Askim"
+    },
+    {
+      "x": 153,
+      "y": 1050,
+      "city": "Göteborg"
+    },
+    {
+      "x": 136,
+      "y": 918,
+      "city": "Göteborg"
+    },
+    {
+      "x": 204,
+      "y": 954,
+      "city": "Göteborg"
+    },
+    {
+      "x": 131,
+      "y": 2050,
+      "city": "Göteborg"
+    },
+    {
+      "x": 144,
+      "y": 196,
+      "city": "Linghem"
+    },
+    {
+      "x": 178,
+      "y": 0,
+      "city": "Göteborg"
+    }
+  ]
+}

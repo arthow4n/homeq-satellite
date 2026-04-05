@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HomeQ Satellite - Analytics</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        h1, h2 {
+            text-align: center;
+        }
+        .nav {
+            margin-bottom: 20px;
+        }
+        .chart-container {
+            width: 100%;
+            max-width: 900px;
+            margin: 40px auto;
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        }
+        .stats {
+            text-align: center;
+            margin-bottom: 30px;
+            font-size: 1.1em;
+            color: #666;
+        }
+        canvas {
+            max-width: 100%;
+        }
+    </style>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+
+    <div class="nav">
+        <a href="index.html">&larr; Back to Search Results</a>
+    </div>
+
+    <h1>HomeQ Historical Analytics</h1>
+    <div class="stats" id="lastUpdated">Loading data...</div>
+
+    <div class="chart-container">
+        <h2>Average Queue Points over Time</h2>
+        <p style="text-align: center; color: #666; font-size: 0.9em;">(Median queue points required by month of publication)</p>
+        <canvas id="timeChart"></canvas>
+    </div>
+
+    <div class="chart-container">
+        <h2>Queue Points by City</h2>
+        <p style="text-align: center; color: #666; font-size: 0.9em;">(Median queue points required in cities with >50 listings)</p>
+        <canvas id="cityChart"></canvas>
+    </div>
+
+    <div class="chart-container">
+        <h2>Queue Points by Apartment Size (ROK)</h2>
+        <p style="text-align: center; color: #666; font-size: 0.9em;">(Median queue points required by number of rooms)</p>
+        <canvas id="rokChart"></canvas>
+    </div>
+
+    <div class="chart-container">
+        <h2>Rent per m² vs. Queue Points</h2>
+        <p style="text-align: center; color: #666; font-size: 0.9em;">(Scatter plot of a 10% sample of all historical listings)</p>
+        <canvas id="scatterChart"></canvas>
+    </div>
+
+    <script>
+        // Set default Chart.js styling
+        Chart.defaults.font.family = '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif';
+        Chart.defaults.color = '#555';
+
+        fetch('analytics-data.json')
+            .then(res => res.json())
+            .then(data => {
+                const updatedDate = new Date(data.lastUpdated).toLocaleString();
+                document.getElementById('lastUpdated').innerText = `Data last generated: ${updatedDate}`;
+
+                renderTimeChart(data.queuePointsOverTime);
+                renderCityChart(data.queuePointsByCity);
+                renderRokChart(data.queuePointsByROK);
+                renderScatterChart(data.rentPerM2VsQueuePoints);
+            })
+            .catch(err => {
+                console.error("Error loading analytics data:", err);
+                document.getElementById('lastUpdated').innerText = 'Error loading data. Make sure analytics-data.json is generated.';
+            });
+
+        function renderTimeChart(timeData) {
+            // Sort by month
+            const labels = Object.keys(timeData).sort();
+            const medianData = labels.map(label => timeData[label].median);
+            const averageData = labels.map(label => timeData[label].average);
+
+            new Chart(document.getElementById('timeChart'), {
+                type: 'line',
+                data: {
+                    labels: labels,
+                    datasets: [
+                        {
+                            label: 'Median Queue Points',
+                            data: medianData,
+                            borderColor: '#3b82f6',
+                            backgroundColor: 'rgba(59, 130, 246, 0.1)',
+                            fill: true,
+                            tension: 0.2
+                        },
+                        {
+                            label: 'Average Queue Points',
+                            data: averageData,
+                            borderColor: '#10b981',
+                            backgroundColor: 'transparent',
+                            borderDash: [5, 5],
+                            tension: 0.2
+                        }
+                    ]
+                },
+                options: {
+                    responsive: true,
+                    scales: {
+                        y: {
+                            beginAtZero: true,
+                            title: { display: true, text: 'Queue Points (Days)' }
+                        },
+                        x: {
+                            title: { display: true, text: 'Month Published' }
+                        }
+                    }
+                }
+            });
+        }
+
+        function renderCityChart(cityData) {
+            // Sort cities by median queue points descending
+            const cities = Object.keys(cityData).sort((a, b) => cityData[b].median - cityData[a].median);
+            const medianData = cities.map(city => cityData[city].median);
+
+            // Limit to top 25 cities for readability
+            const topCities = cities.slice(0, 25);
+            const topMedianData = topCities.map(city => cityData[city].median);
+
+            new Chart(document.getElementById('cityChart'), {
+                type: 'bar',
+                data: {
+                    labels: topCities.map(c => c.charAt(0).toUpperCase() + c.slice(1)), // Capitalize
+                    datasets: [{
+                        label: 'Median Queue Points',
+                        data: topMedianData,
+                        backgroundColor: '#6366f1',
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    scales: {
+                        y: {
+                            beginAtZero: true,
+                            title: { display: true, text: 'Queue Points (Days)' }
+                        }
+                    }
+                }
+            });
+        }
+
+        function renderRokChart(rokData) {
+            // Filter realistic ROK values and sort
+            const labels = Object.keys(rokData)
+                .map(Number)
+                .filter(rok => rok >= 1 && rok <= 6)
+                .sort((a, b) => a - b);
+
+            const medianData = labels.map(rok => rokData[rok].median);
+
+            new Chart(document.getElementById('rokChart'), {
+                type: 'bar',
+                data: {
+                    labels: labels.map(rok => `${rok} ROK`),
+                    datasets: [{
+                        label: 'Median Queue Points',
+                        data: medianData,
+                        backgroundColor: '#ec4899',
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    scales: {
+                        y: {
+                            beginAtZero: true,
+                            title: { display: true, text: 'Queue Points (Days)' }
+                        }
+                    }
+                }
+            });
+        }
+
+        function renderScatterChart(scatterData) {
+            // Map the data for Chart.js scatter plot
+            const points = scatterData.map(d => ({
+                x: d.y, // Queue points
+                y: d.x  // Rent per m2
+            }));
+
+            new Chart(document.getElementById('scatterChart'), {
+                type: 'scatter',
+                data: {
+                    datasets: [{
+                        label: 'Rent/m² vs Queue Points',
+                        data: points,
+                        backgroundColor: 'rgba(245, 158, 11, 0.5)',
+                        borderColor: 'rgba(245, 158, 11, 0.8)',
+                        borderWidth: 1
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    scales: {
+                        x: {
+                            title: { display: true, text: 'Queue Points (Days)' }
+                        },
+                        y: {
+                            title: { display: true, text: 'Rent per m² (kr)' },
+                            // Set realistic bounds to ignore crazy outliers
+                            min: 0,
+                            max: 4000
+                        }
+                    },
+                    plugins: {
+                        tooltip: {
+                            callbacks: {
+                                label: function(context) {
+                                    return `Queue: ${context.parsed.x} d, Rent: ${context.parsed.y} kr/m²`;
+                                }
+                            }
+                        }
+                    }
+                }
+            });
+        }
+    </script>
+</body>
+</html>

@@ -6,7 +6,8 @@
     "start": "node node/update.mjs",
     "updateLastRecordByIdMapping": "node node/updateLastRecordByIdMapping.mjs",
     "updateQueueDaysInfoByAddress": "node node/updateQueueDaysInfoByAddress.mjs",
-    "restoreLastRecordMapping": "node node/restoreLastRecordMapping.mjs"
+    "restoreLastRecordMapping": "node node/restoreLastRecordMapping.mjs",
+    "generateAnalytics": "node node/generateAnalytics.mjs"
   },
   "license": "MIT",
   "dependencies": {
