@@ -20,6 +20,8 @@ jobs:
         run: npm run updateLastRecordByIdMapping
       - name: Run updateQueueDaysInfoByAddress
         run: npm run updateQueueDaysInfoByAddress
+      - name: Generate Analytics
+        run: npm run generateAnalytics
 
       - name: Commit and push the update
         run: |
