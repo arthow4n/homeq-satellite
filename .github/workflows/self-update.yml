@@ -3,6 +3,10 @@ on:
   schedule:
     - cron: 19 */1 * * *
 
+concurrency:
+  group: "update"
+  cancel-in-progress: false
+
 jobs:
   self-update:
     runs-on: ubuntu-latest
