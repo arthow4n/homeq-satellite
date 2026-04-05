@@ -1,0 +1,311 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Analytics - homeq-satellite</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+      margin: 20px;
+      padding: 0;
+      background-color: #f9f9f9;
+      color: #333;
+    }
+    h1 {
+      margin-top: 0;
+    }
+    a {
+      color: #0066cc;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    .chart-container {
+      width: 100%;
+      max-width: 800px;
+      margin: 20px 0;
+      background: #fff;
+      padding: 20px;
+      border-radius: 8px;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    }
+    .controls {
+      margin-bottom: 20px;
+    }
+    label {
+      font-weight: bold;
+    }
+    select {
+      padding: 5px;
+      font-size: 16px;
+    }
+    #loading {
+      font-size: 1.2em;
+      color: #666;
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>Analytics - homeq-satellite</h1>
+    <p><a href="index.html">&larr; Back to Search Results</a></p>
+
+    <div id="loading">Loading data, this may take a few seconds...</div>
+
+    <div id="content" style="display: none;">
+      <div class="controls">
+        <label for="city-select">Select City: </label>
+        <select id="city-select">
+          <option value="All">All Cities</option>
+        </select>
+      </div>
+
+      <div class="chart-container">
+        <h2>Average Queue Days Over Time</h2>
+        <canvas id="queueDaysChart"></canvas>
+      </div>
+
+      <div class="chart-container">
+        <h2>Average Rent per m² Over Time</h2>
+        <canvas id="rentChart"></canvas>
+      </div>
+
+      <div class="chart-container">
+        <h2>Number of Listings Over Time</h2>
+        <canvas id="listingsChart"></canvas>
+      </div>
+    </div>
+  </main>
+
+  <script>
+    let rawData = [];
+    let queueDaysChartInstance = null;
+    let rentChartInstance = null;
+    let listingsChartInstance = null;
+
+    async function loadData() {
+      try {
+        const response = await fetch("./lastRecordByIdMapping.json");
+        const data = await response.json();
+        const recordsMap = data.lastRecordByIdMapping || {};
+        rawData = Object.values(recordsMap);
+
+        populateCitySelect();
+        updateCharts();
+
+        document.getElementById('loading').style.display = 'none';
+        document.getElementById('content').style.display = 'block';
+      } catch (err) {
+        console.error("Error loading data:", err);
+        document.getElementById('loading').innerText = "Error loading data. Please try again later.";
+      }
+    }
+
+    function getMonthKey(dateString) {
+      if (!dateString) return null;
+      const d = new Date(dateString);
+      if (isNaN(d.getTime())) return null;
+      const year = d.getFullYear();
+      const month = String(d.getMonth() + 1).padStart(2, '0');
+      return `${year}-${month}`;
+    }
+
+    function populateCitySelect() {
+      const cities = new Set();
+      rawData.forEach(r => {
+        const city = r.$object_ad?.municipality || r.$object_ad?.city;
+        if (city) {
+          cities.add(city.charAt(0).toUpperCase() + city.slice(1).toLowerCase());
+        }
+      });
+
+      const citySelect = document.getElementById('city-select');
+      const sortedCities = Array.from(cities).sort();
+      sortedCities.forEach(city => {
+        const option = document.createElement('option');
+        option.value = city;
+        option.text = city;
+        citySelect.appendChild(option);
+      });
+
+      citySelect.addEventListener('change', updateCharts);
+    }
+
+    function processData(cityFilter) {
+      const monthlyData = {};
+
+      rawData.forEach(r => {
+        const rCity = (r.$object_ad?.municipality || r.$object_ad?.city || "").toLowerCase();
+
+        if (cityFilter !== 'All' && rCity !== cityFilter.toLowerCase()) {
+          return;
+        }
+
+        const date = r.$last_seen || r.publish_date || (r.$object_ad && r.$object_ad.date_publish);
+        const monthKey = getMonthKey(date);
+
+        if (!monthKey) return;
+
+        if (!monthlyData[monthKey]) {
+          monthlyData[monthKey] = {
+            totalQueueDays: 0,
+            countQueueDays: 0,
+            totalRentPerSqm: 0,
+            countRentPerSqm: 0,
+            listingsCount: 0
+          };
+        }
+
+        monthlyData[monthKey].listingsCount++;
+
+        const queueDays = r.$object_ad?.last_accept;
+        if (typeof queueDays === 'number' && queueDays > 0) {
+          monthlyData[monthKey].totalQueueDays += queueDays;
+          monthlyData[monthKey].countQueueDays++;
+        }
+
+        const rent = Array.isArray(r.rent) ? Math.min(...r.rent) : r.rent;
+        const area = Array.isArray(r.area) ? Math.min(...r.area) : r.area;
+
+        if (typeof rent === 'number' && typeof area === 'number' && area > 0) {
+          monthlyData[monthKey].totalRentPerSqm += (rent / area);
+          monthlyData[monthKey].countRentPerSqm++;
+        }
+      });
+
+      const sortedMonths = Object.keys(monthlyData).sort();
+
+      const labels = [];
+      const queueDaysAverages = [];
+      const rentPerSqmAverages = [];
+      const listingsCounts = [];
+
+      sortedMonths.forEach(month => {
+        const d = monthlyData[month];
+        labels.push(month);
+
+        queueDaysAverages.push(d.countQueueDays > 0 ? Math.round(d.totalQueueDays / d.countQueueDays) : null);
+        rentPerSqmAverages.push(d.countRentPerSqm > 0 ? Math.round(d.totalRentPerSqm / d.countRentPerSqm) : null);
+        listingsCounts.push(d.listingsCount);
+      });
+
+      return { labels, queueDaysAverages, rentPerSqmAverages, listingsCounts };
+    }
+
+    function updateCharts() {
+      const cityFilter = document.getElementById('city-select').value;
+      const data = processData(cityFilter);
+
+      renderQueueDaysChart(data.labels, data.queueDaysAverages);
+      renderRentChart(data.labels, data.rentPerSqmAverages);
+      renderListingsChart(data.labels, data.listingsCounts);
+    }
+
+    function renderQueueDaysChart(labels, data) {
+      const ctx = document.getElementById('queueDaysChart').getContext('2d');
+      if (queueDaysChartInstance) {
+        queueDaysChartInstance.destroy();
+      }
+      queueDaysChartInstance = new Chart(ctx, {
+        type: 'line',
+        data: {
+          labels: labels,
+          datasets: [{
+            label: 'Average Queue Days',
+            data: data,
+            borderColor: 'rgba(75, 192, 192, 1)',
+            backgroundColor: 'rgba(75, 192, 192, 0.2)',
+            borderWidth: 2,
+            tension: 0.1,
+            spanGaps: true
+          }]
+        },
+        options: {
+          responsive: true,
+          scales: {
+            y: {
+              beginAtZero: true,
+              title: {
+                display: true,
+                text: 'Days'
+              }
+            }
+          }
+        }
+      });
+    }
+
+    function renderRentChart(labels, data) {
+      const ctx = document.getElementById('rentChart').getContext('2d');
+      if (rentChartInstance) {
+        rentChartInstance.destroy();
+      }
+      rentChartInstance = new Chart(ctx, {
+        type: 'line',
+        data: {
+          labels: labels,
+          datasets: [{
+            label: 'Average Rent (kr/m²)',
+            data: data,
+            borderColor: 'rgba(255, 99, 132, 1)',
+            backgroundColor: 'rgba(255, 99, 132, 0.2)',
+            borderWidth: 2,
+            tension: 0.1,
+            spanGaps: true
+          }]
+        },
+        options: {
+          responsive: true,
+          scales: {
+            y: {
+              beginAtZero: true,
+              title: {
+                display: true,
+                text: 'kr / m²'
+              }
+            }
+          }
+        }
+      });
+    }
+
+    function renderListingsChart(labels, data) {
+      const ctx = document.getElementById('listingsChart').getContext('2d');
+      if (listingsChartInstance) {
+        listingsChartInstance.destroy();
+      }
+      listingsChartInstance = new Chart(ctx, {
+        type: 'bar',
+        data: {
+          labels: labels,
+          datasets: [{
+            label: 'Number of Listings',
+            data: data,
+            borderColor: 'rgba(54, 162, 235, 1)',
+            backgroundColor: 'rgba(54, 162, 235, 0.6)',
+            borderWidth: 1
+          }]
+        },
+        options: {
+          responsive: true,
+          scales: {
+            y: {
+              beginAtZero: true,
+              title: {
+                display: true,
+                text: 'Listings'
+              }
+            }
+          }
+        }
+      });
+    }
+
+    // Initialize
+    loadData();
+  </script>
+</body>
+</html>
